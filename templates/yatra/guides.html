@@ -1,0 +1,7 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal travel and trekking guides · Book Nepal Trip{% endblock %}
+{% block description %}Planning, trekking, permits, seasons, food and culture guides for every region of Nepal, written by people who travel there.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Guides</p><h1 class="h-xl">Read before you go</h1><p class="lede">Long, practical guides for each region: permits, seasons, trails, food and the customs that matter.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px">{% for r in regions %}{% if r.guides %}<div data-land="{{ r.slug }}" style="margin-bottom:46px"><h2 class="h-m"><a href="{{ r.url }}" style="color:inherit;text-decoration:none">{{ r.name }}</a></h2><div class="grid grid--4">{% for g in r.guides %}{% include "yatra/partials/card_guide.html" %}{% endfor %}</div></div>{% endif %}{% endfor %}</section>
+{% endblock %}

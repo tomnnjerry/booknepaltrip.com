@@ -1,0 +1,83 @@
+{
+  "slug": "eastern-hills-overland-9n",
+  "title": "Eastern Hills Overland: Ilam to the Arun",
+  "region": "eastern-nepal",
+  "kind": "overland",
+  "nights": 9,
+  "themes": ["villages-and-homestays", "food-and-festivals", "crafts-and-makers", "photography"],
+  "grade": "Easy",
+  "stops": [
+    {"place": "kanyam", "nights": 1},
+    {"place": "ilam", "nights": 2},
+    {"place": "bhedetar", "nights": 1},
+    {"place": "dhankuta", "nights": 1},
+    {"place": "hile", "nights": 1},
+    {"place": "chainpur", "nights": 2},
+    {"place": "tumlingtar", "nights": 1}
+  ],
+  "start": "Kathmandu (morning flight to Bhadrapur)",
+  "end": "Kathmandu (flight from Tumlingtar)",
+  "price_from_usd": 1600,
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2100,
+  "meta_description": "Eastern Nepal overland, 9 nights by private car: Kanyam and Ilam tea, Mai Pokhari, Bhedetar, Dhankuta, Hile tongba, Chainpur brass and the Arun at Tumlingtar.",
+  "summary": "Nine nights across the eastern hills by private car, from the tea gardens of Kanyam and Ilam to the Arun valley at Tumlingtar. Mai Pokhari lake, sunset at Bhedetar, the old bazaar of Dhankuta, tongba in Hile and the brass workshops of Chainpur. Fly in to Bhadrapur, fly out from Tumlingtar, with a licensed guide throughout.",
+  "intro": [
+    "Eastern Nepal is a country of ridges. Between the Mechi river on the Indian border and the Arun valley in the west lie range after range of green hills, cut by the Tamor and its tributaries, farmed in terraces of tea, millet and cardamom and home to Rai, Limbu, Newar, Sherpa, Brahmin and Chhetri communities. Very few foreign travellers cross it by road, and the people you meet are curious, hospitable and generous with their food.",
+    "This journey links the best of it in one line. You start in the tea hills of Ilam, drop to the plains and climb the Koshi Highway past Bhedetar, Dhankuta and Hile, then descend to the Arun and climb again to Chainpur, a hill bazaar famous for its metalworkers. You fly home from Tumlingtar, so there is no backtracking. Drives are three to seven hours on mostly paved roads, with plenty of stops for tea, views and conversation."
+  ],
+  "story": "The trip begins with tea: clipped green slopes at Kanyam, the old estate at Ilam, and a lake in the forest at Mai Pokhari. Then the road swings down to the plains and west, and climbs again from Dharan in hairpins to Bhedetar, where the Terai spreads out below like a map at sunset. The Koshi Highway leads on to Dhankuta's cobbled bazaar and the cool ridge at Hile, where tongba is served in wooden pots. Beyond Hile the road drops into the deep Arun valley, warm enough for mangoes, and climbs to Chainpur, where hammers ring in small workshops making water jugs and pots of brass and copper. The last night is at Tumlingtar, on a terrace above the river that has come all the way from Tibet.",
+  "highlights": [
+    "Sunrise among the tea slopes at Kanyam and a factory visit in Ilam",
+    "Mai Pokhari, a sacred lake and Ramsar wetland in the forest above Ilam",
+    "Sunset over the Terai from the Bhedetar ridge",
+    "Tongba and Kirat food with families in Hile",
+    "The metalworkers of Chainpur and the Arun valley at Tumlingtar"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bhadrapur, drive to Kanyam", "place": "kanyam", "overnight": "Kanyam", "alt_m": 1570, "move": "≈ 50 min flight · ≈ 2–2.5 h drive", "text": "A morning flight from Kathmandu to Bhadrapur in Jhapa, then a drive across the plains past flat CTC tea gardens and rice fields to Charali and up the Mechi Highway. Kanyam is a broad slope of clipped tea bushes at about 1,570 m, loved by Nepali families on day trips. Walk the paths through the rows in the late afternoon, watch the pickers finish their day, and see the mist rise from the plains at dusk. Dinner is simple and home-cooked.", "meals": "Breakfast, Dinner"},
+    {"day": 2, "title": "Kanyam to Ilam bazaar", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 35 km · 1–1.5 h drive", "text": "Sunrise on the tea slopes, then a drive along the ridge past Fikkal to Ilam bazaar. Walk into the Ilam tea estate, the oldest in Nepal, planted in 1863, and visit a small orthodox factory to see leaf withered on racks, rolled, oxidised and dried. In the afternoon, a tasting of first flush, second flush and autumn teas. The bazaar is a pleasant place to wander, with wooden balconies, tea shops and stalls selling chhurpi, round Akabare chillies and local cardamom.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Day trip to Mai Pokhari", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 1.5–2 h drive each way", "text": "We drive north through cardamom and broom grass to Mai Pokhari, a sacred lake at about 2,100 m surrounded by forest and listed as a Ramsar wetland in 2008. Walk the path around the lake, look for birds in the trees and visit the shrine where pilgrims leave red cloth and lamps. Lunch at a local homestay, often with gundruk soup, fresh greens and dal bhat. Back in Ilam for a quiet evening and dinner in the bazaar.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Ilam to Bhedetar via Dharan", "place": "bhedetar", "overnight": "Bhedetar", "alt_m": 1420, "move": "≈ 200 km · 6–7 h drive", "text": "The longest drive of the trip. We descend to the plains and drive west along the East–West Highway through Jhapa and Morang to Itahari, then north to Dharan. In Dharan, visit the Budha Subba shrine, a Kirat place of worship beside a bamboo grove, and walk the busy market, then climb the hairpins to Bhedetar on the ridge. Sunset here is spectacular on clear evenings, with the plains glittering below and the Koshi river shining to the west.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Bhedetar to Dhankuta", "place": "dhankuta", "overnight": "Dhankuta", "alt_m": 1200, "move": "≈ 35 km · 1.5–2 h drive", "text": "After sunrise from the ridge, the Koshi Highway drops to Mulghat on the Tamor river and climbs into Dhankuta, long the administrative centre of eastern Nepal. Walk the cobbled old bazaar, with Newar shopfronts, carved windows and small temples, and continue out to orange orchards and Rai villages on the slopes around town. In winter the oranges are ripe and sold by the roadside. Dinner with local dishes such as kinema, gundruk and sel roti.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Dhankuta to Hile", "place": "hile", "overnight": "Hile", "alt_m": 1850, "move": "≈ 13 km · 30–45 min drive · walks", "text": "A short drive up the ridge to Hile, a cool bazaar where Rai, Limbu, Sherpa and Bhote families live side by side. Spend the day walking the ridge and nearby villages with your guide, visiting a family kitchen to learn how tongba and kinema are made, and sharing a home-cooked lunch. On clear mornings, snow peaks show to the north. In the evening, try tongba in a local bhatti, the warm millet drink that Hile is famous for across Nepal.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Down to the Arun and up to Chainpur", "place": "chainpur", "overnight": "Chainpur", "alt_m": 1300, "move": "≈ 6–7 h drive", "text": "The Koshi Highway continues north from Hile and drops through forest and farmland to the Arun valley at Leguwa, then follows the river up to Tumlingtar and climbs past Khandbari to Chainpur. The landscape changes from cool ridge to hot valley and back again. Chainpur is a hill bazaar of stone-paved lanes and old houses, long known for its metalworkers. Arrive in the afternoon, settle in and take an evening walk through the bazaar.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Chainpur's metalworkers", "place": "chainpur", "overnight": "Chainpur", "alt_m": 1300, "move": "walks", "text": "A day in and around Chainpur. Visit small family workshops where brass and copper are hammered, cast and polished into water jugs, pots and ritual vessels, a craft passed down through generations. Your guide translates, and you can buy directly from the makers. In the afternoon walk out along the ridge to farms and viewpoints over the Arun valley; on clear days the snow peaks of the Makalu range show to the north. Dinner with a local family if arranged.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 9, "title": "Chainpur to Tumlingtar", "place": "tumlingtar", "overnight": "Tumlingtar", "alt_m": 410, "move": "≈ 2–3 h drive", "text": "A short drive back past Khandbari to Tumlingtar, a broad flat terrace above the Arun river at about 410 m. The word tar means a raised river terrace, and this is one of the largest in the hills. In the late afternoon, walk to the edge of the terrace for views over the wide, fast river that rises in Tibet and later joins the Tamor and Sun Koshi to form the Sapta Koshi. Dinner and a last night under warm skies.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 10, "title": "Fly from Tumlingtar to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 45 min flight", "text": "A morning flight from Tumlingtar back to Kathmandu. If the weather is clear, look north for Makalu and the long line of peaks toward Everest. Our driver meets you at Kathmandu airport and takes you to your hotel or onward plans. Flights from Tumlingtar can be delayed by cloud, so we suggest you keep a spare day in Kathmandu before your international flight home. If the flight cannot go, we drive you to Biratnagar instead, a long day on the Koshi Highway.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Bhadrapur and Tumlingtar–Kathmandu flights",
+    "Private car and driver for the whole road journey",
+    "Licensed English-speaking guide throughout",
+    "Nine nights in simple hotels and homestays, twin sharing",
+    "Meals as listed, tea factory visit and tasting, family cooking session and workshop visits",
+    "Kathmandu airport transfers"
+  ],
+  "excludes": [
+    "International flights, Nepal visa fees and travel insurance",
+    "Hotel nights in Kathmandu",
+    "Meals not listed, drinks and shopping",
+    "Tips for guide and driver"
+  ],
+  "good_to_know": [
+    "Stays in the eastern hills are simple, clean hotels and homestays; there are no luxury properties on this route.",
+    "Road times can double in the monsoon because of landslides; check current status before you travel.",
+    "Bhadrapur flights can be delayed by winter fog, and Tumlingtar flights by cloud.",
+    "Carry cash; ATMs are found in Ilam, Dharan, Dhankuta and Khandbari but not in villages.",
+    "The route can be reversed or extended with a night at Sandakpur or Koshi Tappu."
+  ],
+  "faqs": [
+    {"q": "How long are the drives on this trip?", "a": "Most drives are 1–3 hours. The longest is day 4, from Ilam to Bhedetar via the plains, at about 6–7 hours, and day 7, from Hile to Chainpur, at about 6–7 hours. Roads are mostly paved, with some rough sections near Chainpur. We stop often for tea, views and photographs, and drive only in daylight."},
+    {"q": "Why fly in to Bhadrapur and out of Tumlingtar?", "a": "Flying in at the eastern end and out at the western end means you never backtrack. Bhadrapur is the nearest airport to Ilam, and Tumlingtar is the nearest to Chainpur. Both have flights of about 45–50 minutes to Kathmandu. If flights are cancelled, we can drive out to Biratnagar instead, which has more flights."},
+    {"q": "Is this trip suitable for older travellers?", "a": "Yes. The highest point is about 2,100 m at Mai Pokhari, walks are short and can be shortened further, and drives are broken up with stops. Stays are simple but clean, with hot water. The longer drives can be tiring on mountain roads, so travellers with back problems should tell us; we can add an extra night to split them."},
+    {"q": "What is Chainpur known for?", "a": "Chainpur, a hill bazaar in Sankhuwasabha district above the Arun valley, is known for its metalworkers, who make water jugs, pots and ritual vessels of brass and copper by hand. Its stone-paved lanes and old houses make it pleasant to explore on foot. It is also a gateway to the villages and rhododendron forests of the surrounding hills."},
+    {"q": "Can I add a trek to this trip?", "a": "Yes. From Tumlingtar you can continue to the Makalu Base Camp trek, and from Ilam you can add Sandakpur on the Singalila ridge for views of Everest and Kanchenjunga. The Pathibhara pilgrimage from Taplejung can also be linked. Tell us your dates and fitness, and we will suggest the best combination."},
+    {"q": "What food will I try on the eastern hills overland?", "a": "Expect Ilam tea and chhurpi, Akabare chilli achar, kinema, gundruk and yangben from Kirat kitchens, tongba in Hile, sukuti and sel roti, and plenty of dal bhat. Dharan is good for pork dishes and Hile for tongba. Your guide will find vegetarian options if you need them."},
+    {"q": "When is the best time for an overland trip in eastern Nepal?", "a": "October to March is best, with dry roads, clear skies and comfortable temperatures. Spring is warmer and hazier but good for tea and flowers. We avoid the monsoon from June to August, when landslides can close roads for hours or days."},
+    {"q": "Do I need any permits for this route?", "a": "No special permits are needed for this route; it stays outside restricted areas, national parks and conservation areas. You only need your Nepal visa and passport. Your guide is licensed, and we carry copies of your documents for hotel registration, which is required in Nepal."},
+    {"q": "How much does the eastern hills overland cost?", "a": "Our nine-night trip is from USD 1,600 per person, twin sharing. It includes the two domestic flights, a private car and driver for the whole route, a licensed guide, nine nights in simple hotels and homestays, the tea factory visit, cooking session, workshop visits and the meals listed. Drinks, shopping and tips are extra."}
+  ]
+}

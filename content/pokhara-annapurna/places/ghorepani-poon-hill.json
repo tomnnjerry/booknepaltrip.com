@@ -1,0 +1,171 @@
+{
+  "slug": "ghorepani-poon-hill",
+  "name": "Ghorepani & Poon Hill",
+  "name_ne": "घोडेपानी",
+  "local_name": "",
+  "region": "pokhara-annapurna",
+  "kind": "viewpoint",
+  "wiki": "Poon Hill",
+  "image_query": "Poon Hill sunrise Dhaulagiri",
+  "lat": 28.4,
+  "lng": 83.7,
+  "altitude_m": 2874,
+  "tagline": "The old horse-water stop below Nepal's most loved sunrise hill",
+  "meta_description": "Ghorepani and Poon Hill: sunrise at 3,210 m over Dhaulagiri and Annapurna, rhododendron forests, the Ulleri steps, lodges, permits and how many days you need.",
+  "summary": "Ghorepani is a lodge village at about 2,874 m in Myagdi district, once a watering stop for mule caravans. Above it, Poon Hill (3,210 m) gives the region's most famous sunrise, from Dhaulagiri (8,167 m) to Annapurna I and Machhapuchhre. It is the high point of a 3–4 night loop from Pokhara.",
+  "intro": [
+    "Ghorepani means horse water: Ghoda for horse, pani for water. For centuries it was a resting place where traders on the route between the Kali Gandaki and the lowlands stopped to water their animals on a high saddle. Today the mules are fewer and the village is mostly blue and green-roofed lodges, but you still hear their bells on the trail.",
+    "Everyone comes for Poon Hill. You leave your lodge around 5 am, climb about 340 m of steps by headlamp for 45–60 minutes, and stand on a hilltop at 3,210 m as the sun rises. To the west Dhaulagiri I, 8,167 m, turns pink, then Tukuche and Nilgiri, Annapurna I at 8,091 m, Annapurna South, Hiunchuli and the fishtail of Machhapuchhre. It is crowded and worth it.",
+    "In spring the walk is as good as the view. The forests between Ulleri, Ghorepani, Deurali and Tadapani are some of Nepal's densest stands of rhododendron, the national flower, and from mid-March they turn red, pink and white. Most people walk a loop: up the Ulleri steps, Poon Hill at dawn, across the ridge to Tadapani and down through Ghandruk."
+  ],
+  "story": {
+    "title": "From mule trains to a sunrise crowd",
+    "paras": [
+      "Ghorepani's saddle sits on an old trade route linking the Kali Gandaki valley, the main highway of the salt trade with Tibet, to the hills and markets of the south. Caravans of mules and ponies carried salt, wool and goods up and down, and the spring water here made it a natural halt. For generations the place was little more than a seasonal camp and cattle sheds, with families living in villages lower down.",
+      "Trekkers began walking through in the 1970s, and lodges followed. The hill above, with its unbroken view of Dhaulagiri and the Annapurnas, became Poon Hill, and the name is usually said to come from the Pun, the Magar clan whose villages cover these ridges. As new roads replaced the old trade path, the village lived more and more on tourism, and today almost every building is a lodge.",
+      "The Pun villages around the hill have their own modern story. In Nangi, below the ridge, teacher Mahabir Pun began connecting remote villages to the internet with wireless relays in the early 2000s, work later recognised by the Ramon Magsaysay Foundation. Roads now reach Ulleri and beyond, shortening the climb, but the dawn walk up Poon Hill is the same as it was."
+    ]
+  },
+  "legend": "",
+  "people": "The ridges around Ghorepani are Magar country, above all the Pun clan, with Gurung villages to the east and Brahmin and Chhetri families lower down. Families farm terraces of maize, millet and potatoes in villages like Ulleri, Banthanti and Nangi, run the lodges at Ghorepani, and work abroad or in the army. Many lodge owners spend the monsoon in their home villages or in Pokhara.",
+  "untold": [
+    {"fact": "Ghorepani was named as a place where traders on the old route found water for their horses; as roads replaced the trade path, the village came to depend almost entirely on trekking.", "source": "Wikipedia: Ghorepani"},
+    {"fact": "Mahabir Pun, from Nangi village near Poon Hill, built the Nepal Wireless Networking Project to link remote Himalayan villages by radio relay, work recognised by the Ramon Magsaysay Foundation.", "source": "Wikipedia: Mahabir Pun"},
+    {"fact": "The tree rhododendron, Rhododendron arboreum, which turns the Ghorepani forests red in spring, is the national flower of Nepal and grows from Pakistan to Thailand.", "source": "Wikipedia: Rhododendron arboreum"}
+  ],
+  "local_words": [
+    {"word": "Ghoda", "script": "घोडा", "lang": "Nepali", "meaning": "Horse; with pani, water, it gives Ghorepani its name"},
+    {"word": "Bhatti", "script": "भट्टी", "lang": "Nepali", "meaning": "Traditional trailside inn serving food and drink, ancestor of the teahouse"},
+    {"word": "Lali gurans", "script": "लालीगुराँस", "lang": "Nepali", "meaning": "Red tree rhododendron, Nepal's national flower"}
+  ],
+  "taste": {"name": "Gurung bread with honey", "text": "A round of wheat dough deep-fried until puffed and golden, served hot with honey or jam. It is the classic Annapurna trekking breakfast, on every lodge menu from Ulleri to Ghorepani. Eat it after Poon Hill with milk tea while the sun warms the dining room."},
+  "facts": [
+    ["Best months", "Mar – Apr, Oct – Nov"],
+    ["Days we suggest", "3–4 nights loop from Pokhara"],
+    ["Nearest airport", "Pokhara International Airport (PHH)"],
+    ["From Kathmandu", "Via Pokhara: 200 km road or 25 min flight, then 2 days on foot"],
+    ["Altitude", "2,874 m (Poon Hill 3,210 m)"],
+    ["Known for", "Sunrise over Dhaulagiri and Annapurna, rhododendron forests"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Sunrise from Poon Hill", "text": "A 45–60 minute climb before dawn to 3,210 m for first light on Dhaulagiri I, Tukuche, Nilgiri, Annapurna I, Annapurna South, Hiunchuli and Machhapuchhre. A small entry fee applies at the gate."},
+    {"title": "Rhododendron forests in spring", "text": "From mid-March to mid-April the forests around Ghorepani, Deurali and Tadapani flower red, pink and white. Some of the densest rhododendron stands in Nepal line this trail."},
+    {"title": "The Ulleri steps", "text": "A long stone staircase climbs from Tikhedhunga to Ulleri, a Magar village of terraces and slate houses, testing every trekker's knees. Roads now shorten it, but the steps remain."},
+    {"title": "Ridge walk to Tadapani", "text": "From Ghorepani the trail climbs to Deurali on the ridge, with more views of Dhaulagiri and the Annapurnas, then drops through deep forest and streams to Tadapani."},
+    {"title": "Evening in the lodge village", "text": "Dining rooms fill with trekkers from everywhere around a central stove; guides play cards and cooks turn out dal bhat and apple pie. Early to bed for the dawn climb."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Pokhara, drive the Baglung road to Nayapul (about 42 km) and continue by jeep to Tikhedhunga, Ulleri or further, as roads now reach higher villages. Private jeeps take 2.5–4 hours to the road head depending on road condition. Other routes reach Ghorepani from Beni and the Myagdi side."},
+    {"mode": "On foot", "text": "From Ulleri (about 2,000 m) to Ghorepani is a climb of 4–5 hours through Banthanti and rhododendron forest. From Ghandruk via Tadapani and Deurali it is a full day the other way. Poon Hill is 45–60 minutes above Ghorepani."}
+  ],
+  "where_to_stay": "Ghorepani has a few dozen lodges in two clusters, upper and lower village, all family-run teahouses with twin rooms, shared or attached bathrooms and big dining rooms heated by a central stove. Upper Ghorepani is closer to the Poon Hill trail. Book ahead in March, April, October and November, when rooms fill. Ulleri, Banthanti and Tadapani have similar lodges. For comfort before and after, stay in Pokhara at Temple Tree Resort or The Pavilions Himalayas.",
+  "stays": [],
+  "tips": [
+    "Ghorepani is inside the Annapurna Conservation Area: carry your ACAP permit and TIMS card, and walk with a licensed guide; check current status before you travel.",
+    "Leave for Poon Hill about 75 minutes before sunrise to get a place on the viewing platform.",
+    "Carry a down jacket and gloves for the summit, as dawn is often below freezing from November to February.",
+    "Charging and hot showers usually cost extra in lodges; carry a power bank.",
+    "Walk the loop anticlockwise, Ulleri up, Ghandruk down, if your knees prefer climbing to descending steep steps."
+  ],
+  "themes": ["treks-and-trails", "photography", "family-trips", "high-altitude"],
+  "nearby": ["ghandruk", "annapurna-base-camp", "pokhara"],
+  "experiences": [
+    {
+      "slug": "ghorepani-poon-hill-sunrise",
+      "title": "Dawn climb to Poon Hill",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Dawn, Oct–Apr",
+      "image_query": "Poon Hill viewpoint Annapurna sunrise",
+      "wiki": "Poon Hill",
+      "summary": "Climb about 340 m by headlamp from Ghorepani to the 3,210 m viewpoint of Poon Hill and watch sunrise strike Dhaulagiri, Annapurna I and Machhapuchhre, one of the great mountain dawns in Nepal.",
+      "body": [
+        "The alarm goes around 4:45 am in October. Outside, a line of headlamps is already climbing above the village. The trail is stone steps and earth, steady but not technical, through rhododendron forest. Most people take 45–60 minutes. A small gate halfway collects the entry fee. At the top is a viewing tower and a crowd of trekkers stamping their feet in the cold.",
+        "As the sky lightens, Dhaulagiri I, the seventh highest mountain on earth at 8,167 m, appears massive and close to the west, with its icefall above the Kali Gandaki gorge. Then Tukuche Peak and the Nilgiris, Annapurna I, Annapurna South, Hiunchuli, and Machhapuchhre with Annapurna II to its right. The first rays turn the summits pink in sequence.",
+        "Tea sellers at the top sell hot drinks. Stay until the sun clears the ridge and the crowd thins; the light after sunrise is often better for photos. Then walk back down for breakfast and Gurung bread. In spring the rhododendrons glowing in the morning sun on the way down are almost as good as the summit."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "families"],
+      "faqs": [
+        {"q": "How long does it take to climb Poon Hill from Ghorepani?", "a": "Most people take 45–60 minutes to climb about 340 m from Ghorepani to Poon Hill's 3,210 m summit, and 30–40 minutes back down. The trail is stone steps and path, steep in places but not technical. Start about 75 minutes before sunrise with a headlamp. Slower walkers should leave a little earlier."},
+        {"q": "Is there an entry fee for Poon Hill?", "a": "Yes, a small entry fee is collected at a gate on the trail up to Poon Hill, separate from your ACAP permit, with different rates for Nepali, SAARC and foreign visitors. It funds the upkeep of the trail and viewpoint. Carry small notes in Nepali rupees. Fees change from time to time."},
+        {"q": "Which mountains can you see from Poon Hill?", "a": "On a clear morning you see Dhaulagiri I (8,167 m), Dhaulagiri II to IV, Tukuche Peak, Nilgiri, Annapurna I (8,091 m), Annapurna South (7,219 m), Hiunchuli, Machhapuchhre (6,993 m), Annapurna II and Lamjung Himal. Dhaulagiri dominates. The Kali Gandaki gorge, one of the deepest in the world, lies between Dhaulagiri and Annapurna I."}
+      ]
+    },
+    {
+      "slug": "ghorepani-ulleri-stone-steps",
+      "title": "Climb the Ulleri steps to Ghorepani",
+      "kind": "trek",
+      "duration": "Full day",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Ulleri village stone steps trek",
+      "wiki": "",
+      "summary": "The classic approach to Poon Hill: a long stone staircase up to the Magar village of Ulleri, then forest through Banthanti and Nangethanti to Ghorepani, climbing well over 1,000 m from the valley floor in a long day or a day and a half.",
+      "body": [
+        "From Tikhedhunga, near the bottom of the climb, the trail crosses the Bhurungdi Khola and starts up. The Ulleri steps are famous among trekkers: a steep stone staircase that goes on and on up the hillside, built and repaired by villagers, used by mules, schoolchildren and porters as well as walkers. Take it slowly; pace matters more than speed.",
+        "Ulleri, at about 2,000 m, is a Magar village of terraced fields, slate-roofed houses and lodges with views back down the valley and up to Annapurna South. Many walkers stop for lunch or the night. Above, the trail enters forest of oak and rhododendron, passing Banthanti and Nangethanti with their tea houses and streams.",
+        "Roads now reach Ulleri and beyond, and many trekkers drive past the lower steps. If you have the legs, walk them anyway: it is the way the village has always been reached. Arrive in Ghorepani by mid-afternoon to rest before Poon Hill."
+      ],
+      "good_for": ["trekkers", "solo", "couples"],
+      "faqs": [
+        {"q": "How many steps are there to Ulleri?", "a": "Trekkers often quote a figure in the thousands, but we know of no reliable count, and roads and repairs have changed the route. What matters is that the climb from Tikhedhunga to Ulleri is a long, steep stone staircase of roughly 500 m of ascent. Allow 2–3 hours at a steady pace with rests."},
+        {"q": "Can I skip the Ulleri steps by jeep?", "a": "Yes. Roads now reach Ulleri and in dry conditions further up towards Banthanti, so jeeps from Pokhara can cut much of the climb. This turns the Poon Hill loop into three nights more easily. Road conditions vary with season and repairs, and some sections close in the monsoon. Your agency will advise on the current road head."},
+        {"q": "How hard is the walk from Ulleri to Ghorepani?", "a": "It is a moderate climb of roughly 850 m over 4–5 hours, mostly on stone steps and forest path, with tea houses on the way. It is steady rather than steep compared with the Ulleri steps. Walk at a pace where you can still talk, and drink water. Ghorepani at 2,874 m is cold at night."}
+      ]
+    },
+    {
+      "slug": "ghorepani-deurali-rhododendron-ridge",
+      "title": "Rhododendron ridge from Ghorepani to Tadapani",
+      "kind": "nature",
+      "duration": "5–6 hours",
+      "best_time": "Morning, mid-Mar–mid-Apr",
+      "image_query": "Ghorepani rhododendron forest bloom",
+      "wiki": "Rhododendron arboreum",
+      "summary": "After Poon Hill, follow the ridge east to Deurali at about 3,100 m and descend through some of Nepal's densest rhododendron forest to Tadapani, with Dhaulagiri behind you and Annapurna South ahead.",
+      "body": [
+        "From Ghorepani the trail climbs again, gently, to the ridge at Deurali, a short climb that rewards you with a last broad view of Dhaulagiri and the Annapurnas. Some walkers who missed sunrise on Poon Hill find a quieter view here. Then the path turns east along and down the ridge into deep forest.",
+        "This is the heart of rhododendron country. In mid-March to mid-April the trees, some tall and twisted with age, turn red with lali gurans, with pink and white flowers at higher points. Fallen petals carpet the trail. Streams cross the path in shaded gullies, and in the stillness you hear birds and occasionally langurs.",
+        "The descent to Tadapani at about 2,630 m is long and can be muddy after rain. Tadapani's lodges face Annapurna South and Machhapuchhre; sleep there for another sunrise before going down to Ghandruk. Walk with your guide and stay with the group: forest sections are quiet."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "When is rhododendron season on the Poon Hill trek?", "a": "The main bloom is usually mid-March to mid-April, starting lower in late February and reaching the highest trees by late April. Timing varies by year and altitude. The forest between Ghorepani, Deurali and Tadapani is the best section. October and November have green forest and clearer views but no flowers."},
+        {"q": "How long is the walk from Ghorepani to Tadapani?", "a": "Allow 5–6 hours, including the climb to Deurali on the ridge and a long, sometimes muddy descent through forest to Tadapani at about 2,630 m. There are tea houses on the way. It is generally considered the most beautiful day of the Poon Hill loop, especially in spring."},
+        {"q": "Is the forest between Ghorepani and Tadapani safe?", "a": "It is a well-used trail, but long forest sections are quiet, and there have been rare incidents with walkers alone. Walk with your licensed guide, as required for foreign trekkers in the Annapurna Conservation Area since 2023, start in the morning and do not linger after dark. Trails can be icy in winter and muddy in spring rain."}
+      ]
+    },
+    {
+      "slug": "ghorepani-teahouse-evening",
+      "title": "A teahouse evening in Ghorepani",
+      "kind": "food",
+      "duration": "Evening",
+      "best_time": "Evening, Oct–Apr",
+      "image_query": "Ghorepani lodge dining room trekkers",
+      "wiki": "",
+      "summary": "Teahouse life at its liveliest: a lodge dining room at 2,874 m around a warm stove, dal bhat refills, Gurung bread, apple pie and conversations with trekkers and guides from everywhere before an early night for Poon Hill.",
+      "body": [
+        "Ghorepani's lodges are built around their dining rooms. As the afternoon chill sets in, trekkers gather on benches around a central stove, boots off, socks drying above, and order from menus that range from dal bhat to pizza. Guides and porters eat later in the kitchen, often the best place to be if you are invited.",
+        "Order dal bhat: rice, lentil soup, vegetable curry, greens and pickle, with free refills, the trekker's fuel. Lodge kitchens also make Gurung bread, fried and puffed, eaten with honey, and apple pie, a trail tradition. Ask the cook where the vegetables come from; many lodges grow their own or buy from nearby Magar villages.",
+        "The evening ends early. Most people are in bed by 8:30 pm for a 5 am start. Fill a water bottle with hot water to warm your sleeping bag. Lodges ask that you eat where you sleep; it is how their pricing works, and it keeps the village viable."
+      ],
+      "good_for": ["trekkers", "solo", "families", "first-timers"],
+      "faqs": [
+        {"q": "What food is available at Ghorepani?", "a": "Lodges in Ghorepani serve dal bhat, noodles, fried rice, momo, soups, eggs, porridge, Gurung bread, pancakes, pizza and apple pie, along with tea, coffee and soft drinks. Prices are higher than in Pokhara because supplies come by mule or porter. Dal bhat with free refills is the best value and most filling."},
+        {"q": "Why do lodges ask you to eat where you stay?", "a": "Teahouse rooms are priced low, sometimes very low, and lodges earn mainly from food. Many conservation-area lodges follow an expectation that guests eat dinner and breakfast where they sleep. Eating elsewhere is considered rude and may lead to a higher room price. Agree on this when booking."},
+        {"q": "Is there electricity and Wi-Fi in Ghorepani?", "a": "Yes, Ghorepani has grid or hydro electricity, and most lodges offer Wi-Fi and device charging, usually for a small fee. Connections slow down in the evening when everyone is online. Mobile signal is generally available. Carry a power bank and a headlamp, as power cuts happen, especially in bad weather."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days is the Ghorepani Poon Hill trek?", "a": "The standard loop from Pokhara takes 3–4 nights: drive to the road head near Ulleri, climb to Ghorepani, Poon Hill at dawn, walk to Tadapani, then down through Ghandruk to the road. With jeeps at both ends it can be done in 3 nights. Add a night if you want an easier pace or a day in Ghandruk."},
+    {"q": "How difficult is the Poon Hill trek?", "a": "It is graded easy to moderate. The highest point is 3,210 m, days are 4–6 hours, and lodges are comfortable. The challenge is long stone staircases, especially at Ulleri, which tire knees and calves. Anyone reasonably fit who walks regularly can manage it. Walking poles help on descents."},
+    {"q": "What is the altitude of Poon Hill?", "a": "Poon Hill is 3,210 m above sea level. Ghorepani village below it is about 2,874 m. Altitude sickness is uncommon at these heights but possible; climb steadily, drink water and tell your guide about headaches. Nights in Ghorepani are cold, often below freezing from December to February."},
+    {"q": "Do I need a permit for Poon Hill?", "a": "Yes. Poon Hill and Ghorepani are inside the Annapurna Conservation Area, so you need an ACAP permit and a TIMS card, plus the small local entry fee at the Poon Hill gate. Since April 2023 foreign trekkers must walk with a licensed guide. Check current status before you travel."},
+    {"q": "When is the best time for Poon Hill?", "a": "October and November give the clearest sunrise views. Mid-March to mid-April brings rhododendrons in full bloom, with more chance of haze and afternoon cloud. December to February are cold but often clear and quiet, with occasional snow at Ghorepani. June to September is monsoon: cloud, rain and leeches make it a poor choice."},
+    {"q": "Can beginners do the Poon Hill trek?", "a": "Yes. It is one of the most popular first treks in Nepal because it is short, not very high and well served by lodges. Prepare with a few weeks of walking and stair climbing, wear broken-in boots and take it slowly. Children who walk regularly, from around eight, often manage well with a guide and porter."},
+    {"q": "Why is it called Poon Hill?", "a": "The name is usually said to come from the Pun, a Magar clan whose villages surround the hill in Myagdi district; Poon is a common English spelling of Pun. The name became widespread as trekking grew from the 1970s. Ghorepani, below it, means horse water, from its past as a stop for mule trains."},
+    {"q": "Is Poon Hill crowded?", "a": "In October, November, March and April the summit can hold a few hundred people at sunrise, and Ghorepani's lodges fill. Book ahead in those months. For fewer people, go in December, February or early March. The Deurali ridge east of Ghorepani often gives a similar view with fewer people."},
+    {"q": "Can I combine Poon Hill with Annapurna Base Camp?", "a": "Yes. A popular route goes Ghorepani, Poon Hill, Tadapani and then to Chhomrong to join the Annapurna Base Camp trail, about 10–12 nights in total from Pokhara. It gives the Dhaulagiri sunrise view and the Annapurna Sanctuary in one trip. It is a strong choice if you have two weeks."}
+  ]
+}

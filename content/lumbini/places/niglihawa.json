@@ -1,0 +1,164 @@
+{
+  "slug": "niglihawa",
+  "name": "Niglihawa",
+  "name_ne": "निग्लिहवा",
+  "local_name": "Nigali Sagar (after the pond beside the pillar)",
+  "region": "lumbini",
+  "kind": "archaeological site",
+  "wiki": "Nigali Sagar",
+  "image_query": "Nigali Sagar Ashoka pillar",
+  "lat": 27.594,
+  "lng": 83.092,
+  "altitude_m": 105,
+  "tagline": "Ashoka's inscription for Kanakamuni Buddha, beside a village pond",
+  "meta_description": "Niglihawa (Nigali Sagar) in Kapilvastu: inscribed Ashoka pillar fragments recording the stupa of Konakamana Buddha, the oldest written word 'stupa', and how to visit.",
+  "summary": "Niglihawa, also called Nigali Sagar, is a site in Kapilvastu district about 7 km north-east of Taulihawa where two fragments of an Ashokan pillar lie beside a large pond. Its Brahmi inscription records that Ashoka enlarged the stupa of Konakamana (Kanakamuni) Buddha. It is a 30-minute stop on a Kapilvastu day.",
+  "intro": [
+    "Niglihawa is a pond, a low bank and two pieces of polished stone. The larger fragment stands upright in the earth, the smaller lies beside it, and around them stretch the fields of northern Kapilvastu. Locals call the pond Nigali Sagar, and the name has passed to the pillar.",
+    "The upright fragment carries a short Brahmi inscription in Ashoka's name. It says that in the 14th year of his reign he enlarged the stupa of Buddha Konakamana to double its size, and in his 20th year came in person to worship and set up a stone pillar. It is the same year he visited Lumbini, around 249 BCE.",
+    "The site is small, but the words on the stone matter: this is one of the oldest records anywhere of a Buddhist stupa being honoured, and of a Buddha before Gautama."
+  ],
+  "story": {
+    "title": "A hunting party, a pond and a lost lion capital",
+    "paras": [
+      "In 1893 a Nepali officer out hunting in the Tarai forests came upon a fallen stone pillar beside a pond. Two years later, in March 1895, Alois Führer studied it and its inscriptions. Besides the Brahmi lines of Ashoka there were later additions, including 'Om mani padme hum' and a line for King Ripu Malla dated to 1312 CE, the same king who left his mark on the Lumbini pillar.",
+      "Führer then wrote a lavish description of a great Konakamana stupa surrounded by ruined monasteries. None of it existed. In 1901 it was shown he had copied the passage almost word for word from Alexander Cunningham's report on the stupas at Sanchi. Yet Vincent Smith, who exposed Führer, accepted the inscription itself as genuine, and the leading modern scholar of Ashoka's inscriptions, Harry Falk, agrees.",
+      "The pillar was not found in its original place: there is no foundation under it. It may have been moved from Gotihawa or from Taulihawa. The writer Charles Allen suggested the upper part may once have been used as a roller for crushing sugarcane. Xuanzang, in the 7th century, saw a lion on top of the pillar. That capital has never been found."
+    ]
+  },
+  "legend": "Buddhist tradition counts Konagamana, called Kanakamuni in Sanskrit, as the second Buddha of the present age, after Kakusandha and before Kassapa and Gautama. The Buddhavamsa says he was born in the city of Sobhavati and found enlightenment under an udumbara fig tree. Pilgrims link his birthplace and stupa to the country around Niglihawa, and Ashoka's inscription shows his stupa was already old and honoured by the 3rd century BCE.",
+  "people": "The villages around Niglihawa are home to Awadhi-speaking Madhesi farmers, Tharu families and Muslim households, with Pahadi settlers who came down from the hills in the 1960s and 1970s. Sugarcane, rice and wheat are the main crops, and many households keep buffalo. Children and grazing goats are usually your company at the pillar.",
+  "untold": [
+    {"fact": "The Nigali Sagar inscription contains the earliest known written record of the word stupa, in its Prakrit form 'thube', in the line recording that Ashoka enlarged Konakamana's stupa.", "source": "Wikipedia: Nigali Sagar"},
+    {"fact": "Alois Führer's 1895 account of ruined monasteries and a great stupa around the pillar was invented; in 1901 it was shown he had copied it almost word for word from Cunningham's report on Sanchi.", "source": "Wikipedia: Nigali Sagar"},
+    {"fact": "Besides Ashoka's Brahmi lines, the pillar carries 'Om mani padme hum' and a wish for King Ripu Malla dated Saka 1234, about 1312 CE, matching a similar line on the Lumbini pillar.", "source": "Wikipedia: Nigali Sagar"}
+  ],
+  "local_words": [
+    {"word": "sagar", "script": "सागर", "lang": "Nepali", "meaning": "Literally ocean; used for a large pond or tank, as in Nigali Sagar"},
+    {"word": "ukhu", "script": "उखु", "lang": "Nepali", "meaning": "Sugarcane, the main cash crop around the pillar"},
+    {"word": "abhilekh", "script": "अभिलेख", "lang": "Nepali", "meaning": "Inscription, such as Ashoka's lines on the pillar"}
+  ],
+  "taste": {"name": "Fresh sugarcane juice", "text": "Pressed to order through a hand-cranked or motor roller, with ginger, lemon and a pinch of black salt. Cane is the crop of the fields around Niglihawa, and stalls in Taulihawa and on the Lumbini road sell glasses of it from about February to June."},
+  "facts": [["Best months", "Oct – Mar"], ["Days we suggest", "30 minutes"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 45 km)"], ["From Lumbini", "≈ 25 km · 50 min by road"], ["Altitude", "≈ 105 m"], ["Known for", "Inscribed Ashoka pillar, Konakamana Buddha"]],
+  "best_months": [2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The inscribed fragment", "text": "The upright pillar fragment with Ashoka's Brahmi inscription about the stupa of Konakamana Buddha. The lettering is worn but visible at close range, especially in low side light early or late in the day."},
+    {"title": "The second fragment", "text": "A second, longer piece of polished pillar lies on the ground beside it. Together they show how big the original column was, and the polish still catches the light after 2,200 years."},
+    {"title": "Ripu Malla's line", "text": "A short medieval inscription with 'Om mani padme hum' and King Ripu Malla's name, dated about 1312 CE. Finding the same king's mark here and at Lumbini shows these pillars were being visited long before archaeologists arrived."},
+    {"title": "Nigali Sagar pond", "text": "The large village pond that gives the site its popular name. In winter egrets, herons and sometimes cranes feed at its edges, and its banks are a quiet place to sit."},
+    {"title": "A clear link with Lumbini", "text": "The inscription dates Ashoka's visit to the 20th year of his reign, the same year as his visit to Lumbini, about 22 km away. Seeing both on the same day makes his journey easy to imagine."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Niglihawa is about 25 km north-west of Lumbini, around 50 minutes by private car, and about 7 km north-east of Taulihawa. The last stretch is on village roads. It is usually visited with Tilaurakot, Kudan and Gotihawa in a day from Lumbini."},
+    {"mode": "Air", "text": "Fly Kathmandu to Bhairahawa in about 35 minutes, then drive roughly 45 km, about 1.5 hours, to Niglihawa."}
+  ],
+  "where_to_stay": "There is no accommodation at Niglihawa. Base yourself in Lumbini, under an hour away, at Buddha Maya Gardens near the Sacred Garden or the Lumbini Hokke Hotel in the Cultural Zone, and see Niglihawa as part of the Kapilvastu loop. Taulihawa, 7 km away, has a few basic local hotels.",
+  "stays": [],
+  "tips": [
+    "Come in the early morning or late afternoon, when side light makes the worn Brahmi letters easier to read.",
+    "Ask your guide to bring a printed transcription of the inscription to follow on the stone.",
+    "Do not climb on or lean against the pillar fragments; they are protected monuments.",
+    "The pond banks can be muddy after rain, so wear shoes you do not mind getting dirty.",
+    "Visit Niglihawa on the same day as Lumbini's pillar to compare the two inscriptions from the same year."
+  ],
+  "themes": ["heritage-and-temples", "spiritual-and-pilgrimage"],
+  "nearby": ["gotihawa", "tilaurakot", "kudan", "lumbini"],
+  "experiences": [
+    {
+      "slug": "niglihawa-read-the-inscription",
+      "title": "Read Ashoka's words on the stone",
+      "kind": "heritage",
+      "duration": "45 minutes",
+      "best_time": "Early morning or late afternoon, Oct–Mar",
+      "image_query": "Nigali Sagar inscription Brahmi",
+      "wiki": "Nigali Sagar",
+      "summary": "A close look at the Niglihawa inscription with a guide and a printed transcription: the Brahmi letters, the name of Konakamana Buddha, the word 'thube' for stupa and the later line of King Ripu Malla.",
+      "body": [
+        "Brahmi, the script of Ashoka's inscriptions, is the ancestor of Devanagari and most other scripts of South and South-East Asia. At Niglihawa you can see it on the stone, and with a little help, start to read it.",
+        "Your guide brings a large printed transcription and works through it with you: the king's title Devanampiya Piyadasi, the regnal years 14 and 20, the name Konakamana and the word thube, the oldest written record of 'stupa'. Low sun picks out the cuts in the polished sandstone.",
+        "Then we look at the later layer: 'Om mani padme hum' and Ripu Malla's line from about 1312 CE, a medieval king leaving his name beside an emperor's. It takes 45 minutes and changes how you see every inscription afterwards."
+      ],
+      "good_for": ["first-timers", "solo", "seniors"],
+      "faqs": [
+        {"q": "What does the Niglihawa inscription say?", "a": "In translation, it says that King Devanampiya Piyadasi, Ashoka, in the 14th year of his reign enlarged the stupa of Buddha Konakamana to double its size, and in the 20th year came himself to worship and had a stone pillar set up. Part of the text is lost where the pillar is broken."},
+        {"q": "Is the Niglihawa inscription genuine?", "a": "Yes, it is generally accepted as genuine. Doubts arose because Alois Führer, who studied it in 1895, was later exposed for forging other finds and inventing ruins around this pillar. But Vincent Smith, who exposed him, accepted the inscription, and Ashoka specialist Harry Falk considers such inscriptions beyond Führer's ability to fake."},
+        {"q": "What language is the Niglihawa inscription in?", "a": "It is written in the Brahmi script in a Prakrit language, the everyday Middle Indo-Aryan speech used in Ashoka's inscriptions across his empire. Brahmi was forgotten for centuries and deciphered in the 1830s by James Prinsep, which made reading these pillars possible."}
+      ]
+    },
+    {
+      "slug": "niglihawa-pond-birding",
+      "title": "Birds and buffalo at Nigali Sagar pond",
+      "kind": "wildlife",
+      "duration": "1 hour",
+      "best_time": "Early morning, Nov–Feb",
+      "image_query": "egrets village pond Terai Nepal",
+      "wiki": "",
+      "summary": "An early hour on the banks of Nigali Sagar, the village pond beside the pillar, watching egrets, herons, kingfishers and winter ducks while buffalo wallow and the village wakes up.",
+      "body": [
+        "Village ponds across the Terai are small wetlands in their own right, and Nigali Sagar is a good one. In winter mornings cattle egrets ride on the backs of buffalo, pond herons stand motionless in the shallows and white-throated kingfishers dive from the trees.",
+        "With luck, migrating ducks rest on the open water, and sarus cranes or Asian openbill storks feed in the wet fields around it. A guide with binoculars helps you pick out what you would otherwise miss.",
+        "We combine the birding with a look at the pillar while the light is low, then drive on to Tilaurakot or back to Lumbini for breakfast."
+      ],
+      "good_for": ["photographers", "families", "solo"],
+      "faqs": [
+        {"q": "What birds can I see at Nigali Sagar?", "a": "Common winter sightings include cattle and little egrets, Indian pond herons, white-throated and common kingfishers, red-wattled lapwings and black drongos. In the surrounding fields you may see sarus cranes, Asian openbill storks and black-headed ibis. Migrating ducks visit some winters. Numbers vary year to year."},
+        {"q": "What is the best season for birding around Lumbini?", "a": "November to February is best, when winter migrants arrive, harvested fields leave birds in the open and mornings are cool. Fog can delay the start in December and January. March is still good. From April the heat cuts activity to the first two hours after dawn."},
+        {"q": "Do I need special equipment for birding at Niglihawa?", "a": "Binoculars make a big difference; 8x or 10x is ideal. A camera with a zoom lens of 300 mm or more helps for photographs. Wear muted colours, closed shoes for muddy banks and a warm layer for winter dawns. We can lend binoculars if you ask in advance."}
+      ]
+    },
+    {
+      "slug": "niglihawa-sugarcane-juice-stop",
+      "title": "Sugarcane country and a glass of fresh ras",
+      "kind": "food",
+      "duration": "30–45 minutes",
+      "best_time": "Feb–May",
+      "image_query": "sugarcane juice stall Nepal",
+      "wiki": "",
+      "summary": "A short stop in the cane fields of northern Kapilvastu, where the pillar may once have been used as a cane roller, followed by a glass of freshly pressed sugarcane juice with ginger and lemon at a roadside stall.",
+      "body": [
+        "Sugarcane is one of the main crops around Niglihawa, and from late winter the fields are tall and the tractors piled high on their way to the mills. The writer Charles Allen even suggested the top of the Niglihawa pillar was once reused as a roller to crush cane, a guess, but one that fits the landscape.",
+        "We stop at a cane field near the pillar to see the crop up close, then at a juice stall on the way to Taulihawa or Lumbini. The stall owner feeds stalks through a roller with a slice of ginger and lemon, and serves the juice cold and green-gold in a glass.",
+        "It is a small pleasure, and the best antidote to a hot Kapilvastu afternoon."
+      ],
+      "good_for": ["families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is sugarcane juice safe to drink in Nepal?", "a": "Freshly pressed juice from a clean machine is usually fine, but ice may be made from untreated water. Ask for it without ice, and choose busy stalls where the roller is washed between batches. Our guides use stalls they trust. Avoid it if you have a very sensitive stomach."},
+        {"q": "When is sugarcane in season around Lumbini?", "a": "Cane is harvested and crushed mainly from about November to April in the western Terai, with juice stalls busiest from February to June when the weather turns hot. Fields stand tall from late summer through winter. Timing varies with mills and weather."},
+        {"q": "Was the Niglihawa pillar really used to crush sugarcane?", "a": "Nobody knows. The writer Charles Allen proposed that after the upper part of the pillar broke, the inscribed section was moved and perhaps used as a roller for crushing sugarcane. It is a suggestion, not a proven fact, but it would explain why the pillar was found away from its base."}
+      ]
+    },
+    {
+      "slug": "niglihawa-lumbini-same-day",
+      "title": "Two pillars from the same royal year",
+      "kind": "heritage",
+      "duration": "Half day",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Lumbini Ashoka pillar",
+      "wiki": "Lumbini pillar inscription",
+      "summary": "A half day pairing the Lumbini pillar with the Niglihawa fragments, both inscribed for Ashoka's visit in the 20th year of his reign, to follow the emperor's route across the Shakya country around 249 BCE.",
+      "body": [
+        "Ashoka's two inscriptions in Nepal record visits in the same year, the 20th of his reign. One honours the birthplace of Gautama Buddha, the other the stupa of Konakamana, a Buddha of the distant past. Seeing them together shows how he moved through this landscape as a pilgrim.",
+        "We start at the Lumbini pillar at opening time, while the garden is quiet, and read its five lines. Then we drive about 50 minutes north-west across the plain to Niglihawa, roughly the distance a royal procession might have covered in a day or two.",
+        "At Niglihawa we compare the scripts, the phrasing and the condition of the two stones. Back in Lumbini by lunch, or on to Tilaurakot for the afternoon."
+      ],
+      "good_for": ["first-timers", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Did Ashoka visit Lumbini and Niglihawa on the same trip?", "a": "Both inscriptions date his visit to the 20th year of his reign, around 249 BCE, so it is very likely they were part of one pilgrimage, though the inscriptions do not say so directly. Ashoka's other edicts mention his tours of pilgrimage, called dhamma-yatras, in this period."},
+        {"q": "Which Ashoka pillar inscription is better preserved?", "a": "The Lumbini inscription is far better preserved: its five lines are clear and complete, partly because that section was underground for centuries. The Niglihawa inscription is on a broken fragment and partly lost, and its letters are more worn. Both are legible with a transcription in hand."},
+        {"q": "How far is Niglihawa from Lumbini?", "a": "About 25 km by road, roughly 50 minutes by private car across the plain via village roads. In a straight line the sites are a little over 20 km apart. Niglihawa is about 7 km north-east of Taulihawa, the Kapilvastu district headquarters."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Niglihawa?", "a": "Niglihawa is in Kapilvastu district, Lumbini Province, about 7 km north-east of Taulihawa and about 25 km north-west of Lumbini by road. The pillar stands beside a large pond called Nigali Sagar, which gives the site its other name."},
+    {"q": "What is Nigali Sagar?", "a": "Nigali Sagar is the pond beside the Niglihawa pillar, and the name is also used for the archaeological site. It holds two fragments of an Ashokan pillar, one with an inscription recording that Ashoka enlarged the stupa of Konakamana Buddha and later visited to worship and erect the pillar."},
+    {"q": "Who was Kanakamuni Buddha?", "a": "Kanakamuni, called Konagamana in Pali, is named in Buddhist texts as the second of the Buddhas of the present age, after Krakuchchanda and before Kassapa and Gautama. The Buddhavamsa says he was born in Sobhavati and found enlightenment under an udumbara tree. Ashoka's Niglihawa inscription names him."},
+    {"q": "Is the Niglihawa pillar in its original location?", "a": "No. Archaeologists found no foundation under it, so the fragments were moved from somewhere else, perhaps several kilometres. Candidates include Gotihawa, whose pillar base has no matching upper part, and Taulihawa. Exactly when and why it was moved is unknown."},
+    {"q": "How long should I spend at Niglihawa?", "a": "About 30–45 minutes is enough to see the pillar fragments, read the inscription with a guide and walk around the pond. Birders may want an extra hour in the early morning. Most visitors combine it with Tilaurakot, Kudan and Gotihawa."},
+    {"q": "When was the Niglihawa pillar discovered?", "a": "The pillar was found in 1893 by a Nepali officer on a hunting expedition, and Alois Führer studied its inscriptions in March 1895. Its discovery helped lead to the excavation of the Lumbini pillar inscription in December 1896, about 22 km away."},
+    {"q": "Is there an entry fee at Niglihawa?", "a": "Niglihawa has generally had no formal ticket office, with the pillar in a simple enclosure by the pond. Site management by the Lumbini Development Trust and Department of Archaeology may change, so check current status before you travel."},
+    {"q": "Is the Niglihawa inscription the oldest use of the word stupa?", "a": "Yes, it is the earliest known written record of the word, in its Prakrit form 'thube', in the line about enlarging Konakamana's stupa. Stupas were built earlier, but this inscription is the first surviving text to name one."},
+    {"q": "What is the best time to visit Niglihawa?", "a": "October to March offers mild days and good light. Early morning or late afternoon is best for reading the worn inscription in side light and for birds on the pond. Avoid midday from April to June, when temperatures pass 38 °C and there is little shade."}
+  ]
+}

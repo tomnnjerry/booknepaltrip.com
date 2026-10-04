@@ -1,0 +1,192 @@
+{
+  "slug": "shinta-mani-mustang-slow-journey-6n",
+  "title": "Slow Mustang at Shinta Mani Mustang",
+  "region": "mustang-dolpo",
+  "kind": "tour",
+  "nights": 6,
+  "themes": [
+    "slow-and-wellness",
+    "honeymoons",
+    "spiritual-and-pilgrimage",
+    "villages-and-homestays"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 1
+    },
+    {
+      "place": "jomsom",
+      "nights": 5
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 6500,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 3710,
+  "meta_description": "Slow Mustang, 6 nights: five nights at Shinta Mani Mustang in Jomsom with day trips to Marpha, Kagbeni, Muktinath and the Bon village of Lubra.",
+  "summary": "Six unhurried nights for travellers who want Mustang's landscape and villages with a comfortable base: one night above Pokhara, then five nights at Shinta Mani Mustang in Jomsom, with half-day and day outings to Marpha, Kagbeni, Muktinath, Lubra and Dhumba Lake, and time to do nothing at all.",
+  "intro": [
+    "For most of its history, staying in Mustang meant a teahouse with a blanket and a stove. Shinta Mani Mustang, a luxury lodge in Jomsom from the Bensley Collection, opened in 2023 and changed that. We use it as a single base for five nights, so you unpack once and go out each day into the valley with a licensed guide and a private vehicle, returning to the same room each evening.",
+    "The plan is deliberately light. Jomsom sits at 2,720 m, high enough that you will feel it on the first afternoon, so the early days are short and the longer outing to Muktinath at about 3,710 m comes once you have settled. Every day is shaped around the Mustang wind, which rises in late morning: we go out early and come back for lunch or a long afternoon at the lodge."
+  ],
+  "story": "You wake by Phewa Lake with Machhapuchhre above the water, and by breakfast the next day you are in a different country, dry and bright, with Nilgiri's ice wall hanging over Jomsom. The first walk is only to Thini, an old village of narrow lanes, but the thin air makes it feel longer. Over the next days the valley opens out one piece at a time: the apple orchards and white houses of Marpha, Kagbeni's tunnels and its two rivers, the springs and flames of Muktinath, and the quiet Bon village of Lubra in its side valley, where an older faith than Buddhism is still practised. In between, there is time to sit in the sun and watch the light move on the mountains.",
+  "highlights": [
+    "Five nights in one comfortable base in Jomsom, with no repacking",
+    "Muktinath, holy to Hindus and Buddhists, on a private day out",
+    "Lubra, one of the few villages in Nepal where the Bon religion is still practised",
+    "Marpha's orchards and Kagbeni's old lanes at an easy pace",
+    "A first night by Phewa Lake in Pokhara before the mountain flight"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 25 min flight",
+      "text": "Fly from Kathmandu to Pokhara and check in to Temple Tree Resort & Spa near Phewa Lake. The afternoon is free for a boat to the Tal Barahi island temple, a walk along the lakeshore or a swim. Over dinner your guide talks through the week ahead, and we keep the evening short because the Jomsom flight leaves soon after sunrise. If you arrive in Pokhara early, the World Peace Pagoda above the lake makes a short and rewarding outing.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Jomsom, walk to Thini",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 20 min flight · ≈ 2 h easy walk",
+      "text": "The flight through the Kali Gandaki gorge is one of the great short flights in the Himalaya. At Jomsom we check in to Shinta Mani Mustang and rest. In the late morning, before the wind, a gentle walk across the river to Thini, the old village from which Jomsom grew, with its monastery and lanes of mud-brick houses. Afternoon at the lodge; drink plenty of water and go easy on the first day at altitude.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Marpha and Chhairo",
+      "place": "marpha",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 20 min drive · ≈ 2–3 h walking",
+      "text": "A short drive south to Marpha, a Thakali village of whitewashed houses, flagstoned lanes and apple orchards. We climb to the monastery above the village, visit an orchard and taste the local apple brandy. Then we cross the river to Chhairo, a Tibetan settlement with a small monastery, and walk back along the east bank. Lunch in Marpha, then back to the lodge as the wind rises. In autumn the orchards are heavy with fruit, and in spring the trees are in blossom.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kagbeni and Muktinath",
+      "place": "muktinath",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 4 h driving in total",
+      "text": "An early start for the longest day. We drive up the riverbed to Kagbeni, a fortified village at the meeting of two rivers, then climb to Muktinath at about 3,710 m. Hindus come here to bathe under 108 water spouts; Buddhists honour the springs and a flame that burns from natural gas. Your guide explains both traditions. Lunch in Kagbeni on the way down, then back to Jomsom, sleeping a thousand metres lower than the temple.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Lubra, the Bon village",
+      "place": "lubra",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 3–4 h walking round trip",
+      "text": "We walk up the Panda Khola valley, a quiet side valley east of the Kali Gandaki, to Lubra, one of the few villages in Nepal where people follow Bon, the religion of Tibet before Buddhism. The village monastery holds Bon images and texts, and its lamas trace their lineage back many generations. Notice that Bon followers turn prayer wheels and walk around shrines anticlockwise, the reverse of Buddhists. Back to the lodge for a late lunch.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Dhumba Lake and a free afternoon",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 2 h easy walk",
+      "text": "A short morning walk to Dhumba Lake, a small green lake below a hillside monastery, with Nilgiri's north face above. Then the rest of the day is yours. Spend it at the lodge, visit the Mustang Eco Museum in Jomsom, or, if you are keen, take a longer walk with your guide toward Syang and the villages on the west bank. Farewell dinner with the team. Spend the last afternoon in the sun if the wind allows.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly to Pokhara and Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 20 min + 25 min flights",
+      "text": "Morning flight to Pokhara and connection to Kathmandu, where the trip ends. As always with Jomsom, flights depend on wind and cloud, so we strongly suggest a spare night in Kathmandu before any international departure. If the flight is cancelled, you stay on at the lodge and we try again the next morning. Allow time for the connection in Pokhara, as Jomsom flights are sometimes late to arrive. We can arrange that night for you.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "shinta-mani-mustang",
+    "temple-tree-resort"
+  ],
+  "includes": [
+    "Five nights at Shinta Mani Mustang, twin sharing, on the lodge's inclusive meal plan",
+    "One night at Temple Tree Resort & Spa, Pokhara, with breakfast and dinner",
+    "Flights Kathmandu–Pokhara–Jomsom and return",
+    "Private vehicle and licensed English-speaking guide for all outings",
+    "Annapurna Conservation Area permit",
+    "Airport transfers"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Spa treatments and premium drinks not covered by the lodge's plan",
+    "Travel insurance",
+    "Tips"
+  ],
+  "good_to_know": [
+    "The price depends heavily on the lodge's seasonal rates and room type; we quote exact prices when we confirm dates.",
+    "Since April 2023 foreign visitors to conservation areas are expected to travel with a licensed guide; check current status before you travel.",
+    "Jomsom flights run only in the morning and are cancelled when wind or cloud closes the gorge.",
+    "Jomsom is at 2,720 m and Muktinath at about 3,710 m: rest on arrival and avoid alcohol on the first evening.",
+    "Upper Mustang beyond Kagbeni needs a separate restricted-area permit and is not part of this trip; we can add it."
+  ],
+  "faqs": [
+    {
+      "q": "Where is Shinta Mani Mustang?",
+      "a": "Shinta Mani Mustang is in Jomsom, the district headquarters of Mustang, at about 2,720 m in the Kali Gandaki valley. It is a short drive from Jomsom airport, which has morning flights from Pokhara. It opened in 2023 as part of the Bensley Collection."
+    },
+    {
+      "q": "How do I get to Shinta Mani Mustang?",
+      "a": "Fly from Kathmandu to Pokhara (25 minutes), then from Pokhara to Jomsom (20 minutes), usually on the first morning flight. You can also drive from Pokhara along the Kali Gandaki road in 8 to 10 hours by jeep. Because the Jomsom flight is weather-dependent, we include a night in Pokhara on the way in."
+    },
+    {
+      "q": "Is Mustang suitable for a honeymoon?",
+      "a": "Yes, if you enjoy mountains, quiet and culture rather than beaches. Lower Mustang offers dramatic scenery, short walks to villages and monasteries, clear night skies and a comfortable base in Jomsom. Spring and autumn are best. Be ready for cold evenings, strong afternoon wind and the occasional flight delay."
+    },
+    {
+      "q": "Can I visit Upper Mustang from Shinta Mani?",
+      "a": "Not on this itinerary. Upper Mustang, north of Kagbeni, needs a restricted-area permit, USD 500 for the first 10 days as we understand it, for a minimum of two people with a licensed guide. A day trip does not make sense at that price. We can design a longer journey that combines Jomsom with Lo Manthang. Check current status before you travel."
+    },
+    {
+      "q": "Will I get altitude sickness in Jomsom?",
+      "a": "Most people feel only mild breathlessness at Jomsom's 2,720 m. Some get a headache on the first afternoon. We keep the first day short and sleep at Jomsom every night, visiting Muktinath, at about 3,710 m, only as a day trip. Drink plenty of water, rest, and tell your guide if symptoms worsen."
+    },
+    {
+      "q": "What is Lubra village known for?",
+      "a": "Lubra, in the Panda Khola valley east of Jomsom, is one of the few villages in Nepal where the community follows Bon, the pre-Buddhist religion of Tibet. Its monastery is a Bon temple, and the village lamas have kept the tradition for many generations. It is a quiet, small village, so visit with a guide and respect privacy."
+    },
+    {
+      "q": "Why is this trip so much more expensive than a teahouse trip?",
+      "a": "Almost all of the cost is the lodge. Shinta Mani Mustang is a luxury property with inclusive meal plans, set in a remote valley where everything arrives by road or air. Flights, a private vehicle and a guide add a smaller share. Similar days in Jomsom using a good local hotel would cost a fraction of this price."
+    },
+    {
+      "q": "What is the best season to stay in Mustang?",
+      "a": "April and May, and October and November, give clear skies and comfortable days. March and September are good too. In winter the valley is cold but often sunny. The monsoon months are drier in Mustang than elsewhere in Nepal, but flights and the lower road are disrupted more often, so we do not recommend them for a short trip."
+    },
+    {
+      "q": "How windy is Jomsom?",
+      "a": "Very. A strong wind blows up the Kali Gandaki most days from late morning until evening, carrying dust and making the afternoon feel cold even in sun. That is why flights leave early and why our outings start soon after breakfast. Pack a windproof jacket, sunglasses and a scarf or buff."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "thame",
+  "name": "Thame",
+  "name_ne": "थामे",
+  "local_name": "Thami (Sherpa)",
+  "region": "everest-khumbu",
+  "kind": "village",
+  "wiki": "Thame, Nepal",
+  "image_query": "Thame village Khumbu Bhote Koshi",
+  "lat": 27.833,
+  "lng": 86.65,
+  "altitude_m": 3800,
+  "tagline": "Tenzing Norgay's village on the old salt road to Tibet",
+  "meta_description": "Thame, about 3,800 m: Tenzing Norgay's childhood village, the cliffside gompa and its Mani Rimdu, the salt route to the Nangpa La, and the 2024 flood.",
+  "summary": "Thame is a Sherpa village at about 3,800 m in the Bhote Koshi valley, half a day west of Namche, on the old salt-trade route to Tibet over the Nangpa La. Tenzing Norgay grew up here, Everest record-holders were born here, and its cliffside gompa holds Mani Rimdu each spring.",
+  "intro": [
+    "Thame sits where the Bhote Koshi valley opens into a wide, windswept basin of stone-walled fields, with the gompa clinging to a cliff above and the ice of Kongde and Teng Kangpoche behind. It was the last village where families lived year-round on the trade route between Tibet and Nepal. Above it, the trail runs on to Marlung, Lungden and the Nangpa La, the glacier pass Sherpas crossed with salt and yaks for centuries.",
+    "This is the village of climbers. Tenzing Norgay spent his childhood here before leaving for Darjeeling. Apa Sherpa, who once held the record for Everest ascents, and Kami Rita Sherpa, who holds it now, were both born in Thame. Lama Zopa Rinpoche, the teacher who led a worldwide Buddhist network, was born here too.",
+    "On 16 August 2024 a glacial-lake outburst flood tore through Thame, destroying homes, lodges and part of the village. Families are rebuilding. We still bring travellers here, with care and with spending that stays in the village, because the walk from Namche is one of the quietest in Khumbu and Thame's people want visitors back. Check current status before you travel."
+  ],
+  "story": {
+    "title": "Salt, yaks and the climbers' village",
+    "paras": [
+      "For centuries Thame's wealth came over the Nangpa La, a glacier pass at about 5,700 m on the Tibetan border. Sherpa traders took grain, paper, iron and cloth north and came back with Tibetan salt, wool and yaks, wintering their animals in the Bhote Koshi valley. Thame was the last village with year-round houses on that route, and its families grew skilled at long journeys over ice at altitude.",
+      "Those skills found a new use in the 20th century. Thame men carried loads for British expeditions on the Tibetan side of Everest in the 1920s and 1930s, walking from Khumbu to Darjeeling to find work. Tenzing Norgay, who grew up in Thame herding yaks, was one of them. On 29 May 1953 he and Edmund Hillary became the first confirmed climbers on Everest's summit. Generations of Thame climbers have followed, among them Apa Sherpa and Kami Rita Sherpa.",
+      "Modern Thame has a small hydro plant, opened in 1995 with 600 kW capacity, that helps light Khumbu. In August 2024 a rock avalanche into two glacial lakes above the village released a flood that swept down the valley and destroyed at least 15 structures. Homes, lodges and fields were lost. The rebuilding goes on, and so does Mani Rimdu in the gompa above."
+    ]
+  },
+  "legend": "Thame tells the story of the Lawudo Lama, a hermit who meditated for years in a cave at Lawudo above the trail from Namche. Local accounts say that after his death a small boy born in Thame in 1946 kept trying to climb to the cave and insisted he was the Lawudo Lama. Lamas recognised him as the hermit's reincarnation. He grew up to be Lama Zopa Rinpoche, who taught Buddhism across the world.",
+  "people": "Thame and its upper hamlet Thameteng are Sherpa villages of farmers, yak herders and mountaineers. Families grow potatoes and barley in walled fields, graze yaks and nak in summer pastures towards Marlung, and send sons and daughters to work on expeditions. Several of the most experienced Everest guides come from here. Sherpa is the home language; Tibetan was the language of trade over the Nangpa La.",
+  "untold": [
+    {"fact": "Thame and Thameteng were the last year-round villages on the salt trade route between Tibet, Nepal and India. Traders crossed the Nangpa La glacier pass, about 5,700 m, to reach Tibet.", "source": "Wikipedia: Thame, Nepal"},
+    {"fact": "Thame was the childhood home of Tenzing Norgay and is the home village of Apa Sherpa and Kami Rita Sherpa, two climbers who have each held the record for the most Everest ascents.", "source": "Wikipedia: Thame, Nepal"},
+    {"fact": "On 16 August 2024 two glacial lakes above Thame burst after a rock avalanche, releasing a flood that destroyed at least 15 structures in the village. Scientists linked it to the warming cryosphere.", "source": "Wikipedia: 2024 Thame flood"}
+  ],
+  "local_words": [
+    {"word": "la", "script": "ལ", "lang": "Sherpa", "meaning": "Mountain pass, as in Nangpa La, Renjo La, Cho La"},
+    {"word": "tsampa", "script": "རྩམ་པ", "lang": "Sherpa", "meaning": "Roasted barley flour, mixed with tea into dough"},
+    {"word": "lha gyalo", "script": "ལྷ་རྒྱལ་ལོ", "lang": "Tibetan", "meaning": "'Victory to the gods', called out on reaching a pass"}
+  ],
+  "taste": {"name": "Tsampa with butter tea", "text": "Tsampa is roasted barley flour, the travel food of Sherpa and Tibetan traders. Mixed by hand with butter tea in a bowl into a firm dough, it fuelled every crossing of the Nangpa La. Thame households still eat it at breakfast; ask your lodge to show you how to knead it."},
+  "facts": [["Best months", "Mar – May, Oct – Nov"], ["Days we suggest", "1–2 nights"], ["Nearest airport", "Lukla (LUA)"], ["From Kathmandu", "Flight to Lukla + 3 days on foot via Namche"], ["Altitude", "≈ 3,800 m"], ["Known for", "Tenzing Norgay, Thame gompa, Nangpa La salt route"]],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Thame gompa on its cliff", "text": "One of the oldest monasteries in Khumbu, Thame gompa is built into the rock face above the village, about 20–30 minutes' climb from the fields. Its Mani Rimdu, usually in May, is smaller and more local than Tengboche's autumn festival."},
+    {"title": "Tenzing Norgay's childhood village", "text": "Tenzing grew up herding yaks in Thame before leaving for Darjeeling and expedition work. Your guide can show the area of his family's house and tell how the village remembers him, a story told with pride in every Thame kitchen."},
+    {"title": "The quiet walk from Namche", "text": "The trail west from Namche to Thame takes 4–5 hours through Phurte and Thamo, with juniper, rhododendron and mani stones, and very few trekkers. It is a gentle climb of about 400 m and good acclimatisation."},
+    {"title": "Lawudo hermitage", "text": "Above the trail near Mende, the Lawudo hermitage is linked to the Lawudo Lama and his recognised reincarnation, Lama Zopa Rinpoche, born in Thame in 1946. It is a steep side climb with wide views of the Bhote Koshi valley."},
+    {"title": "Up the salt road to Marlung", "text": "A day walk north up the Bhote Koshi towards Marlung follows the old trade route to the Nangpa La, past yak pastures and stone herders' huts. It is also the approach to the Renjo La crossing to Gokyo."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Namche Bazaar, about 4–5 hours west via Phurte, Thamo and Samde, gaining around 400 m. From Gokyo, over the Renjo La (about 5,360 m) in two long days via Lungden."},
+    {"mode": "Air", "text": "The nearest airport is Lukla, three walking days away via Namche. Helicopters can land in the valley for emergencies."}
+  ],
+  "where_to_stay": "Thame has a handful of family-run teahouses with simple rooms, shared bathrooms and wood or yak-dung stoves in the dining room. Several were damaged or lost in the August 2024 flood, and others have been repairing; we confirm which lodges are open each season. Staying in a family lodge here puts money directly into the rebuilding. The upmarket Yeti Mountain Home lodge in Thame has been closed since 2025; check current status before you travel.",
+  "stays": [],
+  "tips": [
+    "Spend at least one night in Namche before walking to Thame, which is about 350–400 m higher.",
+    "Ask your guide about lodge status after the 2024 flood before you set off.",
+    "Visit the gompa early in the morning when monks and nuns are at prayer.",
+    "Walk past mani stones on the left side, keeping them on your right.",
+    "Carry layers: the Thame basin is windier and colder than Namche."
+  ],
+  "themes": ["villages-and-homestays", "heritage-and-temples", "treks-and-trails", "high-altitude"],
+  "nearby": ["namche-bazaar", "khumjung", "gokyo"],
+  "experiences": [
+    {
+      "slug": "thame-gompa-morning-prayers",
+      "title": "Morning prayers at Thame's cliffside gompa",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Early morning, all year; Mani Rimdu usually in May",
+      "image_query": "Thame monastery Khumbu",
+      "wiki": "",
+      "summary": "Climb 20–30 minutes from the village fields to Thame gompa, built against a cliff high above the Bhote Koshi, and sit in on the morning chanting. One of Khumbu's oldest monasteries, it stages Mani Rimdu in spring.",
+      "body": [
+        "Thame gompa looks as if it grew out of the rock: whitewashed buildings stacked against a cliff above the village, with prayer flags strung to the ridge. It is counted among the oldest monasteries in Khumbu, belonging, like most Sherpa gompas, to the Nyingma school of Tibetan Buddhism. The climb from the fields is short and steep, past chortens and a stream-turned prayer wheel.",
+        "Come early. In the morning the prayer hall fills with the deep drone of chanting, horns and drums, and butter lamps light the murals of Guru Rinpoche and the protector deities. Visitors may sit quietly at the back. Remove shoes and hats, never point your feet at the altar, and ask before photographing. A donation in the box helps support the monks.",
+        "Thame is one of three gompas that stage Mani Rimdu, the masked-dance festival brought from Rongbuk in Tibet. Thame's is usually in May, a smaller and more local event than Tengboche's in autumn, with families from the Bhote Koshi valley gathered in the courtyard. If your dates fit, it is a rare chance to see the cham dances in a village setting. Check current status before you travel."
+      ],
+      "good_for": ["solo", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "When is Mani Rimdu at Thame?", "a": "Thame's Mani Rimdu usually falls in May, set by the Tibetan lunar calendar, while Tengboche's is in October or November. The public days include a blessing, masked cham dances and a fire ceremony. Exact dates are confirmed locally each year, so check current status before you travel and plan Namche to Thame with a spare day."},
+        {"q": "How old is Thame monastery?", "a": "Thame gompa is considered one of the oldest monasteries in Khumbu, though exact founding dates differ between accounts, so we do not quote one. It belongs to the Nyingma tradition and is linked by teachers and rituals to Tengboche and to Rongbuk in Tibet. Ask the monks; they tell its history with care."},
+        {"q": "Can visitors attend morning prayers at Thame gompa?", "a": "Usually yes, if you are quiet and respectful. Arrive early, remove shoes and hat, sit at the back, and do not use flash. Ask before taking any photographs inside. A small donation is appreciated. If the hall is closed for a private ritual, wait outside or visit later in the day."}
+      ]
+    },
+    {
+      "slug": "thame-tenzing-norgay-village-walk",
+      "title": "Tenzing Norgay's Thame with a local guide",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Afternoon, Mar–May and Oct–Nov",
+      "image_query": "Thame village fields Sherpa houses",
+      "wiki": "Tenzing Norgay",
+      "summary": "Walk Thame's lanes with a guide who grew up in Khumbu to hear how Tenzing Norgay herded yaks here as a boy, why so many Everest climbers come from this valley, and how the village is rebuilding after the 2024 flood.",
+      "body": [
+        "Tenzing Norgay's early life is told in several versions, and even his birthplace is debated, but Thame is where he grew up. As a boy he herded his family's yaks in the summer pastures of the Bhote Koshi and listened to traders' stories of the world beyond the passes. In his teens he walked away to Darjeeling, then the hiring centre for Himalayan expeditions, and spent years as a high-altitude porter before reaching Everest's summit with Hillary in 1953.",
+        "A walk through Thame's fields with a local guide shows why this small valley produced so many climbers. Families here spent generations crossing a glacier pass at about 5,700 m with yaks and loads; going high was a way of life long before it became a profession. Your guide can point out the houses of well-known climbing families and explain how expedition work reshaped the village economy.",
+        "The walk also passes the scars of 16 August 2024, when a glacial-lake flood came down the side valley and destroyed homes and lodges. Listen more than you photograph. Families are rebuilding, and a meal or a night in a Thame lodge is the most direct way to help. Ask before taking pictures of homes or people."
+      ],
+      "good_for": ["solo", "first-timers", "families", "trekkers"],
+      "faqs": [
+        {"q": "Was Tenzing Norgay born in Thame?", "a": "His birthplace is debated. Some accounts place it in the Kharta valley in Tibet, others in Khumbu, and Tenzing himself gave different versions over his life. What is clear is that he grew up in Thame, herding yaks, before leaving for Darjeeling in his youth. Thame claims him as its own, with good reason."},
+        {"q": "Which famous climbers come from Thame?", "a": "Tenzing Norgay grew up here. Apa Sherpa, who once held the record for the most Everest ascents, and Kami Rita Sherpa, the current record holder, were both born in Thame. Many other expedition Sherpas come from Thame and neighbouring villages, which is why the valley is often called the home of Everest climbers."},
+        {"q": "Is it appropriate to visit Thame after the 2024 flood?", "a": "Yes, with sensitivity. Thame families depend on visitors, and spending money in local lodges and teahouses supports the rebuilding. Walk with a guide, ask before photographing damaged homes or people, and listen to how residents describe what happened. Check current status before you travel, as lodge availability changes."}
+      ]
+    },
+    {
+      "slug": "thame-lawudo-hermitage-hike",
+      "title": "Hike to the Lawudo hermitage above the Thame trail",
+      "kind": "spiritual",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–Nov and Mar–May",
+      "image_query": "Lawudo gompa Khumbu",
+      "wiki": "",
+      "summary": "A steep side trail above Mende, on the way between Namche and Thame, climbs to the Lawudo hermitage, the cave retreat of the Lawudo Lama, whose recognised reincarnation, Lama Zopa Rinpoche, was born in Thame. Quiet, high and rarely visited.",
+      "body": [
+        "Most trekkers walking from Namche to Thame never look up. Above the hamlets of Mende and Thamo, on a steep slope facing the Bhote Koshi, a cluster of small buildings and prayer flags marks the Lawudo hermitage. Here, local accounts say, the Lawudo Lama, Kunsang Yeshe, meditated in a cave for many years, and here pilgrims still come to pray.",
+        "The story goes on. A boy born in Thame in 1946 was recognised as the Lawudo Lama's reincarnation. He became Lama Zopa Rinpoche and spent his life teaching Tibetan Buddhism worldwide, through the network founded by his teacher Lama Yeshe. He died in 2023. The hermitage is cared for by monks and is a place of retreat; it is not a tourist site, and visitors should come quietly.",
+        "The climb is steep, gaining several hundred metres from the main trail, and takes about 1.5–2 hours up. Combine it with a night in Thame or Thamo and go in the morning, when the view across to Kongde and up towards Thame is clearest. Ask your guide to check that a visit is welcome that day, and leave a donation at the shrine."
+      ],
+      "good_for": ["solo", "trekkers", "photographers"],
+      "faqs": [
+        {"q": "Where is Lawudo gompa?", "a": "Lawudo is above the trail between Namche Bazaar and Thame, near the hamlets of Mende and Thamo, on a steep slope facing the Bhote Koshi valley. It is reached by a side path from the main trail, about 1.5–2 hours up. Your guide will know the turn-off. It is a retreat place, so visits should be quiet and brief."},
+        {"q": "Who was the Lawudo Lama?", "a": "The Lawudo Lama, Kunsang Yeshe, was a hermit who meditated for many years in a cave at Lawudo. A boy born in Thame in 1946 was recognised as his reincarnation and became Lama Zopa Rinpoche, a renowned teacher of Tibetan Buddhism worldwide. He died in 2023. Lawudo remains a site of pilgrimage for his students."},
+        {"q": "Is the Lawudo hike suitable for acclimatisation?", "a": "Yes, if done after a night or two in Namche. It climbs well above the main trail and returns lower, following the climb-high, sleep-low rule. The path is steep and rough in places, so trekking poles help. Turn back if you feel unwell, and do not attempt it on your first day above 3,000 m."}
+      ]
+    },
+    {
+      "slug": "thame-salt-road-marlung-walk",
+      "title": "Up the old salt road towards Marlung",
+      "kind": "trek",
+      "duration": "5–6 hours",
+      "best_time": "Morning start, Oct–Nov and Apr–May",
+      "image_query": "Bhote Koshi valley Marlung yak",
+      "wiki": "Nangpa La",
+      "summary": "Walk north from Thame up the Bhote Koshi on the route Sherpa traders used to reach Tibet over the Nangpa La, past yak pastures and herders' huts towards Marlung at about 4,200 m, then return. Wide valley views and very few people.",
+      "body": [
+        "Beyond Thame the valley widens and empties. The trail climbs gently along the Bhote Koshi past potato fields and then summer pastures, where stone huts stand empty in winter and full of herders and yaks in July and August. This is the old salt road: for centuries Sherpa and Tibetan traders drove yaks this way to the Nangpa La, a glacier pass at about 5,700 m, and down into Tibet.",
+        "Walking it today, you see the scale of what those journeys meant. The valley rises steadily towards ice and rock, the air thins, and the pass itself lies days beyond. Marlung, at about 4,200 m, is a small settlement with a few lodges, used as a stop on the Renjo La route to Gokyo. A day walk towards it from Thame and back gains good acclimatisation height.",
+        "Do not go beyond your guide's advice: the upper valley towards the border is remote, and crossings of the Nangpa La are not open to trekkers. Carry water, snacks and warm layers, as wind picks up by midday. On the way back, look for Himalayan tahr on the cliffs and for lammergeiers, the bearded vultures, riding the thermals above the ridges."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "Can trekkers cross the Nangpa La to Tibet?", "a": "No. The Nangpa La is on the Nepal–China border and is not an open crossing for trekkers. Traders historically used it, and Tibetan traders still sometimes come over for the Namche market when border rules allow. Trekkers can walk the valley towards Marlung and Lungden, which is also the route to the Renjo La."},
+        {"q": "How high is Marlung?", "a": "Marlung lies at about 4,200 m in the upper Bhote Koshi valley, north of Thame. It has a few simple lodges used by trekkers crossing the Renjo La between Thame and Gokyo. A day walk from Thame towards Marlung and back gains roughly 400 m, useful for acclimatisation before high passes."},
+        {"q": "Is the Thame valley good for the Renjo La crossing?", "a": "Yes. Many trekkers walk the Three Passes route anticlockwise or simply cross the Renjo La from Thame to Gokyo, staying at Marlung or Lungden before the pass at about 5,360 m. The approach up the Bhote Koshi is quiet and gradual. Acclimatise well, as it is a long, high day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Thame?", "a": "Thame lies at about 3,800 m in the Bhote Koshi valley, roughly 350–400 m above Namche Bazaar. Spend at least one night in Namche before sleeping in Thame. The walk from Namche takes about 4–5 hours and makes a gentle acclimatisation stage for those continuing to the Renjo La."},
+    {"q": "How do I get to Thame from Namche Bazaar?", "a": "Walk west from Namche on a well-marked trail via Phurte, Thamo and Samde, about 4–5 hours and roughly 400 m of climbing through juniper and rhododendron. It is quieter than the main Everest trail. Many walkers spend a night or two in Thame and return to Namche or continue over the Renjo La to Gokyo."},
+    {"q": "Was Thame affected by the 2024 flood?", "a": "Yes. On 16 August 2024 a glacial-lake outburst flood, triggered by a rock avalanche into two lakes above the village, destroyed at least 15 structures, including homes and lodges. Families have been rebuilding, and some lodges have reopened while others are still closed. Check current status before you travel."},
+    {"q": "Is Thame worth a detour from the Everest Base Camp trek?", "a": "If you have two or three extra days, yes. It adds a quiet Sherpa valley, a cliffside gompa, the story of Tenzing Norgay and the old Tibet trade route, and good acclimatisation. It is an easy out-and-back from Namche and can be woven into the acclimatisation days before the climb towards Tengboche."},
+    {"q": "Where did Tenzing Norgay live?", "a": "Tenzing Norgay grew up in Thame in Khumbu, herding yaks, before moving to Darjeeling in his youth to work on expeditions. He lived in Darjeeling for the rest of his life and died there in 1986. His birthplace is debated, with accounts naming both Tibet's Kharta valley and Khumbu."},
+    {"q": "Can I see Mani Rimdu in Thame?", "a": "Yes. Thame's gompa stages Mani Rimdu, usually in May, with masked cham dances in the courtyard. It is smaller and more local than the Tengboche festival in October or November. Dates follow the Tibetan lunar calendar; check current status before you travel and allow a spare day in your itinerary."},
+    {"q": "Are there lodges in Thame?", "a": "Yes, a handful of family-run teahouses with basic rooms and shared bathrooms. The August 2024 flood damaged or destroyed some, and availability varies by season while rebuilding continues. The upmarket Yeti Mountain Home Thame has been closed since 2025. We confirm lodge status before every booking; check current status before you travel."},
+    {"q": "Do I need a guide for Thame?", "a": "Nepal has required foreign trekkers in national parks to walk with a licensed guide since April 2023, though in Khumbu the rule has been applied unevenly. The Thame trail is easy to follow, but a guide adds lodge knowledge after the flood, local stories and safety on the Renjo La. Check current status before you travel."},
+    {"q": "What is the Nangpa La?", "a": "The Nangpa La is a glacier pass of about 5,700 m on the Nepal–China border north-west of Thame. For centuries it was the main trade route between Khumbu and Tibet, used by Sherpa and Tibetan traders with yaks carrying salt, wool and grain. Sherpa ancestors are believed to have crossed it when they first came to Khumbu."}
+  ]
+}

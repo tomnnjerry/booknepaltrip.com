@@ -1,0 +1,11 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ name }}{% if r %} in {{ r.name }}{% else %} in Nepal{% endif %} · Book Nepal Trip{% endblock %}
+{% block description %}{{ tagline }}: {{ intro|truncatechars:120 }}{% endblock %}
+{% block body_attrs %}{% if r %} data-land="{{ r.slug }}"{% endif %}{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">{% if r %}{{ r.name }} · {% endif %}Experiences</p><h1 class="h-xl">{{ name }}{% if r %} in {{ r.name }}{% else %} in Nepal{% endif %}</h1><p class="lede">{{ tagline }}. {{ intro }}</p></div></header>
+<section class="wrap" style="padding:10px 0 70px"><div class="grid grid--4">{% for e in exps %}{% include "yatra/partials/card_exp.html" %}{% endfor %}</div>
+  {% if lands and not r %}<h2 class="h-s" style="margin-top:40px">By region</h2><div class="chips">{% for x in lands %}<a class="chip" href="{% url 'region_kind' x.slug kind %}">{{ name }} in {{ x.name }}</a>{% endfor %}</div>{% endif %}
+  {% if others %}<h2 class="h-s" style="margin-top:30px">Other kinds</h2><div class="chips">{% for k, n in others %}<a class="chip" href="{% if r %}{% url 'region_kind' r.slug k %}{% else %}{% url 'experience_kind' k %}{% endif %}">{% icon k %}{{ n }}</a>{% endfor %}</div>{% endif %}
+</section>
+{% endblock %}

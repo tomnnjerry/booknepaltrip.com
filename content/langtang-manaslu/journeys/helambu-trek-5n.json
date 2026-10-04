@@ -1,0 +1,79 @@
+{
+  "slug": "helambu-trek-5n",
+  "title": "Helambu trek from Sundarijal to Tarkeghyang",
+  "region": "langtang-manaslu",
+  "kind": "trek",
+  "nights": 5,
+  "themes": ["treks-and-trails", "villages-and-homestays", "slow-and-wellness"],
+  "grade": "Moderate",
+  "stops": [
+    {"place": "chisapani", "nights": 1},
+    {"place": "helambu", "nights": 4}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 500,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3640,
+  "meta_description": "Helambu trek, 5 nights: walk out of Kathmandu at Sundarijal to Chisapani, Kutumsang, Tharepati and the Hyolmo villages of Melamchi Gaon and Tarkeghyang.",
+  "summary": "Five nights that start at the edge of Kathmandu: walk up from Sundarijal through Shivapuri forest to Chisapani, follow the ridge north to Kutumsang and Tharepati, then drop into the Hyolmo villages of Melamchi Gaon and Tarkeghyang. No long drive to the trailhead, no big altitude, and real mountain views from day one.",
+  "intro": [
+    "Helambu is the trek you can start after breakfast in Thamel. Sundarijal, where the trail begins, is about 45 minutes from the city, and within an hour you are climbing stone steps past the reservoir that still supplies part of Kathmandu's drinking water. The first night at Chisapani already looks across to Langtang, Jugal and Ganesh Himal. From there you follow a long forested ridge north, past Tamang and Hyolmo settlements, to Tharepati at 3,640 m.",
+    "The last two days are the heart of it. You descend into the Melamchi valley to Melamchi Gaon and cross to Tarkeghyang, villages of the Hyolmo people with old gompas, carved windows and apple orchards. A jeep brings you back to Kathmandu on the sixth day. It is a good first Himalayan trek, a good winter trek and a good choice if your time is short. The upper section lies in Langtang National Park, so you walk with a licensed guide; check current status before you travel."
+  ],
+  "story": "The trek starts in the city's backyard. Monkeys watch from the forest above Sundarijal as you climb into Shivapuri Nagarjun National Park, and by the time you reach Chisapani the valley's haze is behind you and white peaks fill the north. The ridge to Kutumsang passes Tamang farms where millet dries on rooftops in autumn, and the forest above thickens into rhododendron and fir. At Tharepati you stand on a ridge between two valleys, with the Jugal Himal close. Then you go down into Hyolmo country, where kitchens smell of butter tea, prayer flags snap above every house and old gompas keep their butter lamps lit. Five nights, and you have walked from a capital into a mountain culture.",
+  "highlights": [
+    "Starting on foot from Sundarijal, 45 minutes from Kathmandu",
+    "Sunrise from Chisapani over Langtang, Jugal and Ganesh Himal",
+    "The ridge walk to Tharepati (3,640 m) through rhododendron and fir",
+    "The Hyolmo villages of Melamchi Gaon and Tarkeghyang, with their gompas and orchards",
+    "Low altitude and short drives: a good winter trek and first trek"
+  ],
+  "days": [
+    {"day": 1, "title": "Sundarijal to Chisapani", "place": "chisapani", "overnight": "Chisapani", "alt_m": 2215,
+     "move": "≈ 45 min drive · ≈ 4–5 h walk · +850 m", "text": "A short drive takes you to Sundarijal on the north-east edge of the Kathmandu valley. The trail climbs stone steps beside the water pipeline and reservoir into Shivapuri Nagarjun National Park, where your guide pays the park entry fee. Above Mulkharka the path rises through forest to the pass at Borlang Bhanjyang, then drops gently to Chisapani, a hilltop cluster of lodges. On a clear evening the northern skyline runs from Ganesh Himal across Langtang to the Jugal Himal.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Along the ridge to Kutumsang", "place": "helambu", "overnight": "Kutumsang", "alt_m": 2470,
+     "move": "≈ 6–7 h walk · ups and downs", "text": "Wake early for sunrise from Chisapani, then walk north through terraced Tamang farmland to Pati Bhanjyang and Chipling, and on through forest to Gul Bhanjyang, a village of lodges and shops on a saddle. The afternoon climbs along the ridge to Kutumsang, perched at about 2,470 m with long views back to the south. This is a full day with several climbs and descents. Around here you enter Langtang National Park, and your guide shows your permit and TIMS card at the checkpost.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Through rhododendron forest to Tharepati", "place": "helambu", "overnight": "Tharepati", "alt_m": 3640,
+     "move": "≈ 5–6 h walk · +1,170 m", "text": "The longest climb of the trek, through forest of rhododendron, oak and fir that flowers red and pink in March and April. You pass the herders' shelters of Magen Goth and climb the ridge to Tharepati, a handful of lodges at 3,640 m where trails from Gosaikunda and Helambu meet. If the sky is clear, the sunset over the Jugal Himal and the deep Melamchi valley is the finest of the trip. Tharepati gets cold at night, so keep your down jacket handy.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Down into the Melamchi valley", "place": "helambu", "overnight": "Melamchi Gaon", "alt_m": 2530,
+     "move": "≈ 3–4 h walk · −1,110 m", "text": "A steep descent east from Tharepati through forest to Melamchi Gaon, the first Hyolmo village on this side. The short day gives you an afternoon in the village: visit the gompa with your guide, walk among the fields of potato and barley, and sit in a family kitchen for salt-butter tea. Hyolmo families speak their own Tibetan-related language and keep many of their old customs, though many young people now work in Kathmandu or abroad. Ask about the village's festivals; your hosts will be glad to explain.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Across the river to Tarkeghyang", "place": "helambu", "overnight": "Tarkeghyang", "alt_m": 2600,
+     "move": "≈ 5–6 h walk · −670 m / +740 m", "text": "Descend through terraces to the Melamchi Khola, cross on a suspension bridge and climb the far slope to Tarkeghyang, the largest Hyolmo village in Helambu. The name comes from its monastery, and the village is a dense cluster of stone houses joined along narrow lanes, with prayer flags overhead and apple trees around the edges. In autumn you may find apples drying on rooftops. Visit the gompa in the late afternoon light, then enjoy your last dinner on the trail with your guide and porter.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "≈ 6–7 h drive", "text": "A jeep collects you from Tarkeghyang, or from Sermathang a little further along the ridge when the road is in poor shape, and descends to Melamchi Bazaar, which was hit hard by floods in June 2021. From Melamchi Pul the road follows the Indrawati to the Araniko Highway and Kathmandu. You reach the city by afternoon, where the trip ends at your hotel. Road surfaces here change every monsoon, so allow a full day and do not book a flight for this evening.", "meals": "Breakfast, Lunch"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private transfers Kathmandu–Sundarijal and Tarkeghyang–Kathmandu by jeep",
+    "Licensed trekking guide and one porter for every two trekkers, with their wages, food, insurance and lodging",
+    "Shivapuri Nagarjun National Park and Langtang National Park entry fees, and TIMS card",
+    "Five nights in teahouse and village lodges, twin sharing, with three meals a day on trek"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before and after the trek",
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking and helicopter evacuation",
+    "Hot showers, battery charging, drinks and snacks",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Foreign trekkers in national parks must trek with a licensed guide under rules in force since April 2023; check current status before you travel.",
+    "Shivapuri Nagarjun National Park charges a separate entry fee from Langtang National Park; fees change, so check current status before you travel.",
+    "Tharepati is cold from November to February; bring a sleeping bag rated to about −10 °C.",
+    "Lodges in Helambu are simpler than on the Annapurna or Everest trails, with fewer hot showers.",
+    "Monsoon rain from June to September brings leeches to the forest sections and landslides to the road."
+  ],
+  "faqs": [
+    {"q": "Is the Helambu trek good for beginners?", "a": "Yes. It is one of the best first treks in Nepal. The highest point is Tharepati at 3,640 m, so altitude problems are uncommon, and the trailhead is under an hour from Kathmandu. Days are 3 to 7 hours with real climbs, so some fitness is needed. If you can walk six hours on hills at home, you will enjoy it."},
+    {"q": "How far is Sundarijal from Kathmandu?", "a": "Sundarijal is about 15 km from Thamel on the north-east edge of the Kathmandu valley, usually 45 minutes to an hour by car depending on traffic. Local buses go from Ratna Park, but a private transfer saves time with packs. The trail starts near the Sundarijal reservoir and enters Shivapuri Nagarjun National Park almost at once."},
+    {"q": "Which permits are needed for the Helambu trek?", "a": "You pay the Shivapuri Nagarjun National Park entry fee near Sundarijal and need a Langtang National Park permit, about NPR 3,000 for foreigners, for the upper trail from around Kutumsang. A TIMS card is also required. We arrange these before you set out; fees change, so check current status before you travel."},
+    {"q": "Can I do the Helambu trek in winter?", "a": "Yes, it is one of the better winter treks in Nepal. December to February brings clear skies and good views, with cold nights, especially at Tharepati, where temperatures often fall below −5 °C. Snow sometimes covers the trail above Kutumsang for a few days after storms. Lodges are quiet and some may close, so your guide plans each night ahead."},
+    {"q": "What makes Helambu different from the Langtang Valley trek?", "a": "Helambu is lower, closer to Kathmandu and more about villages than big glaciers. You walk ridges and farmland rather than a deep glacial valley, and the culture is Hyolmo and Tamang. Langtang takes you higher, to 3,870 m and beyond, with closer views of big peaks. Helambu is better for a short trip or winter."},
+    {"q": "Can I extend the Helambu trek to Gosaikunda?", "a": "Yes. From Tharepati a trail runs north-west via Ghopte and over the Laurebina La at 4,610 m to Gosaikunda, then down to Dhunche. It adds three to four days and much more altitude, so it suits fit walkers. Doing the route from Dhunche toward Helambu is easier for acclimatisation; see our Gosaikunda and Helambu trek."},
+    {"q": "Is there a road to Tarkeghyang?", "a": "Yes. Rough roads now reach Tarkeghyang and Sermathang from Melamchi, which is why this trek can end with a drive rather than another day of walking. The upper roads are dirt and are often damaged in the monsoon. Your guide checks which pickup point is best before you reach the end of the trek."},
+    {"q": "Are there ATMs on the Helambu trek?", "a": "No. There are no ATMs on the trail between Sundarijal and Tarkeghyang. Bring enough Nepali rupees from Kathmandu for drinks, snacks, hot showers, charging and tips. A budget of about NPR 2,000 to 3,000 a day for extras is plenty for most walkers, since meals and rooms are already included."},
+    {"q": "What wildlife might I see in Shivapuri and Helambu?", "a": "Rhesus macaques and langurs are common in the forests above Sundarijal, and Shivapuri Nagarjun National Park is good for birds, including barbets, laughingthrushes and pheasants. Higher up in Langtang National Park, the forest is habitat for red panda and Himalayan black bear, though sightings are rare. Early mornings give the best chance."}
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "ilam-sandakpur-kanyam-5n",
+  "title": "Ilam, Sandakpur and Kanyam",
+  "region": "eastern-nepal",
+  "kind": "tour",
+  "nights": 5,
+  "themes": ["photography", "villages-and-homestays", "food-and-festivals", "lakes-and-rivers"],
+  "grade": "Moderate",
+  "stops": [
+    {"place": "ilam", "nights": 2},
+    {"place": "sandakpur", "nights": 1},
+    {"place": "ilam", "nights": 1},
+    {"place": "kanyam", "nights": 1}
+  ],
+  "start": "Kathmandu (morning flight to Bhadrapur)",
+  "end": "Kathmandu",
+  "price_from_usd": 1050,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3636,
+  "meta_description": "Ilam, Sandakpur and Kanyam, 5 nights: tea gardens, Mai Pokhari lake and sunrise on Everest, Lhotse, Makalu and Kanchenjunga from Sandakpur at 3,636 m.",
+  "summary": "Five nights that climb from the tea gardens of Ilam to the Singalila ridge at Sandakpur, 3,636 m, where four of the five highest mountains on earth line up at sunrise. A homestay night at Mai Pokhari breaks the climb, and you finish among the clipped tea slopes of Kanyam. Jeeps, short walks and a licensed guide.",
+  "intro": [
+    "Sandakpur is the Nepal side of Sandakphu, the highest point of the Singalila ridge and the border with India's West Bengal. From the top, on a clear morning, the horizon holds Everest, Lhotse, Makalu and Kanchenjunga, four of the five highest peaks in the world, with the whole Kanchenjunga massif close enough to read its glaciers. Most visitors reach it from Darjeeling. Very few come from Ilam, which is a pity, because the Nepal approach runs through tea, cardamom and village life rather than a stream of jeeps.",
+    "We take it in stages. Two nights in Ilam to settle in and taste the tea, a homestay night at Mai Pokhari to adjust to the height, then a jeep and a walk up to the ridge for sunset and sunrise. The way down passes back through Ilam to Kanyam, where the tea slopes glow in the evening. The highest night is cold and simple, but the rest of the trip is gentle and comfortable."
+  ],
+  "story": "The journey starts in the heat of Jhapa and climbs the whole way. Rice gives way to tea at Kanyam, tea to cardamom and broom grass beyond Ilam, and then forest of oak, chestnut and rhododendron as the road crawls toward Mai Pokhari, where lamps float on a dark lake. On the ridge above, the trees thin, bamboo gives way to grass and the wind smells of snow. At Sandakpur the world turns white and blue: Kanchenjunga rises close in the north and, far to the west, the black pyramid of Everest sits between Lhotse and Makalu. The next day you drop back into the green, tea in hand, and finish where the trip began, on a slope of clipped bushes above the plains.",
+  "highlights": [
+    "Sunrise on Everest, Lhotse, Makalu and Kanchenjunga from Sandakpur at 3,636 m",
+    "A homestay night beside Mai Pokhari, a sacred lake and Ramsar wetland",
+    "Walks through the Ilam tea estate and a small orthodox factory",
+    "The Singalila ridge forest of rhododendron, oak and bamboo",
+    "Sunset over the tea slopes of Kanyam"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bhadrapur, drive to Ilam", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 50 min flight · ≈ 100 km · 3–4 h drive", "text": "A morning flight from Kathmandu to Bhadrapur, then a drive across the Jhapa plains and up the Mechi Highway into the tea hills. We stop briefly at Kanyam on the way up for a first look at the tea slopes; you come back here for a full night at the end. Ilam bazaar sits on a ridge with tea gardens below. In the late afternoon walk into the Ilam estate, where narrow paths run between the rows and shade trees. Dinner in the bazaar, with your guide explaining the plan for the ridge.", "meals": "Breakfast, Dinner"},
+    {"day": 2, "title": "Ilam to Mai Pokhari", "place": "ilam", "overnight": "Mai Pokhari", "alt_m": 2100, "move": "≈ 1.5–2 h drive · short walks", "text": "A slow morning in Ilam with a tea factory visit, then we drive north through cardamom and broom grass to Mai Pokhari, a sacred lake at about 2,100 m in Sandakpur rural municipality. The lake is ringed by forest and was listed as a Ramsar wetland in 2008. Walk the path round the shore, watch for birds and visit the shrine where pilgrims leave lamps and red cloth. Tonight is in a village homestay near the lake: a wood-fired kitchen, home-grown vegetables and an early night under thick quilts.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Up the ridge to Sandakpur", "place": "sandakpur", "overnight": "Sandakpur", "alt_m": 3636, "move": "≈ 5–6 h by jeep and on foot", "text": "A long day by jeep on rough ridge roads through villages and forest, with the last stretch on foot when the track is poor. The air cools quickly and the forest changes to rhododendron, oak and bamboo. You reach the Singalila ridge in the afternoon and sleep in a simple lodge on the Nepal side. Sunset over the Kanchenjunga massif is the first reward. It is cold at night, often below freezing from November to March; bring a down jacket. Track conditions and lodges change, so check current status before you travel.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Sunrise at Sandakpur, down to Ilam", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 6–7 h by jeep and on foot", "text": "We rise before dawn and walk to the top of the ridge. As the light comes, Kanchenjunga turns pink first, then the line of peaks to the west: Makalu, Lhotse and Everest, small and sharp about 140 km away. After breakfast we start the long descent back through forest and villages to Ilam. The border runs along the ridge here, and foreigners may not cross into India at Sandakpur, so we stay on the Nepal side throughout. Hot showers and dinner in Ilam.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Ilam to Kanyam", "place": "kanyam", "overnight": "Kanyam", "alt_m": 1570, "move": "≈ 35 km · 1–1.5 h drive", "text": "A late breakfast and a short morning walk with a tea picker in the Ilam estate, then we drive along the ridge past Fikkal to Kanyam. The afternoon is free on the tea slopes, which are at their best in the evening light when the mist comes up from the plains. Your guide can arrange a tasting with a small local producer. Dinner is simple, home-style and usually includes a plate of kinema or fried chhurpi alongside the dal bhat.", "meals": "Breakfast, Dinner"},
+    {"day": 6, "title": "Drive to Bhadrapur, fly to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 2–2.5 h drive · ≈ 50 min flight", "text": "Sunrise on the tea slopes, then we drive down the Mechi Highway to the plains and catch the flight to Kathmandu. If time allows, we stop in Birtamod to buy loose-leaf tea from a local shop, packed by the factories you passed. On a clear afternoon the flight gives one last look at the Himalaya you watched from Sandakpur, now on your right as you fly west. Our driver meets you at Kathmandu airport and takes you to your hotel.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Bhadrapur–Kathmandu flights",
+    "Private car and 4WD jeep with driver for all transfers",
+    "Licensed English-speaking guide for the whole trip",
+    "Five nights in simple hotels, a village homestay and a ridge lodge, twin sharing where available",
+    "Meals as listed and a tea factory visit",
+    "Kathmandu airport transfers"
+  ],
+  "excludes": [
+    "International flights, Nepal visa fees and travel insurance",
+    "Hotel nights in Kathmandu",
+    "Meals not listed and drinks",
+    "Tips for guide and driver"
+  ],
+  "good_to_know": [
+    "The night at Sandakpur is at 3,636 m and is reached by jeep in a day; mild headaches are common, and we go down if symptoms get worse.",
+    "Lodges on the Nepal side of the ridge are simple, with shared toilets and thick quilts; the larger lodges at the top are on the Indian side.",
+    "Foreigners may not cross into India at Sandakpur; we stay on the Nepal side.",
+    "The ridge road is rough and can close after heavy rain or snow; check current status before you travel.",
+    "The clearest views are in October, November and December; spring brings rhododendrons but more haze."
+  ],
+  "faqs": [
+    {"q": "Can you see Everest from Sandakpur?", "a": "Yes. On a clear morning you can see Everest, Lhotse and Makalu to the west and the Kanchenjunga massif close to the north from the top of Sandakpur, at 3,636 m. Everest is about 140 km away and looks small but unmistakable. The best months for clear views are October to December. In spring, haze often hides the western peaks after sunrise."},
+    {"q": "Is Sandakpur the same as Sandakphu?", "a": "Yes, they are the same summit on the Singalila ridge. Sandakphu is the name used in India, where it is the highest point of West Bengal; Sandakpur is the Nepali spelling, and the rural municipality on the Nepal side in Ilam district carries the same name. The border runs along the ridge, so the top is shared between the two countries."},
+    {"q": "How do I reach Sandakpur from Nepal?", "a": "From Ilam bazaar, rough jeep roads run north through Mai Pokhari and the ridge villages toward Sandakpur, a long day of six to eight hours. Some sections are unpaved and can close in the monsoon. You can also walk from the Ilam side in three to five days with homestays. We break the drive with a night at Mai Pokhari."},
+    {"q": "Can foreigners cross into India at Sandakpur?", "a": "No. The ridge is the border, but there is no official crossing point for foreign nationals at Sandakpur, and the Indian side lies in Singalila National Park, which has its own permits. On our trip you stay on the Nepal side. If you also want to visit Darjeeling, we can plan an onward crossing at Kakarbhitta on the plains."},
+    {"q": "How cold is it at Sandakpur?", "a": "It is cold. From November to March night temperatures often drop below freezing and the wind can be strong at sunrise. Even in October and April, expect close to freezing before dawn. Bring a down jacket, hat, gloves and warm sleeping layers. Lodges provide thick quilts, but rooms are not heated."},
+    {"q": "Will I get altitude sickness at Sandakpur?", "a": "Some people feel mild symptoms at 3,636 m, such as a headache or poor sleep, especially after a fast climb by jeep. We reduce the risk with a night at Mai Pokhari at about 2,100 m on the way up. Drink plenty of water, avoid alcohol that night and tell your guide if you feel unwell. Serious altitude sickness is uncommon at this height but possible."},
+    {"q": "What is Mai Pokhari?", "a": "Mai Pokhari is a small sacred lake at about 2,100 m north of Ilam bazaar, surrounded by forest and listed as a Ramsar wetland of international importance in 2008. Pilgrims visit to worship the goddess of the lake, and birders come for the forest species around its shore. It is a peaceful place to spend a night on the way to Sandakpur."},
+    {"q": "When is the best time for the Sandakpur trip?", "a": "October to December has the clearest skies and the best mountain views, though nights are cold. March and April are good, with rhododendrons in flower on the ridge but more haze. We avoid June to August, when monsoon cloud hides the peaks and the ridge road is often muddy or closed."},
+    {"q": "How much does the Ilam, Sandakpur and Kanyam trip cost?", "a": "Our five-night trip is from USD 1,050 per person, twin sharing. It includes return flights to Bhadrapur, a private car and 4WD jeep, a licensed guide, five nights in hotels, a homestay and a ridge lodge, a tea factory visit and the meals listed. The ridge jeep is a large part of the cost because roads are rough and slow."}
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "slug": "annapurna-base-camp-trek-11n",
+  "title": "Annapurna Base Camp Trek",
+  "region": "pokhara-annapurna",
+  "kind": "trek",
+  "nights": 11,
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "villages-and-homestays",
+    "photography"
+  ],
+  "grade": "Challenging",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    },
+    {
+      "place": "ghandruk",
+      "nights": 1
+    },
+    {
+      "place": "annapurna-base-camp",
+      "nights": 6
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1350,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 4130,
+  "meta_description": "Annapurna Base Camp in 11 nights: Gurung villages, the Modi Khola gorge and a night at 4,130 m inside the Annapurna Sanctuary, with a licensed guide.",
+  "summary": "Eleven nights from Kathmandu to the Annapurna Sanctuary and back: a flight to Pokhara, a road to the Gurung village of Ghandruk, then six days up and down the Modi Khola to sleep at Annapurna Base Camp, 4,130 m, ringed by Annapurna I, Annapurna South and Machhapuchhre.",
+  "intro": [
+    "The Annapurna Sanctuary is a bowl of ice and moraine about 10 km across, closed on almost every side by peaks above 6,500 m. The only way in is the gorge of the Modi Khola, a gap so narrow that the trail runs through bamboo and rhododendron forest until, at about 3,700 m, the walls fall back and the whole amphitheatre opens at once. That moment at Machhapuchhre Base Camp is why people walk here.",
+    "We build this trek with one rest day in Pokhara at the end, because cloud, a landslide on the jeep road or a cancelled domestic flight can push plans by a day. Teahouses are simple but warm, with a dining room stove and dal bhat refilled until you say stop. Your guide is licensed, local to Kaski or Myagdi, and your porter carries up to 20 kg for two. Guides carry a first-aid kit and a pulse oximeter."
+  ],
+  "story": "The trek begins in rice terraces and ends on ice. On the first walking days you are among Gurung houses of slate and stone in Ghandruk and Chhomrong, where the old men wear the khukuri and the younger ones run the lodges. Past Chhomrong the villages stop: from here every building is a lodge, built on land leased from the conservation area, and the Gurung name for the sanctuary forest is treated with respect, with no meat carried above a certain point by long custom. The gorge narrows, the river grows louder, the bamboo gives way to rhododendron and then to grass and avalanche debris below Deurali. At base camp, at dawn, the sun hits the south face of Annapurna I, the first 8,000 m peak ever climbed, in 1950, while the camp is still in shadow.",
+  "highlights": [
+    "Sunrise at Annapurna Base Camp, 4,130 m, with Annapurna I (8,091 m) filling the north side of the sanctuary",
+    "The fishtail summit of Machhapuchhre (6,993 m), a peak closed to climbers and never officially summited",
+    "Gurung villages of Ghandruk and Chhomrong, stone houses, millet fields and a Gurung museum",
+    "The natural hot springs at Jhinu Danda on the way down, a 20-minute walk below the lodges",
+    "Six days in the Modi Khola gorge: bamboo, rhododendron, langur monkeys and the sound of the river"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "We meet you at Tribhuvan International Airport and drive you to your hotel in Thamel or Lazimpat, about 20 to 30 minutes depending on traffic. In the evening your guide comes to the hotel with a kit check: boots broken in, a down jacket for the sanctuary nights, a sleeping bag rated to about minus 10 °C, sunglasses, water treatment. We collect passport copies and photos for the ACAP permit. If you land early there is time for a slow walk to Swayambhunath, the hilltop stupa, to stretch the legs after the flight.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Pokhara, evening by Phewa Lake",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "≈ 25 min flight, or ≈ 200 km · 6–8 h by road",
+      "text": "A morning flight to Pokhara International Airport takes about 25 minutes; sit on the right side heading west for the Ganesh, Manaslu and Annapurna ranges. If flights are cancelled by cloud we drive the Prithvi Highway instead, 6 to 8 hours along the Trishuli and Marsyangdi rivers. Afternoon free in Lakeside. Machhapuchhre is often clear late in the day, reflected in Phewa Lake, and it is good to see the mountain you will walk to the foot of. Your guide collects the ACAP permit in Pokhara if it was not issued in Kathmandu.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Drive to Kimche, walk up to Ghandruk",
+      "place": "ghandruk",
+      "overnight": "Ghandruk",
+      "alt_m": 1940,
+      "move": "≈ 2.5 h drive · then ≈ 1.5 h walk · +400 m",
+      "text": "A jeep takes us out of the Pokhara valley over the Nayapul road and up the Modi Khola side valley to Kimche, the end of the motorable track. From here a stone staircase climbs through terraces to Ghandruk, one of the largest Gurung villages in Kaski, with slate roofs stacked up the hillside. The afternoon is for the village: the small Gurung museum with its bamboo baskets and old dress, the lanes of stone-walled houses, and the ACAP office that runs the conservation area. Annapurna South and Hiunchuli stand straight up the valley at sunset.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Ghandruk to Chhomrong",
+      "place": "annapurna-base-camp",
+      "overnight": "Chhomrong",
+      "alt_m": 2170,
+      "move": "≈ 6 h walk · +700 m / −500 m",
+      "text": "A long day of contours. We climb gently to Komrong Danda, drop to the Kimrong Khola, and climb again to Chhomrong, the last true village on the route and the gateway to the sanctuary. Chhomrong spills down a hillside in hundreds of stone steps; the lodges at the top have the best view straight across to Annapurna South and Machhapuchhre. There is a bakery tradition here among lodge owners, so expect chocolate cake. This is also the last place to buy snacks at near-normal prices: above here everything is carried in on porters' backs.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Chhomrong to Bamboo",
+      "place": "annapurna-base-camp",
+      "overnight": "Bamboo",
+      "alt_m": 2310,
+      "move": "≈ 5–6 h walk · +600 m / −450 m",
+      "text": "Chhomrong's famous staircase goes down to the Chhomrong Khola suspension bridge before you climb to Sinuwa, which can feel cruel on the first morning. From Sinuwa the trail enters the Modi Khola gorge proper: tall bamboo, oak and rhododendron, moss on everything, and grey langurs moving through the canopy. Bamboo is a cluster of a few lodges in a clearing named for the forest around it. The walls of the gorge are so close that the sun leaves early, and the dining room stove becomes the centre of the evening.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Bamboo to Deurali",
+      "place": "annapurna-base-camp",
+      "overnight": "Deurali",
+      "alt_m": 3230,
+      "move": "≈ 5 h walk · +900 m",
+      "text": "We climb steadily past Dovan and Himalaya lodge as the forest thins into rhododendron and then open grass. Just above Himalaya is the Hinku cave, an overhang that sheltered early expedition parties before lodges were built. Deurali sits below steep slopes where avalanches have fallen in heavy snow years; your guide checks conditions with lodge owners each morning, and in late winter and early spring the trail sometimes switches to the other bank. Keep fluids up and walk slowly: you gain about 900 m today.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Through MBC to Annapurna Base Camp",
+      "place": "annapurna-base-camp",
+      "overnight": "Annapurna Base Camp",
+      "alt_m": 4130,
+      "move": "≈ 5–6 h walk · +900 m",
+      "text": "The valley floor widens and climbs to Machhapuchhre Base Camp, 3,700 m, where the sanctuary opens: Annapurna I, Annapurna South, Hiunchuli, Gangapurna and the fishtail rising behind the lodges. After tea we continue over grass and moraine for about 2 hours to Annapurna Base Camp, 4,130 m. There are a handful of lodges, memorial chortens with prayer flags for climbers lost on Annapurna, and a ridge of moraine to climb for the glacier view. Nights are cold, often well below freezing from November to March. Watch for headache and breathlessness and tell your guide early.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Sunrise at ABC, down to Bamboo",
+      "place": "annapurna-base-camp",
+      "overnight": "Bamboo",
+      "alt_m": 2310,
+      "move": "≈ 7 h walk · −1,800 m",
+      "text": "Wake before 6 am and climb the moraine wall behind the lodges. The first light touches the summit of Annapurna I, then works down the south face, then turns Machhapuchhre gold, all while the camp is still blue and frozen. After breakfast we descend the way we came, past MBC, Deurali and Himalaya to Bamboo. Losing 1,800 m in a day is hard on the knees; poles help. The thicker air is felt by lunch, and most people sleep better tonight than for the last two nights.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Bamboo to Jhinu Danda hot springs",
+      "place": "annapurna-base-camp",
+      "overnight": "Jhinu Danda",
+      "alt_m": 1780,
+      "move": "≈ 6 h walk · +450 m / −1,000 m",
+      "text": "Back through Sinuwa and up the Chhomrong stairs, then down the far side of the village to Jhinu Danda. The lodges sit on a shoulder above the Modi Khola, and a 20-minute path below them leads to natural hot springs beside the river, built up into small concrete pools. After a week of cold-water washing, an hour in the springs is the best reward of the trek. Bring a swimsuit; the pools are shared and the local custom is modest dress.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Walk out and drive to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "≈ 3 h walk · then ≈ 2.5 h drive",
+      "text": "An easy morning along the Modi Khola to the road head at Siwai or New Bridge, depending on the jeep track's condition that season. A jeep takes us down to Nayapul and back to Pokhara by early afternoon. Hot shower, laundry, and dinner in Lakeside. We usually suggest fried fish from Phewa or a plate of Thakali khana set at one of the kitchens near Lakeside's main road, as a change from the trail menu.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 11,
+      "title": "Spare day in Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "",
+      "text": "This day is a buffer in case weather or a landslide slowed us on the trail, and if it is not needed it is yours. Row a boat to the Tal Barahi temple on its island in Phewa Lake, walk up to the World Peace Pagoda on the ridge above the south shore, or sleep in. Pokhara's Gurkha Memorial Museum tells the story of the soldiers recruited from the villages you have just walked through.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 12,
+      "title": "Fly to Kathmandu, trip ends",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 25 min flight",
+      "text": "A morning flight back to Kathmandu connects with international departures from mid-afternoon. If your flight home is the next day, we can book an extra night for you in Kathmandu and arrange a guide for Patan or Bhaktapur. We take the trek permits back for our records and say goodbye at the airport. Your guide will usually give you a khata, a white scarf, for a safe journey. Allow at least three hours between a Pokhara flight and an international connection.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Airport transfers in Kathmandu and Pokhara",
+    "Kathmandu–Pokhara–Kathmandu flights (road transfer if flights are cancelled)",
+    "1 night in a 3-star hotel in Kathmandu and 3 nights in a 3-star hotel in Pokhara Lakeside, twin sharing with breakfast",
+    "7 nights in teahouses with three meals a day on the trek",
+    "Licensed English-speaking trekking guide and one porter for two trekkers",
+    "ACAP entry permit and any trekking card required at the time of travel",
+    "Jeep transfers Pokhara–Kimche and road head–Pokhara"
+  ],
+  "excludes": [
+    "International flights and Nepal visa (USD 30 for 15 days on arrival at last check)",
+    "Travel insurance that covers helicopter evacuation up to 5,000 m",
+    "Lunch and dinner in Kathmandu and Pokhara",
+    "Hot showers, battery charging and Wi-Fi in teahouses (usually NPR 200–600 each)",
+    "Tips for guide and porter",
+    "Bottled drinks and snacks"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers in Nepal's conservation areas must walk with a licensed guide; check current status before you travel.",
+    "Above Deurali the trail crosses old avalanche paths; in heavy snow years from January to April it may be closed for a day or two.",
+    "Prices in teahouses rise with altitude: a plate of dal bhat costs about NPR 600 in Ghandruk and close to NPR 1,000 at ABC.",
+    "There are no ATMs past Ghandruk; carry enough Nepali rupees in cash for extras.",
+    "By lodge custom in the sanctuary, pork, chicken and buffalo are not served above Chhomrong; meals are vegetarian with eggs."
+  ],
+  "faqs": [
+    {
+      "q": "How hard is the Annapurna Base Camp trek?",
+      "a": "It is a challenging but non-technical trek. Expect five to seven hours of walking a day for seven days, with thousands of stone steps, especially around Chhomrong. The highest night is 4,130 m, high enough for mild altitude symptoms. If you can walk 15 km with 800 m of climbing on consecutive days at home, you will manage it. Training on stairs for six weeks makes the biggest difference."
+    },
+    {
+      "q": "Is altitude sickness a risk at ABC?",
+      "a": "Yes, but a moderate one. The itinerary climbs from 2,310 m at Bamboo to 3,230 m at Deurali and then to 4,130 m, which is a fast gain for some people. Most trekkers feel a headache or poor sleep at base camp. Serious altitude illness is rare here, but if symptoms worsen your guide will take you down to MBC or Deurali, which almost always fixes it."
+    },
+    {
+      "q": "Do I need a guide for Annapurna Base Camp?",
+      "a": "Since April 2023 Nepal's rules require foreign trekkers in conservation areas, including the Annapurna Conservation Area, to trek with a licensed guide hired through a registered agency. Enforcement has varied at checkpoints, so check current status before you travel. Our price includes a licensed guide and a porter for every two trekkers."
+    },
+    {
+      "q": "What does the ABC trek cost?",
+      "a": "Our version starts from USD 1,350 per person, twin sharing, including flights between Kathmandu and Pokhara, hotels, teahouse meals, guide, porter and permits. On the trail, budget about USD 15–25 a day extra for showers, charging, snacks and drinks. The ACAP fee itself is NPR 3,000 for foreign nationals at last check."
+    },
+    {
+      "q": "When is the best time for the Annapurna Base Camp trek?",
+      "a": "October and November give the clearest skies and stable weather; March and April bring rhododendron forests in flower and warmer days with some afternoon cloud. December to February is possible but cold, with snow and avalanche risk above Deurali. June to September is monsoon: leeches, cloud and slippery stairs, though the trail stays open."
+    },
+    {
+      "q": "How cold is it at Annapurna Base Camp?",
+      "a": "In October and November night temperatures at ABC usually fall to about minus 5 to minus 10 °C, with sunny days near 10 °C. In December to February nights can reach minus 15 °C. Lodges have no heating in bedrooms, only a stove in the dining room, so bring a four-season sleeping bag or hire one in Pokhara."
+    },
+    {
+      "q": "Can I do ABC in fewer days?",
+      "a": "Fit trekkers sometimes do it in five or six days from Pokhara by driving closer to Jhinu or Siwai and walking longer days. We do not recommend gaining altitude faster than this itinerary: the climb from Bamboo to ABC in two days is already steep. A rushed trek also leaves no buffer for weather on the flight days."
+    },
+    {
+      "q": "Is there Wi-Fi and phone signal on the ABC trail?",
+      "a": "Most lodges sell Wi-Fi for a small charge, and Nepal Telecom and Ncell signal reaches Ghandruk, Chhomrong and parts of the route. Inside the gorge between Bamboo and Deurali signal is patchy. At ABC some lodges have a connection, but it can be slow or off when the power is low. Treat it as a bonus, not a guarantee."
+    },
+    {
+      "q": "Can I combine ABC with Poon Hill?",
+      "a": "Yes. Add two to three days by starting at Tikhedhunga, climbing to Ghorepani for the Poon Hill sunrise, and crossing via Tadapani to Chhomrong. It makes a 13 or 14 night trip from Kathmandu. The extra days also help acclimatisation, because you spend nights near 2,800 m before entering the sanctuary."
+    }
+  ]
+}

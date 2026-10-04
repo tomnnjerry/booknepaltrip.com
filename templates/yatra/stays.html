@@ -1,0 +1,7 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Where to stay in Nepal: hotels, lodges and homestays · Book Nepal Trip{% endblock %}
+{% block description %}Real, operating hotels, jungle lodges, mountain lodges and farm stays we use in Nepal, region by region.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Stays</p><h1 class="h-xl">Where we like to sleep</h1><p class="lede">Real places that are open today: heritage courtyards in Kathmandu, lake lodges in Pokhara, jungle lodges in Chitwan and mountain lodges in Khumbu. On treks, most nights are in family teahouses, which we choose village by village.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px">{% for r in regions %}{% if r.stays %}<div data-land="{{ r.slug }}" style="margin-bottom:46px"><h2 class="h-m"><a href="{{ r.url }}" style="color:inherit;text-decoration:none">{{ r.name }}</a></h2><div class="grid grid--4">{% for s in r.stays %}{% include "yatra/partials/card_stay.html" %}{% endfor %}</div></div>{% endif %}{% endfor %}</section>
+{% endblock %}

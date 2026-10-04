@@ -1,0 +1,292 @@
+{
+  "slug": "limi-valley-trek-16n",
+  "title": "Limi Valley Trek from Simikot",
+  "region": "far-west",
+  "kind": "trek",
+  "nights": 16,
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "spiritual-and-pilgrimage",
+    "villages-and-homestays"
+  ],
+  "grade": "Strenuous",
+  "stops": [
+    {
+      "place": "simikot",
+      "nights": 7
+    },
+    {
+      "place": "limi-valley",
+      "nights": 7
+    },
+    {
+      "place": "simikot",
+      "nights": 2
+    }
+  ],
+  "start": "Nepalgunj Airport (KEP), morning flight to Simikot",
+  "end": "Nepalgunj, by air from Simikot",
+  "price_from_usd": 3450,
+  "best_months": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    0
+  ],
+  "pace": "Active",
+  "max_altitude_m": 4949,
+  "meta_description": "Limi Valley trek, 16 nights from Simikot: up the Karnali to Hilsa, over to Til, Halji and Jang in the Limi valley, and back over the Nyalu La.",
+  "summary": "Sixteen nights in upper Humla, a restricted area on Nepal's border with Tibet. Walk up the Karnali from Simikot to Hilsa, turn west into the Limi valley and its three Tibetan villages of Til, Halji and Jang, then cross the 4,949 m Nyalu La and return through the Salli Khola. Camping all the way, with a restricted area permit.",
+  "intro": [
+    "Limi is a high, dry valley in the far north-west corner of Nepal, separated from the rest of Humla by passes over 4,500 m and open to Tibet on the north. Three villages, Til, Halji and Jang, live here as they have for centuries: Tibetan-speaking Buddhist farmers and herders who grow barley and buckwheat, keep yaks, and until recently traded salt, wool and grain across the border at Purang. Halji's monastery, Rinchenling, is the spiritual centre of the valley.",
+    "This is one of the most remote treks in Nepal. Upper Humla is a restricted area, so you need a special permit, a licensed agency and at least two trekkers. There are no lodges in Limi; we camp with a full crew and pack animals. The reward is a Himalaya without signboards, where the arrival of a trekking group is news in every village. Plan for cold nights, long days and very few other trekkers on the trail."
+  ],
+  "story": "From Simikot's ridge the trail drops to the Karnali and follows it north through Thakuri and Chhetri villages, pine forest and the hot springs at Kermi. Then the Tibetan world begins: prayer walls at Yalbang, the monastery's chants, flat-roofed stone houses at Tumkot, the barren slopes below Yari. Over the Nara La you look into Tibet before dropping to Hilsa on the border river. Then west, along a high trail above the Karnali gorge, into Limi: Til on its hillside, Halji around its old monastery, Jang among barley fields. The last great effort is the Nyalu La, close to 5,000 m, with the sacred peaks of Tibet behind you, and then the long walk down through forest to Simikot.",
+  "highlights": [
+    "The three villages of the Limi valley, Til, Halji and Jang, and the Rinchenling monastery at Halji",
+    "The Nyalu La at 4,949 m, with views north toward the mountains of western Tibet",
+    "The Nara La at about 4,560 m and the border village of Hilsa on the Karnali",
+    "Yalbang's Namkha Khyung Dzong monastery and the hot springs at Kermi",
+    "A trek where you may share camp with yak caravans and see blue sheep on the slopes"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly Nepalgunj to Simikot",
+      "place": "simikot",
+      "overnight": "Simikot",
+      "alt_m": 2910,
+      "move": "≈ 45 min flight",
+      "text": "The morning flight from Nepalgunj to Simikot, about forty-five minutes, crosses ridge after ridge of the Karnali hills before landing on the airstrip that runs along the ridge top. Simikot, the headquarters of Humla district, sits at about 2,910 m. We complete the restricted area permit check, meet the crew and pack animals, and take the afternoon gently, walking through the bazaar and to the viewpoint above town. A first night in a simple lodge.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Simikot to Dharapuri",
+      "place": "",
+      "overnight": "Dharapuri",
+      "alt_m": 2300,
+      "move": "≈ 5 h walk · +100 m, −700 m",
+      "text": "We climb briefly over the ridge behind Simikot and then descend through pine forest toward the Karnali. The trail passes Thakuri and Chhetri villages where families grow wheat, barley and buckwheat on narrow terraces, and mule caravans carry rice and fuel north. Dharapuri, at about 2,300 m, lies above the river among walnut and apricot trees. Camp in a field by the village. The crew sets up the kitchen tent first, and tea is ready before your tent is.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dharapuri to Kermi",
+      "place": "",
+      "overnight": "Kermi",
+      "alt_m": 2670,
+      "move": "≈ 5 h walk · +370 m",
+      "text": "An easy day up the Karnali valley to Kermi, the first village where you see the change from Hindu to Buddhist culture: prayer flags, mani stones and Tibetan faces. Kermi is known for its hot springs, about half an hour's walk from the village, a welcome bath after two days on the trail. In the evening the crew may buy local potatoes and buckwheat for dinner. Camp at about 2,670 m.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kermi to Yalbang",
+      "place": "",
+      "overnight": "Yalbang",
+      "alt_m": 3020,
+      "move": "≈ 5 h walk · +350 m",
+      "text": "The trail climbs over a small pass with views of the Karnali gorge, through pine forest and past barley fields, to Yalbang. Above the village stands Namkha Khyung Dzong, one of the largest monasteries in Humla, home to a community of Nyingma monks. If the monks are at prayer in the afternoon, we sit quietly at the back of the assembly hall. Camp at about 3,020 m, with the sound of the river below.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Yalbang to Tumkot",
+      "place": "",
+      "overnight": "Tumkot",
+      "alt_m": 3080,
+      "move": "≈ 5 h walk",
+      "text": "We follow the Karnali upstream on a trail cut into the cliffs, crossing side streams and passing the village of Muchu with its flat-roofed stone houses. The valley narrows and dries out as you move north into the rain shadow. Tumkot sits above the river, with a small monastery on the hillside. In this stretch the new Karnali Corridor road sometimes runs close to the trail; our guide takes the footpath wherever it survives.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tumkot to Yari",
+      "place": "",
+      "overnight": "Yari",
+      "alt_m": 3663,
+      "move": "≈ 6 h walk · +580 m",
+      "text": "A long climb out of the valley floor to Yari, the last village before the Nara La, at about 3,663 m. The landscape is now high desert: bare slopes, juniper bushes, mani walls and the occasional herd of goats and yaks. In the afternoon you may see trading caravans resting at Yari before or after the pass. We camp and rest for tomorrow's crossing; drink well and walk slowly. The crew checks the pack animals' loads for the pass.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Over the Nara La to Hilsa",
+      "place": "",
+      "overnight": "Hilsa",
+      "alt_m": 3647,
+      "move": "≈ 6–7 h walk · +900 m, −920 m",
+      "text": "We start early for the climb to the Nara La, about 4,560 m, marked by cairns and prayer flags. On a clear morning the view north looks across the Karnali to the brown hills of Tibet. The descent is long and steep to Hilsa, the border village on the Karnali at about 3,647 m, opposite the Chinese side of the crossing where pilgrims head for Mount Kailash. We camp near the village, the northern end of the Karnali walk.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Hilsa to Manepeme",
+      "place": "limi-valley",
+      "overnight": "Manepeme",
+      "alt_m": 3990,
+      "move": "≈ 6 h walk · +340 m",
+      "text": "We cross the river and turn west on a trail that climbs high above the Karnali gorge toward the Limi valley. The path is narrow in places, cut into cliffs, with long drops to the river, and our crew leads the pack animals carefully. Manepeme is a camping place below a cliff with old meditation caves, at about 3,990 m, on the traditional route between Limi and the border. Blue sheep are often seen on the slopes above.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Manepeme to Til",
+      "place": "limi-valley",
+      "overnight": "Til",
+      "alt_m": 4000,
+      "move": "≈ 6 h walk",
+      "text": "The trail continues high above the gorge, crossing a ridge with views back to the mountains of Tibet, then drops into the Limi valley at Til, the first of its three villages, at about 4,000 m. Til's houses are stacked up the hillside around its monastery, with fields of barley and buckwheat below. Villagers will invite you to their roofs to watch the evening. Camp in the village fields. Ask before you photograph people or the monastery.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Til to Halji",
+      "place": "limi-valley",
+      "overnight": "Halji",
+      "alt_m": 3660,
+      "move": "≈ 4 h walk · −340 m",
+      "text": "An easy walk down the valley to Halji, the largest village in Limi, at about 3,660 m. Its centre is the Rinchenling monastery, a whitewashed and red complex whose oldest parts are centuries old. Local tradition links its founding to the great translator Rinchen Zangpo, who built temples across western Tibet around the turn of the first millennium. We arrive by lunch and spend the afternoon in the village. The monastery fee goes to the village.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "A day in Halji",
+      "place": "limi-valley",
+      "overnight": "Halji",
+      "alt_m": 3660,
+      "move": "Rest day · short walks",
+      "text": "A rest and acclimatisation day. In the morning we visit Rinchenling with a lama or caretaker, who unlocks the inner chapels and shows the old statues and murals. In the afternoon walk through the lanes of tightly packed stone houses, where women weave on backstrap looms and families stack firewood and dung on the rooftops for winter. Limi people speak a Tibetan dialect and trade with Purang across the border. Evening tea with a family if invited.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Halji to Jang",
+      "place": "limi-valley",
+      "overnight": "Jang",
+      "alt_m": 3930,
+      "move": "≈ 4 h walk · +270 m",
+      "text": "We follow the Limi river west to Jang, the third and highest of the villages, at about 3,930 m, on the edge of open pastures that lead toward the Nyalu La. On the way there are hot springs by the river, known simply as Tatopani, and we stop for a soak. Jang has its own small monastery and fields of barley that ripen in late August and September. In summer, herding families move with their yaks to camps higher up the valley.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Jang to Talung",
+      "place": "limi-valley",
+      "overnight": "Talung",
+      "alt_m": 4370,
+      "move": "≈ 6–7 h walk · +440 m",
+      "text": "A long, quiet day up the Talung valley, away from villages. The trail follows the river through wide grazing land where you may pass yak herders' tents in summer. Blue sheep, marmots and lammergeiers are common, and the area is snow leopard country, though they are almost never seen. Camp at Talung, about 4,370 m, the highest camp of the trek. Expect a very cold night; the crew will have hot water bottles ready.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Over the Nyalu La to Shinjungma",
+      "place": "",
+      "overnight": "Shinjungma",
+      "alt_m": 3620,
+      "move": "≈ 8 h walk · +580 m, −1,330 m",
+      "text": "The big day. We start before dawn and climb to the Nyalu La, about 4,949 m, the highest point of the trek. From the top you look back over the Limi ranges, and on a clear day to the snow peaks of western Tibet, with Saipal Himal to the south. A small glacial lake lies below the pass. The descent is long and steep into the Salli Khola valley to Shinjungma, a camping place at about 3,620 m among the first trees.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 15,
+      "title": "Down the Salli Khola to Kermi",
+      "place": "",
+      "overnight": "Kermi",
+      "alt_m": 2670,
+      "move": "≈ 7 h walk · −950 m",
+      "text": "We follow the Salli Khola down through forest of pine and birch, with streams and meadows along the way, and rejoin the Karnali trail at Kermi. The change in the air is clear: warmer, greener, with crops and villages again. In the evening there is time for one last soak in the Kermi hot springs, and the crew prepares a farewell dinner with whatever fresh food the village can offer.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 16,
+      "title": "Kermi to Simikot",
+      "place": "simikot",
+      "overnight": "Simikot",
+      "alt_m": 2910,
+      "move": "≈ 7–8 h walk · +600 m",
+      "text": "A long last day back down the Karnali valley past Dharapuri and up the steep final climb to Simikot. It is the same trail as the first days, but you see it differently now, after the high valleys. In Simikot we stay in a lodge, settle the crew's tips and celebrate in the evening. The guide confirms seats on the next morning's flight to Nepalgunj. If the lodge has hot water, it is your first proper shower in two weeks.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 17,
+      "title": "Fly Simikot to Nepalgunj",
+      "place": "",
+      "overnight": "Nepalgunj or Kathmandu",
+      "alt_m": 165,
+      "move": "≈ 45 min flight",
+      "text": "The morning flight from Simikot to Nepalgunj takes about forty-five minutes. In Nepalgunj you can connect to an afternoon flight to Kathmandu or rest a night in the heat of the plain. Flights from Simikot are often delayed by weather, so we keep a spare day before any international departure. If the flight is cancelled, you stay another night in Simikot. Bring snacks; the airport has little food. Nepalgunj has good hotels for a night of rest.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Nepalgunj–Simikot–Nepalgunj flights (economy) with extra baggage for camping gear",
+    "Upper Humla restricted area permit",
+    "Licensed trekking guide, cook, kitchen crew, and porters or pack animals",
+    "Full camping equipment, all meals on trek and lodge nights in Simikot",
+    "Crew wages, food, insurance and equipment"
+  ],
+  "excludes": [
+    "Kathmandu–Nepalgunj flights and hotels in Nepalgunj or Kathmandu",
+    "International flights, visa and travel insurance with helicopter evacuation cover to 5,000 m",
+    "Sleeping bag, personal gear, drinks and tips",
+    "Extra nights caused by flight cancellations"
+  ],
+  "good_to_know": [
+    "Upper Humla, including Limi and the Simikot–Hilsa trail, is a restricted area. At the time of writing the permit costs USD 50 per person for the first 7 days and USD 10 per day after that; you need at least two trekkers, a licensed agency and a licensed guide. Check current status before you travel.",
+    "There are no lodges in Limi; this trek camps on almost every night.",
+    "The Nyalu La can hold snow until June and from October; we time the trek between June and October.",
+    "Upper Humla lies in the rain shadow, so the trek works in the monsoon, but flights to Simikot are less reliable then.",
+    "Phone signal is rare beyond Kermi; our guide carries a satellite phone for emergencies."
+  ],
+  "faqs": [
+    {
+      "q": "Where is the Limi Valley?",
+      "a": "Limi is in the far north of Humla district in Karnali Province, north-western Nepal, bordering the Tibet Autonomous Region of China. It holds three villages, Til, Halji and Jang, at around 3,700 to 4,000 m. The usual access is by air to Simikot, then about a week on foot via Hilsa or over the Nyalu La."
+    },
+    {
+      "q": "Do I need a special permit for the Limi Valley trek?",
+      "a": "Yes. Upper Humla is a restricted area. At the time of writing the permit costs USD 50 per person for the first seven days and USD 10 per day after that. It is issued only through a licensed trekking agency, for groups of at least two, with a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "How difficult is the Limi Valley trek?",
+      "a": "Strenuous. You walk 16 days, mostly five to eight hours a day, with two passes: the Nara La at about 4,560 m and the Nyalu La at 4,949 m. Trails are rough and sometimes exposed. You need previous multi-day trekking experience, good fitness and comfort with camping in cold, remote country."
+    },
+    {
+      "q": "When is the best time to trek to Limi?",
+      "a": "June to October. Limi is in the rain shadow of the main Himalaya, so it stays fairly dry even in the monsoon, and the passes are usually free of snow from June to early October. May and late October are possible with some snow risk. From November to April deep snow closes the high passes."
+    },
+    {
+      "q": "What is Halji's Rinchenling monastery?",
+      "a": "Rinchenling is the main monastery of the Limi valley, at the centre of Halji village. It belongs to the Drikung Kagyu tradition of Tibetan Buddhism and holds old statues, murals and texts. Local tradition links its founding to the translator Rinchen Zangpo, who built temples across western Tibet about a thousand years ago."
+    },
+    {
+      "q": "Can I go into Tibet from Hilsa?",
+      "a": "Hilsa faces the Chinese border crossing on the Karnali, which pilgrims use to reach Mount Kailash. Crossing requires a Chinese group visa and Tibet permits arranged in advance through an agency in Kathmandu, and the border has opened and closed at different times. This trek stays in Nepal; ask us about Kailash separately and check current status before you travel."
+    },
+    {
+      "q": "Are there teahouses in Humla and Limi?",
+      "a": "Only in Simikot and a few villages on the lower Karnali trail, and they are basic. In Limi there are no lodges, so you need a full camping crew with tents, a kitchen and pack animals or porters. We use family homes for tea and conversation, but sleep and eat in our own camp."
+    },
+    {
+      "q": "What wildlife can I see in Limi?",
+      "a": "Blue sheep, marmots, Tibetan woolly hare and birds such as lammergeiers and Himalayan griffons are common. Limi is also snow leopard and Tibetan wolf country, and wild yak have been recorded in the area, but all three are rarely seen. Early mornings in the upper Talung valley give the best chances."
+    },
+    {
+      "q": "How fit do I need to be for the Nyalu La day?",
+      "a": "Very fit. The pass day is about eight hours, climbing nearly 600 m to 4,949 m and then descending more than 1,300 m. By then you have acclimatised for almost two weeks, which helps a great deal. Training with long hill walks carrying a daypack for several months beforehand is the best preparation."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "syabrubesi",
+  "name": "Syabrubesi",
+  "name_ne": "",
+  "local_name": "",
+  "region": "langtang-manaslu",
+  "kind": "trek stop",
+  "wiki": "Syaphru",
+  "image_query": "Syabrubesi Rasuwa village river",
+  "lat": 28.162,
+  "lng": 85.344,
+  "altitude_m": 1460,
+  "tagline": "Trailhead town where the Langtang and Bhote Koshi rivers meet",
+  "meta_description": "Syabrubesi, the Langtang trailhead at 1,460 m: road from Kathmandu, the old Kerung trade route, the 2026 flood and recovery, and what to know before you go.",
+  "summary": "Syabrubesi is the roadhead for the Langtang Valley and the Tamang Heritage Trail, at about 1,460 m where the Langtang Khola joins the Bhote Koshi. It was badly damaged by the flood of 26 August 2026, and rebuilding is under way. Check current status before you travel.",
+  "intro": [
+    "Syabrubesi is a river town at about 1,460 m in Rasuwa district, roughly 120 km north of Kathmandu. Besi means flat land by a river, and the town grew on the flats below the older hill village of Syabru, at the meeting point of the Langtang Khola and the Bhote Koshi. For decades it has been where trekkers step off the bus and walk into the Langtang Valley, and where the road continues north to Timure and the Tibetan border at Rasuwagadhi.",
+    "Before 2026 it was a strip of lodges, shops and bus stops, with hot showers, momo and the rattle of trucks heading for the border. On the morning of 26 August 2026 a glacier collapse near Langtang Lirung sent a flood of water, ice and rock down the Bhote Koshi and Trishuli. Syabrubesi was among the places hit hardest, with hundreds of buildings destroyed and many people dead or missing. We write this page with that in mind.",
+    "The trail above Syabrubesi, up the separate Langtang Khola, was reported in September 2026 as not directly damaged, but the town and the road to it need months of rebuilding. Local lodge owners, guides and porters depend on trekkers coming back when it is safe. When access reopens, staying here and spending money here is one of the most useful things a visitor can do. Check current status before you travel."
+  ],
+  "story": {
+    "title": "A river town on the road to Kerung",
+    "paras": [
+      "For centuries the valley of the Bhote Koshi, which the Nepali name itself marks as the river from Bhot, or Tibet, was one of the main trade corridors between Kathmandu and the Tibetan town of Kerung, now Gyirong. Salt, wool and livestock came south; grain, cloth and metal went north. Caravans walked through what is now Syabrubesi and Timure to the border at Rasuwagadhi, where a stone fort was built in 1855 during Nepal's war with Tibet under Jung Bahadur Rana.",
+      "The area also saw battle. In July 1792, during the second campaign of the war between Nepal and Qing China, fighting reached Syabru and Rasuwagadhi as the Chinese army pushed south toward Nuwakot. The modern town grew much later, once the road arrived and the Langtang National Park, created in 1976, began drawing trekkers. In December 2014 the Rasuwagadhi crossing opened to international trade, and trucks carrying goods from China became part of daily life in Syabrubesi.",
+      "Then came two floods. In July 2025 a glacial lake outburst washed away the Miteri Bridge at the border and damaged the road north of Syabrubesi. On 26 August 2026 a far larger disaster came down the same valley. Syabrubesi lost much of its built-up area, and the road south through Trishuli Bazaar was cut. Nepal declared the area a disaster zone. The people of Syabrubesi, many of them Tamang families who have run lodges here for a generation, are now rebuilding."
+    ]
+  },
+  "legend": "",
+  "people": "Syabrubesi and the hill village of Syabru above it are mainly Tamang, with Tibetan-speaking families from the upper valleys and Nepali-speaking traders and officials who came with the road. Tamang is spoken at home and Nepali in shops. People earned a living from lodges, transport and border trade, and from maize, millet and potatoes on the terraces. Many households lost family members, homes or businesses in August 2026.",
+  "untold": [
+    {
+      "fact": "The road from Syabrubesi north to the Tibetan border at Rasuwagadhi is about 18 km long and forms the last section of National Highway 42, the Trishuli Corridor, which ends beside the 1855 Rasuwa fort.",
+      "source": "Wikipedia: Rasuwa Fort"
+    },
+    {
+      "fact": "Syabru was the scene of a battle in the second campaign of the Sino-Nepalese War, around 24 July 1792, when Qing troops under Fuk'anggan advanced from Tibet toward Nuwakot.",
+      "source": "Wikipedia: Syaphru"
+    },
+    {
+      "fact": "The flood of 26 August 2026 was not caused by rain: no rain was recorded that morning at the Rasuwa district headquarters. Scientists linked it to a rock and ice collapse from a glacier near Langtang Lirung.",
+      "source": "Wikipedia: 2026 Nepal–Tibet floods"
+    }
+  ],
+  "local_words": [
+    {"word": "besi", "script": "बेसी", "lang": "Nepali", "meaning": "Flat, low land beside a river"},
+    {"word": "Fyafulla", "script": "", "lang": "Tamang", "meaning": "Tamang greeting, used like namaste"},
+    {"word": "Bhot", "script": "भोट", "lang": "Nepali", "meaning": "Old Nepali name for Tibet, as in Bhote Koshi"}
+  ],
+  "taste": {
+    "name": "Tamang momo and thukpa",
+    "text": "Before the flood, Syabrubesi's lodges served buff or vegetable momo and thick noodle thukpa to every arriving trekker, with chilli-tomato achar on the side. When lodges reopen, eat in family-run kitchens: your order helps them rebuild. Ask for local potatoes boiled in their skins with salt and chilli."
+  },
+  "facts": [
+    ["Best months", "Mar – May, Oct – Nov"],
+    ["Days we suggest", "1 night before and after the trek"],
+    ["Nearest airport", "Kathmandu (KTM)"],
+    ["From Kathmandu", "≈ 120 km · 7–9 h by road (normal conditions)"],
+    ["Altitude", "≈ 1,460 m"],
+    ["Known for", "Langtang trailhead, Kerung trade route, 2026 flood recovery"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Gateway to Langtang", "text": "Syabrubesi is where the Langtang Valley trek begins and ends. The trail leaves town over the river and climbs the Langtang Khola through forest toward Lama Hotel, Langtang village and Kyanjin Gompa, three days away."},
+    {"title": "Start of the Tamang Heritage Trail", "text": "The loop through Gatlang, Tatopani, Thuman and Briddim begins and ends near Syabrubesi. It is a lower, quieter trek through Tamang villages with homestays and mountain views of Langtang and Ganesh Himal."},
+    {"title": "The Kerung trade road", "text": "North of town the old route to Tibet follows the Bhote Koshi to Timure and the 1855 fort at Rasuwagadhi. The road and border crossing were destroyed in the 2025 and 2026 floods, but the history of the corridor is still told in every village."},
+    {"title": "River confluence", "text": "The Langtang Khola, milky with glacier melt, joins the Bhote Koshi just below town. Before 2026 a short walk took you to the meeting of the two rivers; ask locally what is safe to visit now."},
+    {"title": "Recovery tourism", "text": "When access reopens, a night in a local lodge, a meal in a family kitchen and a local porter hired here put money directly into a community rebuilding after the disaster of August 2026."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "About 120 km from Kathmandu via Kakani, Trishuli, Betrawati and Dhunche on the Pasang Lhamu Highway, normally 7 to 9 hours by private jeep. After the 26 August 2026 flood the lower road was cut and access has relied on detours; check current status before you travel."},
+    {"mode": "Air", "text": "There is no airport. Charter helicopters can reach the area from Kathmandu in under an hour and were used widely in rescue and relief."}
+  ],
+  "where_to_stay": "Before August 2026, Syabrubesi had dozens of family-run lodges along the main road and in the upper part of town near the old bus park, with private rooms and hot showers. Many were damaged or destroyed in the flood. As rebuilding goes on, we place travellers only in lodges our team has checked in person, and in some periods it may be better to sleep at Dhunche, the district headquarters about 2,030 m up the road, or at Briddim's homestays on the hillside. Check current status before you travel.",
+  "stays": [],
+  "tips": [
+    "Check current status of the road and town before booking, since conditions are changing month by month after the 2026 flood.",
+    "Carry enough Nepali cash for the trek from Kathmandu; banking and ATMs in Rasuwa were disrupted.",
+    "Buy snacks and toiletries in Kathmandu, as shops in Syabrubesi may have limited stock while rebuilding.",
+    "Hire local porters through your agency rather than independently, so they have insurance and fair pay.",
+    "Be careful near the river: banks and debris fields left by the flood can still be unstable."
+  ],
+  "themes": ["treks-and-trails", "villages-and-homestays", "lakes-and-rivers"],
+  "nearby": ["langtang-village", "briddim", "gatlang", "gosaikunda"],
+  "experiences": [
+    {
+      "slug": "syabrubesi-lama-hotel-first-day",
+      "title": "First day on the Langtang trail to Lama Hotel",
+      "kind": "trek",
+      "duration": "6–7 hours",
+      "best_time": "Morning start, Mar–May and Oct–Nov",
+      "image_query": "Langtang Khola trail forest bamboo",
+      "wiki": "",
+      "summary": "The opening day of the Langtang Valley trek, climbing from about 1,460 m to Lama Hotel at about 2,470 m along the Langtang Khola, through subtropical forest, bamboo and oak, with langur monkeys and the sound of the river all day.",
+      "body": [
+        "From Syabrubesi the trail crosses the river and follows the Langtang Khola east into a narrow gorge. The first hours are warm, through mixed forest with bamboo thickets, ferns and moss. Grey langur monkeys move through the trees, and in spring you may see red panda signs higher up, although the animals themselves are shy and rarely seen.",
+        "Tea stops at small settlements such as Bamboo, at about 1,970 m, break the day. The climb is steady rather than steep, with stone steps in places and a few suspension bridges. By early afternoon you reach Lama Hotel, a cluster of lodges in the forest at around 2,470 m, where the air is noticeably cooler.",
+        "This section lies on the Langtang Khola, a different river from the one that flooded in August 2026, and trekking operators reported it was not directly damaged. Even so, check current status before you travel, and walk with a licensed guide as required since April 2023."
+      ],
+      "good_for": ["trekkers", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How hard is the walk from Syabrubesi to Lama Hotel?", "a": "It is a moderate day of about 6 to 7 hours with roughly 1,000 m of ascent, mostly steady uphill on stone trail with some steps and bridges. It is warm and humid in the lower forest, so start early, carry 2 litres of water and take breaks at Bamboo. No technical skills are needed."},
+        {"q": "Will I see red pandas on the Langtang trail?", "a": "Possibly, but do not count on it. Red pandas live in the bamboo and rhododendron forest of Langtang National Park, mostly between about 2,500 and 3,500 m, and are shy and active at dawn and dusk. Grey langurs, birds and pheasants are far more common. A quiet early walk with a local guide gives the best chance."},
+        {"q": "Are the lodges at Lama Hotel open?", "a": "Lama Hotel has several family-run lodges that normally open in the trekking seasons. After the August 2026 flood, which disrupted the road to Syabrubesi, some lodges in the valley closed temporarily. Our team confirms which lodges are operating before each departure; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "syabrubesi-rasuwagadhi-trade-route-story",
+      "title": "The Kerung trade route and Rasuwagadhi fort",
+      "kind": "heritage",
+      "duration": "Half day (when access allows)",
+      "best_time": "Oct–Nov, Mar–Apr",
+      "image_query": "Rasuwagadhi fort border Nepal",
+      "wiki": "Rasuwa Fort",
+      "summary": "The road north from Syabrubesi follows the old salt and wool route to Kerung in Tibet, past Timure to the 1855 stone fort at Rasuwagadhi. Destroyed by floods in 2025 and 2026, it is now a place of history and memory rather than an excursion.",
+      "body": [
+        "For centuries traders, pilgrims and soldiers used the Bhote Koshi corridor between Kathmandu and Kerung. Caravans carried salt and wool south and grain and goods north. In 1855, during the war with Tibet under Jung Bahadur Rana, Nepal built a stone fort at Rasuwagadhi above the confluence of the Lhende Khola and Kerung Khola, right on the border.",
+        "In 2014 the crossing reopened for international trade and, after the 2015 earthquake closed the Kodari crossing, became one of Nepal's busiest links with China, used by trucks and by pilgrims heading for Mount Kailash. The July 2025 flood swept away the Miteri Bridge; the August 2026 flood destroyed the border complex, the customs office and hundreds of vehicles, with heavy loss of life.",
+        "We do not run sightseeing trips into the disaster zone. Instead, your guide tells the story of the trade route and the fort in Syabrubesi or Briddim, where many families have relatives who worked on the border road. If the authorities reopen the road and it is appropriate to visit, we will update this page; check current status before you travel."
+      ],
+      "good_for": ["first-timers", "solo", "seniors"],
+      "faqs": [
+        {"q": "Can tourists visit Rasuwagadhi fort?", "a": "Before 2025 the fort could be seen from the border road north of Timure. After the floods of July 2025 and August 2026, which destroyed the road, bridge and border complex, the area has not been a place for tourist visits. Check current status before you travel, and respect closures set by the authorities."},
+        {"q": "Is the Rasuwagadhi border open to Tibet?", "a": "No, not as of early October 2026. The 26 August 2026 flood destroyed the Gyirong Port crossing and severed the road, and trade moved to the Korala crossing in Mustang. Even in normal years foreign tourists usually needed a Tibet group visa arranged in advance. Check current status before you travel."},
+        {"q": "Why is it called the Bhote Koshi?", "a": "Bhot is the old Nepali name for Tibet, and Bhote Koshi means the Koshi river that comes from Tibet. Several rivers in Nepal share the name. This one forms at Rasuwagadhi where the Lhende and Kerung rivers meet, flows past Timure and Syabrubesi, and becomes part of the Trishuli."}
+      ]
+    },
+    {
+      "slug": "syabrubesi-tamang-heritage-trail-start",
+      "title": "Start the Tamang Heritage Trail",
+      "kind": "trek",
+      "duration": "5–7 days for the loop",
+      "best_time": "Oct–Dec, Mar–Apr",
+      "image_query": "Tamang Heritage Trail Gatlang village",
+      "wiki": "",
+      "summary": "From the Syabrubesi area a lower trek loops west and north through Tamang villages: Gatlang with its stone houses, the hot springs of Tatopani, Thuman and the homestays of Briddim. Altitudes stay mostly between 1,500 and 3,200 m.",
+      "body": [
+        "The Tamang Heritage Trail was developed as a community-based route so that villages away from the main Langtang trail could earn from tourism. It takes you through Tamang settlements where houses are built of stone and timber with carved windows, and where homestays, not lodges, are the norm.",
+        "A typical loop runs from the Syabrubesi area to Gatlang, then over ridges to Tatopani, where natural hot springs are channelled into bathing pools, up to the viewpoint at Nagthali for views of Langtang and Ganesh Himal, down to Thuman and Timure, and back via Briddim. The high point at Nagthali is around 3,200 m.",
+        "Parts of the loop near Timure lie close to the Bhote Koshi, which flooded in August 2026, and the road links were damaged. Routes will need checking before each trip; check current status before you travel. The upper villages are worth the effort when access is safe."
+      ],
+      "good_for": ["trekkers", "families", "photographers", "solo"],
+      "faqs": [
+        {"q": "How long is the Tamang Heritage Trail?", "a": "Most itineraries take 5 to 7 walking days from the Syabrubesi area, plus the road journeys from and to Kathmandu. It can be combined with the Langtang Valley trek for a 10 to 12 day trip. Walking days are 4 to 6 hours, and the highest point, around Nagthali, is about 3,200 m."},
+        {"q": "Is the Tamang Heritage Trail harder than the Langtang Valley trek?", "a": "It is generally easier on the body because it stays lower, mostly below about 3,200 m, so altitude is less of a concern. Some days include steep climbs and descents on village trails. It is a good choice for families, first-time trekkers and anyone more interested in village life than high mountains."},
+        {"q": "Was the Tamang Heritage Trail affected by the 2026 flood?", "a": "The flood of 26 August 2026 struck the Bhote Koshi valley, including Timure, which lies on the loop, and damaged Chilime hydropower near Gatlang and the roads around Syabrubesi. Higher villages such as Gatlang and Briddim sit well above the river, but access depends on repaired roads. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "syabrubesi-community-recovery-visit",
+      "title": "Meet the people rebuilding Syabrubesi",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Afternoon, when access reopens",
+      "image_query": "Syabrubesi lodges Langtang trek",
+      "wiki": "",
+      "summary": "When it is appropriate, spend an afternoon with lodge owners, guides and porters in Syabrubesi who are rebuilding after the 2026 flood. We keep it small, respectful and paid: a meal, a conversation, and money spent locally.",
+      "body": [
+        "Trekking communities in Nepal have rebuilt before. After the 2015 earthquake, families in Langtang and Rasuwa reopened lodges within two years, helped by trekkers who came back. The disaster of August 2026 is larger in loss of life, and recovery will take longer, but the pattern is familiar: people want visitors to return when it is safe.",
+        "This is not a tour of damage. We arrange a meal at a family-run lodge and a conversation, through your guide, with people who choose to share their experience. You hear what the town was like, how the morning of 26 August unfolded, and what is needed now. Photography of people and damaged homes only with clear permission.",
+        "We pay the host family directly and encourage guests to buy supplies, hire local porters and stay an extra night in Rasuwa. We will only offer this once local authorities and the community say visits are welcome; check current status before you travel."
+      ],
+      "good_for": ["solo", "couples", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Is it appropriate to visit Syabrubesi after the flood?", "a": "Only when the authorities have reopened access and the community welcomes visitors. Nepal declared the area a disaster zone for three months from late August 2026. Many local people depend on tourism and have said they want trekkers back when it is safe. We follow local guidance and will not run trips into active rescue or recovery zones."},
+        {"q": "How can travellers help Syabrubesi recover?", "a": "The most direct help is to come back when access reopens: stay in local lodges, eat in family kitchens, hire guides and porters from Rasuwa through a registered agency, and buy local goods. Donations through established organisations active in the area also help. Avoid handing cash or gifts to children."},
+        {"q": "Is it safe to sleep in Syabrubesi now?", "a": "That depends on the state of rebuilding, river defences and the road, which change month by month. We place travellers only in lodges our staff have checked in person, and in some periods we may use Dhunche or Briddim instead. Check current status before you travel; we update our trips as soon as conditions change."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Syabrubesi?", "a": "Syabrubesi is in Rasuwa district, Bagmati Province, about 120 km north of Kathmandu by road. It lies at roughly 1,460 m where the Langtang Khola joins the Bhote Koshi, inside the area of Langtang National Park. It is the roadhead for the Langtang Valley trek and the Tamang Heritage Trail, and the last town before the border road to Rasuwagadhi."},
+    {"q": "What happened in Syabrubesi in August 2026?", "a": "On the morning of 26 August 2026 a rock and ice collapse from a glacier near Langtang Lirung sent a flood down the Bhote Koshi and Trishuli. Syabrubesi was among the worst-hit places, with hundreds of buildings destroyed and many people dead or missing. Across Nepal more than 1,400 people were reported dead by late September."},
+    {"q": "Is the Langtang trek open after the 2026 flood?", "a": "In late August 2026 trekking in Langtang was suspended. In September operators reported that the trail up the Langtang Khola was not directly damaged, but road access to Syabrubesi was cut and the town badly damaged. Detours via Dhunche were being considered. Check current status before you travel; we only run the trek when access is safe."},
+    {"q": "How long does it take to drive from Kathmandu to Syabrubesi?", "a": "In normal years 7 to 9 hours by private jeep and 8 to 10 hours by local bus, for about 120 km on the Pasang Lhamu Highway via Trishuli and Dhunche. After the August 2026 flood, roads and bridges were destroyed in several places; expect detours and longer times, and check current status before you travel."},
+    {"q": "Do I need a permit to visit Syabrubesi?", "a": "The road enters Langtang National Park before Dhunche, and foreigners need the national park entry permit, checked at Dhunche. Since April 2023 foreign trekkers in national parks must trek with a licensed guide. During the post-flood disaster period there may be extra access controls. Check current status before you travel."},
+    {"q": "Is there an ATM in Syabrubesi?", "a": "Before the flood there were limited banking services and ATMs that often ran out of cash or lost connection. In 2026 bank branches in the affected area were damaged. Bring all the Nepali rupees you need for the trek from Kathmandu, in small notes, and keep a reserve for emergencies."},
+    {"q": "What is the best season for treks from Syabrubesi?", "a": "October to November and March to May. Autumn gives clear skies and stable weather; spring brings warmer days and rhododendrons in bloom in the forest above town. December to February is cold higher up but possible. June to September is monsoon, with rain, leeches and landslides on the road; avoid it."},
+    {"q": "Can I go to Tibet from Syabrubesi?", "a": "Not at present. The Rasuwagadhi–Gyirong border crossing north of Syabrubesi was destroyed in the August 2026 flood, after the bridge had already been lost in July 2025. Before that, tourists usually needed a group Tibet visa and tour arranged in advance. Check current status before you travel."},
+    {"q": "How many nights should I spend in Syabrubesi?", "a": "Usually one night before starting the trek and one at the end before the drive back. When rebuilding is complete and lodges reopen, an extra night is worth it if you want to add a day hike to Briddim or rest after the mountains. While recovery continues, we may base you in Dhunche instead."}
+  ]
+}

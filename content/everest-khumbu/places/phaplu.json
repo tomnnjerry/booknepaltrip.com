@@ -1,0 +1,164 @@
+{
+  "slug": "phaplu",
+  "name": "Phaplu",
+  "name_ne": "फाप्लु",
+  "local_name": "Shorong (Sherpa name for Solu)",
+  "region": "everest-khumbu",
+  "kind": "hill town",
+  "wiki": "Phaphlu",
+  "image_query": "Phaplu Solukhumbu airstrip",
+  "lat": 27.517,
+  "lng": 86.585,
+  "altitude_m": 2413,
+  "tagline": "Solu's airstrip town below cliff-top Chiwong Gompa",
+  "meta_description": "Phaplu, Solu's gateway at about 2,410 m: Chiwong Gompa and its Mani Rimdu, Salleri bazaar, the Hillary hospital, Pikey Peak and walks to Ringmo's apple orchards.",
+  "summary": "Phaplu is a small airstrip town at about 2,410 m in Solu, the lower, greener half of Solukhumbu, beside the district headquarters of Salleri. Above it the cliff-top Chiwong Gompa holds its own Mani Rimdu. It is the starting point for Junbesi, Pikey Peak and the old walking route to Everest.",
+  "intro": [
+    "Solu is the half of Solukhumbu most visitors fly over. Below the high, treeless Khumbu, its hills are forested with pine, oak and rhododendron, its slopes terraced with millet, maize and potatoes, and its villages mixed: Sherpa higher up, Rai, Magar, Tamang, Newar and Khas families lower down. Phaplu, a small town grown around a sloping airstrip, is its front door.",
+    "Next to Phaplu, Salleri is the district headquarters, with government offices, a market street and jeeps to Kathmandu. Phaplu has the hospital founded by Hillary's Himalayan Trust, a few hotels and lodges, and, on a rock cliff above, Chiwong Gompa, founded around 1920, whose Mani Rimdu draws Sherpas from across Solu.",
+    "We send travellers to Phaplu for a gentler Himalaya: shorter days, lower altitudes, Sherpa monasteries, apple orchards and views of Numbur and the Khumbu peaks from Pikey Peak. It is also the start of the classic walk-in to Everest via Ringmo and the Taksindu La, which avoids Lukla's flights and gives the body days to adjust before the high country."
+  ],
+  "story": {
+    "title": "Solu, the Sherpa homeland below Khumbu",
+    "paras": [
+      "Sherpas call Solu Shorong. When their ancestors crossed the Nangpa La from eastern Tibet roughly 500 years ago, some settled in high Khumbu and others moved south into Solu's gentler valleys, where barley, potatoes and later apples grew well. Solu became home to many of the older Sherpa monasteries and wealthier landholding families, and its gompas, Chiwong, Thubten Chholing and others, remain centres of Sherpa religious life.",
+      "Chiwong Gompa was founded around 1919–1923 by a lama from Tibet, on a cliff above the valley chosen for its commanding view. Like Tengboche and Thame, it stages Mani Rimdu, the masked-dance festival that came from Rongbuk Monastery in Tibet. At festival time families walk in from villages across Solu, and the courtyard on the cliff fills with brocade, masks and incense.",
+      "Phaplu itself grew with the airstrip and with the hospital that Hillary's Himalayan Trust built here in the 1970s to serve the people of Solu. Today a road links Salleri and Phaplu with Kathmandu, a long day by jeep, and the old trail north to Khumbu, once the only route, is walked mainly by trekkers who want the slow way in."
+    ]
+  },
+  "legend": "Solu's Sherpas regard Numbur, the 6,957 m snow peak north of Junbesi, as the home of Shorong Yul Lha, the protector deity of Solu, much as Khumbila guards Khumbu. Local belief holds that he watches over the valleys and their herds, and families honour him with juniper smoke and prayer flags. The milky lake beneath Numbur, Dudh Kunda, is a place of pilgrimage at the August full moon.",
+  "people": "Phaplu and Salleri are mixed towns: Sherpa families alongside Rai, Magar, Tamang, Newar and Khas Nepali households. Many work in government offices, shops, schools and the hospital; others farm terraced fields of maize, millet, potatoes and apples on the surrounding hills. Nepali is the common language; Sherpa and Rai languages are spoken at home in many villages.",
+  "untold": [
+    {"fact": "Sherpas call Solu 'Shorong'. Their ancestors are believed to have migrated from Kham in eastern Tibet roughly 500 years ago, settling in both Khumbu and the lower Solu valleys.", "source": "Wikipedia: Sherpa people"},
+    {"fact": "Chiwong Gompa, on a cliff above Phaplu, is one of three monasteries in Solukhumbu that stage the Mani Rimdu festival, along with Tengboche and Thame.", "source": "Wikipedia: Mani Rimdu"},
+    {"fact": "Salleri, beside Phaplu, is the administrative headquarters of Solukhumbu District, the district that contains Mount Everest and Sagarmatha National Park.", "source": "Wikipedia: Salleri"}
+  ],
+  "local_words": [
+    {"word": "Shorong", "script": "", "lang": "Sherpa", "meaning": "Sherpa name for Solu, the lower part of Solukhumbu"},
+    {"word": "syau", "script": "स्याउ", "lang": "Nepali", "meaning": "Apple; Solu's orchards are famous for them in autumn"},
+    {"word": "chhurpi", "script": "छुर्पी", "lang": "Nepali", "meaning": "Hard dried cheese chewed slowly like a sweet"}
+  ],
+  "taste": {"name": "Solu apples and chhurpi", "text": "In September and October Solu's orchards around Phaplu and Ringmo fill with small, crisp apples sold by the basket in Salleri and Phaplu. Pair them with chhurpi, hard dried cheese from local dairies that you chew for an hour, the trail snack of the hills."},
+  "facts": [["Best months", "Oct – Nov, Mar – Apr"], ["Days we suggest", "1–2"], ["Nearest airport", "Phaplu (PPL), in town"], ["From Kathmandu", "≈ 260 km · 10–12 h by jeep; ≈ 30–35 min flight"], ["Altitude", "≈ 2,410 m"], ["Known for", "Chiwong Gompa, Salleri bazaar, walk-in route to Everest"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Chiwong Gompa on its cliff", "text": "About 1.5–2 hours above Phaplu, Chiwong Gompa sits on a rock cliff with views over the Solu valley. Founded around 1920, it is one of three monasteries in Solukhumbu to stage Mani Rimdu, with masked dances in its courtyard."},
+    {"title": "Salleri bazaar", "text": "Solukhumbu's district headquarters, a 20–30 minute walk from Phaplu, has a market street of grocery stalls, tailors, tea shops and jeep counters. Buy apples and chhurpi, and watch Solu's mixed communities going about their day."},
+    {"title": "Pikey Peak viewpoint", "text": "West of Phaplu, Pikey Peak at about 4,065 m gives a long panorama of the Himalaya from Everest and Makalu to Numbur and the Rolwaling peaks. A short trek of 4–6 days through Sherpa villages and rhododendron forest."},
+    {"title": "Walk to Ringmo's apple orchards", "text": "The trail north from Phaplu reaches Ringmo, a Sherpa village of apple orchards, in about 5–6 hours. In autumn lodges serve apple pie, juice and home-made apple spirit, and the old Everest trail continues over the Taksindu La."},
+    {"title": "The slow road to Everest", "text": "From Phaplu the old trail climbs through Ringmo, the Taksindu La and Nunthala to the Dudh Koshi and joins the main Everest route below Lukla in 4–5 days, with excellent acclimatisation."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Flights from Kathmandu take about 30–35 minutes to Phaplu's airstrip, but run less often than Lukla flights and depend on clear morning weather. Check current status before you travel."},
+    {"mode": "Road", "text": "Jeeps take 10–12 hours from Kathmandu, about 260 km via Dhulikhel, the Sindhuli highway, Ghurmi and Okhaldhunga to Salleri and Phaplu. Monsoon landslides can block the road."}
+  ],
+  "where_to_stay": "Phaplu and Salleri have a handful of simple hotels and lodges, from family guesthouses with shared bathrooms to small hotels with attached bathrooms and hot water. Standards are modest but rooms are warmer than in high Khumbu, and food is good, with fresh vegetables from local farms. Near Chiwong and in Ringmo and Junbesi, family lodges give a quieter village stay. We choose lodges by recent visits and confirm them each season.",
+  "stays": [],
+  "tips": [
+    "If you drive from Kathmandu, start before 6 am and avoid arriving after dark.",
+    "Visit Chiwong early in the morning when the valley below is clear.",
+    "Ask about Mani Rimdu dates at Chiwong, which differ from Tengboche's; check current status before you travel.",
+    "Buy apples and chhurpi in Salleri for the trail.",
+    "Carry rupees in cash; card payment is rare outside Salleri."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "villages-and-homestays", "treks-and-trails", "food-and-festivals"],
+  "nearby": ["junbesi", "lukla"],
+  "experiences": [
+    {
+      "slug": "phaplu-chiwong-gompa-visit",
+      "title": "Climb to Chiwong Gompa above Phaplu",
+      "kind": "spiritual",
+      "duration": "4 hours",
+      "best_time": "Morning, Oct–Apr; Mani Rimdu in autumn",
+      "image_query": "Chiwong monastery Solukhumbu",
+      "wiki": "",
+      "summary": "Walk up from Phaplu through pine and village fields to Chiwong Gompa, a Sherpa monastery founded around 1920 on a cliff overlooking the Solu valley. One of three gompas to stage Mani Rimdu, it is quiet most of the year and very beautiful.",
+      "body": [
+        "Chiwong Gompa sits on a rocky spur above the valley, its prayer hall and monks' quarters built right to the cliff edge. It was founded around 1919–1923 by a lama who had come from Tibet, and it belongs to the Nyingma tradition shared by Tengboche, Thame and Thubten Chholing. The walk up from Phaplu takes 1.5–2 hours through pine forest, past chortens and small farms.",
+        "In the courtyard, the stone floor where the Mani Rimdu dances are held looks out over the whole Solu basin: Phaplu's airstrip, Salleri's rooftops and, on clear days, Numbur's snows to the north. Inside, the prayer hall has old murals and statues of Guru Rinpoche and protector deities. Visitors are welcome; ask the caretaker to open the hall if it is closed.",
+        "If you can, time your visit for Chiwong's Mani Rimdu, a 19-day ritual whose public days bring blessings, masked dances and a fire ceremony. It is smaller and more local than Tengboche's, with Sherpa families from across Solu in their best clothes. Dates follow the lunar calendar; check current status before you travel. Leave a donation and dress modestly."
+      ],
+      "good_for": ["solo", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "How do I get to Chiwong Monastery from Phaplu?", "a": "Walk about 1.5–2 hours uphill from Phaplu on a trail through pine forest and farmland, or take a jeep part of the way on the rough road and walk the last stretch. Allow about four hours return including time at the gompa. Your guide can arrange a jeep if needed."},
+        {"q": "When is Mani Rimdu at Chiwong?", "a": "Chiwong stages its own Mani Rimdu, usually in the autumn or early winter, on dates set by the Tibetan lunar calendar that differ from Tengboche's. The festival lasts 19 days, ending with public days of blessing, masked dances and a fire ceremony. Dates are announced locally; check current status before you travel."},
+        {"q": "Is Chiwong Gompa worth visiting outside festival time?", "a": "Yes. It is quiet, rarely visited and set on a spectacular cliff above the Solu valley, with old murals and views to Numbur. The walk up is a pleasant half-day from Phaplu. Visit in the morning for clear views and monks' prayers, and leave a donation for the monastery."}
+      ]
+    },
+    {
+      "slug": "phaplu-salleri-bazaar-walk",
+      "title": "Apples, cheese and tea in Salleri bazaar",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Morning, Sep–Nov for apples",
+      "image_query": "Salleri bazaar Solukhumbu",
+      "wiki": "Salleri",
+      "summary": "Walk 20–30 minutes from Phaplu to Salleri, Solukhumbu's district headquarters, to browse its market street of apples, chhurpi, vegetables and hardware, drink sweet milk tea in a corner shop and watch Solu's mixed communities at work.",
+      "body": [
+        "Salleri is where Solukhumbu does its business: government offices, the district court, schools, banks and a long main street of shops. For visitors it is a window on ordinary hill life rather than tourist Nepal. In the morning farmers bring in vegetables, eggs and fruit; tailors work at sewing machines on shop fronts; jeep touts call out departures for Kathmandu.",
+        "Look for Solu's produce. In September and October baskets of small, crisp local apples appear, grown in orchards around Phaplu, Salleri and Ringmo. Chhurpi, hard dried cheese from hill dairies, is sold in strings or bags; it softens slowly in the mouth and lasts for days on the trail. The hill dairy tradition here has deep roots: in the 1950s Swiss advisers helped set up Nepal's first cheese-making at Thodung, in the hills west of Solu near Jiri.",
+        "Stop at a tea shop for chiya, milky sweet tea, and a plate of sel roti or fried snacks. Ask your guide to translate as you chat with shopkeepers; Salleri sees few foreigners, and curiosity runs both ways. Buy apples and chhurpi for the walk north. It is a relaxed morning, a good way to spend the time before a flight or jeep."
+      ],
+      "good_for": ["families", "solo", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "How far is Salleri from Phaplu?", "a": "About 20–30 minutes on foot, or a few minutes by jeep along the road. The two towns run almost into each other. Salleri is the larger, with the district offices, banks, market street and the jeep station for Kathmandu, while Phaplu has the airstrip and hospital."},
+        {"q": "What is chhurpi?", "a": "Chhurpi is a hard cheese made by drying the curd of yak, nak or cow milk until it becomes rock-solid. It is chewed slowly for an hour or more, like a long-lasting sweet, and is a favourite trail snack across the Himalaya. A softer form is also cooked into soups and curries."},
+        {"q": "When are Solu apples in season?", "a": "Mainly September and October, when orchards around Phaplu, Salleri and Ringmo are harvested. Apples are sold fresh in Salleri's shops and by the roadside, and lodges in Ringmo use them for pies, juice and home-made spirit. Some are stored and sold into winter."}
+      ]
+    },
+    {
+      "slug": "phaplu-pikey-peak-trek",
+      "title": "Short trek to Pikey Peak for the Everest skyline",
+      "kind": "trek",
+      "duration": "4–6 days",
+      "best_time": "Oct–Dec and Mar–Apr",
+      "image_query": "Pikey Peak Himalaya view",
+      "wiki": "Pikey Peak",
+      "summary": "A short trek west from Phaplu through Sherpa villages and rhododendron forest to Pikey Peak, about 4,065 m, for a sunrise panorama from Everest and Makalu to Numbur and the Rolwaling Himal. Low altitude, few trekkers and good lodges in villages.",
+      "body": [
+        "Pikey Peak is a grassy, prayer-flagged summit in the hills west of Phaplu and one of the best viewpoints in the lower Everest region. Because it is just over 4,000 m and reached through villages rather than high glaciers, it suits travellers who want mountain views without the altitude and length of the Everest Base Camp trek.",
+        "Routes vary, but a typical trek runs 4–6 days, starting by road towards Dhap or from Phaplu itself, through Sherpa and Tamang villages, yak pastures and forests of rhododendron, which flower in March and April. The final climb to the summit is done before dawn from a lodge or camp below, gaining a few hundred metres to the top.",
+        "At sunrise the view spreads across the eastern Himalaya: Everest, Lhotse and Makalu to the north-east, Numbur, Karyolung and the Rolwaling peaks closer by. The descent can loop through Junbesi and its monasteries before returning to Phaplu. Lodges are simple and family-run. Check current status before you travel, as road access to the trailheads changes as roads extend."
+      ],
+      "good_for": ["trekkers", "photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "How high is Pikey Peak?", "a": "Pikey Peak is about 4,065 m, much lower than Everest Base Camp. That makes altitude sickness less likely, though still possible on the summit day. The trek takes 4–6 days from Phaplu or nearby roadheads, through Sherpa and Tamang villages and rhododendron forests."},
+        {"q": "Can I see Everest from Pikey Peak?", "a": "Yes, on a clear morning. Everest, Lhotse and Makalu are visible to the north-east, along with Numbur, Karyolung and the Rolwaling peaks closer by. October to December gives the clearest views. Spring, March and April, brings rhododendron flowers but often hazier skies."},
+        {"q": "Is the Pikey Peak trek good for beginners?", "a": "Yes. It is one of the gentler Himalayan treks: short, with moderate days and a maximum altitude of about 4,065 m. Reasonable fitness is enough. Lodges are basic but welcoming. It is a good introduction to trekking in Nepal and works well for families and older walkers."}
+      ]
+    },
+    {
+      "slug": "phaplu-ringmo-apple-orchard-walk",
+      "title": "Walk north to Ringmo's apple orchards",
+      "kind": "nature",
+      "duration": "5–6 hours",
+      "best_time": "Sep–Nov for apples, Mar–Apr for blossom",
+      "image_query": "Ringmo apple orchard Solukhumbu",
+      "wiki": "",
+      "summary": "Follow the old trail north from Phaplu through forest and Sherpa villages to Ringmo, a village known for its apple orchards, where lodges serve apple pie, juice and home-made apple spirit. The first stage of the walk-in to Everest.",
+      "body": [
+        "Before Lukla's airstrip, every Everest-bound traveller walked through Solu, and Ringmo was a natural halt where trails from Jiri, Junbesi and Phaplu meet. Apples were introduced to the village in the 20th century and took well in the cool, sunny valley at about 2,700 m. Now orchards surround the houses, and Ringmo apples are known across Solu.",
+        "From Phaplu the trail climbs gradually through pine and oak forest, past chortens, mani walls and Sherpa farmhouses, taking about 5–6 hours. In September and October the orchards are heavy with fruit and lodges serve apple pie, apple juice and apple rakshi, the clear home-distilled spirit. In March and April the trees blossom white and pink.",
+        "Ringmo makes a pleasant overnight. From here the old Everest trail continues east over the Taksindu La, about 3,070 m, past Taksindu monastery to Nunthala and down to the Dudh Koshi, joining the main route below Lukla in two or three more days. Or turn west to Junbesi and its monasteries. Either way, buy a bag of apples for the trail."
+      ],
+      "good_for": ["families", "trekkers", "couples", "photographers"],
+      "faqs": [
+        {"q": "How long is the walk from Phaplu to Ringmo?", "a": "About 5–6 hours on the old trail through forest and Sherpa villages, with moderate ups and downs. Ringmo lies at about 2,700 m, so altitude is not a concern. It makes a gentle first day of the walk-in route to Everest or a two-day loop via Junbesi."},
+        {"q": "Is Ringmo famous for apples?", "a": "Yes. Ringmo's orchards are among the best known in Solu, and in September and October lodges serve apple pie, fresh juice and apple rakshi, a home-distilled spirit. Blossom comes in March and April. The village is a traditional halt on the old trail from Jiri and Junbesi towards Khumbu."},
+        {"q": "Can I walk from Phaplu to Lukla?", "a": "Yes. From Phaplu the old route goes via Ringmo, the Taksindu La, Nunthala, Kharikhola and Paiya to join the main trail below Lukla in about 4–5 days. It is quieter than flying, gives better acclimatisation and passes through Sherpa and Rai villages. Lodges are simple and friendly."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Phaplu?", "a": "Phaplu is in Solu, the lower southern part of Solukhumbu District in Koshi Province, about 260 km by road east of Kathmandu. It lies next to Salleri, the district headquarters, at about 2,410 m. It has an airstrip with flights from Kathmandu and is the gateway to Junbesi, Pikey Peak and the old walking route to Everest."},
+    {"q": "How do I get to Phaplu from Kathmandu?", "a": "By air, about 30–35 minutes to Phaplu's airstrip, though flights run less often than to Lukla. By road, 10–12 hours by jeep via Dhulikhel, the Sindhuli highway, Ghurmi and Okhaldhunga to Salleri and Phaplu. Both depend on weather; check current status before you travel."},
+    {"q": "Can I trek to Everest from Phaplu?", "a": "Yes. The old route from Phaplu goes via Ringmo, the Taksindu La, Nunthala and Kharikhola, joining the main Everest trail below Lukla in 4–5 days. It avoids Lukla flights, gives excellent acclimatisation and passes through quieter Sherpa and Rai villages before reaching Namche."},
+    {"q": "What is there to see in Phaplu?", "a": "Chiwong Gompa on its cliff above the town, with its own Mani Rimdu; Salleri's market street; the Hillary-founded hospital; and walks to Ringmo's apple orchards and Junbesi's monasteries. Pikey Peak, a short trek away, gives views of Everest, Makalu and Numbur."},
+    {"q": "Is Phaplu good for an easier Himalayan trip?", "a": "Yes. At about 2,410 m, with walks to villages and monasteries between 2,000 and 3,000 m, Solu suits families, older travellers and anyone who prefers lower altitudes. Pikey Peak, about 4,065 m, adds a high viewpoint without a long climb. Lodges are simple but comfortable enough."},
+    {"q": "When is Mani Rimdu at Chiwong Gompa?", "a": "Chiwong stages Mani Rimdu on its own lunar dates, usually in the autumn or early winter, which differ from Tengboche's October or November festival. Public days include blessings, masked dances and a fire ceremony. Check current status before you travel; we confirm dates each year."},
+    {"q": "What is the weather like in Phaplu?", "a": "Milder than Khumbu. In October and November days reach about 15–20 °C and nights fall to around 2–5 °C. December to February bring frosty nights and clear days. Spring warms through March to May. June to September is monsoon, with heavy rain, leeches in the forests and unreliable flights and roads."},
+    {"q": "Do I need permits for Phaplu?", "a": "No permit is needed for Phaplu, Salleri or Chiwong, which lie outside Sagarmatha National Park. If you walk north into Khumbu, you will need the Khumbu Pasanglhamu municipality permit and the Sagarmatha National Park entry permit, and a licensed guide under the April 2023 rule. Check current status before you travel."},
+    {"q": "Are there hotels in Phaplu?", "a": "Yes, a handful of simple hotels and guesthouses in Phaplu and Salleri, some with attached bathrooms and hot water. Standards are modest but rooms are warmer than in the high Khumbu. Family lodges in Ringmo and Junbesi offer a quieter village stay. We confirm lodges each season."}
+  ]
+}

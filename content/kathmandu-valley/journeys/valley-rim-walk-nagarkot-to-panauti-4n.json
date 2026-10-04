@@ -1,0 +1,175 @@
+{
+  "slug": "valley-rim-walk-nagarkot-to-panauti-4n",
+  "title": "Valley rim walk: Nagarkot to Panauti",
+  "region": "kathmandu-valley",
+  "kind": "trek",
+  "nights": 4,
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "spiritual-and-pilgrimage"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "nagarkot",
+      "nights": 1
+    },
+    {
+      "place": "dhulikhel",
+      "nights": 1
+    },
+    {
+      "place": "panauti",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 750,
+  "best_months": [
+    1,
+    1,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 2175,
+  "meta_description": "4 nights walking the eastern rim of the Kathmandu Valley: Changu Narayan, Nagarkot sunrise, Dhulikhel, the Namobuddha stupa and a homestay in old Panauti.",
+  "summary": "Four nights and three walking days along the eastern rim of the Kathmandu Valley, from the Vishnu temple of Changu Narayan up to the Himalayan viewpoint of Nagarkot, down through pine and terraced fields to Dhulikhel, over the hill to the Namobuddha stupa and into the Newar town of Panauti for two nights in a family homestay.",
+  "intro": [
+    "You do not need a permit, a flight or high altitude to walk in Nepal. The hills that ring the Kathmandu Valley carry old footpaths between Newar towns, Tamang and Brahmin-Chhetri villages and Buddhist shrines, with the Himalaya filling the northern skyline on clear days. This route follows the eastern rim, never higher than about 2,175 m, on paths, farm tracks and a few short sections of quiet road. It is the walking the valley's own people have always done, between markets, temples and family land.",
+    "Walking days are 4–7 hours at an easy rhythm, with tea stops in village shops. A licensed guide walks with you and a car moves your main bag between stays, so you carry only a daypack. Nights go from a hotel on the Nagarkot ridge to Dwarika's Resort in Dhulikhel, then two nights in a homestay in Panauti, where the walking ends and the cooking begins. Rooms are simple in the homestay and comfortable in the two hotels."
+  ],
+  "story": "The walk opens at Changu Narayan, the valley's oldest temple, with its fifth-century inscription. From there the path climbs through the ridge villages to Nagarkot, where the Himalaya appears in a long line at dawn: Langtang, Dorje Lakpa, Jugal and, on very clear mornings, a small point far to the east that is Everest. Next day you drop south through pine forest and farm terraces to Dhulikhel, an old Newar trading town on the road to Tibet. Day three crosses to Namobuddha, where the legend of a prince who gave his body to a starving tigress is carved into a stone on the hilltop, and descends to Panauti, a Newar town at a river confluence that has kept its brick lanes and temple festivals.",
+  "highlights": [
+    "Sunrise over the Langtang and Jugal ranges from the Nagarkot ridge",
+    "The walk from Changu Narayan, the valley's oldest temple, up to Nagarkot",
+    "The Namobuddha stupa and Thrangu Tashi Yangtse monastery on the hill above",
+    "Two nights with a family in Panauti's community homestay",
+    "Indreshwar Mahadev temple at the confluence of the Roshi and Punyamati rivers"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Changu Narayan and the climb to Nagarkot",
+      "place": "nagarkot",
+      "overnight": "Club Himalaya, Nagarkot",
+      "alt_m": 2175,
+      "move": "≈ 22 km · 1 h drive; ≈ 4–5 h walk · +650 m",
+      "text": "Drive east from Kathmandu to Changu Narayan, the hilltop Vishnu temple whose courtyard pillar carries the inscription of King Manadeva dated 464 CE. After an hour with your guide among its carvings, start walking. The path leaves the temple ridge and climbs gently through Newar and Brahmin-Chhetri farms, terraced for rice and millet, with the valley opening behind you. Lunch is at a village tea house. The last hour climbs through pine to Nagarkot, where you check in to Club Himalaya, built on the ridge facing north. Sunset over the Himalaya if the sky allows.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Nagarkot sunrise, walk down to Dhulikhel",
+      "place": "dhulikhel",
+      "overnight": "Dwarika's Resort Dhulikhel",
+      "alt_m": 1550,
+      "move": "≈ 5–6 h walk · −650 m, +100 m",
+      "text": "Wake early for sunrise from the hotel terrace or the view tower on the ridge, when the line of peaks from Ganesh Himal to Gaurishankar turns pink, then white. After breakfast the path heads south along the rim, through pine forest and Tamang villages where women thresh grain in the yards. The trail is mostly downhill on farm paths and dirt roads, with short sections of tarmac. Lunch is packed or at a village shop. Reach Dhulikhel in the afternoon and check in to Dwarika's Resort, set on a hillside facing the mountains.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Over the hill to Namobuddha and Panauti",
+      "place": "panauti",
+      "overnight": "Community homestay, Panauti",
+      "alt_m": 1450,
+      "move": "≈ 3–4 h walk to Namobuddha; ≈ 2–3 h walk down to Panauti",
+      "text": "A morning walk through Dhulikhel's old bazaar leads to farm trails that climb south to Namobuddha at about 1,750 m. Your guide tells the Jataka story of Prince Mahasattva and the starving tigress at the stupa, then you climb to the carved stone tablet on the hill and the Thrangu Tashi Yangtse monastery, where young monks gather for midday prayers. Lunch is near the monastery. The afternoon path descends through fields and small villages to Panauti, where your host family welcomes you with tea in a brick house in the old town.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "A slow day in Panauti",
+      "place": "panauti",
+      "overnight": "Community homestay, Panauti",
+      "alt_m": 1450,
+      "move": "On foot",
+      "text": "Panauti sits where the Roshi and Punyamati rivers meet, and tradition adds a third, invisible river to the confluence. Walk to Indreshwar Mahadev, a three-roofed Shiva temple that most accounts date to 1294, and cross the river to the Brahmayani shrine and the cremation ghats. Your guide shows you the old water spouts and the courtyards where festival chariots are stored. In the afternoon cook with your host family: rice, lentils, seasonal greens and achar, or bara if you ask. Evening is for the family's own routine of prayers, chores and television.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Drive back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "End in Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 32 km · 1.5 h drive",
+      "text": "After breakfast say goodbye to your hosts and drive back to Kathmandu by way of Banepa and the Araniko Highway. The road follows the valley floor past brick kilns and the town of Bhaktapur. If you have time and energy, ask the driver to stop for an hour in Bhaktapur, which is on the way. We drop you at your hotel in Kathmandu or at the airport for an evening flight. Total driving time is about 90 minutes, longer at rush hour.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "club-himalaya-nagarkot",
+    "dwarikas-resort-dhulikhel"
+  ],
+  "includes": [
+    "1 night at Club Himalaya, 1 night at Dwarika's Resort Dhulikhel and 2 nights in the Panauti community homestay, twin sharing",
+    "All meals from lunch on day 1 to breakfast on day 5",
+    "Licensed English-speaking walking guide",
+    "Private car for the start and end, and to carry main luggage between stays",
+    "Entry fees at Changu Narayan and temple donations at Namobuddha"
+  ],
+  "excludes": [
+    "Hotel in Kathmandu before and after the walk",
+    "Drinks and snacks along the way",
+    "Tips for guide, driver and host families",
+    "Travel insurance",
+    "Spa treatments at Dwarika's Resort Dhulikhel"
+  ],
+  "good_to_know": [
+    "No trekking permit is needed for this route; it does not enter a national park or conservation area.",
+    "Paths are rural and change as new dirt roads are cut; your guide picks the quietest line on the day.",
+    "Mornings at Nagarkot from December to February can drop to around 0 °C; bring a warm layer.",
+    "Mountain views are best from October to early December; spring haze often hides them by April.",
+    "Any walking day can be shortened by car, as roads reach every village on the route."
+  ],
+  "faqs": [
+    {
+      "q": "How hard is the Nagarkot to Dhulikhel hike?",
+      "a": "It is a moderate day of about 5–6 hours, mostly downhill from about 2,175 m at Nagarkot to about 1,550 m at Dhulikhel, with a few short climbs. The path uses farm trails, forest paths and some quiet dirt road. Anyone who walks regularly at home will manage it. Good walking shoes are enough; you do not need boots or poles."
+    },
+    {
+      "q": "Do I need a permit or a guide for walks around the Kathmandu Valley rim?",
+      "a": "No permit is needed, as this route stays outside national parks and conservation areas. A guide is not legally required here, but trails fork constantly between villages, new roads have changed many paths and signs are rare. Our guide also handles the homestay, the monastery visit and luggage transfers. If you later trek in a park, licensed guides are mandatory; check current status before you travel."
+    },
+    {
+      "q": "Can I see Everest from Nagarkot?",
+      "a": "On very clear mornings, usually from October to January, a small summit far to the east is identified as Everest, but it is tiny and easy to miss. What Nagarkot reliably shows is a long line of nearer ranges: Langtang, Ganesh Himal, Dorje Lakpa, Jugal and Gaurishankar. For a close view of Everest, take a mountain flight from Kathmandu."
+    },
+    {
+      "q": "What is Namobuddha?",
+      "a": "Namobuddha is a Buddhist pilgrimage site about 40 km south-east of Kathmandu. Its stupa marks the place where, according to a Jataka story, Prince Mahasattva, an earlier life of the Buddha, gave his body to feed a starving tigress and her cubs. Above it stands Thrangu Tashi Yangtse monastery, home to many young monks. Visitors are welcome in the courtyards and at prayer times."
+    },
+    {
+      "q": "What is the Panauti community homestay like?",
+      "a": "You stay in a family house in Panauti's old town, usually in a simple private room with clean bedding. Bathrooms may be shared and are sometimes Asian-style. Families cook home meals and many include you in daily life, from evening prayers to cooking. The homestay programme is run by the community itself, and most of what you pay goes directly to the host households."
+    },
+    {
+      "q": "When is the best time for this valley rim walk?",
+      "a": "October and November are the best months: clear skies, dry trails and mountain views. March brings warm days and rhododendron in the higher forest, with more haze. December to February are clear but cold at Nagarkot. We do not run this walk from June to August, when monsoon rain makes paths slippery and brings leeches to the forest sections."
+    },
+    {
+      "q": "Can children or older walkers do this trip?",
+      "a": "Yes, if they are used to walking 4–6 hours. The altitude is low and every village has road access, so the car can pick up anyone who tires and drive them to the next stay. Children over about eight usually enjoy the villages and the monastery. Tell us ages and fitness and we will shorten the day stages if needed."
+    },
+    {
+      "q": "What should I pack for walking around the Kathmandu Valley rim?",
+      "a": "Bring comfortable walking shoes with a good grip, a daypack, a water bottle, sun hat, sunscreen, a fleece or down jacket for Nagarkot mornings, and a light rain jacket. Modest clothes that cover shoulders and knees are best for the monastery and temple visits. A small gift for the homestay family, such as sweets or a photo book of your home, is welcome."
+    },
+    {
+      "q": "How far is Nagarkot from Kathmandu?",
+      "a": "Nagarkot is about 32 km east of central Kathmandu, roughly 1.5 hours by car through Bhaktapur. On this journey you approach on foot from Changu Narayan, which is about 22 km and one hour's drive from Kathmandu. Dhulikhel is about 30 km from Kathmandu on the Araniko Highway, and Panauti about 32 km."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "slug": "thakali-trail-kali-gandaki-7n",
+  "title": "Thakali trail down the Kali Gandaki",
+  "region": "mustang-dolpo",
+  "kind": "trek",
+  "nights": 7,
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "food-and-festivals",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "jomsom",
+      "nights": 1
+    },
+    {
+      "place": "marpha",
+      "nights": 1
+    },
+    {
+      "place": "tukuche",
+      "nights": 5
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 950,
+  "best_months": [
+    0,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 2720,
+  "meta_description": "Thakali trail, 7 nights: walk down the Kali Gandaki from Jomsom through Marpha, Tukuche, Kalopani and Ghasa to the Tatopani hot springs, eating Thakali food.",
+  "summary": "A seven-night downhill walk through the Thakali villages of the Kali Gandaki, from windy Jomsom to the hot springs of Tatopani. Mostly on the quieter trails away from the road, with Dhaulagiri and Annapurna above and a Thakali kitchen at the end of every day. Low altitude, three to six hours a day.",
+  "intro": [
+    "Thak Khola, the upper Kali Gandaki between Ghasa and Jomsom, is the homeland of the Thakali, a small community that grew rich in the 19th and early 20th centuries on the salt trade between Tibet and the lowlands. Thakali families ran the inns along this route long before trekkers came, and the Thakali set meal of rice, dal and greens is now eaten in restaurants across Nepal. Walking down the valley is the best way to see where all of that began.",
+    "The road now runs the length of the valley, but the New Annapurna Trekking Trails and old village paths on the east bank let you walk most of the way off it. We fly into Jomsom and walk south, losing altitude every day, through apple orchards, pine forest and finally the warm subtropical valley at Tatopani, where hot springs wait by the river. Your luggage travels with a porter, so you walk with only a light daypack."
+  ],
+  "story": "The first day is wind and stone: Jomsom's runway, Thini's old lanes, and a valley so dry that the houses have flat roofs to store firewood. In Marpha the whitewashed walls and apple trees begin, and in Tukuche the great trading houses still stand, with courtyards where mule caravans once unloaded salt. Below Larjung the valley floor opens into a wide stony riverbed and the forest returns, juniper first and then blue pine. At Kalopani, Dhaulagiri and Annapurna face each other across the deepest stretch of the gorge. By Ghasa the air is softer, there are bamboo and banana leaves by Tatopani, and the trail ends, as it should, in a hot pool beside the river.",
+  "highlights": [
+    "Marpha's apple orchards and Tukuche's old salt-trade houses",
+    "The deepest stretch of the Kali Gandaki gorge between Dhaulagiri and Annapurna I",
+    "Titi Lake and the forest trails around Kalopani and Lete",
+    "Thakali kitchens in every village, from buckwheat dhido to apple pie",
+    "A last night soaking in the hot springs at Tatopani"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Jomsom, walk to Thini",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 20 min flight · ≈ 3 h walk",
+      "text": "An early flight from Pokhara lands at Jomsom before the wind rises. After breakfast we cross the river to Thini, the old village of which Jomsom was once a part, and climb gently to Dhumba Lake, a small green lake under a hillside monastery with Nilgiri above. Back in Jomsom for lunch, then an afternoon at the Mustang Eco Museum. Watch the wind arrive around midday, strong enough to lean on, and you will understand why flights leave early.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Jomsom to Marpha via Syang",
+      "place": "marpha",
+      "overnight": "Marpha",
+      "alt_m": 2670,
+      "move": "≈ 3 h walk · ≈ 8 km",
+      "text": "We take the trail on the west side of the river through Syang, a quiet village of stone houses and fields, then walk down into Marpha. Marpha is one of the tidiest villages in Nepal, its flagstoned main lane lined with whitewashed houses and stacks of firewood on the roofs. In the afternoon climb to the monastery above the village and visit an orchard. Dinner is the Thakali set meal, with apple brandy if you like.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Marpha to Tukuche via Chhairo",
+      "place": "tukuche",
+      "overnight": "Tukuche",
+      "alt_m": 2590,
+      "move": "≈ 3–4 h walk · ≈ 10 km",
+      "text": "We cross to the east bank of the Kali Gandaki and walk through Chhairo, a Tibetan refugee settlement with a small monastery, then on through orchards to Tukuche. For more than a century this was the great market of the salt trade, where wool and salt from Tibet were exchanged for grain from the south. Thakali families held the customs contract here and built the large houses you see today. Walk the lanes in the late afternoon light.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tukuche to Kokhethanti",
+      "place": "",
+      "overnight": "Kokhethanti",
+      "alt_m": 2545,
+      "move": "≈ 4 h walk · −50 m",
+      "text": "We follow the east bank south past Kobang and Larjung, the heart of Thak Khola, where the Thakali villages cluster below Dhaulagiri's icefall. The trail crosses wide gravel flats where the river splits into braids. Look for wooden balconies and carved windows on older houses, and for horses grazing in walled fields. Kokhethanti is a small, quiet settlement on the east bank with simple lodges and views straight up to Dhaulagiri.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Kokhethanti to Kalopani via Titi Lake",
+      "place": "",
+      "overnight": "Kalopani",
+      "alt_m": 2530,
+      "move": "≈ 5 h walk · +150 m, −160 m",
+      "text": "A forest trail climbs gently through pine and juniper to Titi Lake, a quiet pond in meadows with Dhaulagiri and Nilgiri reflected on still mornings. We continue down to Kalopani, whose name means black water. From here Dhaulagiri (8,167 m) and Annapurna I (8,091 m) rise on either side of the valley less than 40 km apart, which is why the gorge between them is counted among the deepest on earth. In autumn, look for demoiselle cranes flying south over the valley.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Kalopani to Ghasa",
+      "place": "",
+      "overnight": "Ghasa",
+      "alt_m": 2010,
+      "move": "≈ 4 h walk · −520 m",
+      "text": "We walk down through Lete and cross to the forest trail that drops steadily toward Ghasa, the southernmost Thakali village. The vegetation changes fast: rhododendron and blue pine give way to oak and bamboo. Ghasa is a long village of stone houses with a chorten at each end, a reminder that Buddhist country stops around here. The evening is noticeably warmer than anywhere higher up. In autumn, oranges ripen in the lower villages, a sign that you are leaving the mountains behind.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Ghasa to Tatopani",
+      "place": "",
+      "overnight": "Tatopani",
+      "alt_m": 1190,
+      "move": "≈ 5–6 h walk · −820 m",
+      "text": "Our biggest descent. The trail passes the Rupse waterfall and drops through the narrowest part of the gorge, where the river roars below cliffs hundreds of metres high, to the villages of Dana and finally Tatopani. The name means hot water, and the springs by the river are channelled into simple concrete pools. Soak your legs, eat an orange from the village trees in season, and celebrate the end of the walk with the team.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Drive Tatopani to Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 820,
+      "move": "≈ 110 km · 4–5 h by jeep",
+      "text": "A jeep takes us down the road via Beni, where the Kali Gandaki meets the Myagdi river, and back to Pokhara by early afternoon. The trip ends on arrival. If you have time, a night by Phewa Lake or a day at Sarangkot makes a gentle finish, and we are happy to book it. Along the way you pass Rupse and Dana again, this time from the comfort of a vehicle, and the long valley you walked down slips past in a few hours.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "oms-home-jomsom"
+  ],
+  "includes": [
+    "Flight Pokhara–Jomsom and private jeep Tatopani–Pokhara",
+    "Licensed English-speaking guide and one porter for every two walkers",
+    "Annapurna Conservation Area permit and TIMS card where required",
+    "Seven nights in the best available lodges with all meals",
+    "Hot springs entry at Tatopani"
+  ],
+  "excludes": [
+    "Travel to and from Pokhara",
+    "Travel insurance",
+    "Drinks, hot showers and charging where lodges charge",
+    "Tips for guide and porter"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers in the Annapurna Conservation Area must walk with a licensed guide; check current status before you travel.",
+    "The road shares parts of the valley; we follow the east-bank and forest trails wherever they exist and use jeeps only if a trail is closed.",
+    "Jomsom flights run only in the morning and are often delayed by wind or cloud; keep a spare day.",
+    "Afternoon wind in the upper valley is strong; we start walking at 7 or 8 am.",
+    "Tatopani hot springs are simple public pools; bring a swimsuit."
+  ],
+  "faqs": [
+    {
+      "q": "Who are the Thakali people?",
+      "a": "The Thakali are a small community from Thak Khola, the upper Kali Gandaki valley between Ghasa and Jomsom. They are known for trading, especially in salt between Tibet and the lowlands, and for running inns along this route. The Tamang Thakali are divided into four clans, Gauchan, Tulachan, Sherchan and Bhattachan. Many families now live in Pokhara and Kathmandu but return for festivals."
+    },
+    {
+      "q": "Is the Thakali trail difficult?",
+      "a": "No. It is mostly downhill or level, from 2,720 m in Jomsom to 1,190 m in Tatopani, on dry and well-used trails. Days are three to six hours. The longest descent, from Ghasa to Tatopani, can be hard on knees, so walking poles help. Anyone who walks regularly can do this trek, and altitude is not a serious concern."
+    },
+    {
+      "q": "Is there a road along this trek?",
+      "a": "Yes, a jeep road runs the length of the Kali Gandaki valley from Beni to Jomsom. The New Annapurna Trekking Trails, marked in red and white, and older village paths let you avoid much of it, especially on the east bank. Some short stretches still follow or cross the road. Our guide picks the quietest line each day."
+    },
+    {
+      "q": "What is a Thakali set meal?",
+      "a": "It is a plate of rice or buckwheat dhido with black lentil dal, seasonal greens, potato curry, pickles such as tomato or timur achar, and often mutton or chicken, served with ghee and refills. Thakali cooks are known for careful, balanced flavours. On this trek you eat it in the valley where it began."
+    },
+    {
+      "q": "When is the best season for the Thakali trail?",
+      "a": "March to May and October to December are best, with clear views of Dhaulagiri and Nilgiri and dry trails. February can be cold but quiet. The monsoon, June to September, brings landslides on the lower road and clouds on the peaks, though Jomsom itself stays dry. Autumn also brings crane migration through the valley."
+    },
+    {
+      "q": "Do I need a permit for the Thakali trail?",
+      "a": "You need the Annapurna Conservation Area permit, NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals, and a TIMS card may be checked. No restricted-area permit is required, since the route stays south of Kagbeni. A licensed guide is expected under current rules. Check current status before you travel."
+    },
+    {
+      "q": "How deep is the Kali Gandaki gorge?",
+      "a": "Measured from the summits of Dhaulagiri (8,167 m) and Annapurna I (8,091 m) to the river between them, the drop is more than 5,000 m, which is why the Kali Gandaki is often called one of the deepest gorges in the world. The deepest stretch is around Kalopani and Lete, where the two peaks face each other."
+    },
+    {
+      "q": "Can I combine this with Muktinath?",
+      "a": "Yes. Start the walk two days earlier with a night at Kagbeni and a night at Muktinath, then walk down through Jharkot and Lubra, or drive, to Jomsom and continue as here. The visit adds altitude, up to about 3,710 m, so we place it at the start when you are fresh."
+    },
+    {
+      "q": "Are the lodges on the Thakali trail comfortable?",
+      "a": "They are some of the best teahouses in Nepal, because Thakali families have run inns on this route for generations. Expect clean twin rooms, attached bathrooms in many places, solar hot water and good food. In smaller places like Kokhethanti rooms are simpler. Bring a sleeping bag for cool nights in the upper valley."
+    }
+  ]
+}

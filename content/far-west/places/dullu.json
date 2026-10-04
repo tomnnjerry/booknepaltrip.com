@@ -1,0 +1,171 @@
+{
+  "slug": "dullu",
+  "name": "Dullu",
+  "name_ne": "दुल्लु",
+  "local_name": "",
+  "region": "far-west",
+  "kind": "pilgrimage site",
+  "wiki": "Dullu",
+  "image_query": "Dullu Dailekh temple",
+  "lat": 28.94,
+  "lng": 81.61,
+  "altitude_m": 1400,
+  "tagline": "Eternal flames and the stone pillar of a Khasa emperor",
+  "meta_description": "Dullu guide: natural gas flames at Shirasthan and Nabhisthan, the Panchakoshi pilgrimage, Prithvi Malla's 1357 pillar and the Khasa winter capital in Dailekh.",
+  "summary": "Dullu, in Dailekh district, was the winter capital of the Khasa Malla kings and later a small kingdom of its own. It is famous for natural gas flames that burn inside shrines at Shirasthan and Nabhisthan, part of the Panchakoshi pilgrimage, and for King Prithvi Malla's inscribed stone pillar of 1357.",
+  "intro": [
+    "Few places in Nepal combine fire, kings and the written word quite like Dullu. On a broad ridge in the middle hills of Dailekh, it was the winter seat of the Khasa emperors who spent their summers in Sinja. Around it, gas seeps from the ground and burns in small blue and yellow flames that pilgrims have worshipped for centuries.",
+    "The flames are the heart of the Panchakoshi, a circuit of five holy sites around Dullu: Shirasthan, Nabhisthan, Dhuleshwar, Padukasthan and Tallo Dungeshwar. Three of them lie within Dullu municipality. Nath ascetics tend the fire shrines, and pilgrims come from across western Nepal, especially at festivals.",
+    "Dullu is also a place of inscriptions. A stone pillar raised by King Prithvi Malla in 1357, listing his ancestors back to the dynasty's founder Nagaraj, still stands, and stones here are counted among the earliest examples of written Nepali. Combine Dullu with Surkhet and Bardia for a short cultural extension to a wildlife trip."
+  ],
+  "story": {
+    "title": "Winter capital of the Khasa emperors",
+    "paras": [
+      "The Khasa Malla kings ruled from two capitals: Sinja in Jumla for the summer, and Dullu, warmer and lower, for the winter. At the empire's height under Prithvi Malla in the 14th century, its territory reached from Guge and Purang in Tibet to Dullu in the south-west and Kaskikot near Pokhara in the east. Scholars who have studied the site note how closely the palace and the flame temples were linked; the kings drew part of their authority from this sacred landscape.",
+      "In 1357 (Shaka 1279) Prithvi Malla set up an inscribed stone pillar at Dullu. Its text, studied by the scholar Yogi Naraharinath, lists the kings before him back to Nagaraj, who founded the capital at Semja, the Sinja of today. It remains one of the most important sources for the history of the Khasa empire.",
+      "When the empire broke up, Dullu became one of the twenty-two Baise kingdoms. Remarkably, it survived as a small principality under the Nepali state until the early 1960s, when it was absorbed fully under King Mahendra. Today Dullu is a municipality of farming villages, with schools, a busy bazaar and a steady flow of pilgrims to the flames."
+    ]
+  },
+  "legend": "Local tradition explains the flames through the body of a deity scattered across the hills: Shirasthan for the head, Nabhisthan for the navel, Padukasthan for the feet, and Dhuleshwar where ashes fell. Many people in Dailekh tell it as the body of the goddess Sati, carried by the grieving Shiva; others link the sites to Vishnu. Pilgrims treat each flame as a living presence of the divine.",
+  "people": "Dullu's people are almost all Khas Nepali speakers: Chhetri families are the largest group, with Kami, Thakuri, Brahmin, Sarki and Damai communities, and small numbers of Magar. In the 2011 census 99.7 percent spoke Nepali as their first language. They farm rice, maize, wheat and millet on terraces, keep buffalo and goats, and many men work seasonally in India.",
+  "untold": [
+    {"fact": "King Prithvi Malla's stone pillar inscription at Dullu is dated Shaka 1279, which is 1357 CE. It names his predecessors and records that the dynasty's founder Nagaraj set up his capital at Semja, today's Sinja.", "source": "Wikipedia: Khasa Kingdom"},
+    {"fact": "Dullu was the winter capital of the Khasa Malla kings, and later a small kingdom that kept a semi-independent status until the early 1960s, when it was annexed fully under King Mahendra.", "source": "Wikipedia: Dullu"},
+    {"fact": "Because of its ever-burning natural gas flames, the Panchakoshi area of Dailekh is also called Jwala Tirtha or Agni Tirtha, the pilgrimage of flame.", "source": "Onlinekhabar English: Panchakoshi in Dailekh"}
+  ],
+  "local_words": [
+    {"word": "Jwala", "script": "ज्वाला", "lang": "Nepali", "meaning": "Flame; the sacred natural gas fires of Dullu"},
+    {"word": "Kirti stambha", "script": "कीर्तिस्तम्भ", "lang": "Nepali", "meaning": "Memorial pillar recording a king's deeds"},
+    {"word": "Panchakoshi", "script": "पञ्चकोशी", "lang": "Nepali", "meaning": "The five-shrine pilgrimage circuit around Dullu"}
+  ],
+  "taste": {"name": "Sisnu ko tarkari", "text": "A thick green soup of stinging nettle, picked young with tongs, boiled until the sting goes, then cooked with cornmeal or rice flour, garlic and chilli. It is a hill staple across Dailekh. Eat it with rice or millet dhido in a village home or a bhatti in Dullu bazaar."},
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Days we suggest", "1–2"],
+    ["Nearest airport", "Surkhet (SKH)"],
+    ["From Kathmandu", "Fly to Nepalgunj or Surkhet, then several hours by road"],
+    ["Altitude", "≈ 1,400 m"],
+    ["Known for", "Natural gas flames, Panchakoshi, Prithvi Malla's pillar"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The flame of Shirasthan", "text": "At Shirasthan in Rawatkot a natural gas flame burns inside the shrine, tended by a Nath ascetic who keeps the fire and receives pilgrims. It is the best known of Dullu's flames and the first stop for most visitors."},
+    {"title": "Nabhisthan, the navel shrine", "text": "At Nabhisthan in Gamaudi, near the Nabhisthan stream, another sacred flame is worshipped as the navel of the divine body. It is quieter than Shirasthan, set among terraced fields, and pilgrims make offerings at the small shrine."},
+    {"title": "Prithvi Malla's pillar", "text": "The inscribed stone pillar of 1357 is the most important single record of the Khasa empire, naming its kings back to Nagaraj. Seeing it in place, in the town where the emperors wintered, connects you to seven centuries of history."},
+    {"title": "Dhuleshwar temple", "text": "Dhuleshwar in Badalamji is a 13th-century temple and one of the five Panchakoshi sites, where special worship is held at Dashain and Chaite Dashain. Its old stone carving is a highlight for heritage lovers."},
+    {"title": "The Panchakoshi circuit", "text": "Pilgrims walk or drive between the five holy sites over one or two days. Following the circuit with a local guide takes you through terraced villages and pine slopes with wide views over the Dailekh hills."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Nepalgunj, drive to Surkhet (Birendranagar) in about 2.5–3 hours, then on to Dailekh bazaar and Dullu, a further 4–5 hours on hill roads depending on conditions. Jeeps and buses also run from Surkhet. Roads can be blocked by landslides in the monsoon; check current status before you travel."},
+    {"mode": "Air", "text": "The nearest airports are Surkhet, with small-plane links in the region, and Nepalgunj, with frequent flights from Kathmandu of about 1 hour. Most travellers fly to Nepalgunj and continue by private jeep."}
+  ],
+  "where_to_stay": "Dullu bazaar and nearby Dailekh bazaar, the district headquarters, have simple hotels and guesthouses used by government staff and pilgrims, with basic rooms, shared or attached bathrooms and dal bhat. Standards are modest and English is limited, so travel with a guide. Surkhet (Birendranagar), the Karnali Province capital, has more comfortable hotels and is a good base before or after Dullu.",
+  "stays": [],
+  "tips": [
+    "Go with a local guide who can find all five Panchakoshi sites and speak with the Nath priests.",
+    "Remove shoes before the flame shrines, do not blow on or touch the flames, and ask before photographing the priests.",
+    "Carry small notes for offerings and for tea stops; there are no ATMs at the shrines.",
+    "Visit outside the monsoon, when hill roads around Dailekh are often blocked by landslides.",
+    "Festival days at Dhuleshwar and the flame shrines are crowded but memorable; check current status before you travel for dates."
+  ],
+  "themes": ["heritage-and-temples", "spiritual-and-pilgrimage", "villages-and-homestays"],
+  "nearby": ["jumla", "sinja-valley", "bardia"],
+  "experiences": [
+    {
+      "slug": "dullu-shirasthan-eternal-flame",
+      "title": "The eternal flame of Shirasthan",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Shirasthan flame Dullu",
+      "wiki": "",
+      "summary": "Visit Shirasthan in Rawatkot, where a natural gas flame burns inside the shrine and a Nath ascetic keeps the fire, the best known of Dullu's sacred flames.",
+      "body": [
+        "Shirasthan, the place of the head, is in Rawatkot within Dullu municipality, near the Shirasthan stream. Inside the shrine a small flame burns where gas escapes from the ground, and it has been kept and worshipped for generations. The priest is a Nath ascetic, part of a tradition of yogi priests linked with the site since at least the Khasa period.",
+        "Visitors remove their shoes, bow at the shrine and make a small offering of flowers, rice or coins. The priest may show you the flame and explain its meaning. It is a quiet, intimate place, not a grand temple, and the sight of a fire burning out of the earth is striking.",
+        "Combine Shirasthan with Nabhisthan and the Prithvi Malla pillar in a day. Morning is the calmest time. Ask your guide to translate; most local people speak Nepali in a Dailekh accent, and few speak English."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Is the flame at Shirasthan really natural?", "a": "Yes. It burns on natural gas seeping from the ground, as at several sites around Dullu, which is why the area is called Jwala Tirtha, the pilgrimage of flame. Researchers have reported gas reserves in Dailekh. The priests keep the flame protected inside the shrine."},
+        {"q": "Who looks after the Shirasthan shrine?", "a": "A priest from the Nath sect of Hindu ascetics tends the shrine and its flame. The Nath link to Dullu's flames is old and studied by historians. The priest receives pilgrims and may explain the rituals; a small offering is customary."},
+        {"q": "Can I photograph the flame?", "a": "Ask the priest first. Many allow photos of the flame without flash when no ritual is under way. Do not photograph pilgrims at prayer without their permission, and never step over offerings or the flame to get a better angle."}
+      ]
+    },
+    {
+      "slug": "dullu-panchakoshi-pilgrimage",
+      "title": "The Panchakoshi circuit of five holy sites",
+      "kind": "spiritual",
+      "duration": "1–2 days",
+      "best_time": "Oct–Apr; Dashain and Chaite Dashain for crowds",
+      "image_query": "Panchakoshi Dailekh pilgrimage",
+      "wiki": "",
+      "summary": "Follow the Panchakoshi pilgrimage around Dullu: Shirasthan, Nabhisthan, Dhuleshwar, Padukasthan and Tallo Dungeshwar, a circuit of flames, springs and old temples through the terraced hills of Dailekh.",
+      "body": [
+        "The Panchakoshi links five holy places in a ring around Dullu. Shirasthan in Rawatkot and Nabhisthan in Gamaudi are fire shrines; Dhuleshwar in Badalamji is a 13th-century temple; Padukasthan holds 14th-century images; and Tallo Dungeshwar, or Sideshwar Mahadev, lies in Dungeshwar rural municipality. Pilgrims aim to visit all five.",
+        "By jeep and on foot the circuit takes one to two days. Between sites you pass terraced rice and maize fields, pine slopes, stone houses with slate roofs and villages where children run to see visitors. Each site has its own priest, rituals and small market of offerings on festival days.",
+        "We suggest two days with a night in Dullu, so you can walk parts of the route rather than spend all day in a vehicle. Go with a guide who knows the order of worship and can introduce you to priests. Carry water, snacks and small notes for offerings."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "What are the five Panchakoshi sites?", "a": "Shirasthan in Rawatkot, Nabhisthan in Gamaudi, Dhuleshwar in Badalamji and Padukasthan, all in Dullu municipality, and Tallo Dungeshwar, also called Sideshwar Mahadev, in Dungeshwar rural municipality. Together they form the Panchakoshi pilgrimage of Dailekh."},
+        {"q": "How long does the Panchakoshi pilgrimage take?", "a": "By jeep with short walks, one long day is possible. Two days, with a night in Dullu, allows a relaxed pace and time at each site. Walking the whole circuit on foot takes longer and needs a local guide who knows the trails."},
+        {"q": "When do pilgrims visit Panchakoshi?", "a": "All year, but most come during Dashain in October, Chaite Dashain in spring and other Hindu festivals, when special pujas are held, especially at Dhuleshwar. Dates follow the lunar calendar; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "dullu-prithvi-malla-pillar",
+      "title": "Reading history on Prithvi Malla's pillar",
+      "kind": "heritage",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Dullu stone pillar inscription",
+      "wiki": "Khasa Kingdom",
+      "summary": "Stand beside the stone pillar raised in 1357 by Prithvi Malla, emperor of the Khasa kingdom, whose inscription lists his ancestors back to Nagaraj and is a key source for the history of the western Himalaya.",
+      "body": [
+        "Prithvi Malla was the ruler under whom the Khasa empire reached its greatest extent. In 1357 he raised an inscribed pillar at Dullu, a kirti stambha or pillar of glory, carved with a text that names the kings before him and praises his rule. The inscription opens with Buddhist syllables and invocations, showing the mixed faith of the Khasa court.",
+        "The pillar was studied by Yogi Naraharinath, a scholar-monk who travelled the far west in the 20th century recording inscriptions. From it historians learned that the dynasty's founder Nagaraj came from Khari, the Ngari region of western Tibet, and founded his capital at Semja, today's Sinja.",
+        "Today the pillar stands in the open, weathered but readable to specialists. Your guide can point out the lines of script and tell you how local people regard it. Do not touch or rub the stone. Pair the visit with Shirasthan and the bazaar for a full morning."
+      ],
+      "good_for": ["solo", "seniors", "photographers", "couples"],
+      "faqs": [
+        {"q": "What does the Dullu pillar inscription say?", "a": "It is a royal praise text of Prithvi Malla, dated Shaka 1279, or 1357 CE. It lists his predecessors, records that Nagaraj founded the Khasa capital at Semja, now Sinja, and begins with Buddhist invocations. It is a key source for Khasa history."},
+        {"q": "Is the Dullu inscription in Nepali?", "a": "Scholars still discuss the language of individual inscriptions, which mix Sanskrit formulas with the local tongue. Dullu and Sinja are both counted among the places with the earliest written examples of Khas, the ancestor of Nepali, and local people proudly describe Dullu's stones as the first written Nepali."},
+        {"q": "Who discovered the Dullu pillar?", "a": "The inscription was brought to scholarly attention by Yogi Naraharinath, a 20th-century scholar and ascetic who recorded many inscriptions and documents across western Nepal. Local people had always known the pillar; his work made its text available to historians."}
+      ]
+    },
+    {
+      "slug": "dullu-dhuleshwar-temple",
+      "title": "Dhuleshwar, a 13th-century hill temple",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Dhuleshwar temple Dailekh",
+      "wiki": "",
+      "summary": "Visit Dhuleshwar in Badalamji, one of the five Panchakoshi sites, a 13th-century temple tied to the legend of the scattered divine body and busy at Dashain and Chaite Dashain.",
+      "body": [
+        "Dhuleshwar stands in Badalamji, within Dullu municipality, and is dated to the 13th century, the age of the Khasa kings. In the Panchakoshi legend it marks the place where ashes, dhulo, fell, and it is one of the five stops on the pilgrimage circuit.",
+        "The temple is built of stone with carvings worn smooth by centuries of hands and weather. During Bada Dashain in autumn and Chaite Dashain in spring special pujas are held, drawing crowds from across Dailekh, and the courtyard fills with music, offerings and food stalls. On ordinary days it is quiet, with a priest and a few local worshippers.",
+        "Walk around the temple clockwise, remove your shoes where others do and ask before photographing. Combine Dhuleshwar with Padukasthan, which holds 14th-century images, for a half day on the southern side of the circuit."
+      ],
+      "good_for": ["photographers", "seniors", "solo", "couples"],
+      "faqs": [
+        {"q": "How old is Dhuleshwar temple?", "a": "Dhuleshwar is dated to the 13th century, the period of the Khasa Malla kings who ruled from Sinja and wintered at Dullu. It has been repaired over time but remains one of the oldest working temples in the Dailekh hills."},
+        {"q": "When is the best time to visit Dhuleshwar?", "a": "For quiet and good light, mornings from October to April. For atmosphere, come during Bada Dashain in October or Chaite Dashain in spring, when special pujas draw large crowds. Check current status before you travel for festival dates."},
+        {"q": "Why is it called Dhuleshwar?", "a": "In the Panchakoshi legend, the body of a deity was scattered across the hills around Dullu, and Dhuleshwar marks the place where ashes, dhulo in Nepali, fell. The name combines this with Ishwar, meaning lord."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Dullu?", "a": "Dullu is a municipality in Dailekh district, Karnali Province, in the middle hills of western Nepal. It lies north-west of Dailekh bazaar, the district headquarters, and is reached by road from Surkhet and Nepalgunj."},
+    {"q": "What are the flames of Dullu?", "a": "They are natural gas flames burning where gas seeps from the ground, worshipped as divine at shrines like Shirasthan and Nabhisthan. Some have been tended for centuries by Nath priests. The area is called Jwala Tirtha, the pilgrimage of flame."},
+    {"q": "How do I get to Dullu from Kathmandu?", "a": "Fly Kathmandu to Nepalgunj in about an hour, drive to Surkhet in about 2.5–3 hours, then continue 4–5 hours by hill road to Dullu. Many travellers break the journey with a night in Surkhet. A private jeep with a driver is the most practical option."},
+    {"q": "How long should I stay in Dullu?", "a": "One night lets you see Shirasthan, Nabhisthan and the Prithvi Malla pillar. Two nights let you complete the Panchakoshi circuit at an easy pace and spend time in the villages. Add travel days from Nepalgunj or Surkhet."},
+    {"q": "When is the best time to visit Dullu?", "a": "October to April is best, with dry roads and clear views; Dashain in October and Chaite Dashain in spring bring festival crowds. The monsoon from June to September often blocks hill roads with landslides."},
+    {"q": "Is Dullu connected to Sinja?", "a": "Yes. Both were capitals of the Khasa Malla kings: Sinja in Jumla for the summer and Dullu for the winter. Prithvi Malla's pillar at Dullu names Sinja, as Semja, as the dynasty's founding capital."},
+    {"q": "Is there accommodation in Dullu?", "a": "There are simple hotels and guesthouses in Dullu and in Dailekh bazaar, with basic rooms and Nepali meals. For more comfort, stay in Surkhet and visit Dullu on a long day trip, though the road time makes an overnight more relaxed."},
+    {"q": "Do I need a permit to visit Dullu?", "a": "No special permit is required. Dullu is outside national parks and restricted areas. A licensed guide is not legally required, but is very helpful for finding sites, translating and arranging transport. Check current status before you travel."},
+    {"q": "Can I combine Dullu with Bardia?", "a": "Yes. Bardia and Dullu are both reached via Nepalgunj or Kohalpur. A good plan is three nights in Bardia, then two nights for Surkhet and Dullu, before flying back from Nepalgunj. Allow plenty of time for hill roads."}
+  ]
+}

@@ -1,0 +1,150 @@
+{% load static yatra %}<!doctype html>
+<html lang="en-GB" class="js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Book Nepal Trip · Nepal trips, treks and tours told by the people who know them{% endblock %}</title>
+<meta name="description" content="{% block description %}Private trips, treks and tours in Nepal across nine regions, from the Kathmandu Valley to the Far West. Real stories, local words and true facts for every place, with licensed guides and itemised quotes.{% endblock %}">
+<link rel="canonical" href="{{ canonical }}">
+<meta property="og:site_name" content="Book Nepal Trip">
+<meta property="og:title" content="{% block og_title %}{{ block.super }}{% endblock %}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:type" content="website">
+{% block og_image %}{% endblock %}
+<meta name="theme-color" content="#1E1914">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 80'%3E%3Cpath d='M4 2v76h54L24 42h34z' fill='%23B3222A' stroke='%231D3B8B' stroke-width='5' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300..600&family=Mukta:wght@300;400;500;600;700&family=Rozha+One&display=swap">
+<link rel="preconnect" href="https://upload.wikimedia.org">
+<link rel="stylesheet" href="{% static 'css/lokta.css' %}?v={{ V }}">
+<style>{% for r in nav_regions %}[data-land="{{ r.slug }}"]{--g0:{{ r.grad.0 }};--g1:{{ r.grad.1 }};--g2:{{ r.grad.2 }};--accent:{{ r.accent }};--acc-ink:{{ r.ink }};--tint:{{ r.tint }};--grad:linear-gradient(135deg,{{ r.grad.0 }} 0%,{{ r.grad.1 }} 55%,{{ r.grad.2 }} 100%);--foil:linear-gradient(115deg,{{ r.foil.0 }} 0%,{{ r.foil.1 }} 42%,{{ r.foil.2 }} 78%,{{ r.foil.1 }} 100%);--foil-deep:{{ r.foil.2 }}}{% endfor %}</style>
+{% block head_extra %}{% endblock %}
+{% for block_ld in ld %}<script type="application/ld+json">{{ block_ld|safe }}</script>
+{% endfor %}
+{% if GA4 %}<script async src="https://www.googletagmanager.com/gtag/js?id={{ GA4 }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","{{ GA4 }}");</script>{% endif %}
+</head>
+<body{% block body_attrs %}{% endblock %}>
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="lungta" aria-hidden="true"><div class="lungta__row">{% for i in "x"|rjust:"120" %}<i></i>{% endfor %}</div></div>
+<div class="util">
+  <div class="wrap util__in">
+    <p class="util__date"><b>{{ today_bs.month }} {{ today_bs.year }} BS</b><span class="deva">{{ today_bs.month_ne }} {{ today_bs.year_ne }}</span><span class="small">· Nepal runs on its own calendar</span></p>
+    <nav class="util__links" aria-label="Contact">
+      {% if tel %}<a href="tel:{{ tel }}" data-cta="util-call">{{ SITE.phone }}</a>{% endif %}
+      {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" data-cta="util-whatsapp" rel="noopener">WhatsApp</a>{% endif %}
+      <a href="mailto:{{ SITE.email }}" data-cta="util-email">{{ SITE.email }}</a>
+      <a href="{% url 'how_we_work' %}">How we work</a>
+      <a href="{% url 'contact' %}">Contact</a>
+    </nav>
+  </div>
+</div>
+
+<header class="mast">
+  <div class="wrap mast__in">
+    <a class="logo" href="{% url 'home' %}" aria-label="Book Nepal Trip, home">
+      <svg class="logo__flag" viewBox="0 0 64 80" aria-hidden="true"><path d="M4 2v76h54L24 42h34z" fill="#B3222A" stroke="#1D3B8B" stroke-width="5" stroke-linejoin="round"/><path d="M14 22c4 3 9 3 13 0M14 58a7 7 0 0 0 13 0" fill="none" stroke="#FBF6EA" stroke-width="3.5" stroke-linecap="round"/></svg>
+      <span><span class="logo__name">Book Nepal Trip</span><span class="logo__sub">Nepal, told by height</span></span>
+    </a>
+    {% include "yatra/partials/nav.html" %}
+    <div class="mast__cta">
+      <button class="icon-btn" type="button" data-search-open aria-label="Search the site">{% icon "search" %}</button>
+      <a class="btn mast__plan btn--sweep" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="header-plan">Plan my trip</a>
+      <button class="burger" type="button" data-sheet-open aria-label="Open menu"><span></span></button>
+    </div>
+  </div>
+</header>
+
+<div class="sheet" role="dialog" aria-modal="true" aria-label="Menu">
+  <div class="sheet__top"><span class="logo__name">Book Nepal Trip</span><button class="x" type="button" data-sheet-close aria-label="Close menu">×</button></div>
+  <button class="sheet__search" type="button" data-search-open>{% icon "search" %} Search places, trips, words</button>
+  <details class="acc" open><summary>Regions</summary><div class="sheet__regions">{% for r in nav_regions %}<a class="rtile" href="{{ r.url }}" data-land="{{ r.slug }}"><span class="pennant pennant--sm">{% icon r.icon %}</span><span><b>{{ r.name }}</b><small>{{ r.palette }}</small></span></a>{% endfor %}</div></details>
+  <details class="acc"><summary>Trips</summary><div class="sheet__links"><a href="{% url 'journeys' %}">Every trip</a>{% for t in nav_themes|slice:":8" %}<a href="{{ t.url }}">{{ t.name }}</a>{% endfor %}</div></details>
+  <details class="acc"><summary>Experiences</summary><div class="sheet__links">{% for k, n, f in nav_kinds %}<a href="{% url 'experience_kind' k %}">{{ n }}</a>{% endfor %}<a href="{% url 'stays' %}">Stays</a><a href="{% url 'festivals' %}">Festivals</a></div></details>
+  <details class="acc"><summary>Stories</summary><div class="sheet__links"><a href="{% url 'journal' %}">Stories</a><a href="{% url 'legends' %}">Legends</a><a href="{% url 'untold' %}">Untold Nepal</a><a href="{% url 'words' %}">Words you will hear</a><a href="{% url 'altitude' %}">Nepal by height</a></div></details>
+  <details class="acc"><summary>Plan</summary><div class="sheet__links"><a href="{% url 'guides' %}">Guides</a><a href="{% url 'seasons' %}">Seasons and calendar</a><a href="{% url 'tools' %}">Trip tools</a><a href="{% url 'routes' %}">Routes</a><a href="{% url 'how_we_work' %}">How we work</a><a href="{% url 'contact' %}">Contact</a><a href="{% url 'faq' %}">FAQ</a><a href="{% url 'policies' %}">Policies</a></div></details>
+  <div class="sheet__cta"><a class="btn" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="sheet-plan">Plan my trip</a>{% if wa_base %}<a class="btn btn--ghost" href="{{ wa_base }}?text={{ wa_text }}" data-cta="sheet-whatsapp">WhatsApp</a>{% endif %}{% if tel %}<a class="btn btn--ghost" href="tel:{{ tel }}" data-cta="sheet-call">Call</a>{% endif %}</div>
+</div>
+
+<div class="search" role="dialog" aria-modal="true" aria-label="Search" hidden>
+  <div class="search__box wrap">
+    <label class="sr-only" for="q">Search</label>
+    <input id="q" type="search" placeholder="Search places, trips, stays, words…" autocomplete="off" data-search-url="{% url 'search_index' %}">
+    <button type="button" class="x" data-search-close aria-label="Close search">×</button>
+    <ul class="search__results" aria-live="polite"></ul>
+    <p class="small search__hint">Try "Bhaktapur", "rhino", "Poon Hill", "yomari", "October"</p>
+  </div>
+</div>
+
+<main id="main">
+{% block crumbs %}{% if crumbs %}<div class="wrap">{% include "yatra/partials/crumbs.html" %}</div>{% endif %}{% endblock %}
+{% block content %}{% endblock %}
+</main>
+
+{% block cta %}{% include "yatra/partials/cta.html" %}{% endblock %}
+
+<footer class="foot">
+  {% contours "footer" 12 %}
+  <div class="lungta lungta--paper" aria-hidden="true" style="background:transparent"><div class="lungta__row">{% for i in "x"|rjust:"120" %}<i></i>{% endfor %}</div></div>
+  <div class="wrap">
+    <div class="foot__top">
+      <p class="foot__big">Nepal, told one<br><span>height</span> at a time<span class="deva">नेपाल, उचाइ अनुसार</span></p>
+      <div class="foot__contact">
+        <a class="fcard" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan"><b>Plan online</b><span>Three short steps, a first plan within one working day</span></a>
+        {% if wa_base %}<a class="fcard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp"><b>WhatsApp a planner</b><span>Quick questions, quick answers</span></a>{% else %}<a class="fcard" href="{% url 'contact' %}#callback" data-cta="footer-callback"><b>Request a call back</b><span>Tell us when suits you</span></a>{% endif %}
+        <a class="fcard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="footer-contact"><b>{% if tel %}Call {{ SITE.phone }}{% else %}Write to us{% endif %}</b><span>{{ SITE.email }}</span></a>
+      </div>
+    </div>
+    <form class="letter" method="post" action="{% url 'subscribe' %}" data-cta-form="newsletter">
+      {% csrf_token %}
+      <div><h2 class="h-m">The Lokta Letter</h2><p>One email a month, on handmade-paper principles: which region is at its best, festival dates in both calendars, one story we have not told before.</p></div>
+      <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--foil" type="submit" data-cta="newsletter" style="--foil: linear-gradient(115deg,#FFEBB5,#E8B04B 42%,#A86E12 78%,#E8B04B)">Subscribe</button></div>
+    </form>
+    <div class="foot__cols">
+      <div><h3>Regions</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" class="foot__region" data-land="{{ r.slug }}"><i></i>{{ r.name }}</a></li>{% endfor %}</ul></div>
+      <div><h3>Popular trips</h3><ul>{% for j in nav_popular|slice:":8" %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}</ul></div>
+      <div><h3>Travel styles</h3><ul>{% for t in nav_themes|slice:":8" %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}<li><a href="{% url 'themes' %}">Every style</a></li></ul></div>
+      <div><h3>Stories</h3><ul><li><a href="{% url 'journal' %}">Stories</a></li><li><a href="{% url 'legends' %}">Legends</a></li><li><a href="{% url 'untold' %}">Untold Nepal</a></li><li><a href="{% url 'words' %}">Words you will hear</a></li><li><a href="{% url 'altitude' %}">Nepal by height</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'guides' %}">Guides</a></li></ul></div>
+      <div><h3>Plan</h3><ul><li><a href="{% url 'seasons' %}">Seasons and calendar</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'tool_altitude' %}">Altitude and air</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'stays' %}">Stays</a></li><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'contact' %}">Contact</a></li><li><a href="{% url 'faq' %}">FAQ</a></li></ul></div>
+      <div><h3>Policies</h3><ul>{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}<li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li></ul></div>
+    </div>
+    <div class="foot__trust">
+      <span>[Nepal Tourism Board / Department of Tourism registration no.]</span><span>[TAAN / NATTA membership]</span><span>Payments: [bank transfer · cards]</span><span>No payment to start · written, itemised quotes</span>
+    </div>
+    <div class="foot__base">
+      <span>© {% now "Y" %} Book Nepal Trip · {{ SITE.address }}</span>
+      <span>Photos: Wikimedia Commons contributors, credited on each page · Maps drawn from Natural Earth</span>
+      <a href="#main">Back to top ↑</a>
+    </div>
+  </div>
+</footer>
+
+{% block fab %}
+<div class="fab" data-fab>
+  <div class="fab__panel" id="fab-panel" hidden>
+    <p class="fab__title">Talk to a planner</p>
+    <a href="{% url 'plan' %}?from={{ request.path|urlencode }}{% block fab_land %}{% endblock %}" data-cta="fab-plan"><b>Plan online</b><span>A first plan within one working day</span></a>
+    {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="fab-whatsapp"><b>WhatsApp</b><span>Usually the fastest reply</span></a>{% endif %}
+    {% if tel %}<a href="tel:{{ tel }}" data-cta="fab-call"><b>Call {{ SITE.phone }}</b><span>[Office hours, Nepal time]</span></a>{% endif %}
+    <a href="{% url 'contact' %}#callback" data-cta="fab-callback"><b>Request a call back</b><span>Tell us when suits you</span></a>
+    <a href="mailto:{{ SITE.email }}" data-cta="fab-email"><b>Email</b><span>{{ SITE.email }}</span></a>
+  </div>
+  <button class="fab__toggle" type="button" aria-expanded="false" aria-controls="fab-panel" aria-label="Contact options">{% icon "chat" %}</button>
+  <a class="fab__main" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="fab-main"><span class="fab__flag" aria-hidden="true"></span>{% block fab_label %}Plan my Nepal trip{% endblock %}</a>
+</div>
+<nav class="dock" aria-label="Quick contact">
+  {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" data-cta="dock-whatsapp">{% icon "whatsapp" %}WhatsApp</a>{% else %}<a href="mailto:{{ SITE.email }}" data-cta="dock-email">{% icon "mail" %}Email</a>{% endif %}
+  {% if tel %}<a href="tel:{{ tel }}" data-cta="dock-call">{% icon "phone" %}Call</a>{% else %}<a href="{% url 'contact' %}#callback" data-cta="dock-callback">{% icon "phone" %}Call back</a>{% endif %}
+  <a class="dock__main" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="dock-plan">Plan my trip</a>
+</nav>
+{% endblock %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
+<script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js" defer></script>
+{% block scripts %}{% endblock %}
+<script src="{% static 'js/lokta.js' %}?v={{ V }}" defer></script>
+</body>
+</html>

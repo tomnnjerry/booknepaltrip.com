@@ -1,0 +1,71 @@
+{
+  "slug": "ramaroshan-lakes-and-dullu-6n",
+  "title": "Ramaroshan Lakes and Dullu",
+  "region": "far-west",
+  "kind": "adventure",
+  "nights": 6,
+  "themes": ["lakes-and-rivers", "villages-and-homestays", "heritage-and-temples", "photography"],
+  "grade": "Moderate",
+  "stops": [{"place": "ramaroshan", "nights": 4}, {"place": "dullu", "nights": 2}],
+  "start": "Dhangadhi Airport (DHI)",
+  "end": "Kathmandu, by air from Surkhet",
+  "price_from_usd": 1150,
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "pace": "Active",
+  "max_altitude_m": 2500,
+  "meta_description": "Ramaroshan lakes and Dullu, 6 nights: Doti, three nights among the 12 lakes and 18 meadows of Achham, then the flames and Khasa pillar of Dullu.",
+  "summary": "Six nights by jeep and on foot across the hills of the far west. Through Doti to Ramaroshan in Achham, an upland of 12 lakes and 18 meadows at about 2,500 m, with three nights to walk between them. Then east to Dullu in Dailekh for its natural-gas flames and a 14th-century royal pillar, and a flight home from Surkhet.",
+  "intro": [
+    "Ask people in Achham what Ramaroshan is and they will give you two numbers: twelve lakes and eighteen meadows. The lakes are small and scattered through forest of rhododendron, oak and pine; the meadows, called patan, are open grassland where villagers graze cattle. The largest lake, Jingale (also written Jigale), is shaped like the letter Y. On clear days you see the snows of Api and Saipal to the north-west above the Budhiganga valley.",
+    "Ramaroshan is new to tourism. Nepali visitors started coming in numbers only in the last decade, boats appeared on the main lake in 2020, and foreign visitors are still rare. Accommodation is in simple local hotels and homestays. The drives are long and rough, which is why we pair it with Dullu, a short hop by hill road toward Surkhet, so you leave by air rather than retracing two days of road."
+  ],
+  "story": "The trip begins on the hot plain at Dhangadhi and climbs, all day, up the Seti valley into Doti, where Silgadhi's bazaar sits on a ridge above the river. The next day the road crosses into Achham, drops to the Budhiganga at Sanfebagar and climbs again, through terraces and rhododendron forest, until it comes out among meadows and still water. For three days you walk between lakes, eat with families who farm the high fields, and watch the light on the far snow peaks. Then the road carries you east, ridge after ridge, to Dullu, where flames rise from the ground at temple shrines and a stone pillar records the name of a king who ruled seven hundred years ago.",
+  "highlights": [
+    "Three nights at Ramaroshan among its 12 lakes and 18 meadows, with almost no other foreign visitors",
+    "Jingale Tal, the Y-shaped largest lake, and Kinimini Patan, the largest meadow",
+    "Views of Api and Saipal Himal over the Budhiganga basin on clear mornings",
+    "The natural-gas flames at the shrines of Dullu and the pillar of Prithvi Malla",
+    "Two days of hill roads through Doti, Achham and Dailekh, rarely travelled by visitors"
+  ],
+  "days": [
+    {"day": 1, "title": "Dhangadhi to Silgadhi", "place": "", "overnight": "Silgadhi, Doti", "alt_m": 1310, "move": "≈ 6 h drive", "text": "We meet at Dhangadhi Airport, or at your hotel if you flew in the night before, and drive north off the plain. The road climbs through sal forest and follows the Seti river into Doti. Silgadhi, the district headquarters at about 1,310 m, is a hill bazaar on a ridge above the river town of Dipayal. In the evening we visit the temple of Shaileshwari, the goddess of the town. Night in a simple hotel; dinner of dal bhat with local greens and pickles.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Through Achham to Ramaroshan", "place": "ramaroshan", "overnight": "Ramaroshan", "alt_m": 2500, "move": "≈ 7–8 h by jeep", "text": "A long day by jeep. The road runs east from Doti into Achham and down to Sanfebagar on the Budhiganga river, a small town with an airstrip, then climbs steadily through terraced fields and forest. As the road gains height the oak and rhododendron close in, and in spring the hillsides turn red. We arrive at Ramaroshan, about 2,500 m, in the late afternoon. Night in a local lodge or homestay. Roads here are rough and can be slow after rain.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Jingale Tal and the lakeshore", "place": "ramaroshan", "overnight": "Ramaroshan", "alt_m": 2500, "move": "≈ 5 h walk", "text": "A first day on foot, from lake to lake. We start at Jingale Tal, the largest of Ramaroshan's lakes, whose two arms give it the shape of a Y. Boats have been run on the lake since 2020, and you can take one out if the operators are there. The trail then follows forest paths to smaller lakes, each with its own name and its own small shrine. Watch for the danfe, Nepal's national bird, which lives in these forests. Picnic lunch on a meadow.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Kinimini Patan and the far snows", "place": "ramaroshan", "overnight": "Ramaroshan", "alt_m": 2500, "move": "≈ 5–6 h walk", "text": "Today we walk to Kinimini Patan, the largest of the 18 meadows, a broad sweep of grass with the Kailash river running through it. Herders bring cattle and sheep here in the warm months. On clear mornings the view north-west takes in the snows of Api and Saipal above the deep Budhiganga valley. In the afternoon we visit a farming family who keep bees and grow potatoes, millet and beans on the edge of the meadows, and hear the story of how Ramaroshan got its name.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Morning at Taule Tal, drive to Dullu", "place": "dullu", "overnight": "Dullu", "alt_m": 1400, "move": "≈ 1 h walk · then ≈ 7–9 h by jeep", "text": "An early walk to Taule Tal, the smallest of the lakes, while mist still lies on the water. Then a long drive east: down to Sanfebagar, across the Budhiganga and on through the hills toward Dailekh. This is the mid-hill road of the far west, through bazaars where few foreign visitors stop. We reach Dullu, in Dailekh district, by evening. Night in a simple lodge or homestay in the bazaar.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Flames and the Khasa pillar", "place": "dullu", "overnight": "Birendranagar, Surkhet", "alt_m": 720, "move": "≈ 3 h at the sites · ≈ 100 km · 4–5 h drive", "text": "A morning with a local guide at Dullu. We visit the shrines of Shirsthan and Nabhisthan, where small natural-gas flames, called jwala, burn at the temples, and the stone pillar of the Khasa king Prithvi Malla from the 1350s, one of the earliest records of the Nepali language. After lunch we drive south through Dailekh to the Surkhet valley. If time allows, a stop at Kakrebihar, a ruined stone temple on a hill above Birendranagar, widely linked to the same kingdom.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Fly Surkhet to Kathmandu", "place": "", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 1 h flight", "text": "A morning flight from Surkhet takes you back to Kathmandu in about an hour, along the line of hills you have just crossed by road. If the Surkhet flight is not running, we drive three hours to Nepalgunj for one of the many flights from there. Either way, you will have seen a part of Nepal that rarely appears in guidebooks: high lakes in Achham, the hill bazaars of Doti and the ancient flames of Dullu.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep with driver from Dhangadhi to Surkhet (6 days)",
+    "Surkhet–Kathmandu flight (economy)",
+    "6 nights in the best available local hotels, lodges and homestays, all meals",
+    "Licensed guide throughout and local guides at Ramaroshan and Dullu",
+    "Boat ride on Jingale Tal if operating, and local site fees"
+  ],
+  "excludes": [
+    "Kathmandu–Dhangadhi flight and any hotel in Dhangadhi",
+    "International flights, visa and travel insurance",
+    "Drinks, tips and laundry",
+    "Extra nights caused by road closures"
+  ],
+  "good_to_know": [
+    "Ramaroshan has no national park permit at the time of writing; local fees may apply, and protected-area rules are changing. Check current status before you travel.",
+    "Accommodation at Ramaroshan is very simple: shared toilets, limited hot water and thick quilts.",
+    "Roads in Achham and Dailekh are partly unpaved and can close after heavy rain; we carry flexible plans and a spare half day.",
+    "Nights at 2,500 m drop below freezing from December to February.",
+    "Mobile signal is available in most bazaars but weak around the lakes."
+  ],
+  "faqs": [
+    {"q": "Where is Ramaroshan?", "a": "Ramaroshan is in Achham district, Sudurpashchim Province, in the hills of far western Nepal, at about 2,500 m. It is an upland of lakes, meadows and forest above the Budhiganga valley. The usual approach is by road from Dhangadhi via Doti and Sanfebagar, two days, or from Surkhet via Dailekh."},
+    {"q": "How many lakes are there at Ramaroshan?", "a": "Local people describe Ramaroshan as an area of 12 lakes and 18 meadows. The largest lake is Jingale Tal, shaped like a Y, and the smallest is Taule Tal. The largest meadow is Kinimini Patan, with the Kailash river flowing through it. The lakes are spread out, so seeing several takes two days on foot."},
+    {"q": "How do I get to Ramaroshan from Kathmandu?", "a": "Fly from Kathmandu to Dhangadhi, about 1 hour 15 minutes, then drive two days via Silgadhi in Doti and Sanfebagar in Achham. Another route is to fly to Surkhet or Nepalgunj and drive via Dailekh. There is an airstrip at Sanfebagar, but flights are irregular. Plan on at least two full road days each way, or loop as this trip does."},
+    {"q": "When is the best time to visit Ramaroshan?", "a": "March to May for rhododendron and warm days, and October to November for clear skies and the best mountain views. June to September brings monsoon rain, leeches and landslides on the roads. December to February is cold, with frost and sometimes snow around the lakes, though the skies are often clear."},
+    {"q": "What is the legend behind the name Ramaroshan?", "a": "Local legend says the god Rama came to these lakes and meadows for peace and rest, and people tie the name to that story. Other tellings connect the area to Shiva and Parvati. These are legends, not history, but you will hear them from families around the lakes, and shrines stand by several of the water bodies."},
+    {"q": "Is Ramaroshan suitable for families?", "a": "Families with older children who are happy with simple rooms and long drives will enjoy it: lake walks are easy and there are boats on Jingale Tal. The road days of seven to nine hours are the challenge, along with cold nights. For families with small children we suggest Bardia or Rara by air instead."},
+    {"q": "Can I combine Ramaroshan with Khaptad?", "a": "Yes. Both are reached through Doti, and Khaptad's Jhigrana gate is only about 1.5 hours by jeep from Silgadhi. A combined trip of 10 to 12 nights works well: Khaptad first, then on to Ramaroshan through Achham. Some trekkers also walk between Badimalika and Ramaroshan, a longer trek with camping."},
+    {"q": "What wildlife lives around Ramaroshan?", "a": "The forests hold the danfe, or Himalayan monal, Nepal's national bird, as well as other pheasants. Bears, musk deer and wild cats are recorded in the area but rarely seen. The lakes attract waterbirds in season. Your guide can also show you how local families keep bees in log hives on the hillsides."},
+    {"q": "Is there accommodation at Ramaroshan?", "a": "Yes, but simple: a few local hotels and homestays near the main lakes, built mainly for Nepali visitors. Rooms are basic, with shared toilets and limited hot water. We book the best available and bring extra bedding where needed. In busy weeks around Dashain and Tihar we may camp to guarantee space."}
+  ]
+}

@@ -1,0 +1,5 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Page not found · Book Nepal Trip{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">404 · हराएको</p><h1 class="h-xl">This trail does not go anywhere</h1><p class="lede">The page may have moved. Try the search, or start from a region.</p><div class="btn-row" style="margin-top:20px"><button class="btn" type="button" data-search-open>Search the site</button><a class="btn btn--ghost" href="{% url 'lands' %}">Every region</a></div></div></header>
+{% endblock %}

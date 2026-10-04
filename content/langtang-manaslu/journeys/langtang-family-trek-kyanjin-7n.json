@@ -1,0 +1,86 @@
+{
+  "slug": "langtang-family-trek-kyanjin-7n",
+  "title": "Langtang family trek to Kyanjin Gompa",
+  "region": "langtang-manaslu",
+  "kind": "family",
+  "nights": 7,
+  "themes": ["family-trips", "treks-and-trails", "villages-and-homestays", "high-altitude"],
+  "grade": "Moderate",
+  "stops": [
+    {"place": "syabrubesi", "nights": 2},
+    {"place": "langtang-village", "nights": 3},
+    {"place": "kyanjin-gompa", "nights": 2}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 700,
+  "best_months": [0, 0, 1, 2, 1, 0, 0, 0, 1, 2, 2, 0],
+  "pace": "Unhurried",
+  "max_altitude_m": 4300,
+  "meta_description": "Langtang family trek, 7 nights: Syabrubesi to Kyanjin Gompa with yaks, a cheese factory and forest monkeys, an extra porter and a guide used to children.",
+  "summary": "A seven-night Langtang trek planned around children: a guide experienced with families, an extra porter for snacks and spare layers, short afternoons and two nights at Kyanjin Gompa with yaks, the cheese factory and a gentle climb up Kyanjin Ri. Best for children of about nine and older who enjoy walking.",
+  "intro": [
+    "Langtang is the Himalayan valley we most often suggest to families. There is no flight, no high pass and no long acclimatisation schedule, and the trail is clear and well supplied with lodges. Children get monkeys in the forest, water-driven prayer wheels, yaks and a real cheese factory at the top, and parents get Langtang Lirung over breakfast. The whole trip fits a school half-term, starting and finishing in Kathmandu.",
+    "We keep the structure of our Langtang Valley trek but change the details. Your guide has trekked with children before, an extra porter carries snacks, games and spare layers, and each day finishes early enough for play and rest. At Kyanjin Gompa (3,870 m) we spend two nights and climb only partway up Kyanjin Ri, turning back wherever the children are happy. Langtang is a national park, so a licensed guide is required; check current status before you travel."
+  ],
+  "story": "For children the trek is a story in chapters. First, the jeep ride north and a town full of trucks heading for Tibet. Then the forest: grey langur monkeys swinging overhead, bridges that bounce, the river always loud. The trees open and there are yaks, dzo and stone walls carved with prayers, and a water-powered prayer wheel that turns by itself. At Langtang village there is a quieter chapter, about the avalanche of 2015, told gently by the family who rebuilt your lodge. Then Kyanjin, where cheese is made from yak milk, glaciers hang above the roofs and the stars are brighter than anywhere at home. Going down, everyone is faster, browner and full of things to tell.",
+  "highlights": [
+    "Two nights at Kyanjin Gompa with yaks, glaciers and the yak cheese factory",
+    "Langur monkeys and bouncing suspension bridges on the forest trail",
+    "Water-driven prayer wheels and mani walls to spin and count",
+    "A gentle family climb partway up Kyanjin Ri, turning back when the children choose",
+    "An extra porter and a guide used to trekking with children"
+  ],
+  "days": [
+    {"day": 1, "title": "Jeep ride north to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "alt_m": 1460,
+     "move": "≈ 122 km · 7–8 h drive", "text": "A private jeep leaves Kathmandu after breakfast, crossing the Kakani ridge and descending to Trishuli Bazaar before climbing to Dhunche, where your guide shows the park permits. We stop often for snacks, toilets and leg-stretching, which makes the day long but easier for children. Syabrubesi is a riverside town of lodges and tea shops on the road to Tibet. Dinner is early, and your guide will brief the children on the trek in a way that gets them excited rather than worried.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Monkeys and bridges to Lama Hotel", "place": "", "overnight": "Lama Hotel", "alt_m": 2470,
+     "move": "≈ 6–7 h walk with long breaks · +1,010 m", "text": "The longest walking day, so we start early and break it into short stretches with stops at Pairo and a long lunch at Bamboo beside the river. Cross bouncy suspension bridges, look for grey langur monkeys high in the trees and count the waterfalls on the far bank. The afternoon climbs through oak and rhododendron to Lama Hotel, a group of lodges in a forest clearing. Children usually find a game of cards or a lodge dog to play with before dinner.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Yaks and prayer wheels to Langtang village", "place": "langtang-village", "overnight": "Langtang village", "alt_m": 3430,
+     "move": "≈ 6 h walk with long breaks · +960 m", "text": "Through forest to Ghoda Tabela, where the valley opens and the first yaks and dzo appear in the meadows. Children enjoy the water-driven prayer wheels in the streams, which turn on their own, and the stone mani walls carved with prayers, always passed with the wall on your right. Langtang village was destroyed by an avalanche in 2015 and has been rebuilt by the families who survived. Your guide will explain this simply and kindly. Tonight is your first above 3,000 m, so walk slowly and drink well.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "A short walk to Kyanjin Gompa", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "alt_m": 3870,
+     "move": "≈ 3–4 h walk · +440 m", "text": "A short morning past Mundu and along long mani walls brings you to Kyanjin Gompa by lunch. The afternoon is for exploring at a gentle pace: the small gompa, the yak pens, and the cheese factory, first set up with Swiss help in the 1950s, where children can see how hard yak cheese is made and buy a piece to take home. Keep play quiet and slow, since running at this height leaves anyone breathless. Hot chocolate in the lodge is compulsory.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Partway up Kyanjin Ri and a free day", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "alt_m": 3870,
+     "move": "≈ 2–4 h return walk · up to +430 m", "text": "After breakfast, set off up the grassy slopes of Kyanjin Ri with no pressure to reach the top. Most families turn back at a viewpoint around 4,300 m, with Langtang Lirung and its glaciers spread out across the valley. Prayer flags on the ridge make a good finishing line. The afternoon is free: walk among the yak pastures up the valley, draw the mountains, or rest in the sun. Your guide checks everyone's oxygen levels and appetite in the evening.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "All the way down to Lama Hotel", "place": "", "overnight": "Lama Hotel", "alt_m": 2470,
+     "move": "≈ 6–7 h walk with long breaks · −1,400 m", "text": "Going down is faster and children often race ahead, so the guide and porters keep the group together on the steeper sections. Retrace the valley past Langtang village and Ghoda Tabela for lunch, then back into the forest to Lama Hotel. Thicker air means more energy, and the forest feels like a new place after the open valley. Trekking poles sized for children help their knees on this long descent; we can bring them from Kathmandu.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Back to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "alt_m": 1460,
+     "move": "≈ 5–6 h walk · −1,010 m", "text": "The last day on foot follows the river down through Bamboo and Pairo to Syabrubesi, with lunch by the water. By mid-afternoon you are back in warm air among shops and trucks. A hot shower, clean clothes and a celebration dinner with your guide and porters round off the trek; children often want to give their porter a card or drawing, which means a lot. Tonight is a good time to let them count how many bridges they crossed.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "≈ 122 km · 7–8 h drive", "text": "A morning drive back along the Pasang Lhamu Highway, with stops for snacks, lunch and stretching. Road works and landslides can slow this route, so we leave a full day. We drop you at your Kathmandu hotel by late afternoon, where the trip ends. If your family has a few more days, Bhaktapur's pottery square, Boudhanath's pigeons and a jungle stay in Chitwan are all favourites with children after a mountain trek.", "meals": "Breakfast, Lunch"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep Kathmandu–Syabrubesi–Kathmandu",
+    "Licensed trekking guide experienced with families",
+    "One porter for every two trekkers plus one extra family porter, with their wages, food, insurance and lodging",
+    "Langtang National Park entry permits and TIMS cards",
+    "Seven nights in teahouse lodges, family or twin rooms, with three meals a day",
+    "Child-sized trekking poles on request, first-aid kit and pulse oximeter"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before and after the trek",
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking to 4,500 m and helicopter evacuation for every family member",
+    "Hot showers, battery charging, drinks and snacks",
+    "Tips for guide, porters and driver"
+  ],
+  "good_to_know": [
+    "Foreign trekkers in national parks must trek with a licensed guide under rules in force since April 2023; check current status before you travel.",
+    "We suggest children be about nine or older and used to full days of walking; younger children can join with a carrier porter by arrangement.",
+    "Children may not describe altitude symptoms clearly; watch for unusual tiredness, crankiness or loss of appetite and tell the guide.",
+    "Family rooms are available in some lodges; otherwise rooms are twin, side by side.",
+    "Bring favourite snacks from home; lodge menus are good but not always what children want."
+  ],
+  "faqs": [
+    {"q": "Is the Langtang Valley trek safe for children?", "a": "Yes, for healthy children who enjoy walking, with sensible precautions. The trail is clear, lodges are frequent and the highest night is 3,870 m with a rest day. The main risks are altitude and tiredness, so we go slowly, add an extra porter and turn back if a child is unwell. A licensed guide watches the group closely throughout."},
+    {"q": "What is the minimum age for a family Langtang trek?", "a": "We suggest about nine and older for children walking the whole way. Younger children can join if they are used to hiking, with an extra porter to carry them on harder sections, but the long drive and days of 6 hours are tough for under-sevens. Talk to us about your children and we will advise honestly."},
+    {"q": "How do children cope with altitude in Langtang?", "a": "Most cope well when the climb is gradual, as it is here. Children can find it harder to explain symptoms, so watch for unusual tiredness, irritability, headache, vomiting or poor appetite. Our guides check oxygen levels and mood each evening. Any worrying sign means rest or descent. Ask your doctor about medication for children before you travel."},
+    {"q": "What do children eat on the Langtang trek?", "a": "Lodge menus include plenty of child-friendly food: fried rice, noodles, pancakes, porridge, chips, eggs, Tibetan bread and soups, as well as dal bhat. Hot chocolate and lemon tea are popular. Bring favourite snacks from home, since lodge snack choices are limited. Tell us about allergies in advance so your guide can check with each kitchen."},
+    {"q": "Can a porter carry a young child?", "a": "Yes, by arrangement. Some porters carry children on short sections in a sturdy child carrier, or in a traditional doko basket with padding, with frequent rests. We must agree this in advance so we can send the right porter and equipment. It adds to the cost, but it lets families with younger children reach Kyanjin."},
+    {"q": "What are the rooms like for families?", "a": "Lodges have simple twin rooms with two beds, and some have family rooms with three or four beds. Toilets are usually shared and may be squat style. Dining rooms have a stove, which is where everyone gathers in the evening. Bring sleeping bags for everyone, as nights at Kyanjin fall below freezing from October to April."},
+    {"q": "When is the best time for a family trek in Langtang?", "a": "October and November are best, with dry trails, clear skies and comfortable daytime temperatures. April and May also work, with warmer weather and rhododendrons in flower, though views are hazier. Winter is too cold for most children at Kyanjin, and the monsoon from June to September brings leeches, mud and slow roads."},
+    {"q": "Is there medical help on the Langtang trail?", "a": "There are basic health posts in larger villages and at Syabrubesi, but no hospital beyond Kathmandu. Your guide carries a first-aid kit and pulse oximeter and is trained to recognise altitude sickness. In an emergency, helicopter evacuation to Kathmandu is possible in good weather, so every family member must be insured for it."},
+    {"q": "What should children pack for the Langtang trek?", "a": "Good broken-in walking shoes, two warm layers, a down jacket, waterproof jacket, hat, gloves, sun hat, sunglasses and sunscreen, a water bottle and a small daypack for their own snacks and a toy. A sleeping bag rated to about −10 °C is needed. Leave heavy toys at home; cards and a notebook travel best."}
+  ]
+}

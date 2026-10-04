@@ -1,0 +1,8 @@
+{% load yatra %}<a class="card" href="{{ s.url }}" data-land="{{ s.region }}" data-item data-region="{{ s.region }}">
+  <div class="card__img">{% with i=s|first_img %}{% if i %}<img src="{{ i|src:500 }}" alt="" loading="lazy">{% else %}<div class="noimg">{% icon "bed" %}</div>{% endif %}{% endwith %}<span class="card__tag">{% icon "bed" %}{{ s.kind }}</span>{% if s.place_obj.altitude_m %}<span class="card__alt">{{ s.place_obj.altitude_m|num }} m</span>{% endif %}</div>
+  <div class="card__body">
+    <div class="card__meta"><span>{{ s.place_obj.name|default:s.region_obj.name }}</span></div>
+    <h3>{{ s.name }}</h3>
+    <p>{{ s.summary|truncatewords:20 }}</p>
+  </div>
+</a>

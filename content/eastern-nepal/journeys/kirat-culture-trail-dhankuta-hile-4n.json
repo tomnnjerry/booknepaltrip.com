@@ -1,0 +1,74 @@
+{
+  "slug": "kirat-culture-trail-dhankuta-hile-4n",
+  "title": "Kirat Culture Trail: Bhedetar, Dhankuta, Hile",
+  "region": "eastern-nepal",
+  "kind": "culture",
+  "nights": 4,
+  "themes": ["food-and-festivals", "villages-and-homestays", "heritage-and-temples", "photography"],
+  "grade": "Easy",
+  "stops": [
+    {"place": "bhedetar", "nights": 1},
+    {"place": "dhankuta", "nights": 1},
+    {"place": "hile", "nights": 2}
+  ],
+  "start": "Kathmandu (morning flight to Biratnagar)",
+  "end": "Kathmandu",
+  "price_from_usd": 750,
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Unhurried",
+  "max_altitude_m": 1850,
+  "meta_description": "Kirat culture trail, 4 nights: Budha Subba in Dharan, the Bhedetar ridge, old Dhankuta bazaar and tongba in Hile with Rai and Limbu hosts.",
+  "summary": "Four nights in the Kirat heartland of the eastern hills, where Rai and Limbu culture is part of daily life. Visit Budha Subba in Dharan, watch sunset over the plains from Bhedetar, walk the old bazaar of Dhankuta, and share tongba and kinema in Hile. A gentle road trip with village walks, family kitchens and a licensed local guide.",
+  "intro": [
+    "The Kirat peoples, above all the Rai and Limbu, have lived in the hills of eastern Nepal for as long as any written history reaches. Their faith follows the Mundhum, an oral tradition of origin stories, rituals and songs, and their year turns on festivals such as Sakela, when Rai villages dance in circles to drum and cymbal, and Chasok Tangnam, the Limbu harvest offering. Many families also served for generations in the Gurkha regiments of Britain and India, and Dharan grew up around a British Gurkha camp.",
+    "This short trip follows the Koshi Highway from the plains into the hills, staying in three very different places: the windy ridge at Bhedetar, the old administrative town of Dhankuta, and the cool trading bazaar of Hile. A local guide from a Kirat family introduces you to people, food and customs, and we plan the days so there is time to sit, talk and eat rather than tick sights off a list."
+  ],
+  "story": "You land at Biratnagar among jute mills and rice fields, and an hour later the hills rise suddenly at Dharan, a town of former Gurkha soldiers, Kirat shrines and busy markets. At Budha Subba, worshippers bring offerings to a Kirat deity beside a grove of bamboo. The road climbs in hairpins to Bhedetar, where the whole Terai spreads out below like a map. Next day it drops to the Tamor at Mulghat and climbs again to Dhankuta, an old hill town with cobbled lanes, Newar shopfronts and orange trees. At Hile the air is cool, the tongba is warm, and Rai and Limbu neighbours share their kitchens with Sherpa and Bhote traders. By the last evening you know the taste of kinema and the rhythm of a Sakela drum.",
+  "highlights": [
+    "Budha Subba shrine and Dharan's markets, shaped by generations of Gurkha families",
+    "Sunset and sunrise over the Terai from the ridge at Bhedetar",
+    "The cobbled old bazaar of Dhankuta and the orange orchards around it",
+    "Tongba, kinema and yangben in a family kitchen in Hile",
+    "A day walk to Rai and Limbu villages with a local Kirat guide"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Biratnagar, Dharan and Bhedetar", "place": "bhedetar", "overnight": "Bhedetar", "alt_m": 1420, "move": "≈ 40 min flight · ≈ 2 h drive with stops", "text": "A morning flight from Kathmandu to Biratnagar, Nepal's industrial city on the plains. We drive north through Itahari to Dharan, where the hills rise straight from the flat land. Visit the Budha Subba shrine, a Kirat place of worship beside a bamboo grove, and the busy market where Rai and Limbu families shop for pork, millet and ferments. Dharan grew around a British Gurkha camp, and its former site is now a large medical institute. Then up the hairpins to Bhedetar for sunset over the Terai.", "meals": "Breakfast, Dinner"},
+    {"day": 2, "title": "Bhedetar to Dhankuta via Mulghat", "place": "dhankuta", "overnight": "Dhankuta", "alt_m": 1200, "move": "≈ 35 km · 1.5–2 h drive · village walks", "text": "Wake for sunrise over the plains from the Bhedetar ridge, then follow the Koshi Highway down to Mulghat on the Tamor river and up again into the hills of Dhankuta. Dhankuta was long the administrative centre of eastern Nepal, and its old bazaar has cobbled lanes, Newar shopfronts with carved windows and small temples. In the afternoon walk out to the orange orchards and nearby villages with your guide, and stop at a farmhouse for tea and conversation. Dinner in a local family-run restaurant.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Dhankuta to Hile", "place": "hile", "overnight": "Hile", "alt_m": 1850, "move": "≈ 13 km · 30–45 min drive · walks", "text": "A short drive north along the ridge to Hile, a cool bazaar on the Koshi Highway where Rai, Limbu, Sherpa and Bhote families live side by side. Hile is known across Nepal for tongba, millet fermented and served warm in a wooden pot with a bamboo straw. In the afternoon your guide takes you into a family kitchen to learn how tongba, kinema and gundruk are made and to eat a home meal. On clear mornings you can see snow peaks to the north from the ridge above the bazaar.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Village walk from Hile", "place": "hile", "overnight": "Hile", "alt_m": 1850, "move": "≈ 4–5 h walk", "text": "A full day on foot along the ridge and down into villages of Rai and Limbu families, with terraces of millet and maize, cardamom in the forest shade and houses with clay walls and slate roofs. Your guide talks about the Mundhum, the household shrines, the Sakela dance of the Rai and the Limbu Chasok harvest festival, and if a festival falls in your dates, we join it. Lunch with a host family. Back in Hile, a last evening of tongba and stories by the fire.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Back to Biratnagar, fly to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 110 km · 3–4 h drive · ≈ 40 min flight", "text": "After breakfast we drive back down the Koshi Highway past Dhankuta, Mulghat and Bhedetar to Dharan, with time for a last look at the market if you want to buy a packet of kinema, dried chhurpi or Dharan's famous pork sukuti to take home. Then on to Biratnagar for the flight back to Kathmandu. Our driver meets you at the airport and takes you to your hotel or onward plans.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Biratnagar–Kathmandu flights",
+    "Private car and driver for all transfers",
+    "Licensed local English-speaking guide from a Kirat family",
+    "Four nights in simple hotels or homestays, twin sharing",
+    "Meals as listed, family cooking session and village walk",
+    "Kathmandu airport transfers"
+  ],
+  "excludes": [
+    "International flights, Nepal visa fees and travel insurance",
+    "Hotel nights in Kathmandu",
+    "Meals not listed, drinks and shopping",
+    "Tips for guide and driver"
+  ],
+  "good_to_know": [
+    "Stays in the eastern hills are simple, clean hotels and homestays; there are no luxury properties.",
+    "Kirat cuisine often includes pork and alcohol; tell us if you eat neither and your hosts will cook accordingly.",
+    "Sakela dances follow the full moons of Baisakh (April–May) and Mangsir (November–December); exact dates vary by year and village.",
+    "The Koshi Highway is good tarmac but can be blocked by landslides in the monsoon; check current status before you travel.",
+    "Ask before photographing rituals and household shrines."
+  ],
+  "faqs": [
+    {"q": "Who are the Kirat people?", "a": "Kirat is the name used for several related peoples of eastern Nepal, chiefly the Rai, Limbu, Yakkha and Sunuwar. They speak Tibeto-Burman languages, follow the Mundhum, an oral tradition of origin stories and rituals, and many also practise Hinduism or Christianity. Rai and Limbu men are famous as Gurkha soldiers. In the hills around Dhankuta and Hile, Kirat culture is part of everyday life."},
+    {"q": "What is tongba?", "a": "Tongba is fermented millet served in a wooden or bamboo vessel, topped up with hot water and sipped through a bamboo straw with a filter at the end. It is mildly alcoholic and very warming, and the pot can be refilled several times. Hile is famous for it. In Limbu homes tongba is also part of rituals and of welcoming guests."},
+    {"q": "What is Sakela?", "a": "Sakela is the main festival of the Rai, celebrated twice a year: Ubhauli at the full moon of Baisakh in April or May, when the farming year begins, and Udhauli at the full moon of Mangsir in November or December, after the harvest. Villagers dance in a circle to the dhol drum and cymbals, led by a ritual leader. Visitors are often welcome to watch and sometimes to join."},
+    {"q": "How do I get to Dhankuta and Hile?", "a": "Fly from Kathmandu to Biratnagar in about 40 minutes, then drive north through Itahari and Dharan on the Koshi Highway. Bhedetar is about 2 hours from Biratnagar, Dhankuta about 3 hours and Hile about 3.5 hours. Overnight buses also run from Kathmandu to Dharan. We use the flight and a private car."},
+    {"q": "Is this trip suitable for families?", "a": "Yes. The road days are short, the walks are easy to moderate and can be shortened, and the altitude is never higher than about 1,850 m. Children usually love the village visits and the market at Dharan. Stays are simple, so families who need modern comforts should expect basic but clean rooms with hot water."},
+    {"q": "What food will I try on the Kirat trail?", "a": "Expect kinema, fermented soybean cooked with chilli and tomato; gundruk, fermented greens; yangben, a Limbu dish of a forest lichen cooked with pork; sukuti, dried meat; dhido of millet or buckwheat; and tongba to drink. Your hosts will cook vegetarian food on request. Hile and Dharan are the best places to try a range of Kirat dishes."},
+    {"q": "When is the best time to visit Dhankuta and Hile?", "a": "October to March is best: dry, clear and pleasant, with oranges ripening around Dhankuta in winter and the chance of mountain views from Hile. Spring is warm with some haze. The monsoon months from June to August bring heavy rain and occasional landslides on the highway. Plan around the Sakela full moons if you want to see the dancing."},
+    {"q": "Why is Dharan connected with the Gurkhas?", "a": "Dharan was the site of a British Gurkha recruitment and pension camp for decades, and many Rai and Limbu families from the eastern hills settled here after service. When the camp closed, its grounds became the home of a large medical institute. Today the town's markets, food and many of its families still reflect that long connection with Gurkha service."},
+    {"q": "How much does the Kirat culture trail cost?", "a": "Our four-night trip is from USD 750 per person, twin sharing. That includes return flights to Biratnagar, a private car and driver, a licensed local guide, four nights in simple hotels or homestays, the family cooking session, the village walk and the meals listed. Drinks, shopping and tips are extra."}
+  ]
+}

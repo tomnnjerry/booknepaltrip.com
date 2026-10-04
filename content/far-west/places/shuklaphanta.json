@@ -1,0 +1,341 @@
+{
+  "slug": "shuklaphanta",
+  "name": "Shuklaphanta National Park",
+  "name_ne": "शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
+  "local_name": "",
+  "region": "far-west",
+  "kind": "national park",
+  "wiki": "Shuklaphanta National Park",
+  "image_query": "Shuklaphanta swamp deer grassland",
+  "lat": 28.85,
+  "lng": 80.23,
+  "altitude_m": 174,
+  "tagline": "The world's largest swamp deer herds on Nepal's western edge",
+  "meta_description": "Shuklaphanta National Park guide: barasingha herds on Nepal's largest grassland, Rani Tal, birding, Rana Tharu villages, best months and access from Dhangadhi.",
+  "summary": "Shuklaphanta is a 305 sq km national park in Nepal's far south-west corner, beside the Mahakali river and the Indian border. Its open grassland holds the largest known population of barasingha, or swamp deer, in the world, plus tigers, rhinos and rare grassland birds. Mahendranagar, an hour from Dhangadhi airport, is the gateway.",
+  "intro": [
+    "Drive west on the East-West Highway until the road runs out at the Mahakali river and you reach Shuklaphanta. Few foreign travellers make it this far, which is a pity, because the park offers a kind of wildlife viewing found nowhere else in Nepal: wide open grassland where you can watch hundreds of deer at once, like a small Asian savanna. Mornings here can feel like an East African plain, with the Siwalik hills on one side and the Indian border forest on the other.",
+    "The name comes from the main grassland, Shukla Phanta, a single sweep of about 16 sq km of tall and short grass, the largest continuous grassland in Nepal. Around it lie sal forest, riverbeds, marshes and small lakes, the best known being Rani Tal. The park is bounded by the Mahakali in the west and south and links through a forest corridor to the Pilibhit Tiger Reserve in India. Elephant grass, reeds and marsh plants fringe the water.",
+    "Barasingha herds are the reason to come, but the list goes on: tigers, leopards, a small rhino population brought from Chitwan, hispid hare, fishing cat and some 450 species of birds, including the Bengal florican and the sarus crane. Combine it with Bardia, about four to five hours east, for the best wildlife trip in the western Terai. Two nights is enough for most people, three for keen birders and photographers."
+  ],
+  "story": {
+    "title": "A royal hunting ground turned deer refuge",
+    "paras": [
+      "For generations the grasslands of Kanchanpur were a hunting ground for Nepal's ruling families, who came in winter for deer, tiger and wildfowl. In 1969 the area was declared a royal hunting reserve, and in 1973 it was gazetted as the Royal Shukla Phanta Wildlife Reserve, covering 155 sq km. It was enlarged to its present 305 sq km in the late 1980s, a buffer zone was added in 2004, and in 2017 it became a national park. Its old royal status is why the grasslands survived when much of the surrounding forest was cleared.",
+      "Protection made the deer flourish. Barasingha, named for the twelve tines its antlers can carry, has vanished from most of its old range across northern India. Here a survey in 2007 counted an estimated 1,674 animals, the largest known population anywhere. In spring, when the grass has been cut, you can see herds of a hundred or more on the open phanta, the stags bugling in the rut. Local people are still allowed to cut thatch grass in the park for a few days each year, which keeps the grassland open and helps the deer.",
+      "Other animals have been brought back. Rhinos were moved from Chitwan to establish a third population in Nepal, rising from eight to 17 by 2021. The gharial, extinct in the park since 1993, was reintroduced to the Chaudhar river in March 2024. Tigers have recovered too: the national count released in July 2026 put Shuklaphanta at 50, up from 36 in 2022. Other species have been recorded for the first time in recent years, including the rusty-spotted cat, photographed by a camera trap in 2016, a sign of how little this corner of Nepal has been studied."
+    ]
+  },
+  "legend": "",
+  "people": "The villages around the park are largely Rana Tharu, a Tharu group of Kanchanpur and Kailali whose own tradition says their ancestors came from Rajputana. Rana Tharu women are known for brightly embroidered skirts and blouses with mirror work. Hill families from Doti, Baitadi and Dadeldhura settled the plains from the 1960s, and Mahendranagar, officially Bhimdatta, is now a busy border town with a large Doteli-speaking population.",
+  "untold": [
+    {
+      "fact": "The barasingha population in Shuklaphanta's grasslands, estimated at 1,674 animals in 2007, is the largest known population of the species in the world. Few people outside Nepal know it is here.",
+      "source": "Wikipedia: Shuklaphanta National Park"
+    },
+    {
+      "fact": "In 2001 Shuklaphanta held Nepal's largest population of the endangered Bengal florican, with 20–28 birds estimated in its grasslands. The park is also the western limit for several resident birds, including the swamp francolin and Jerdon's babbler.",
+      "source": "Wikipedia: Shuklaphanta National Park"
+    },
+    {
+      "fact": "The gharial, a fish-eating crocodile, became extinct in Shuklaphanta in 1993. It was reintroduced to the park's Chaudhar river in March 2024. It had been absent from the park for more than three decades.",
+      "source": "Wikipedia: Shuklaphanta National Park"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Phanta",
+      "script": "फाँटा",
+      "lang": "Nepali",
+      "meaning": "Open grassland in the Terai forest"
+    },
+    {
+      "word": "Barasingha",
+      "script": "बाह्रसिङ्गा",
+      "lang": "Nepali",
+      "meaning": "Swamp deer; literally twelve horns, for its many-tined antlers"
+    },
+    {
+      "word": "Tal",
+      "script": "ताल",
+      "lang": "Nepali",
+      "meaning": "Lake, as in Rani Tal, the queen's lake"
+    }
+  ],
+  "taste": {
+    "name": "Dhikri",
+    "text": "Steamed dumplings of rice flour, shaped by hand into long rolls or spirals, eaten with a spicy chutney, meat curry or fish. Dhikri is a festival and everyday food in Tharu homes across the western Terai. Ask your hotel in Mahendranagar or your guide to find a Rana Tharu family or eating house that makes it."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Feb – Apr, Nov – Dec"
+    ],
+    [
+      "Days we suggest",
+      "2"
+    ],
+    [
+      "Nearest airport",
+      "Dhangadhi (DHI), about 1.5 h by road"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 1 h 15 min flight + 1.5 h drive; ≈ 690 km · 15–17 h by road"
+    ],
+    [
+      "Altitude",
+      "174 m"
+    ],
+    [
+      "Known for",
+      "Barasingha herds, grassland birds, Rani Tal"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+  ],
+  "nights": "2",
+  "highlights": [
+    {
+      "title": "Barasingha on the Shukla Phanta",
+      "text": "Drive out to the main grassland at dawn, when herds of swamp deer graze in the open, sometimes hundreds at a time. February to April is best, after the grass has been cut, when stags with heavy antlers stand out against the short new growth."
+    },
+    {
+      "title": "Rani Tal and its watchtower",
+      "text": "Rani Tal is a forest lake in the east of the park, ringed by tall trees and reeds. A watchtower overlooks it, and mugger crocodiles, deer, wild boar and waterbirds come to the shore. Late afternoon is the quietest time to sit and watch."
+    },
+    {
+      "title": "Rare grassland birds",
+      "text": "With over 450 species recorded, Shuklaphanta is a serious birding park. Grassland specialists include the Bengal florican, swamp francolin and Finn's weaver, while sarus cranes and painted storks visit in summer and vultures breed in the forest."
+    },
+    {
+      "title": "Rana Tharu villages",
+      "text": "The buffer-zone villages are home to the Rana Tharu, whose women wear embroidered skirts with mirror work. A village walk shows painted houses, rice granaries and home kitchens, and gives a different picture of Tharu life from the Dangaura villages of Bardia."
+    },
+    {
+      "title": "The Mahakali at Nepal's edge",
+      "text": "The Mahakali river marks the border with India along the park's west side. Drive or walk to the riverbanks for wide views, crocodiles on the sandbars and a sense of standing at the very end of Nepal."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Air",
+      "text": "Fly Kathmandu to Dhangadhi, about one hour and fifteen minutes. From Dhangadhi it is about 50 km and 1.5 hours by road via Attariya to Mahendranagar (Bhimdatta), where the park headquarters is on the edge of town."
+    },
+    {
+      "mode": "Road",
+      "text": "From Kathmandu it is about 690 km and 15–17 hours on the East-West Highway, best broken over two days. From Bardia's Thakurdwara it is about 180 km and 4–5 hours west, crossing the Karnali bridge at Chisapani and passing Ghodaghodi Tal."
+    }
+  ],
+  "where_to_stay": "Most visitors stay in Mahendranagar (Bhimdatta), a few minutes from the park headquarters, where several mid-range hotels have air-conditioning, hot water and restaurants serving Nepali and Indian food. A handful of small lodges and homestays have opened in the buffer-zone villages near the park entrance, giving quieter nights closer to the grassland. There are no lodges inside the park. Facilities are simpler than in Bardia or Chitwan, so expect clean, basic rooms rather than safari lodges.",
+  "stays": [],
+  "tips": [
+    "Go out at dawn; the deer herds and grassland birds are most active in the first two hours of light.",
+    "Arrange a jeep and a licensed guide through your hotel or the park office the evening before.",
+    "Carry binoculars: the grassland is wide and animals are often several hundred metres away.",
+    "Mahendranagar is close to the Indian border at Gaddachauki, so keep your passport with you for any checkpoint.",
+    "Park entry is charged at the headquarters, with a separate vehicle fee; check current status before you travel."
+  ],
+  "themes": [
+    "wildlife-and-jungle",
+    "photography",
+    "villages-and-homestays",
+    "lakes-and-rivers"
+  ],
+  "nearby": [
+    "ghodaghodi-tal",
+    "bardia"
+  ],
+  "experiences": [
+    {
+      "slug": "shuklaphanta-barasingha-dawn-drive",
+      "title": "Dawn jeep drive to the barasingha grassland",
+      "kind": "wildlife",
+      "duration": "4–5 hours",
+      "best_time": "Sunrise, Feb–Apr",
+      "image_query": "Barasingha herd Shuklaphanta",
+      "wiki": "Barasingha",
+      "summary": "Drive into the park before sunrise to reach the Shukla Phanta grassland as the light comes up, when herds of swamp deer graze in the open and stags spar. The single best wildlife scene in the western Terai.",
+      "body": [
+        "We leave Mahendranagar in the dark with a guide and an open jeep. The track runs through sal forest, where you may see chital and peacocks in the headlights, and then the trees open onto the phanta: kilometres of grass, flat as a lake, with the Siwalik hills on the northern skyline. Your guide stops at the edge of the grass, turns off the engine and lets the silence settle. Lapwings call, larks rise singing from the grass, and somewhere out in the mist a stag bellows.",
+        "As the mist lifts the deer appear. Barasingha are larger than chital, with a golden-brown coat in summer and, in the stags, wide antlers with ten to fourteen tines. They graze in herds, and in late winter and spring a single view can hold more than a hundred animals. Hog deer, nilgai and wild boar share the grassland. In the rut, stags circle each other and lock antlers, and their calls carry across the open ground. Watch for jackals trotting along the edges and harriers quartering low over the grass.",
+        "The drive continues to the edges of the phanta, where tiger tracks are common in the sand, and back through the forest for a late breakfast. Bring a telephoto lens, binoculars and a warm layer; mornings in February can be cold in an open jeep. Jeeps are arranged through your hotel or the park office in Mahendranagar, with a licensed guide. Pay the park and vehicle fees at the headquarters the evening before so you can enter at first light."
+      ],
+      "good_for": [
+        "photographers",
+        "families",
+        "couples",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "When is the best time to see barasingha in Shuklaphanta?",
+          "a": "February to April. By then local people have cut grass under the park's yearly permit, new shoots attract the deer, and visibility is excellent. Early morning is best, from sunrise to about 9 am. From October to January the grass is tall and herds are harder to see, and the monsoon closes most tracks."
+        },
+        {
+          "q": "How is a barasingha different from other deer?",
+          "a": "Barasingha, or swamp deer, are larger than chital and lack spots as adults. Stags carry broad antlers with many tines, often ten to fourteen, which gives the name, meaning twelve horns. They depend on wet grassland and have disappeared from most of their former range, so Shuklaphanta is a stronghold."
+        },
+        {
+          "q": "Can I see tigers in Shuklaphanta?",
+          "a": "It is possible but less likely than in Bardia. The national count released in July 2026 put Shuklaphanta at 50 tigers, and tracks are common on the grassland edges. Sightings are usually brief and at a distance. Treat any tiger as a bonus; the deer herds are the main reason to come."
+        }
+      ]
+    },
+    {
+      "slug": "shuklaphanta-rani-tal-watchtower",
+      "title": "Waiting at the Rani Tal watchtower",
+      "kind": "nature",
+      "duration": "3 hours",
+      "best_time": "Late afternoon, Nov–Apr",
+      "image_query": "Rani Tal Shuklaphanta lake",
+      "wiki": "",
+      "summary": "Sit in the watchtower above Rani Tal, a forest-ringed lake in the east of the park, and wait for deer, wild boar, crocodiles and waterbirds to come to the shore as the light fades. Quiet, unhurried wildlife watching.",
+      "body": [
+        "Rani Tal, the queen's lake, is a shallow lake set in tall forest in the eastern part of the park. Reeds and grasses fringe the water, and in the cool months it fills with ducks and herons. A wooden watchtower near the shore gives a good platform over the water and the meadows around it. Few visitors reach it, so you may have the tower and the view to yourself. The drive in passes through tall sal forest where hornbills and woodpeckers are common.",
+        "This is an exercise in patience. Mugger crocodiles, recorded at Rani Tal by park surveys, haul out on the banks in winter sun. Spotted deer and swamp deer come to drink in the late afternoon, wild boar root in the mud, and on lucky evenings a leopard or tiger passes along the forest edge. As dusk falls, owls start calling, nightjars churr from the grass and the air fills with the sound of frogs from the reed beds.",
+        "We pair Rani Tal with an afternoon drive through the eastern forest and return to Mahendranagar after dark, with the park's permission. Bring a light jacket, mosquito repellent and something warm to drink; the tower is cool once the sun drops. Keep voices low in the tower and avoid bright clothing; animals at the water's edge are easily disturbed. Your guide will judge how long to stay depending on light and movement around the lake."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Where is Rani Tal in Shuklaphanta?",
+          "a": "Rani Tal lies in the eastern part of the park, reached by jeep on forest tracks from the headquarters near Mahendranagar, usually as part of a half-day or full-day drive. A watchtower stands near the lake for wildlife viewing. Your guide will time the visit for late afternoon, when animals come to drink."
+        },
+        {
+          "q": "Are there crocodiles at Rani Tal?",
+          "a": "Yes. Mugger crocodiles have been recorded at Rani Tal and are often seen basking on the banks on sunny winter days. They are wild animals, so keep to the tower and the tracks and never approach the water's edge without your guide."
+        },
+        {
+          "q": "What does Rani Tal mean?",
+          "a": "Rani Tal means the queen's lake in Nepali. Local people connect the name with a queen of an old local kingdom, though stories vary and we have not found a reliable written account. Ask your guide; the version you hear will be part of the visit."
+        }
+      ]
+    },
+    {
+      "slug": "shuklaphanta-grassland-birding",
+      "title": "Birding for florican and grassland rarities",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Morning, Mar–May",
+      "image_query": "Bengal florican grassland Nepal",
+      "wiki": "Bengal florican",
+      "summary": "A morning with a birding guide on the grasslands and wetlands of Shuklaphanta, looking for the endangered Bengal florican, swamp francolin, Finn's weaver and other species found at the western edge of their range here.",
+      "body": [
+        "Shuklaphanta has one of the longest bird lists in Nepal, over 450 species, and many of the most interesting are grassland specialists that need large, open phantas. The best known is the Bengal florican, a bustard that in spring displays by leaping above the grass with its wings flashing white. Grassland birds like these have declined across South Asia as their habitat has been farmed, so seeing them in a protected grassland is special.",
+        "A birding morning moves between the main grassland, the marshes around the small lakes and the forest edge. Look for the swamp francolin, Jerdon's babbler, Indian grassbird and chestnut-capped babbler, all at or near the western limit of their range. Overhead there may be white-rumped vultures, which breed in the park, and grey-headed fish eagles. Lesser adjutants and Oriental darters breed in the park, and painted storks wade in the shallows of the lakes in summer.",
+        "In summer sarus cranes and painted storks visit the wetlands. Spring, from March to May, is the best time for displaying florican and singing grassland birds, though it is hot by mid-morning. Bring a field guide or app for South Asian birds, binoculars and a hat. Start at sunrise, when birds are singing and the light is soft, and finish by mid-morning before the heat. A telescope helps with distant florican on the open grass."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Can I see the Bengal florican in Shuklaphanta?",
+          "a": "With a good guide and some luck, yes. Shuklaphanta held Nepal's largest florican population in the early 2000s, though numbers are small. March to May is best, when males display over the grass at dawn. Your guide will know the current territories and where to scan from the jeep."
+        },
+        {
+          "q": "Do I need a specialist birding guide?",
+          "a": "It helps a great deal. Park naturalists know the animals well, but for grassland rarities a guide with birding experience and a telescope makes the difference. We can arrange one in advance from Mahendranagar or bring one from Bardia. Tell us your target species when you book."
+        },
+        {
+          "q": "What is the best season for birds in Shuklaphanta?",
+          "a": "November to February brings wintering ducks, raptors and passage migrants to the lakes and grassland. March to May is best for breeding grassland birds and displays. The monsoon brings summer visitors such as sarus cranes, but most tracks are closed and access is very limited."
+        }
+      ]
+    },
+    {
+      "slug": "shuklaphanta-rana-tharu-village",
+      "title": "Rana Tharu village walk near the park",
+      "kind": "heritage",
+      "duration": "2–3 hours",
+      "best_time": "Late afternoon, Oct–Apr",
+      "image_query": "Rana Tharu women Kanchanpur",
+      "wiki": "Tharu people",
+      "summary": "Walk through a Rana Tharu village in the park's buffer zone with a local guide, visiting a home, seeing the embroidered dress the community is known for, and learning how farmers live beside a park full of deer and tigers.",
+      "body": [
+        "The Rana Tharu are one of the main Tharu groups of the far western Terai, living mostly in Kanchanpur and Kailali. Their oral tradition says their ancestors came from Rajputana in north-west India. In daily life and especially at festivals, women wear long embroidered skirts, blouses and head cloths decorated with mirror work, coins and bright thread. The embroidery is hand stitched, and women often sew together in the afternoons, sitting in the shade of their verandas. Larger pieces can take many weeks to complete.",
+        "A village walk passes clay-walled houses, rice granaries, buffalo sheds and fish ponds, and usually includes a visit to a family home and kitchen. Ask about Holi, which Rana Tharu celebrate over many days with songs and dances, and about the relationship with the park: grass cutting rights, crop raiding by deer and elephants, and jobs in tourism. You will hear the Rana Tharu dialect spoken at home, with Nepali used for visitors and markets.",
+        "Go with a guide from the village, and keep your group small. Afternoon is the best time, when people are back from the fields. A small contribution to the household or buying a piece of embroidery is welcome; giving money to children is not. Keep the visit relaxed rather than rushed; a cup of tea and a conversation are often the highlight. Dress modestly and remove your shoes before entering a home or kitchen."
+      ],
+      "good_for": [
+        "families",
+        "solo",
+        "couples",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Who are the Rana Tharu?",
+          "a": "They are a Tharu community of Nepal's far western Terai, mostly in Kanchanpur and Kailali, with related groups across the border in India. They speak their own Tharu dialect, farm rice and wheat, and are known for women's embroidered dress with mirror work. Their tradition traces their ancestry to Rajputana."
+        },
+        {
+          "q": "Can I stay overnight in a Rana Tharu village?",
+          "a": "A few homestays operate in the buffer-zone villages near the park, with simple rooms and family meals. Standards are basic and availability changes, so book through your guide or agency in advance. Otherwise we visit in the afternoon and return to a hotel in Mahendranagar."
+        },
+        {
+          "q": "When do Rana Tharu festivals take place?",
+          "a": "Holi, in February or March, is the main Rana Tharu festival and runs for several days with songs, dances and visits between villages. Maghi in mid-January and Dashain and Tihar in autumn are also important. Dates follow the lunar calendar, so check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Shuklaphanta National Park?",
+      "a": "It is in Kanchanpur district in Nepal's far south-west, on the border with India along the Mahakali river. The nearest town is Mahendranagar, officially Bhimdatta municipality, where the park headquarters sits on the edge of town. The nearest airport is Dhangadhi, about 50 km east."
+    },
+    {
+      "q": "How many days should I spend in Shuklaphanta?",
+      "a": "Two nights is enough for most visitors: one dawn drive to the barasingha grassland, one afternoon at Rani Tal and a village walk. Birders may want three. Most people combine it with three or four nights in Bardia and a short stop at Ghodaghodi Tal on the drive between them."
+    },
+    {
+      "q": "What is the best time to visit Shuklaphanta?",
+      "a": "February to April gives the best wildlife viewing, after grass cutting, with deer herds in the open. November and December are cool and pleasant but the grass is taller. From May it is very hot, and from mid-June to September the monsoon closes most tracks."
+    },
+    {
+      "q": "How do I get to Shuklaphanta from Kathmandu?",
+      "a": "Fly Kathmandu to Dhangadhi in about 1 hour 15 minutes, then drive about 1.5 hours to Mahendranagar. By road it is about 690 km and 15–17 hours, best broken in Bardia or Lumbini. Buses run from Kathmandu to Mahendranagar, but the journey is long."
+    },
+    {
+      "q": "Is Shuklaphanta worth visiting if I have already been to Chitwan?",
+      "a": "Yes. Shuklaphanta's open grassland, swamp deer herds and grassland birds are very different from Chitwan's forest and rhino safaris, and the park sees few visitors. If you enjoy wildlife watching for its own sake, it is one of the most rewarding parks in Nepal."
+    },
+    {
+      "q": "Do I need a guide in Shuklaphanta?",
+      "a": "Yes. Visitors enter by jeep with a licensed guide, arranged through hotels in Mahendranagar or the park office, and Nepal requires foreign visitors in national parks to have a licensed guide since April 2023. Check current status before you travel."
+    },
+    {
+      "q": "Are there rhinos and elephants in Shuklaphanta?",
+      "a": "Yes, in small numbers. Rhinos were moved from Chitwan and numbered 17 by 2021. A few wild elephants move seasonally between India and the park. Neither is seen as often as in Chitwan or Bardia; the deer, birds and grassland are the main attractions."
+    },
+    {
+      "q": "Can I cross into India from Shuklaphanta?",
+      "a": "The border crossing at Gaddachauki near Mahendranagar connects to Banbasa in Uttarakhand. Indian and Nepali citizens cross freely; other nationalities can use it only if it is open to third-country nationals at the time, with the right visa. Check current status before you travel."
+    },
+    {
+      "q": "What wildlife can I see in Shuklaphanta?",
+      "a": "Swamp deer, hog deer, chital, nilgai, wild boar, leopard, tiger, mugger crocodile, a small number of rhinos and elephants, and the rare hispid hare. Birders come for the Bengal florican, swamp francolin and Finn's weaver among over 450 recorded species."
+    }
+  ]
+}

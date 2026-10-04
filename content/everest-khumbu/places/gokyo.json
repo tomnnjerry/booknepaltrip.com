@@ -1,0 +1,164 @@
+{
+  "slug": "gokyo",
+  "name": "Gokyo",
+  "name_ne": "गोक्यो",
+  "local_name": "",
+  "region": "everest-khumbu",
+  "kind": "lake",
+  "wiki": "Gokyo",
+  "image_query": "Gokyo lake village Gokyo Ri",
+  "lat": 27.953,
+  "lng": 86.6943,
+  "altitude_m": 4790,
+  "tagline": "Turquoise lakes, a Ramsar site and four 8,000 m peaks from Gokyo Ri",
+  "meta_description": "Gokyo, 4,790 m: the Ramsar-listed Gokyo lakes, Gokyo Ri's view of Everest and Cho Oyu, the Ngozumpa glacier, Renjo La and Cho La, lodges and altitude tips.",
+  "summary": "Gokyo is a cluster of lodges at about 4,790 m beside the third of the turquoise Gokyo lakes, west of the Everest trail at the head of the Dudh Koshi valley. The lakes are a Ramsar wetland, and Gokyo Ri above gives one of the widest Himalayan views in Nepal: Everest, Lhotse, Makalu and Cho Oyu.",
+  "intro": [
+    "The Gokyo valley runs north from Namche beside the Everest route but feels a world apart. Fewer trekkers, wide yak pastures and, at its head, a chain of glacial lakes the colour of turquoise lying beside the grey rubble of the Ngozumpa glacier. Gokyo village, a handful of stone lodges and summer herding huts, sits on the shore of the third lake, Gokyo Tsho, also called Dudh Pokhari.",
+    "Above the village rises Gokyo Ri, a brown hill of about 5,357 m. From its summit on a clear morning you see four of the world's fourteen 8,000 m peaks: Cho Oyu close at hand to the north, then Everest, Lhotse and, far to the east, Makalu. Below lies the Ngozumpa, one of the longest glaciers in the Himalaya, its surface pocked with grey-green ponds.",
+    "Gokyo suits trekkers who want big mountains without the crowds of Base Camp, or who want to link the two by crossing the Cho La. The Renjo La to the west leads over to Thame. The lakes are protected as a Ramsar wetland and are sacred to both Buddhists and Hindus. Give the valley time: at least one rest day, and a walk to the fourth and fifth lakes."
+  ],
+  "story": {
+    "title": "Summer pastures, sacred lakes and a moving glacier",
+    "paras": [
+      "Gokyo was a yersa, a summer settlement, where Sherpa families from villages lower in the valley brought their yaks and nak to graze in the monsoon months. Stone huts stood empty for half the year. Lodges came with trekkers from the 1980s, and some Gokyo families now live here through the trekking seasons, moving down in winter when the lakes freeze and the trail fills with snow.",
+      "The lakes form a chain of six main bodies of water fed by the Ngozumpa glacier's seepage and meltwater, lying at roughly 4,700 to 5,000 m. In 2007 the Gokyo and associated lakes were designated a Ramsar site, a wetland of international importance, covering about 7,770 hectares. They are sacred: Buddhist prayer flags ring the shore, and Hindu pilgrims come to bathe at the festival of Janai Purnima in August.",
+      "Beside them the Ngozumpa glacier, about 36 km long and often described as the longest in Nepal, flows south from Cho Oyu. Its surface is buried in rock and dotted with meltwater ponds, which scientists have watched grow as the glacier thins. Trekkers crossing towards the Cho La walk over it on a path that shifts each year as the ice moves."
+    ]
+  },
+  "legend": "Lodge keepers on the way to Gokyo tell of Machhermo, a day below the lakes. Local accounts say that in 1974 a young Sherpa woman herding yaks near the village was attacked by a yeti, which also killed several of her animals before vanishing up the slopes. Police and journalists came; no creature was found. Machhermo still tells the story to anyone who asks, and guides point out the meadow where it is said to have happened.",
+  "people": "Gokyo's lodges are run by Sherpa families from villages lower in the Dudh Koshi valley, such as Phortse and Khumjung, who live here in the trekking seasons and move down in winter. Summer brings yak herders to the pastures. Porters, many from lower valleys, carry in all supplies. Sherpa is the language of the lodges, with Nepali and English for guests.",
+  "untold": [
+    {"fact": "The Gokyo and associated lakes were designated a Ramsar site, a wetland of international importance, in September 2007, covering about 7,770 hectares at altitudes of roughly 4,700 to 5,000 m.", "source": "Ramsar Sites Information Service: Gokyo and associated lakes"},
+    {"fact": "Hindus regard the Gokyo lakes as sacred, and pilgrims come to bathe in them during the Janai Purnima festival in August, alongside the Buddhist traditions of the Sherpa villages.", "source": "Wikipedia: Gokyo Lakes"},
+    {"fact": "From the summit of Gokyo Ri, about 5,357 m, four 8,000 m peaks are visible on a clear day: Cho Oyu, Everest, Lhotse and Makalu.", "source": "Wikipedia: Gokyo Ri"}
+  ],
+  "local_words": [
+    {"word": "yersa", "script": "", "lang": "Sherpa", "meaning": "Summer herding settlement in high pastures"},
+    {"word": "tsho", "script": "མཚོ", "lang": "Sherpa", "meaning": "Lake; Gokyo's lakes are counted first to sixth"},
+    {"word": "pokhari", "script": "पोखरी", "lang": "Nepali", "meaning": "Pond or lake, as in Dudh Pokhari, 'milk lake'"}
+  ],
+  "taste": {"name": "Nak cheese on Tibetan bread", "text": "Hard, tangy cheese made from nak milk, sold everywhere as 'yak cheese', is a Khumbu staple. At Gokyo lodges it comes melted on fried Tibetan bread or in a cheese omelette. Ask for it by the slice to carry up Gokyo Ri."},
+  "facts": [["Best months", "Oct – Nov, Apr – May"], ["Days we suggest", "2 nights"], ["Nearest airport", "Lukla (LUA)"], ["From Kathmandu", "Flight to Lukla + 6–7 days on foot"], ["Altitude", "4,790 m (Gokyo Ri 5,357 m)"], ["Known for", "Ramsar lakes, Gokyo Ri, Ngozumpa glacier, Cho La, Renjo La"]],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Gokyo Ri at sunrise", "text": "A steep 2–3 hour climb from the village to about 5,357 m gives a 360-degree view of Cho Oyu, Everest, Lhotse, Makalu, the Ngozumpa glacier and the turquoise lakes below. Start before dawn with every warm layer."},
+    {"title": "The fourth and fifth lakes", "text": "North of the village, a gentle trail along the glacier's edge leads to the fourth lake and on to the fifth, with a viewpoint over the Ngozumpa glacier to Everest's north-west face. A full day, but almost flat."},
+    {"title": "Gokyo Tsho, the village lake", "text": "The third lake, Gokyo Tsho or Dudh Pokhari, lies right beside the lodges, deep blue-green in autumn, often frozen in winter. Brahminy ducks swim on it in season and prayer flags line the shore."},
+    {"title": "Ngozumpa glacier viewpoint", "text": "From the moraine ridge just above the village you look down onto the rubble-covered Ngozumpa glacier, one of the longest in the Himalaya, with its grey meltwater ponds and occasional rumble of falling ice."},
+    {"title": "Renjo La and Cho La passes", "text": "Gokyo links to Thame over the Renjo La, about 5,360 m, and to the Everest Base Camp trail over the Cho La, about 5,420 m. Both are long, high days for fit, acclimatised trekkers with a guide."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Namche Bazaar, 3–4 days via Mong La, Dole and Machhermo, gaining about 1,350 m. From Dzongla on the Everest trail, over the Cho La in a long day. From Thame, over the Renjo La in two days via Lungden."},
+    {"mode": "Air", "text": "The nearest airport is Lukla, six or seven walking days away. Helicopter charters and rescues land near Gokyo; ensure insurance covers evacuation above 4,000 m."}
+  ],
+  "where_to_stay": "Gokyo has around a dozen lodges along the shore of the third lake, from basic teahouses to better lodges with some attached bathrooms, solar hot showers and lake-view dining rooms. Rooms are unheated and nights cold, often below minus 10 °C from November. Lodges are busy in October, November and April, so book through your guide. Some close in December to February. There are no luxury hotels in the valley.",
+  "stays": [],
+  "tips": [
+    "Rest a night at Machhermo before Gokyo; do not skip acclimatisation on the way up.",
+    "Climb Gokyo Ri early: clouds often rise from the valley by mid-morning.",
+    "Carry microspikes for the Cho La or Renjo La in late autumn and spring.",
+    "Walk to the fifth lake on your rest day; it is high but almost flat.",
+    "Respect the lakes: do not wash, swim or leave rubbish near the shore."
+  ],
+  "themes": ["lakes-and-rivers", "high-altitude", "treks-and-trails", "photography"],
+  "nearby": ["namche-bazaar", "thame", "everest-base-camp", "khumjung"],
+  "experiences": [
+    {
+      "slug": "gokyo-ri-sunrise-climb",
+      "title": "Gokyo Ri for four 8,000 m peaks",
+      "kind": "trek",
+      "duration": "4–5 hours",
+      "best_time": "Pre-dawn start, Oct–Dec and Apr–May",
+      "image_query": "Gokyo Ri view Everest Cho Oyu",
+      "wiki": "Gokyo Ri",
+      "summary": "Cross the lake outlet before dawn and climb Gokyo Ri, about 5,357 m, for the sun rising behind Everest and a view that takes in Cho Oyu, Everest, Lhotse, Makalu, the Ngozumpa glacier and the turquoise lakes in one sweep.",
+      "body": [
+        "Gokyo Ri rises directly across the lake from the village, a steep brown hill with a summit of prayer flags. Leave around 4:30 to 5 am with a headlamp, cross the stepping stones at the lake's outlet and climb the zigzag path, gaining about 570 m in 2–3 hours. The pace is slow at this altitude; set a rhythm and rest often.",
+        "At the top the view is among the finest in Nepal. To the north, Cho Oyu, 8,188 m, fills the head of the valley. East across the Ngozumpa glacier, Everest's summit pyramid rises above the ridges, with Lhotse beside it and Makalu far off on the horizon. Below, Gokyo village and its lake look tiny, and the second, fourth and fifth lakes gleam in their hollows.",
+        "Some trekkers prefer sunset, when Everest catches the evening light; mornings are usually clearer. Either way, carry water, snacks, a down jacket, hat, gloves and sunglasses; it is bitterly cold before sunrise and dazzling after. Descend carefully, as the path is loose. Many people rate this view higher than Kala Patthar's."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How high is Gokyo Ri?", "a": "Gokyo Ri is about 5,357 m, roughly 570 m above Gokyo village. The climb takes 2–3 hours up and about 1–1.5 hours down on a steep but non-technical path. It is lower than Kala Patthar, about 5,644 m, but many trekkers think its view is even better."},
+        {"q": "Which mountains can I see from Gokyo Ri?", "a": "On a clear day, four 8,000 m peaks: Cho Oyu at 8,188 m to the north, Everest, Lhotse and Makalu to the east. You also see Gyachung Kang, Cholatse, Taboche and the Ngozumpa glacier below, plus the Gokyo lakes. Mornings in October to December are most reliably clear."},
+        {"q": "Is Gokyo Ri better than Kala Patthar?", "a": "Many trekkers think so. Gokyo Ri shows Everest from further away but adds Cho Oyu, Makalu, the huge Ngozumpa glacier and the turquoise lakes in one panorama. Kala Patthar gives a closer, more dramatic Everest view. If you do the Cho La, you can climb both."}
+      ]
+    },
+    {
+      "slug": "gokyo-fifth-lake-walk",
+      "title": "Walk to the fourth and fifth Gokyo lakes",
+      "kind": "water",
+      "duration": "6–7 hours",
+      "best_time": "Rest day, Oct–Nov and Apr–May",
+      "image_query": "fifth lake Gokyo Ngozumpa",
+      "wiki": "Gokyo Lakes",
+      "summary": "On your rest day, follow the edge of the Ngozumpa glacier north from Gokyo past the fourth lake, Thonak Tsho, to the fifth lake and the viewpoint above it, where Everest's north-west face and Cho Oyu face you across the ice. Long, high but nearly flat.",
+      "body": [
+        "Few Gokyo visitors go beyond the village lake, which is a pity. A clear trail runs north along the grassy ablation valley between the glacier's moraine and the mountainside, with yak pastures and the occasional herder's hut. In about 1.5–2 hours you reach the fourth lake, Thonak Tsho, often said to be the largest of the chain, its water a deep green-blue under the cliffs.",
+        "Another hour or so brings the fifth lake, Ngozumpa Tsho. Climb the moraine ridge beyond it to a viewpoint often called Scoundrel's Viewpoint, where the Ngozumpa glacier spreads below and Everest's north-west face rises beyond, with Cho Oyu and Gyachung Kang to the north. It feels genuinely remote: you may see no one else.",
+        "The walk stays around 4,800–5,000 m, so it serves as a high acclimatisation day. Take a packed lunch, plenty of water and layers, as there are no lodges. Strong walkers can continue towards the sixth lake below Cho Oyu, but most turn back after the viewpoint. Return the same way to Gokyo in the afternoon."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How many Gokyo lakes are there?", "a": "There are six main lakes in the Gokyo chain, plus many smaller ponds. Gokyo village sits by the third, Gokyo Tsho or Dudh Pokhari. The fourth, Thonak Tsho, and fifth, Ngozumpa Tsho, lie to the north and are reached on a day walk. The sixth lies further still, below Cho Oyu."},
+        {"q": "How long is the walk to the fifth Gokyo lake?", "a": "About 3–3.5 hours each way at a relaxed pace, 6–7 hours return including time at the viewpoint. The trail is mostly gentle along the ablation valley beside the glacier, staying around 4,800–5,000 m. Carry lunch and water, as there are no lodges beyond Gokyo."},
+        {"q": "Can I swim in the Gokyo lakes?", "a": "No. The lakes are very cold, often frozen at the edges, and are sacred to both Sherpa Buddhists and Hindus. They are also a protected Ramsar wetland. Swimming, washing or polluting the water is inappropriate. Enjoy them from the shore and take all rubbish back with you."}
+      ]
+    },
+    {
+      "slug": "gokyo-ngozumpa-glacier-viewpoint",
+      "title": "Look down on the Ngozumpa glacier",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Afternoon, Oct–Nov and Apr–May",
+      "image_query": "Ngozumpa glacier Gokyo moraine",
+      "wiki": "",
+      "summary": "Climb the moraine ridge just east of Gokyo village and look down onto the Ngozumpa glacier, about 36 km long, its surface buried in rubble and dotted with grey-green ponds. Listen for falling ice and see how the glacier is changing.",
+      "body": [
+        "The Ngozumpa glacier flows about 36 km south from the slopes of Cho Oyu and is often described as the longest glacier in Nepal. Most visitors barely notice it, because its surface is covered in rock and gravel rather than white ice. From Gokyo, a short climb up the lateral moraine ridge behind the lodges brings you to its edge, and suddenly the scale becomes clear.",
+        "Below you stretches a broad, chaotic valley of grey rubble, steep ice cliffs where the debris has slumped away, and meltwater ponds of milky green. Now and then a rumble echoes as rock or ice collapses into a pond. Scientists have studied these ponds for years as the glacier thins; some are merging into larger lakes, a pattern seen across the Himalaya as temperatures rise.",
+        "Stay on the crest and do not descend the moraine slope, which is loose and unstable. Late afternoon is a good time, when the light picks out the texture of the ice. If you cross towards the Cho La, your route crosses this glacier on a path that changes each season; follow your guide closely, as the line is never quite the same."
+      ],
+      "good_for": ["photographers", "families", "seniors", "solo"],
+      "faqs": [
+        {"q": "How long is the Ngozumpa glacier?", "a": "About 36 km, flowing south from Cho Oyu along the Gokyo valley. It is often described as the longest glacier in Nepal. Most of its lower surface is covered in rock debris, so it looks like a valley of rubble with ice cliffs and meltwater ponds rather than a white glacier."},
+        {"q": "Is it safe to walk on the Ngozumpa glacier?", "a": "Only on the established crossing used on the route between Gokyo and Dragnag towards the Cho La, and with a guide. The surface is unstable, with loose rock, hidden ice and steep pond edges. Do not explore the glacier alone. Viewing it from the moraine crest above Gokyo is safe and rewarding."},
+        {"q": "Why are there lakes on the Ngozumpa glacier?", "a": "As the debris-covered glacier thins, meltwater collects in hollows on its surface, forming ponds. Some grow and merge over time, a process scientists monitor because large glacial lakes can pose flood risks downstream. The Gokyo lakes themselves lie beside the glacier, dammed by its lateral moraine."}
+      ]
+    },
+    {
+      "slug": "gokyo-renjo-la-crossing",
+      "title": "Cross the Renjo La from Gokyo to Thame",
+      "kind": "adventure",
+      "duration": "7–9 hours",
+      "best_time": "Early start, Oct–Nov and Apr–May",
+      "image_query": "Renjo La pass Gokyo lake view",
+      "wiki": "",
+      "summary": "Climb west from Gokyo over the Renjo La, about 5,360 m, for a view back over the Gokyo lake and Everest, then descend to Lungden on the old trade route towards Thame. One of the Three Passes, quieter than the Cho La.",
+      "body": [
+        "The Renjo La leaves Gokyo along the lake shore and climbs steadily up a side valley to the west, then on stone steps and switchbacks to the pass. It is a long climb of about 570 m, and at about 5,360 m the air is thin. The reward is one of the best views in Khumbu: the Gokyo lake below, the Ngozumpa glacier, and Everest, Lhotse and Makalu ranged across the eastern horizon.",
+        "The descent on the western side drops steeply over rock and sometimes snow to a small lake, then follows a valley down to Lungden at about 4,350 m, on the Bhote Koshi route that leads south to Thame. This is the old salt trade valley, much quieter than the Everest trail. From Lungden, Thame is one more day.",
+        "Treat it as a serious day: 7–9 hours, with ice possible on the western side in late autumn and spring. Go only when fully acclimatised, ideally after climbing Gokyo Ri, with a guide and in settled weather. Carry microspikes, plenty of water, snacks and warm layers. If snow or cloud is heavy, wait a day or walk back down the valley."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How high is the Renjo La?", "a": "The Renjo La is about 5,360 m, the lowest of the Three Passes but still very high. It links Gokyo with Lungden and the Bhote Koshi valley towards Thame. The crossing takes 7–9 hours. The view east from the top, over the Gokyo lake to Everest, is one of the best on any pass in Khumbu."},
+        {"q": "Is the Renjo La harder than the Cho La?", "a": "The Renjo La is generally considered a little easier: lower and without a glacier crossing, though it has steep sections and can be icy. The Cho La, about 5,420 m, includes a glacier on its eastern side and a steep, rocky descent. Both require acclimatisation, fitness and a guide."},
+        {"q": "Can I cross the Renjo La from Thame to Gokyo instead?", "a": "Yes. Many trekkers cross from east to west, Gokyo to Lungden, but the reverse is also common, especially on the Three Passes trek done anticlockwise from Thame. Coming from Thame, you need good acclimatisation in Marlung or Lungden before the long climb from the west side."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Gokyo?", "a": "Gokyo village lies at about 4,790 m beside the third Gokyo lake. Gokyo Ri, the viewpoint above, rises to about 5,357 m. Plan acclimatisation stops at Dole and Machhermo on the way up from Namche, and at least two nights in Gokyo to climb Gokyo Ri and walk to the upper lakes."},
+    {"q": "How long is the Gokyo Lakes trek?", "a": "A Gokyo Lakes trek from Lukla and back usually takes 11–13 days, including acclimatisation days and Gokyo Ri. Adding the Cho La and Everest Base Camp makes it 15–17 days. Including Kathmandu and spare days for Lukla flights, plan about two weeks for Gokyo alone."},
+    {"q": "Is the Gokyo trek better than Everest Base Camp?", "a": "It depends what you want. Gokyo is quieter, with turquoise lakes, a huge glacier and a view of four 8,000 m peaks from Gokyo Ri. Everest Base Camp gives the famous camp and Kala Patthar. Gokyo is slightly lower. Many trekkers combine both via the Cho La."},
+    {"q": "Are the Gokyo lakes a Ramsar site?", "a": "Yes. The Gokyo and associated lakes were designated a Ramsar site, a wetland of international importance, in 2007, covering about 7,770 hectares. They lie within Sagarmatha National Park and are sacred to Buddhists and Hindus. Please treat them with care: no washing or rubbish near the water."},
+    {"q": "What is the best time to visit Gokyo?", "a": "October and November offer the clearest views and stable weather. April and May are also good, with milder temperatures, though afternoons can be cloudy. December to February are very cold and the lakes freeze; some lodges close. June to September is monsoon, wet and cloudy."},
+    {"q": "Can I combine Gokyo and Everest Base Camp?", "a": "Yes, by crossing the Cho La, about 5,420 m, between Gokyo, Dragnag and Dzongla on the Everest trail. It is a demanding pass with a glacier section. The combined trek usually takes 15–17 days from Lukla. Go with a guide and only when fully acclimatised."},
+    {"q": "Are there lodges in Gokyo?", "a": "Yes, around a dozen lodges along the lake shore, from basic teahouses to better lodges with some attached bathrooms and lake-view dining rooms. Rooms are unheated. Lodges fill in October, November and April. Some close in winter. Machhermo, a day below, also has several lodges."},
+    {"q": "Is Gokyo safe for altitude?", "a": "It is safe if you acclimatise properly: two nights in Namche, rest at Machhermo and climb no more than about 500 m of sleeping altitude per night above 3,000 m. Altitude sickness is common at 4,790 m. Know the symptoms, tell your guide early and descend if they worsen."},
+    {"q": "Why are the Gokyo lakes sacred?", "a": "Sherpa Buddhists regard high lakes as dwelling places of deities and water spirits, and Gokyo's are ringed with prayer flags and mani stones. Hindus also consider them sacred; pilgrims bathe in them during Janai Purnima in August. Visitors should not wash, swim or leave rubbish."}
+  ]
+}

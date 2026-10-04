@@ -1,0 +1,180 @@
+{
+  "slug": "newar-food-and-festivals-5n",
+  "title": "Newar food and festivals of the valley",
+  "region": "kathmandu-valley",
+  "kind": "culture",
+  "nights": 5,
+  "themes": [
+    "food-and-festivals",
+    "heritage-and-temples",
+    "villages-and-homestays"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 3
+    },
+    {
+      "place": "bhaktapur",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 900,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1400,
+  "meta_description": "5 nights eating and celebrating with Newar families in Kathmandu, Kirtipur and Bhaktapur: samay baji, juju dhau, yomari and a jatra.",
+  "summary": "Five nights in the kitchens, markets and festival squares of the Newars, the valley's oldest people. Eat samay baji in Kirtipur, buy spices in Asan, watch mustard oil pressed in Khokana, cook bara with a family and sleep two nights inside old Bhaktapur. We time the trip to a jatra when one falls in your dates.",
+  "intro": [
+    "Newar food is the food of the Kathmandu Valley, and it is not what most visitors eat here. It runs on beaten rice, buffalo, black soybeans, mustard oil, ginger and fermented greens, and on a calendar of feasts that ties each dish to a god, a season or a death anniversary. Yomari belongs to the December full moon, kwati soup to the August one, juju dhau to Bhaktapur and samay baji to every offering plate.",
+    "This journey moves at the speed of a long lunch. You sleep three nights at Dwarika's Hotel, itself a home for salvaged Newar woodwork, then two nights in a guesthouse inside Bhaktapur's old city, where you hear the morning bells of Taumadhi. A local guide who eats this food at home leads every day. If Bisket Jatra, Gai Jatra, Indra Jatra or another festival falls during your dates, we rebuild the days around it."
+  ],
+  "story": "You begin where the valley shops: Asan at seven in the morning, when sacks of beaten rice, dried fish and turmeric spill on to the bricks. Day two climbs to Kirtipur, a Newar hill town that held out against Prithvi Narayan Shah's army in the 1760s, and sits you down to samay baji, the plate offered to gods and then shared. In Khokana the smell of mustard oil pressed by hand fills the lane. Then you move east to Bhaktapur, a city that still eats by its festivals. You learn to shape bara in a family kitchen, taste the curd that the city calls the king, and end at a low table eating a Newar feast, course by course, as neighbours do at a wedding.",
+  "highlights": [
+    "Asan morning market and the spice and beaten-rice sellers of the old town",
+    "Samay baji in Kirtipur, the plate of beaten rice, choila, egg and soybeans offered at every festival",
+    "Mustard oil pressed in Khokana and woodcarvers at work in Bungamati",
+    "Cooking bara and chatamari with a Bhaktapur family",
+    "Two nights inside Bhaktapur's old city, with juju dhau from the clay pot"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive and a long Nepali dinner",
+      "place": "kathmandu",
+      "overnight": "Dwarika's Hotel, Battisputali",
+      "alt_m": 1400,
+      "move": "≈ 5 km · 20 min from the airport",
+      "text": "We meet you at the airport and drive the short way to Dwarika's Hotel near Pashupatinath. The hotel is built around carved windows, doors and pillars rescued from old Kathmandu houses, so the first evening already feels like a Newar courtyard. After a rest your guide walks you through the brick lanes and explains how the days ahead fit the festival calendar. Dinner is at Krishnarpan, the hotel's Nepali restaurant, where the meal comes as a long sequence of small courses, a good way to meet flavours you will taste again in homes and markets.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Asan market and an old-town food walk",
+      "place": "kathmandu",
+      "overnight": "Dwarika's Hotel, Battisputali",
+      "alt_m": 1400,
+      "move": "≈ 5 km · 25 min drive, then on foot",
+      "text": "Start early in Asan, when porters carry rice sacks and the spice sellers open. Your guide shows you baji (beaten rice) in its grades, dried fish, gundruk and the mustard oil every Newar kitchen depends on. Walk through Indra Chowk and the courtyards behind it, tasting bara, the lentil patty fried on a flat iron pan, and chatamari, the thin rice-flour bread topped with egg or minced meat. After lunch, rest at the hotel. In the evening join a cooking session in a Kathmandu home and make momo and achar with the family.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kirtipur, Khokana and Bungamati",
+      "place": "kirtipur",
+      "overnight": "Dwarika's Hotel, Battisputali",
+      "alt_m": 1400,
+      "move": "≈ 10 km · 40 min to Kirtipur; ≈ 8 km on to Khokana",
+      "text": "Drive to Kirtipur on its ridge south-west of the city. Walk to the Bagh Bhairab temple and the Chilancho stupa while your guide tells the story of the town's siege in the 1760s. Lunch is samay baji: beaten rice, spiced buffalo choila, black soybeans, boiled egg, ginger and a cup of aila, the Newar rice spirit. In the afternoon drive to Khokana, where families still press mustard oil in the old way, and walk across the fields to Bungamati, home of the Rato Machhindranath temple and dozens of woodcarvers' workshops.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 4,
+      "title": "Thimi potters and into Bhaktapur",
+      "place": "bhaktapur",
+      "overnight": "Guesthouse in Bhaktapur old city",
+      "alt_m": 1401,
+      "move": "≈ 15 km · 45 min drive",
+      "text": "Drive east, stopping in Madhyapur Thimi, the town of potters and papier-mache mask makers, to watch clay pots turned and masks painted for festival dancers. Reach Bhaktapur by late morning and check in to a guesthouse inside the old city. Walk Taumadhi Square under the Nyatapola temple, then Dattatreya Square, the oldest part of town. Taste juju dhau, the thick sweet curd set in clay bowls; the name means king of curds in Nepal Bhasa. If a jatra is on, the evening belongs to it. If not, the squares fill with music groups practising.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "A Bhaktapur kitchen and a Newar feast",
+      "place": "bhaktapur",
+      "overnight": "Guesthouse in Bhaktapur old city",
+      "alt_m": 1401,
+      "move": "On foot",
+      "text": "Morning at the vegetable market around Taumadhi, buying for the day's cooking. In a family kitchen learn to grind black lentils and fry bara, roll chatamari and, in the cooler months, steam yomari, the rice-flour dumpling filled with molasses and sesame. Eat what you make for lunch. After a free afternoon in the potters' square, the evening meal is a small Newar feast served in courses, from beaten rice and pickles to sweet curd at the end, with an explanation of who sits where and why.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Last breakfast and fly home",
+      "place": "bhaktapur",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 14 km · 45 min to the airport",
+      "text": "Take a last walk through Bhaktapur before the day-trippers arrive, when shopkeepers sweep their steps and women carry offering plates to the neighbourhood Ganesh shrine. Buy juju dhau in a clay pot only if you are eating it today, as it does not travel. Your guide can also help you pack spices, tea or a bottle of local pickle for home. The private car takes you to Tribhuvan International Airport in about 45 minutes, depending on traffic on the Araniko Highway.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "dwarikas-hotel-kathmandu"
+  ],
+  "includes": [
+    "3 nights at Dwarika's Hotel, Kathmandu, and 2 nights in a heritage guesthouse in Bhaktapur, with breakfast, twin sharing",
+    "Meals listed in the itinerary, including the cooking sessions and the Newar feast",
+    "Licensed English-speaking guide on all days",
+    "Private car with driver for all transfers",
+    "Entry fees for Bhaktapur, Kirtipur and the sites visited"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee",
+    "Drinks other than those served with the set meals",
+    "Tips for guide, driver and host families",
+    "Travel insurance",
+    "Festival seating or special access where charged"
+  ],
+  "good_to_know": [
+    "Newar cooking uses a lot of buffalo meat; tell us early if you eat no meat and hosts will cook vegetarian versions.",
+    "Festival dates follow the lunar calendar and move each year: Bisket Jatra is in April, Gai Jatra and Indra Jatra in August–September, Yomari Punhi in December; check current status before you travel.",
+    "Aila is strong; it is fine to touch the cup to your lips and set it down.",
+    "Eat with your right hand at a Newar feast and do not touch shared food with a hand that has been in your mouth.",
+    "Juju dhau is made with unpasteurised milk in some shops; your guide knows the reliable ones."
+  ],
+  "faqs": [
+    {
+      "q": "What is Newar food?",
+      "a": "Newar food is the traditional cuisine of the Newar people, the original inhabitants of the Kathmandu Valley. It is built on baji (beaten rice), buffalo meat, black soybeans, mustard oil, ginger, garlic and fermented vegetables. Well-known dishes include bara (lentil patty), chatamari (rice-flour bread), choila (spiced grilled meat), yomari (sweet dumpling) and juju dhau (Bhaktapur curd). Many dishes are tied to particular festivals."
+    },
+    {
+      "q": "Is this food tour suitable for vegetarians?",
+      "a": "Yes, with notice. Many Newar staples are vegetarian: bara, plain chatamari, aloo tama, kwati bean soup, achar pickles, yomari and juju dhau. Choila and kachila are meat. Tell us when you book and the families and restaurants will cook vegetarian versions. Strict vegans should know that ghee and curd appear in many dishes, so we plan menus ahead."
+    },
+    {
+      "q": "What is samay baji?",
+      "a": "Samay baji is a Newar ritual plate served at festivals and family gatherings and first offered to the gods. It usually has beaten rice, spiced buffalo choila, black soybeans, a boiled or fried egg, ginger, garlic, potato pickle, a bara and a cup of aila. Each item carries meaning. Kirtipur, Patan and Bhaktapur all have small eateries where you can order it any day."
+    },
+    {
+      "q": "When are the best Newar festivals to see?",
+      "a": "Bisket Jatra in Bhaktapur at Nepali New Year in mid-April, the Rato Machhindranath chariot in Patan from late April into early summer, Gai Jatra and Indra Jatra in August–September, and Yomari Punhi in December are the most rewarding. Dates follow the lunar calendar and move each year, so check current status before you travel, and we will shape the days around them."
+    },
+    {
+      "q": "Is street food in Kathmandu safe to eat?",
+      "a": "Most of what we eat is cooked in front of you and served hot, which is the safest rule. Our guides use eateries they and their families use. Avoid raw salads and cut fruit from street stalls, drink bottled or filtered water, and go easy on aila and juju dhau on the first day. If you have a sensitive stomach, tell your guide and we will adjust."
+    },
+    {
+      "q": "What is juju dhau and where do I eat it?",
+      "a": "Juju dhau means king of curds in Nepal Bhasa. It is a thick, slightly sweet curd made from buffalo milk and set in unglazed clay bowls, which draw off moisture. Bhaktapur is famous for it, and shops around Taumadhi and Dattatreya squares sell it by the bowl. It is best eaten the same day, cool rather than cold."
+    },
+    {
+      "q": "Why stay overnight in Bhaktapur instead of a day trip?",
+      "a": "Because Bhaktapur changes after the day visitors leave. In the evening, music groups practise in the squares and families sit on temple steps. Early mornings bring offerings, market shopping and quiet lanes. Staying two nights also lets you cook with a family and walk to Thimi without rushing. The guesthouses are simple but comfortable, in restored brick houses."
+    },
+    {
+      "q": "Can I join a Newar family meal?",
+      "a": "Yes, two meals on this journey are in family homes: a cooking session in Kathmandu and a full day of cooking and eating in Bhaktapur. Our guides arrange these with families they know, who are paid for their time and ingredients. Bring a small gift if you like, such as sweets from your home country. Take your shoes off at the door and follow your hosts' lead."
+    },
+    {
+      "q": "Is Newar food very spicy?",
+      "a": "Some dishes are, especially choila and the chilli-heavy achars, but much of it is gently spiced with ginger, garlic, cumin, timur pepper and mustard oil. Hosts usually serve pickles on the side, so you can control the heat. Tell your guide what you like, and they will ask kitchens for milder versions without making a fuss."
+    }
+  ]
+}

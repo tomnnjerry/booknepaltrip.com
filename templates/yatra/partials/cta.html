@@ -1,0 +1,16 @@
+{% load yatra %}<section class="cta"{% if land %} data-land="{{ land }}"{% endif %}>
+  {% contours request.path 10 %}
+  <div class="wrap cta__in">
+    <div>
+      <p class="eyebrow foil-text">Plan with a local planner</p>
+      <h2>Tell us your <em class="foil-text">height</em>, we will find the trail</h2>
+      <p class="lede">Easy hills or a 5,000 m pass, a week or a month: three short questions and a planner sends a first plan, with the sleeping height of every night and an itemised price.</p>
+      <div class="btn-row"><a class="btn btn--foil btn--lg" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if land %}&land={{ land }}{% endif %}" data-cta="band-plan">Plan my trip</a>{% if wa_base %}<a class="btn btn--line-light" href="{{ wa_base }}?text={{ wa_text }}" data-cta="band-whatsapp">WhatsApp</a>{% endif %}</div>
+    </div>
+    <ol class="cta__steps">
+      <li><span class="deva">१</span><span>Tell us where, when and how high you want to go</span></li>
+      <li><span class="deva">२</span><span>Get a first plan and an itemised price within one working day</span></li>
+      <li><span class="deva">३</span><span>Change anything until it fits. Pay a deposit only when you book</span></li>
+    </ol>
+  </div>
+</section>

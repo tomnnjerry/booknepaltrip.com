@@ -1,0 +1,223 @@
+{
+  "slug": "rara-lake-trek-from-jumla-9n",
+  "title": "Rara Lake Trek from Jumla",
+  "region": "far-west",
+  "kind": "trek",
+  "nights": 9,
+  "themes": [
+    "treks-and-trails",
+    "lakes-and-rivers",
+    "heritage-and-temples",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "jumla",
+      "nights": 3
+    },
+    {
+      "place": "sinja-valley",
+      "nights": 2
+    },
+    {
+      "place": "rara-lake",
+      "nights": 4
+    }
+  ],
+  "start": "Nepalgunj Airport (KEP), morning flight to Jumla",
+  "end": "Nepalgunj, by air from Talcha",
+  "price_from_usd": 1650,
+  "best_months": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    0
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 3700,
+  "meta_description": "Rara Lake trek from Jumla, 9 nights: Jaljala pass, the Sinja valley of the Khasa kings, three nights at Nepal's largest lake, out by air from Talcha.",
+  "summary": "Nine nights on foot from Jumla to Rara, Nepal's largest lake. The route crosses the Jaljala pass at 3,580 m, drops into the Sinja valley where the Khasa kings ruled, then climbs through pine forest to the lake at 2,990 m. Three nights at Rara for the lakeshore circuit, then a flight out from Talcha.",
+  "intro": [
+    "Rara sits in a bowl of blue pine and spruce at 2,990 m, 10.8 km² of clear water that turns from turquoise to slate as clouds pass. It is the largest lake in Nepal and the heart of Rara National Park, at 106 km² the smallest of Nepal's national parks, founded in 1976. Most Nepalis now drive or fly to it. We walk in the old way, from Jumla, because the trail tells the history of the Karnali before you reach the water.",
+    "The route is moderate: no night is spent above 3,100 m, the high points are the Jaljala pass at 3,580 m and Murma Top at about 3,700 m, and days are five to seven hours. Lodges are few, so we use homestays where they exist and our own camp where they do not, with a cook who knows how to make Jumli marshi rice taste good at 3,000 m. Flights in this region depend on weather, so we build one spare day into the plan."
+  ],
+  "story": "You land on a short strip in Jumla, at the edge of a valley of red rice terraces and apple orchards, and the air is thin and dry after the plain. The first days climb through meadows used by shepherds to the Jaljala pass, where on a clear morning you see snow peaks to the north. Then the trail falls into the Sinja valley, the old seat of the Khasa kings, quiet now except for the river and a temple bell. Beyond Sinja the villages grow sparse, the pines close in, and the last climb ends at a ridge. Below lies Rara: water so still it holds the forest upside down. For three days the lake sets the pace.",
+  "highlights": [
+    "Three nights beside Rara Lake, with the 13 km shoreline walk and the climb to a viewpoint above the water",
+    "The Jaljala pass at 3,580 m, with views north toward the Kanjiroba and Saipal ranges on a clear morning",
+    "The Sinja valley, cradle of the Khasa Malla kingdom and of the Nepali language",
+    "Jumla's red rice terraces and the Chandannath temple in Khalanga bazaar",
+    "Pine and spruce forest with Himalayan monal, the danfe, and in Rara National Park a chance of red panda"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly Nepalgunj to Jumla",
+      "place": "jumla",
+      "overnight": "Jumla (Khalanga)",
+      "alt_m": 2540,
+      "move": "≈ 40 min flight",
+      "text": "We meet at Nepalgunj Airport for the early flight to Jumla, about forty minutes over the Mahabharat and the Karnali gorges. Morning flights are the most reliable, so we fly as early as the airline allows. After tea we walk into Khalanga, the district headquarters, and visit the Chandannath temple, the guardian shrine of Jumla, and the small Bhairav shrine beside it. The afternoon is for rest and a slow walk through the terraces where the town's famous red rice is grown. Altitude here is about 2,540 m, so we drink plenty and take it easy.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Jumla to Chere Chaur",
+      "place": "",
+      "overnight": "Chere Chaur",
+      "alt_m": 3055,
+      "move": "≈ 5 h walk · +515 m",
+      "text": "The trail leaves Jumla past apple orchards and climbs steadily through pine and oak forest. Shepherds from the valley graze sheep and goats in these woods, and you may share the path with a flock. Chere Chaur is a broad meadow at about 3,055 m with views back over the Jumla valley and, on clear days, to snow peaks on the northern horizon. We camp or stay in a simple homestay at the meadow edge. The gain is the biggest of the first days, so we walk slowly and stop often.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Over the Jaljala pass to Chalachaur",
+      "place": "",
+      "overnight": "Chalachaur",
+      "alt_m": 2980,
+      "move": "≈ 6 h walk · +525 m, −600 m",
+      "text": "Today crosses the Jaljala pass at 3,580 m, the high point of the trek. The climb runs through birch and rhododendron, which flower in April and May, to an open saddle hung with prayer flags and the small stone shrines that Hindu shepherds leave at passes in this region. On a clear morning the view runs north to the Kanjiroba range. The descent to Chalachaur follows a stream through meadows used for summer grazing. Camp at about 2,980 m beside the water.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Down the Jaljala Khola to Sinja",
+      "place": "sinja-valley",
+      "overnight": "Sinja",
+      "alt_m": 2490,
+      "move": "≈ 6–7 h walk · −490 m",
+      "text": "A long, gentle day down the Jaljala Khola through scattered Chhetri and Thakuri villages, where women spread grain to dry on the flat roofs and children run out to see who is passing. The valley widens as it meets the Hima river, and Sinja appears: terraced fields, a few clustered houses and the ridge where the Khasa Malla kings had their capital between roughly the 12th and 14th centuries. We camp or stay in a homestay near the village at about 2,490 m.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Sinja and on to Ghorasain",
+      "place": "sinja-valley",
+      "overnight": "Ghorasain",
+      "alt_m": 2930,
+      "move": "≈ 2 h in Sinja · then ≈ 4 h walk · +440 m",
+      "text": "We spend the morning in Sinja with a local guide. The Kanakasundari temple stands across the river, and on the slope above the valley lie the stone ruins of the old Khasa capital, known locally as Lamathada. People here will tell you, with some pride, that the Nepali language was first written in this valley. After lunch the trail climbs north out of the valley through pine forest to Ghorasain, a small settlement on the way to Rara. Night at about 2,930 m.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Ghorasain to Rara Lake",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 5–6 h walk · +300 m, −240 m",
+      "text": "The last stage to Rara climbs through quiet blue pine and spruce forest, one of the finest stretches of the trek, with the calls of monal and kalij pheasants in the undergrowth. We enter Rara National Park, show permits at the post, and come over a low ridge to the first view of the lake, 10.8 km² of still water ringed by forest. We stay at a simple lodge or our camp near the park headquarters on the northern shore, at 2,990 m.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "The Rara lakeshore circuit",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 13 km · 5–6 h walk round the lake",
+      "text": "The trail round Rara is about 13 km and nearly level, through forest that opens every half hour onto the water. The lake is up to 167 m deep and drains west into the Mugu Karnali through the Nijar Khola. On the south shore you pass the site of the old villages of Rara and Chapru, whose families were resettled in the Terai when the park was created. Look for great crested grebes and, in winter, ducks on the water. Picnic lunch on the shore.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Viewpoint day above the lake",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 4–5 h walk · +700 m and back",
+      "text": "A morning climb to Murma Top, about 3,700 m, on the ridge above the lake, a steep path through forest that ends on open grass. From the top you see the whole oval of Rara below, and on a clear day the snow ranges of Mugu and Humla to the north. Back at the lake in the afternoon, you can sit on the shore, take a boat if the park is running them, or walk to the small Thakur Baba shrine on the southern side. A spare day in the plan if weather has slowed us earlier.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Rara Lake to Talcha airstrip",
+      "place": "rara-lake",
+      "overnight": "Talcha",
+      "alt_m": 2720,
+      "move": "≈ 3 h walk · −270 m",
+      "text": "An easy walk out of the park through forest and fields to Talcha, the airstrip that serves Mugu district, at about 2,720 m. We stay close to the strip because flights leave early in the morning, before the wind rises. The afternoon is free to walk in the village or rest. Your guide confirms the next morning's seats with the airline and checks the weather reports from Nepalgunj. The crew packs the camp for the porters' return walk.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Fly Talcha to Nepalgunj",
+      "place": "",
+      "overnight": "Nepalgunj or Kathmandu",
+      "alt_m": 165,
+      "move": "≈ 45 min flight",
+      "text": "The morning flight from Talcha to Nepalgunj takes about forty-five minutes, crossing the gorges of the Karnali and the ridges of Kalikot before the hills end abruptly at the plain. In Nepalgunj you can connect to an afternoon flight to Kathmandu, or stay a night and continue to Bardia National Park, about 90 km away. If cloud cancels the Talcha flight, we wait for the next one; this is why we keep a spare day in hand.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Nepalgunj–Jumla and Talcha–Nepalgunj flights (economy)",
+    "Licensed trekking guide, cook and porters, with their wages, food and insurance",
+    "Homestays where available and full camping equipment elsewhere (tents, mattresses, kitchen and dining tents)",
+    "All meals on trek",
+    "Rara National Park entry fee and local area fees",
+    "Local guide for the Sinja heritage sites"
+  ],
+  "excludes": [
+    "Kathmandu–Nepalgunj flights and hotel nights in Nepalgunj or Kathmandu",
+    "International flights, visa and travel insurance with helicopter rescue cover",
+    "Sleeping bag, personal gear, drinks and tips",
+    "Extra nights caused by flight cancellations"
+  ],
+  "good_to_know": [
+    "Rara National Park charges foreigners an entry fee, NPR 3,000 at the time of writing, and since April 2023 foreign trekkers in national parks must go with a licensed guide. Check current status before you travel.",
+    "Flights to Jumla and Talcha are small aircraft on short mountain strips; cloud and wind cancel them often, especially June to September.",
+    "There is no ATM on the trail. Carry cash for drinks and tips from Nepalgunj or Kathmandu.",
+    "Mobile signal is patchy between Jumla and Rara; there is usually signal at Rara and Talcha.",
+    "A road now reaches Rara from the south, so you may meet jeeps of Nepali visitors near the lake, especially in Dashain and Tihar."
+  ],
+  "faqs": [
+    {
+      "q": "How difficult is the Rara Lake trek?",
+      "a": "Moderate. Days are five to seven hours on good trails, and the highest points are the Jaljala pass at 3,580 m and the Murma Top viewpoint at about 3,700 m, with no night above 3,100 m, so altitude sickness risk is low but not zero. You need to be fit enough to walk several days in a row with a light daypack. Facilities are simpler than on the Annapurna or Everest trails, which matters more than the gradients."
+    },
+    {
+      "q": "What is the best time for the Rara trek?",
+      "a": "October and November are best: clear skies, dry trails and autumn colour in the forests. April to early June is the second choice, with rhododendron in flower and warmer nights. From December to February snow can block the passes and Rara is very cold. The monsoon, June to September, brings leeches, cloud and frequent flight cancellations."
+    },
+    {
+      "q": "Do I need a permit for Rara Lake?",
+      "a": "You need the Rara National Park entry permit, which foreigners can buy at the park office or in Kathmandu; at the time of writing it costs NPR 3,000. Rara is not a restricted area, so no special permit is required. Since April 2023 foreign trekkers in national parks must go with a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "Are there teahouses on the Rara trek?",
+      "a": "Only a few. Some villages now run homestays and there are simple lodges near Rara and Talcha, but the meadows at Chere Chaur and Chalachaur often have no lodge at all. We carry tents and a kitchen so that every night is covered, and use homestays where they are clean and the family welcomes guests."
+    },
+    {
+      "q": "How big and deep is Rara Lake?",
+      "a": "Rara covers about 10.8 km², which makes it the largest lake in Nepal, and its maximum depth is about 167 m. It lies at 2,990 m and drains west through the Nijar Khola into the Mugu Karnali. The walk round its shore is about 13 km and takes five to six hours at an easy pace."
+    },
+    {
+      "q": "Can I drive to Rara instead of trekking?",
+      "a": "Yes. A road now runs from Surkhet up the Karnali Highway and branches at Nagma for Gamgadhi in Mugu, and jeeps reach the edge of the park. The drive is long and rough, two to three days from Nepalgunj. Flying to Talcha and walking three hours is quicker. Trekking from Jumla shows you the most."
+    },
+    {
+      "q": "What happens if my flight from Talcha is cancelled?",
+      "a": "You wait in Talcha for the next flight, usually the following morning, or we arrange a jeep down the road to Jumla or Surkhet if the delay continues. Flights in Karnali are often cancelled for cloud or wind. We build a spare day into the plan and advise you not to book onward international flights within two days of the end."
+    },
+    {
+      "q": "What will I eat on the Rara trek?",
+      "a": "Our cook prepares dal bhat with local vegetables, Jumli red rice when we can buy it, noodles, potatoes, eggs and porridge, with tea and coffee at every stop. Fresh meat is rare on the trail. In season you will be offered Jumla apples and walnuts. Tell us about dietary needs in advance because shops on the route are limited."
+    },
+    {
+      "q": "Is the Rara trek suitable for beginners?",
+      "a": "For fit beginners who are happy with basic facilities, yes. The trails are not technical and the altitude is moderate. What makes Rara harder than its numbers is remoteness: long flights in small aircraft, camping, few shops and slow communication. If you have never trekked, the shorter fly-in Rara trip is an easier start."
+    }
+  ]
+}

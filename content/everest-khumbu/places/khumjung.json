@@ -1,0 +1,165 @@
+{
+  "slug": "khumjung",
+  "name": "Khumjung",
+  "name_ne": "खुम्जुङ",
+  "local_name": "",
+  "region": "everest-khumbu",
+  "kind": "village",
+  "wiki": "Khumjung",
+  "image_query": "Khumjung village Khumbila",
+  "lat": 27.817,
+  "lng": 86.718,
+  "altitude_m": 3790,
+  "tagline": "Hillary's first school and a yeti scalp under sacred Khumbila",
+  "meta_description": "Khumjung, 3,790 m: the Hillary school of 1961, the gompa's yeti scalp, sacred Khumbila, Kunde hospital and Hotel Everest View. A Sherpa village above Namche.",
+  "summary": "Khumjung is one of Khumbu's largest Sherpa villages, at about 3,790 m on a wide shelf beneath the sacred peak of Khumbila, an hour and a half above Namche. It holds the school Edmund Hillary founded in 1961, a gompa keeping a famous yeti scalp, and green-roofed houses set among potato fields.",
+  "intro": [
+    "Khumjung spreads across a broad, gently sloping basin, its stone houses with green tin roofs scattered among walled potato fields, with Khumbila's dark rock pyramid rising directly behind. It feels nothing like Namche: no main street of lodges, no gear shops, just a Sherpa farming village where yaks wander the lanes and children run to the school at the top of the fields.",
+    "That school is the reason Khumjung matters beyond Khumbu. In 1961 Edmund Hillary's Himalayan Trust built two classrooms here at the request of local Sherpas, the first school of many. Next door, Kunde has the hospital the Trust opened in 1966. Above the village, on the Syangboche ridge, the Japanese-built Hotel Everest View looks up the valley to Everest.",
+    "Most trekkers see Khumjung on their acclimatisation day from Namche, walking up via Syangboche and back in five or six hours. We think it deserves a night. Evenings in Khumjung are quiet and starry, mornings bring yak bells and smoke from kitchen fires, and the walk on to Tengboche via the high trail is one of the loveliest in Khumbu."
+  ],
+  "story": {
+    "title": "The village that asked Hillary for a school",
+    "paras": [
+      "Khumjung and its twin village Kunde are old Sherpa settlements, built where the shelf below Khumbila gave space for fields and pasture. Families here farmed potatoes and barley, herded yaks and nak to summer pastures, and traded with Tibet over the Nangpa La. Many of the Sherpas who carried loads for early Everest expeditions came from Khumjung, Kunde and Thame.",
+      "In 1960 and 1961 Edmund Hillary spent months in Khumbu with a scientific expedition. Village elders told him what they wanted most was a school for their children. In 1961 the Himalayan Trust, which he had just set up, built Khumjung School: two classrooms, with materials carried in on porters' backs. It grew into a full primary and secondary school with over 350 pupils. Hospitals at Kunde and Phaplu, more schools, bridges and water systems followed.",
+      "The same expedition gave Khumjung its odd fame. Hillary borrowed the gompa's revered yeti scalp, a conical cap of reddish hide, and took it abroad with a village elder, Khunjo Chumbi, for scientists to examine. They judged it to be made from the skin of a serow, a Himalayan goat-antelope. The scalp came home and still sits in the gompa, where visitors may see it for a donation."
+    ]
+  },
+  "legend": "Sherpas say Khumbila, the 5,761 m peak above Khumjung, is the home of Khumbu Yul Lha, the god of the Khumbu country, protector of the region and its people. In gompa murals he appears as a white-faced figure in white robes riding a white horse. Because the mountain is his home, local tradition holds that no one should stand on its summit, and it has never been climbed. Families offer juniper smoke and prayer flags to him before journeys.",
+  "people": "Khumjung and Kunde are Sherpa villages, among the largest in Khumbu, with roughly 1,900 people recorded in Khumjung's ward in 2011. Families farm potatoes, barley and buckwheat, keep yaks and nak, and run a few lodges, but many earn their living as climbing and trekking guides. Sherpa is the home language; children learn Nepali and English at the Hillary school. Several renowned Everest climbers grew up here.",
+  "untold": [
+    {"fact": "Khumjung School was built by Edmund Hillary's Himalayan Trust in 1961 and began with two classrooms. It now teaches pre-school, primary and secondary pupils, over 350 of them.", "source": "Wikipedia: Khumjung"},
+    {"fact": "The yeti scalp kept in Khumjung's gompa was taken abroad in 1960 by Hillary's expedition for examination. Scientists concluded it had been moulded from the hide of a serow, a goat-antelope.", "source": "Wikipedia: Yeti"},
+    {"fact": "Kunde Hospital, a short walk from Khumjung, was founded in 1966 by Hillary's Himalayan Trust and still serves Khumbu villagers, porters and trekkers.", "source": "Wikipedia: Kunde Hospital"}
+  ],
+  "local_words": [
+    {"word": "gompa", "script": "དགོན་པ", "lang": "Sherpa", "meaning": "Monastery or village temple"},
+    {"word": "khata", "script": "ཁ་བཏགས", "lang": "Sherpa", "meaning": "White silk or cotton scarf offered as a blessing or welcome"},
+    {"word": "nak", "script": "", "lang": "Sherpa", "meaning": "Female yak; the 'yak' cheese and butter come from her milk"}
+  ],
+  "taste": {"name": "Boiled potatoes with chilli salt", "text": "In Khumjung homes the simplest meal is the best: Khumbu potatoes boiled in their skins, peeled at the table and dipped in ground chilli and salt, often with somar cheese. Ask your lodge for a plate; the local potatoes are small, dense and good."},
+  "facts": [["Best months", "Mar – May, Oct – Nov"], ["Days we suggest", "1 night, or a day walk from Namche"], ["Nearest airport", "Lukla (LUA); Syangboche helipad above the village"], ["From Kathmandu", "Flight to Lukla + 3 days on foot"], ["Altitude", "3,790 m"], ["Known for", "Hillary school, yeti scalp, sacred Khumbila"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Hillary's Khumjung School", "text": "Founded in 1961 by the Himalayan Trust with two classrooms, the school now teaches over 350 Sherpa children. You can see the grounds and the memorial to Hillary from the gate; visits inside are by arrangement, and term-time mornings are for lessons, not tourists."},
+    {"title": "The yeti scalp in the gompa", "text": "Khumjung's gompa keeps a conical cap of reddish hide revered as a yeti scalp. In 1960 scientists examined it and judged it serow skin, but it remains a sacred object. The caretaker shows it in a glass case for a small donation."},
+    {"title": "Khumbila, the forbidden summit", "text": "The dark 5,761 m peak behind the village is the home of Khumbu Yul Lha, protector deity of the region. It has never been climbed out of respect. Walk the lanes at sunset when its rock face turns orange above the fields."},
+    {"title": "Tea at Hotel Everest View", "text": "Half an hour above Khumjung, the Japanese-built Hotel Everest View has a terrace facing Everest, Lhotse and Ama Dablam. On a clear morning it is the classic Khumbu panorama, and a pot of tea there is part of the acclimatisation ritual."},
+    {"title": "Kunde and its hospital", "text": "Kunde, Khumjung's twin village ten minutes west, has the hospital the Himalayan Trust founded in 1966, a small gompa and quiet lanes of stone houses. It is a gentle walk on an acclimatisation day."},
+    {"title": "High trail to Tengboche", "text": "From Khumjung a quieter path drops to rejoin the main Everest trail at Kyangjuma and Sanasa, saving the backtrack to Namche. The views of Ama Dablam on this traverse are among the best in Khumbu."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Namche, about 1.5–2 hours via Syangboche, climbing some 350–450 m, or a little longer via the lower path past Kunde. From Khumjung, Tengboche is about 4–5 hours via Kyangjuma and Phunki Tenga."},
+    {"mode": "Air", "text": "Helicopters can land at Syangboche, 30 minutes above the village, but flying directly to about 3,800 m without acclimatisation is dangerous. Fixed-wing flights go to Lukla, three walking days away."}
+  ],
+  "where_to_stay": "Khumjung has a small number of family-run lodges with simple rooms, shared bathrooms and warm dining rooms where you eat with the owners. They are quieter than Namche and give a real sense of village life. Kunde has a few more. For comfort, Hotel Everest View, about 30 minutes above the village at roughly 3,880 m, has rooms facing Everest, but book it only after acclimatising in Namche or on the way down.",
+  "stays": ["hotel-everest-view"],
+  "tips": [
+    "Spend a night here on the way down if you missed it on the way up; the village is calm and the evenings are clear.",
+    "Carry small notes for the gompa donation box and the yeti scalp viewing.",
+    "Do not walk into the school grounds uninvited during lessons; ask your guide to arrange a visit.",
+    "Walk around chortens and mani walls clockwise, keeping them on your right.",
+    "Sleep in Namche first before sleeping at Khumjung or Hotel Everest View, which are 350–450 m higher."
+  ],
+  "themes": ["villages-and-homestays", "heritage-and-temples", "high-altitude", "treks-and-trails"],
+  "nearby": ["namche-bazaar", "tengboche", "thame"],
+  "experiences": [
+    {
+      "slug": "khumjung-hillary-school-visit",
+      "title": "Khumjung School and the Himalayan Trust story",
+      "kind": "heritage",
+      "duration": "1 hour",
+      "best_time": "Afternoon or weekends, Mar–May and Sep–Nov",
+      "image_query": "Khumjung school Hillary",
+      "wiki": "Himalayan Trust",
+      "summary": "See the school Edmund Hillary's Himalayan Trust built at Khumjung in 1961, the first of many schools and clinics in Khumbu, and hear from your guide, often a former pupil, how it changed Sherpa lives. Visits are arranged with respect for lessons.",
+      "body": [
+        "After the 1953 Everest climb, Hillary kept coming back to Khumbu. In 1960 and 1961, on a long scientific expedition, he asked Sherpa friends what he could do for them. The answer was a school. With a new charity, the Himalayan Trust, he built two classrooms at Khumjung in 1961, carrying materials in from far below, and Sherpa families provided labour and land.",
+        "The school grew with the village. Today it teaches more than 350 children from pre-school to secondary level, many of them boarding from villages too far to walk daily. Former pupils have become doctors, teachers, pilots and leaders of mountaineering companies, and many of Khumbu's guides learned their English here. A memorial to Hillary stands in the grounds.",
+        "Visit with consideration. During term, mornings are for lessons, so we come in the afternoon or at weekends, look from the gate and grounds, and only enter classrooms when the headteacher invites us. Donations are best made through the Himalayan Trust rather than in cash on the spot. Pencils and sweets handed out on the trail do more harm than good; please do not."
+      ],
+      "good_for": ["families", "first-timers", "seniors", "solo"],
+      "faqs": [
+        {"q": "When was Khumjung School founded?", "a": "In 1961, by Edmund Hillary's Himalayan Trust, at the request of Khumjung's Sherpa families. It began with two classrooms and was the first of many schools the Trust helped build in the Everest region. Today it teaches more than 350 pupils from pre-school to secondary level, and many Khumbu guides and leaders are former students."},
+        {"q": "Can tourists visit Khumjung School?", "a": "You can see the school from its grounds and gate at any time, and visits inside can sometimes be arranged through your guide outside lesson hours. Please do not walk into classrooms uninvited or photograph children without permission. If you want to help, donate through the Himalayan Trust or similar organisations rather than giving items directly."},
+        {"q": "What is the Himalayan Trust?", "a": "The Himalayan Trust is the charity Edmund Hillary set up around 1960–61 to work with Sherpa communities. It has supported schools, hospitals at Kunde and Phaplu, health posts, teacher training, bridges and water projects across Solukhumbu. Separate Himalayan Trust organisations in New Zealand, the UK and elsewhere continue the work with Nepali partners."}
+      ]
+    },
+    {
+      "slug": "khumjung-gompa-yeti-scalp",
+      "title": "See the yeti scalp in Khumjung gompa",
+      "kind": "spiritual",
+      "duration": "45 minutes",
+      "best_time": "Morning or afternoon, all year",
+      "image_query": "Khumjung monastery yeti scalp",
+      "wiki": "Yeti",
+      "summary": "Khumjung's gompa keeps a revered relic: a tall, conical cap of reddish hide said to be a yeti scalp. Scientists who examined it in 1960 judged it to be serow skin, but to the village it is a sacred object, shown for a donation.",
+      "body": [
+        "The yeti, called yeti or migoi in Sherpa stories, was part of Khumbu life long before Western newspapers made it famous. Older Sherpas tell of tracks in the snow, of shapes seen at the edges of high pastures, of yaks killed at night. Several Khumbu gompas came to hold relics said to come from yetis. Khumjung's is the best known: a conical scalp of coarse reddish-brown hair kept in a locked case.",
+        "In 1960 Hillary's World Book Encyclopedia expedition, which had come partly to investigate the yeti, persuaded the village to lend the scalp. A Khumjung elder, Khunjo Chumbi, travelled with it to Chicago, Paris and London. Scientists concluded the scalp had been moulded from the hide of a serow, a Himalayan goat-antelope. The village had asked for help with a school, which came the following year. The scalp returned home as promised.",
+        "Today the caretaker opens the case for visitors who make a small donation to the gompa. Treat it as what it is to the village, a sacred object, and not as a sideshow: ask before photographing, remove your hat, walk clockwise. Inside the gompa the murals of Guru Rinpoche and Khumbu Yul Lha are worth time too."
+      ],
+      "good_for": ["families", "solo", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Is the Khumjung yeti scalp real?", "a": "It is a real relic, but not of a yeti. When Hillary's 1960 expedition took it abroad for examination, scientists concluded it had been moulded from the skin of a serow, a Himalayan goat-antelope. For the village it remains a sacred object of the gompa, kept and shown with respect. Many Sherpas hold a range of views on the yeti itself."},
+        {"q": "How much does it cost to see the yeti scalp?", "a": "There is no fixed ticket. The caretaker opens the case for visitors who leave a donation for the gompa, usually a few hundred rupees per person. Carry small notes, as change is scarce. If the gompa is locked, your guide can usually find the caretaker in the village."},
+        {"q": "Where else are yeti relics in Khumbu?", "a": "Pangboche gompa was famous for a yeti scalp and a mummified 'yeti hand'. Most of the hand was stolen in 1991, and later tests on a finger taken from it in the 1950s showed it was human. Khumjung's scalp, examined in 1960 and found to be serow hide, is the relic visitors can still see most easily."}
+      ]
+    },
+    {
+      "slug": "khumjung-hotel-everest-view-terrace",
+      "title": "Tea on the Hotel Everest View terrace",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Morning, Oct–Dec and Mar–Apr",
+      "image_query": "Hotel Everest View terrace Ama Dablam",
+      "wiki": "",
+      "summary": "Walk 30 minutes up from Khumjung to the Hotel Everest View at about 3,880 m and drink tea on its terrace facing Everest, Lhotse, Ama Dablam and Thamserku. It is the most famous view in lower Khumbu and an easy acclimatisation outing.",
+      "body": [
+        "Hotel Everest View was built in the 1970s by the Japanese hotelier Takashi Miyahara on a ridge above Syangboche, designed low and stone-faced so it would not stand out on the skyline. It reached its fiftieth year in 2025. For most visitors, though, it is not a hotel but a terrace: a long stone platform with tables, facing up the valley towards the highest mountains on earth.",
+        "On a clear morning the view runs from Thamserku and Kangtega on the right, across Ama Dablam's spire, to Everest's summit rising behind the Nuptse–Lhotse wall, with Tengboche's ridge in the middle distance. Tea and coffee are served, and so is a simple lunch. Sit for half an hour; it is one of the best places in Khumbu to understand the shape of the valleys ahead.",
+        "From Khumjung the walk up takes 30–40 minutes through juniper and rhododendron, climbing about 100 m. Many people combine it with the loop from Namche via Syangboche. The air at about 3,880 m is thin, so walk slowly and do not plan to sleep here until you have spent two nights in Namche. Mornings are clearest; cloud often rises by late morning."
+      ],
+      "good_for": ["couples", "photographers", "seniors", "families"],
+      "faqs": [
+        {"q": "Do I need to be a guest to visit Hotel Everest View?", "a": "No. The terrace and restaurant welcome walkers for tea, coffee and simple meals, and most visitors come as day hikers from Namche or Khumjung. Prices are higher than in teahouses, reflecting the location and supply costs. Buying a drink is the courteous way to enjoy the view; groups should keep noise down for staying guests."},
+        {"q": "How far is Hotel Everest View from Khumjung?", "a": "About 30–40 minutes on foot, climbing roughly 100 m through juniper and rhododendron above the village. From Namche it is about 1.5–2 hours via the Syangboche airstrip. Many walkers do a loop: Namche, Syangboche, the hotel, Khumjung, Kunde and back to Namche in five or six hours."},
+        {"q": "What mountains can I see from Hotel Everest View?", "a": "On a clear day: Everest, Lhotse and Nuptse straight up the valley, Ama Dablam's sharp spire, Thamserku and Kangtega to the right, and Taboche to the left, with Tengboche monastery's ridge below. Mornings from October to December give the most reliable views. Spring brings more haze and afternoon cloud."}
+      ]
+    },
+    {
+      "slug": "khumjung-kunde-village-walk",
+      "title": "Walk Kunde and the Hillary hospital",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Afternoon, Mar–May and Sep–Nov",
+      "image_query": "Kunde village Khumbu",
+      "wiki": "Kunde Hospital",
+      "summary": "Stroll west from Khumjung to its twin village of Kunde, past walled potato fields and chortens to the Kunde hospital founded by the Himalayan Trust in 1966, which still treats villagers, porters and trekkers. A gentle, flat walk for a rest afternoon.",
+      "body": [
+        "Khumjung and Kunde lie side by side on the same shelf, separated by fields and a line of chortens. The path between them is almost level, rare in Khumbu, and walking it in the afternoon light, with Khumbila above and yaks grazing the stubble, is one of the calmest hours of any trek. Kunde is smaller, with its own gompa and a cluster of stone houses at the foot of the hill.",
+        "At the western edge stands Kunde Hospital, founded in 1966 by the Himalayan Trust as the first proper hospital in Khumbu. For decades Sherpa families had relied on lamas, local healers or a week's walk to reach a doctor. The hospital, staffed for many years by volunteer doctors from New Zealand and Canada and now led by Nepali doctors, treats villagers, porters and trekkers, from childbirth and injuries to altitude illness.",
+        "You can walk past and look; the hospital is a working clinic, so we do not go in without reason. If you are unwell, though, this is where you come. On the way back, stop at a Kunde house for tea. Ask your guide which families are known for their butter tea, and why the old houses keep the animals downstairs."
+      ],
+      "good_for": ["seniors", "families", "solo", "photographers"],
+      "faqs": [
+        {"q": "When was Kunde Hospital founded?", "a": "Kunde Hospital was founded in 1966 by Edmund Hillary's Himalayan Trust, the first hospital in Khumbu. It still operates, serving Sherpa villages, porters and trekkers, and is now run by Nepali doctors. It handles general medicine, maternal health and altitude-related illness. In an emergency your guide will know how to reach it."},
+        {"q": "How far is Kunde from Khumjung?", "a": "About 10–15 minutes on a nearly level path across the fields. Both villages sit at around 3,800 m on the same shelf below Khumbila. A loop through both, with time at the gompas, takes about two hours at a relaxed pace and makes a good second acclimatisation walk."},
+        {"q": "Can I get treatment for altitude sickness at Kunde?", "a": "Yes. Kunde Hospital treats altitude illness and can give oxygen and medicines. The essential treatment for serious altitude sickness is still descent. Higher on the Everest trail, the Himalayan Rescue Association runs a seasonal aid post at Pheriche. Check current status before you travel and make sure your insurance covers helicopter evacuation."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Khumjung?", "a": "Khumjung lies at about 3,790 m, some 350 m above Namche Bazaar. For most people it is a step up in altitude, so we recommend two nights in Namche before sleeping here. As a day walk from Namche, climbing to Khumjung and returning to sleep lower is ideal acclimatisation."},
+    {"q": "Is Khumjung worth visiting?", "a": "Yes. It is one of the largest Sherpa villages in Khumbu and feels very different from Namche: farm lanes, yaks, stone houses and few lodges. It holds Hillary's first school of 1961, the gompa with its famous yeti scalp and views of sacred Khumbila. Kunde's hospital and Hotel Everest View are within 30 minutes."},
+    {"q": "How do I get from Namche to Khumjung?", "a": "Walk up the steep path above Namche to the Syangboche airstrip, then over the ridge past Hotel Everest View and down into Khumjung, about 1.5–2 hours. A lower path via Kunde is a bit gentler. Many trekkers loop back to Namche the same day; others continue the next morning towards Tengboche."},
+    {"q": "Why has nobody climbed Khumbila?", "a": "Khumbila is sacred to Sherpas as the home of Khumbu Yul Lha, the protector deity of the region. Out of respect, its summit is not climbed, and Nepal does not issue permits for it. It is a reminder that in Khumbu mountains are not only scenery but homes of gods, which is why prayer flags and juniper offerings mark many ridges."},
+    {"q": "Can I stay overnight in Khumjung?", "a": "Yes. Khumjung and Kunde have a few family-run lodges with simple rooms and shared bathrooms. They are quieter and more personal than Namche's lodges. For more comfort, Hotel Everest View is 30 minutes above the village. Sleep here only after acclimatising in Namche, or on the way down from higher up."},
+    {"q": "What is the yeti scalp in Khumjung?", "a": "It is a conical cap of reddish hide kept in Khumjung's gompa and revered as a yeti relic. In 1960 Hillary's expedition took it abroad with a village elder for study; scientists judged it to be moulded from serow skin. It came back and is still shown for a donation. Treat it as a sacred object."},
+    {"q": "Is Khumjung on the Everest Base Camp route?", "a": "Not directly. The main trail from Namche to Tengboche contours below it, but Khumjung is a short detour, and many itineraries pass through on the acclimatisation day or walk the high trail from Khumjung to rejoin the main path at Kyangjuma. It adds little time and much interest."},
+    {"q": "What is the best time to visit Khumjung?", "a": "October and November offer the clearest skies and mild days. March to May is also good, with rhododendrons in flower lower down. December to February is cold, with nights well below freezing, but clear and quiet. June to September is monsoon, often cloudy, with fewer lodges open and unreliable flights to Lukla."},
+    {"q": "Who are the people of Khumjung?", "a": "Khumjung is a Sherpa village, home to families who have farmed, herded yaks and traded here for generations. Many residents work as climbing and trekking guides, and several noted Everest climbers grew up in Khumjung and Kunde. Sherpa is the first language; Nepali and English are learned at school."}
+  ]
+}

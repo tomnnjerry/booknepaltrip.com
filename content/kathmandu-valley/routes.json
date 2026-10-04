@@ -1,0 +1,196 @@
+[
+  {
+    "slug": "kathmandu-to-bhaktapur",
+    "from": "kathmandu",
+    "to": "bhaktapur",
+    "distance_km": 13,
+    "summary": "Bhaktapur is about 13 km east of central Kathmandu, 45 minutes to an hour by car or taxi and about an hour by local bus. Go early to beat traffic, and consider stopping at Thimi, the potters' town on the way, or walking the last stretch from Changunarayan.",
+    "options": [
+      {
+        "mode": "Private car",
+        "time": "45 min – 1 h",
+        "text": "The easiest option, especially with luggage or if you plan to stay overnight. Drivers usually take the Araniko Highway via Koteshwar and Thimi, or the route via Kausaltar. Traffic is heaviest from 9 to 11 am and 4 to 7 pm. Cars drop you at the edge of the old town, near the ticket booths, as the core is mostly car-free. We include this transfer in all valley itineraries."
+      },
+      {
+        "mode": "Taxi or ride-hailing",
+        "time": "45 min – 1 h",
+        "text": "Metered taxis rarely use their meters, so agree a fare before you get in; ride-hailing apps work across the valley and show the price up front. Ask to be dropped at the Durbar Square entrance or near Siddha Pokhari. For the return, taxis wait near the bus park and the main gates, or book through an app."
+      },
+      {
+        "mode": "Local bus",
+        "time": "1 – 1.5 h",
+        "text": "Buses leave from Ratnapark and Bagbazar in central Kathmandu and stop at the Bhaktapur bus park near Siddha Pokhari, a short walk from the old town. They are cheap but crowded, with little room for bags. Services run from early morning to early evening. Ask locals or the conductor for the Bhaktapur bus."
+      }
+    ],
+    "stops_on_way": [
+      "Pashupatinath (short detour)",
+      "Thimi, a Newar pottery town",
+      "Suryabinayak Ganesh temple",
+      "Siddha Pokhari at Bhaktapur's gate"
+    ],
+    "tip": "Leave Kathmandu before 8 am to reach Bhaktapur's squares while they are quiet and the light is soft.",
+    "faqs": [
+      {
+        "q": "How do I get from Kathmandu to Bhaktapur?",
+        "a": "By private car or taxi, it takes 45 minutes to an hour for the 13 km. Local buses from Ratnapark and Bagbazar take about an hour and stop near Siddha Pokhari. Ride-hailing apps also work. A private car is easiest if you want to combine Bhaktapur with Changunarayan or Nagarkot."
+      },
+      {
+        "q": "Can I do a day trip from Kathmandu to Bhaktapur?",
+        "a": "Yes. Many visitors do, spending four to six hours in the old town before returning. Leave early to beat traffic. If you can, stay overnight to see Bhaktapur at dawn and dusk, when the squares belong to locals and day groups have gone."
+      },
+      {
+        "q": "How much is a taxi from Kathmandu to Bhaktapur?",
+        "a": "Expect roughly NPR 1,200 to 2,000 one way from Thamel, depending on traffic, time of day and bargaining. Ride-hailing apps are often cheaper and show fares up front. Prices change with fuel costs, so check current status before you travel and agree fares before starting."
+      },
+      {
+        "q": "Is there a direct bus from Thamel to Bhaktapur?",
+        "a": "There is no regular tourist bus from Thamel. Walk or take a taxi to Ratnapark or Bagbazar, about 15 minutes away, and catch a local bus to Bhaktapur. Buses are frequent but crowded. A private car or ride-hailing app is more comfortable."
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu-to-nagarkot",
+    "from": "kathmandu",
+    "to": "nagarkot",
+    "distance_km": 32,
+    "summary": "Nagarkot is about 32 km east of Kathmandu, a 1.5 hour drive via Bhaktapur, with the last 20 km climbing hairpin bends through pine forest. Most travellers go by private car and stop at Bhaktapur or Changunarayan on the way, arriving in time for sunset.",
+    "options": [
+      {
+        "mode": "Private car",
+        "time": "1.5 h",
+        "text": "The usual way. The road runs east to Bhaktapur, then climbs through Kamal Binayak and Telkot to the Nagarkot ridge. It is paved but winding, with buses and trucks on the bends. A car lets you stop at Bhaktapur for lunch or detour to Changunarayan, and reach Nagarkot by mid-afternoon. Hotel transfers can be arranged."
+      },
+      {
+        "mode": "Local bus",
+        "time": "2 – 2.5 h",
+        "text": "Take a bus from Kathmandu to Bhaktapur, then change at the Kamal Binayak stop for a bus up to Nagarkot, about an hour more. Buses are crowded, slow and infrequent later in the day, so leave Kathmandu by early afternoon. The bus drops you on the main road; some hotels are a walk or short taxi ride away."
+      },
+      {
+        "mode": "On foot from Bhaktapur",
+        "time": "5 – 6 h",
+        "text": "Fit walkers can hike up from Bhaktapur via Changunarayan and Telkot, climbing about 800 m through villages and forest. It is a full day, best started early with a guide and with luggage sent ahead by car. Most people prefer to walk the route downhill the next morning after sunrise."
+      }
+    ],
+    "stops_on_way": [
+      "Bhaktapur old town",
+      "Changunarayan (detour)",
+      "Telkot village"
+    ],
+    "tip": "Aim to reach Nagarkot by 4 pm so you can settle in before sunset, then be up by 5.30 am for sunrise.",
+    "faqs": [
+      {
+        "q": "How long does it take to get from Kathmandu to Nagarkot?",
+        "a": "About 1.5 hours by private car for the 32 km, longer in heavy traffic. By local bus, with a change in Bhaktapur, allow 2 to 2.5 hours. The last part of the road climbs steeply through hairpin bends, so allow extra time if you suffer from motion sickness."
+      },
+      {
+        "q": "What is the best way to go from Kathmandu to Nagarkot?",
+        "a": "A private car with driver is easiest. It lets you stop at Bhaktapur or Changunarayan on the way and arrive in time for sunset. For the return, consider walking down to Changunarayan and Bhaktapur, then meeting the car there."
+      },
+      {
+        "q": "Is the road to Nagarkot safe?",
+        "a": "The road is paved and used daily by buses and cars, but it is narrow and winding near the top, with steep drops in places. Experienced local drivers handle it well. In monsoon months, landslides can occasionally slow traffic. Check current status before you travel."
+      },
+      {
+        "q": "Can I visit Nagarkot as a day trip from Kathmandu?",
+        "a": "You can, but you will miss sunrise, the main reason to go, and midday views are often hazy. If you must, combine it with Bhaktapur and aim to reach the ridge by late afternoon for sunset. An overnight stay is much better."
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu-to-dhulikhel",
+    "from": "kathmandu",
+    "to": "dhulikhel",
+    "distance_km": 30,
+    "summary": "Dhulikhel is about 30 km east of Kathmandu on the Araniko Highway, 1.5 hours by car via Bhaktapur and Banepa. Local buses run often. Make it a slow journey with a stop in Bhaktapur, or detour south from Banepa to Panauti.",
+    "options": [
+      {
+        "mode": "Private car",
+        "time": "1.5 h",
+        "text": "The highway runs east from Kathmandu past Bhaktapur and through Banepa before climbing gently to Dhulikhel. It carries heavy trucks heading towards the Tibet border and has had long stretches of road works, so timing varies. A car lets you stop in Bhaktapur and detour 7 km south from Banepa to Panauti on the way."
+      },
+      {
+        "mode": "Local bus",
+        "time": "1.5 – 2 h",
+        "text": "Frequent buses run from Ratnapark in Kathmandu and from Bhaktapur to Banepa and Dhulikhel bus park. They are cheap and crowded, and usually fine for travellers with small bags. Buses to Banepa are more frequent; from there, short local buses or taxis continue to Dhulikhel and Panauti."
+      },
+      {
+        "mode": "On foot from Nagarkot",
+        "time": "5 – 6 h",
+        "text": "Hikers can walk from Nagarkot to Dhulikhel along ridges and through villages, about 15 km, mostly downhill. It is a good way to link the two viewpoints in a slow itinerary. Send main luggage by car and walk with a light daypack and a guide."
+      }
+    ],
+    "stops_on_way": [
+      "Bhaktapur old town",
+      "Banepa bazaar",
+      "Panauti (detour)"
+    ],
+    "tip": "Leave Kathmandu before 7.30 am or after 10 am to avoid the worst traffic on the Araniko Highway.",
+    "faqs": [
+      {
+        "q": "How far is Dhulikhel from Kathmandu?",
+        "a": "About 30 km east, a 1.5 hour drive along the Araniko Highway via Bhaktapur and Banepa, depending on traffic and road works. Local buses take 1.5 to 2 hours. Dhulikhel is also about an hour by road from Nagarkot and 30 minutes from Panauti."
+      },
+      {
+        "q": "Is there a bus from Kathmandu to Dhulikhel?",
+        "a": "Yes. Local buses run frequently from Ratnapark in central Kathmandu and from Bhaktapur to Banepa and Dhulikhel. They are inexpensive but crowded. Some continue along the Araniko Highway beyond Dhulikhel. A private car is more comfortable with luggage."
+      },
+      {
+        "q": "Can I visit Panauti on the way to Dhulikhel?",
+        "a": "Yes. Turn south at Banepa for about 7 km to reach Panauti, then return to the highway and continue 5 km east to Dhulikhel. A private car makes this easy. Panauti's temple and riverside ghats deserve at least two hours."
+      },
+      {
+        "q": "How is the road between Kathmandu and Dhulikhel?",
+        "a": "The Araniko Highway is paved and busy, with heavy trucks heading east and frequent road works in recent years. Travel times vary widely with traffic. Monsoon rain can slow it further. Check current status before you travel and leave buffer time if you have a connection."
+      }
+    ]
+  },
+  {
+    "slug": "patan-to-bungamati",
+    "from": "patan",
+    "to": "bungamati",
+    "distance_km": 8,
+    "summary": "Bungamati is about 8 km south of Patan, 25 to 35 minutes by car via Nakhu, about 45 minutes by local bus from Lagankhel, or an hour by bike. Combine it with Khokana and Karya Binayak, a short walk away.",
+    "options": [
+      {
+        "mode": "Private car or taxi",
+        "time": "25 – 35 min",
+        "text": "From Patan Durbar Square or Jawalakhel, cars head south via Nakhu and the Bungamati road, passing brick factories, fields and new houses. Cars stop at the edge of the village, from where you walk into the lanes. A driver can wait while you walk to Khokana and meet you on the other side."
+      },
+      {
+        "mode": "Local bus",
+        "time": "≈ 45 min",
+        "text": "Buses and microbuses leave from Lagankhel bus park in Patan to Bungamati through the day. They are cheap and crowded, and stop near the village. Check the last return bus time with the conductor, as services thin out in the late afternoon."
+      },
+      {
+        "mode": "Bicycle",
+        "time": "≈ 1 h",
+        "text": "A popular half-day ride from Patan, about 8 km each way, partly on busy roads near the city and then quieter lanes through fields. Rent bikes in Patan or Thamel, or join a guided ride. Start early to avoid traffic and heat, and wear a helmet."
+      }
+    ],
+    "stops_on_way": [
+      "Jawalakhel",
+      "Nakhu",
+      "Karya Binayak temple",
+      "Khokana village"
+    ],
+    "tip": "Ask the driver to drop you in Bungamati and collect you in Khokana, so you can walk between them via Karya Binayak.",
+    "faqs": [
+      {
+        "q": "How do I get from Patan to Bungamati?",
+        "a": "By taxi or private car, it takes 25 to 35 minutes via Nakhu. Local buses from Lagankhel take about 45 minutes. Cyclists take about an hour. Combine Bungamati with Khokana and Karya Binayak, linked by a 20 to 30 minute walk."
+      },
+      {
+        "q": "How far is Bungamati from Patan?",
+        "a": "About 8 km south of Patan Durbar Square and 10 km from central Kathmandu. The road passes through the city's southern suburbs before reaching fields and the village on its spur above the Bagmati. Allow 25 to 35 minutes by car, longer in traffic."
+      },
+      {
+        "q": "Is it worth cycling from Patan to Bungamati?",
+        "a": "Yes, if you are comfortable cycling in mixed traffic for the first few kilometres. The ride is mostly gentle, with village lanes and fields near Bungamati and Khokana. A guide helps find quieter routes. E-bikes are available for less confident riders."
+      },
+      {
+        "q": "Can I visit Bungamati and Kirtipur on the same day?",
+        "a": "Yes. They are about 30 minutes apart by car. A good day plan is Kirtipur in the morning, Chobhar gorge on the way, then Bungamati and Khokana in the afternoon, finishing back in Patan by evening. A private car makes it easy."
+      }
+    ]
+  }
+]

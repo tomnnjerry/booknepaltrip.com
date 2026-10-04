@@ -1,0 +1,172 @@
+{
+  "slug": "rara-lake",
+  "name": "Rara Lake",
+  "name_ne": "रारा ताल",
+  "local_name": "",
+  "region": "far-west",
+  "kind": "lake",
+  "wiki": "Rara Lake",
+  "image_query": "Rara Lake Mugu Nepal",
+  "lat": 29.53,
+  "lng": 82.09,
+  "altitude_m": 2990,
+  "tagline": "Nepal's largest lake, ringed by pine at almost 3,000 m",
+  "meta_description": "Rara Lake guide: Nepal's largest lake at 2,990 m in Rara National Park, Murma Top sunrise, the shore walk, flights to Talcha and the trek from Jumla.",
+  "summary": "Rara is the largest lake in Nepal: 10.8 sq km of clear water at 2,990 m in Mugu district, up to 167 m deep and ringed by blue pine and spruce. It sits inside Rara National Park, the country's smallest. Reach it by flying Nepalgunj to Talcha and walking two to three hours, or by trekking three to four days from Jumla.",
+  "intro": [
+    "The first view of Rara stops people. After days of dry, steep Karnali hills, or a bumpy landing at Talcha, the trail tops a ridge and there it is: a long oval of blue water, 5 km by nearly 3 km, held in a ring of forested hills with snow on the peaks behind. Locals say the colour changes several times a day with the light and the weather, and after a few hours on the shore you will believe them.",
+    "Rara National Park was set up in 1976 to protect the lake and its forest. At 106 sq km it is the smallest national park in Nepal. The lake drains west through the Nijar river into the Mugu Karnali. Its waters hold a fish found nowhere else, the Rara snowtrout, and an endemic frog. The forest shelters red panda, musk deer, Himalayan black bear and the danphe, Nepal's national bird.",
+    "Rara is quiet in a way few places in Nepal still are. There is no village on the shore, no motorboat noise and only a handful of simple lodges. Come for two or three nights: walk the shore in a day, climb to Murma Top for the sunrise view over the lake and the snow peaks beyond, and spend an afternoon doing nothing at all on the grassy banks."
+  ],
+  "story": {
+    "title": "The lake where two villages gave way to a park",
+    "paras": [
+      "For centuries Rara belonged to the people of two villages on its shore, Rara and Chhapru, who farmed the slopes, grazed animals in the forest and fished the lake. They were Thakuri and Chhetri families, part of the Khas world of the Karnali, trading grain and salt along the trails between Jumla, Mugu and Humla.",
+      "In 1976 the government declared Rara a national park, and the people of both villages were resettled to the Terai, far to the south. It was a hard move from a cold mountain valley to the hot plains, and older people in the Karnali still talk about it. Their terraced fields above the shore have since grown back into meadow and forest.",
+      "Since then the Nepal Army has guarded the park, and the lake has stayed remarkably clean. In September 2007 Rara and its surrounding wetland were listed as a Ramsar site. Domestic tourism has grown with new flights and the road to Mugu's headquarters at Gamgadhi, and Rara is now a dream trip for many Nepalis. Foreign visitors remain few, and in autumn you may have long stretches of shore to yourself."
+    ]
+  },
+  "legend": "",
+  "people": "The hills around Rara are home to Thakuri and Chhetri farmers who speak a Khas dialect of Nepali, and, further north in Mugu, Buddhist communities with Tibetan language and customs. People grow potatoes, beans, barley, buckwheat and apples, keep goats and sheep, and collect medicinal herbs, including yarsagumba in the high pastures. Many young men work seasonally in India.",
+  "untold": [
+    {"fact": "Rara is Nepal's largest lake, with a surface of 10.8 sq km and a maximum depth of 167 m. It is about 5 km long and 3 km wide, and drains into the Mugu Karnali through the Nijar river.", "source": "Wikipedia: Rara National Park"},
+    {"fact": "The Rara snowtrout (Schizothorax raraensis) is found only in Rara Lake, as is the Rara Lake frog (Nanorana rarica). Both were described from specimens collected at the lake in 1979.", "source": "Wikipedia: Rara Lake; Rara National Park"},
+    {"fact": "When Rara National Park was created in 1976, the people of the two lakeshore villages, Rara and Chhapru, were resettled to the Terai. At 106 sq km, Rara remains Nepal's smallest national park.", "source": "Wikipedia: Rara Lake; Rara National Park"}
+  ],
+  "local_words": [
+    {"word": "Danphe", "script": "डाँफे", "lang": "Nepali", "meaning": "Himalayan monal, Nepal's national bird, seen in Rara's forest"},
+    {"word": "Daha", "script": "दह", "lang": "Nepali", "meaning": "A deep lake or pool"},
+    {"word": "Lekh", "script": "लेक", "lang": "Nepali", "meaning": "High forested ridge or hill pasture"}
+  ],
+  "taste": {"name": "Aalu with timur achar", "text": "Boiled or roasted potatoes from Mugu's fields, served with a fiery pickle of chilli, salt and timur, the tingling Himalayan pepper gathered in Karnali forests. Lodges around Rara serve it as a snack with tea, and potatoes with dal and rice are the staple meal here."},
+  "facts": [
+    ["Best months", "Apr – May, Sep – Nov"],
+    ["Days we suggest", "2–3 at the lake"],
+    ["Nearest airport", "Talcha (Rara Airport), 2–3 h walk"],
+    ["From Kathmandu", "Flights via Nepalgunj; 2 days with good connections"],
+    ["Altitude", "2,990 m"],
+    ["Known for", "Nepal's largest lake, Murma Top, quiet forest"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "The shore walk", "text": "A trail runs right round the lake through pine and spruce forest and open meadows. At a steady pace it takes most of a day, with constantly changing views across the water and almost nobody else on the path."},
+    {"title": "Sunrise from Murma Top", "text": "Murma, a 3,630 m viewpoint above the lake, gives the classic view of Rara with snow peaks on the skyline behind. Start in the dark from the lakeshore and climb for two to three hours to catch the first light."},
+    {"title": "Waterbirds in autumn", "text": "Coots live on the lake year-round, and from autumn to spring great crested and black-necked grebes, red-crested pochards, mallards, teal and common mergansers arrive. Scan the bays at dawn with binoculars."},
+    {"title": "Forest wildlife", "text": "Rara's forest holds 51 recorded mammal species, including red panda, musk deer, Himalayan black bear and Himalayan tahr. Danphe and kalij pheasant are often heard at dawn. Sightings are a matter of luck and quiet walking."},
+    {"title": "The trek in from Jumla", "text": "The classic way to reach Rara is three to four days on foot from Jumla, over high passes and through Khas villages, pine forest and pasture. Arriving on foot gives the lake the welcome it deserves."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu to Nepalgunj (about 1 hour), then take a small-plane flight to Talcha, Rara Airport, in Mugu, usually in the morning. From Talcha it is a 2–3 hour walk, climbing gently through forest, to the lakeshore. Flights are weather-dependent and not daily in every season; check current status before you travel."},
+    {"mode": "Road", "text": "Jeeps and buses run from Nepalgunj and Surkhet up the Karnali Highway and on to Gamgadhi, Mugu's headquarters, in about two days. From the road head it is a few hours on foot or by local jeep to the lake. The roads are rough and often blocked by landslides in the monsoon."},
+    {"mode": "On foot", "text": "Trek from Jumla in three to four days via Chere Chaur and the Danphe Lagna pass, or follow longer routes through Sinja. Since April 2023 foreign trekkers in national parks need a licensed guide; check current status before you travel."}
+  ],
+  "where_to_stay": "There is no village on the lakeshore, but a small number of simple lodges and guesthouses stand near the park headquarters and on the approach from Talcha, with twin rooms, shared toilets and dal bhat. Electricity is from solar panels and there is no heating, so bring a good sleeping bag. In the busy autumn season, lodges can fill with domestic groups; book through an agency or carry tents. Many organised treks camp at designated sites on the shore with park permission.",
+  "stays": [],
+  "tips": [
+    "Allow at least one spare day for flights to and from Talcha, which are often delayed by cloud.",
+    "Bring a four-season sleeping bag in October and November; nights fall below freezing.",
+    "Carry enough cash in Nepali rupees from Nepalgunj; there are no ATMs at the lake.",
+    "Do not swim or wash with soap in the lake; it is protected and the park staff enforce the rules.",
+    "Pay the national park entry fee at the park office and carry your permit; check current status before you travel."
+  ],
+  "themes": ["lakes-and-rivers", "treks-and-trails", "high-altitude", "photography"],
+  "nearby": ["jumla", "sinja-valley", "simikot"],
+  "experiences": [
+    {
+      "slug": "rara-lake-shore-circuit",
+      "title": "Walk the full shore of Rara in a day",
+      "kind": "trek",
+      "duration": "5–7 hours",
+      "best_time": "Morning start, Apr–May and Sep–Nov",
+      "image_query": "Rara Lake shore forest trail",
+      "wiki": "",
+      "summary": "Follow the trail right around Nepal's largest lake through blue pine and spruce forest and open meadows, with the water changing colour beside you and long stretches with no one else in sight.",
+      "body": [
+        "The shore trail is the best way to understand Rara's size. Starting near the park headquarters, it winds through stands of blue pine, spruce and juniper, crosses open meadows where the old village fields once lay, and dips to small beaches and rocky points where you can stop and look across the water.",
+        "The full loop is roughly 13 km with gentle ups and downs, and most people take five to seven hours with breaks. On the north side the forest is darker and quieter; on the south the views open to the high ridge of Chuchemara. Listen for danphe and woodpeckers, and look for coots and grebes on the water.",
+        "Carry water, a packed lunch from your lodge, a warm layer and a rain jacket, as weather changes quickly at 3,000 m. A licensed guide must accompany foreign trekkers in the park under current rules. Start early in autumn, when afternoons turn cold and the light fades soon after 5 pm."
+      ],
+      "good_for": ["trekkers", "couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "How long does it take to walk around Rara Lake?", "a": "Most people take five to seven hours for the full loop of roughly 13 km, including stops for photos and lunch. The trail has gentle climbs and descents but no steep sections. Fit walkers can do it faster, but there is no reason to hurry."},
+        {"q": "Is the Rara shore trail difficult?", "a": "No. It is a moderate walk at almost 3,000 m, with some short climbs, roots and muddy patches after rain. The altitude makes it feel harder than the same walk at sea level, so go slowly and drink plenty of water. Most reasonably fit walkers manage it comfortably."},
+        {"q": "Can I swim in Rara Lake?", "a": "No. Swimming and bathing are not allowed, as the lake is protected inside a national park, and the water is very cold. Enjoy it from the shore. Park and army staff patrol the lake and enforce the rules."}
+      ]
+    },
+    {
+      "slug": "rara-murma-top-sunrise",
+      "title": "Sunrise over Rara from Murma Top",
+      "kind": "trek",
+      "duration": "4–5 hours return",
+      "best_time": "Pre-dawn start, Oct–Nov and Apr–May",
+      "image_query": "Murma Top Rara Lake view",
+      "wiki": "",
+      "summary": "Climb in the dark to Murma, a 3,630 m viewpoint above Rara, to watch the sun light up the lake and the snow peaks on the northern skyline. The picture of Rara that most Nepalis know.",
+      "body": [
+        "Murma is the high point on the ridge above the lake, at 3,630 m. The climb from the lakeshore lodges gains about 640 m on forest and meadow trails, and most people take two to three hours up, starting by headtorch to reach the top just before sunrise.",
+        "From the top you see the whole of Rara spread below, often with a band of mist lying on the water, and on clear mornings a long line of snow peaks to the north and west across Mugu and Humla. As the sun rises the lake changes from slate to silver to deep blue. It is cold, often below freezing, until the sun warms the ridge.",
+        "Carry a down jacket, gloves, a hat, a thermos of tea and some breakfast. A guide is essential in the dark; the trails branch through the forest. Come back down by mid-morning for a late breakfast at your lodge."
+      ],
+      "good_for": ["photographers", "trekkers", "couples", "solo"],
+      "faqs": [
+        {"q": "How high is Murma Top?", "a": "Murma is about 3,630 m, roughly 640 m above Rara Lake. The climb takes two to three hours from the lakeshore, and the descent about one and a half. It is the best viewpoint for seeing the whole lake with mountains behind."},
+        {"q": "Do I need a guide for Murma Top?", "a": "Yes. Under current rules foreign trekkers in national parks need a licensed guide, and in the dark the forest trails are easy to lose. Your guide will also judge the weather and choose the right path. Check current status before you travel."},
+        {"q": "Is Murma Top worth climbing if it is cloudy?", "a": "On cloudy mornings the mountain views may be hidden, but the lake often shows through gaps and mist can make it very atmospheric. If the forecast is poor, your guide may suggest waiting a day. In October and November clear mornings are common."}
+      ]
+    },
+    {
+      "slug": "rara-autumn-waterbirds",
+      "title": "Grebes, pochards and coots on the lake",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Dawn, Oct–Nov and Mar–Apr",
+      "image_query": "Black-necked grebe lake Nepal",
+      "wiki": "",
+      "summary": "Spend an early morning with binoculars on Rara's quiet bays, watching coots, grebes and wintering ducks on the largest lake in Nepal, with musk deer and danphe possible in the forest behind.",
+      "body": [
+        "Rara National Park has 241 recorded bird species, 49 of them wetland birds. Coots are seen on the lake year-round, bobbing in loose flocks in the sheltered bays. From autumn the lake receives great crested and black-necked grebes, red-crested pochards, mallards, common teal and common mergansers.",
+        "The best way to see them is to walk to a quiet point on the shore at dawn, when the water is calm and the birds are close. Sit, scan with binoculars, and let the light come up. In the forest behind you may hear danphe, kalij pheasant and blood pheasant, and on lucky mornings a musk deer slips through the trees.",
+        "In midwinter heavy snow often closes the trails to the lake, so the best birding windows are late October to November and again in March and April as birds pass through. Bring binoculars, a warm hat and gloves."
+      ],
+      "good_for": ["photographers", "seniors", "solo", "couples"],
+      "faqs": [
+        {"q": "What birds can I see at Rara Lake?", "a": "Coots are present year-round. From autumn come great crested and black-necked grebes, red-crested pochards, mallards, teal and common mergansers. In the forest look for danphe, kalij pheasant, blood pheasant and Himalayan snowcock higher up. The park has 241 recorded species."},
+        {"q": "When is the best time for birdwatching at Rara?", "a": "Late October and November, after the monsoon and before heavy snow, and March to April as birds move through. December to February brings snow that often blocks access. Mornings are best, when the lake is calm."},
+        {"q": "Can I see red panda at Rara?", "a": "Red panda is recorded in Rara National Park, but sightings are rare and usually involve luck or a long search with a local guide in the right forest. Musk deer and langur monkeys are seen more often. Do not plan a trip around red panda here."}
+      ]
+    },
+    {
+      "slug": "rara-trek-from-jumla",
+      "title": "Trek to Rara from Jumla over the passes",
+      "kind": "trek",
+      "duration": "3–4 days one way",
+      "best_time": "Apr–May, Sep–Nov",
+      "image_query": "Jumla Rara trek trail",
+      "wiki": "",
+      "summary": "Walk to Rara the old way, three to four days from Jumla through Khas villages, pine forest and high pastures, crossing passes over 3,500 m before the lake appears below you.",
+      "body": [
+        "The Jumla to Rara trek is the classic approach and still the most rewarding. From Jumla's Khalanga bazaar the trail climbs through apple orchards and pine forest to the meadows of Chere Chaur, then over the Danphe Lagna pass, which is well over 3,500 m, before dropping through villages to the Mugu side.",
+        "On the way you pass stone villages with flat roofs, where families thresh barley on the rooftops and stack firewood for winter, and small shrines to the Masto gods. Nights are spent in simple teahouses or tents. The last day brings you over a ridge to the first view of Rara, and then down through forest to the shore.",
+        "It is a moderate trek with long days and few facilities, and it needs a licensed guide. Many people fly out from Talcha after two nights at the lake, or walk back to Jumla by a different route through Sinja. Allow eight to ten days from Kathmandu in total."
+      ],
+      "good_for": ["trekkers", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "How difficult is the Jumla to Rara trek?", "a": "It is moderate: three to four days with five to seven hours of walking a day and passes above 3,500 m. Facilities are basic and the trail is remote, so you need good fitness and some trekking experience. There are no technical sections."},
+        {"q": "Can I stay in teahouses on the Rara trek?", "a": "Partly. Simple teahouses and village homes offer rooms and dal bhat on most stages, but standards are basic and some stops may need tents. Most agencies run the route as a supported camping or mixed trek. Book through a licensed agency."},
+        {"q": "How many days does a Rara trek take from Kathmandu?", "a": "Allow eight to ten days: fly to Nepalgunj and Jumla, trek three to four days to Rara, spend one or two nights at the lake, and fly out from Talcha to Nepalgunj and Kathmandu. Add a spare day for flight delays."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get to Rara Lake?", "a": "The quickest way is to fly Kathmandu to Nepalgunj, then Nepalgunj to Talcha (Rara Airport), and walk 2–3 hours to the lake. The classic way is to fly to Jumla and trek three to four days. Rough roads via Surkhet and the Karnali Highway also reach Mugu, but take about two days."},
+    {"q": "What is the best time to visit Rara Lake?", "a": "Late September to November gives the clearest skies and deepest colours, and April to May brings spring flowers and mild days. From December to March snow often blocks the trails and lodges close. June to August is the monsoon, with cloud and leeches."},
+    {"q": "Is Rara Lake the largest lake in Nepal?", "a": "Yes. Rara is Nepal's largest lake, with a surface of 10.8 sq km and a maximum depth of 167 m, at 2,990 m in Mugu district. It is bigger than Phewa in Pokhara and much deeper."},
+    {"q": "Do I need a permit for Rara Lake?", "a": "You need to pay the entry fee for Rara National Park, at the park office or through your agency. Since April 2023 foreign trekkers in national parks must walk with a licensed guide. Fees and rules change; check current status before you travel."},
+    {"q": "Is there accommodation at Rara Lake?", "a": "Yes, a few simple lodges and guesthouses near the park headquarters and on the approach from Talcha, plus designated camping sites. Rooms are basic, with shared toilets and no heating. In October and November they can fill with domestic groups, so book ahead."},
+    {"q": "How cold is Rara Lake?", "a": "In October nights drop to around freezing and days reach about 15–18 °C in sun. By November nights are well below freezing. In April and May days are mild, about 15–20 °C, with cold nights. Bring a down jacket and a four-season sleeping bag."},
+    {"q": "Is Rara Lake affected by altitude sickness?", "a": "At 2,990 m some people feel mild symptoms such as headache or poor sleep, especially if they fly straight in to Talcha from the plains. Take it easy on the first day, drink plenty of water and avoid alcohol. Serious altitude sickness is uncommon at this height, but descend if symptoms worsen."},
+    {"q": "Why are flights to Rara often delayed?", "a": "Talcha is a small mountain airstrip that only operates in good visibility. Cloud, wind or rain at Nepalgunj or Talcha can ground flights, sometimes for several days. Flights also may not run daily outside the main seasons. Always build at least one spare day into a Rara trip."},
+    {"q": "Can I combine Rara with Jumla or Bardia?", "a": "Yes. A popular plan is to fly into Jumla, visit Sinja, trek to Rara and fly out from Talcha. Because all flights pass through Nepalgunj, it is easy to add three nights in Bardia, two hours away, before or after the mountains."}
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "nepal-first-timer-kathmandu-pokhara-chitwan-9n",
+  "title": "Nepal first-timer: Kathmandu, Pokhara, Chitwan",
+  "region": "kathmandu-valley",
+  "kind": "tour",
+  "nights": 9,
+  "themes": [
+    "heritage-and-temples",
+    "wildlife-and-jungle",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 3
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    },
+    {
+      "place": "sauraha",
+      "nights": 2
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 1500,
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1600,
+  "meta_description": "9 nights for a first trip to Nepal: Kathmandu's temples and stupas, Pokhara's lake and Annapurna sunrise, and rhino country in Chitwan, with a private guide.",
+  "summary": "The classic first trip to Nepal in nine nights: three in Kathmandu for the Durbar squares, stupas and Pashupatinath, three in Pokhara for Phewa Lake, Annapurna sunrise from Sarangkot and a walk to a Gurung village, and two in Chitwan for canoe, jeep and walking safaris in one-horned rhino country.",
+  "intro": [
+    "Most people come to Nepal for the mountains and leave talking about the people, the temples and the food as well. This journey puts the three things a first-timer should see into nine nights without long hard days: the Newar cities and great stupas of the Kathmandu Valley, the lake and Annapurna views of Pokhara, and the sal forest and grasslands of Chitwan National Park. None of it needs trekking fitness.",
+    "You fly the 25 minutes from Kathmandu to Pokhara rather than spend a day on the highway, drive the scenic 5–6 hours down to Chitwan along the Trishuli and Narayani valleys, and fly back to Kathmandu from Bharatpur. Hotels are good four-star or boutique properties: Hotel Shanker in a Rana-era palace, Temple Tree Resort in Pokhara's Lakeside and Green Park in Sauraha, a short walk from the Rapti river. Every day has a free afternoon or evening."
+  ],
+  "story": "The trip opens in the brick and timber cities of the Kathmandu Valley, where Malla kings built palaces and temples and where the stupas of Swayambhu and Boudha gather pilgrims every morning. Then the land drops and the mountains come close. In Pokhara, at about 820 m, the Annapurna range and the fishtail peak of Machhapuchhre rise straight up behind the lake, and dawn at Sarangkot shows the whole wall at once. A Gurung village walk shows how hill farmers live below them. Finally the road follows the rivers down to the Terai, the plains at the foot of the hills, where Tharu villages sit beside the forest and one-horned rhinos graze along the Rapti at dusk.",
+  "highlights": [
+    "Kathmandu, Patan and Bhaktapur Durbar squares, Swayambhu, Boudha and Pashupatinath",
+    "Sunrise over Annapurna and Machhapuchhre from Sarangkot",
+    "A rowing boat on Phewa Lake to the island temple of Tal Barahi",
+    "A walk up to the Gurung village of Dhampus",
+    "Dugout canoe on the Rapti river and a jeep safari in Chitwan National Park"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Hotel Shanker, Lazimpat",
+      "alt_m": 1400,
+      "move": "≈ 7 km · 30 min from the airport",
+      "text": "We meet you at Tribhuvan International Airport and drive to Hotel Shanker in Lazimpat, a white neoclassical palace built for a Rana family and later turned into a hotel. Rest after the flight in the garden. In the late afternoon your guide walks you to Thamel and the old market of Asan, ten minutes away, to change money, buy a local SIM card and get your bearings. Dinner together at a Nepali restaurant, with a briefing on the days ahead and the traffic, weather and etiquette tips that make the rest of the trip easier.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Kathmandu Durbar Square, Swayambhu, Patan",
+      "place": "kathmandu",
+      "overnight": "Hotel Shanker, Lazimpat",
+      "alt_m": 1400,
+      "move": "≈ 15 km of city driving in short hops",
+      "text": "Begin at Kathmandu Durbar Square with the Taleju temple, Kal Bhairav, the rebuilt Kasthamandap and the Kumari Ghar, home of the living goddess. Drive up to Swayambhunath, the stupa on the hill west of the city, for the prayer wheels, the monkeys and the long view across the valley. After lunch cross the Bagmati to Patan. The Durbar Square here is the most complete in the valley: stone Krishna Mandir of 1637, the palace courtyards and the Patan Museum, where an hour explains more about Nepali art than a week of reading.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Pashupatinath, Boudha and Bhaktapur",
+      "place": "bhaktapur",
+      "overnight": "Hotel Shanker, Lazimpat",
+      "alt_m": 1400,
+      "move": "≈ 30 km round trip",
+      "text": "Early morning at Pashupatinath, the holiest Shiva temple in Nepal. Non-Hindus watch from the east bank of the Bagmati, across from the cremation ghats, while your guide explains the rites. Walk on to Boudhanath and join the clockwise kora around the great stupa among Tibetan families and monks. After lunch drive east to Bhaktapur, the best preserved of the three old royal cities. Climb the Nyatapola temple steps, visit the potters' square and eat juju dhau, the sweet curd of the city, before driving back for the night.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Fly to Pokhara, boat on Phewa Lake",
+      "place": "pokhara",
+      "overnight": "Temple Tree Resort & Spa, Lakeside",
+      "alt_m": 822,
+      "move": "≈ 25 min flight; or ≈ 200 km · 6–8 h by road",
+      "text": "Morning flight to Pokhara, about 25 minutes, with the Himalaya on the right side of the plane on clear days. Check in to Temple Tree Resort in Lakeside, built in stone and timber around a garden pool. In the afternoon walk along the lakeshore and take a painted wooden boat to the island temple of Tal Barahi, dedicated to a form of the goddess Durga. Locals row out on Saturdays with offerings. Sunset from the lakeshore, with paragliders landing on the far side, and dinner at one of the Lakeside restaurants.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Sarangkot sunrise and the Peace Pagoda",
+      "place": "sarangkot",
+      "overnight": "Temple Tree Resort & Spa, Lakeside",
+      "alt_m": 822,
+      "move": "≈ 13 km · 30 min drive to Sarangkot",
+      "text": "Leave before dawn for Sarangkot, the ridge at about 1,600 m above the lake. As light comes, the Annapurna range turns gold from Dhaulagiri in the west to Lamjung in the east, with Machhapuchhre, the fishtail mountain, right in front. Back for breakfast, then visit the International Mountain Museum to understand the peaks you have just seen. In the afternoon cross the lake by boat and walk up to the white World Peace Pagoda on the southern ridge, built by Japanese Buddhist monks, for the best view back over Pokhara.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Walk to the Gurung village of Dhampus",
+      "place": "dhampus",
+      "overnight": "Temple Tree Resort & Spa, Lakeside",
+      "alt_m": 822,
+      "move": "≈ 20 km · 45 min drive; ≈ 2 h walk up · +450 m",
+      "text": "Drive to Phedi on the Baglung road and walk up a stone staircase and forest trail to Dhampus, a Gurung and Brahmin village at about 1,650 m on a ridge facing the Annapurnas. Many Gurung families here have a son or grandfather who served in the British or Indian Gurkhas. Lunch at a village lodge, with dal bhat and the mountains in front. Walk back down the same way or by a quieter path, and drive to Pokhara. Paragliding from Sarangkot is a popular option for the afternoon instead, if weather allows.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 7,
+      "title": "Down the rivers to Chitwan",
+      "place": "sauraha",
+      "overnight": "Green Park Chitwan, Sauraha",
+      "alt_m": 175,
+      "move": "≈ 155 km · 5–6 h drive",
+      "text": "The road leaves Pokhara on the Prithvi Highway, then turns south at Mugling to follow the Trishuli and Narayani rivers down through the last hills. The air grows warm and the forest changes from pine to sal. Reach Sauraha by mid-afternoon and check in to Green Park, near the edge of Chitwan National Park. In the late afternoon walk through a Tharu village, where houses are plastered with mud and painted, and watch the sun set over the Rapti river. Some evenings there is a Tharu stick dance in the village hall.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Canoe, jungle walk and jeep safari",
+      "place": "sauraha",
+      "overnight": "Green Park Chitwan, Sauraha",
+      "alt_m": 175,
+      "move": "On foot, by canoe and by jeep",
+      "text": "At first light float down the Rapti in a dugout canoe carved from a single silk-cotton trunk, watching for mugger crocodiles, gharial and kingfishers. Land on the far bank for a guided walk through grassland and forest, then visit the elephant breeding centre. After lunch take a jeep safari into the park, about four hours through sal forest and tall grass. One-horned rhinos are seen on most drives, along with spotted deer, wild boar and many birds. Tigers live here but are rarely seen. Dinner at the lodge.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Birds at dawn, fly back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Hotel Shanker, Lazimpat",
+      "alt_m": 1400,
+      "move": "≈ 20 km to Bharatpur; ≈ 20 min flight",
+      "text": "Early bird walk along the river and community forest edge, when hornbills, bee-eaters and peacocks are most active. After breakfast drive to Bharatpur airport for the short flight to Kathmandu, or drive the 5–6 hours if you prefer the road. The afternoon is free for shopping in Thamel or Patan, where you will find pashmina, singing bowls, thangka paintings and tea. Farewell dinner in a restored Newar house with a set Nepali meal.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Fly home",
+      "place": "kathmandu",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 7 km · 30 min to the airport",
+      "text": "A last morning in Kathmandu. If your flight is late, walk to the Garden of Dreams, a restored neoclassical garden next to Thamel built by a Rana field marshal, for a quiet coffee, or visit the Narayanhiti Palace Museum, the former royal palace. Your driver collects you three hours before your international flight and takes you to Tribhuvan International Airport, about 30 minutes away depending on traffic. Remember to keep some Nepali rupees for airport snacks; they cannot be changed back easily abroad.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu",
+    "temple-tree-resort",
+    "green-park-chitwan"
+  ],
+  "includes": [
+    "4 nights at Hotel Shanker, 3 nights at Temple Tree Resort & Spa and 2 nights at Green Park Chitwan, twin sharing",
+    "Breakfast daily; full board in Chitwan; meals listed in the itinerary",
+    "Flights Kathmandu–Pokhara and Bharatpur–Kathmandu",
+    "Licensed English-speaking guides in Kathmandu and Pokhara, and a licensed naturalist in Chitwan",
+    "Private car or van for all transfers and the Pokhara–Chitwan drive",
+    "Entry fees to heritage sites and Chitwan National Park, canoe, jungle walk and jeep safari"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee",
+    "Lunches and dinners not listed",
+    "Paragliding and other optional activities",
+    "Tips for guides, naturalists and drivers",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Domestic flights in Nepal have a 15–20 kg checked baggage allowance; pack accordingly.",
+    "Chitwan National Park rules require a licensed nature guide for all activities inside the park; check current status before you travel.",
+    "Mountain views from Pokhara are most reliable from October to early December and in February–March.",
+    "From June to August many Chitwan lodges reduce activities and jeep safaris may be limited by flooding.",
+    "If a domestic flight is cancelled for weather, we switch to the road and adjust the days."
+  ],
+  "faqs": [
+    {
+      "q": "Is 9 nights enough for a first trip to Nepal?",
+      "a": "Nine nights is a good first trip if you do not plan a trek. It covers the three most visited areas, Kathmandu, Pokhara and Chitwan, with a rest built into each. If you want a short trek, add 3–4 nights for Poon Hill or the Mardi Himal trail from Pokhara. If you want slower days, add a night in Bandipur between Pokhara and Chitwan."
+    },
+    {
+      "q": "Should I fly or drive from Kathmandu to Pokhara?",
+      "a": "Fly if you can. The flight takes about 25 minutes, against 6–8 hours on the Prithvi Highway, which is often slowed by roadworks and trucks. The flight also gives mountain views on clear mornings. The road suits people who want to see the hill country and stop in Bandipur or Gorkha on the way. Flights can be delayed by weather, so we keep the day flexible."
+    },
+    {
+      "q": "Will I see a rhino and a tiger in Chitwan?",
+      "a": "One-horned rhinos are seen on most jeep safaris and often from the canoe or on the riverbank at dusk. Tigers live in Chitwan but are shy and mostly nocturnal, so sightings are a matter of luck, more likely in the hot dry months of March to May when grass is cut and animals come to water. Our naturalists also point out deer, crocodiles, monkeys and birds."
+    },
+    {
+      "q": "Is this Nepal tour suitable for families with children?",
+      "a": "Yes. The pace is relaxed, there is no high altitude, and the boat rides, monkeys at Swayambhu and Chitwan safaris work well for children. We can add family rooms, shorter sightseeing blocks and a pool day in Pokhara. Children under about six may find the long jeep safari tiring, so we can swap it for a shorter drive or a walk."
+    },
+    {
+      "q": "What is the best time for a Kathmandu, Pokhara and Chitwan tour?",
+      "a": "October to early December and February to April are the best months. Autumn has the clearest mountain views; spring brings warm days, rhododendrons and good wildlife viewing in Chitwan. December and January are fine but foggy in Chitwan mornings. June to August is monsoon: hot, wet, cloudy and with limited safaris, so we do not recommend this route then."
+    },
+    {
+      "q": "Do I need a visa for Nepal?",
+      "a": "Most nationalities get a tourist visa on arrival at Tribhuvan International Airport, or can apply online before travel. Fees are charged by length: 15, 30 or 90 days. Indian citizens do not need a visa. Bring a passport valid for at least six months and some cash in US dollars for the fee. Rules change, so check current status before you travel."
+    },
+    {
+      "q": "How much does a 9-night Nepal tour cost?",
+      "a": "This journey starts from about USD 1,500 per person, twin sharing, with the four-star and boutique hotels named, breakfast daily, full board in Chitwan, both domestic flights, private transport, licensed guides and entry fees. Luxury upgrades, such as Dwarika's in Kathmandu and Tiger Mountain Pokhara Lodge, raise the price. Solo travellers pay a single supplement."
+    },
+    {
+      "q": "Can I trek on this itinerary?",
+      "a": "Day 6 includes a gentle walk to Dhampus, which gives a taste of trekking trails and Gurung villages. For more, we can add a 3–4 night Poon Hill or Mardi Himal trek from Pokhara. Note that since April 2023 foreign trekkers in national parks and conservation areas must walk with a licensed guide; check current status before you travel."
+    },
+    {
+      "q": "What kind of food will I eat on this Nepal tour?",
+      "a": "Dal bhat, the rice, lentil and vegetable set meal, is eaten everywhere. In Kathmandu you also try Newar dishes like bara and choila and the famous momo dumplings. Pokhara's Lakeside has international restaurants as well as Nepali kitchens. In Chitwan, lodge meals are a mix of Nepali and continental, and some lodges serve Tharu dishes such as ghonghi, river snails in curry."
+    }
+  ]
+}

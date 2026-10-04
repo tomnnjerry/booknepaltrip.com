@@ -1,0 +1,15 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}: distance, time and options · Book Nepal Trip{% endblock %}
+{% block description %}{{ rt.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %} data-land="{{ rt.region }}"{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Route · {{ rt.region_obj.name }}</p><h1 class="h-xl">{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</h1><p class="lede">{{ rt.summary }}</p><div class="readouts" style="max-width:760px"><div><span class="mono">{% icon "route" %}Distance</span><b>≈ {{ rt.distance_km }} km</b></div><div><span class="mono">{% icon "altitude" %}From</span><b>{{ rt.from_obj.altitude_m|num }} m</b></div><div><span class="mono">{% icon "altitude" %}To</span><b>{{ rt.to_obj.altitude_m|num }} m</b></div></div></div></header>
+<section class="sec" style="padding-top:20px"><div class="wrap split">
+  <div><div class="reach">{% for o in rt.options %}<div><span class="badge">{% icon o.mode|mode_icon %}</span><div><b>{{ o.mode }} · {{ o.time }}</b><p>{{ o.text }}</p></div></div>{% endfor %}</div>
+  {% if rt.stops_on_way %}<h2 class="h-m" style="margin-top:1.4em">Worth a stop on the way</h2><ul class="tips">{% for s in rt.stops_on_way %}<li>{{ s }}</li>{% endfor %}</ul>{% endif %}
+  {% if rt.tip %}<div class="panel panel--leaf" style="margin-top:24px"><p class="mono" style="color:var(--sindoor-2)">Local tip</p><p style="margin:0">{{ rt.tip }}</p></div>{% endif %}
+  <h2 class="h-m" style="margin-top:1.4em">Questions</h2>{% include "yatra/partials/faq.html" with faqs=rt.faqs %}</div>
+  <aside class="split__aside">{% atlas map_points rt.region True %}<div class="grid grid--2">{% with p=rt.from_obj %}{% include "yatra/partials/card_place.html" %}{% endwith %}{% with p=rt.to_obj %}{% include "yatra/partials/card_place.html" %}{% endwith %}</div></aside>
+</div></section>
+{% endblock %}
+{% block cta %}{% include "yatra/partials/cta.html" with land=rt.region %}{% endblock %}

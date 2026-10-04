@@ -1,0 +1,46 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Altitude and air in Nepal: oxygen, boiling point, height · Book Nepal Trip{% endblock %}
+{% block description %}Type any height in Nepal and see how much oxygen each breath carries, where water boils and which places on our trips sit at that height.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Trip tool</p><h1 class="h-xl">Altitude and air</h1><p class="lede">Type a height. We work out the air from the standard atmosphere: real days vary with weather, and none of this replaces advice from your doctor.</p></div></header>
+<section class="wrap split" style="padding:10px 0 90px">
+  <div>
+    <div class="field" style="max-width:420px"><label for="alt-in">Height in metres</label><input id="alt-in" type="range" min="59" max="8849" step="1" value="3440" style="padding:0"><input id="alt-num" type="number" min="59" max="8849" value="3440" inputmode="numeric"></div>
+    <div class="readouts" aria-live="polite">
+      <div><span class="mono">{% icon "altitude" %}Height</span><b id="o-h">–</b><small id="o-belt"></small></div>
+      <div><span class="mono">{% icon "oxygen" %}Each breath</span><b id="o-o">–</b><small>of the oxygen at sea level</small></div>
+      <div><span class="mono">{% icon "kettle" %}Water boils</span><b id="o-b">–</b><small>pressure cookers exist for a reason</small></div>
+      <div><span class="mono">{% icon "thermo" %}vs Kathmandu</span><b id="o-t">–</b><small>typical difference by height</small></div>
+    </div>
+    <h2 class="h-m">Places near this height</h2><div class="rows" id="o-places"></div>
+  </div>
+  <aside class="split__aside"><div class="panel panel--leaf"><p class="mono" style="color:var(--sindoor-2)">Rules of thumb</p><ul class="tips"><li>Above 3,000 m, raise your sleeping height by no more than 300–500 m a day.</li><li>Take a rest day for every 1,000 m or so you climb.</li><li>Headache with nausea, dizziness or poor sleep at height: stop climbing.</li><li>If symptoms get worse, go down. Descent is the treatment.</li></ul></div>
+  <div class="panel"><p class="eyebrow">A few reference points</p>{% for s in sample %}<p style="margin:0 0 6px"><b>{{ s.n }}</b> · {{ s.a|num }} m · {{ s.oxygen }}% oxygen · water boils at {{ s.boil }} °C</p>{% endfor %}</div></aside>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  var marks = {{ marks|safe }};
+  var belts = [[0,300,"Terai"],[300,1000,"Chure and Inner Terai"],[1000,2500,"Pahad"],[2500,4000,"Lekh"],[4000,9000,"Himal"]];
+  var $ = function (id) { return document.getElementById(id); };
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]; }); }
+  function calc(h) {
+    h = Math.max(59, Math.min(8849, +h || 59));
+    var ratio = Math.pow(1 - 2.25577e-5 * h, 5.25588);
+    var boil = 1 / (1 / 373.15 - 8.314 * Math.log(ratio) / 40650) - 273.15;
+    var dt = -(h - 1400) * 6.5 / 1000;
+    $("o-h").textContent = h.toLocaleString("en-US") + " m";
+    $("o-belt").textContent = belts.filter(function (b) { return h >= b[0] && h < b[1]; })[0][2];
+    $("o-o").textContent = Math.round(ratio * 100) + "%";
+    $("o-b").textContent = boil.toFixed(1) + " °C";
+    $("o-t").textContent = (dt > 0 ? "+" : "") + dt.toFixed(1) + " °C";
+    var near = marks.slice().sort(function (a, b) { return Math.abs(a.a - h) - Math.abs(b.a - h); }).slice(0, 6);
+    $("o-places").innerHTML = near.map(function (p) { return '<a class="row" href="' + esc(p.u) + '"><span class="row__alt">' + p.a.toLocaleString("en-US") + ' m</span><span><b>' + esc(p.n) + '</b></span><span></span></a>'; }).join("");
+  }
+  $("alt-in").addEventListener("input", function () { $("alt-num").value = this.value; calc(this.value); });
+  $("alt-num").addEventListener("input", function () { $("alt-in").value = this.value; calc(this.value); });
+  calc(3440);
+})();
+</script>
+{% endblock %}

@@ -1,0 +1,127 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Book Nepal Trip · Nepal trips, treks and tours, told by height{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero__ghost deva" aria-hidden="true">नेपाल</div>
+  <div class="wrap hero__grid">
+    <div>
+      <p class="eyebrow">Nepal · नेपाल · nine regions · one planner</p>
+      <h1 class="h-hero">A country that climbs <em>8,790 metres</em></h1>
+      <p class="lede">From rhino grass at 59 m to the summit of Sagarmatha at 8,849 m, in a country about 190 km from south to north. We plan private trips, treks and tours across all of it, and we tell you the story of every place you will sleep.</p>
+      <ul class="hero__facts"><li>Licensed local guides</li><li>Height of every night shown</li><li>No payment to start</li></ul>
+      <form class="finder" action="{% url 'plan' %}" method="get" data-cta-form="hero-finder">
+        <input type="hidden" name="from" value="/">
+        <label><span>Region</span><select name="land"><option value="">Anywhere in Nepal</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+        <label><span>Month</span><select name="month"><option value="">Flexible</option>{% for m in months_full %}<option value="{{ m }}"{% if forloop.counter0 == month_i %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
+        <button class="btn btn--sweep" type="submit" data-cta="hero-finder">Plan my trip</button>
+      </form>
+    </div>
+    <div class="prints" aria-hidden="false">
+      {% for r in hero_regions %}{% with i=r.images|first %}<figure class="photo photo--print" data-land="{{ r.slug }}">{% if forloop.first %}<span class="tape"></span>{% endif %}<div class="photo__frame">{% if i %}<img src="{{ i|src:500 }}" srcset="{{ i|srcset }}" sizes="(max-width: 1020px) 60vw, 26vw" alt="{{ r.name }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>{% else %}<div class="noimg">{% icon r.icon %}</div>{% endif %}</div><figcaption class="photo__credit">{{ r.name }}{% if i %} · <a href="{{ i.page }}" rel="noopener">{{ i|short_credit }}</a>{% endif %}</figcaption></figure>{% endwith %}{% endfor %}
+    </div>
+  </div>
+  <div class="wrap">
+    <figure class="xsec" data-xsec style="margin:clamp(26px,4vw,48px) 0 0">
+      <svg viewBox="0 0 {{ xs.w }} {{ xs.h }}" role="img" aria-label="Cross-section of Nepal from the Terai plains in the south to the Himalaya and the Tibetan plateau in the north">
+        <defs>
+          <linearGradient id="xs1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5E7D3C"/><stop offset=".3" stop-color="#7C8752"/><stop offset=".55" stop-color="#8E7A5A"/><stop offset=".75" stop-color="#7B7A80"/><stop offset=".86" stop-color="#C9D4DE"/><stop offset="1" stop-color="#A9A08E"/></linearGradient>
+          <linearGradient id="xs-snow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset=".35" stop-color="#fff" stop-opacity="0"/></linearGradient>
+        </defs>
+        {% for g in xs.grid %}<line class="xsec__axis" x1="0" x2="{{ xs.w }}" y1="{{ g.y }}" y2="{{ g.y }}"/><text class="xsec__axis-t" x="4" y="{{ g.y }}" dy="-5">{{ g.label }}</text>{% endfor %}
+        {% for l in xs.layers %}<path class="xsec__layer" d="{{ l.area }}" fill="{% if l.cls == 'l3' %}#D9CBB0{% elif l.cls == 'l2' %}#BFAE8C{% else %}url(#xs1){% endif %}"{% if l.cls != 'l1' %} opacity=".8"{% endif %}/>{% endfor %}
+        {% with l=xs.layers|last %}<path d="{{ l.area }}" fill="url(#xs-snow)" style="mix-blend-mode:screen"/><path class="draw" d="{{ l.line }}" fill="none" stroke="#1E1914" stroke-width="1.6"/>{% endwith %}
+        <g transform="translate({{ xs.peak.x }},{{ xs.peak.y }})"><path d="M0 0 V-34" stroke="#B3222A" stroke-width="1.5"/><path d="M0 -34 L18 -27 L7 -27 L18 -18 L0 -18 Z" fill="#B3222A"/><text x="24" y="-22" class="xsec__axis-t" style="font-size:12px;fill:#1E1914">Sagarmatha 8,849 m</text></g>
+        {% for b in xs.belts %}<g transform="translate({{ b.x }},{{ xs.h }})"><text class="xsec__belt-ne" y="-44" text-anchor="middle" fill="#FBF6EA" style="fill:#FBF6EA">{{ b.ne }}</text><text class="xsec__belt" y="-24" text-anchor="middle" style="fill:#FBF6EA">{{ b.name }}</text></g>{% endfor %}
+        <line class="xsec__cursor" x1="0" x2="0" y1="{{ xs.top }}" y2="{{ xs.h }}"/><circle class="xsec__dot" r="7" cx="0" cy="0"/>
+        <rect x="0" y="0" width="{{ xs.w }}" height="{{ xs.h }}" fill="transparent" data-xsec-hit/>
+      </svg>
+      <div class="xsec__read" aria-live="polite"><b data-r-alt>–</b><span data-r-belt></span><small data-r-like></small></div>
+      <figcaption class="xsec__note"><span>South · Terai, 59 m</span><span>Run a finger or cursor along the ridge: height, belt and a place you can sleep at that height</span><span>North · Tibetan plateau</span></figcaption>
+      <script type="application/json" id="xs-data">{"s": {{ xs_samples|safe }}, "w": {{ xs.w }}, "base": {{ xs.base }}, "top": {{ xs.top }}, "max": 8849, "places": {{ xs_places|safe }}, "belts": {{ xs_belts|safe }}}</script>
+    </figure>
+  </div>
+</section>
+
+<section class="sec--tight"><div class="wrap">{% include "yatra/partials/trust.html" %}</div></section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Nine regions</p><h2 class="h-l">Each region wears the colours it is known for</h2><p class="lede">Newar brick and temple gilt for the Kathmandu Valley, Phewa teal and alpenglow for Pokhara, glacier night and khata silver for Everest. Choose a colour, and a country follows.</p></div><a class="link-arrow" href="{% url 'lands' %}">Every region {% icon "arrow" %}</a></div>
+    <div class="rstack">{% for r in regions %}
+      <a class="rstrip rv" href="{{ r.url }}" data-land="{{ r.slug }}">
+        <span class="pennant">{% icon r.icon %}</span>
+        <span><span class="rstrip__pal">{{ r.palette }}</span><h3>{{ r.name }}</h3></span>
+        <p>{{ r.tagline }}</p>
+        <span class="rstrip__alt"><b>{{ r.alt_lo|num }} – {{ r.alt_hi|num }} m</b>best {{ r.best_label }}</span>
+        <span class="rstrip__ghost deva" aria-hidden="true">{{ r.name_ne }}</span>
+        {% with i=r.images|first %}{% if i %}<span class="rstrip__img"><img src="{{ i|src:500 }}" alt="" loading="lazy"></span>{% endif %}{% endwith %}
+      </a>{% endfor %}
+    </div>
+  </div>
+</section>
+
+{% if in_season %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">In season now</p><h2 class="h-l">{{ month }} is {{ bs_now.0.0 }} and {{ bs_now.1.0 }} in Nepal</h2><p class="lede">Nepal counts its year in Bikram Sambat, and each of our months straddles two of theirs. These places are rated best for {{ month }}.</p></div><a class="link-arrow" href="{% url 'seasons' %}">Seasons and calendar {% icon "arrow" %}</a></div>
+    <div class="grid grid--4">{% for p in in_season %}{% include "yatra/partials/card_place.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Trips we plan often</p><h2 class="h-l">Every card shows the shape of the trip</h2><p class="lede">The line under each title is the sleeping height of every night. Flat lines are tours; mountains are treks. Prices are from, per person, with a licensed guide.</p></div><a class="link-arrow" href="{% url 'journeys' %}">Every trip {% icon "arrow" %}</a></div>
+    <div class="grid grid--4">{% for j in featured %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec sec--dark" data-land="mustang-dolpo">
+  {% contours "home-untold" 14 %}
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Untold Nepal</p><h2 class="h-l">Things most travel sites never mention</h2><p class="lede">Every place on this site carries its own story, a legend, the words you will hear and a few true facts few people know. A sample:</p></div><a class="btn btn--foil" href="{% url 'untold' %}">Read them all</a></div>
+    <div class="grid grid--3">{% for u in untold %}<a class="panel rv" href="{{ u.url }}" style="background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.16);color:#fff;text-decoration:none" data-land="{{ u.region }}"><p class="mono" style="color:var(--accent)">{{ u.where }}</p><p style="color:#fff;font-size:1.05rem">{{ u.fact }}</p><p class="mono" style="opacity:.6;margin:0">Source · {{ u.source }}</p></a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if legend %}<section class="sec">
+  <div class="wrap wrap--narrow">
+    <p class="eyebrow">A legend from {{ legend.where }}</p>
+    <div class="pothi rv"><span class="pothi__rule pothi__rule--l"></span><span class="pothi__rule pothi__rule--r"></span><span class="mono">As it is told{% if legend.name_ne %} · {{ legend.name_ne }}{% endif %}</span><p>{{ legend.text }}</p></div>
+    <p class="center" style="margin-top:20px"><a class="link-arrow" href="{% url 'legends' %}">More legends, region by region {% icon "arrow" %}</a></p>
+  </div>
+</section>{% endif %}
+
+{% if words %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Words you will hear</p><h2 class="h-l">Learn five words before you land</h2></div><a class="link-arrow" href="{% url 'words' %}">The full word list {% icon "arrow" %}</a></div>
+    <div class="words">{% for w in words %}<a class="word" href="{{ w.url }}" style="text-decoration:none;color:inherit;--wc: {% cycle 'var(--lung-blue)' 'var(--lung-red)' 'var(--lung-green)' 'var(--lung-yellow)' '#B8B09A' %}"><span class="word__lang">{{ w.lang }}</span><div class="word__script">{{ w.script|default:w.word }}</div><div class="word__roman">{{ w.word }}</div><p>{{ w.meaning }}</p><span class="word__where">Heard in {{ w.where }}</span></a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Travel styles</p><h2 class="h-l">Choose how you like to travel</h2></div><a class="link-arrow" href="{% url 'themes' %}">Every style {% icon "arrow" %}</a></div>
+    <div class="grid grid--4">{% for t in themes %}<a class="card" href="{{ t.url }}" style="padding:20px;gap:10px"><span class="badge">{% icon t.icon %}</span><h3>{{ t.name }}</h3><p>{{ t.tagline }}</p></a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if festivals %}<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Coming up</p><h2 class="h-l">Festivals in the next few weeks</h2><p class="lede">Most follow the lunar calendar, so dates move every year. We confirm them before we build your days.</p></div><a class="link-arrow" href="{% url 'festivals' %}">The festival calendar {% icon "arrow" %}</a></div>
+    <div class="grid grid--4">{% for f in festivals %}{% include "yatra/partials/card_fest.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if posts %}<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Stories</p><h2 class="h-l">Read before you go</h2></div><a class="link-arrow" href="{% url 'journal' %}">Every story {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for d in posts %}{% include "yatra/partials/card_post.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+
+{% if guides %}<section class="sec sec--tight">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Guides</p><h2 class="h-m">Planning guides written region by region</h2></div><a class="link-arrow" href="{% url 'guides' %}">Every guide {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for g in guides %}{% include "yatra/partials/card_guide.html" %}{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% endblock %}

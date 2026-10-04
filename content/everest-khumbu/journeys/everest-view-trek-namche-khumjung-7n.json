@@ -1,0 +1,217 @@
+{
+  "slug": "everest-view-trek-namche-khumjung-7n",
+  "title": "Everest View Trek: Namche and Khumjung",
+  "region": "everest-khumbu",
+  "kind": "trek",
+  "nights": 7,
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 2
+    },
+    {
+      "place": "khumjung",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1350,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 3880,
+  "meta_description": "Everest View trek in 7 nights: Lukla, Namche Bazaar, Khumjung and a night at Hotel Everest View facing Everest and Ama Dablam. Guide, porter, from USD 1,350.",
+  "summary": "A short Everest trek for people with one week. You fly to Lukla, walk to Namche Bazaar, explore the Sherpa villages of Khumjung and Khumde and spend a night at Hotel Everest View at 3,880 m, where Everest, Lhotse and Ama Dablam fill the window. Seven nights, never above 3,900 m, licensed guide and porter.",
+  "intro": [
+    "Not everyone has three weeks or wants to sleep at 5,000 m. This trek gives you the Khumbu in miniature: the Lukla flight, the suspension bridges of the Dudh Koshi, the Sherpa market town of Namche, and a ridge with one of the classic views of Everest. The highest you sleep is 3,880 m, so altitude is manageable for most healthy adults, and the walking days are four to six hours.",
+    "The night at Hotel Everest View is the centre of the trip. Opened in 1971 by a Japanese developer on the ridge above Khumjung, it faces Everest across the Imja valley, with Ama Dablam to the right. Below it, Khumjung and Khumde are working Sherpa villages of potato fields and stone houses, with a monastery, a school founded by Edmund Hillary and the hospital his trust built in Khumde. We keep group sizes small so the lodges can look after you well."
+  ],
+  "story": "The first day is all river: pine forest, mani stones, the roar of the Dudh Koshi under swinging bridges. Then the climb to Namche, where the town spreads across its bowl and Thamserku seems to hang overhead. The second Namche day is gentle: museum, market, a short climb. Then you walk up past Syangboche's airstrip and suddenly the whole range is there, Everest, Lhotse, Ama Dablam, Thamserku, across the valley. Khumjung below is quieter than Namche, with children walking to Hillary's school in maroon jumpers and yaks wandering the lanes. Sleeping at Hotel Everest View, you see the last light leave the top of Everest from the terrace. Then down through the forest and back along the river, legs strong, two days to Lukla.",
+  "highlights": [
+    "A night at Hotel Everest View, 3,880 m, with Everest and Ama Dablam from the terrace",
+    "Namche Bazaar, the Sherpa market town, and its Saturday haat",
+    "Khumjung monastery and the school founded by Edmund Hillary in 1961",
+    "The Hillary suspension bridge high above the Dudh Koshi",
+    "A real Everest experience in one week, never sleeping above 3,900 m"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at Tribhuvan International Airport and drive you to your hotel. In the afternoon your guide visits to talk through the route and check your kit; for this trek you need good walking boots, a warm jacket for evenings and a sleeping bag for the teahouse nights. Your duffel for the porter should stay under 10 kg. If there is time, walk to Durbar Square or Asan for the evening market.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Lukla, walk to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 35 min flight · 3–4 h walk · −250 m",
+      "text": "The morning flight runs east along the Himalaya and lands on Lukla's short sloping runway, named Tenzing-Hillary Airport in 2008. After tea and meeting the porters, we walk gently downhill through Chheplung to Phakding, past carved mani stones and water-turned prayer wheels. Pass the mani walls on your right, as Sherpas do. Phakding is a row of lodges on the riverbank where you sleep lower than Lukla, an easy first night.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phakding to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 6 h walk · +830 m",
+      "text": "Upstream through Benkar to Monjo and the Sagarmatha National Park gate, then the river crossing at Jorsalle and the high Hillary bridge. The last two to three hours climb steadily through pine to Namche. Rest at the viewpoint halfway, where on a clear day you see the summit of Everest for the first time. Namche is the Sherpa capital of the Khumbu, with lodges, bakeries and shops stepped up a curved hillside.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "A slow day in Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 2–3 h short walks",
+      "text": "Today helps your body adjust. In the morning we climb to the national park visitor centre on the ridge above town for views of Thamserku and Kongde, and visit the Sherpa Culture Museum next door, set in a traditional house with a kitchen, prayer room and photos of early expeditions. If it is Saturday, the weekly market fills the lower terraces. The afternoon is free for coffee, bakeries and a stroll through the lanes.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Khumjung and Hotel Everest View",
+      "place": "khumjung",
+      "overnight": "Hotel Everest View",
+      "alt_m": 3880,
+      "move": "≈ 4–5 h walk with village visits · +440 m",
+      "text": "We climb past the Syangboche airstrip to the ridge and down into Khumjung, a wide village of stone houses and potato fields. Visit the gompa, which keeps a relic that villagers call the yeti scalp, and see the Khumjung School, opened by Hillary's Himalayan Trust in 1961. Next door is Khumde, with the hospital the trust built in 1966. In the afternoon we walk up to Hotel Everest View for sunset on Everest from the terrace.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Down to Phakding",
+      "place": "",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 6 h walk · −1,270 m",
+      "text": "Wake early for sunrise on Everest and Ama Dablam from your room or the terrace, then breakfast with the same view. We walk down to Namche for a tea stop and a last look at the shops, then descend the zigzag to the Hillary bridge and follow the river back through Monjo to Phakding. A long downhill day, easy on the lungs and harder on the knees; trekking poles help.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Phakding to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 3–4 h walk · +250 m",
+      "text": "A short morning walk back along the Dudh Koshi and up through Chheplung to Lukla. The afternoon is free; you can watch the planes land on the steep runway from the viewing spots by the airport wall, visit the small gompa or simply sit in a lodge garden with tea. Tonight is the time to thank your porter and guide, and your guide reconfirms the morning flight. Lukla has hot showers and a few good bakeries.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Fly Lukla to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "The morning flight returns you to Kathmandu, or in peak months to Ramechhap, from where we drive you back to the city in four to five hours. The trip ends on arrival in Kathmandu. Lukla flights are often delayed by cloud, so we strongly suggest keeping at least one spare night in Kathmandu before your international flight. We can arrange the hotel and an airport transfer. If the flight runs on time, an afternoon at Boudhanath is a good way to finish.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-everest-view",
+    "hotel-shanker-kathmandu"
+  ],
+  "includes": [
+    "Airport transfers and 1 night at Hotel Shanker, Kathmandu, twin sharing with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "1 night at Hotel Everest View with dinner and breakfast",
+    "5 nights in good teahouses, twin rooms, with three meals a day on trek",
+    "Licensed trekking guide and one porter for every two trekkers",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Guide and porter wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking and helicopter evacuation (required)",
+    "Hot showers, charging, Wi-Fi and drinking water on trek",
+    "Drinks, snacks and Kathmandu lunches and dinners",
+    "Extra Kathmandu nights in case of flight delays",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers in national parks must walk with a licensed guide; enforcement in Khumbu has varied. Check current status before you travel.",
+    "Even at 3,880 m some people feel headaches or poor sleep; tell your guide, who will adjust the plan.",
+    "Winter (December–February) is quiet and clear on this route, with nights near −10 °C at Hotel Everest View.",
+    "Lukla flights have a 15 kg baggage limit per person, including hand luggage.",
+    "Khumjung's school and monastery welcome visitors but ask before photographing children or monks.",
+    "In peak months flights may leave from Ramechhap, a 1–2 am start from Kathmandu."
+  ],
+  "faqs": [
+    {
+      "q": "Can I see Everest on a 7-day trek?",
+      "a": "Yes. On a clear day you first glimpse Everest's summit from the trail below Namche, and from the ridge at Syangboche and Hotel Everest View you see it in full across the valley, with Lhotse and Ama Dablam. Clear skies are most likely in October to December and in March and April, especially early in the morning."
+    },
+    {
+      "q": "How hard is the Everest View trek?",
+      "a": "It is moderate. Walking days are 3 to 6 hours, mostly on good stone trails with long ascents and descents. The highest point is 3,880 m, so most healthy people manage the altitude with the extra day in Namche. You should be comfortable walking uphill for two to three hours at a steady pace."
+    },
+    {
+      "q": "How much does the Everest View trek cost?",
+      "a": "This 7-night trip starts from USD 1,350 per person, twin sharing, including Lukla flights, a licensed guide and porter, permits, a night at Hotel Everest View with dinner and breakfast, five teahouse nights with meals and a Kathmandu hotel night. Add a spare Kathmandu night, extras on trek, tips, visa and insurance."
+    },
+    {
+      "q": "What is Hotel Everest View like?",
+      "a": "It is a stone-built hotel on the ridge above Khumjung at about 3,880 m, opened in 1971 by a Japanese developer. Rooms and the terrace face Everest and Ama Dablam. It is simple and warm rather than luxurious, with heated rooms and a restaurant. Many trekkers stop only for tea; sleeping there lets you see sunset and sunrise."
+    },
+    {
+      "q": "Is this trek suitable for older travellers or families?",
+      "a": "Yes, for fit walkers. We have guided people in their seventies and families with children over about ten on this route. The key is steady pace and the rest day in Namche. Children often adapt to altitude as well as adults but may not describe symptoms clearly, so the guide checks them carefully."
+    },
+    {
+      "q": "Can I fly into Syangboche instead of walking?",
+      "a": "Syangboche airstrip, just below Hotel Everest View, is used mainly by helicopters and cargo flights rather than scheduled planes. Flying straight to 3,750 m is also poor for acclimatisation, risking headaches and worse. Walking up from Lukla over three days is the safe way; flying out by helicopter is possible at extra cost."
+    },
+    {
+      "q": "What is the best time for the Everest View trek?",
+      "a": "October to December gives the clearest views. March and April add rhododendron flowers along the Dudh Koshi. January and February are cold but quiet and often clear. In the monsoon, June to August, the mountains hide in cloud most days and Lukla flights are often cancelled, so we do not recommend it."
+    },
+    {
+      "q": "Do I need a permit for the Everest View trek?",
+      "a": "Yes, two: the Sagarmatha National Park entry permit and the Khumbu Pasang Lhamu Rural Municipality permit, both included in our price. The park fee for foreigners has been NPR 3,000 plus VAT and the municipality fee NPR 2,000; check current status before you travel. We arrange both, with your passport details."
+    },
+    {
+      "q": "What happens if my Lukla flight is cancelled?",
+      "a": "On the way in, we start a day later and shorten the stay at Namche or skip the Phakding return night. On the way out, we wait in Lukla for the next flight, and if delays continue you can share a helicopter at extra cost. This is why we recommend a spare night in Kathmandu."
+    }
+  ]
+}

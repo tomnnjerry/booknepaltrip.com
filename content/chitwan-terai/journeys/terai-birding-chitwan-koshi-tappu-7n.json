@@ -1,0 +1,204 @@
+{
+  "slug": "terai-birding-chitwan-koshi-tappu-7n",
+  "title": "Birding the Terai: Chitwan and Koshi Tappu",
+  "region": "chitwan-terai",
+  "kind": "wildlife",
+  "nights": 7,
+  "themes": [
+    "wildlife-and-jungle",
+    "lakes-and-rivers",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "sauraha",
+      "nights": 3
+    },
+    {
+      "place": "koshi-tappu",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1650,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2
+  ],
+  "pace": "Active",
+  "max_altitude_m": 1400,
+  "meta_description": "Terai birding tour, 7 nights: Chitwan grasslands and Bishazari Tal, then Koshi Tappu and the Koshi Barrage for winter waterfowl, with specialist bird guides.",
+  "summary": "Seven nights for birders in Nepal's two richest lowland sites. Three nights in Chitwan for grassland and forest birds, with a day at the Bishazari Tal wetlands, then three nights at Koshi Tappu Wildlife Reserve, Nepal's first Ramsar site, for winter waterfowl, the Koshi Barrage and the last wild water buffalo in Nepal.",
+  "intro": [
+    "Nepal has recorded close to 900 bird species, a remarkable number for a country of its size, and a large share of them live in the lowlands. Chitwan National Park alone has a list of more than 500 species, from great hornbill in the sal forest to Bengal florican in the grassland. Koshi Tappu, in the far east of the Terai, is a wetland reserve on the braided Sapta Koshi, where tens of thousands of ducks, geese and waders winter.",
+    "This journey puts the two together with specialist bird guides, early starts and enough time in each place to work the habitats properly. In Chitwan we spend mornings in the grassland and riverine forest and an afternoon at Bishazari Tal, a Ramsar-listed lake system just south of Bharatpur. At Koshi we walk the embankments at dawn, take boats on the river and scan the barrage for gulls, terns and rare ducks."
+  ],
+  "story": "You arrive in Kathmandu with a new checklist and leave the next morning for the heat of the lowlands. In Chitwan, the first sounds are the barbet's endless call and the peacock's cry from the riverbank. Days start in mist on the Rapti, with stork-billed kingfisher and lesser adjutant, and run through grass taller than the jeep where a Bengal florican might rise. Then the trip swings east by air, and the land flattens even further. At Koshi Tappu the horizon is water and sky. Bar-headed geese call overhead, swamp francolin cackle from the reeds and the wild buffalo the Nepalis call arna graze the islands. By the last evening your list has run into the hundreds and your binoculars have not been out of your hands.",
+  "highlights": [
+    "Grassland and forest birding in Chitwan with a specialist bird guide",
+    "Bishazari Tal, a Ramsar-listed wetland of oxbow lakes near Bharatpur",
+    "Koshi Tappu Wildlife Reserve, Nepal's first Ramsar site, and the Koshi Barrage at dawn",
+    "Boat trips on the Sapta Koshi for waterfowl, terns and, with luck, Gangetic dolphin",
+    "Wild water buffalo, or arna, in their last refuge in Nepal"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "We meet you at Tribhuvan International Airport and drive to your hotel. If you arrive in time, your bird guide can take you to the Phulchowki forest edge or the Godawari botanical gardens, about an hour south of the city, for a short session of hill birds before the lowlands. Otherwise, rest after the flight and meet your guide in the evening to go over the plan, the target species and the best times in each habitat.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Fly to Bharatpur, afternoon birding",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "25 min flight + ≈ 30 min drive",
+      "text": "A morning flight to Bharatpur and a short drive to Sauraha, on the Rapti River. After lunch we walk the riverbank and the community forest east of the village, good for kingfishers, bee-eaters, woodpeckers and parakeets. At dusk we stop by the river for the evening flight of egrets and cormorants and the first nightjars. Sauraha is also home to the Bird Education Society, a local conservation group that runs bird walks and can share recent sightings.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Chitwan grassland and forest",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 7–8 h by jeep in the park",
+      "text": "A full day in Chitwan National Park with your bird guide and a licensed park guide. We start in the grasslands for the chance of Bengal florican, slender-billed babbler and grassbirds, then move into sal forest for woodpeckers, minivets and hornbills, including oriental pied and, with luck, great hornbill. Lunch is packed. Lakes along the way hold storks, ducks and lesser adjutant. Rhino, deer and crocodiles come as a bonus to the birding.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Bishazari Tal wetlands and canoe",
+      "place": "bishazari-tal",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 1 h drive each way",
+      "text": "Dawn on the Rapti in a dugout canoe, an ideal low viewpoint for kingfishers, herons and waders on the banks. Then we drive to Bishazari Tal, the 'twenty thousand lakes', a group of oxbow lakes and marsh in the buffer zone south of Bharatpur, listed under the Ramsar Convention in 2003. Watch towers and trails give views of waterfowl, jacanas, storks and raptors. In winter the lakes fill with migrant ducks. Back to Sauraha for a final evening walk.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Fly east to Koshi Tappu",
+      "place": "koshi-tappu",
+      "overnight": "Koshi Tappu",
+      "alt_m": 75,
+      "move": "2 flights via Kathmandu + ≈ 1.5 h drive",
+      "text": "An early drive to Bharatpur for the flight to Kathmandu, then a connecting flight east to Biratnagar, about 45 minutes. From Biratnagar we drive northwest about an hour and a half to the camp near the reserve headquarters at Kusaha. Late afternoon is for a first walk along the embankment, where the reeds and grassland drop to open water and sandbanks. Listen for swamp francolin calling at dusk. Dinner is at the camp, with an early night before the barrage.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Koshi Barrage and the river by boat",
+      "place": "koshi-tappu",
+      "overnight": "Koshi Tappu",
+      "alt_m": 75,
+      "move": "",
+      "text": "We are at the Koshi Barrage on the Indian border around sunrise, scanning the water for ducks, gulls, terns, cormorants and, in some winters, rare species such as Baer's pochard. Afterwards a boat or raft trip on the Sapta Koshi gives views of the islands and grassland. Gangetic river dolphins are sometimes seen here. In the afternoon we walk the reserve fringes for wild water buffalo, which Nepalis call arna, and for grassland birds and raptors.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "A full day of Koshi birding",
+      "place": "koshi-tappu",
+      "overnight": "Koshi Tappu",
+      "alt_m": 75,
+      "move": "",
+      "text": "A last full day to work on any species still missing from your list. Your guide picks from the reserve's embankment trails, the fish ponds and paddy fields around Kusaha, and the eastern edges of the reserve, depending on what you most want to see. Spring brings breeding residents and passage migrants; winter brings the ducks and geese. In the evening there is time to sit by the water and go over the list with your guide.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Fly Biratnagar to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 1.5 h drive + 45 min flight",
+      "text": "A last dawn walk if you want one, then the drive to Biratnagar for the flight back to Kathmandu, about 45 minutes. On a clear day the flight runs parallel to the Himalaya, with Kanchenjunga, Makalu and Everest on the right-hand side. We transfer you to your hotel or the international terminal. Add a few days in the hills around Kathmandu or Ilam if you want to chase Himalayan species too.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "green-park-chitwan"
+  ],
+  "includes": [
+    "Flights Kathmandu–Bharatpur, Bharatpur–Kathmandu–Biratnagar and Biratnagar–Kathmandu",
+    "Specialist bird guide throughout and licensed park guides",
+    "1 night Kathmandu (bed and breakfast), 3 nights Green Park Chitwan and 3 nights in a tented camp at Koshi Tappu, full board",
+    "All birding excursions, jeep safari, canoe and boat trips",
+    "Chitwan National Park and Koshi Tappu Wildlife Reserve entry fees",
+    "All ground transfers"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Meals in Kathmandu, drinks and tips",
+    "Optional Phulchowki birding on day 1",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Best months for waterfowl at Koshi are November to February; March to April is better for breeding residents.",
+    "Flights to Biratnagar run daily but times change seasonally; morning fog can delay winter flights.",
+    "Koshi Tappu has a handful of tented camps and simple lodges; comfort is good but not luxurious.",
+    "Reserve and park entry fees are charged per day; check current status before you travel.",
+    "Bring a scope if you have one; it makes a large difference at the Koshi Barrage."
+  ],
+  "faqs": [
+    {
+      "q": "How many bird species can I see on this trip?",
+      "a": "Experienced birders in winter often record 250 to 300 species over seven nights between Chitwan and Koshi Tappu, but numbers depend on weather, effort and luck. Chitwan's list passes 500 species and Koshi Tappu's is similar, and the two sites complement each other well: forest and grassland species in Chitwan, waterfowl and wetland birds at Koshi."
+    },
+    {
+      "q": "When is the best time for birding in the Terai?",
+      "a": "November to March for winter visitors such as ducks, geese, raptors and waders, especially at Koshi Tappu. March to May adds breeding residents and passage migrants, with birds in full song. From June to September the monsoon makes access hard and the heat is oppressive. For a first trip, February and early March balance both."
+    },
+    {
+      "q": "What is special about Koshi Tappu?",
+      "a": "It was established in 1976 to protect Nepal's last wild water buffalo, the arna, and became Nepal's first Ramsar wetland in 1987. The reserve sits on the floodplain of the Sapta Koshi, the largest river system in Nepal, and the barrage downstream creates open water that draws large numbers of ducks and waders in winter."
+    },
+    {
+      "q": "Which rare birds can I find in Chitwan?",
+      "a": "Grassland specialities such as Bengal florican, slender-billed babbler and grassbirds, plus great hornbill, lesser adjutant and several owls. Some of these are difficult and need luck and a skilled guide. The Bird Education Society in Sauraha shares recent sightings, and its members know where species are being seen that season."
+    },
+    {
+      "q": "Do I need my own binoculars and scope?",
+      "a": "Bring your own binoculars; 8x42 or 10x42 are ideal. A spotting scope is very useful at the Koshi Barrage and on the lakes. Our bird guides carry a scope, but sharing one slows things down. A camera with a 400 mm or longer lens helps for photographing birds from the canoe and the embankment."
+    },
+    {
+      "q": "Is this trip suitable for non-birders?",
+      "a": "It suits keen wildlife watchers who are happy with early starts and long hours outdoors. Non-birding partners usually enjoy Chitwan, with its rhino, crocodiles and jeep safaris, but may find three days at Koshi Tappu a little slow. We can adapt the Koshi days with village visits or a longer river trip."
+    },
+    {
+      "q": "How do we travel from Chitwan to Koshi Tappu?",
+      "a": "By air via Kathmandu: Bharatpur to Kathmandu takes about 25 minutes and Kathmandu to Biratnagar about 45 minutes, followed by a drive of around an hour and a half. The road option along the East-West Highway is about 380 km and takes 9 to 10 hours, useful only if flights are cancelled."
+    },
+    {
+      "q": "What are the camps at Koshi Tappu like?",
+      "a": "Simple and comfortable: tents or cottages with beds, attached or nearby bathrooms, and meals served in a shared dining area. Electricity can be limited. The main point is location, close to the reserve and the river, so you are birding within minutes of waking. We choose camps that know birders and keep early breakfast."
+    },
+    {
+      "q": "Can I see wildlife other than birds at Koshi Tappu?",
+      "a": "Yes. Wild water buffalo are the reserve's flagship, and you may also see nilgai, hog deer, golden jackal, mugger crocodile and Gangetic river dolphin in the Koshi. Wild elephants sometimes cross the reserve. The grasslands also hold fishing cats, though they are rarely seen by day."
+    }
+  ]
+}

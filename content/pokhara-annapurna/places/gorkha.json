@@ -1,0 +1,171 @@
+{
+  "slug": "gorkha",
+  "name": "Gorkha",
+  "name_ne": "गोरखा",
+  "local_name": "",
+  "region": "pokhara-annapurna",
+  "kind": "hill town",
+  "wiki": "Gorkha Municipality",
+  "image_query": "Gorkha Durbar palace hilltop",
+  "lat": 28.0,
+  "lng": 84.629,
+  "altitude_m": 1097,
+  "tagline": "Hilltop palace where Prithvi Narayan Shah was born",
+  "meta_description": "Gorkha with locals: Gorkha Durbar where Prithvi Narayan Shah was born, the Gorakhnath cave, Tallo Durbar museum, Manakamana cable car, Barpak and how to get there.",
+  "summary": "Gorkha is a hill town at about 1,100 m, 24 km above the Prithvi Highway and roughly 140 km west of Kathmandu, where the Shah dynasty that unified Nepal began. Its hilltop palace, Gorkha Durbar, is the birthplace of Prithvi Narayan Shah, with Manaslu and Himalchuli on the skyline.",
+  "intro": [
+    "Most people know the word Gorkha from soldiers. The town itself is quieter than its name: a bazaar spread along a hillside above terraced valleys, with a royal palace on the ridge 300–400 m above it, reached by a long stone staircase, commonly said to have about 1,500 steps, or by road. From the palace walls the view runs north to Manaslu, Himalchuli and the Ganesh range, and south over the hills that the Gorkha kings set out to conquer.",
+    "This is where modern Nepal began. Drabya Shah took Gorkha in 1559; his descendant Prithvi Narayan Shah was born in the palace on 7 January 1723, became king in 1743, and spent the next 25 years absorbing the hill kingdoms and the Kathmandu Valley into a single state. The palace, the Kalika temple and the cave of the yogi Gorakhnath, who gave the town its name, remain places of pilgrimage.",
+    "Gorkha deserves a night. Climb to the durbar at dawn, visit the museum in the lower palace, walk the bazaar, and in the right season combine it with the Manakamana cable car on the highway below. It fits neatly into the drive between Kathmandu and Pokhara or Chitwan, and it is the gateway to the Manaslu region."
+  ],
+  "story": {
+    "title": "The small kingdom that made Nepal",
+    "paras": [
+      "In the 16th century Gorkha was one of the Chaubisi rajya, the twenty-four small kingdoms of the western hills, and among the smallest. Drabya Shah, a younger son of the ruling family of Lamjung, took it in 1559 and founded a dynasty. The palace on the ridge, attributed to King Ram Shah, was built in Newar style with thick walls and carved timbers.",
+      "Prithvi Narayan Shah was born here, in the part of the palace called Dhuni Pari, in 1723, and took the throne in 1743. He captured Nuwakot in 1744, cutting the Kathmandu Valley's trade routes, and finally took Kathmandu in 1768. His advice to his court, recorded as the Divya Upadesh, famously described Nepal as a yam between two boulders, China and British India. Kaski, Lamjung, Tanahun and the other hill states were absorbed in the decades that followed.",
+      "Once the capital moved to Kathmandu, Gorkha became a district town, though the palace and its temples kept their importance for the royal family and pilgrims. Its name travelled the world through the Gurkha soldiers recruited from these hills. In 1996 the town became Prithvinarayan Municipality; in 2009, after the end of the monarchy, it was renamed Gorkha. The April 2015 earthquake, centred in Gorkha district near Barpak, damaged the palace; restoration by the Department of Archaeology began in November 2017."
+    ]
+  },
+  "legend": "A popular story in Gorkha tells that the yogi Gorakhnath, guardian of the town, appeared to the young Prithvi Narayan Shah and asked for curd. The prince brought it; the yogi ate, then spat some back into his hands and told him to swallow it. Disgusted, the prince let it fall onto his feet. The yogi said that had he swallowed it, his words would have come true; instead, every land his feet touched would be his.",
+  "people": "Gorkha district is home to Magar, Gurung, Brahmin, Chhetri, Newar, Dalit and, in the north, Ghale and Tibetan-speaking communities. The bazaar has long Newar trading families. Northern villages such as Barpak are known for sending men to the Gurkha regiments. Most families farm rice, millet, maize and oranges on terraces, and many depend on remittances from the Gulf, Malaysia and India.",
+  "untold": [
+    {"fact": "Prithvi Narayan Shah was born on 7 January 1723 in the part of Gorkha palace known as Dhuni Pari; he became King of Gorkha in 1743 and died in 1775 at Devighat in Nuwakot.", "source": "Wikipedia: Prithvi Narayan Shah; Wikipedia: Gorkha Palace"},
+    {"fact": "Gorkha town was created as Prithvinarayan Municipality in 1996, named after the king, and renamed Gorkha in 2009 after the monarchy was abolished.", "source": "Wikipedia: Gorkha Municipality"},
+    {"fact": "A fair is held every year on Baisakh Purnima, the full moon of April–May, at the Gorakhnath cave beside the palace, where the yogi is said to have meditated.", "source": "Wikipedia: Gorkha Palace"}
+  ],
+  "local_words": [
+    {"word": "Durbar", "script": "दरबार", "lang": "Nepali", "meaning": "Royal palace or court"},
+    {"word": "Gorkhali", "script": "गोरखाली", "lang": "Nepali", "meaning": "Of Gorkha; once the name for the Nepali language and its people"},
+    {"word": "Tarul", "script": "तरुल", "lang": "Nepali", "meaning": "Yam; from the king's saying, Nepal is a yam between two boulders"}
+  ],
+  "taste": {"name": "Dahi chiura", "text": "Beaten rice with thick buffalo-milk curd, sometimes with sugar or banana: the classic hill snack, and the curd of the Gorakhnath story. Sweet shops and tea houses in Gorkha bazaar serve it fresh in the morning. At Dashain, families add meat curry and sel roti to the plate."},
+  "facts": [
+    ["Best months", "Oct – Mar"],
+    ["Days we suggest", "1"],
+    ["Nearest airport", "Pokhara (PHH) or Kathmandu (KTM)"],
+    ["From Kathmandu", "≈ 140 km · 5 h by road"],
+    ["Altitude", "≈ 1,100 m (bazaar); palace higher on the ridge"],
+    ["Known for", "Gorkha Durbar, Prithvi Narayan Shah, Gurkha name"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Gorkha Durbar", "text": "The fortified Newar-style palace on the ridge, birthplace of Prithvi Narayan Shah, with carved windows, thick walls and a Kalika temple. Climb the stone steps from the bazaar in about an hour."},
+    {"title": "Gorakhnath cave", "text": "A rock shelter beside the palace where the yogi Gorakhnath is said to have meditated, still tended by priests. A fair is held here every Baisakh Purnima."},
+    {"title": "Views of Manaslu", "text": "From the palace walls, Manaslu, Himalchuli, Baudha Himal and Ganesh Himal stand to the north on clear mornings, with terraced valleys below."},
+    {"title": "Tallo Durbar and the museum", "text": "The lower palace in the bazaar houses the Gorkha Museum, with exhibits on the Shah kings and the unification of Nepal, set in a courtyard building with a garden."},
+    {"title": "Manakamana by cable car", "text": "On the highway below, a 2.8 km cable car from Kurintar rises to the hilltop temple of Manakamana at about 1,300 m, one of Nepal's most visited wish-fulfilling shrines."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Kathmandu, drive the Prithvi Highway about 115 km to Abu Khaireni, then 24 km up a paved road to Gorkha bazaar, about 5 hours in total. From Pokhara it is about 3.5–4 hours. Local buses run from Kathmandu's Gongabu bus park and from Pokhara. The palace can be reached by road or on foot from the bazaar."},
+    {"mode": "On foot", "text": "From Gorkha bazaar, a stone staircase of around 1,500 steps climbs through the old town to the palace in 45–60 minutes. Paths also continue along the ridge to villages beyond."}
+  ],
+  "where_to_stay": "Gorkha has a handful of mid-range hotels and guesthouses in and around the bazaar, some with mountain-view rooftops, and simple lodges near the bus park. Facilities are modest compared with Pokhara; ask for a quiet room away from the main road. Many visitors stop for a few hours on the way to Pokhara, where Temple Tree Resort and Fish Tail Lodge are about four hours away, or to Bandipur, where The Old Inn is about two hours away.",
+  "stays": [],
+  "tips": [
+    "Climb to the palace early in the morning for clear mountain views and fewer visitors.",
+    "Leather items and photography may be restricted near the Kalika temple; follow the signs and the priests' instructions.",
+    "Dress modestly and remove shoes at shrines; the palace remains a religious site.",
+    "Carry water for the climb; there are a few shops on the steps but fewer near the top.",
+    "Around Dashain the palace and Kalika temple are crowded with pilgrims; book hotels early."
+  ],
+  "themes": ["heritage-and-temples", "spiritual-and-pilgrimage", "photography", "family-trips"],
+  "nearby": ["bandipur", "pokhara", "begnas-lake"],
+  "experiences": [
+    {
+      "slug": "gorkha-durbar-and-gorakhnath-cave",
+      "title": "Climb to Gorkha Durbar and the Gorakhnath cave",
+      "kind": "heritage",
+      "duration": "3 hours",
+      "best_time": "Early morning, Oct–Mar",
+      "image_query": "Gorkha Palace Kalika temple",
+      "wiki": "Gorkha Palace",
+      "summary": "Walk up about 1,500 stone steps from Gorkha bazaar to the hilltop palace where Prithvi Narayan Shah was born, visit the Kalika temple and the cave of the yogi Gorakhnath, and look north to Manaslu and Himalchuli.",
+      "body": [
+        "Start from the bazaar early. The stone staircase climbs through the old town, past houses and small shrines, then through forest to the ridge. It takes 45–60 minutes. Near the top, walls about a metre thick appear, built for defence as much as for show. This was a fortress palace, controlling the ridge and the valleys either side.",
+        "The palace is in Newar style, with brick, carved timber windows and struts showing gods and animals. Prithvi Narayan Shah was born in the section called Dhuni Pari in 1723. The Kalika temple, built in the 17th century with carved birds, animals and deities, is the most sacred part; its inner shrine is closed to most visitors, and leather and photography may be restricted nearby.",
+        "Below the palace lies the cave of Gorakhnath, the yogi after whom the town is named, a shelter in the rock still tended by priests, with a fair every Baisakh Purnima. From the ridge, on a clear morning, Manaslu, Himalchuli and Ganesh Himal fill the northern horizon. The 2015 earthquake damaged the palace; restoration work has been under way since 2017."
+      ],
+      "good_for": ["first-timers", "photographers", "families", "solo"],
+      "faqs": [
+        {"q": "How long does it take to climb to Gorkha Durbar?", "a": "From Gorkha bazaar, the stone staircase of around 1,500 steps takes 45–60 minutes up at a steady pace and about 30 minutes down. A road also reaches near the palace for those who cannot manage the climb. Allow about three hours in total including the palace, temples and views."},
+        {"q": "Is there an entrance fee for Gorkha Durbar?", "a": "The Gorakhnath shrine and Kalika temple have been open without entrance charges, according to local reports, while the museum in Tallo Durbar charges a fee. Charges and access to parts of the palace can change, especially during restoration work. Check locally on arrival, and carry small notes in Nepali rupees."},
+        {"q": "Was Gorkha Durbar damaged in the 2015 earthquake?", "a": "Yes. The April 2015 earthquake, centred in Gorkha district, partially damaged the palace. Reconstruction by the Department of Archaeology started on 15 November 2017 and continued for years afterwards. Parts may be under scaffolding or closed when you visit, though the temples and views remain accessible."}
+      ]
+    },
+    {
+      "slug": "gorkha-tallo-durbar-museum-bazaar",
+      "title": "Tallo Durbar museum and the Gorkha bazaar",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Afternoon, year-round",
+      "image_query": "Tallo Durbar Gorkha museum",
+      "wiki": "",
+      "summary": "Visit the lower palace, Tallo Durbar, in Gorkha bazaar, now home to the Gorkha Museum with exhibits on the Shah kings and the unification of Nepal, then walk the old bazaar streets and temples below.",
+      "body": [
+        "Tallo Durbar, the lower palace, stands in a walled garden near the bazaar, a large brick building with carved wooden windows around a courtyard. It now houses the Gorkha Museum, which tells the story of the Shah dynasty from Drabya Shah's conquest in 1559 to Prithvi Narayan Shah's campaigns, with weapons, documents, portraits and objects of court life.",
+        "Spend an hour inside, then walk into the bazaar. The streets around the old centre have Newar-style houses with carved windows, small temples and shops selling brass, cloth and sweets. Look for local tea houses serving dahi chiura and sel roti. The atmosphere is that of a working district town rather than a tourist centre.",
+        "Combine this with the climb to the upper palace on the same day, ideally the durbar at dawn and the museum in the afternoon. Check museum opening days and hours locally, as they can change, and note that photography may not be allowed inside."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "solo"],
+      "faqs": [
+        {"q": "What is in the Gorkha Museum?", "a": "The Gorkha Museum in Tallo Durbar has exhibits on the Shah dynasty and the unification of Nepal: weapons, documents, portraits, clothing and objects linked to the kings of Gorkha, with background on Prithvi Narayan Shah's campaigns. Allow about an hour. Displays and labels are mostly in Nepali with some English."},
+        {"q": "Where is Tallo Durbar in Gorkha?", "a": "Tallo Durbar, the lower palace, is in Gorkha bazaar, close to the town centre and bus park, within walking distance of most hotels. It is set in a garden behind walls. The upper palace, Gorkha Durbar, is on the ridge above, reached by stone steps or road."},
+        {"q": "When is the Gorkha Museum open?", "a": "Nepali government museums typically open six days a week with a weekly closing day and shorter hours in winter. Opening days and times change, and holidays such as Dashain affect them, so check locally or with your hotel before visiting. Arrive at least an hour before closing."}
+      ]
+    },
+    {
+      "slug": "gorkha-manakamana-cable-car",
+      "title": "Cable car to Manakamana temple",
+      "kind": "spiritual",
+      "duration": "3–4 hours",
+      "best_time": "Morning, weekdays, year-round",
+      "image_query": "Manakamana cable car Kurintar",
+      "wiki": "Manakamana Cable Car",
+      "summary": "Ride Nepal's first commercial cable car, 2.8 km from Kurintar on the Prithvi Highway, up to the hilltop temple of Manakamana at about 1,300 m in Gorkha district, a shrine Nepalis visit to have wishes granted.",
+      "body": [
+        "Manakamana means heart's desire, and the goddess here is believed to grant wishes. For centuries pilgrims climbed for hours from the Trishuli valley; since 24 November 1998, a cable car built by the Austrian firm Doppelmayr has carried them 2.8 km from Kurintar station in about ten minutes. It was Nepal's first commercial cable car.",
+        "At the top, a short walk through a busy bazaar of offerings stalls leads to the pagoda temple. Queues can be long, especially on Saturdays and festival days. Animal sacrifices are part of worship here, which some visitors may prefer not to see. The views from the hilltop across the Trishuli and Marsyangdi valleys to the Himalaya are good on clear days.",
+        "The temple's story, as told locally, links it to Gorkha's royal family: the queen of King Ram Shah was believed to have divine powers, known only to her devotee Lakhan Thapa, a Magar; after her death she reappeared as the goddess, and Lakhan Thapa's descendants still serve as the temple's priests. Combine a visit with the drive between Kathmandu and Gorkha, Pokhara or Chitwan."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "couples"],
+      "faqs": [
+        {"q": "How long is the Manakamana cable car ride?", "a": "The cable car covers about 2.8 km from Kurintar on the Prithvi Highway to the hilltop near Manakamana temple, at about 1,300 m, in roughly 10 minutes each way. It opened on 24 November 1998 as Nepal's first commercial cable car. Separate fares apply for Nepali, SAARC and foreign visitors."},
+        {"q": "Is Manakamana worth visiting?", "a": "For most visitors it is a pleasant half-day stop on the drive between Kathmandu and Pokhara or Chitwan, with a scenic cable car and a busy pilgrimage atmosphere. It matters more to Nepali Hindus, who come to make wishes. Avoid Saturdays and festival days if you dislike crowds, and be aware animal sacrifices take place."},
+        {"q": "Where is Manakamana cable car station?", "a": "The base station is at Kurintar on the Prithvi Highway, about 100 km west of Kathmandu, between Malekhu and Mugling, on the Chitwan side of the Trishuli. The temple at the top is in Gorkha district. There is parking at the station, and tourist buses can drop you there if arranged."}
+      ]
+    },
+    {
+      "slug": "gorkha-barpak-gurkha-village",
+      "title": "Barpak, the Gurkha village at the quake's heart",
+      "kind": "heritage",
+      "duration": "1–2 days",
+      "best_time": "Daytime, Oct–Apr",
+      "image_query": "Barpak village Gorkha",
+      "wiki": "Barpak",
+      "summary": "A drive into northern Gorkha to Barpak, a large Gurung and Ghale village known for its Gurkha soldiers, near the epicentre of the April 2015 earthquake and since rebuilt, with homestays and views of the Manaslu range.",
+      "body": [
+        "Barpak sits high on a slope in northern Gorkha district, a large, dense village of Gurung and Ghale families. For generations it has sent men to the Gurkha regiments; among them was Gaje Ghale, awarded the Victoria Cross in Burma in 1943. Pension money and remittances shaped the village long before tourism arrived.",
+        "On 25 April 2015 the earthquake that devastated central Nepal struck with its epicentre close to Barpak, and almost every house in the village was destroyed or damaged. Today Barpak is largely rebuilt, many houses now in concrete and brick, and families talk openly about that day and the years of reconstruction. Some run homestays for visitors.",
+        "The road from Gorkha bazaar is long and rough, around 4 hours depending on conditions, and can be blocked in the monsoon. Stay a night, walk the village lanes, visit the memorials, and look north to the Manaslu range. It is a sobering, rewarding trip for travellers interested in how hill villages live with risk."
+      ],
+      "good_for": ["solo", "photographers", "couples"],
+      "faqs": [
+        {"q": "Where was the epicentre of the 2015 Nepal earthquake?", "a": "The epicentre of the magnitude 7.8 earthquake on 25 April 2015 was in Gorkha district, near the village of Barpak, northwest of Gorkha bazaar. The earthquake killed nearly 9,000 people across Nepal. Barpak was almost completely destroyed and has since been rebuilt, much of it in concrete and brick."},
+        {"q": "How do I get to Barpak from Gorkha?", "a": "Barpak is reached by a rough road north from Gorkha bazaar, around 4 hours by jeep depending on road conditions, longer after rain. Local jeeps run on the route; a private jeep is easier. In the monsoon, landslides can block the road. Plan at least one night in the village."},
+        {"q": "Can I stay in Barpak?", "a": "Yes. Some families in Barpak run homestays and small lodges for visitors, offering simple rooms and home-cooked meals. Facilities are basic. Arrange your stay through a guide or agency in advance, as options change. A night lets you walk the village, meet families and see the mountain views at dawn."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Gorkha from Kathmandu?", "a": "Gorkha bazaar is about 140 km west of Kathmandu: drive the Prithvi Highway to Abu Khaireni, about 115 km, then 24 km up a paved road. It takes about 5 hours by private car, more with traffic near Mugling. Local buses run from Kathmandu's Gongabu bus park in 5–6 hours."},
+    {"q": "Why is Gorkha important in Nepal's history?", "a": "Gorkha was the small hill kingdom from which the Shah dynasty unified Nepal. Prithvi Narayan Shah, born in Gorkha palace in 1723, conquered the Kathmandu Valley in 1768 and began the expansion that created the modern state. The name also passed to the Gurkha soldiers recruited from these hills."},
+    {"q": "Is Gorkha worth visiting?", "a": "Yes, if you are interested in Nepal's history or want a quieter stop between Kathmandu and Pokhara. The palace on the ridge, its temples and mountain views are impressive, and the town sees few foreign visitors. One night is enough. Combine it with Bandipur or the Manakamana cable car on the same journey."},
+    {"q": "Are Gurkha soldiers from Gorkha?", "a": "The name Gurkha comes from Gorkha, the kingdom that unified Nepal, but Gurkha soldiers come from across Nepal's hills, especially Gurung, Magar, Rai and Limbu communities. Villages in Gorkha district, such as Barpak, have sent many men to the regiments. British and Indian Gurkha recruitment continues today."},
+    {"q": "How many steps are there to Gorkha Durbar?", "a": "The stone staircase from Gorkha bazaar to the palace is commonly said to have about 1,500 steps, climbing around 300–400 m. It takes 45–60 minutes up. A road also goes near the top for those who cannot walk it. Start early to avoid heat and enjoy clear morning views of Manaslu."},
+    {"q": "Which mountains can you see from Gorkha?", "a": "From Gorkha Durbar on a clear day you can see Manaslu (8,163 m), Himalchuli, Baudha Himal and the Ganesh Himal range to the north, and on very clear days peaks of the Annapurna range to the west. October to February gives the best visibility. Spring haze often hides the peaks."},
+    {"q": "What is the best time to visit Gorkha?", "a": "October to March is best, with clear skies and cool days. Dashain, in late September or October, is the busiest and most atmospheric time, with pilgrims at the Kalika temple. April and May are warm and hazy. June to September is monsoon, with rain, cloud and occasional road closures."},
+    {"q": "Is Gorkha the start of the Manaslu trek?", "a": "Gorkha district contains the Manaslu region, and Gorkha bazaar was once a common starting point. Today most Manaslu Circuit treks begin by road at Soti Khola or Machha Khola, reached via Arughat, rather than from the town itself. Manaslu requires a restricted-area permit and a licensed guide; check current status before you travel."},
+    {"q": "Can I visit Gorkha and Bandipur in one trip?", "a": "Yes. Both lie on short side roads off the Prithvi Highway, about 2 hours apart by car. A good route is Kathmandu to Gorkha for a night, then Bandipur for a night, then on to Pokhara or Chitwan. It turns a long drive into a trip through Nepal's history and hill towns."}
+  ]
+}

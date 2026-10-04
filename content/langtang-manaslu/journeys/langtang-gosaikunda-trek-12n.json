@@ -1,0 +1,98 @@
+{
+  "slug": "langtang-gosaikunda-trek-12n",
+  "title": "Langtang Valley and Gosaikunda lakes trek",
+  "region": "langtang-manaslu",
+  "kind": "trek",
+  "nights": 12,
+  "themes": ["treks-and-trails", "high-altitude", "spiritual-and-pilgrimage", "lakes-and-rivers"],
+  "grade": "Challenging",
+  "stops": [
+    {"place": "syabrubesi", "nights": 1},
+    {"place": "langtang-village", "nights": 3},
+    {"place": "kyanjin-gompa", "nights": 2},
+    {"place": "gosaikunda", "nights": 5},
+    {"place": "kathmandu", "nights": 1}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 1100,
+  "best_months": [0, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 4773,
+  "meta_description": "Langtang and Gosaikunda trek, 12 nights: Kyanjin Gompa and Kyanjin Ri, then Thulo Syabru, Sing Gompa and the sacred lakes at 4,380 m, out via Dhunche.",
+  "summary": "Twelve nights that join two of Langtang's great walks: up the valley to Kyanjin Gompa and Kyanjin Ri, then across the hillside villages of Thulo Syabru and Sing Gompa to the sacred lakes of Gosaikunda at 4,380 m. Acclimatising in the valley first makes the lakes safer and the walking easier.",
+  "intro": [
+    "Most people do either the Langtang Valley or Gosaikunda. Joining them makes sense on the map and on the body. You spend the first week climbing the Langtang Khola to Kyanjin Gompa, sleeping at 3,870 m and walking to 4,773 m on Kyanjin Ri. Then, instead of retracing your steps all the way, you cut across from the river to the ridge villages of Thulo Syabru and Sing Gompa, through pine and rhododendron, and climb to the lakes where Hindu legend says Shiva cooled his throat.",
+    "The order matters. Gosaikunda sits at 4,380 m and the usual approach from Dhunche climbs very fast. Coming from Kyanjin, your body has already adapted, and we add a night at Laurebina to make the final climb gentle. The return is by the Dhunche trail, a long but steady descent, with a jeep back to Kathmandu. You walk with a licensed guide, as Nepal requires in national parks; check current status before you travel."
+  ],
+  "story": "This is a trek of two faiths and two landscapes. The first half follows a glacial valley settled by Buddhist Langtangpa families, where yaks graze below mani walls and the dairy at Kyanjin still makes hard cheese. The second half climbs out of the river gorge onto a long ridge of Tamang villages, cardamom and pine, and up to a chain of high lakes holy to Hindus and Buddhists alike. At Gosaikunda you share the lodges with sadhus in some seasons and with silence in others. The wind on the lake is cold, the water is very still, and the Langtang range you walked under a week ago now lies across the valley to the north.",
+  "highlights": [
+    "Kyanjin Ri (4,773 m) at dawn above the Langtang glaciers",
+    "The walk from Thulo Syabru to Sing Gompa through pine and rhododendron, with Ganesh Himal and Langtang in view",
+    "Gosaikunda, Saraswati Kunda and Bhairab Kunda, sacred lakes in the Gosaikunda Ramsar wetland",
+    "A night at Laurebina with sunset over Ganesh Himal and the Annapurnas on clear days",
+    "Two worlds in one trek: a Buddhist yak valley and a Hindu pilgrimage lake"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive from Kathmandu to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "alt_m": 1460,
+     "move": "≈ 122 km · 7–8 h drive", "text": "We leave Kathmandu after breakfast by private jeep, crossing the Kakani ridge and dropping to Trishuli Bazaar before climbing the Pasang Lhamu Highway through Betrawati to Dhunche. Your guide presents the Langtang National Park permit and TIMS card at the Dhunche checkpost, then the road winds down to Syabrubesi on the Bhote Koshi. This is the last road head; tonight is your chance to repack, buy batteries or snacks and get a good night's sleep in a lodge by the river.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Trek through forest to Lama Hotel", "place": "", "overnight": "Lama Hotel", "alt_m": 2470,
+     "move": "≈ 6–7 h walk · +1,010 m", "text": "Cross the Bhote Koshi and follow the Langtang Khola upstream past Doman and Pairo, then climb into forest to Bamboo for lunch by the river. The afternoon is a steady climb under oak, rhododendron and bamboo thickets, where langur monkeys move through the canopy and red pandas live, though you will be lucky to see one. Lama Hotel is a group of lodges in a forest clearing. Dinner is around the stove, with trekkers who are heading up and down swapping notes.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Up the valley to Langtang village", "place": "langtang-village", "overnight": "Langtang village", "alt_m": 3430,
+     "move": "≈ 6 h walk · +960 m", "text": "The trail climbs past Riverside to Ghoda Tabela, where permits are checked and the forest gives way to an open valley with Langtang Lirung ahead. Water-driven prayer wheels turn in the streams, and stone mani walls line the path. Langtang village was buried by the avalanche of April 2015; families have rebuilt their lodges along the trail beside the debris. Spend a quiet moment at the memorial wall. Tonight is your first above 3,000 m, so walk the last hour slowly and drink well.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "A short climb to Kyanjin Gompa", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "alt_m": 3870,
+     "move": "≈ 3–4 h walk · +440 m", "text": "A short morning past Mundu and long mani walls brings you to Kyanjin Gompa by lunchtime. The afternoon is for slow exploring: the small gompa, the yak cheese factory first set up with Swiss help in the 1950s, and the moraines behind the village. Kyanjin is a settlement of lodges, stone walls and yak pens with glaciers on three sides. Keep the day gentle. The extra height you gain here will make the lakes much easier next week.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Kyanjin Ri and a free afternoon", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "alt_m": 3870,
+     "move": "≈ 4–5 h return walk · +900 m / −900 m", "text": "Leave in the dark to reach the top of Kyanjin Ri (4,773 m) by sunrise. The climb is steep on grass and scree, and the view is wide: Langtang Lirung, the Langtang glacier, Gangchenpo and the peaks that run up to the Tibetan border. Back at the lodge for brunch, the afternoon is free. Some guests walk up the valley toward Langshisa pastures for an hour; others sit in the sun with tea. Either way, you sleep a second night at 3,870 m.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Down the valley to Lama Hotel", "place": "", "overnight": "Lama Hotel", "alt_m": 2470,
+     "move": "≈ 6–7 h walk · −1,400 m", "text": "A long downhill day, retracing the valley past Langtang village and Ghoda Tabela and back into the forest. Lunch is near Riverside. The thicker air makes the walking feel easy, but the knees will notice 1,400 m of descent, so use poles and take it steady. Tonight at Lama Hotel your guide will talk through the second half of the trek, which leaves the river tomorrow and climbs onto the ridge to the south.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Across to Thulo Syabru", "place": "", "overnight": "Thulo Syabru", "alt_m": 2210,
+     "move": "≈ 5–6 h walk · −260 m net", "text": "Below Bamboo the trail splits away from the river and climbs the southern slope through forest and terraces to Thulo Syabru, a long Tamang village strung out along a ridge at about 2,210 m. Houses have carved wooden windows and the village has a small gompa at its upper end. From here you look north back up the Langtang valley you have just left. Evening light on Ganesh Himal to the west is the reward for the climb out of the gorge.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Climb through forest to Sing Gompa", "place": "", "overnight": "Sing Gompa (Chandanbari)", "alt_m": 3330,
+     "move": "≈ 5–6 h walk · +1,120 m", "text": "A long climb on a steep, well-made trail through pine, oak and rhododendron to Dursagang and on to Sing Gompa, also called Chandanbari. The small monastery here sits beside the lodges, and herders bring yaks and chauri up to the meadows above in summer. The forest is thick with old trees and moss, and in April it turns red with rhododendron flowers. Afternoon cloud is common, so we aim to arrive early and rest.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 9, "title": "Up the ridge to Laurebina", "place": "", "overnight": "Laurebina", "alt_m": 3910,
+     "move": "≈ 3 h walk · +580 m", "text": "A short climb out of the trees onto open ridge to Laurebina, a few lodges perched at about 3,910 m. We stop here on purpose. The view on a clear evening runs from Ganesh Himal and Manaslu to the Annapurnas, with Langtang Lirung behind you. Spending the night here means tomorrow's climb to the lakes is only about 470 m, which your body, already used to Kyanjin, will handle well. Sunrise from the ridge is worth setting an alarm for.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 10, "title": "To the sacred lakes of Gosaikunda", "place": "gosaikunda", "overnight": "Gosaikunda", "alt_m": 4380,
+     "move": "≈ 3 h walk · +470 m", "text": "The trail traverses a steep slope, passing small shrines and the first lakes, Saraswati Kunda and Bhairab Kunda, before reaching Gosaikunda at 4,380 m. The lake is frozen for much of the winter and still and dark in autumn. Hindu tradition holds that Shiva struck the mountain with his trident to make the lake and cool the poison in his throat. In the afternoon walk around the shore to the small Shiva shrine, or up the slope toward Surya Kunda for wider views.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 11, "title": "Long descent to Dhunche", "place": "", "overnight": "Dhunche", "alt_m": 1960,
+     "move": "≈ 7 h walk · −2,420 m", "text": "The longest descent of the trek. Retrace the trail past Laurebina and Sing Gompa, then take the Dhunche branch down through Deurali and forest to the road. Your knees will be glad of poles and short steps. Dhunche is the headquarters of Rasuwa district and of Langtang National Park, a small town of government offices, lodges and tea shops on the highway. A warm room, a hot shower and a celebration dinner with your guide and porter finish the walking part of the journey.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 12, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400,
+     "move": "≈ 115 km · 6–7 h drive", "text": "After breakfast the jeep takes you down the Pasang Lhamu Highway to Trishuli and back over the Kakani ridge into the Kathmandu valley. Roadworks and landslide repairs can slow this road, so we leave a full day for it. You reach your Kathmandu hotel by mid-afternoon, with time for a walk through Thamel or a visit to Boudhanath at dusk to watch the kora around the stupa. Tonight is a buffer before any onward flight.", "meals": "Breakfast, Lunch"},
+    {"day": 13, "title": "Trip ends in Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "", "text": "The journey ends after breakfast. We take you to Tribhuvan International Airport, or help you carry on with a few days in the valley, a wildlife stay in Chitwan or a slower week by the lake in Pokhara. If you want to visit Kumbheshwar temple in Patan, whose pond many devotees believe is fed by water from Gosaikunda, it makes a fitting last morning in Nepal. Allow at least three hours before an international flight.", "meals": "Breakfast"}
+  ],
+  "stays": ["kathmandu-guest-house"],
+  "includes": [
+    "Private jeep Kathmandu–Syabrubesi and Dhunche–Kathmandu",
+    "Licensed trekking guide and one porter for every two trekkers, with their wages, food, insurance and lodging",
+    "Langtang National Park entry permit and TIMS card",
+    "Eleven nights in teahouse lodges, twin sharing, with three meals a day on trek",
+    "One night at Kathmandu Guest House with breakfast",
+    "First-aid kit and pulse oximeter carried by your guide"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking to 5,000 m and helicopter evacuation",
+    "Hot showers, battery charging and wifi at lodges",
+    "Drinks, snacks and bottled water",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Foreign trekkers in national parks must trek with a licensed guide under rules in force since April 2023; check current status before you travel.",
+    "Lodges at Gosaikunda and Laurebina fill up around Janai Purnima in July or August; we avoid those dates unless you want the festival.",
+    "From December to February the lakes freeze and snow can cover the trail above Sing Gompa.",
+    "There are no ATMs between Dhunche and the end of the trek; carry enough Nepali rupees.",
+    "A sleeping bag rated to about −10 °C is needed for nights at Kyanjin and Gosaikunda."
+  ],
+  "faqs": [
+    {"q": "Why combine Langtang Valley with Gosaikunda?", "a": "Because the valley acclimatises you for the lakes. Gosaikunda is at 4,380 m, and the direct climb from Dhunche gains height faster than is ideal. After two nights at Kyanjin Gompa (3,870 m) and a walk to 4,773 m, your body copes far better. You also see two very different places in one trip: a Buddhist yak valley and a Hindu pilgrimage lake."},
+    {"q": "How difficult is the Langtang and Gosaikunda trek?", "a": "We grade it challenging, mainly because of length and two long descents of 1,400 m and 2,400 m. Walking days run 3 to 7 hours, the trail is clear and there is no technical section. You should be comfortable walking six hours a day on hills for several days in a row. Training with weekend hikes for six to eight weeks helps a lot."},
+    {"q": "What permits do I need for this trek?", "a": "The whole route lies in Langtang National Park, so you need the park entry permit, about NPR 3,000 for foreigners, and a TIMS card. We arrange both in Kathmandu and your guide carries them through the checkposts at Dhunche and Ghoda Tabela. Fees and rules change, so check current status before you travel."},
+    {"q": "Can I swim in Gosaikunda lake?", "a": "Swimming is not a tourist activity here. The lake is sacred, the water is near freezing for most of the year, and the altitude makes cold shock dangerous. During Janai Purnima, Hindu pilgrims bathe at the shore as an act of devotion. Visitors are welcome to watch respectfully, walk around the lake and visit the Shiva shrine on its bank."},
+    {"q": "Is there mobile signal on the trek?", "a": "Coverage is patchy. Syabrubesi, Dhunche and parts of Thulo Syabru usually have mobile data, and several lodges in Langtang and at Sing Gompa offer wifi for a fee. Expect gaps in the forest and on high ground. Your guide carries a local SIM and can call for help from most lodges. Tell family at home you may be offline for a day or two."},
+    {"q": "What is the weather like at Gosaikunda in November?", "a": "Usually clear and cold. Daytime temperatures at the lake are around 5 to 10 °C in sun, and nights fall well below freezing, often to −10 °C. Wind can be strong in the afternoon. Snow is possible but the trail is normally open. Bring a down jacket, warm hat and gloves, and a sleeping bag rated to about −10 °C."},
+    {"q": "Can this trek finish in Helambu instead of Dhunche?", "a": "Yes. From Gosaikunda you can cross the Laurebina La at 4,610 m and walk down through Ghopte and Tharepati into the Hyolmo villages of Helambu, adding three or four days and ending with a drive from Sermathang or Melamchi. It is a longer, quieter finish. See our Gosaikunda and Helambu trek for that route."},
+    {"q": "Are the Gosaikunda lodges open all year?", "a": "Most lodges at Gosaikunda and Laurebina open from about March to May and September to December, and are packed during Janai Purnima. In deep winter some close when snow is heavy, and in the monsoon a few run with limited menus. Your guide confirms which lodges are open before we leave Kathmandu."},
+    {"q": "How much should I tip on this trek?", "a": "Tipping is customary and part of guide and porter income. A common guideline for a 12-night trek is about USD 10 to 15 per day for a guide and USD 8 to 12 per day for a porter, shared among the group and given at the end. It is a personal choice, and we never add tips to your invoice."}
+  ]
+}

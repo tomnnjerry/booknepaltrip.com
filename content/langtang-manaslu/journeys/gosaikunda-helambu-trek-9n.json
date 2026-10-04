@@ -1,0 +1,90 @@
+{
+  "slug": "gosaikunda-helambu-trek-9n",
+  "title": "Gosaikunda lakes and Helambu trek",
+  "region": "langtang-manaslu",
+  "kind": "trek",
+  "nights": 9,
+  "themes": ["treks-and-trails", "high-altitude", "spiritual-and-pilgrimage", "villages-and-homestays"],
+  "grade": "Challenging",
+  "stops": [
+    {"place": "gosaikunda", "nights": 4},
+    {"place": "helambu", "nights": 4},
+    {"place": "kathmandu", "nights": 1}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 850,
+  "best_months": [0, 0, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 4610,
+  "meta_description": "Gosaikunda and Helambu trek, 9 nights: Dhunche to the sacred lakes, over the Laurebina La (4,610 m) and down through the Hyolmo villages of Helambu.",
+  "summary": "Nine nights from Dhunche to the sacred lakes of Gosaikunda, over the Laurebina La at 4,610 m and down through Tharepati into Helambu, the home of the Hyolmo people. You finish in the apple-growing villages of Tarkeghyang and Sermathang and drive back to Kathmandu, without retracing a single step.",
+  "intro": [
+    "This is a crossing rather than an out-and-back. You start at Dhunche, the Rasuwa district town on the road to Syabrubesi, climb through forest to Sing Gompa and Laurebina, and reach Gosaikunda on day four. Then, instead of turning round, you climb over the Laurebina La, the highest point at 4,610 m, past a string of small lakes, and descend into a different world: the forested ridges and Buddhist villages of Helambu, just north of the Kathmandu valley.",
+    "Helambu is Hyolmo country. The Hyolmo speak their own Tibetan-related language, keep family gompas and grow apples, potatoes and barley on steep fields above the Melamchi Khola. Lodges here are often family homes with a room or two for walkers, and the walking is quieter than on the lake trail. Expect fewer menus and more conversation. Your guide is licensed, as Nepal requires inside national parks; check current status before you travel."
+  ],
+  "story": "The first days belong to pilgrims. The trail from Dhunche climbs through pine and rhododendron to Sing Gompa, then onto an open ridge where on a clear day Ganesh Himal, Manaslu and the Annapurnas stand in a row. At Gosaikunda the lake is still and cold, and shrines to Shiva line the shore. The pass above is wild and stony, and in cloud the cairns matter more than the view. Then the land softens. You drop through Ghopte's overhanging rocks to Tharepati and down into Helambu, where the houses have carved windows, apple trees stand in the yards and the people greet you in Hyolmo. By the end you can see the haze of Kathmandu to the south.",
+  "highlights": [
+    "Gosaikunda (4,380 m) and its chain of sacred lakes in the Langtang National Park",
+    "Crossing the Laurebina La (4,610 m), the high point of the trek",
+    "Tharepati's ridge view over the Jugal Himal and the Melamchi valley",
+    "Hyolmo villages of Melamchi Gaon, Tarkeghyang and Sermathang, with old family gompas",
+    "A full traverse with no backtracking, ending only a few hours' drive from Kathmandu"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive from Kathmandu to Dhunche", "place": "", "overnight": "Dhunche", "alt_m": 1960,
+     "move": "≈ 115 km · 6–7 h drive", "text": "We leave Kathmandu after breakfast by private jeep, crossing the Kakani ridge with views of Ganesh Himal on a clear morning, then dropping to Trishuli Bazaar and climbing the Pasang Lhamu Highway. Dhunche is the headquarters of Rasuwa district and of Langtang National Park. Your guide shows the park permit and TIMS card at the checkpost and settles you into a lodge. The evening is for a short walk through town and a briefing on the days ahead.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Climb through forest to Sing Gompa", "place": "", "overnight": "Sing Gompa (Chandanbari)", "alt_m": 3330,
+     "move": "≈ 6 h walk · +1,370 m", "text": "The trail leaves the road just above Dhunche and climbs steadily through pine, oak and rhododendron to Deurali, where tea shops offer a rest. Above, the forest grows older and mossier, and in April the hillsides are red with rhododendron. Sing Gompa, also called Chandanbari, is a small settlement of lodges around a little monastery at 3,330 m. This is a big gain for one day, so walk slowly, drink plenty and tell your guide if you feel a headache.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "A short climb to Laurebina", "place": "", "overnight": "Laurebina", "alt_m": 3910,
+     "move": "≈ 3 h walk · +580 m", "text": "A short day for acclimatisation. You climb out of the trees onto the open ridge to Laurebina, where a handful of lodges look west to Ganesh Himal, Manaslu and, on a clear evening, the Annapurna range. Spend the afternoon resting, or walk an hour higher up the ridge and come back down to sleep, which helps your body adjust. Laurebina is one of the finest sunset spots in the Langtang region, so keep a warm layer by the window.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "On to the sacred lake of Gosaikunda", "place": "gosaikunda", "overnight": "Gosaikunda", "alt_m": 4380,
+     "move": "≈ 3 h walk · +470 m", "text": "The trail traverses a steep hillside past small shrines and prayer flags, with Saraswati Kunda and Bhairab Kunda below, before reaching Gosaikunda. Hindu tradition says Shiva made this lake by striking the rock with his trident to cool the poison burning his throat, and the Trishuli River takes its name from that trident. Spend the afternoon walking the shore to the Shiva shrine, or climbing a little way toward the pass for a view over the lakes. Nights here are well below freezing.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Over the Laurebina La to Ghopte", "place": "", "overnight": "Ghopte", "alt_m": 3430,
+     "move": "≈ 6–7 h walk · +230 m / −1,180 m", "text": "The hardest day. Leave early and climb past Surya Kunda to the Laurebina La at 4,610 m, a rocky pass marked by cairns and prayer flags. The descent to Phedi is long and steep, then the trail contours through rough ground and forest to Ghopte, where lodges shelter under the rocks. This section has a history of walkers getting lost in cloud, which is why we never cross without a guide and never start late. In snow we may wait a day at Gosaikunda.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Tharepati and down to Melamchi Gaon", "place": "helambu", "overnight": "Melamchi Gaon", "alt_m": 2530,
+     "move": "≈ 6 h walk · +210 m / −1,110 m", "text": "Climb through rhododendron and fir to Tharepati at about 3,640 m, a ridge-top hamlet with a view east to the Jugal Himal. Here the trail divides: south to Kutumsang and Chisapani, or east down a steep path into the Melamchi valley. We go east, dropping through forest to Melamchi Gaon, the first Hyolmo village. The gompa here is an old one, and the village grows potatoes, barley and apples. Tonight you are back among fields, cows and woodsmoke.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Across the Melamchi Khola to Tarkeghyang", "place": "helambu", "overnight": "Tarkeghyang", "alt_m": 2600,
+     "move": "≈ 5–6 h walk · −670 m / +740 m", "text": "Down through terraces to the Melamchi Khola, across a suspension bridge and up the other side to Tarkeghyang, the largest Hyolmo village in Helambu. The name refers to its monastery, and the village is a tight cluster of stone houses with carved wooden windows along narrow lanes. Your guide will take you to the gompa if the caretaker is in. Families here have run lodges for walkers for decades, and a cup of salt-butter tea in a Hyolmo kitchen is part of the welcome.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Along the ridge to Sermathang", "place": "helambu", "overnight": "Sermathang", "alt_m": 2610,
+     "move": "≈ 3–4 h walk · small ups and downs", "text": "A gentle walk south along the ridge through forest and fields, past chortens and small gompas, to Sermathang. Apple orchards surround the village, and on clear days you can see the Jugal and Langtang ranges to the north and the Melamchi valley falling away to the south. The short day leaves an afternoon for wandering the village, visiting its gompa and resting your legs. Tonight is the last on the trail, and lodges often cook something special for the team.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 9, "title": "Drive from Sermathang to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400,
+     "move": "≈ 6–7 h drive", "text": "A jeep collects you in Sermathang and follows the rough road down through terraces to Melamchi Bazaar, which was badly damaged by floods in June 2021 and is still rebuilding. From Melamchi Pul the road runs along the Indrawati to the Araniko Highway and back to Kathmandu. Road conditions on the upper section change with every monsoon. You reach your hotel by afternoon, with time for a shower and a final dinner in the city.", "meals": "Breakfast, Lunch"},
+    {"day": 10, "title": "Trip ends in Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "", "text": "The trek ends after breakfast. We transfer you to Tribhuvan International Airport, or help you plan more time in Nepal. If you want one more Gosaikunda connection before you leave, visit Kumbheshwar temple in Patan, where many devotees believe the pond is fed by water from the lake you walked to, and where a fair is held on Janai Purnima. Patan's Durbar Square is a short walk away and makes a fine last morning.", "meals": "Breakfast"}
+  ],
+  "stays": ["kathmandu-guest-house"],
+  "includes": [
+    "Private jeep Kathmandu–Dhunche and Sermathang–Kathmandu",
+    "Licensed trekking guide and one porter for every two trekkers, with their wages, food, insurance and lodging",
+    "Langtang National Park entry permit and TIMS card",
+    "Eight nights in teahouse lodges and village lodges, twin sharing, with three meals a day on trek",
+    "One night at Kathmandu Guest House with breakfast",
+    "First-aid kit and pulse oximeter carried by your guide"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking to 5,000 m and helicopter evacuation",
+    "Hot showers, battery charging and wifi at lodges",
+    "Drinks, snacks and bottled water",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Foreign trekkers in national parks must trek with a licensed guide under rules in force since April 2023; check current status before you travel.",
+    "The Laurebina La to Ghopte section is easy to lose in cloud or snow; we cross only with a guide and an early start.",
+    "From December to February the pass is often snowbound, and we may reverse or shorten the route.",
+    "Helambu lodges are simpler than those on the Langtang Valley trail, with fewer hot showers.",
+    "Road conditions between Melamchi and Sermathang change every monsoon; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "How hard is the Gosaikunda Helambu trek?", "a": "It is challenging. Day two gains about 1,370 m, and the pass day crosses 4,610 m before a long, rough descent to Ghopte. Most days are 3 to 7 hours. You should be fit enough to walk six hours on steep ground with a day pack, and be comfortable with cold nights. No technical skills are needed, but this is not a first-ever hike."},
+    {"q": "Is the Laurebina La dangerous?", "a": "It is not technical, but it is remote, and the trail between the pass and Ghopte has seen trekkers go missing in fog and snow. The danger is getting lost, not falling. With a licensed guide, an early start and a willingness to wait out bad weather, the crossing is safe for fit walkers. Never attempt it alone or late in the day."},
+    {"q": "Who are the Hyolmo people of Helambu?", "a": "The Hyolmo are a Buddhist community of the Helambu region north of Kathmandu, with their own Tibetan-related language. They were once often called the Helambu Sherpa, though they are a distinct people. They farm potatoes, barley and apples, keep village gompas, and many families also live and work in Kathmandu. Their villages include Melamchi Gaon, Tarkeghyang and Sermathang."},
+    {"q": "Which permits do I need?", "a": "Gosaikunda and the upper Helambu trail lie in Langtang National Park, so you need the park entry permit, about NPR 3,000 for foreigners, and a TIMS card. If your route passes through Shivapuri Nagarjun National Park near Chisapani, a separate entry fee applies. We arrange the paperwork in Kathmandu; check current status before you travel."},
+    {"q": "Can I do this trek in the opposite direction?", "a": "Yes, from Sundarijal or Melamchi up through Helambu to Gosaikunda and out to Dhunche. It is harder on the body, because you gain height on the long climb to Tharepati and reach the pass before you have acclimatised well. We generally recommend starting from Dhunche, but can reverse it for walkers with recent altitude experience."},
+    {"q": "What are the lodges like in Helambu?", "a": "Simple and friendly. Many are family houses with a few twin rooms, shared toilets and meals cooked in the family kitchen. Hot showers are less common than on the Langtang Valley trail, and charging can be limited to the dining room. Food is dal bhat, potatoes, noodles, eggs and local greens, often with apples in autumn."},
+    {"q": "When is the best season for Gosaikunda and Helambu?", "a": "October and November are the best months, with clear skies and a snow-free pass most years. March and April are also good, with rhododendrons in flower below 3,500 m. Winter brings snow to the pass, and the monsoon from June to September brings cloud, leeches and landslides. July or August brings crowds of pilgrims for Janai Purnima."},
+    {"q": "Can I shorten this trek?", "a": "Yes. From Tharepati you can go south via Kutumsang and Chisapani to Sundarijal, which ends near Kathmandu and avoids the drive from Sermathang; this keeps the same number of days but changes the villages. For a shorter trip, a six-night Gosaikunda trek returns to Dhunche from the lake. Ask us and we will adjust the plan."},
+    {"q": "How cold is Gosaikunda at night?", "a": "Cold. From October to March night temperatures at 4,380 m usually fall to between −5 and −15 °C, and the lake freezes in winter. Lodges have a stove in the dining room only. Bring a down jacket, hat, gloves, thermal layers and a sleeping bag rated to about −10 °C. Days in sun can feel pleasantly warm."}
+  ]
+}

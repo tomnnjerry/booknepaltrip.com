@@ -1,0 +1,11 @@
+{% load yatra %}{% if obj.air %}<div class="alti" aria-label="{{ obj.name }} sits at {{ obj.altitude_m }} metres">
+  <div class="alti__bar"><span class="alti__mark" style="--pct: {{ obj.air.pct_height }}%"></span></div>
+  <div class="alti__scale">
+    <span style="--pct: 100%">8,849 m · Sagarmatha</span>
+    <span style="--pct: 60.6%">5,364 m · Everest Base Camp</span>
+    <span style="--pct: 38.9%">3,440 m · Namche</span>
+    <span style="--pct: 15.8%">1,400 m · Kathmandu</span>
+    <span style="--pct: 0.7%">59 m · lowest point</span>
+    <span class="is-here" style="--pct: {{ obj.air.pct_height }}%">{{ obj.altitude_m|num }} m · {{ obj.name }}</span>
+  </div>
+</div>{% endif %}

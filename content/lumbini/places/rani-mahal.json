@@ -1,0 +1,164 @@
+{
+  "slug": "rani-mahal",
+  "name": "Rani Mahal",
+  "name_ne": "रानीमहल",
+  "local_name": "Ranighat Durbar (Nepali)",
+  "region": "lumbini",
+  "kind": "valley",
+  "wiki": "Ranighat Palace",
+  "image_query": "Rani Mahal Palpa Kali Gandaki",
+  "lat": 27.926,
+  "lng": 83.528,
+  "altitude_m": 400,
+  "tagline": "A Rana general's palace for his dead queen, on the Kali Gandaki",
+  "meta_description": "Rani Mahal, Palpa: the white palace Khadga Shumsher Rana built from 1893 on the Kali Gandaki in memory of his wife, called the Taj Mahal of Nepal. History and access.",
+  "summary": "Rani Mahal is a white Rana palace on a rock above the Kali Gandaki in Palpa district, built from 1893 by General Khadga Shumsher Rana in memory of his wife Tej Kumari. Abandoned in 1902 and restored by the government from 2017, it is often called the Taj Mahal of Nepal. It is an easy day trip from Tansen, which lies on the ridge above it.",
+  "intro": [
+    "You come down to Rani Mahal through forest and terraced hills, and then the river appears: the Kali Gandaki, green-grey and fast, cutting through the Mahabharat range. On a rock shelf above it stands a white, colonnaded palace that looks as if it belongs in Calcutta or Lucknow, not in a gorge in the Nepali hills.",
+    "It was built by Khadga Shumsher Rana, a powerful general sent to Palpa after a failed plot in Kathmandu, as a memorial to his youngest wife, Tej Kumari, who died in 1892. Because, like the Taj Mahal, it was built by a grieving husband on a riverbank, people call it the Taj Mahal of Nepal.",
+    "Khadga fled to India in 1902, and the palace slowly fell apart. The government restored it from 2017 and opened a small museum inside. Go for the story, the river and the strange sight of a European-style palace in a Himalayan gorge."
+  ],
+  "story": {
+    "title": "The general who found Lumbini and built for love",
+    "paras": [
+      "Khadga Shumsher was one of the Shumsher brothers who seized power in Nepal in 1885, and he was in line to become prime minister. In 1887 he was accused of plotting against his brother, Prime Minister Bir Shumsher, stripped of his titles and banished west. By 1888 he had been given limited power again as governor and commander of the western hills, based at Palpa.",
+      "It was in this role that, in December 1896, he oversaw the digging that uncovered Ashoka's inscription at Lumbini. In the same years he was building Rani Mahal. His youngest wife, Tej Kumari, had died in 1892, and he raised the palace on the Kali Gandaki in her memory, with forced labour from nearby villages, his soldiers and workers brought from India. He named the forest Rani Ban and the river landing Rani Ghat.",
+      "In 1902 Khadga fled to India with his family, and the palace was left without an owner. Through the 20th century its plaster fell, its roofs leaked and local people took what they could use. Concern grew, and in 2017 the government funded its restoration and opened a museum, with a new road along the river for visitors."
+    ]
+  },
+  "legend": "Local people tell that Tej Kumari asked, before she died, for a place of pilgrimage to be made in her name, and that Khadga chose the Kali Gandaki because the river is sacred and its banks are where Hindus come to be cremated and to bathe. Whether or not those were her words, the palace sits beside a ghat where pilgrims still stop on their way to Ridi.",
+  "people": "The hills around Rani Mahal are farmed by Magar villages, with Brahmin and Chhetri families and Dalit communities. People grow maize, millet and rice on terraces, keep goats and buffalo, and fish in the river. Many young men work in the Gulf or Malaysia. The palace now gives some local families work as caretakers, guides and tea-shop owners.",
+  "untold": [
+    {"fact": "General Khadga Shumsher Rana, who built Rani Mahal, is the same man who oversaw the 1896 excavation that uncovered Ashoka's inscription at Lumbini, while serving as governor of the western hills.", "source": "Wikipedia: Lumbini pillar inscription; Wikipedia: Ranighat Palace"},
+    {"fact": "Khadga Shumsher was banished to the western hills after a failed attempt in 1887 to remove his brother, Prime Minister Bir Shumsher, and was first exiled to Thada in Gulmi before being allowed to settle in Palpa.", "source": "Wikipedia: Ranighat Palace"},
+    {"fact": "Khadga also named the forest around the palace Rani Ban, the queen's forest, and the river landing Rani Ghat, names still used by local people today.", "source": "Wikipedia: Ranighat Palace"}
+  ],
+  "local_words": [
+    {"word": "rani", "script": "रानी", "lang": "Nepali", "meaning": "Queen; Rani Mahal means the queen's palace"},
+    {"word": "ghat", "script": "घाट", "lang": "Nepali", "meaning": "Steps or landing on a river, for bathing or cremation"},
+    {"word": "mahal", "script": "महल", "lang": "Nepali", "meaning": "Palace or mansion"}
+  ],
+  "taste": {"name": "Machha tareko", "text": "Fried Kali Gandaki river fish, rubbed with turmeric, chilli and salt and fried crisp, eaten with beaten rice or roti. Riverside stalls at Ramdi, where the Siddhartha Highway crosses the Kali Gandaki, are known for it; your driver can stop there on the way."},
+  "facts": [["Best months", "Oct – Apr"], ["Days we suggest", "Day trip from Tansen"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa"], ["From Tansen", "≈ 1–2 h by jeep, road conditions vary"], ["Altitude", "≈ 400 m"], ["Known for", "Rana palace, 'Taj Mahal of Nepal', Kali Gandaki"]],
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The palace façade", "text": "A white, colonnaded building in the European style favoured by the Ranas, standing on a rock shelf above the Kali Gandaki. Seen from the riverbank, its arches and terraces stand out sharply against the forested hills."},
+    {"title": "The restored interior and museum", "text": "Inside, the government's restoration has brought back rooms, staircases and courtyards, with a small museum on the palace and its builder. It gives a sense of how a Rana general lived far from Kathmandu."},
+    {"title": "Rani Ghat", "text": "The river landing below the palace, named by Khadga himself. Pilgrims bathe here, cremations take place on the bank, and the cold green water of the Kali Gandaki runs fast past the steps."},
+    {"title": "Rani Ban forest", "text": "The queen's forest on the slopes around the palace. Walking down through it, you hear the river long before you see it, and the palace appears suddenly through the trees."},
+    {"title": "The Kali Gandaki gorge", "text": "Here the Kali Gandaki, which rises beyond Mustang, cuts east through the Mahabharat range. The gorge is deep and steep, and the river is one of the holiest in Nepal."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Rani Mahal is reached by jeep from Tansen on a road down to the Kali Gandaki, about 1–2 hours depending on the state of the road. Some stretches are rough and can close after heavy rain, so check current status before you travel. A private jeep with driver from Tansen is the easiest option."},
+    {"mode": "On foot", "text": "A walking trail leads down to Rani Mahal from Kailash Nagar near Batase Danda, about 13 km by road from Tansen. The descent through forest and villages takes 2–3 hours; most walkers arrange a jeep for the return climb."}
+  ],
+  "where_to_stay": "There are no hotels at Rani Mahal, and the palace is not a place to stay. Visit on a day trip from Tansen, where Hotel Srinagar on Srinagar Danda and the family-run hotels in the old bazaar are the usual bases. A few simple local homes and tea shops near the palace serve snacks and dal bhat, but do not plan to spend the night without arranging it through a guide.",
+  "stays": [],
+  "tips": [
+    "Leave Tansen early to reach the palace before the midday heat in the gorge, which is much warmer than Tansen.",
+    "Check road conditions before setting out, especially from June to September when landslides are common.",
+    "Do not swim in the Kali Gandaki; the current is strong and the water cold even in summer.",
+    "Respect cremations on the ghat: keep your distance and do not photograph mourners.",
+    "Carry water and snacks; facilities at the palace are limited."
+  ],
+  "themes": ["heritage-and-temples", "lakes-and-rivers", "photography"],
+  "nearby": ["tansen", "ridi"],
+  "experiences": [
+    {
+      "slug": "rani-mahal-palace-and-museum",
+      "title": "Inside the Taj Mahal of Nepal",
+      "kind": "heritage",
+      "duration": "1.5–2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Rani Mahal Palpa palace",
+      "wiki": "Ranighat Palace",
+      "summary": "A guided visit to the restored palace and its small museum, with the story of Khadga Shumsher Rana: palace politics in Kathmandu, exile to Palpa, the Lumbini pillar, a dead queen and a flight to India.",
+      "body": [
+        "We walk up from the riverbank to the palace terrace, where your guide begins with the man who built it. Khadga Shumsher was one of the most powerful men in Nepal until a failed plot against his brother sent him to the western hills. From Palpa he governed a large part of the country, oversaw the uncovering of the Lumbini inscription and built this palace for his wife.",
+        "Inside, the restoration completed after 2017 has brought back the rooms, staircases and courtyards. The museum explains the building and its builder with photographs and objects. Look closely at the plaster mouldings and windows, styles imported from British India into a Nepali gorge.",
+        "Then step back out onto the terraces facing the river. From here you understand why he chose this place: rock, water and forest, and no one else in sight."
+      ],
+      "good_for": ["first-timers", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Why is Rani Mahal called the Taj Mahal of Nepal?", "a": "Like the Taj Mahal in Agra, Rani Mahal was built by a grieving husband in memory of his wife and stands on a riverbank. General Khadga Shumsher Rana built it on the Kali Gandaki from 1893 after his youngest wife Tej Kumari died in 1892. The comparison is about the story, not the architecture."},
+        {"q": "Is there an entry fee at Rani Mahal?", "a": "A small entry fee has been charged since the restoration and opening of the museum, with different rates for Nepalis, SAARC nationals and other foreigners. The amount and opening hours are set locally and may change, so check current status before you travel."},
+        {"q": "Can I go inside Rani Mahal?", "a": "Yes. Since the government restoration from 2017, parts of the palace are open to visitors, with a small museum inside. Some areas may be closed for ongoing work. Follow the caretakers' guidance, and ask before photographing inside the museum rooms."}
+      ]
+    },
+    {
+      "slug": "rani-mahal-hike-from-batase-danda",
+      "title": "Hike down to Rani Mahal through Rani Ban",
+      "kind": "trek",
+      "duration": "Full day",
+      "best_time": "Oct–Mar",
+      "image_query": "Palpa hills trail forest",
+      "wiki": "",
+      "summary": "A day hike from Kailash Nagar near Batase Danda, about 13 km from Tansen, down through Magar villages and the queen's forest to Rani Mahal and the Kali Gandaki, with a jeep back up to Tansen.",
+      "body": [
+        "We drive from Tansen to Kailash Nagar near Batase Danda, about 13 km, and start walking downhill. The trail passes terraced fields, Magar village houses with slate or tin roofs, and patches of forest, dropping steadily towards the Kali Gandaki.",
+        "The last section runs through Rani Ban, the forest Khadga Shumsher named for his queen. You hear the river first, then see glimpses of white through the trees, and then the whole palace on its rock above the water.",
+        "After visiting the palace and resting by the river, we take a jeep back up to Tansen, saving the long, hot climb. The descent takes 2–3 hours with stops, and the total day is 7–8 hours."
+      ],
+      "good_for": ["trekkers", "couples", "photographers"],
+      "faqs": [
+        {"q": "How hard is the hike to Rani Mahal?", "a": "It is a moderate downhill walk of 2–3 hours, losing several hundred metres of height on village trails and forest paths. The descent is hard on knees, so walking poles help. Because we return by jeep, there is no steep climb back. Anyone who walks regularly can manage it."},
+        {"q": "Do I need a guide for the Rani Mahal hike?", "a": "We recommend one. Trails branch through villages and forest, signage is minimal, and a local guide can find the right path, talk with villagers and arrange the jeep pickup at the river. No permits are needed, as the area is outside national parks and conservation areas."},
+        {"q": "What should I bring on the Rani Mahal hike?", "a": "Bring good walking shoes, 2 litres of water, sun protection, a light rain jacket and snacks. The gorge is much hotter than Tansen, so wear light layers. Carry cash for tea, snacks and the palace entry. Walking poles help on the steep descent."}
+      ]
+    },
+    {
+      "slug": "rani-mahal-rani-ghat-evening",
+      "title": "Late light at Rani Ghat",
+      "kind": "water",
+      "duration": "1–1.5 hours",
+      "best_time": "Late afternoon, Oct–Apr",
+      "image_query": "Kali Gandaki river gorge Nepal",
+      "wiki": "Kali Gandaki Gorge",
+      "summary": "Spend the end of the afternoon on the Kali Gandaki below the palace, watching the light leave the gorge, pilgrims at the ghat and the white walls of Rani Mahal turning gold above the water.",
+      "body": [
+        "The Kali Gandaki is one of Nepal's holiest rivers, flowing from beyond Mustang through the deepest gorges in the country. At Rani Ghat it is wide, fast and cold, with boulders along the edge and a shingle bank below the palace.",
+        "In the late afternoon the sun drops behind the hills and the gorge fills with shadow, but the palace on its rock catches the last light. It is the time for photographs and for sitting quietly on the stones.",
+        "Pilgrims bathe at the ghat, and sometimes a cremation takes place on the bank. Your guide will explain the rituals and where to stand so you do not intrude. Then we drive back up to Tansen as night falls."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "Can I swim in the Kali Gandaki at Rani Mahal?", "a": "No, we strongly advise against it. The Kali Gandaki is fast, cold and has strong currents and hidden rocks, even when it looks calm. Every year people drown in Nepal's rivers. Paddle at the very edge if you wish, with care, but do not go in."},
+        {"q": "Is it respectful to visit during a cremation?", "a": "Yes, if you stay at a distance, keep quiet and do not photograph mourners or the pyre. Riverbank cremations are part of Hindu life, and families do not mind respectful observers. Follow your guide's lead on where to stand, and leave if asked."},
+        {"q": "When is the best light at Rani Mahal?", "a": "The palace catches warm light in the late afternoon, about an hour before sunset, while the gorge below falls into shadow. Mornings give soft, even light. From October to March skies are clearest. Leave enough time to drive back to Tansen before full dark."}
+      ]
+    },
+    {
+      "slug": "rani-mahal-ramdi-fish-stop",
+      "title": "Fried river fish at Ramdi",
+      "kind": "food",
+      "duration": "45 minutes",
+      "best_time": "Lunchtime, all year",
+      "image_query": "Ramdi Kali Gandaki bridge",
+      "wiki": "",
+      "summary": "On the way to or from the Kali Gandaki country, stop at Ramdi, where the Siddhartha Highway crosses the river, for fried fish from roadside stalls with beaten rice, chutney and a view of the bridge.",
+      "body": [
+        "Ramdi is a small bazaar where the Siddhartha Highway between Tansen and Pokhara crosses the Kali Gandaki on a long bridge. It is known among Nepali travellers for its fried fish, and buses and jeeps pull in all day.",
+        "Stalls rub river fish with turmeric, chilli and salt and fry them until the small ones can be eaten bones and all. You eat them with beaten rice, a sharp tomato and chilli chutney and sliced onion, at plastic tables overlooking the river.",
+        "It is not refined, but it is one of the classic roadside meals of western Nepal, and it fits neatly into a day of Rani Mahal or Ridi."
+      ],
+      "good_for": ["families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is the fish at Ramdi fresh?", "a": "Most stalls sell river fish fried to order, and turnover is high because buses stop all day. Supply varies by season, and some fish may come from farms rather than the river. Choose a busy stall, eat it hot and well fried, and you should have no problem."},
+        {"q": "Where is Ramdi?", "a": "Ramdi is on the Siddhartha Highway at the bridge over the Kali Gandaki, on the Palpa–Syangja border between Tansen and Pokhara. It is roughly 1–1.5 hours north of Tansen by road. Travellers between Pokhara and Tansen pass through it."},
+        {"q": "Are there vegetarian options at Ramdi?", "a": "Yes. Most stalls and eateries also serve dal bhat, vegetable curry, noodles and tea. Ask for vegetable pakoda or chana if you want a snack. Tell your guide in advance if you are strictly vegetarian, as shared oil is used for frying."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Rani Mahal?", "a": "Rani Mahal stands on the bank of the Kali Gandaki river in Palpa district, Lumbini Province, below the hill town of Tansen. It is reached by jeep from Tansen in about 1–2 hours, depending on the road, or by a 2–3 hour walk down from Kailash Nagar near Batase Danda."},
+    {"q": "Who built Rani Mahal?", "a": "General Khadga Shumsher Jang Bahadur Rana built Rani Mahal from 1893 in memory of his youngest wife Tej Kumari, who died in 1892. He was governor of the western hills, based in Palpa, after being banished from Kathmandu for plotting against his brother, Prime Minister Bir Shumsher."},
+    {"q": "Why is it called the Taj Mahal of Nepal?", "a": "Because, like the Taj Mahal, it was built by a grieving husband in memory of his wife, and stands on a riverbank. The comparison is about its story rather than its style; Rani Mahal is a Rana palace in a European neoclassical manner."},
+    {"q": "How long does it take to visit Rani Mahal?", "a": "Plan most of a day from Tansen: about 1–2 hours each way by jeep plus 1.5–2 hours at the palace and riverbank. If you hike down from Batase Danda, the day is 7–8 hours. You can combine it with Ridi only with a very early start."},
+    {"q": "Is Rani Mahal open to visitors?", "a": "Yes. After years of neglect, the government restored the palace from 2017 and opened a small museum, and visitors can see the building and grounds for a small fee. Opening hours and access may change with ongoing work, so check current status before you travel."},
+    {"q": "When is the best time to visit Rani Mahal?", "a": "October to April is best, with dry roads and clear skies. The gorge is warm, around 25–30 °C in the afternoons even in winter months. From June to September monsoon landslides can block the road and the river runs high and muddy."},
+    {"q": "Can I stay overnight at Rani Mahal?", "a": "No, the palace is a museum, not a hotel, and there are no proper lodges at the site. Visit on a day trip from Tansen, where Hotel Srinagar and family-run hotels in the old bazaar provide good bases. Simple tea shops near the palace sell snacks."},
+    {"q": "What happened to Khadga Shumsher?", "a": "Khadga Shumsher fled to India with his family in 1902, and Rani Mahal was abandoned. He did not return to live in the palace, which slowly fell into ruin over the 20th century until its restoration."},
+    {"q": "Is Rani Mahal suitable for children and older travellers?", "a": "Yes, by jeep. The drive is long and bumpy in places, but at the palace there are only short walks and some steps. The hike down from Batase Danda suits fit older children and adults. Keep children well away from the river's edge."}
+  ]
+}

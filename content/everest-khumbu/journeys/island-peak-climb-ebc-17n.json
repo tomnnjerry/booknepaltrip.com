@@ -1,0 +1,344 @@
+{
+  "slug": "island-peak-climb-ebc-17n",
+  "title": "Island Peak Climb with Everest Base Camp",
+  "region": "everest-khumbu",
+  "kind": "adventure",
+  "nights": 17,
+  "themes": [
+    "high-altitude",
+    "adventure-sports",
+    "treks-and-trails"
+  ],
+  "grade": "Strenuous",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 2
+    },
+    {
+      "place": "tengboche",
+      "nights": 1
+    },
+    {
+      "place": "dingboche",
+      "nights": 2
+    },
+    {
+      "place": "everest-base-camp",
+      "nights": 2
+    },
+    {
+      "place": "dingboche",
+      "nights": 1
+    },
+    {
+      "place": "chhukung",
+      "nights": 3
+    },
+    {
+      "place": "pangboche",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 3100,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    0
+  ],
+  "pace": "Active",
+  "max_altitude_m": 6189,
+  "meta_description": "Island Peak (Imja Tse, 6,189 m) climb in 17 nights, acclimatised on the Everest Base Camp trek. Climbing guide, permit, group gear, from USD 3,100.",
+  "summary": "Your first Himalayan summit. Seventeen nights that use the Everest Base Camp trek and Kala Patthar to acclimatise, then move into the Imja valley to climb Island Peak, 6,189 m, with a licensed climbing guide, fixed ropes on the headwall and a reserve day for weather. For fit trekkers ready to learn crampons and jumars.",
+  "intro": [
+    "Island Peak, Imja Tse on Nepali maps, rises from the Imja valley like a ridge of rock and ice between the Lhotse and Ama Dablam glaciers. Eric Shipton's party named it in 1951 because from Dingboche it looks like an island in a sea of ice. In 1953 members of the British Everest expedition, among them Tenzing Norgay, climbed it as training. It is still the peak many people climb before thinking about bigger ones.",
+    "The climb is not technical by Himalayan standards but it is real mountaineering: a long scramble to the glacier, crampons and a rope team across crevasses, a 100 m headwall of snow and ice at about 45 degrees on fixed lines, and a narrow summit ridge. We acclimatise first by trekking to Everest Base Camp and Kala Patthar, which is the safest way to arrive at base camp ready. It is also the best test of how you feel up high."
+  ],
+  "story": "For nine days this is the Everest trek: Namche's markets, Tengboche's monks, Dingboche's stone fields, the memorials at Thukla, base camp and Kala Patthar. Then you turn east into the Imja valley, where climbing teams gather at Chhukung, a few lodges with Lhotse's south face hanging over them. The Imja lake, one of the most closely watched glacial lakes in Nepal, lies below the peak. At base camp you practise on fixed ropes beside the moraine. Summit night starts with tea at 1 am, head torches up a gully, then dawn on the glacier and the headwall above. From the top, Lhotse is close enough to feel, Makalu stands to the east and Ama Dablam to the south. Then the long walk down through Pangboche and Namche, a climber now.",
+  "highlights": [
+    "Summit of Island Peak (Imja Tse), 6,189 m, with fixed ropes on the headwall",
+    "Acclimatisation via Everest Base Camp and Kala Patthar sunrise",
+    "Crampon and rope skills training at Island Peak base camp",
+    "The Imja valley and Chhukung under the south face of Lhotse",
+    "A reserve summit day for weather"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, gear check",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at the airport and take you to your hotel. In the afternoon your guide and climbing guide check your climbing kit item by item: mountaineering boots that take crampons, crampons, harness, ascender, figure-of-eight or belay device, slings, helmet, down suit or warm layers and expedition gloves. Anything missing can be rented in Thamel today. Your Island Peak climbing permit and park permits are in hand. Dinner together and an early night.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Lukla, walk to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 35 min flight · 3–4 h walk · −250 m",
+      "text": "The early flight lands on Lukla's short sloping runway at 2,860 m. Your climbing gear goes up with the porters or by yak in separate bags. We walk down through Chheplung to Phakding beside the Dudh Koshi, past water-turned prayer wheels and carved mani stones. It is an easy start, and sleeping lower than Lukla helps the first night of altitude. Use the afternoon to rest and drink plenty. Your guide sets a slow pace from the first hour.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phakding to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 6 h walk · +830 m",
+      "text": "Up the river through Benkar and Monjo, where the national park permits are checked, to Jorsalle and the high Hillary suspension bridge. The long climb to Namche takes two to three hours through pine; on a clear day you see the summit of Everest from a bend halfway. Namche is the Khumbu's market town, and the last place with a choice of gear shops if anything is still missing. Ask for an upper-floor room for the morning view.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Acclimatisation day in Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4–5 h day hike · +440 m and back",
+      "text": "A hike up to Syangboche and Hotel Everest View, about 3,880 m, for the first view of Lhotse and, beside it, the top of Island Peak. Then down through Khumjung and its monastery. In the afternoon, visit the Sherpa Culture Museum, which has photographs of early expeditions and the Sherpas who made them possible. Climbing and sleeping in this pattern is what gets your body ready for the peak. Eat well; appetite often drops higher up.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Namche to Tengboche",
+      "place": "tengboche",
+      "overnight": "Tengboche",
+      "alt_m": 3867,
+      "move": "≈ 5–6 h walk · +430 m",
+      "text": "Along the level path to Kyangjuma, down to Phunki Thenga by the river and up through rhododendron and fir to Tengboche, the monastery founded in 1916 on a saddle facing Everest. Many climbers ask for a blessing from the monks here before an expedition; your guide can arrange a short puja if you wish. The afternoon prayers start around 3 pm. Sit quietly at the back, with shoes and hat off.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tengboche to Dingboche",
+      "place": "dingboche",
+      "overnight": "Dingboche",
+      "alt_m": 4410,
+      "move": "≈ 5–6 h walk · +540 m",
+      "text": "Down through Deboche, across the Imja Khola and up to Pangboche, then along the river past Somare to Dingboche. As you walk, Island Peak comes into view at the head of the Imja valley, a rock and ice ridge between bigger mountains. Dingboche's stone-walled fields of barley and potatoes are farmed by Sherpa families in summer. Tonight is your first above 4,000 m; drink three to four litres today. Report any headache to your guide early.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Acclimatisation hike above Dingboche",
+      "place": "dingboche",
+      "overnight": "Dingboche",
+      "alt_m": 4410,
+      "move": "≈ 4 h day hike · up to ≈ 5,000 m and back",
+      "text": "We climb the ridge behind Dingboche towards Nangkartshang Peak, about 5,083 m, going as high as feels comfortable. From the ridge you look straight up the Imja valley to Island Peak and can trace the climbing route with your guide: the rocky gully, the glacier, the headwall and the summit ridge. The afternoon is for rest. Your guide checks pulse and oxygen readings morning and evening from now on. Early dinner and bed by eight.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Dingboche to Lobuche",
+      "place": "",
+      "overnight": "Lobuche",
+      "alt_m": 4940,
+      "move": "≈ 5 h walk · +530 m",
+      "text": "Across the Pheriche valley to Thukla, then a steep hour up the Khumbu Glacier's moraine to the memorial cairns at the Thukla pass, where climbers and Sherpas lost on Everest are remembered. The trail then follows the glacier to Lobuche, under Nuptse and Lobuche East. A good place to think about mountain risk, and about turning back when the mountain says so. Cold evening; stay by the stove and rest.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Gorak Shep and Everest Base Camp",
+      "place": "everest-base-camp",
+      "overnight": "Gorak Shep",
+      "alt_m": 5164,
+      "move": "≈ 7–8 h walk · +420 m to base camp",
+      "text": "Along the moraine to Gorak Shep at 5,164 m, then in the afternoon over rubble and ice to Everest Base Camp, 5,364 m, below the Khumbu Icefall. In spring you will see expedition camps and perhaps climbers training on the ice; in autumn the camp is quiet. Back to Gorak Shep for the night, which is the best acclimatisation sleep before the climb, at more than 5,000 m. Keep your water bottle inside your sleeping bag tonight.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Kala Patthar sunrise, down to Dingboche",
+      "place": "everest-base-camp",
+      "overnight": "Dingboche",
+      "alt_m": 4410,
+      "move": "≈ 2 h up · ≈ 6 h down · −750 m overnight",
+      "text": "Before dawn we climb Kala Patthar, about 5,545 m, for sunrise on Everest, Lhotse and Nuptse. This climb is also your test: how you feel above 5,500 m tells us a lot about summit day. After breakfast at Gorak Shep we walk down past Lobuche and Thukla, then across to Dingboche to sleep lower and recover. Your body will rebuild red blood cells in the thicker air. Eat a big dinner tonight.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Dingboche to Chhukung",
+      "place": "chhukung",
+      "overnight": "Chhukung",
+      "alt_m": 4730,
+      "move": "≈ 3 h walk · +320 m",
+      "text": "An easy morning up the Imja valley past stone summer huts and yak pastures to Chhukung, where climbing teams gather below Lhotse's south face. Here your climbing guide checks every piece of gear again, adjusts crampons to your boots and runs through knots, jumar technique and abseiling on a rock nearby. Rest in the afternoon. You can rent missing gear in Chhukung, but sizes are limited. Wash and dry socks while the sun is on the lodge wall.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Chhukung to Island Peak Base Camp",
+      "place": "chhukung",
+      "overnight": "Island Peak Base Camp",
+      "alt_m": 5087,
+      "move": "≈ 3 h walk · +360 m",
+      "text": "We follow the Imja glacier's moraine past Imja lake, a glacial lake whose level the Nepal Army lowered in 2016 to reduce flood risk, to base camp at about 5,087 m, a tented camp at Pareshaya Gyab below the peak. After lunch the climbing guide runs a full practice session on fixed lines: clipping in, using the ascender, passing anchors and abseiling. Early dinner, kit laid out, and sleep by seven.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Summit Island Peak, down to Chhukung",
+      "place": "chhukung",
+      "overnight": "Chhukung",
+      "alt_m": 4730,
+      "move": "≈ 10–14 h round trip · +1,100 m, −1,460 m",
+      "text": "Tea at about 1 am and away by head torch, up a long rocky gully to the crampon point at the glacier's edge. Roped together, we cross the glacier, sometimes on ladders over crevasses, to the foot of the headwall. About 100 m of steep snow and ice on fixed ropes lead to the summit ridge and the top at 6,189 m. Lhotse towers above you; Makalu and Ama Dablam stand on either side. Then a careful descent to base camp and on to Chhukung.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Reserve day, walk to Pangboche",
+      "place": "pangboche",
+      "overnight": "Pangboche",
+      "alt_m": 3985,
+      "move": "≈ 5 h walk · −745 m",
+      "text": "This day is held for weather: if wind or snow stops the summit attempt, we use it to try again. If you have summited, we walk down the Imja valley past Dingboche to Pangboche, one of the oldest Sherpa villages in the valley, with an old gompa above the houses that local tradition credits as the first in the Khumbu. Your legs will be heavy, but the air feels thick and kind after the climb.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 15,
+      "title": "Pangboche to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 6 h walk · −545 m",
+      "text": "Down through Deboche and up to Tengboche, then down through the forest to Phunki Thenga and back along the Kyangjuma traverse into Namche. This is the evening for celebration: a hot shower, pizza or yak steak and perhaps a beer in one of the bakeries. Your summit certificate from the Nepal Mountaineering Association is issued after the trip in Kathmandu. Namche's bakeries stay open late in the main seasons, and the lodge will have hot water for a proper wash after two weeks of wet wipes.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 16,
+      "title": "Namche to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 7 h walk · −580 m",
+      "text": "Down to the Hillary bridge and along the Dudh Koshi through Monjo and Phakding, then the last climb of about an hour from Chheplung up to Lukla. Your guide reconfirms the morning flight. Tonight is the time to thank your climbing guide, trekking guide and porters, who have carried your gear for over two weeks; your guide can tell you what tip is normal for a climbing crew. Lukla has hot showers and quiet rooms.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 17,
+      "title": "Fly Lukla to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "The morning flight returns you to Kathmandu, or in peak months to Ramechhap with a drive of four to five hours. Afternoon free. Your guide collects any rented climbing gear and returns it to the shop. If Lukla flights are delayed, we wait for the next one; we strongly recommend at least one extra spare night in Kathmandu before your international flight. Laundry can go to the hotel service the same afternoon, and in the evening the restaurants of Thamel and Jhamsikhel are close by.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 18,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "Transfer to Tribhuvan International Airport about three hours before your international flight. If you are staying on, a few days in Pokhara or Chitwan suit tired legs. We also collect any feedback about the climb from you before you go, because it helps our climbing guides plan the next season. Congratulations on your first Himalayan summit, or on reaching as high as the mountain allowed. Leave any rented gear at reception for us to collect.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu"
+  ],
+  "includes": [
+    "Airport transfers and 2 nights at Hotel Shanker, Kathmandu, twin sharing with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "Licensed trekking guide, plus licensed climbing guide for the Island Peak section (1 guide to 2 climbers on the climb)",
+    "Island Peak climbing permit, Sagarmatha National Park fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "14 nights in teahouses and 1 night in tents at Island Peak base camp, with all meals on trek",
+    "Group climbing gear: fixed ropes, ice screws, snow bars and tents",
+    "Porters for trekking and climbing gear, with wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel and climbing insurance covering mountaineering to 6,500 m and helicopter evacuation (required)",
+    "Personal climbing gear (boots, crampons, harness, ascender, helmet); rental about USD 100–200 for the trip",
+    "Hot showers, charging, Wi-Fi and drinking water on trek",
+    "Summit bonus for the climbing guide, and tips for the crew",
+    "Extra nights caused by weather or flight delays"
+  ],
+  "good_to_know": [
+    "The Island Peak permit is issued through the Nepal Mountaineering Association; the fee has been about USD 250 in spring and USD 125 in autumn per climber. Check current status before you travel.",
+    "You do not need previous mountaineering experience, but you must be comfortable walking 10–14 hours on summit day at altitude.",
+    "Since April 2023 foreign trekkers in national parks must use a licensed guide; this trip includes trekking and climbing guides.",
+    "The headwall and crevasse crossings change each season; in some seasons ladders are fixed over crevasses.",
+    "Your guide may turn the team around below the summit for weather, timing or health; that decision is final.",
+    "Best seasons are April–May and late October–November; winter climbs are very cold and windy."
+  ],
+  "faqs": [
+    {
+      "q": "How hard is Island Peak to climb?",
+      "a": "It is graded as a straightforward Himalayan climb but is physically hard. Summit day takes 10 to 14 hours, with a rocky scramble, a glacier crossing, about 100 m of steep snow and ice at roughly 45 degrees on fixed ropes and a narrow summit ridge. Fit trekkers with basic training at base camp can do it."
+    },
+    {
+      "q": "Do I need climbing experience for Island Peak?",
+      "a": "No formal experience is required. You learn to use crampons, an ascender and an abseil device in our training at Chhukung and base camp. Previous practice on a rock wall, a winter hill walk with crampons or a short snow course at home makes summit day much easier and safer, and we recommend it."
+    },
+    {
+      "q": "How much does the Island Peak climb cost?",
+      "a": "This 17-night trip starts from USD 3,100 per person, twin sharing, including Lukla flights, trekking and climbing guides, the climbing permit, park and municipality permits, teahouses and base camp tents with meals, group climbing gear and two Kathmandu nights. Personal gear rental, insurance, visa, summit bonuses and tips are extra."
+    },
+    {
+      "q": "What is the success rate on Island Peak?",
+      "a": "We do not publish success statistics. Weather, snow conditions, crevasses and your health all decide the day. Good acclimatisation, such as reaching Kala Patthar first, and a reserve day both raise your chances. Climbers most often turn back because of tiredness or cold on the headwall, not because the climb is too technical."
+    },
+    {
+      "q": "What gear do I need for Island Peak?",
+      "a": "Personal gear: mountaineering boots compatible with crampons, crampons, harness, ascender (jumar), belay or abseil device, two locking carabiners, slings, helmet, warm down layers, expedition mitts and goggles. We supply fixed ropes, ice screws, snow bars and tents. Most personal gear can be rented in Kathmandu, with smaller choice in Chhukung."
+    },
+    {
+      "q": "Why trek to Everest Base Camp first?",
+      "a": "Because altitude is the hardest part of Island Peak. Sleeping at Gorak Shep above 5,100 m and climbing Kala Patthar to about 5,545 m before the climb leaves your body much better prepared for 6,189 m. Climbing straight from Dingboche is possible but less safe and less pleasant."
+    },
+    {
+      "q": "When is the best time to climb Island Peak?",
+      "a": "April to May and October to November. Spring is slightly warmer with more snow on the route; autumn is clearer and drier but colder on summit morning. In winter the wind and cold make the headwall difficult, and the monsoon brings fresh snow and cloud. Most teams aim for early morning summits in these windows."
+    },
+    {
+      "q": "Why is it called Island Peak?",
+      "a": "Eric Shipton's British reconnaissance party named it in 1951 because, seen from Dingboche, it looks like an island in a sea of ice between the glaciers flowing from Lhotse and Ama Dablam. In 1983 it was given the name Imja Tse, after the valley, but Island Peak remains the name most climbers use."
+    },
+    {
+      "q": "What permits do I need for Island Peak?",
+      "a": "You need a climbing permit from the Nepal Mountaineering Association, plus the Sagarmatha National Park entry permit and the Khumbu Pasang Lhamu Rural Municipality permit. The climbing permit fee depends on season. We arrange all three with your passport details. Fees and rules change, so check current status before you travel."
+    }
+  ]
+}

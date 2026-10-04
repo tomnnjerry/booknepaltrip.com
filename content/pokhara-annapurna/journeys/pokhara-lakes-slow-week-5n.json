@@ -1,0 +1,182 @@
+{
+  "slug": "pokhara-lakes-slow-week-5n",
+  "title": "Pokhara Lakes Slow Week",
+  "region": "pokhara-annapurna",
+  "kind": "tour",
+  "nights": 5,
+  "themes": [
+    "lakes-and-rivers",
+    "slow-and-wellness",
+    "photography",
+    "food-and-festivals"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 3
+    },
+    {
+      "place": "begnas-lake",
+      "nights": 2
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 850,
+  "best_months": [
+    1,
+    1,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1600,
+  "meta_description": "Pokhara lakes in 5 nights: Fish Tail Lodge on Phewa, Tal Barahi by boat, Sarangkot sunrise, the Peace Pagoda, then two quiet nights by Begnas and Rupa lakes.",
+  "summary": "Five slow nights on the water: three at Fish Tail Lodge on its own peninsula in Phewa Lake, with boats to Tal Barahi, a Sarangkot sunrise and the Peace Pagoda walk; then two nights by the quieter Begnas Lake, with a ridge walk to Rupa Lake, fish farms and village paths.",
+  "intro": [
+    "The Pokhara valley holds a cluster of nine lakes, listed together as a Ramsar wetland in 2016, and most visitors see only one. Phewa is the famous one, with Machhapuchhre reflected in it at dawn and the cafes of Lakeside along its eastern shore. But 15 km east, in the old Lekhnath area, Begnas and Rupa lakes sit among rice terraces and fish ponds, with fishing boats, a few lakeside lodges and almost no traffic. This week moves slowly between the two.",
+    "There is no early alarm except one optional sunrise, no long drive and no trek. Days are built around a boat, a walk, a meal and a long afternoon. It suits couples, older travellers, anyone recovering from a trek, and those who want Nepal's mountains without climbing toward them. Nights are split between a classic lakeside lodge and simple family lodges by Begnas, with a private car for every move."
+  ],
+  "story": "The week begins on a raft. Fish Tail Lodge, opened in 1969 on a small peninsula at the southern end of Lakeside, is reached by a rope-pulled pontoon across a narrow arm of Phewa, and from its gardens the lake fills the foreground and Machhapuchhre the sky. You row to the island temple of Tal Barahi, where Saturday mornings bring families with offerings for the boar-headed goddess, and walk up the forest stair to the World Peace Pagoda. One morning starts in the dark at Sarangkot. Then the road east takes you out of town to Begnas, where the shore is lined with paddy and fish cages, and the walk over the Panchabhaiya ridge reaches Rupa, the shallower lake, where wetland birds feed in the reeds. Evenings are fish curry, lake wind and early nights.",
+  "highlights": [
+    "Three nights at Fish Tail Lodge, reached by a rope-pulled raft across Phewa Lake",
+    "Rowing to the island temple of Tal Barahi in Phewa Lake",
+    "Optional sunrise at Sarangkot, 1,600 m, over Machhapuchhre and the Annapurnas",
+    "Two quiet nights at Begnas Lake among paddy fields and fish farms",
+    "The ridge walk from Begnas to Rupa Lake, with wetland birds"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive at Fish Tail Lodge",
+      "place": "pokhara",
+      "overnight": "Fish Tail Lodge, Pokhara",
+      "alt_m": 822,
+      "move": "",
+      "text": "We meet you at Pokhara airport and drive to the jetty at the south end of Lakeside, where the lodge's raft pulls you across a short channel to its peninsula. Fish Tail Lodge was one of the first hotels in Pokhara, and its low stone cottages face the lake and the mountains. Spend the afternoon in the garden; on clear evenings Machhapuchhre turns pink above the water. Dinner can be at the lodge or across in Lakeside.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Tal Barahi and the Peace Pagoda",
+      "place": "pokhara",
+      "overnight": "Fish Tail Lodge, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 1 h boat · ≈ 2.5 h walk",
+      "text": "A morning boat to Tal Barahi, the two-tiered pagoda temple on a small island in Phewa, dedicated to the goddess Barahi. Then across to the south shore at Anadu and up the forest stair to the World Peace Pagoda on the ridge, about an hour's climb. From the top you see the whole lake, the city and the range behind. Walk back down the other side to Pardi dam, or return by boat. Afternoon free; the lodge's spa or a book by the water.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Sarangkot sunrise, old Pokhara",
+      "place": "sarangkot",
+      "overnight": "Fish Tail Lodge, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 30 min drive each way",
+      "text": "For those who want it, an early drive to Sarangkot, 1,600 m, for sunrise over Machhapuchhre, the Annapurnas and Dhaulagiri; back for breakfast. Late morning in old Pokhara, the bazaar north of Lakeside where Newar traders from Bhaktapur and Kathmandu settled along the trade route: wooden balconies, brass shops and the Bindhyabasini temple on its hill. Afternoon at the International Mountain Museum or a nap. Evening on the lake in a doonga with a boatman who has rowed here for years.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "To Begnas Lake",
+      "place": "begnas-lake",
+      "overnight": "Begnas Lake",
+      "alt_m": 650,
+      "move": "≈ 15 km · 40 min drive",
+      "text": "We drive east through the city to Begnas, Pokhara's second-largest lake, in the Lekhnath area. The road ends at a small bazaar by the dam, and beyond it the shore is quiet: fish cages, rice terraces climbing the slopes, women washing clothes on the steps. Check in to a simple lakeside lodge and spend the afternoon on the water in a rented rowing boat. Fresh tilapia or carp from the lake farms is on every menu here.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Ridge walk to Rupa Lake",
+      "place": "begnas-lake",
+      "overnight": "Begnas Lake",
+      "alt_m": 650,
+      "move": "≈ 3–4 h walk",
+      "text": "A gentle walk with a local guide up onto the ridge between Begnas and Rupa, through village paths, farms and small forest. From the ridge both lakes are visible with the Annapurnas behind. Rupa is smaller and shallower, with reed beds where egrets, herons and kingfishers feed and, in winter, migrating ducks. A community cooperative manages fishing on the lake. We come back to Begnas for a late lunch and a slow afternoon.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "≈ 40 min drive",
+      "text": "A last morning by the lake, then a drive back to Pokhara airport or your onward bus. If you are continuing to Chitwan, the road south leaves from the east side of the city and passes close to Begnas, so the transfer is easy. We can also extend with a few nights at Tiger Mountain Pokhara Lodge on the ridge above. Leave about three hours between a Pokhara flight and any connection in Kathmandu.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "fish-tail-lodge"
+  ],
+  "includes": [
+    "3 nights at Fish Tail Lodge, lake-view room, with breakfast",
+    "2 nights at a simple lakeside lodge at Begnas with breakfast and dinner",
+    "Private car for all transfers and the Sarangkot sunrise",
+    "Boat to Tal Barahi and across Phewa; rowing boat at Begnas",
+    "Local English-speaking guide for the Peace Pagoda, old Pokhara and Rupa walks",
+    "Entry to the International Mountain Museum"
+  ],
+  "excludes": [
+    "Flights to and from Pokhara",
+    "Lunches, and dinners in Pokhara",
+    "Spa treatments and drinks",
+    "Paragliding or other activities",
+    "Tips"
+  ],
+  "good_to_know": [
+    "Machhapuchhre is usually clearest from October to February; spring brings haze by mid-morning.",
+    "The Fish Tail Lodge raft runs on a rope, so there is no engine noise on the crossing.",
+    "Tal Barahi is busiest on Saturdays, when local families bring offerings; weekdays are quieter.",
+    "Begnas lodges are simple and family-run; we choose clean rooms with lake views.",
+    "Life jackets are provided on Phewa boats; ask for one for children."
+  ],
+  "faqs": [
+    {
+      "q": "How many lakes are there in Pokhara?",
+      "a": "The Pokhara valley's lake cluster, a Ramsar wetland site since 2016, includes Phewa, Begnas, Rupa, Dipang, Maidi, Khaste, Neureni, Gunde and Kamal Pokhari. Phewa is by far the most visited and lies beside Lakeside. Begnas and Rupa, about 15 km to the east, are the next largest and much quieter. The smaller lakes are mostly visited by birdwatchers and local walkers."
+    },
+    {
+      "q": "Is Fish Tail Lodge worth staying at?",
+      "a": "For a lake view, yes. It sits on a peninsula in Phewa Lake reached by a raft, so the gardens are quiet and face Machhapuchhre directly. Rooms are comfortable rather than lavish, and the setting is the main reason to choose it. It has been a Pokhara landmark since it opened in 1969."
+    },
+    {
+      "q": "What is the best time for Pokhara's lakes?",
+      "a": "October to February gives the clearest mountain reflections in Phewa, especially early in the morning. March and April are warm, with more haze. Monsoon, June to September, brings heavy rain; the lakes are full and green, and boating continues on dry spells, but the mountains are rarely seen."
+    },
+    {
+      "q": "Can you swim in Phewa Lake?",
+      "a": "Some people do, but we do not recommend it near Lakeside because of boat traffic and water quality concerns close to the town. Begnas Lake is cleaner, and some people swim there in warm months from the quieter shores. Boating is the normal way to enjoy both lakes."
+    },
+    {
+      "q": "How do I get from Pokhara to Begnas Lake?",
+      "a": "Begnas is about 15 km east of Lakeside, around 40 minutes by car or taxi, depending on city traffic. Local buses run from Pokhara's Prithvi Chowk area to Begnas bazaar. The road ends near the dam, and from there you walk along the shore or take a boat to lodges further along."
+    },
+    {
+      "q": "Is this trip good for older travellers?",
+      "a": "Yes. There is no trekking and only gentle walks of up to 3 to 4 hours, with options to shorten them. The highest point is Sarangkot at 1,600 m, reached by car. Fish Tail Lodge's raft crossing is short and stable, and boats are optional. Pace is slow, with afternoons kept free."
+    },
+    {
+      "q": "What food should I try around the Pokhara lakes?",
+      "a": "Try fried fish from the lake farms, usually tilapia or carp, served with rice and pickle at small restaurants around Begnas and on Phewa's shore. In old Pokhara try sel roti, a sweet ring of rice-flour bread, and a Thakali set with buckwheat or rice. Lakeside also has bakeries and international cafes."
+    },
+    {
+      "q": "Is Pokhara good for a relaxing holiday?",
+      "a": "Yes. Pokhara is Nepal's slowest-paced city for visitors: flat lakeside walks, boating, cafes, spas and yoga, with mountain views when the air is clear. Staying away from central Lakeside, at Fish Tail Lodge or by Begnas, makes it quieter still. Many trekkers end their trips here for exactly that reason."
+    },
+    {
+      "q": "How much does the Pokhara lakes week cost?",
+      "a": "Our 5-night plan starts from USD 850 per person, twin sharing, with three nights at Fish Tail Lodge, two nights by Begnas Lake, private transfers, boats, guides for the walks and museum entry. Flights between Kathmandu and Pokhara add about USD 100–130 each way per person."
+    }
+  ]
+}

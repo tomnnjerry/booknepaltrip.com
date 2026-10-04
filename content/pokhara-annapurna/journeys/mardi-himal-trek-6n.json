@@ -1,0 +1,193 @@
+{
+  "slug": "mardi-himal-trek-6n",
+  "title": "Mardi Himal Ridge Trek",
+  "region": "pokhara-annapurna",
+  "kind": "trek",
+  "nights": 6,
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "dhampus",
+      "nights": 1
+    },
+    {
+      "place": "mardi-himal",
+      "nights": 4
+    },
+    {
+      "place": "pokhara",
+      "nights": 1
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 650,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 4500,
+  "meta_description": "Mardi Himal trek in 6 nights from Pokhara: Australian Camp, cloud forest, the grass ridge to High Camp and a dawn climb under Machhapuchhre's west face.",
+  "summary": "Six nights from Pokhara up a single grass ridge that points straight at Machhapuchhre. We start at Australian Camp, climb through cloud forest to Low Camp and High Camp (3,580 m), walk at dawn toward Mardi Himal base camp, and come down through the Gurung village of Siding.",
+  "intro": [
+    "Mardi Himal (5,587 m) is a small satellite peak on the south-west shoulder of Machhapuchhre, and the trek named after it follows a ridge that most people only ever see from Pokhara's lakeshore. The route was promoted as a lodge trek only in the 2010s, and for years it stayed quiet while the crowds went to ABC on the other side of the Modi Khola. It is still less busy, shorter, and in many ways more dramatic: above Low Camp you walk on a crest of grass with a drop on both sides and the fishtail filling the sky ahead.",
+    "Lodges are small and simple, and at High Camp rooms are limited, so in October and November we book ahead. The trek suits fit walkers who want a high-mountain feel in under a week. The walk to the upper viewpoint and base camp is long and exposed to wind, but it is a walk, not a climb. A porter for every two trekkers carries the bags, and your guide phones ahead each day to secure rooms. Most groups reach High Camp on the fourth day."
+  ],
+  "story": "The first day is easy: terraces, the Gurung houses of Dhampus, and the meadow at Australian Camp where the whole Annapurna range lines up at sunset. Then the trail turns into the forest, and for a day you walk through rhododendron, oak and maple hung with moss. Above Forest Camp the trees shrink and open. At Low Camp the ridge narrows, and you can see both the Modi Khola valley on one side and the Mardi Khola on the other. High Camp sits on the crest, a few lodges among rocks and dwarf rhododendron, with Mardi Himal and Machhapuchhre so close that you hear the ice fall on warm afternoons. The descent drops through bamboo and fields to Siding, a Gurung village where the bus is still the event of the day.",
+  "highlights": [
+    "Machhapuchhre's west face from High Camp, closer than from any other trekking route",
+    "The grass ridge above Low Camp, with Annapurna South and Hiunchuli on the left",
+    "A dawn walk to Mardi Himal's upper viewpoint and base camp, roughly 4,200–4,500 m",
+    "Cloud forest of rhododendron and oak between Australian Camp and Forest Camp",
+    "Siding, a quiet Gurung village on the descent"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara to Kande, walk to Australian Camp",
+      "place": "dhampus",
+      "overnight": "Australian Camp",
+      "alt_m": 2060,
+      "move": "≈ 1 h drive · then ≈ 2 h walk · +300 m",
+      "text": "We drive out of Pokhara along the Baglung road to Kande, about an hour, and walk up a stone trail through forest to Australian Camp, a meadow ridge with a few lodges. The name is said to come from Australian trekking groups who used to camp on the meadow. Arrive by lunchtime and spend the afternoon watching cloud lift off the range: Annapurna South, Hiunchuli, Machhapuchhre and Annapurna II and IV across the horizon. The sunset here is one of the best on any short trek.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Into the forest to Forest Camp",
+      "place": "mardi-himal",
+      "overnight": "Forest Camp",
+      "alt_m": 2550,
+      "move": "≈ 6 h walk · +700 m / −200 m",
+      "text": "We drop to Pothana, pass the ACAP checkpoint, and walk to Pitam Deurali, a pass with tea houses and a last open view. From here the trail climbs into old forest of rhododendron, oak and maple. There are no villages, only a few tea stops. Forest Camp, also called Kokar, is a cluster of lodges in a clearing. It is quiet and damp, often in cloud by afternoon, and wonderful in spring when the rhododendrons drop red petals onto the trail.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Forest Camp to Low Camp",
+      "place": "mardi-himal",
+      "overnight": "Low Camp",
+      "alt_m": 2990,
+      "move": "≈ 4 h walk · +450 m",
+      "text": "A shorter day, which helps acclimatisation. The forest continues, steadily climbing, with moss and lichen everywhere and occasional openings toward the Modi Khola. At Low Camp the trees thin, and the ridge suddenly shows its shape: Machhapuchhre appears straight ahead, closer than it has ever looked from Pokhara. Spend the afternoon walking up to Badal Danda, the cloud ridge, for the views and come back down to sleep, a classic climb-high, sleep-low move.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Low Camp to High Camp",
+      "place": "mardi-himal",
+      "overnight": "High Camp",
+      "alt_m": 3580,
+      "move": "≈ 4 h walk · +600 m",
+      "text": "Today is the best walking on the trek. Above Badal Danda the trail follows the crest of the ridge through dwarf rhododendron and grass, with the land falling away on both sides. Look for Himalayan monal, Nepal's national bird, its feathers flashing green and copper. High Camp sits on the ridge with a few lodges. Arrive early, rest, drink plenty, and watch the face of Machhapuchhre change colour as the sun sets. It is cold at night, often below freezing from October to March.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Dawn to the viewpoint, down to Low Camp",
+      "place": "mardi-himal",
+      "overnight": "Low Camp",
+      "alt_m": 2990,
+      "move": "≈ 7–8 h walk · +600–900 m / −1,500 m",
+      "text": "We leave at about 5 am by head torch for the Upper Viewpoint, roughly 4,200 m, a 2 to 3 hour climb on a steep grass trail. At sunrise Mardi Himal, Machhapuchhre, Annapurna South and Hiunchuli are all within a few kilometres. Strong walkers in good weather can continue another 1.5 hours to Mardi Himal base camp, about 4,500 m, below the peak. Your guide decides based on wind and snow. Then down the ridge to High Camp for breakfast and on to Low Camp for the night.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Descend to Siding, drive to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "≈ 5 h walk · −1,300 m · then ≈ 2.5 h drive",
+      "text": "From Low Camp a different trail drops steeply west through forest to Siding, a Gurung village of terraces and stone houses, about 1,700 m. The descent is long and hard on the knees but varied: bamboo, waterfalls, millet fields. From Siding a jeep takes us down the rough track through Lumre to Pokhara, about two and a half hours. A hot shower and a lakeside dinner end the trek. Siding's terraces are farmed by Gurung families, and the walk through them is a gentle end.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 7,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "",
+      "text": "The trip ends after breakfast. If you have time before your flight or bus, take a boat across Phewa Lake to the trail for the World Peace Pagoda, or visit the International Mountain Museum to see where the peaks you have just walked under fit into the wider Himalaya. We can book onward flights to Kathmandu or a tourist bus, or add a few slow days on the lakes. Leave about three hours between a Pokhara flight and any connection in Kathmandu.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Pokhara hotel transfers",
+    "1 night in a 3-star hotel in Pokhara Lakeside with breakfast",
+    "5 nights in teahouses with three meals a day on the trek",
+    "Licensed English-speaking trekking guide and one porter for two trekkers",
+    "ACAP entry permit and any trekking card required at the time of travel",
+    "Car to Kande and jeep from Siding to Pokhara"
+  ],
+  "excludes": [
+    "Travel to and from Pokhara",
+    "Night before the trek in Pokhara (we can add it)",
+    "Travel insurance with high-altitude cover",
+    "Hot showers, charging and Wi-Fi in teahouses",
+    "Tips for guide and porter"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers in the Annapurna Conservation Area must walk with a licensed guide; check current status before you travel.",
+    "High Camp has only a few lodges and fills quickly in October and November; book early.",
+    "The ridge above High Camp is exposed; in strong wind or fresh snow your guide may turn around at the Upper Viewpoint.",
+    "Between Forest Camp and Low Camp the trail can be muddy and has leeches in monsoon.",
+    "There are no villages between Pitam Deurali and Siding, only lodges, so carry some cash for extras."
+  ],
+  "faqs": [
+    {
+      "q": "How difficult is the Mardi Himal trek?",
+      "a": "It is moderate, with one hard day. Most days are four to six hours, but the dawn walk to the viewpoint and the descent to Low Camp take seven to eight hours with over 1,000 m of descent. The trail is steep in places and narrow on the ridge. Previous hill walking experience is enough; no climbing skills are needed."
+    },
+    {
+      "q": "How high does the Mardi Himal trek go?",
+      "a": "The highest night is High Camp at about 3,580 m. The Upper Viewpoint is roughly 4,200 m, and Mardi Himal base camp below the peak is about 4,500 m. Many trekkers turn at the viewpoint, which has the best view anyway. Mardi Himal itself is 5,587 m and is a separate climbing peak that needs a permit."
+    },
+    {
+      "q": "Mardi Himal or Annapurna Base Camp?",
+      "a": "Choose Mardi Himal if you have about a week, want fewer people and a ridge walk with Machhapuchhre in front of you. Choose ABC if you have 10 or more days and want to stand inside the Annapurna Sanctuary surrounded by peaks. ABC has more villages; Mardi has more open sky. Both are in the Annapurna Conservation Area."
+    },
+    {
+      "q": "Do I need a guide for Mardi Himal?",
+      "a": "Under rules in force since April 2023, foreign trekkers in the Annapurna Conservation Area must trek with a licensed guide hired through a registered agency. On Mardi Himal a guide also matters for practical reasons: the route above High Camp can be confusing in cloud, and lodge rooms are booked by phone. Check current status before you travel."
+    },
+    {
+      "q": "When is the best time for Mardi Himal?",
+      "a": "October and November give the clearest views and dry trails. March and April bring rhododendrons in the forest and warmer nights, with more afternoon cloud. December to February is cold, with snow at High Camp that may stop you reaching the viewpoint. In monsoon, June to September, the forest is muddy and views are rare."
+    },
+    {
+      "q": "How cold is High Camp on Mardi Himal?",
+      "a": "From October to March nights at High Camp are often between minus 5 and minus 10 °C, and wind on the ridge makes it feel colder. Rooms are unheated. A sleeping bag rated to at least minus 10 °C, a down jacket, gloves and a warm hat are needed. Days in sun can be pleasant at 10 to 15 °C."
+    },
+    {
+      "q": "Can I do Mardi Himal in fewer days?",
+      "a": "Fit trekkers often do it in four or five nights by skipping Australian Camp and walking from Kande or Dhampus Phedi to Forest Camp in one day, then going from Low Camp to High Camp and the viewpoint quickly. We prefer six nights for acclimatisation: going from 2,000 m to over 4,000 m in three days is fast."
+    },
+    {
+      "q": "What is the food like on the Mardi Himal trail?",
+      "a": "Lodges serve the standard teahouse menu: dal bhat with refills, fried rice, noodles, potatoes, eggs, porridge and Tibetan bread. Everything above Pitam Deurali is carried up by porters, so prices rise with altitude. Dal bhat costs roughly NPR 600 to 900. Kitchens at High Camp are small, and meals take time in peak season."
+    },
+    {
+      "q": "How much does the Mardi Himal trek cost?",
+      "a": "Our 6-night trek starts from USD 650 per person, twin sharing, including a hotel night in Pokhara, teahouse meals, a licensed guide, a porter for two, ACAP permit and road transfers. Budget USD 10–20 a day for drinks, showers and charging. Flights from Kathmandu to Pokhara are extra."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "slug": "bishazari-tal",
+  "name": "Bishazari Tal",
+  "name_ne": "बिसहजारी ताल",
+  "local_name": "Beeshazar Tal (Nepali)",
+  "region": "chitwan-terai",
+  "kind": "lake",
+  "wiki": "Bishazari Tal",
+  "image_query": "Bishazari Tal lake Chitwan",
+  "lat": 27.62,
+  "lng": 84.44,
+  "altitude_m": 286,
+  "tagline": "Twenty thousand lakes: Chitwan's Ramsar wetland",
+  "meta_description": "Bishazari Tal, Chitwan: a Ramsar-listed oxbow lake system in the Barandabhar forest, with winter birds, mugger crocodiles and watchtowers near Bharatpur.",
+  "summary": "Bishazari Tal, the 'twenty thousand lakes', is a 32 square kilometre oxbow wetland in the buffer zone of Chitwan National Park, just south of Bharatpur. Listed as a Ramsar site in 2003, it is best for winter birds, mugger crocodiles and forest walks. Visit for a half day, November to March.",
+  "intro": [
+    "A short drive south of Bharatpur, the road enters the Barandabhar forest and the noise of the city drops away. Beyond the trees lie Bishazari Tal, a chain of old river loops, ponds and marshes left behind as the rivers of the Chitwan valley shifted their beds. The name means 'twenty thousand lakes', an exaggeration, but on a misty winter morning it can feel right. Bring binoculars; even the drive in is good for birds.",
+    "The wetland covers about 32 square kilometres at about 286 metres, inside the buffer zone of Chitwan National Park. It was listed as a Ramsar wetland of international importance in August 2003. Forest and water together make a corridor for animals moving between the park and the Mahabharat hills to the north. Local nature guides lead walks along the trails between the lakes, and entry fees are collected at the gate.",
+    "Most visitors come for birds. In winter the lakes fill with ducks, storks and herons, and raptors patrol from the trees. Mugger crocodiles lie on the banks and turtles bask on logs. We suggest a morning visit with a bird guide from Sauraha or Bharatpur, or a stop on the way to Devghat or Kasara. Allow three to four hours including the drive, and come between November and March, when birds are most numerous."
+  ],
+  "story": {
+    "title": "Old river loops that became a refuge",
+    "paras": [
+      "The Chitwan valley is shaped by moving rivers. Over centuries the Rapti and smaller streams changed course after floods, leaving behind curved lakes cut off from the main channel. Bishazari Tal is a cluster of these oxbows, fed by rain and groundwater, with marsh, grassland and sal forest between them. Water levels rise in the monsoon, when the lakes join into wider sheets of water, and fall through the dry season, leaving muddy margins where waders and crocodiles gather.",
+      "As settlers cleared Chitwan in the 1950s and 1960s, the forest around Bishazari became one of the last links between the lowland jungle and the hills. The Barandabhar forest, in which the lakes sit, now forms a corridor that tigers, rhinos, leopards and deer use to move north and south across the valley. Without such links, tigers and other wide-ranging animals would be trapped in isolated patches of forest, unable to find mates or new territory.",
+      "In August 2003 the lakes were designated a Ramsar site, recognising their value for waterbirds and threatened species such as the lesser adjutant, Pallas's fish-eagle and the ferruginous duck. Today the wetland is managed within the park's buffer zone, and local community groups help with patrols and visitor fees. Like many Terai wetlands, the lakes face siltation, invasive water plants and heavy use, and keeping them open takes constant work."
+    ]
+  },
+  "legend": "",
+  "people": "The lakes are surrounded by forest, with villages of hill settlers and Tharu families on the edges near Bharatpur and Tikauli. Local people use the buffer zone for grass and firewood under community rules and work as nature guides. Fishermen once worked the lakes; fishing is now controlled. Nepali is the common language, with Tharu spoken in nearby villages.",
+  "untold": [
+    {
+      "fact": "Bishazari Tal covers about 32 square kilometres at an elevation of about 286 metres and was designated a Ramsar wetland of international importance in August 2003.",
+      "source": "Wikipedia: Bishazari Tal; Ramsar Sites Information Service"
+    },
+    {
+      "fact": "The name is Nepali: bis (twenty), hajar (thousand) and tal (lake), meaning twenty thousand lakes, describing the many small ponds and oxbows in the forest.",
+      "source": "Wikipedia: Bishazari Tal"
+    },
+    {
+      "fact": "The wetland's forest provides a wildlife corridor and water source for Bengal tigers, rhinos, sloth bears and smooth-coated otters, and its waters hold mugger crocodiles and rock pythons.",
+      "source": "Wikipedia: Bishazari Tal"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "tal",
+      "script": "ताल",
+      "lang": "Nepali",
+      "meaning": "Lake"
+    },
+    {
+      "word": "bis hajar",
+      "script": "बिस हजार",
+      "lang": "Nepali",
+      "meaning": "Twenty thousand"
+    },
+    {
+      "word": "chara",
+      "script": "चरा",
+      "lang": "Nepali",
+      "meaning": "Bird"
+    }
+  ],
+  "taste": {
+    "name": "Taas",
+    "text": "Taas is goat meat marinated with spices, fried until crisp at the edges, and served with beaten rice, raw onion, chilli and pickle. Chitwan is known for it, and small taas shops around Bharatpur and Narayangadh, a short drive from the lakes, serve it fresh at lunch."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Nov – Mar"
+    ],
+    [
+      "Days we suggest",
+      "Half day"
+    ],
+    [
+      "Nearest airport",
+      "Bharatpur (BHR), ≈ 8 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 155 km · 5–6 h by road"
+    ],
+    [
+      "Altitude",
+      "≈ 286 m"
+    ],
+    [
+      "Known for",
+      "Ramsar wetland, winter birds, crocodiles"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    2,
+    2
+  ],
+  "nights": "0–1",
+  "highlights": [
+    {
+      "title": "Winter waterbirds",
+      "text": "From November to March the lakes hold ducks, storks, herons, egrets, cormorants and kingfishers. Rare species recorded here include the lesser adjutant stork and the ferruginous duck. Dawn is best, before the mist lifts."
+    },
+    {
+      "title": "Mugger crocodiles on the banks",
+      "text": "Mugger crocodiles bask on the muddy banks on sunny winter days. Watch from the paths or a watchtower and keep well back from the water's edge. They often lie with jaws open to cool down."
+    },
+    {
+      "title": "Barandabhar forest walk",
+      "text": "The lakes sit inside the Barandabhar forest, a corridor of sal and riverine woodland used by deer, rhinos and occasionally tigers. Walk the trails only with a guide. Tracks and dung on the path show what passed in the night."
+    },
+    {
+      "title": "Watchtowers over the water",
+      "text": "Wooden watchtowers give views over the marsh and open water. Climb one at dawn with binoculars and wait for birds and animals to move. Sunrise, with mist on the water, is the finest hour."
+    },
+    {
+      "title": "Raptors and kingfishers",
+      "text": "Pallas's fish-eagle and other raptors hunt over the lakes, and several kingfisher species perch on branches above the water. Bring a long lens. Several kingfisher species are common along the lake edges."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "From Bharatpur it is about 5 km south, 15 minutes by car or taxi. From Sauraha allow about 40 minutes to 1 hour by road. Many visitors come on a half-day trip from Sauraha or stop on the way between Bharatpur and Kasara."
+    },
+    {
+      "mode": "Air",
+      "text": "Bharatpur airport (BHR), about 20 to 25 minutes by air from Kathmandu, is a short drive from the lakes. Check current status before you travel, as winter fog delays some morning flights."
+    }
+  ],
+  "where_to_stay": "There are no lodges at the lakes themselves. Most visitors stay in Sauraha, which has the widest choice, including Green Park Chitwan, or in Bharatpur, which has business hotels close to the airport. Kasara Resort at Patihani, about 40 minutes away, makes a calm base for combining the lakes with Kasara. A half-day visit with a guide is enough for most travellers.",
+  "stays": [],
+  "tips": [
+    "Go at dawn in winter for the most birds; by midday the light is flat and many birds rest.",
+    "Hire a licensed nature guide for walks; tigers, rhinos and sloth bears use the forest.",
+    "Wear neutral clothes and bring binoculars and a bird guide or app.",
+    "Expect fog in December and January; it usually lifts by 10 am.",
+    "There is an entry fee for the buffer zone area; carry small notes in rupees and check current status before you travel."
+  ],
+  "themes": [
+    "lakes-and-rivers",
+    "wildlife-and-jungle",
+    "photography",
+    "slow-and-wellness"
+  ],
+  "nearby": [
+    "sauraha",
+    "kasara",
+    "devghat"
+  ],
+  "experiences": [
+    {
+      "slug": "bishazari-tal-dawn-birding",
+      "title": "Dawn birding at Bishazari Tal",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "Dawn, Nov–Mar",
+      "image_query": "Bishazari Tal birds wetland Chitwan",
+      "wiki": "Bishazari Tal",
+      "summary": "A morning with a bird guide on the trails and watchtowers around the lakes, looking for winter ducks, storks, herons, kingfishers and raptors, with mugger crocodiles on the banks as the sun burns off the mist.",
+      "body": [
+        "Leave Sauraha or Bharatpur early to reach the lakes as the light comes up. In winter the water is often wrapped in mist, and the first sounds are ducks calling from the reeds and kingfishers rattling over the water. Your guide leads you along forest trails between lakes, stopping at watchtowers. Walks are on flat forest trails, mostly in shade, covering a few kilometres at a slow pace with frequent stops.",
+        "Typical winter sightings include lesser whistling ducks, ruddy shelducks, cormorants, purple herons, egrets, black-necked and woolly-necked storks and several kingfishers. Raptors such as Pallas's fish-eagle and crested serpent eagle hunt the margins. The lesser adjutant, a large threatened stork, is sometimes seen. Ask your guide to keep a list; a good winter morning can produce dozens of species, and the forest edge adds woodpeckers, barbets and minivets.",
+        "As the mist lifts, mugger crocodiles haul out on the banks and turtles climb onto logs. Deer move through the forest edge, and with luck you may see a rhino or the tracks of a tiger. Bring binoculars, a camera with a long lens, a warm layer and a flask of tea. Return to Sauraha or Bharatpur by late morning for breakfast."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "What birds can I see at Bishazari Tal?",
+          "a": "In winter, expect lesser whistling ducks, ruddy shelducks, cormorants, herons, egrets, several storks and kingfishers, and raptors such as Pallas's fish-eagle. Threatened species recorded here include the lesser adjutant and ferruginous duck. Forest birds such as hornbills and woodpeckers use the surrounding trees."
+        },
+        {
+          "q": "When is the best time for birding at Bishazari Tal?",
+          "a": "November to March, when migrant waterbirds arrive from the north and the lakes are full. Early mornings are best, though fog in December and January can hide the water for the first hour or two. In the monsoon, from June to September, access is harder and birding is poorer."
+        },
+        {
+          "q": "Do I need a guide at Bishazari Tal?",
+          "a": "Yes, we strongly recommend it. The lakes lie in a forest corridor used by tigers, rhinos and sloth bears, and walking alone is not safe. A local bird guide also finds and identifies far more species. Guides can be booked through lodges in Sauraha or Bharatpur."
+        }
+      ]
+    },
+    {
+      "slug": "bishazari-tal-crocodile-and-watchtower",
+      "title": "Crocodiles and watchtowers at the lakes",
+      "kind": "wildlife",
+      "duration": "2 hours",
+      "best_time": "Late morning on sunny days, Nov–Feb",
+      "image_query": "mugger crocodile Chitwan lake bank",
+      "wiki": "Mugger crocodile",
+      "summary": "A shorter visit timed for sunny winter mornings, when mugger crocodiles bask on the lake banks, turtles sun themselves on logs and the watchtowers give wide views over marsh and forest. Allow about two hours.",
+      "body": [
+        "Mugger crocodiles are cold-blooded and need the sun. On clear winter days they haul out onto the banks of Bishazari's lakes from mid-morning, lying with jaws open to cool down. Unlike the slim-snouted gharial, the mugger has a broad snout and eats fish, birds and mammals. On cloudy or very cold days they may stay in the water, so sunny mornings give the best chance.",
+        "Your guide leads you along paths to points where crocodiles are often seen, keeping a safe distance. Turtles bask on fallen logs, otters sometimes hunt along the edges, and spotted deer drink at quieter spots. Climb a watchtower for a view across the water and marsh. Watchtowers are simple wooden structures; climb carefully and do not crowd the platform.",
+        "This visit suits families and anyone short on time, and it works well on a drive from Sauraha to Devghat or Kasara. Stay on paths, keep children close and do not approach the water. Bring binoculars so you can watch from a safe distance, plus a hat and water. Your guide will also point out turtles and birds on the banks that are easy to miss."
+      ],
+      "good_for": [
+        "families",
+        "first-timers",
+        "photographers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Are there crocodiles at Bishazari Tal?",
+          "a": "Yes. Mugger crocodiles live in the lakes and are often seen basking on the banks on sunny winter days. They can be dangerous, so keep well back from the water, stay on paths and follow your guide. Do not feed or disturb them."
+        },
+        {
+          "q": "What is the difference between a mugger and a gharial?",
+          "a": "The mugger has a broad, heavy snout and eats fish, birds and mammals; it lives in lakes, marshes and slow rivers. The gharial has a long, thin snout built for catching fish and lives in deep, fast rivers like the Narayani. Both are found in Chitwan."
+        },
+        {
+          "q": "Is Bishazari Tal suitable for children?",
+          "a": "Yes, for a short visit with a guide. Children often enjoy seeing crocodiles and turtles from a safe distance and climbing a watchtower. Keep them close at all times, especially near the water's edge, and avoid walking deep into the forest with young children."
+        }
+      ]
+    },
+    {
+      "slug": "bishazari-tal-barandabhar-cycle",
+      "title": "Cycle the Barandabhar forest road",
+      "kind": "adventure",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Barandabhar forest Chitwan road",
+      "wiki": "",
+      "summary": "A guided bike ride from Bharatpur or Sauraha through farmland and the Barandabhar forest to the lakes, with a stop at a watchtower and a lunch of Chitwan taas on the way back. Bikes and helmets can be arranged by lodges.",
+      "body": [
+        "The Barandabhar forest stretches across the Chitwan valley as a green corridor between the national park and the hills. A guided ride along roads and tracks through it is a good way to feel how close the wild is to the city, with sal trees overhead and the sound of birds instead of traffic. Expect a mix of tarmac and dirt, with some traffic near Bharatpur.",
+        "Your guide sets a relaxed pace on mostly flat ground. You stop at the lakes and a watchtower to scan for birds and crocodiles, and look for signs of animals crossing the road: deer tracks, rhino dung, scratch marks on trees. Your guide stops often for photographs and rest, so the ride suits most fitness levels.",
+        "On the way back, stop in Bharatpur or Narayangadh for a lunch of taas, fried marinated goat with beaten rice. Bring water, a hat and sunscreen; helmets and bikes can be arranged by lodges in Sauraha. Carry snacks and at least two litres of water, and start early from March onward, when it is hot by late morning."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "families",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Is it safe to cycle through the Barandabhar forest?",
+          "a": "On the main roads and with a guide, yes. Traffic is light on forest roads, but watch for buses and trucks on the highway sections. Wild animals cross the forest, so do not ride into the forest off the main tracks, and do not ride at dawn or dusk without a guide."
+        },
+        {
+          "q": "How far is the ride from Sauraha to Bishazari Tal?",
+          "a": "Allow about 15 to 20 km each way depending on the route, on mostly flat ground. A round trip with stops takes three to four hours. Many riders choose to cycle one way and return by car, especially in the warmer months."
+        },
+        {
+          "q": "What is the Barandabhar forest?",
+          "a": "Barandabhar is a forest belt that crosses the Chitwan valley from the national park toward the Mahabharat hills. It contains Bishazari Tal and serves as a wildlife corridor for tigers, rhinos, deer and other animals moving between the lowlands and the hills."
+        }
+      ]
+    },
+    {
+      "slug": "bishazari-tal-bharatpur-taas-lunch",
+      "title": "Taas lunch in Bharatpur",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Lunchtime, all year",
+      "image_query": "taas fried goat meat Nepal Chitwan",
+      "wiki": "",
+      "summary": "After the lakes, stop in Bharatpur or Narayangadh for Chitwan's best-known dish: taas, goat meat marinated in spices and fried, served with crisp beaten rice, onion, chilli and pickle. It is a simple, filling meal and a local favourite.",
+      "body": [
+        "Taas is to Chitwan what momo is to Kathmandu: a dish people drive across the valley to eat. Small shops in Bharatpur and Narayangadh marinate goat meat with garlic, ginger, cumin and chilli, then fry it in mustard oil until the edges crisp. Many shops prepare the meat in the morning and fry it to order, so lunchtime plates are the freshest.",
+        "It comes on a plate with chiura, beaten rice, plus sliced raw onion, green chilli, a tomato or radish pickle and sometimes a small bowl of soup. Chicken and pork versions are common too. Eat it with your hands, mixing a little of everything in each bite. A cold drink or a glass of lassi balances the heat of the chilli.",
+        "Ask your guide for their favourite shop; most are simple, busy places with plastic chairs and a kitchen in full view. Go at lunchtime when the meat is freshly fried. Vegetarians can try local thali sets instead. Expect to pay little; taas is sold by the plate or by weight, and shops are busiest from late morning to early afternoon."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "families",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is taas in Chitwan?",
+          "a": "Taas is marinated meat, usually goat, fried in mustard oil until crisp at the edges and served with beaten rice, raw onion, green chilli and pickle. It is strongly associated with Chitwan, especially Bharatpur and Narayangadh, and is a popular lunch with travellers on the highway."
+        },
+        {
+          "q": "Where can I eat taas near Bishazari Tal?",
+          "a": "Bharatpur and Narayangadh, about 15 to 20 minutes from the lakes, have many small taas shops. Ask your guide or driver for a busy one, where the meat is freshly fried. Prices are low, and portions are usually ordered by weight or plate."
+        },
+        {
+          "q": "Is there a vegetarian version of taas?",
+          "a": "Taas is a meat dish, but shops often serve other foods. Vegetarians can order a dal bhat thali, beaten rice with pickles and vegetables, or snacks like samosa and pakoda. Some restaurants offer paneer or mushroom dishes cooked in a similar style."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Bishazari Tal?",
+      "a": "Bishazari Tal is a system of oxbow lakes, ponds and marshes covering about 32 square kilometres in the buffer zone of Chitwan National Park, just south of Bharatpur. Its name means 'twenty thousand lakes'. It was designated a Ramsar wetland of international importance in August 2003 and is known for birds and crocodiles."
+    },
+    {
+      "q": "How far is Bishazari Tal from Sauraha?",
+      "a": "About 40 minutes to 1 hour by road, depending on traffic and route, via the Bharatpur area. Many lodges in Sauraha offer half-day trips with a guide. From Bharatpur it is only about 5 km, a 15-minute drive. Book the trip with your lodge the day before."
+    },
+    {
+      "q": "Is there an entry fee for Bishazari Tal?",
+      "a": "Yes, visitors usually pay a buffer zone entry fee at the gate, with different rates for foreigners, SAARC nationals and Nepalis. Guide fees are extra. Rates change, so check current status before you travel; your lodge can confirm the latest fees."
+    },
+    {
+      "q": "What is the best time to visit Bishazari Tal?",
+      "a": "November to March, when migrant waterbirds are present and the weather is cool and dry. Dawn is best for birds; late morning on sunny days for basking crocodiles. Avoid the monsoon months, when trails are muddy and leeches are common."
+    },
+    {
+      "q": "Can I see tigers at Bishazari Tal?",
+      "a": "Tigers do use the forest around the lakes as a corridor, and their tracks are sometimes found, but sightings are rare. The lakes are better for birds, crocodiles, deer and occasionally rhinos. Never walk the forest alone, because of tigers, rhinos and sloth bears."
+    },
+    {
+      "q": "Why is Bishazari Tal a Ramsar site?",
+      "a": "It was listed in August 2003 because it supports threatened species and many waterbirds, and provides habitat and a corridor for large mammals such as tigers and rhinos. Ramsar sites are wetlands of international importance under a global treaty for wetland conservation."
+    },
+    {
+      "q": "How long should I spend at Bishazari Tal?",
+      "a": "A half day is enough for most travellers, including travel time from Sauraha. Keen birders may want a full morning with a specialist guide and a second visit at dusk. It fits well into a day that also includes Devghat or Kasara."
+    },
+    {
+      "q": "Is Bishazari Tal worth visiting?",
+      "a": "Yes, especially for birders, photographers and anyone wanting a quieter half day outside the main park. It complements Chitwan's jeep safaris with forest walks, wetland birds and crocodiles. It is less useful in the monsoon and for travellers focused only on rhinos and tigers."
+    },
+    {
+      "q": "Can I visit Bishazari Tal on my own?",
+      "a": "You can drive to the entrance on your own, but walking the trails without a licensed guide is not advised because of wild animals. Hire a guide through your lodge in Sauraha or Bharatpur. A guide also helps you find and identify far more birds."
+    }
+  ]
+}

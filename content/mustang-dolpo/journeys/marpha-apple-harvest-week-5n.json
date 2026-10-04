@@ -1,0 +1,189 @@
+{
+  "slug": "marpha-apple-harvest-week-5n",
+  "title": "Marpha apple harvest week",
+  "region": "mustang-dolpo",
+  "kind": "culture",
+  "nights": 5,
+  "themes": [
+    "food-and-festivals",
+    "villages-and-homestays",
+    "slow-and-wellness",
+    "crafts-and-makers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "marpha",
+      "nights": 2
+    },
+    {
+      "place": "tukuche",
+      "nights": 1
+    },
+    {
+      "place": "jomsom",
+      "nights": 1
+    },
+    {
+      "place": "pokhara",
+      "nights": 1
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 900,
+  "best_months": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 2720,
+  "meta_description": "Marpha apple harvest week, 5 nights from Pokhara: orchards, cider and brandy, Thakali kitchens, Chhairo and Tukuche on foot, with a licensed guide.",
+  "summary": "Five slow nights in the apple country of Lower Mustang at harvest time, from late August to mid October. Pick fruit with Thakali families in Marpha, taste the brandy and cider, walk to Chhairo and Tukuche, and eat your way down the valley. Short walks, low altitude, flights both ways.",
+  "intro": [
+    "Apples are not native to Mustang. Orchards spread through Thak Khola after the government opened a horticulture farm at Marpha in the 1960s, and within a generation dried apples, juice, jam and apple brandy had become part of the valley's economy. Today the orchards of Marpha, Tukuche and the villages around Jomsom supply apples to the rest of Nepal, carried out on jeeps and trucks each autumn. Apples are now as much a part of Marpha as its monastery.",
+    "This short trip is built around the harvest. We stay two nights in Marpha so you can spend a full day with a farming family, walk the old trail on the east bank of the Kali Gandaki to Chhairo and Tukuche, and end in Jomsom. The altitude is under 2,800 m throughout, so it suits families and people who want Mustang without the demands of a trek. Every walk is short, with time to stop in kitchens and orchards."
+  ],
+  "story": "You land in Jomsom to wind and dust and drive twenty minutes south to Marpha, where everything smells of apples. Fruit is stacked in crates on every flat roof, slices dry on trays in the sun, and in the lanes women sort apples by size while children run between orchards. The next day you climb a ladder into a tree with the family you are staying near, then learn how the brandy is made. Across the river at Chhairo, Tibetan monks keep a small monastery among the poplars, and further south Tukuche's tall houses remember the salt trade that came before the apples. By the time you fly out, you know which variety makes the best pie.",
+  "highlights": [
+    "A day in the orchards with a Marpha family during the harvest",
+    "Apple brandy, cider and dried apple tasting at a local distillery",
+    "The east-bank trail to Chhairo's Tibetan settlement and Tukuche",
+    "Thakali cooking: buckwheat, dal and apple dishes in family kitchens",
+    "Dhaulagiri and Nilgiri views without high altitude"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly Pokhara to Jomsom, on to Marpha",
+      "place": "marpha",
+      "overnight": "Marpha",
+      "alt_m": 2670,
+      "move": "≈ 20 min flight · ≈ 20 min drive or 1.5 h walk",
+      "text": "We meet at Pokhara airport for the early flight up the Kali Gandaki gorge to Jomsom. From there it is a short drive, or a flat walk of an hour and a half along the river, to Marpha. Settle into your guesthouse, then walk the flagstoned lane through the village, climb the steps to the monastery for the view over the rooftops, and watch the orchards being picked. Dinner is a Thakali set meal, finished with apple crumble.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Harvest day in Marpha",
+      "place": "marpha",
+      "overnight": "Marpha",
+      "alt_m": 2670,
+      "move": "On foot around the village",
+      "text": "We spend the morning with a Marpha family in their orchard, picking, sorting and packing apples, and learning which trees give the sweet eating apples and which go for juice and drying. Lunch in the family kitchen. In the afternoon we visit the government horticulture farm where Mustang's apple story began, and a small distillery to see how apple brandy and cider are made and taste the year's batch. Evening free in the lanes.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Chhairo and Tukuche on foot",
+      "place": "tukuche",
+      "overnight": "Tukuche",
+      "alt_m": 2590,
+      "move": "≈ 3–4 h walk · ≈ 10 km · mostly level",
+      "text": "We cross the Kali Gandaki by suspension bridge and follow the quieter east-bank trail south. At Chhairo, a Tibetan refugee settlement, we visit the small monastery among the poplars. The trail continues among poplars and orchards to Tukuche, once the busiest market on the salt route. Its big trading houses, with carved windows and courtyards, are worth a slow walk. Dinner in a Thakali kitchen, where you can watch buckwheat dhido being stirred.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tukuche to Jomsom and Thini",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 30 min drive · ≈ 2–3 h walk",
+      "text": "A short drive brings us to Jomsom, the district headquarters. We walk across the river to Thini, an older village than Jomsom with a monastery and terraced fields, and on to Dhumba Lake, a small green lake below a monastery with views of Nilgiri. Back in Jomsom, visit the Mustang Eco Museum, and buy dried apples, jam or a bottle of brandy to take home. In the evening, a last Thakali dinner, perhaps with buckwheat pancakes with local honey.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Fly back to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 20 min flight",
+      "text": "The morning flight returns you to Pokhara by breakfast time. The rest of the day is yours by Phewa Lake. If wind or cloud cancels the flight, we wait for the next morning or drive out along the Kali Gandaki road, 8 to 10 hours, which is why this day ends in Pokhara rather than further away. Pokhara is warmer and lower, so you will notice the thicker air and the green after a week in the dry valley.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 820,
+      "move": "",
+      "text": "The trip ends after breakfast. Fly to Kathmandu in 25 minutes, take the tourist bus, or stay on. Pokhara in October is a good base for a short walk to Dhampus or Australian Camp, and we can arrange that too. If you would like to add Muktinath or Kagbeni to the start of this trip, two extra nights are enough, and we can arrange the jeep and lodges for you.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "oms-home-jomsom",
+    "temple-tree-resort"
+  ],
+  "includes": [
+    "Flights Pokhara–Jomsom and return",
+    "Licensed English-speaking guide",
+    "Annapurna Conservation Area permit and TIMS card where required",
+    "Four nights in guesthouses in Marpha, Tukuche and Jomsom with all meals",
+    "One night in Pokhara with breakfast",
+    "Orchard day with a local family, distillery visit and tasting"
+  ],
+  "excludes": [
+    "Travel to and from Pokhara",
+    "Travel insurance",
+    "Drinks beyond the tasting, and tips"
+  ],
+  "good_to_know": [
+    "Harvest runs roughly from late August to mid October and peaks in September; exact timing depends on the year and the variety.",
+    "September flights are sometimes delayed by the tail of the monsoon; keep a spare day.",
+    "Since April 2023 foreign visitors to conservation areas are expected to travel with a licensed guide; check current status before you travel.",
+    "Wind rises in the valley from late morning; walks are planned for mornings.",
+    "Alcohol carried home is subject to your own country's customs allowance."
+  ],
+  "faqs": [
+    {
+      "q": "When is apple season in Marpha?",
+      "a": "The harvest runs from about late August to mid October, depending on altitude and variety, and September is usually the busiest month. Orchards blossom in April, which is also a pretty time to visit. In winter you can still buy dried apples, jam and brandy, but the orchards are bare and the village is quiet."
+    },
+    {
+      "q": "Why does Marpha grow apples?",
+      "a": "Apples were introduced to Mustang in the 1960s, when the Nepal government opened a horticulture farm at Marpha to test fruit suited to the cold, dry climate of the upper Kali Gandaki. The trees did well, and local Thakali families planted orchards across the valley. Today apples, dried fruit and brandy are an important source of income here."
+    },
+    {
+      "q": "Can I stay with a family in Marpha?",
+      "a": "Most guesthouses in Marpha are family-run, with the family living in the same building and cooking in their own kitchen, so you get much of the homestay feel. Formal homestays exist, and we can arrange one on request. On the orchard day you spend time with a farming family in their fields and home."
+    },
+    {
+      "q": "Is Marpha apple brandy worth trying?",
+      "a": "Yes. Marpha brandy is a clear or pale spirit distilled from local apples and sometimes apricots, sold in Marpha, Jomsom and Pokhara. Many households and small distilleries make it. Taste a few, and buy from a sealed bottle if you plan to carry it home. Apple cider and juice are good alternatives for those who do not drink."
+    },
+    {
+      "q": "How hard are the walks on this trip?",
+      "a": "Easy. The longest walk is about three to four hours on mostly level ground from Marpha to Tukuche. Paths are dry, wide and well used. The altitude stays between 2,590 and 2,720 m, which most healthy people handle without trouble, though you may feel short of breath on stairs the first day."
+    },
+    {
+      "q": "Do I need a permit for Marpha?",
+      "a": "You need the Annapurna Conservation Area permit, NPR 3,000 for foreigners or NPR 1,000 for SAARC nationals, and a TIMS card may be checked. Marpha does not need the Upper Mustang restricted-area permit, which starts north of Kagbeni. Under rules introduced in 2023, foreigners are expected to have a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "Is this trip good for families with children?",
+      "a": "Very good. Short walks, low altitude, fruit picking and plenty of animals in the lanes keep children busy. The flights are short. The only hard part is the wind on afternoons, so bring buffs and sunglasses. Lodges in Marpha and Jomsom have family rooms; tell us ages when you book."
+    },
+    {
+      "q": "What else is there to do in Marpha?",
+      "a": "Walk up to the monastery above the village, visit the horticulture farm, cross to Chhairo's Tibetan settlement, or hike up the hillside for views of Dhaulagiri and Nilgiri. Marpha's stone lanes and white houses are good for photographs in the early morning. Many trekkers on the Annapurna Circuit also stop here for apple pie."
+    },
+    {
+      "q": "Can I combine this with Muktinath?",
+      "a": "Yes, easily. Add two nights: one at Kagbeni and one at Ranipauwa below the Muktinath temple, about one and a half hours by jeep from Jomsom. The extra altitude, up to about 3,700 m, is handled better after a few days in Marpha. We would adjust the price for the extra jeep, lodges and guide days."
+    }
+  ]
+}

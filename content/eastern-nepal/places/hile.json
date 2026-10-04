@@ -1,0 +1,343 @@
+{
+  "slug": "hile",
+  "name": "Hile",
+  "name_ne": "हिले",
+  "local_name": "",
+  "region": "eastern-nepal",
+  "kind": "hill town",
+  "wiki": "Hile",
+  "image_query": "Hile Dhankuta bazaar",
+  "lat": 27.034,
+  "lng": 87.314,
+  "altitude_m": 1948,
+  "tagline": "A misty ridge bazaar of tongba, tea and the road north",
+  "meta_description": "Hile, Dhankuta, at about 1,948 m: misty ridge bazaar known for tongba, tea gardens and the road to Basantapur's rhododendrons. How to reach, what to do.",
+  "summary": "Hile is a small, often misty ridge-top bazaar at about 1,948 m, 13 km north of Dhankuta on the Koshi Highway. It is a junction for Tehrathum and Sankhuwasabha, a stop for travellers heading to Tumlingtar, and a place to drink tongba, the warm millet brew of the eastern hills. Tea gardens and rhododendron ridges lie close by.",
+  "intro": [
+    "Hile sits right on the ridge, with the road running through the middle of the bazaar and the land falling away on both sides. At nearly 2,000 m it is cool even in May, and cloud often pours over the ridge in the afternoon. Buses and jeeps stop here on the way north to Basantapur, Tehrathum and Khandbari, and the town lives on that traffic.",
+    "For travellers, Hile is above all a food stop. Families of Tibetan and Sherpa origin, along with Rai, Limbu and other hill families, run kitchens along the road that serve momo, thukpa and tongba, the fermented millet drunk hot through a bamboo straw from a wooden or bamboo pot. On a cold evening, with the mist pressing against the windows and the stove going, there is no better place for it, and drivers on the long road north stop here for the same reason.",
+    "Stay a night and you can walk to the tea gardens on the surrounding slopes, watch the sunrise from the ridge, and drive on to Basantapur, gateway to the rhododendron forests of Tinjure, Milke and Jaljale. Hile also makes a natural overnight stop on the road from Dharan to Khandbari and Tumlingtar, breaking a long drive with a cool night, a good meal and a morning walk before continuing north."
+  ],
+  "story": {
+    "title": "A ridge town built on the road",
+    "paras": [
+      "Hile grew where the trail from the plains reached the crest of the ridge before dividing toward Tehrathum, Sankhuwasabha and the far north. Porters and traders rested here, and families who traded between the hills and Tibet's borderlands, including some of Tibetan origin, set up shops and kitchens. When the road arrived from Dharan and Dhankuta in the 1980s and then pushed north, Hile became a highway bazaar, busy with buses, trucks and jeeps.",
+      "Administratively Hile is now Ward 1 of Dhankuta municipality, but it keeps its own character, quite different from the calm, official feel of Dhankuta below. The bazaar has a small Buddhist monastery near the road and Hindu shrines nearby, including the Bakrakunda temple in the surrounding area, and the mix of communities shows in its food, faces and languages. You hear Nepali, Tibetan dialects and Kirat languages in the same street, and see prayer flags beside temple bells.",
+      "The hills around Hile have changed too. Alongside maize, millet and potatoes, tea gardens now cover some slopes, including estates such as Jun Chiyabari and Guranse that grow specialty orthodox tea at high elevation and sell it far beyond Nepal. Pakhribas and Uttarpani, short drives away, are villages known for farming and walking. North of town, the road climbs on to Basantapur and the rhododendron ridges, drawing visitors each spring when the forests flower."
+    ]
+  },
+  "legend": "",
+  "people": "Hile is a meeting point. Rai and Limbu families of the Kirat tradition live in the surrounding villages, alongside Tamang, Gurung, Magar, Newar, Brahmin and Chhetri households. In the bazaar, families of Tibetan and Sherpa origin run many of the restaurants and lodges. People live by trade, transport, tea, farming and remittances. Nepali is the common language.",
+  "untold": [
+    {
+      "fact": "Hile lies at about 1,948 m on the Koshi Highway, about 13 km north of Dhankuta bazaar, and is administratively Ward No. 1 of Dhankuta municipality.",
+      "source": "Wikipedia: Hile"
+    },
+    {
+      "fact": "Tongba, the warm millet drink served in Hile's kitchens, has a Limbu name and is found across the eastern hills of Nepal and in Sikkim and Darjeeling.",
+      "source": "Wikipedia: Tongba"
+    },
+    {
+      "fact": "The ridge north of Hile toward Basantapur leads to the Tinjure–Milke–Jaljale area, known for its rhododendron forests, which draw visitors from across eastern Nepal in spring.",
+      "source": "Wikipedia: Hile"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "tongba",
+      "script": "तोङ्बा",
+      "lang": "Limbu",
+      "meaning": "Fermented millet drunk hot through a bamboo straw"
+    },
+    {
+      "word": "jand",
+      "script": "जाँड",
+      "lang": "Nepali",
+      "meaning": "Home-brewed millet or rice beer"
+    },
+    {
+      "word": "thukpa",
+      "script": "ཐུག་པ",
+      "lang": "Tibetan",
+      "meaning": "Noodle soup, a staple of Hile's kitchens"
+    }
+  ],
+  "taste": {
+    "name": "Tongba",
+    "text": "Fermented millet packed into a wooden or bamboo pot, topped with hot water and sipped through a thin bamboo straw. The pot is refilled with hot water two or three times. Hile's roadside kitchens serve it on cold evenings with momo or fried potatoes."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Dec, Mar – May"
+    ],
+    [
+      "Days we suggest",
+      "1"
+    ],
+    [
+      "Nearest airport",
+      "Biratnagar (BIR), ≈ 3.5 h"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 40 min flight to Biratnagar + ≈ 3.5 h drive"
+    ],
+    [
+      "Altitude",
+      "≈ 1,948 m"
+    ],
+    [
+      "Known for",
+      "Tongba, tea gardens, misty ridge, gateway north"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1",
+  "highlights": [
+    {
+      "title": "Tongba on a cold evening",
+      "text": "Sit in a roadside kitchen as the mist comes in and sip tongba through a bamboo straw, with momo or thukpa. The host keeps topping up the pot with hot water. One pot lasts an evening."
+    },
+    {
+      "title": "Sunrise from the ridge",
+      "text": "Walk up above the bazaar at dawn for views over the folded hills of Dhankuta and Tehrathum, with mist filling the valleys and snow peaks to the north on the clearest winter mornings."
+    },
+    {
+      "title": "High tea gardens",
+      "text": "Specialty tea estates on the slopes around Hile, including Jun Chiyabari and Guranse, grow orthodox tea at high elevation. Visits need booking ahead; the views from the roads past the rows are fine anyway."
+    },
+    {
+      "title": "Basantapur and the rhododendron ridge",
+      "text": "An hour or two further north, Basantapur is the road head for walks on the Tinjure–Milke–Jaljale ridge, known for its rhododendron forests, which bloom red and pink in March and April."
+    },
+    {
+      "title": "The small gompa",
+      "text": "A small Buddhist monastery near the bazaar serves the town's Buddhist families. Turn the prayer wheels, walk clockwise around it and ask before entering. It is quiet in the early morning, before the buses start."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Hile is about 13 km and 30–40 minutes north of Dhankuta, and roughly 2–2.5 hours from Dharan on the Koshi Highway. From Biratnagar airport allow about 3.5 hours. Buses and jeeps run often. Landslides can delay travel in the monsoon; check current status before you travel."
+    },
+    {
+      "mode": "Air",
+      "text": "The nearest airport is Biratnagar, about 40 minutes by air from Kathmandu. Tumlingtar airport is to the north, a few hours away by road, if you are combining Hile with the Arun valley."
+    }
+  ],
+  "where_to_stay": "Hile has several simple hotels and lodges along the main road, mostly family-run, with clean rooms, warm blankets and restaurants serving Nepali and Tibetan food. Rooms on the ridge side have the views; the road can be noisy in the early morning when buses leave. Homestays operate in some nearby villages. For more comfort, Dharan has larger hotels a couple of hours south, and Dhankuta a quieter choice 13 km below.",
+  "stays": [],
+  "tips": [
+    "Bring a warm jacket; at about 1,948 m Hile is cold in the evenings from October to March and often misty.",
+    "Tongba is alcoholic; pace yourself, and do not drink it if you are driving or trekking high the next day.",
+    "Book tea estate visits in advance; the gardens are working farms and do not take walk-ins.",
+    "Mornings are clearest; cloud often rolls over the ridge after midday, especially in spring and the monsoon.",
+    "For rhododendrons, time your visit for March or April and drive on to Basantapur."
+  ],
+  "themes": [
+    "food-and-festivals",
+    "photography",
+    "slow-and-wellness",
+    "treks-and-trails"
+  ],
+  "nearby": [
+    "dhankuta",
+    "bhedetar",
+    "tumlingtar",
+    "chainpur"
+  ],
+  "experiences": [
+    {
+      "slug": "hile-tongba-evening",
+      "title": "Tongba and momo in a Hile kitchen",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, Oct–Mar",
+      "image_query": "Tongba millet beer bamboo pot",
+      "wiki": "Tongba",
+      "summary": "An evening in one of Hile's family kitchens, sipping hot tongba through a bamboo straw, eating momo and thukpa, and hearing how this Limbu drink became the warm welcome of the eastern hills.",
+      "body": [
+        "As the evening mist rolls over the ridge, we settle into a family-run kitchen on the main road, warm from the stove and busy with locals and drivers. The tongba arrives in its pot: fermented millet grains packed to the top, hot water poured over, and a thin bamboo straw with a closed, slotted end that filters the grains. Traditionally the pot is made of wood or bamboo, though metal versions are common now.",
+        "You let it steep for a few minutes and sip. The taste is mild, sour and warming, a little like a light, warm cider. When the liquid runs low, the host tops up the pot with hot water, two or three times, until the grains are spent. Our guide explains how millet is cooked, cooled, mixed with a starter called marcha and left to ferment for days, and why tongba is offered to guests and at rituals.",
+        "With it come momo, thukpa or fried potatoes with chilli, and perhaps a plate of sukuti, dried spiced meat. If you do not drink alcohol, ask for hot lemon or milk tea and enjoy the food and the company. Conversation in these kitchens is easy, and our guide helps it along. The evening ends early; Hile goes to bed soon after dark, and the sunrise walk starts before dawn."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "first-timers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is tongba?",
+          "a": "Tongba is a drink of fermented millet from the eastern hills of Nepal, Sikkim and Darjeeling, with a name from the Limbu language. Hot water is poured over the fermented grains in a pot and sipped through a bamboo straw. It is mildly alcoholic and served warm."
+        },
+        {
+          "q": "How strong is tongba?",
+          "a": "Tongba is mildly alcoholic, weaker than most spirits, but the strength varies with the batch and how often the pot is refilled. It can creep up on you over an evening. Drink water too and do not drive afterwards."
+        },
+        {
+          "q": "Is tongba safe to drink?",
+          "a": "In a clean, busy kitchen, tongba made with freshly boiled water is generally fine. We choose kitchens we know and trust. If your stomach is sensitive, have a small amount, drink water alongside and stick to freshly cooked food."
+        }
+      ]
+    },
+    {
+      "slug": "hile-ridge-sunrise",
+      "title": "Sunrise walk on the Hile ridge",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "image_query": "Hile ridge sunrise hills",
+      "wiki": "",
+      "summary": "An early walk from the bazaar up to a viewpoint on the ridge above Hile, to watch the sun rise over the folded hills of the Koshi basin and, on the clearest mornings, snow peaks to the north.",
+      "body": [
+        "We leave the lodge in the dark with torches and walk uphill on paths and steps above the bazaar, past houses where the first kitchen fires are being lit. In 30–40 minutes we reach a viewpoint on the ridge, where the land drops away on both sides. It is cold and often windy, so we find a sheltered spot and wait with tea from a flask as the eastern sky turns from grey to orange.",
+        "As the light comes, the ridges of Dhankuta, Tehrathum and Sankhuwasabha appear in layers, often with mist filling the valleys below like a white lake. On the clearest winter mornings, snow peaks show on the northern horizon. Our guide names the villages and valleys you can see, the roads leading north to Basantapur and Khandbari, and the tea gardens on the slopes nearby.",
+        "We stay until the sun is well up and the mist starts to lift, then walk back down for breakfast and tea in the bazaar as the town wakes up, buses warm their engines and shops open. It is a short outing, about an hour and a half in all, and leaves the day free for a tea garden visit, the drive to Basantapur or the onward road north or south."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "solo",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "Can you see the Himalaya from Hile?",
+          "a": "On clear mornings, mostly from October to February, snow peaks are visible on the northern horizon from the ridges above Hile. In spring and the monsoon, haze and cloud usually hide them. The views over the hills are fine in any season."
+        },
+        {
+          "q": "How cold is Hile at sunrise?",
+          "a": "In winter, dawn temperatures at about 1,948 m can be near freezing, and the ridge is often windy, which makes it feel colder. Bring a warm jacket, hat and gloves from November to February, and a layer even in spring and autumn."
+        },
+        {
+          "q": "Is the sunrise walk steep?",
+          "a": "It is a short but steep climb of 30–40 minutes on paths and steps, some uneven. Go slowly and use a torch in the dark. It is suitable for most reasonably fit travellers, and our guide sets an easy pace."
+        }
+      ]
+    },
+    {
+      "slug": "hile-basantapur-rhododendron-ridge",
+      "title": "Rhododendron day on the Basantapur ridge",
+      "kind": "nature",
+      "duration": "Full day",
+      "best_time": "Mar–Apr",
+      "image_query": "Rhododendron forest Basantapur Tehrathum",
+      "wiki": "Rhododendron arboreum",
+      "summary": "A spring day trip north from Hile to Basantapur and a walk into the rhododendron forests of the Tinjure–Milke–Jaljale ridge, when the gurans, Nepal's national flower, blooms red and pink along the trail.",
+      "body": [
+        "In March and April we drive north from Hile to Basantapur, a road-head bazaar on the ridge, about an hour or two away depending on the road. From here footpaths lead into the forests of the Tinjure–Milke–Jaljale area, known for its rhododendrons, including the red gurans that is Nepal's national flower. Other species bloom in pink and white, and the forests also hold oak, magnolia and many birds.",
+        "We walk for 3–4 hours through forest and open ridges, with stops for lunch and tea in small settlements of herders and farmers. The colour depends on the year and the altitude: lower forests bloom first, higher ones later. Our guide knows where the trees are at their best that week. On clear days the ridges also give views north toward the snow peaks, though spring haze often softens them.",
+        "We drive back to Hile in the afternoon, in time for a tongba evening. For a longer trip, the ridge can be walked over several days with homestay nights, linking villages and viewpoints along the Tinjure, Milke and Jaljale sections. It is a moderate trek with little foreign traffic, and we can arrange a route, guide and homestays to fit your time and fitness."
+      ],
+      "good_for": [
+        "photographers",
+        "trekkers",
+        "couples",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "When do rhododendrons bloom near Basantapur?",
+          "a": "Usually from March to April, with lower forests flowering first and higher ridges later. Peak bloom shifts by a week or two each year depending on weather and late snow. We check with local contacts before your visit."
+        },
+        {
+          "q": "Can I trek the Tinjure–Milke–Jaljale ridge?",
+          "a": "Yes. The ridge can be walked over several days from Basantapur, staying in simple homestays and lodges. It is a moderate trek through forest and pasture, with no high passes. Ask us for a route and current conditions."
+        },
+        {
+          "q": "How far is Basantapur from Hile?",
+          "a": "Basantapur is roughly 1–2 hours north of Hile by road, depending on conditions and road works. Jeeps and buses run between them through the day. Check current status before you travel in the monsoon."
+        }
+      ]
+    },
+    {
+      "slug": "hile-gompa-and-bazaar",
+      "title": "The Hile gompa and bazaar walk",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Morning, any season",
+      "image_query": "Hile Buddhist monastery Dhankuta",
+      "wiki": "",
+      "summary": "A short morning walk through Hile's ridge-top bazaar to the small Buddhist monastery near the road, with a guide who explains the mix of Buddhist, Hindu and Kirat traditions in this junction town.",
+      "body": [
+        "We walk along the bazaar as shops open and buses come and go, loading passengers and goods for the villages to the north. Our guide points out the kitchens, the shops that supply the villages to the north with everything from rice to roofing sheets, and the shrines of different faiths along the way. Hile is small, so the walk is short, but there is plenty to watch.",
+        "The small monastery near the road serves the town's Buddhist families. If it is open, we turn the prayer wheels, walk clockwise and look inside with permission. Our guide explains how the town's Buddhist families came to settle on this ridge, and how Kirat, Hindu and Buddhist traditions sit side by side here, with families often joining each other's festivals and sharing food on special days.",
+        "It is a short, simple visit that fits well before breakfast or before the drive on. Leave a small donation if you go inside. If you are lucky, you may hear morning prayers or see butter lamps being lit. Afterwards we stop for tea and a breakfast of Tibetan bread or sel roti at one of the bazaar kitchens, and then continue the day's journey north or south."
+      ],
+      "good_for": [
+        "first-timers",
+        "seniors",
+        "solo",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "Is there a monastery in Hile?",
+          "a": "Yes, a small Buddhist monastery stands near the bazaar and serves local Buddhist families. Visitors are generally welcome if it is open. Walk clockwise, remove shoes inside, leave a small donation and ask before photographing."
+        },
+        {
+          "q": "Why do Tibetan dishes feature so much in Hile?",
+          "a": "Families of Tibetan and Sherpa origin have long run kitchens and lodges in Hile, serving momo, thukpa and butter tea alongside Nepali dal bhat. Tongba, from the Limbu tradition, completes the mix, and Rai and Limbu families cook too."
+        },
+        {
+          "q": "How long should I spend in Hile?",
+          "a": "One night is ideal: a tongba evening, a sunrise walk and a morning stroll through the bazaar. Add a day if you want to visit a tea garden or go to Basantapur for the rhododendrons in spring."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Hile?",
+      "a": "Hile is a ridge-top bazaar in Dhankuta district, Koshi Province, eastern Nepal, at about 1,948 m. It lies on the Koshi Highway about 13 km north of Dhankuta bazaar and is part of Dhankuta municipality, as its Ward 1."
+    },
+    {
+      "q": "What is Hile famous for?",
+      "a": "Hile is known for tongba, the hot fermented millet drink served in its kitchens, its cool and misty climate, nearby high-elevation tea gardens, and its role as a junction for the roads to Tehrathum and Sankhuwasabha."
+    },
+    {
+      "q": "How do I get to Hile from Kathmandu?",
+      "a": "Fly to Biratnagar (about 40 minutes), then drive about 3.5 hours via Itahari, Dharan and Dhankuta. By road from Kathmandu, allow a long day or two, with an overnight in Dharan. Check current status before you travel."
+    },
+    {
+      "q": "When is the best time to visit Hile?",
+      "a": "October to December for clear views and cool, dry weather; March to May for rhododendrons on the Basantapur ridge and tea plucking. June to September is wet, misty and leechy, and roads can be blocked by landslides."
+    },
+    {
+      "q": "Is Hile cold?",
+      "a": "Yes, compared with the plains. At about 1,948 m, winter nights can drop near freezing, and mist and wind make it feel colder. Spring and autumn evenings are cool. Bring warm layers in every season except mid-summer."
+    },
+    {
+      "q": "Are there hotels in Hile?",
+      "a": "Yes, several simple family-run hotels and lodges along the main road, with restaurants serving Nepali and Tibetan food. Rooms are basic and clean. For larger hotels, stay in Dharan and visit Hile on the way north."
+    },
+    {
+      "q": "Can I visit tea gardens near Hile?",
+      "a": "Some gardens around Hile and Dhankuta, such as Jun Chiyabari and Guranse, grow specialty orthodox tea. They are working estates; visits must be arranged in advance and are not always possible. We contact them for you."
+    },
+    {
+      "q": "Is Hile on the way to Makalu?",
+      "a": "Yes. The road from Dharan to Khandbari and Tumlingtar, the gateway to the Makalu trek, passes through Hile. Travellers going by road often spend a night here, as it breaks the drive into two comfortable days."
+    },
+    {
+      "q": "Is tongba only found in Hile?",
+      "a": "No. Tongba is drunk across the eastern hills of Nepal, and in Sikkim and Darjeeling. Hile is simply one of the best-known places to try it, thanks to its kitchens on the main road and its cold evenings."
+    }
+  ]
+}

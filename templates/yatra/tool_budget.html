@@ -1,0 +1,50 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal trip budget builder in US dollars · Book Nepal Trip{% endblock %}
+{% block description %}Estimate a planning range for a Nepal trip or trek by type, nights, travellers and comfort level, in US dollars.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Trip tool</p><h1 class="h-xl">Budget builder</h1><p class="lede">A planning range, not a quote. It covers stays, a licensed guide, transport inside Nepal and permits for the trip type; it leaves out international flights, visas, tips and personal spending.</p></div></header>
+<section class="wrap split" style="padding:10px 0 90px">
+  <form class="form" id="bb" onsubmit="return false">
+    <div class="field"><label for="bb-type">Trip type</label><select id="bb-type"><option value="tour">Tour: valley, lakes, jungle</option><option value="trek" selected>Teahouse trek</option><option value="lodge">Lodge-to-lodge comfort trek</option><option value="restricted">Restricted area (Upper Mustang, Manaslu, Dolpo)</option><option value="wild">Wildlife lodge safari</option></select></div>
+    <div class="field"><label for="bb-level">Comfort</label><select id="bb-level"><option value="0">Simple and local</option><option value="1" selected>Comfortable</option><option value="2">Best available</option></select></div>
+    <div class="field"><label for="bb-nights">Nights</label><input id="bb-nights" type="number" min="2" max="30" value="12" inputmode="numeric"></div>
+    <div class="field"><label for="bb-pax">Travellers</label><input id="bb-pax" type="number" min="1" max="12" value="2" inputmode="numeric"></div>
+    <div class="field full"><label><input type="checkbox" id="bb-flights" checked> Add domestic flights (for example Kathmandu–Lukla or Pokhara–Jomsom return)</label></div>
+  </form>
+  <aside class="split__aside"><div class="panel panel--dark" aria-live="polite" data-land="everest-khumbu">
+    <p class="eyebrow foil-text">Planning range, per person</p>
+    <p id="bb-pp" style="font-family:var(--f-mono);font-size:1.7rem;color:#fff;margin:0 0 8px">–</p>
+    <ul class="facts" style="border-color:rgba(255,255,255,.2)"><li style="border-color:rgba(255,255,255,.15)"><span style="color:rgba(255,255,255,.7)">Whole party</span><b id="bb-total">–</b></li><li style="border-color:rgba(255,255,255,.15)"><span style="color:rgba(255,255,255,.7)">Per night, per person</span><b id="bb-night">–</b></li></ul>
+    <p class="small" style="margin-top:14px">Our planning estimates for October–November and March–April, twin sharing. Groups of one pay more per person; larger groups pay less. Your quote is itemised.</p>
+  </div><a class="btn" href="{% url 'plan' %}">Get a real quote</a></aside>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  /* Planning estimates in USD per person per night, twin sharing, with licensed guide and transport.
+     [simple, comfortable, best] as [low, high]. Edit here as rates change. */
+  var R = {
+    "tour": [[70,100],[120,180],[220,380]],
+    "trek": [[75,95],[100,130],[140,190]],
+    "lodge": [[150,190],[200,260],[280,380]],
+    "restricted": [[180,230],[230,300],[300,420]],
+    "wild": [[90,130],[160,240],[300,480]]
+  };
+  var FLIGHT = 450;
+  var $ = function (id) { return document.getElementById(id); };
+  var fmt = function (n) { return "USD " + (Math.round(n / 50) * 50).toLocaleString("en-US"); };
+  function calc() {
+    var r = R[$("bb-type").value], lv = +$("bb-level").value, n = Math.max(2, Math.min(30, +$("bb-nights").value || 2)), p = Math.max(1, Math.min(12, +$("bb-pax").value || 1));
+    var solo = p === 1 ? 1.35 : 1;
+    var fl = $("bb-flights").checked ? FLIGHT : 0;
+    var lo = r[lv][0] * n * solo + fl, hi = r[lv][1] * n * solo + fl;
+    $("bb-pp").textContent = fmt(lo) + " – " + fmt(hi);
+    $("bb-total").textContent = fmt(lo * p) + " – " + fmt(hi * p);
+    $("bb-night").textContent = fmt(r[lv][0] * solo) + " – " + fmt(r[lv][1] * solo);
+  }
+  ["bb-type","bb-level","bb-nights","bb-pax","bb-flights"].forEach(function (id) { $(id).addEventListener("input", calc); $(id).addEventListener("change", calc); });
+  calc();
+})();
+</script>
+{% endblock %}

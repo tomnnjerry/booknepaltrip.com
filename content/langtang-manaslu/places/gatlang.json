@@ -1,0 +1,342 @@
+{
+  "slug": "gatlang",
+  "name": "Gatlang",
+  "name_ne": "गत्लाङ",
+  "local_name": "",
+  "region": "langtang-manaslu",
+  "kind": "village",
+  "wiki": "Gatlang",
+  "image_query": "Gatlang Tamang village Rasuwa",
+  "lat": 28.165,
+  "lng": 85.262,
+  "altitude_m": 2240,
+  "tagline": "Stone-and-timber Tamang village on the Heritage Trail",
+  "meta_description": "Gatlang, a Tamang village at 2,240 m in Rasuwa: carved wooden houses, homestays, Tamang Selo music, Parvati Kunda and the Tamang Heritage Trail.",
+  "summary": "Gatlang is a large Tamang village at about 2,240 m in Rasuwa, north-west of Syabrubesi. Its tightly packed houses of stone and dark timber, community homestays and strong Tamang traditions make it the best-known stop on the Tamang Heritage Trail. Road access runs through flood-hit areas; check current status before you travel.",
+  "intro": [
+    "Gatlang sits on a sunny slope above the Chilime valley in Rasuwa district, at about 2,240 m, facing the snow peaks of Ganesh Himal and the ridges toward Langtang. It is a village of several hundred households, almost all Tamang, and one of the most traditional in the region. Houses are built of stone with heavy timber frames and carved windows, so close together that lanes are often just a shoulder wide.",
+    "The village became known to travellers through the Tamang Heritage Trail, a route designed to bring trekkers to Tamang villages west of the main Langtang trail. Gatlang offers homestays in family houses, cultural programmes of Tamang song and dance, and walks to farms and a small lake above the village. It suits people who want to see daily life rather than tick off high passes.",
+    "Gatlang stands well above the rivers that flooded on 26 August 2026, but the region was hit hard: the Chilime hydropower site in the valley below was damaged, and the roads through Syabrubesi and Trishuli were cut. Access will depend on repairs. Check current status before you travel, and consider spending more nights here when it reopens; tourism income matters more than ever."
+  ],
+  "story": {
+    "title": "A Tamang village that kept its shape",
+    "paras": [
+      "Gatlang grew as a farming village of the Tamang, the largest of the hill peoples around the Kathmandu Valley. Families farmed maize, millet, barley and potatoes on terraces, kept cattle and goats on the high pastures, and worked as porters on the trade route to Kerung in Tibet, which ran down the Bhote Koshi a few hours to the east. Buddhism came through lamas trained in Tibet, while shamans, the bombo, kept older healing traditions alive. Those links with the north still show in the gompa, the prayer flags and some of the words people use.",
+      "Because it lay away from the main trekking trail and road, Gatlang changed slowly. Its houses kept their stone walls and carved timber, and the wood, smoked by cooking fires over many years, darkened until the village looks almost black from a distance. In the 1991 census it had about 2,500 people in some 500 households, making it a substantial settlement for this altitude. Walking through the village today, the closeness of the houses, the shared walls and narrow passages tell you about a community that built for warmth, defence and shared work rather than privacy.",
+      "Change came with the road and with hydropower: the Chilime project in the valley below brought jobs, and a jeep road reached the village. The 2015 earthquake damaged many houses, and some rebuilt in new materials. The Tamang Heritage Trail and community homestays gave villagers a way to earn from visitors while keeping their culture at the centre. The floods of 2025 and 2026 struck the valley below, and the village again faces a period of rebuilding links to the outside."
+    ]
+  },
+  "legend": "",
+  "people": "Gatlang is almost entirely Tamang. People speak Tamang at home and Nepali with outsiders, follow Tibetan Buddhism alongside older shamanic practices, and gather at the gompa for festivals such as Sonam Lhosar. Livelihoods mix farming, livestock, hydropower and road work, homestay income and wages from Kathmandu or abroad. Women still often wear traditional dress, especially at festivals.",
+  "untold": [
+    {
+      "fact": "At the 1991 Nepal census Gatlang had a population of about 2,500 people living in some 500 households, a large village for its altitude in Rasuwa.",
+      "source": "Wikipedia: Gatlang"
+    },
+    {
+      "fact": "Gatlang's houses are built of stone and wood, and the timber darkens with years of kitchen smoke and weather, which is why the village is sometimes described as black from a distance.",
+      "source": "Wikipedia: Gatlang"
+    },
+    {
+      "fact": "The Chilime hydropower plant in the valley below Gatlang was among the hydropower projects damaged by the flood of 26 August 2026 on the Bhote Koshi and Trishuli system.",
+      "source": "Wikipedia: 2026 Nepal–Tibet floods"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Fyafulla",
+      "script": "",
+      "lang": "Tamang",
+      "meaning": "Tamang greeting, used like namaste"
+    },
+    {
+      "word": "damphu",
+      "script": "डम्फु",
+      "lang": "Tamang",
+      "meaning": "Round frame drum played for Tamang Selo songs"
+    },
+    {
+      "word": "bombo",
+      "script": "",
+      "lang": "Tamang",
+      "meaning": "Tamang shaman and healer"
+    }
+  ],
+  "taste": {
+    "name": "Dhindo and local potatoes",
+    "text": "Homestays in Gatlang serve dhindo, a thick porridge of millet or maize flour eaten with greens, lentil soup and chilli pickle, alongside small local potatoes boiled and dipped in salt and chilli. In winter you may be offered chhyang, home-brewed grain beer. Eat with your host family at the hearth."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Dec, Mar – Apr"
+    ],
+    [
+      "Days we suggest",
+      "1–2 nights"
+    ],
+    [
+      "Nearest airport",
+      "Kathmandu (KTM)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 130 km by road via Syabrubesi; normally 8–10 h"
+    ],
+    [
+      "Altitude",
+      "≈ 2,240 m"
+    ],
+    [
+      "Known for",
+      "Tamang houses, homestays, Tamang Heritage Trail"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "Old Tamang lanes",
+      "text": "Walk the narrow lanes between stone houses with carved, smoke-dark windows, past courtyards where grain dries and women weave. Ask your host before photographing people or entering yards. Mornings are best, when smoke rises from kitchens and people head to the fields."
+    },
+    {
+      "title": "Community homestays",
+      "text": "Sleep in a Tamang family house, eat at the hearth and join daily chores. Homestays are run through the community, and your payment goes to the household that hosts you. Rooms are simple, but the welcome is warm and the food home-cooked."
+    },
+    {
+      "title": "Tamang Selo evening",
+      "text": "On request, villagers perform Tamang Selo songs and dances to the damphu drum. It is a cultural programme, but also how Tamang people celebrate at weddings and festivals. Expect to be invited into the dance at the end; joining in is part of the fun."
+    },
+    {
+      "title": "Parvati Kunda",
+      "text": "A short walk above the village leads to a small lake with a shrine, a quiet spot with views over the Chilime valley and toward Ganesh Himal. Go in the morning when the air is clear."
+    },
+    {
+      "title": "Heritage Trail days",
+      "text": "From Gatlang the Tamang Heritage Trail continues to the hot springs at Tatopani, the Nagthali viewpoint and the villages of Thuman and Briddim, a 5 to 7 day loop through Tamang country. Gatlang is usually the first or second night of the loop."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Normally about 130 km from Kathmandu via Trishuli, Dhunche and Syabrubesi, then a jeep road up to Gatlang: 8 to 10 hours. After the August 2026 flood, roads near the Bhote Koshi were cut; check current status before you travel."
+    },
+    {
+      "mode": "On foot",
+      "text": "From the Syabrubesi area, walk up to Gatlang in about 5 to 6 hours as the first day of the Tamang Heritage Trail."
+    }
+  ],
+  "where_to_stay": "Gatlang's community homestays are the reason to come: simple rooms in Tamang family houses, with mattresses or beds, thick blankets, a shared toilet and meals with the family. A few small lodges also operate. Facilities are basic and hot water is limited, but hosts are welcoming and food is home-cooked. We book through the village homestay network and confirm availability before you travel. Bring a sleeping bag and a headlamp.",
+  "stays": [],
+  "tips": [
+    "Bring a warm sleeping bag; houses are unheated and nights drop near freezing in winter.",
+    "Learn to say Fyafulla; it opens doors and smiles.",
+    "Ask before photographing people, especially elders and women in traditional dress.",
+    "Carry cash in small notes; there are no ATMs in the village.",
+    "Check road access through Syabrubesi before you travel, as the 2026 flood cut it."
+  ],
+  "themes": [
+    "villages-and-homestays",
+    "treks-and-trails",
+    "food-and-festivals",
+    "photography"
+  ],
+  "nearby": [
+    "briddim",
+    "syabrubesi",
+    "nuwakot"
+  ],
+  "experiences": [
+    {
+      "slug": "gatlang-tamang-homestay",
+      "title": "Tamang homestay in Gatlang",
+      "kind": "heritage",
+      "duration": "1–2 nights",
+      "best_time": "Oct–Dec, Mar–Apr",
+      "image_query": "Tamang homestay Gatlang kitchen",
+      "wiki": "",
+      "summary": "Stay with a Tamang family in a stone-and-timber house, share meals at the hearth, help with farm work and learn how a village of several hundred households lives at 2,240 m. It is the heart of any visit.",
+      "body": [
+        "Your host family welcomes you with tea and shows you to a simple room, often upstairs above the family's living space. Houses are built close together around small courtyards, with heavy timber frames and carved windows darkened by smoke. Life centres on the kitchen hearth, where food is cooked over a wood fire. Rooms are simple: a bed or mattress, thick blankets, a window over the lane. Toilets are usually shared and may be outside. Hot water is limited, so expect a bucket wash rather than a shower, and bring a headlamp for the night.",
+        "Depending on the season, you might help harvest potatoes, carry fodder, shell maize or tend goats. Your guide translates as hosts talk about family, farming, the Chilime power plant, and how the floods of recent years have touched the community. Children often take visitors around the village. Children are often the best guides to the village, keen to show you their school, the gompa and the best viewpoints. Older people may speak only Tamang, and a few words from you, starting with Fyafulla, will earn a warm smile and often an invitation to tea.",
+        "Dinner is dhindo or dal bhat with greens and potatoes, and sometimes chhyang. In the morning, walk to the gompa or up to Parvati Kunda. Homestay fees go to the family through the community network, and the stay is one of the most direct ways to support the village. Breakfast is usually tea with Tibetan bread, porridge or boiled potatoes. If you are staying two nights, ask your host to show you how dhindo is made; stirring the thick porridge takes strength and practice, and your attempts will be a source of good-humoured laughter in the kitchen."
+      ],
+      "good_for": [
+        "families",
+        "solo",
+        "couples",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is a Gatlang homestay like?",
+          "a": "Expect a clean, simple room in a family house with a mattress or bed and heavy blankets, a shared toilet, often outside, and little or no hot water. Meals are home-cooked and eaten with the family. It is basic, but warm in spirit, and gives a real view of Tamang life that no lodge can offer."
+        },
+        {
+          "q": "Do Gatlang homestay hosts speak English?",
+          "a": "Some younger people speak a little English, but most hosts speak Tamang and Nepali. A guide who speaks Nepali, ideally Tamang too, makes the stay far richer. Learn a few Tamang words; Fyafulla for hello is always appreciated. Gestures and smiles go a long way too."
+        },
+        {
+          "q": "How much does a homestay in Gatlang cost?",
+          "a": "Rates are set by the community homestay network and include dinner and breakfast. They are modest by international standards and change over time, so we confirm the current rate when booking. The fee is paid to the household, and we include it in our trip price."
+        }
+      ]
+    },
+    {
+      "slug": "gatlang-tamang-selo-evening",
+      "title": "Tamang Selo songs and damphu drums",
+      "kind": "heritage",
+      "duration": "1.5 hours",
+      "best_time": "Evening, all year",
+      "image_query": "Tamang Selo dance damphu drum",
+      "wiki": "Tamang Selo",
+      "summary": "An evening of Tamang Selo, the call-and-answer songs of the Tamang, played on the round damphu drum by villagers in traditional dress, often with dancing in which guests are invited to join. Bring warm clothes for an outdoor evening.",
+      "body": [
+        "Tamang Selo is the folk music of the Tamang people: songs sung in turn by men and women, often teasing, sometimes sad, about love, work, the hills and the road. The rhythm comes from the damphu, a round frame drum played with the hand. It is heard at weddings, festivals and village gatherings across the Tamang hills. The songs often include clever exchanges between singers, with one side challenging and the other replying. Good singers are admired for wit as much as for voice. Many Tamang Selo songs have become popular across Nepal through radio and recordings.",
+        "In Gatlang we arrange an evening with a group of villagers, often through the homestay committee or a women's group. They perform in a courtyard or community hall, wearing traditional dress, with songs and dances that change with the season and the occasion. Your guide explains the lyrics as they go. Performers usually wear traditional Tamang dress: for women, long skirts, bright blouses, shawls and silver or coral jewellery; for men, white shirts, waistcoats and caps. Ask before taking close-up photographs of individuals, and avoid flash in their faces.",
+        "By the end, guests are usually pulled into a line dance. The fee goes to the performers and their group. It is a performance, but it is rooted in how the village actually celebrates, especially at Sonam Lhosar. In the right season, a homestay host may invite you to a real wedding or celebration instead, which is even better. Either way, the music is a reminder that Tamang culture is lived, not staged, and that Gatlang's people are proud to share it with visitors."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "first-timers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is Tamang Selo?",
+          "a": "Tamang Selo is a genre of Tamang folk song, usually sung in alternating verses by men and women to the rhythm of the damphu drum. It is performed at weddings, festivals such as Sonam Lhosar and social gatherings, and has become well known across Nepal through recordings and radio."
+        },
+        {
+          "q": "Can I take photos and video during the Tamang Selo performance?",
+          "a": "Usually yes, since it is arranged for guests, but ask the group first and avoid flash in faces. If you are invited to a real wedding or festival rather than an arranged evening, always check with your host before filming."
+        },
+        {
+          "q": "Should I tip the performers?",
+          "a": "The performance fee is included when we arrange it, and goes to the group. A small additional tip to the group leader at the end is welcome but not required. Do not give money to individual children performing; give it to the group or the organiser."
+        }
+      ]
+    },
+    {
+      "slug": "gatlang-parvati-kunda-walk",
+      "title": "Morning walk to Parvati Kunda",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Parvati Kunda Gatlang lake",
+      "wiki": "",
+      "summary": "A short climb above Gatlang to Parvati Kunda, a small sacred lake with a shrine, through fields and forest with views over the Chilime valley and toward Ganesh Himal. An easy morning outing.",
+      "body": [
+        "From the upper edge of the village a path climbs through terraced fields and then mixed forest to Parvati Kunda, a small lake named after the goddess Parvati, Shiva's consort. A shrine stands near the water, and prayer flags and offerings show that it is still visited by local people. The lake is small, but the setting is peaceful, surrounded by forest and fields. Walk around it slowly, keeping the shrine on your right, and leave the offerings undisturbed. It is a place local people visit for prayer, not a picnic spot.",
+        "The walk takes about 45 minutes up at an easy pace. On clear mornings you look across the Chilime valley to the snow ridges of Ganesh Himal, and back down on the roofs of Gatlang. Birds are active in the forest early in the day. Take binoculars if you have them: birds such as laughingthrushes and finches are common in the surrounding forest. In spring, rhododendrons flower on the slopes above the village, and in autumn the terraces below turn gold with ripening millet and maize.",
+        "Return the same way for breakfast or continue along the hillside with your guide. It is a gentle introduction to the landscape before the longer days of the Tamang Heritage Trail. On the way back, stop at the gompa in the upper village if it is open. Your host family or guide can arrange for someone to unlock it and explain the images inside. Back at the homestay, breakfast will be waiting: tea, Tibetan bread and perhaps boiled potatoes."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the walk to Parvati Kunda?",
+          "a": "About 45 minutes uphill from Gatlang and 30 minutes back, so allow 2 hours with time at the lake. The path is a village trail through fields and forest, steep in places but not difficult. Wear proper shoes, as it can be muddy after rain."
+        },
+        {
+          "q": "Is Parvati Kunda a sacred lake?",
+          "a": "Yes, it is named after the goddess Parvati and has a shrine where local people make offerings. Treat it as a place of worship: do not swim or wash in the lake, keep the shrine on your right as you walk around, and leave nothing behind."
+        },
+        {
+          "q": "Can I see the mountains from Gatlang?",
+          "a": "Yes, on clear days Ganesh Himal and other peaks are visible from the village and the walk to Parvati Kunda, best in the early morning from October to February. In spring haze often builds by mid-morning, and from June to September cloud usually covers them."
+        }
+      ]
+    },
+    {
+      "slug": "gatlang-tatopani-hot-springs",
+      "title": "Trek to the Tatopani hot springs",
+      "kind": "wellness",
+      "duration": "5–6 hours",
+      "best_time": "Oct–Dec, Mar–Apr",
+      "image_query": "Tatopani hot spring Rasuwa",
+      "wiki": "",
+      "summary": "The second day of the Tamang Heritage Trail: walk from Gatlang through Tamang farmland and forest to Tatopani, where natural hot springs are channelled into bathing pools used by villagers and trekkers. Bring a swimsuit and a towel.",
+      "body": [
+        "From Gatlang the trail descends to the Chilime area and then climbs through farms and forest to Tatopani, whose name simply means hot water. Here natural hot springs are piped into concrete bathing pools, used by local people for health and by trekkers for tired legs. The walk takes 5 to 6 hours with breaks. The trail passes Tamang villages, fields and patches of forest, with views back to Gatlang and across to Ganesh Himal. Take breaks at village tea shops, where you can buy noodles, biscuits and tea. Your guide will set the pace and choose the route based on current trail conditions.",
+        "Villagers believe the waters help with aches, skin problems and stiffness, and you will often share the pool with elderly people from nearby villages. Bathe in shorts and a T-shirt or swimsuit with a cover, and follow local custom about who uses the pools when. The pools are busiest in the morning and evening, when villagers come to bathe after work. Afternoons are quieter. Keep valuables with your guide while you bathe, and bring flip-flops for the walk from the changing area. Soap should not be used in the pools themselves.",
+        "Tatopani has simple lodges and homestays. Next day the trail climbs to the Nagthali viewpoint and continues toward Thuman. Some parts of this area lie near flood-affected valleys and roads; check current status before you travel. The Nagthali viewpoint above Tatopani, at around 3,200 m, has wide views of Langtang and Ganesh Himal and is the high point of the loop. From there the trail descends to Thuman and on to Briddim. Rest well at Tatopani, as the climb to Nagthali is steep."
+      ],
+      "good_for": [
+        "trekkers",
+        "couples",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Are the Tatopani hot springs open to tourists?",
+          "a": "Yes. The springs are piped into community bathing pools used by locals and trekkers alike. A small fee may be charged for upkeep. Bathing is in mixed company, so wear shorts and a T-shirt or a swimsuit with a cover, and be respectful of older people using the pools."
+        },
+        {
+          "q": "How hot is the water at Tatopani?",
+          "a": "Comfortably hot, similar to a warm bath, though temperature varies by pool and season. Do not soak for too long, especially at altitude after a long walk; 15 to 20 minutes is plenty. Drink water before and after, and get out if you feel dizzy."
+        },
+        {
+          "q": "Is there accommodation at Tatopani?",
+          "a": "Yes, a few simple lodges and homestays near the springs offer rooms and meals. Facilities are basic, with shared toilets. In the post-flood period, some may be closed; we confirm which are open before your trek. Check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Gatlang?",
+      "a": "Gatlang is a Tamang village in Rasuwa district, Bagmati Province, at about 2,240 m, north-west of Syabrubesi above the Chilime valley. It faces Ganesh Himal and lies on the Tamang Heritage Trail, a trek through Tamang villages west and north of the Langtang Valley."
+    },
+    {
+      "q": "How do I get to Gatlang from Kathmandu?",
+      "a": "Normally by road via Trishuli, Dhunche and Syabrubesi, then a jeep road up to the village, about 130 km in 8 to 10 hours. Or walk up from the Syabrubesi area in 5 to 6 hours. The August 2026 flood cut the roads near Syabrubesi; check current status before you travel."
+    },
+    {
+      "q": "Is Gatlang worth visiting?",
+      "a": "Yes, if you are interested in village life and culture. Gatlang is one of the most traditional Tamang villages in Rasuwa, with old stone houses, community homestays and strong customs. It is less about big mountain views and more about people, food and music. A night or two here is the heart of the Tamang Heritage Trail."
+    },
+    {
+      "q": "What is the Tamang Heritage Trail?",
+      "a": "It is a community-based trekking route through Tamang villages in Rasuwa: typically Gatlang, Tatopani, Nagthali, Thuman, Timure and Briddim, in a 5 to 7 day loop from the Syabrubesi area. It stays mostly below 3,200 m and uses homestays and small lodges. It can be combined with the Langtang Valley trek."
+    },
+    {
+      "q": "Was Gatlang affected by the 2026 flood?",
+      "a": "Gatlang village lies high above the rivers, but the Chilime hydropower site below it was damaged, and roads through Syabrubesi and the Trishuli valley were cut by the flood of 26 August 2026. Access will depend on repairs. Check current status before you travel; we will confirm the route before your trip."
+    },
+    {
+      "q": "Do I need a permit to visit Gatlang?",
+      "a": "Gatlang is reached through the Langtang National Park area, and foreigners on the Tamang Heritage Trail need the park permit. Since April 2023, foreign trekkers in national parks must trek with a licensed guide. During the post-flood period there may be extra controls. Check current status before you travel."
+    },
+    {
+      "q": "When is the best time to visit Gatlang?",
+      "a": "October to December and March to April, when trails are dry and skies mostly clear. Winter, December to February, is cold but often sunny and quiet, and Sonam Lhosar falls in late January or February. Avoid June to September, when rain, mud and landslides are common."
+    },
+    {
+      "q": "Who lives in Gatlang?",
+      "a": "Gatlang is almost entirely Tamang. People speak Tamang and Nepali, follow Tibetan Buddhism together with shamanic traditions, and live from farming, livestock, wage work and homestay income. Many young people work in Kathmandu or abroad and return for festivals. Tamang dress and music remain strong."
+    },
+    {
+      "q": "Can families visit Gatlang?",
+      "a": "Yes. The homestays, music and farm life make Gatlang good for families with children who are comfortable with basic facilities. Nights can be cold, toilets are simple and the road journey is long, so plan for at least two nights and bring warm clothes and snacks."
+    }
+  ]
+}

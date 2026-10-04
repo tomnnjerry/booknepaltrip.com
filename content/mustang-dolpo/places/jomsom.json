@@ -1,0 +1,354 @@
+{
+  "slug": "jomsom",
+  "name": "Jomsom",
+  "name_ne": "जोमसोम",
+  "local_name": "Dzongsam, 'new fort' (Tibetan)",
+  "region": "mustang-dolpo",
+  "kind": "hill town",
+  "wiki": "Jomsom",
+  "image_query": "Jomsom Kali Gandaki Nilgiri",
+  "lat": 28.781,
+  "lng": 83.723,
+  "altitude_m": 2700,
+  "tagline": "Mustang's district town, where the wind and the road both arrive",
+  "meta_description": "Jomsom, Mustang's district town at 2,700 m: the 20-minute flight from Pokhara, the afternoon wind, shaligram stones, Thakali food and the way to Muktinath.",
+  "summary": "Jomsom is the district headquarters of Mustang at about 2,700 m, on both banks of the Kali Gandaki. It is the airport and jeep hub for Muktinath, Kagbeni and Upper Mustang, a Thakali town with good lodges, and the place where most visitors spend their first night in the rain shadow.",
+  "intro": [
+    "Most people meet Jomsom from the window of a small plane. The Twin Otter or Dornier from Pokhara flies up the Kali Gandaki gorge between Dhaulagiri and the Annapurnas for about 20 minutes and lands on a 739 m runway at 2,736 m. By 11 am the wind starts to blow up the valley, so flights run early. Step out of the terminal and you are in a dry, stony town of flat roofs, apple trees and government offices.",
+    "Jomsom is the headquarters of Mustang district and the centre of Gharapjhong rural municipality. Old Jomsom sits on the east bank; the airport, hotels and the main bazaar are on the west bank, joined by footbridges. Jeeps leave from here for Muktinath, Kagbeni and Lo Manthang, and a company of the Nepal Army keeps a post in town. On the riverbed, people still search for black shaligram stones. Shops sell fleece, dried apples and trekking snacks at Pokhara prices plus the cost of the climb.",
+    "We treat Jomsom as a working base rather than a sight in itself. It is the place to acclimatise for a night, sort permits, change money, buy a windproof layer and eat a proper Thakali dal-bhat. From here, Marpha is a two-hour walk south, Kagbeni is three hours north along the river, and Thini, Dhumba Lake and the Mustang Eco Museum are all within an easy walk. Two nights here is plenty for most people."
+  ],
+  "story": {
+    "title": "A new fort on an old salt road",
+    "paras": [
+      "For centuries the Kali Gandaki valley was a trade corridor. Caravans of mules and yaks brought rock salt and wool south from Tibet and carried rice, sugar and cloth north. The Thakali villages of the lower valley, Tukuche, Marpha, Thini and Syang, grew rich on that traffic. Jomsom, whose older Tibetan name Dzongsam means 'new fort', was a small settlement on the river below Thini, important mainly as a crossing. Traders stopped here to rest their animals before the climb to Kagbeni and the high country of Lo.",
+      "The town grew in the 20th century because the government chose it. It became the headquarters of Mustang district, and an airstrip was built on the flat gravel terrace above the river. Offices, a hospital, schools, an army post and lodges followed. When the Annapurna Circuit became one of the most walked trails in the world, Jomsom became the place where trekkers coming over the Thorong La caught their flight back to Pokhara. Many of the first lodges were simply Thakali family homes with a few extra beds.",
+      "The road changed everything again. Since the jeep track up the Kali Gandaki from Beni was opened through, Jomsom has been connected to Pokhara by land, and the Kaligandaki Corridor highway now runs on north to the Tibetan border at Korala. Trucks of apples go south in autumn; Indian pilgrims bound for Muktinath arrive by the jeep-load in spring. Old Jomsom still has its flat-roofed Thakali houses, but the west bank looks more like a small administrative town every year."
+    ]
+  },
+  "legend": "Hindu tradition says the black stones in the Kali Gandaki are forms of Vishnu. One version of the story, from the Puranas, tells of Vrinda, the faithful wife of the demon Jalandhara, who cursed Vishnu to become a stone after he deceived her. Vishnu accepted the curse and became the shaligram, and Vrinda became the river Gandaki and the tulsi plant. This is why pilgrims on the road to Muktinath still look for shaligrams on the riverbed near Jomsom and carry them home to their shrines.",
+  "people": "Jomsom's older families are Thakali, particularly the Thakali of Thini, Syang and Chimang villages, who call themselves the Teen Gaunle ('three villages'). Thakali families run many of the lodges and restaurants on both banks. Government staff, soldiers, teachers and traders from across Nepal live here too, along with Loba families from Upper Mustang who keep winter homes in town. Nepali is the common language; you will also hear Thakali and Tibetan dialects.",
+  "untold": [
+    {
+      "fact": "Flights to Jomsom are scheduled for the early morning because heating of the dry Mustang landscape pulls strong southerly winds up the Kali Gandaki gorge. After late morning the wind often makes landings unsafe, so a delayed flight can mean a full day's wait.",
+      "source": "Wikipedia: Jomsom Airport"
+    },
+    {
+      "fact": "The Mustang Eco Museum, about 15 minutes' walk from Jomsom airport, displays beads, bones and pendants recovered from the Mustang sky caves, along with exhibits on local culture and medicinal plants.",
+      "source": "Wikipedia: Mustang Caves"
+    },
+    {
+      "fact": "Shaligrams are ammonite fossils from the Tethys Sea, the ocean that lay between India and Asia before the Himalaya rose. Finding sea fossils at 2,700 m is a direct sign of how far these rocks have been lifted.",
+      "source": "Wikipedia: Shaligram"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "shaligram",
+      "script": "शालिग्राम",
+      "lang": "Nepali",
+      "meaning": "black ammonite fossil from the Kali Gandaki, worshipped as Vishnu"
+    },
+    {
+      "word": "hawa",
+      "script": "हावा",
+      "lang": "Nepali",
+      "meaning": "wind; in Jomsom, the afternoon gale up the valley"
+    },
+    {
+      "word": "tashi delek",
+      "script": "བཀྲ་ཤིས་བདེ་ལེགས",
+      "lang": "Tibetan",
+      "meaning": "greeting meaning good fortune; used by Thakali and Loba alike"
+    }
+  ],
+  "taste": {
+    "name": "Thakali khana set",
+    "text": "The Thakali set is dal-bhat raised to a craft: rice or buckwheat dhido, black lentil dal, a meat or vegetable curry, gundruk, pickles and a spoon of ghee, refilled until you stop them. Jomsom's Thakali kitchens on the west-bank bazaar serve it at lunch and dinner."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Mar – May, Sep – Nov"
+    ],
+    [
+      "Days we suggest",
+      "1–2"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom (JMO), 20 min from Pokhara"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 360 km · 2 days by road; 25 min flight to Pokhara + 20 min to Jomsom"
+    ],
+    [
+      "Altitude",
+      "2,700 m"
+    ],
+    [
+      "Known for",
+      "Mountain flight, shaligrams, Thakali food, gateway to Muktinath and Upper Mustang"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "The flight up the gorge",
+      "text": "Twenty minutes from Pokhara, flying between Dhaulagiri (8,167 m) on the left and Annapurna I (8,091 m) on the right. Sit on the left going up for Dhaulagiri and Tukuche Peak. Flights run in the early morning only and are often delayed by cloud or wind."
+    },
+    {
+      "title": "Old Jomsom on the east bank",
+      "text": "Cross the footbridge to the older Thakali quarter: flat roofs stacked with firewood, small courtyards, prayer wheels and quiet lanes. Late afternoon, when the wind drops a little, is the best hour for a walk here."
+    },
+    {
+      "title": "Mustang Eco Museum",
+      "text": "A small museum near the airport with finds from the Mustang caves, displays on Loba and Thakali life and a section on Himalayan medicinal plants. Allow an hour, ideally on your acclimatisation day. Labels are brief."
+    },
+    {
+      "title": "Thini and Dhumba Lake",
+      "text": "A short walk east of town, Thini is one of the old Teen Gaunle Thakali villages. Beyond it, the small green lake of Dhumba is sacred to local Buddhists and reflects Nilgiri on still mornings."
+    },
+    {
+      "title": "Shaligrams on the riverbed",
+      "text": "The wide gravel bed of the Kali Gandaki below town is where pilgrims search for ammonite fossils. Buy from local sellers rather than digging; collecting is a matter of faith for many visitors, so handle the stones with respect."
+    },
+    {
+      "title": "Jeeps to everywhere",
+      "text": "Jomsom's bus and jeep stand is the hub for Muktinath (≈ 1–1.5 h), Kagbeni (≈ 30 min) and Lo Manthang (≈ 6–7 h). Share jeeps leave when full; we arrange private jeeps for guests. Book seats a day ahead."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Air",
+      "text": "Daily early-morning flights from Pokhara take about 20 minutes. There are occasional direct flights from Kathmandu in season. Expect delays and cancellations when cloud sits in the gorge or the wind picks up; keep a spare day in your plan."
+    },
+    {
+      "mode": "Road",
+      "text": "Pokhara to Jomsom is ≈ 160 km and 7–9 hours by jeep via Beni, Tatopani, Ghasa and Tukuche. Local buses take longer. The Beni–Ghasa section is prone to landslides in July and August; check current status before you travel."
+    },
+    {
+      "mode": "On foot",
+      "text": "Trekkers reach Jomsom on the Annapurna Circuit, coming down from the Thorong La (5,416 m) via Muktinath, or walking up the Kali Gandaki from Tatopani over 4–5 days."
+    }
+  ],
+  "where_to_stay": "Most hotels are on the west bank between the airport and the main bazaar, which makes early flights easy. Shinta Mani Mustang, opened in 2023, is the high-end choice, with 29 suites designed by architect Prabal Thapa with interiors by Bill Bensley. Om's Home, a short walk from the airport, is a long-running mid-range hotel with a Thakali kitchen and heated rooms. There are many simpler lodges along the main street. If you want a quieter village night instead, Marpha is two hours' walk south and Kagbeni half an hour north by jeep.",
+  "stays": [
+    "shinta-mani-mustang",
+    "oms-home-jomsom"
+  ],
+  "tips": [
+    "Do your walking in the morning; from late morning the wind up the valley blows grit and makes the riverbed walk hard work.",
+    "Keep a buffer day after any Jomsom flight, in both directions, because cancellations are common.",
+    "Carry your ACAP permit and TIMS papers; there is a checkpost in town and another at Kagbeni.",
+    "Bring sunglasses, lip balm and a buff for dust; the air is dry and UV is strong at 2,700 m.",
+    "ATMs exist but can run out of cash or go offline, so bring enough Nepali rupees from Pokhara."
+  ],
+  "themes": [
+    "treks-and-trails",
+    "spiritual-and-pilgrimage",
+    "food-and-festivals",
+    "photography"
+  ],
+  "nearby": [
+    "marpha",
+    "kagbeni",
+    "lubra",
+    "muktinath"
+  ],
+  "experiences": [
+    {
+      "slug": "jomsom-thini-dhumba-lake-walk",
+      "title": "Morning walk to Thini village and Dhumba Lake",
+      "kind": "nature",
+      "duration": "3 hours",
+      "best_time": "Early morning, Mar–Nov",
+      "image_query": "Dhumba lake Jomsom Nilgiri",
+      "wiki": "",
+      "summary": "An easy loop from Jomsom across the river to Thini, one of the old Thakali villages, and on to the small sacred lake of Dhumba below Nilgiri. A good acclimatisation walk on your first morning, finished before the afternoon wind.",
+      "body": [
+        "We leave the hotel after breakfast, around 7.30, cross the Kali Gandaki by the footbridge to old Jomsom and climb gently east to Thini. It is about 45 minutes of walking. Thini is one of the three Teen Gaunle villages, with stone houses packed close, a small gompa and fields of barley and buckwheat irrigated by channels from the hillside. Women spin wool on doorsteps in the morning sun, and in autumn the roofs are covered with drying buckwheat and apples.",
+        "From Thini a dirt track and footpath lead on to Dhumba Lake, a small green tarn held sacred by local Buddhists, with prayer flags strung around it. On a still morning it reflects the snow of Nilgiri. A small gompa stands on the slope above. The altitude stays around 2,800 m, so this is a gentle way to let your body adjust before Muktinath or Upper Mustang. There is no teahouse at the lake itself, so carry water and a snack from Jomsom.",
+        "We return by a slightly different path, reaching Jomsom before the wind rises, usually by 11. If you have energy left, the Mustang Eco Museum is near the airport and makes a good hour after lunch. Wear sun protection; even on a cold morning the sun is strong at this height. The whole loop is about 6–8 km, and you can shorten it by returning from Thini the way you came. In winter the path can be icy in shaded sections near the lake, so wear shoes with a good grip and start a little later, after the sun is up."
+      ],
+      "good_for": [
+        "first-timers",
+        "families",
+        "seniors",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How hard is the walk from Jomsom to Dhumba Lake?",
+          "a": "It is easy. The loop is roughly 6–8 km with a gain of about 150 m, mostly on dirt track and village paths. Anyone who can walk for three hours at an easy pace can do it. The only challenge is the altitude of about 2,800 m, so walk slowly, drink water and turn back early if you get a headache."
+        },
+        {
+          "q": "Can we swim in Dhumba Lake?",
+          "a": "No. Dhumba is treated as a sacred lake by local Buddhists, and swimming, washing or throwing things in is not appropriate. The water is also very cold for most of the year. Walk around it clockwise, as people do around a stupa, and keep to the paths so you do not damage the banks."
+        },
+        {
+          "q": "Do we need a guide for the Thini and Dhumba walk?",
+          "a": "The paths are short and close to town, but since April 2023 Nepal requires foreign trekkers in conservation areas such as ACAP to walk with a licensed guide; check current status before you travel. Our guests are with their guide anyway, who can explain the village and gompa as you go."
+        }
+      ]
+    },
+    {
+      "slug": "jomsom-mustang-eco-museum",
+      "title": "Mustang Eco Museum and the sky-cave finds",
+      "kind": "heritage",
+      "duration": "1–1.5 hours",
+      "best_time": "Afternoon, any month",
+      "image_query": "Mustang Eco Museum Jomsom",
+      "wiki": "",
+      "summary": "A small museum near Jomsom airport that is worth an hour before you go north: objects from the Mustang caves, displays on Loba and Thakali life, and a room on the medicinal plants used by amchi, the Tibetan-trained doctors of the high valleys.",
+      "body": [
+        "The Mustang Eco Museum is about 15 minutes' walk from the airport. It is a modest place, but it explains much of what you will see further north. The cave room shows beads, bones and pendants recovered from the man-made caves in the cliffs of Upper Mustang, some of which were used as burial chambers more than 2,000 years ago. Later layers of the same caves hold the remains of homes and meditation cells, and the museum's finds help you picture who used them and how.",
+        "Other rooms cover daily life: costumes of the Loba and Thakali, household tools, ritual objects and a model of the walled city of Lo Manthang. A section on herbal medicine introduces the plants used by amchi, practitioners of Sowa Rigpa, the Tibetan medical tradition still practised in Mustang and Dolpo. The display of ritual masks and costumes is useful before Tiji in May, when the same kinds of figures dance in Lo Manthang's square. There is also material on Thakali trading families of the Kali Gandaki.",
+        "Visit in the afternoon when the wind makes walking unpleasant. Labels are short, so it helps to go with your guide, who can link what you see to the caves at Chhoser, the dzong at Tsarang and the gompas of Lo Manthang. Opening hours can be irregular in winter; check current status before you travel. Most visitors spend about an hour. Photography rules vary by room, so ask before you take pictures. The walk from the main bazaar is flat and short, which makes this an easy outing for older travellers too."
+      ],
+      "good_for": [
+        "first-timers",
+        "families",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Is the Mustang Eco Museum worth visiting?",
+          "a": "Yes, if you are going on to Upper Mustang. It is small and simple, but its cave finds, model of Lo Manthang and displays on Loba and Thakali life give you a framework for everything you will see later. Allow an hour. It is a good activity for a windy afternoon or your acclimatisation day in Jomsom."
+        },
+        {
+          "q": "Where are the Mustang caves?",
+          "a": "There are about 10,000 man-made caves cut into valley walls in Mustang, mostly in Upper Mustang near the Kali Gandaki and its side valleys. The easiest to visit are at Chhoser, north-east of Lo Manthang. Some were burial chambers 2,000–3,000 years ago; later they were used as homes and meditation rooms."
+        },
+        {
+          "q": "Is there an entry fee at the Mustang Eco Museum?",
+          "a": "There is a small entry fee for foreigners, payable in Nepali rupees, and photography rules may vary by room. Fees and opening hours change, and the museum may close on public holidays or in deep winter, so check current status before you travel or ask at your hotel in Jomsom."
+        }
+      ]
+    },
+    {
+      "slug": "jomsom-mountain-flight-pokhara",
+      "title": "The Pokhara–Jomsom flight through the gorge",
+      "kind": "adventure",
+      "duration": "20 minutes",
+      "best_time": "6–10 am, Oct–Nov and Mar–May",
+      "image_query": "Jomsom airport plane Nilgiri",
+      "wiki": "Jomsom Airport",
+      "summary": "One of the most dramatic short flights in Nepal: a twin-engine plane threading the Kali Gandaki gorge between two 8,000 m peaks, from subtropical Pokhara to the dry trans-Himalaya in about 20 minutes, landing on a 739 m runway.",
+      "body": [
+        "The aircraft on this route are small short-take-off planes, usually Twin Otters or Dorniers, that cannot fly over the Himalaya. They fly through it instead, following the Kali Gandaki gorge north from Pokhara. Dhaulagiri (8,167 m) and Tukuche Peak rise on the left; Annapurna I (8,091 m) and Nilgiri on the right. The change from green terraces to bare grey hills takes minutes. On a clear morning you can see the line where the monsoon clouds stop and the dry rain shadow begins.",
+        "Flights operate in the early morning, roughly between 6 am and noon, because the wind at Jomsom becomes too strong after late morning. Airlines run a shuttle, turning planes around fast to fit in as many rotations as possible. When cloud or wind closes the gorge, flights are delayed or cancelled, sometimes for several days in a row. Check-in at Pokhara opens early, often around 6 am, and the first flight is usually the most reliable. Later rotations are more likely to be cancelled.",
+        "For the best view, sit on the left side flying north and on the right flying south. Baggage is limited, often to 10–15 kg plus a small hand bag, so pack light and leave the rest in Pokhara. We always build a spare day around this flight and keep a jeep on call as a backup. If the morning flights are cancelled, we can usually drive you to Jomsom the same day by jeep, a 7–9 hour journey via Beni and Ghasa, rather than lose another day waiting at the airport."
+      ],
+      "good_for": [
+        "first-timers",
+        "photographers",
+        "couples",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Is the Jomsom flight safe?",
+          "a": "The route has had serious accidents over the years, which is why airlines fly only in the early morning, in visual conditions, and cancel readily when cloud or wind builds. Choose an established airline, accept delays without pressure and keep a buffer day. If you are uneasy, the road from Pokhara takes 7–9 hours by jeep."
+        },
+        {
+          "q": "What is the baggage allowance on Pokhara–Jomsom flights?",
+          "a": "Small planes on this route usually allow about 10–15 kg of checked baggage plus a small hand bag, depending on the airline and fare. Excess is charged per kilo and may be bumped to a later flight. Leave extra luggage at your Pokhara hotel; most hotels store it free for guests."
+        },
+        {
+          "q": "Which side should I sit on for the Jomsom flight?",
+          "a": "Flying from Pokhara to Jomsom, sit on the left for Dhaulagiri and Tukuche Peak, the best view. On the return to Pokhara, sit on the right for the same peaks. Seats are often unassigned on small planes, so board early. On a clear morning both sides see Annapurna and Nilgiri at some point."
+        }
+      ]
+    },
+    {
+      "slug": "jomsom-shaligram-riverbed",
+      "title": "Shaligrams on the Kali Gandaki riverbed",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Oct–May when the river is low",
+      "image_query": "Shaligram ammonite Kali Gandaki",
+      "wiki": "Shaligram",
+      "summary": "Walk the gravel bed of the Kali Gandaki with a guide who knows the stones, learn why Hindus worship these ammonite fossils as Vishnu, and see how pilgrims choose, wrap and carry them home from Mustang.",
+      "body": [
+        "Shaligrams are black stones that crack open to show the spiral of an ammonite, a sea creature from the Jurassic and Cretaceous. These rocks formed on the floor of the Tethys Sea and were pushed up as India pressed into Asia. Erosion releases them into the Kali Gandaki, and for Hindus this is the only river where true shaligrams are found. Geologists date many of these ammonites to the Jurassic, roughly 145–200 million years ago.",
+        "Each stone is read by its shape and markings; different patterns are linked to different forms of Vishnu, such as Narasimha or Vamana. Families keep a shaligram in the home shrine and offer tulsi leaves to it. On the road to Muktinath, many Indian and Nepali pilgrims stop on the riverbed near Jomsom or Kagbeni to search. Some stones are prized for a wheel-like mark, linked to Vishnu's discus, the Sudarshana Chakra. A good guide will show you how pilgrims hold and examine each stone before choosing.",
+        "We walk out on the gravel when the river is low, from October to May. The monsoon fills the bed and makes searching unsafe. Stones are also sold by local sellers in Jomsom and Kagbeni. Taking fossils out of Nepal in quantity can raise questions at customs, so keep it to one or two small stones for worship. Walk on the gravel bars only, never in moving water, and keep away from the main channel even when it looks shallow; the current is cold and strong."
+      ],
+      "good_for": [
+        "families",
+        "seniors",
+        "first-timers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Where can I find shaligram stones in Mustang?",
+          "a": "Shaligrams wash out along the Kali Gandaki riverbed between Kagbeni and Jomsom and further down the gorge. The wide gravel flats below Jomsom and near Kagbeni are the most visited. Search only when the river is low, roughly October to May, and with care. Many pilgrims simply buy one from sellers in Jomsom, Kagbeni or Muktinath."
+        },
+        {
+          "q": "Can I take a shaligram out of Nepal?",
+          "a": "Pilgrims commonly carry one or two shaligrams home for worship, and these are rarely questioned. Large quantities, or fossils that look like a commercial export, can be stopped by customs. Rules on fossils and religious objects change, so check current status before you travel and keep your stones in hand luggage with a simple explanation."
+        },
+        {
+          "q": "Why are shaligrams sacred?",
+          "a": "Hindus regard the shaligram as a natural, self-manifested form of Vishnu, so it needs no consecration. The Puranas link the stones to the goddess Vrinda and the river Gandaki. Shaligrams are kept in home shrines, offered tulsi leaves and water, and handed down within families. Buddhists in Mustang do not use them in the same way."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get from Pokhara to Jomsom?",
+      "a": "Fly or drive. Flights take about 20 minutes and run only in the early morning; they are often delayed by wind or cloud, so keep a spare day. By road it is ≈ 160 km and 7–9 hours by jeep via Beni, Tatopani and Ghasa, longer by local bus. The road is rough and landslide-prone in July and August."
+    },
+    {
+      "q": "What is the altitude of Jomsom and will I get altitude sickness?",
+      "a": "Jomsom is at about 2,700 m and its airport at 2,736 m. Flying straight in from Pokhara (≈ 820 m) is a big jump, so mild headaches or poor sleep on the first night are common. Serious altitude sickness is rare at this height, but rest on arrival, drink water, skip alcohol the first night and climb gradually afterwards."
+    },
+    {
+      "q": "Do I need a permit for Jomsom?",
+      "a": "Yes. Jomsom lies inside the Annapurna Conservation Area, so foreigners need an ACAP permit (NPR 3,000; SAARC nationals NPR 1,000) and a TIMS card, both arranged in Kathmandu or Pokhara. Since April 2023 foreign trekkers in conservation areas must hire a licensed guide. Fees and rules change; check current status before you travel."
+    },
+    {
+      "q": "How many days should I spend in Jomsom?",
+      "a": "One night is enough for most trips, two if you want to acclimatise before Upper Mustang or walk to Thini, Dhumba Lake and Marpha. Use Jomsom as a base and spend your nights in Marpha, Kagbeni or Muktinath for more village character. Always keep one extra day near the end in case flights are cancelled."
+    },
+    {
+      "q": "Why is Jomsom so windy?",
+      "a": "During the day the bare land of Mustang heats up and the air rises, drawing a strong southerly wind up the Kali Gandaki gorge from the lower valleys. It usually starts by late morning and blows until evening, carrying dust and grit. That is why flights land early and why local houses are built low with inward courtyards."
+    },
+    {
+      "q": "Is Jomsom good for Muktinath pilgrims from India?",
+      "a": "Yes. Jomsom is the main base for Muktinath. Most Indian pilgrims fly Pokhara–Jomsom, then take a jeep to Ranipauwa (≈ 1–1.5 hours) and walk or ride the last steps to the temple. Many visit Muktinath and return to Jomsom the same day. Indian nationals need an ACAP permit at the SAARC rate."
+    },
+    {
+      "q": "What is the weather like in Jomsom?",
+      "a": "Jomsom is in the rain shadow, so it is dry for most of the year. Spring and autumn days are around 15–22 °C with cold nights near freezing. Winter days are sunny but nights fall to about −10 °C and snow is possible. The monsoon brings only light rain here, but roads and flights from the south are affected."
+    },
+    {
+      "q": "Can I visit Upper Mustang from Jomsom?",
+      "a": "Yes. Jomsom is the usual starting point. Jeeps reach Lo Manthang in about 6–7 hours on a rough road, or you can trek from Kagbeni over 4–5 days. You need a restricted area permit for Upper Mustang, arranged through a registered agency with a licensed guide and at least two travellers. Check current status before you travel."
+    },
+    {
+      "q": "Are there ATMs and internet in Jomsom?",
+      "a": "Jomsom has a few bank ATMs and most hotels offer Wi-Fi, and mobile data from both Nepali networks generally works in town. Cash machines can run out or go offline, especially during festivals and peak pilgrim weeks, so carry enough rupees from Pokhara. Further north, in Upper Mustang, connectivity is patchier and cash is essential."
+    }
+  ]
+}

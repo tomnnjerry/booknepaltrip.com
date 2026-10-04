@@ -1,0 +1,349 @@
+{
+  "slug": "muktinath",
+  "name": "Muktinath",
+  "name_ne": "मुक्तिनाथ",
+  "local_name": "Chumig Gyatsa, 'Hundred Waters' (Tibetan)",
+  "region": "mustang-dolpo",
+  "kind": "pilgrimage site",
+  "wiki": "Muktinath",
+  "image_query": "Muktinath temple 108 water spouts",
+  "lat": 28.817,
+  "lng": 83.872,
+  "altitude_m": 3710,
+  "tagline": "One shrine, two faiths, 108 spouts of glacier water",
+  "meta_description": "Muktinath at ≈ 3,710 m: the Vishnu temple with 108 water spouts, Chumig Gyatsa of the Buddhists, the flame on water, Ranipauwa and how to get there.",
+  "summary": "Muktinath is a temple complex at about 3,710 m below the Thorong La, sacred to Hindus as the place of liberation of Vishnu and to Buddhists as Chumig Gyatsa, the 'Hundred Waters'. Pilgrims bathe under 108 spouts of icy water and visit a flame that burns over water. Jeeps reach the village of Ranipauwa from Jomsom in 1–1.5 hours.",
+  "intro": [
+    "Muktinath is one of the few places in Nepal where Hindus and Buddhists worship side by side at the same shrine, each by their own name. For Hindus it is Mukti Kshetra, the field of liberation, a Vaishnava temple counted among the 108 Divya Desam sacred to Vishnu, and one of the Char Dham of Nepal. For Tibetan Buddhists it is Chumig Gyatsa, the Hundred Waters, one of the 24 great tantric sites, linked to Guru Rinpoche, who is said to have meditated here on his way to Tibet.",
+    "The complex sits in a grove of trees on a slope above the village of Ranipauwa, at the head of the Muktinath valley and below the Thorong La pass (5,416 m). In front of the pagoda-roofed Vishnu temple, water from the hillside pours out of 108 spouts shaped like animal heads into a stone channel. Pilgrims run beneath all of them in turn, gasping in the cold, and then dip in the two small ponds in front of the shrine.",
+    "Nearby, a small Buddhist temple holds the miracle that has drawn pilgrims for centuries: a flame of natural gas burning beside a trickle of water, so that fire, water and earth appear together in one spot. Getting here is now easy by jeep from Jomsom, but the altitude is real. We recommend a night in Ranipauwa, or at least walking up from Kagbeni, to arrive in good shape. The temple will wait for you."
+  ],
+  "story": {
+    "title": "The field of liberation at the foot of the pass",
+    "paras": [
+      "Muktinath appears in Hindu texts as Saligrama, the place of the shaligram stones, and the Vishnu Purana's Gandaki Mahatmya praises the river and its sacred stones. Tamil Vaishnava poets, the Alvars, sang of Vishnu here as early as the 7th–9th centuries; Periyalvar called him the Lord of Saligramam, and Thirumangai Alvar, who could not reach the shrine, composed ten verses from afar. This is why so many pilgrims from Tamil Nadu and the rest of South India make the long journey to a temple near the Tibetan border.",
+      "For Tibetan Buddhists the site has a different story. Guru Rinpoche, Padmasambhava, is believed to have stopped here on his way to Tibet in the 8th century and meditated. Buddhists honour the image in the main shrine as Avalokiteshvara, and the area is venerated as an abode of Taras and dakinis, the female 'sky dancers'. Before he left, it is said, he made a statue in his own likeness, now kept in the Mharme Lhakhang, the temple of the flame.",
+      "Today the shrine is tended by Buddhist nuns, who are regarded locally as dakinis themselves, while Hindu priests and pilgrims perform their own rites. In spring and autumn the lanes of Ranipauwa fill with Nepali and Indian pilgrims, many of them older people who have saved for years for this journey. Each August or September, the Baragaun communities hold the Yartung festival here, with horse races on the meadows. The two faiths and the village festival share the same ground without fuss."
+    ]
+  },
+  "legend": "Hindu belief holds that Vishnu attained liberation here and is worshipped as Muktinath, the Lord of Liberation, and that bathing under the 108 spouts washes away the sins of a lifetime. Tibetan Buddhists tell that Guru Rinpoche meditated at Chumig Gyatsa on his way to Tibet and blessed the springs, and that the flame burning over water in the Mharme Lhakhang shows that the five elements meet here. Pilgrims of both faiths see the flame as proof that the place is holy.",
+  "people": "Ranipauwa and the villages of the Muktinath valley, including Jharkot, Khingar, Purang and Chhyonkhar, belong to the Baragaun communities, who speak a Tibetan dialect and Nepali, follow Tibetan Buddhism and farm barley, buckwheat and apples. Many now run lodges, shops and horse hire for pilgrims. Buddhist nuns tend the main shrine. In season, Hindu priests, sadhus and pilgrims from India and Nepal fill the village.",
+  "untold": [
+    {
+      "fact": "Muktinath is one of the 108 Divya Desam, the Vishnu temples praised in the Tamil Vaishnava canon, and one of eight Svayam Vyakta Kshetras, where Vishnu is believed to have appeared on his own. That is why South Indian pilgrims travel thousands of kilometres to reach it.",
+      "source": "Wikipedia: Muktinath"
+    },
+    {
+      "fact": "The Buddhist nuns who tend the Muktinath shrine are regarded locally as dakinis, and are said to descend from women taught by Padmasambhava during his stay. They also look after the statue of him kept in the Mharme Lhakhang.",
+      "source": "Wikipedia: Muktinath"
+    },
+    {
+      "fact": "Muktinath is also a Shakta site, counted among the Shakti pithas associated with the goddess Sati. Its goddess is addressed as Gandaki Chandi, and its Bhairav as Chakrapani.",
+      "source": "Wikipedia: Muktinath"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "mukti",
+      "script": "मुक्ति",
+      "lang": "Nepali",
+      "meaning": "liberation from the cycle of rebirth; Muktinath is its lord"
+    },
+    {
+      "word": "dhara",
+      "script": "धारा",
+      "lang": "Nepali",
+      "meaning": "water spout; Muktinath has 108 of them"
+    },
+    {
+      "word": "kora",
+      "script": "སྐོར་ར",
+      "lang": "Tibetan",
+      "meaning": "walking clockwise around a holy place as an act of devotion"
+    }
+  ],
+  "taste": {
+    "name": "Tibetan bread with honey",
+    "text": "Tibetan bread is a round of dough fried until puffed and golden, eaten hot with honey, jam or a boiled egg. In Ranipauwa every lodge makes it for breakfast before pilgrims walk up to the temple. It is filling, cheap and very welcome on a cold morning at 3,700 m."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Mar – May, Sep – Nov"
+    ],
+    [
+      "Days we suggest",
+      "1–2"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom (JMO), ≈ 22 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 380 km · 2 days by road; flights to Jomsom, then 1–1.5 h by jeep"
+    ],
+    [
+      "Altitude",
+      "≈ 3,710 m (temple); Ranipauwa ≈ 3,700 m"
+    ],
+    [
+      "Known for",
+      "108 water spouts, flame over water, Hindu-Buddhist shrine, shaligram pilgrimage"
+    ]
+  ],
+  "best_months": [
+    0,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1
+  ],
+  "nights": "1",
+  "highlights": [
+    {
+      "title": "The 108 spouts",
+      "text": "In front of the temple, 108 metal spouts shaped as animal heads pour icy water from the hillside into a stone channel. Pilgrims run under every one, then dip in the two small ponds in front of the shrine. Expect to be very cold for a few minutes."
+    },
+    {
+      "title": "The Vishnu shrine",
+      "text": "A small pagoda-roofed temple holds the image of Vishnu as Muktinath, worshipped by Buddhists as Avalokiteshvara. Buddhist nuns tend the shrine; Hindu pilgrims offer tulsi, flowers and prayers. Photography of the image is not allowed inside."
+    },
+    {
+      "title": "The flame on water",
+      "text": "In the Mharme Lhakhang, known to Hindus as the Jwala Mai temple, a small blue flame of natural gas burns beside running water under an altar. Look low and give your eyes time to adjust. It is the most quietly remarkable thing at Muktinath."
+    },
+    {
+      "title": "Ranipauwa village",
+      "text": "The village below the temple, with lodges, pilgrim shops selling shaligrams, prayer beads and shawls, and horse hire for the climb to the shrine. Busy in the morning, quiet in the evening. Stay a night to see the temple without crowds at dawn."
+    },
+    {
+      "title": "Yartung horse festival",
+      "text": "Each year around the full moon of August or early September, the Baragaun villages gather at Muktinath for Yartung, the festival of summer's end, with horse races, archery, dancing and drinking. A rare chance to see the local community in festival dress."
+    },
+    {
+      "title": "Views to Dhaulagiri",
+      "text": "From the temple grounds and the slopes above Ranipauwa, look west down the Muktinath valley to Dhaulagiri and Tukuche Peak, with Jharkot's ruined dzong in the foreground. The light is best in early morning, before wind and dust build."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Jeeps and buses run Jomsom–Ranipauwa (≈ 22 km) in about 1–1.5 hours. From Pokhara it is ≈ 180 km and a long day of 9–10 hours by jeep via Beni and Jomsom. From Ranipauwa, it is a 10–15 minute walk up steps to the temple; horses can be hired."
+    },
+    {
+      "mode": "Air",
+      "text": "Fly Pokhara–Jomsom (about 20 minutes, mornings only), then take a jeep. Helicopter charters fly from Pokhara or Kathmandu direct to Muktinath for pilgrims short of time; the abrupt altitude gain makes this risky for some people, so ask a doctor first."
+    },
+    {
+      "mode": "On foot",
+      "text": "Walk 4–5 hours up from Kagbeni via Khingar and Jharkot, the best way to acclimatise. On the Annapurna Circuit, trekkers descend to Muktinath from the Thorong La (5,416 m), a 6–8 hour day from Thorong Phedi or High Camp."
+    }
+  ],
+  "where_to_stay": "Ranipauwa, just below the temple, has dozens of lodges and small hotels, from basic pilgrim rooms to warm guesthouses with attached bathrooms and heated dining rooms. Standards are simple, and hot water can run out in busy weeks. We choose family-run lodges close to the temple path so older guests walk less. Many pilgrims visit Muktinath as a day trip and sleep in Jomsom at Shinta Mani Mustang or Om's Home, or in Kagbeni at the Red House Lodge, which is lower and kinder for the first night.",
+  "stays": [],
+  "tips": [
+    "Do not drive straight up from Pokhara or Kathmandu in one go; sleep in Jomsom or Kagbeni first if you can.",
+    "Bring a towel and a full change of warm clothes if you plan to bathe under the 108 spouts.",
+    "Visit at dawn, when the shrine is quiet and the light on Dhaulagiri is best, before the wind and the day-trippers.",
+    "Remove shoes before entering the shrines, walk clockwise and do not photograph the main image.",
+    "Older pilgrims can hire a horse from Ranipauwa to the temple gate; agree the price before setting off."
+  ],
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "high-altitude",
+    "food-and-festivals"
+  ],
+  "nearby": [
+    "kagbeni",
+    "jomsom",
+    "lubra"
+  ],
+  "experiences": [
+    {
+      "slug": "muktinath-108-spouts-bathing",
+      "title": "Bathing under the 108 spouts at dawn",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Mar–Nov",
+      "image_query": "Muktinath 108 water spouts pilgrims",
+      "wiki": "Muktinath",
+      "summary": "Walk up from Ranipauwa before sunrise and join the pilgrims who run beneath all 108 water spouts in front of the Vishnu shrine, then dip in the two ponds and make offerings inside. Cold, joyful and the heart of a visit to Muktinath.",
+      "body": [
+        "We leave the lodge in the dark, about 30 minutes before sunrise, and climb the stone steps from Ranipauwa to the temple gate, around 15 minutes at an easy pace. At dawn the grove is quiet, prayer flags move in the light breeze and the first sun touches Dhaulagiri far down the valley. The shrine opens early and the first pilgrims are already there. Wear warm layers you can take off quickly.",
+        "In front of the pagoda-roofed temple, the 108 spouts form a semicircle, each one an animal head pouring water fed from springs on the hillside. Hindus believe that bathing under all of them washes away the sins of this life. People strip to light clothes or shorts and run along the line, shrieking at the cold. Then they dip in the two small ponds in front of the shrine before going in to worship.",
+        "You do not have to bathe; many people simply sprinkle water on their heads. If you do, change quickly into dry, warm clothes in the shelter nearby. Inside, Buddhist nuns tend the image of Vishnu, honoured by Buddhists as Avalokiteshvara. Offer flowers or tulsi if you wish, walk clockwise and keep cameras away. Breakfast and hot tea wait in Ranipauwa afterwards. Allow about an hour and a half for the whole visit."
+      ],
+      "good_for": [
+        "families",
+        "seniors",
+        "first-timers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "How cold is the water at Muktinath's 108 spouts?",
+          "a": "Very cold. The water comes from springs fed by snowmelt on the slopes above, so it is close to freezing for much of the year, and the air at dawn is often below zero. Most bathers are under the spouts for only a minute or two. Have a towel and dry, warm clothes ready, and do not bathe if you have a heart condition."
+        },
+        {
+          "q": "Do I have to bathe at Muktinath?",
+          "a": "No. Bathing under the 108 spouts and dipping in the ponds is a personal act of devotion, not a requirement. Many pilgrims, especially older people, simply sprinkle water on their heads and offer prayers. Non-Hindu visitors are welcome to watch respectfully. If you bathe, wear modest clothing and change quickly afterwards."
+        },
+        {
+          "q": "What time does Muktinath temple open?",
+          "a": "The shrine generally opens early in the morning, around sunrise, and closes in the late afternoon, though hours vary with the season and festivals. Dawn is the quietest time; by late morning jeeps from Jomsom bring crowds. Your lodge in Ranipauwa can confirm the current timing the evening before."
+        }
+      ]
+    },
+    {
+      "slug": "muktinath-mharme-lhakhang-flame",
+      "title": "The flame on water in Mharme Lhakhang",
+      "kind": "spiritual",
+      "duration": "45 minutes",
+      "best_time": "Morning, all year",
+      "image_query": "Muktinath eternal flame Jwala Mai",
+      "wiki": "",
+      "summary": "Visit the small Buddhist temple beside the Muktinath shrine where a blue flame of natural gas burns next to running water, revered by Hindus as Jwala Mai and by Buddhists as proof that the five elements meet here. Quiet, dim and easy to overlook.",
+      "body": [
+        "Mharme Lhakhang, the 'temple of the flame', stands a short walk below the main Vishnu shrine. Hindus know it as the temple of Jwala Mai, the goddess of the flame. Inside, beneath the altar, small openings in the rock let out natural gas that burns as a steady blue flame, right beside a trickle of spring water. In the dim light you need to kneel and look closely. Your guide will show you where to look.",
+        "For both faiths, the sight of fire and water together, rising from the earth in a place swept by wind under the open sky, means that all five elements are present here. Buddhist tradition holds that Guru Rinpoche left a statue in his own likeness in this temple before going on to Tibet, and the nuns of Muktinath still look after it. Hindu pilgrims bow to the flame as the goddess herself.",
+        "The temple is small and usually busy in the late morning, so come early or in the afternoon. A nun or caretaker is often present and will lift the curtain to show you the flame. Leave a small donation, remove your shoes and do not use flash. We combine it with the dawn visit to the 108 spouts, finishing here as the sun warms the grove. Allow about 45 minutes, including the walk between the two shrines."
+      ],
+      "good_for": [
+        "first-timers",
+        "families",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Is the flame at Muktinath real?",
+          "a": "Yes. The flame in Mharme Lhakhang (Jwala Mai temple) is natural gas escaping from the ground beneath the altar, burning beside a small flow of spring water. It burns steadily, though its size changes. Pilgrims of both faiths regard it as sacred. You may need to kneel and look closely, as it is small and partly hidden."
+        },
+        {
+          "q": "What is Jwala Mai temple?",
+          "a": "Jwala Mai, 'mother of the flame', is the Hindu name for the small temple near the Muktinath shrine where natural gas burns beside water. Buddhists call it Mharme Lhakhang and believe Guru Rinpoche left a statue of himself there. It is part of the same temple complex and both Hindus and Buddhists worship in it."
+        },
+        {
+          "q": "Can I take photos of the Muktinath flame?",
+          "a": "Rules vary and are set by the nuns and caretakers. In many cases photography of the flame and statues inside is discouraged or not allowed, and flash is never appropriate. Ask the caretaker politely and accept the answer. Photography of the outside of the temple and the grounds is usually fine."
+        }
+      ]
+    },
+    {
+      "slug": "muktinath-jhong-village-walk",
+      "title": "Jhong village and the north side of the valley",
+      "kind": "heritage",
+      "duration": "4 hours",
+      "best_time": "Morning, Apr–Nov",
+      "image_query": "Jhong village Muktinath valley Mustang",
+      "wiki": "",
+      "summary": "A quiet half-day walk from Ranipauwa across the Muktinath valley to Chhyonkhar and the old village of Jhong, with a ruined hilltop fort, a gompa and wide views back to the temple and the Thorong La. Few pilgrims ever cross the valley.",
+      "body": [
+        "Most visitors to Muktinath see only the temple and Ranipauwa. Across the valley, on the north side of the Jhong Khola, are older villages that see far fewer outsiders. We walk down from Ranipauwa past fields and poplars, cross the stream and climb gently to Chhyonkhar, then on to Jhong, about 1.5–2 hours in all. The path is easy but the altitude, around 3,600 m, makes it slower than it looks.",
+        "Jhong stands on a spur with the ruins of an old fort on the hilltop above, one of several forts that once guarded the Muktinath valley and the route between Lo and the south. The village has a gompa, tight lanes of mud-walled houses and terraced barley fields. Life here runs on farming and herding, with little tourism, so walk quietly and ask before entering courtyards or the gompa. The fort ruins are fragile, so view them from below.",
+        "From Jhong the view stretches back across the valley to Ranipauwa, the temple grove and the long slope up to the Thorong La. On the way back, we drop through fields to the jeep road and either walk up to Ranipauwa or take a jeep. The walk works well on your acclimatisation day, or on the afternoon after a dawn temple visit. It shows you a side of Muktinath most pilgrims never see."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Where is Jhong village?",
+          "a": "Jhong lies on the north side of the Jhong Khola valley, opposite Ranipauwa and Jharkot, below Muktinath. It is about 1.5–2 hours' walk from Ranipauwa via Chhyonkhar. The village sits on a spur below a ruined hilltop fort and has a small gompa. It is part of the Baragaun area and needs no restricted area permit."
+        },
+        {
+          "q": "Is the walk to Jhong difficult?",
+          "a": "It is moderate. Distances are short and the trail is mostly easy, but you are walking at around 3,500–3,700 m, so it feels harder than it would lower down. Allow about four hours for the round trip with time in the village. Carry water, snacks, sun protection and a windproof for the afternoon."
+        },
+        {
+          "q": "Do we need a guide to visit Jhong?",
+          "a": "Since April 2023 foreign trekkers in conservation areas like ACAP must have a licensed guide; check current status before you travel. A guide also helps here because the paths across the valley are not signposted and the gompa is usually locked. Your guide can find the caretaker and explain the history of the fort."
+        }
+      ]
+    },
+    {
+      "slug": "muktinath-thorong-trail-acclimatisation-hike",
+      "title": "Acclimatisation hike up the Thorong La trail",
+      "kind": "trek",
+      "duration": "3 hours",
+      "best_time": "Morning, Apr–Jun and Sep–Nov",
+      "image_query": "Thorong La trail above Muktinath",
+      "wiki": "",
+      "summary": "A morning walk from Ranipauwa up the start of the Thorong La trail to about 4,100 m and back, for acclimatisation and views over the Muktinath valley to Dhaulagiri. Useful before Upper Mustang or for trekkers planning to cross the pass from the west.",
+      "body": [
+        "The old saying among mountaineers is to climb high and sleep low, and this short hike puts it into practice. From Ranipauwa we follow the start of the Thorong La trail east up the open slope above the temple, gaining 300–400 m in about 1.5–2 hours. The path is clear, with prayer flags and cairns marking the way. There is no shade, so start early with a sun hat and plenty of water.",
+        "As you climb, the view opens behind you: the temple grove, Ranipauwa and Jharkot below, the Muktinath valley curving down to the Kali Gandaki, and Dhaulagiri and Tukuche Peak to the west. Higher up you may see blue sheep on the slopes and lammergeiers or Himalayan griffons riding the thermals. We turn around at a comfortable point, around 4,000–4,100 m, before the trail continues to Thorong Phedi on the far side.",
+        "The walk down takes about an hour. Back in Ranipauwa, rest, eat and drink well; you will sleep better for the exercise. This hike is useful before going into Upper Mustang, where you will sleep at 3,500–3,900 m, or if you plan to cross the Thorong La from Muktinath, the harder direction. It is not suitable for anyone already showing signs of altitude sickness. Turn back at once if you feel dizzy or breathless."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Can I hike part of the Thorong La trail from Muktinath?",
+          "a": "Yes. The trail to the Thorong La starts above the temple, and you can walk up for 1.5–2 hours to about 4,000–4,100 m and return to Ranipauwa the same morning. It is a good acclimatisation hike. Do not continue towards the pass without proper preparation, a guide and an early start; the crossing is a long, high day."
+        },
+        {
+          "q": "Is it safe to cross Thorong La from Muktinath?",
+          "a": "It is possible, but most trekkers cross the other way, from Manang to Muktinath. Crossing from Muktinath means climbing about 1,700 m to the pass (5,416 m) in a day with no good intermediate lodges. We advise it only for well-acclimatised trekkers with a guide. Check current trail status before you travel."
+        },
+        {
+          "q": "What wildlife can I see above Muktinath?",
+          "a": "On the open slopes above Ranipauwa you may see blue sheep (bharal), pikas and marmots in summer, and large birds such as lammergeiers, Himalayan griffons and golden eagles. Snow leopards live in the wider area but are very rarely seen. Early morning is best, when animals are active and the wind is still calm."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I reach Muktinath from Pokhara?",
+      "a": "Fly from Pokhara to Jomsom (about 20 minutes, mornings only), then take a jeep to Ranipauwa (about 1–1.5 hours) and walk 10–15 minutes up to the temple. By road, Pokhara to Muktinath is about 180 km and 9–10 hours by jeep via Beni and Jomsom. We recommend a night in Jomsom or Kagbeni on the way up."
+    },
+    {
+      "q": "What is the altitude of Muktinath?",
+      "a": "The temple stands at about 3,710 m; some sources give up to 3,800 m for the upper complex. Ranipauwa, the village below, is around 3,700 m. That is high enough for altitude sickness, especially if you arrive quickly by jeep or helicopter. Rest on arrival, drink water, avoid alcohol and descend if symptoms worsen."
+    },
+    {
+      "q": "Do Indian citizens need a permit for Muktinath?",
+      "a": "Indian citizens do not need a visa for Nepal, but do need an ACAP permit at the SAARC rate (NPR 1,000) to enter the Annapurna Conservation Area, arranged in Kathmandu or Pokhara. No restricted area permit is needed for Muktinath. Carry your passport or voter ID. Check current status before you travel, as fees and rules change."
+    },
+    {
+      "q": "Why is Muktinath sacred to both Hindus and Buddhists?",
+      "a": "Hindus revere Muktinath as a place where Vishnu grants liberation, one of the 108 Divya Desam and one of Nepal's Char Dham. Tibetan Buddhists call it Chumig Gyatsa, one of 24 tantric sites, where Guru Rinpoche meditated, and honour the image as Avalokiteshvara. Buddhist nuns tend the shrine, and both faiths worship there."
+    },
+    {
+      "q": "Can I visit Muktinath in winter?",
+      "a": "Yes, but it is hard. From December to February, nights at Ranipauwa drop to −10 °C or lower, snow can block the road and many lodges close or run with minimal staff. The temple stays open. If you go, travel with a flexible plan and warm gear. March to May and September to November are far easier."
+    },
+    {
+      "q": "How many days do I need for Muktinath?",
+      "a": "From Pokhara, allow at least 3 days: fly to Jomsom and stay there or in Kagbeni, visit Muktinath on day 2 (or stay in Ranipauwa), and return on day 3. Add a spare day for flight delays. Walking up from Kagbeni and staying a night in Ranipauwa makes for a more relaxed, safer visit."
+    },
+    {
+      "q": "Is there a helicopter to Muktinath?",
+      "a": "Yes. Charter helicopters fly pilgrims from Pokhara or Kathmandu to Muktinath, usually landing near Ranipauwa for a short visit before returning. They save time but take you from low altitude to about 3,700 m very quickly, which can cause altitude sickness. Ask your doctor first, keep the visit short and avoid exertion."
+    },
+    {
+      "q": "What should I wear at Muktinath temple?",
+      "a": "Wear modest, warm clothes: long trousers or a long skirt, covered shoulders, and layers including a down jacket, hat and gloves. You remove shoes before entering the shrines, so warm socks help. If you plan to bathe under the 108 spouts, bring light clothes to bathe in, a towel and a full dry change."
+    },
+    {
+      "q": "Can older people visit Muktinath?",
+      "a": "Yes, many pilgrims are in their sixties and seventies. The key is to go slowly: fly to Jomsom, rest a night, then go to Muktinath by jeep and hire a horse from Ranipauwa to the temple if needed. Anyone with heart or lung conditions should consult a doctor first, given the altitude of about 3,710 m."
+    }
+  ]
+}

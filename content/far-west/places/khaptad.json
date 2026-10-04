@@ -1,0 +1,172 @@
+{
+  "slug": "khaptad",
+  "name": "Khaptad National Park",
+  "name_ne": "खप्तड राष्ट्रिय निकुञ्ज",
+  "local_name": "",
+  "region": "far-west",
+  "kind": "national park",
+  "wiki": "Khaptad National Park",
+  "image_query": "Khaptad National Park meadow",
+  "lat": 29.37,
+  "lng": 81.15,
+  "altitude_m": 3000,
+  "tagline": "High meadows where Khaptad Baba meditated for fifty years",
+  "meta_description": "Khaptad National Park guide: rolling high meadows, Khaptad Baba's hermitage, Triveni and the Ganga Dashahara fair, Sahasralinga, trails from Bajhang and Doti.",
+  "summary": "Khaptad National Park is a high plateau of meadows, forest and small lakes at about 3,000 m where Bajhang, Bajura, Achham and Doti districts meet. It was created in 1984 on the advice of Khaptad Baba, a hermit who lived here for some fifty years. Expect wildflowers, quiet temples and almost no other tourists.",
+  "intro": [
+    "Khaptad is unlike any other national park in Nepal. Instead of jungle or high peaks, it is a rolling plateau of grassland, called patan, broken by stands of fir, oak and rhododendron, small lakes and gentle streams. People in the far west talk about its twenty-two patans as if they were rooms of one great house, and in summer they fill with flowers.",
+    "The park covers 225 sq km between 1,400 and 3,300 m, with a further buffer zone around it. It holds over 560 recorded plant species, including more than 200 used in medicine, and wildlife such as leopard, Himalayan black bear, musk deer and the danphe pheasant. But for most visitors Khaptad is above all a place of peace, associated with one man.",
+    "Khaptad Baba, a renunciate born in Kashmir, came to these meadows in the 1940s and stayed for some fifty years. His hermitage, the temples around Triveni and the Sahasralinga shrine draw pilgrims, especially at the Ganga Dashahara fair. Getting here takes effort, a long drive and a walk of half a day or more, and that is part of the reward."
+  ],
+  "story": {
+    "title": "The doctor who became Khaptad Baba",
+    "paras": [
+      "Khaptad Baba was born Shivanath Dogra in 1880, into a Dogra family of Kashmir. He trained as a doctor, studying in Calcutta and later surgery in Britain, before giving up medicine and taking sannyas, the vows of a Hindu renunciate. He studied and taught Eastern philosophy at the Dakshinamurti Math in Kashi, then wandered the Himalaya, staying at places such as Ilam, Kalinchowk, Swargadwari and Chandannath in Jumla.",
+      "In the 1940s he settled on the Khaptad plateau, then known only to herders and pilgrims, and lived there in a simple hermitage for more than fifty years. He became known across Nepal as Khaptad Baba, a teacher of plain living and spiritual discipline, and visitors came from across Nepal to sit with him. His talks were later collected and published in Nepali.",
+      "It was on his advice that the government declared Khaptad a national park in 1984, protecting the meadows and forest that he loved. A buffer zone of 216 sq km was added in 2006. Today his hermitage is kept as a memorial within the park, and many Nepali visitors come here as much for him as for the scenery."
+    ]
+  },
+  "legend": "Local belief holds that the Khaptad plateau has been a place of sages since ancient times, and that the shrine of Sahasralinga, the thousand lingas, marks a spot where Shiva himself is present among the stones. At the Ganga Dashahara fair, pilgrims bathe at Triveni, the meeting of three streams, believing it washes away sins and helps the souls of their ancestors.",
+  "people": "The villages around Khaptad belong to Khas communities of Bajhang, Bajura, Achham and Doti: Chhetri, Thakuri, Brahmin and Dalit families who speak Doteli, Bajhangi, Achhami and Bajureli forms of the far western language. They farm terraces below the park, take cattle and sheep up to its edges, collect herbs, and come to Triveni each year for the fair, singing Deuda through the night.",
+  "untold": [
+    {"fact": "Khaptad National Park was established in 1984 on the advice of Khaptad Baba, the hermit who had lived on the plateau since the 1940s. A buffer zone of 216 sq km was declared around it in 2006.", "source": "Wikipedia: Khaptad National Park"},
+    {"fact": "Khaptad Baba was born Shivanath Dogra in Kashmir in 1880 and trained as a doctor, studying in Calcutta and surgery in the UK, before renouncing medicine to become a Hindu ascetic.", "source": "Wikipedia: Khaptad Baba"},
+    {"fact": "Khaptad National Park records 567 plant species, of which 224 are medicinal, along with 287 bird species including the Himalayan monal, or danphe, and the white-rumped vulture.", "source": "Wikipedia: Khaptad National Park"}
+  ],
+  "local_words": [
+    {"word": "Patan", "script": "पाटन", "lang": "Nepali", "meaning": "High open meadow; Khaptad is famous for its 22"},
+    {"word": "Daha", "script": "दह", "lang": "Nepali", "meaning": "Lake or pool, as in Khaptad Daha"},
+    {"word": "Deuda", "script": "देउडा", "lang": "Nepali", "meaning": "Circle song and dance sung at the Khaptad fair"}
+  ],
+  "taste": {"name": "Kodo ko roti with ghee", "text": "Dark, dense flatbread of finger millet, cooked on an iron griddle and eaten with ghee, yoghurt or a potato and bean curry. It is daily food in the villages below Khaptad. Eat it in a village teahouse on the trail up, or ask your camp cook to make it."},
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Nov"],
+    ["Days we suggest", "2–3 on the plateau"],
+    ["Nearest airport", "Dhangadhi (DHI); small airstrips in Bajhang, Doti, Achham"],
+    ["From Kathmandu", "Fly to Dhangadhi, 1–2 days by road and on foot"],
+    ["Altitude", "≈ 3,000 m (park 1,400–3,300 m)"],
+    ["Known for", "Meadows, Khaptad Baba, Triveni, wildflowers"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 1, 1, 2, 2, 1, 0],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Khaptad Baba's hermitage", "text": "The simple ashram where Khaptad Baba lived for about fifty years is kept as a memorial in the heart of the park. Sit for a while in the quiet; many Nepali visitors come mainly to honour him and to read his teachings."},
+    {"title": "The twenty-two patans", "text": "Khaptad's meadows roll for kilometres between fir and rhododendron forest. Walk between them on wide grassy trails, with views south over the far western hills and north towards the snow peaks of Saipal on clear days."},
+    {"title": "Triveni and the Ganga Dashahara fair", "text": "Triveni, where three streams meet, is the park's main pilgrimage site. Once a year, on Ganga Dashahara in late May or June, thousands climb here from four districts to bathe, worship and sing Deuda through the night."},
+    {"title": "Sahasralinga and Khaptad Daha", "text": "The Sahasralinga shrine, the thousand lingas, sits on a high point a short walk from the small lake of Khaptad Daha and an old wooden Jagannath temple. Together they make a gentle half-day loop."},
+    {"title": "Monsoon wildflowers", "text": "From July to early September Khaptad's meadows flower, with primulas, gentians and many other species among the grass. It is wet and misty, but botanists and photographers find it the most rewarding season."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Dhangadhi, drive north to Chainpur, the Bajhang headquarters, then about 2 hours to Meltadi in Khaptad Chhanna rural municipality, and walk about 4 hours up to the park. Another common route goes via Silgadhi in Doti and the trailhead at Jhingrana. Hill roads are slow; check current status before you travel."},
+    {"mode": "Air", "text": "Fly Kathmandu to Dhangadhi in about 1 hour 15 minutes. Small planes have served airstrips in Bajhang, Doti, Achham and Bajura from Dhangadhi or Nepalgunj, which shortens the approach, but schedules are irregular; check current status before you travel."},
+    {"mode": "On foot", "text": "All routes end with a walk of roughly 3–8 hours to the plateau, depending on the trailhead. A licensed guide is required for foreign trekkers in national parks under current rules."}
+  ],
+  "where_to_stay": "Accommodation inside the park is very limited: there is a single basic lodge near the Nepal Army post and park office, with simple rooms and meals, and pilgrims' shelters near Triveni. Most foreign visitors come on a supported camping trek, with tents, a cook and porters, camping at designated sites in the meadows. Below the park, Chainpur in Bajhang and Silgadhi in Doti have simple hotels for the nights before and after the walk.",
+  "stays": [],
+  "tips": [
+    "Carry a good sleeping bag and warm layers; nights on the plateau are cold in every season.",
+    "Bring rain gear from June to September, when the meadows are in flower but mist and rain are frequent.",
+    "Book camping support in advance; there is very little food or shelter to buy on the plateau.",
+    "Keep silence and modest dress around Khaptad Baba's hermitage and the Triveni shrines.",
+    "Pay the national park entry fee and walk with a licensed guide; check current status before you travel."
+  ],
+  "themes": ["treks-and-trails", "spiritual-and-pilgrimage", "slow-and-wellness", "photography"],
+  "nearby": ["ramaroshan", "badimalika", "dullu"],
+  "experiences": [
+    {
+      "slug": "khaptad-baba-hermitage-visit",
+      "title": "A quiet hour at Khaptad Baba's hermitage",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Apr–Nov",
+      "image_query": "Khaptad Baba ashram",
+      "wiki": "Khaptad Baba",
+      "summary": "Visit the hermitage where Khaptad Baba, a Kashmiri doctor turned ascetic, lived for about fifty years and from where he urged the creation of the park. A place of silence and reflection.",
+      "body": [
+        "Khaptad Baba's ashram is a simple cluster of buildings in the forest and meadows of the plateau, kept by the park and devotees as a memorial. You will see where he lived and meditated, statues and images of him, and quotations from his teachings in Nepali.",
+        "For many Nepali visitors this is the main reason to come to Khaptad. Khaptad Baba taught plain living, self-discipline and respect for nature, and his long presence turned these meadows into a place of pilgrimage. People sit quietly, read, or meditate for a while before walking on.",
+        "There is no fee and no formal ritual. Remove your shoes where asked, keep your voice low and do not smoke or drink nearby. Combine the visit with a walk across the patans to the Triveni shrines and Sahasralinga."
+      ],
+      "good_for": ["solo", "seniors", "couples"],
+      "faqs": [
+        {"q": "Who was Khaptad Baba?", "a": "Khaptad Baba, also known as Swami Sachchidananda, was a Hindu ascetic born Shivanath Dogra in Kashmir in 1880. A trained doctor, he renounced medicine, wandered the Himalaya and settled at Khaptad in the 1940s, living there for over fifty years. He advised the creation of the national park."},
+        {"q": "Can I meditate at Khaptad Baba's ashram?", "a": "Yes, quiet meditation or reflection is welcome, and many visitors sit for a while. There is no formal retreat programme. Respect the space by keeping silent, removing shoes where indicated and not smoking or drinking alcohol near the hermitage."},
+        {"q": "Are Khaptad Baba's teachings available in English?", "a": "His talks and writings were published mainly in Nepali, and some translations and summaries exist. Ask at bookshops in Kathmandu or search for publications about Khaptad Baba before your trip. Your guide can also translate the quotations displayed at the ashram."}
+      ]
+    },
+    {
+      "slug": "khaptad-patan-meadows-walk",
+      "title": "Walking the high patans of Khaptad",
+      "kind": "nature",
+      "duration": "Full day",
+      "best_time": "Apr–May for rhododendron; Jul–Sep for flowers",
+      "image_query": "Khaptad patan grassland",
+      "wiki": "",
+      "summary": "Spend a full day walking between Khaptad's famous meadows on wide grassy trails, through fir and rhododendron forest, with views over the far western hills and, on clear days, the snow peaks of Saipal.",
+      "body": [
+        "Khaptad's twenty-two patans are the soul of the park. They roll over the plateau at around 3,000 m, open grassland separated by belts of fir, oak, hemlock and rhododendron. The walking is gentle by Himalayan standards, along wide trails with few steep climbs, so you can look around instead of at your feet.",
+        "In spring the rhododendrons flower red and pink along the forest edges. In the monsoon months the meadows are covered in wildflowers and herbs, many used in local medicine. Autumn brings golden grass and the clearest views, south over the folded hills of Doti and Achham and north to Saipal.",
+        "Your guide will plan a loop that links several patans with the lake and shrines. Carry water, lunch, a rain jacket and a warm layer, and watch for danphe pheasants, langur monkeys and, very rarely, a musk deer at the forest edge."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "families"],
+      "faqs": [
+        {"q": "How many meadows are there in Khaptad?", "a": "Local people and park literature speak of twenty-two patans, or high meadows, across the Khaptad plateau. They vary from small clearings to wide grasslands. A full day of walking links several of them; seeing them all takes several days."},
+        {"q": "When do flowers bloom in Khaptad?", "a": "Rhododendrons flower in spring, from late March to May. The meadows are at their most colourful in the monsoon, from July to early September, with many wildflowers and herbs. Autumn has fewer flowers but clearer skies."},
+        {"q": "Is walking in Khaptad difficult?", "a": "On the plateau, no. The trails are wide and gentle at around 3,000 m. The hard part is the approach, a climb of several hours from the trailhead. Anyone fit enough for a long hill walk will enjoy the meadows."}
+      ]
+    },
+    {
+      "slug": "khaptad-triveni-sahasralinga-loop",
+      "title": "Triveni, Sahasralinga and Khaptad Daha",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Morning, Apr–Nov",
+      "image_query": "Khaptad Triveni temple",
+      "wiki": "Khaptad Lake",
+      "summary": "A gentle loop to the holy places of Khaptad: the small lake of Khaptad Daha with its wooden Jagannath temple, the Sahasralinga shrine on a high point, and Triveni, where three streams meet and the yearly fair is held.",
+      "body": [
+        "The walk begins at Khaptad Daha, a small lake in the north-east of the park at about 3,050 m, about twenty minutes from the lodge area. Nearby stands a wooden temple to Jagannath, thought to be very old. The lake is calm and dark, edged with grass, and often has mist on the water in the morning.",
+        "From the temple, a walk of about half an hour east climbs to Sahasralinga, the shrine of a thousand lingas, where natural stones are worshipped as forms of Shiva. It is one of the highest points of the plateau, with wide views. From there the trail drops for about half an hour to Triveni Dham, the confluence of three streams.",
+        "Triveni is the site of the Ganga Dashahara fair, and its shrines and lingas are visited by pilgrims all year. Remove your shoes at the shrines, walk clockwise, and do not wash with soap in the streams. Allow half a day with time to sit at each place."
+      ],
+      "good_for": ["seniors", "couples", "photographers", "families"],
+      "faqs": [
+        {"q": "What is Sahasralinga in Khaptad?", "a": "Sahasralinga, meaning a thousand lingas, is a shrine on a high point of the Khaptad plateau where natural stones are worshipped as forms of Shiva. It is about a half-hour walk from Khaptad Daha and offers wide views. Pilgrims visit it together with Triveni."},
+        {"q": "What happens at Triveni during the fair?", "a": "On Ganga Dashahara, the tenth day of the bright half of Jestha, usually late May or June, thousands of pilgrims gather at Triveni. They sing Deuda through the night, bathe at dawn, worship at the shrines and offer rites for ancestors. Check current status before you travel for the date."},
+        {"q": "Can I swim in Khaptad Daha?", "a": "No. The lake is small, cold and sacred, and it lies within a national park. Enjoy it from the shore and do not throw anything into the water or wash in it."}
+      ]
+    },
+    {
+      "slug": "khaptad-trek-from-bajhang",
+      "title": "Trek up to the plateau from Bajhang or Doti",
+      "kind": "trek",
+      "duration": "4–8 hours one way",
+      "best_time": "Apr–Jun, Sep–Nov",
+      "image_query": "Khaptad trek trail forest",
+      "wiki": "",
+      "summary": "Climb from the villages of Bajhang or Doti through terraces, oak and rhododendron forest to the Khaptad plateau, a long day of ascent that earns you the meadows above.",
+      "body": [
+        "There is no road onto the Khaptad plateau, so every visit begins with a climb. From Bajhang, jeeps reach Meltadi in Khaptad Chhanna rural municipality in about two hours from Chainpur, and the walk up takes about four hours. From Doti, the long-used route climbs from the Jhingrana side. Other trails come up from Achham and Bajura.",
+        "The trail climbs steadily through terraced villages, where people grow rice, wheat and millet, then into oak and rhododendron forest, with occasional teahouses and water points. As you gain height the trees thin, the air cools, and you come out onto the first open meadow with the plateau spread before you.",
+        "Start early to avoid afternoon cloud and rain. Porters and a camp crew are needed for most trips, since there is little food or shelter on top. A licensed guide is required, and your agency will arrange permits, transport and supplies in advance."
+      ],
+      "good_for": ["trekkers", "solo", "couples"],
+      "faqs": [
+        {"q": "Which is the best route to Khaptad?", "a": "From Bajhang, a drive from Chainpur to Meltadi and a walk of about four hours is one of the shortest. From Doti, the route via Jhingrana is long established. Routes from Achham and Bajura are longer. Your agency will choose based on road conditions, flights and your onward plans."},
+        {"q": "How fit do I need to be for Khaptad?", "a": "You need to manage a climb of four to eight hours with a daypack, depending on the route, at a steady pace up to about 3,000 m. On the plateau walking is gentle. Anyone who has done a few full-day hill walks will cope with a sensible pace."},
+        {"q": "Do I need porters for Khaptad?", "a": "For most foreign visitors, yes. There is only one basic lodge on the plateau and little food to buy, so a camping trek with porters and a cook is usual. Porters also make the long climb much easier. Book through a licensed agency."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Khaptad National Park?", "a": "Khaptad lies in Sudurpashchim Province of far western Nepal, where the districts of Bajhang, Bajura, Achham and Doti meet. The nearest large town and airport is Dhangadhi, about a day's drive to the south, with trailheads in Bajhang and Doti."},
+    {"q": "How do I get to Khaptad from Kathmandu?", "a": "Fly Kathmandu to Dhangadhi, then drive to a trailhead such as Chainpur and Meltadi in Bajhang or the Jhingrana side in Doti, and walk four to eight hours up to the plateau. Allow two days from Kathmandu to reach the park. Check current status before you travel for roads and flights."},
+    {"q": "What is the best time to visit Khaptad?", "a": "April to June for rhododendrons and mild weather, and September to November for clear skies. July and August bring wildflowers but also rain and mist. December to February is cold with snow on the plateau, and facilities close."},
+    {"q": "How many days do I need for Khaptad?", "a": "Plan five to seven days from Dhangadhi: a day or two to reach the trailhead, a day to climb up, two or three days on the plateau, and a day or two back. From Kathmandu, add a day at each end for flights."},
+    {"q": "Is there accommodation in Khaptad National Park?", "a": "Very little. There is one basic lodge near the army post and park office, and pilgrim shelters near Triveni, which are crowded at fair time. Most visitors camp with a supported trek. Book through a licensed agency."},
+    {"q": "Do I need a guide for Khaptad?", "a": "Yes. Since April 2023 foreign trekkers in national parks must walk with a licensed guide, and Khaptad's trails and logistics are complex. You also pay the national park entry fee. Check current status before you travel."},
+    {"q": "What is the Ganga Dashahara fair at Khaptad?", "a": "It is the yearly religious fair at Triveni in Khaptad, held on the tenth day of the bright half of Jestha, usually late May or June. Thousands of pilgrims from Bajhang, Bajura, Achham and Doti gather to bathe, worship and sing Deuda through the night."},
+    {"q": "What wildlife lives in Khaptad?", "a": "Khaptad records 23 mammal species, including leopard, Himalayan black bear, dhole and musk deer, and 287 bird species, among them the danphe pheasant and peregrine falcon. Sightings of large mammals are rare; birds and flowers are the main wildlife experience."},
+    {"q": "Is Khaptad good for meditation or a retreat?", "a": "Yes. Its silence, the legacy of Khaptad Baba and the open meadows make it a natural place for reflection. There is no formal retreat centre, so bring your own practice. A few quiet days camping on the plateau can be deeply restful."}
+  ]
+}

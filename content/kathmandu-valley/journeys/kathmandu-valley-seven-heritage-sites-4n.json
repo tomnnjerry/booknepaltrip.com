@@ -1,0 +1,70 @@
+{
+  "slug": "kathmandu-valley-seven-heritage-sites-4n",
+  "title": "The seven heritage zones of the Kathmandu Valley",
+  "region": "kathmandu-valley",
+  "kind": "culture",
+  "nights": 4,
+  "themes": ["heritage-and-temples", "spiritual-and-pilgrimage", "photography"],
+  "grade": "Easy",
+  "stops": [{"place": "kathmandu", "nights": 4}],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 700,
+  "best_months": [1, 1, 2, 2, 1, 1, 1, 1, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 1540,
+  "meta_description": "4 nights to see all seven UNESCO monument zones of the Kathmandu Valley with a local guide: three Durbar squares, Swayambhu, Boudha, Pashupati, Changu.",
+  "summary": "Four nights, five days and all seven monument zones that make up the Kathmandu Valley World Heritage Site: the Durbar squares of Kathmandu, Patan and Bhaktapur, the stupas of Swayambhu and Boudha, Pashupatinath on the Bagmati and the hilltop Changu Narayan. One hotel, one guide, no rushing.",
+  "intro": [
+    "UNESCO listed the Kathmandu Valley in 1979 not as one site but as seven monument zones, each a living neighbourhood where people still pray, trade, marry and cremate their dead. Most visitors see three or four of them in a hurried day. We prefer to give each zone a half day, at the hour it is most alive: the stupas at dawn when the kora is full of grandmothers, the Durbar squares in the late morning when the shrines are washed and the vegetable sellers set up.",
+    "You sleep four nights in one hotel on Durbar Marg, so there is no packing and unpacking. A licensed guide who grew up in the valley walks with you every day, and a private car covers the gaps. The distances are small, 3 to 22 km, but Kathmandu traffic is real, so we plan around it. The last day ends at Changu Narayan and Bhaktapur, both on the airport side of the city, so you can fly out the same evening."
+  ],
+  "story": "The journey starts in the old merchant lanes of Asan, where the valley has bought its rice, spices and brass for centuries. Next morning you stand in the square where Malla kings were crowned and where a girl worshipped as the goddess Kumari still lives behind carved windows. Swayambhu at sunset tells you the valley's own creation story, of a lake drained by a bodhisattva's sword. Day three moves from fire to stillness: the cremation ghats of Pashupatinath on the Bagmati, then the slow clockwise walk around Boudha with Tibetan families. Patan shows what Newar craftsmen did with stone, bronze and wood. The last morning climbs to Changu Narayan, where a stone pillar carries Nepal's oldest dated inscription, and ends among the potters of Bhaktapur.",
+  "highlights": [
+    "All seven UNESCO monument zones of the valley in four nights, with entry fees included",
+    "Dawn kora at Boudhanath with Tibetan families and butter lamps",
+    "The Licchavi inscription of 464 CE at Changu Narayan, the oldest dated one in Nepal",
+    "Krishna Mandir and the Patan Museum, the best introduction to Newar art",
+    "Nyatapola and the potters' square in Bhaktapur with a bowl of juju dhau"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, evening in Asan", "place": "kathmandu", "overnight": "Kathmandu, Durbar Marg", "alt_m": 1400, "move": "≈ 6 km · 30 min drive from the airport", "text": "We meet you at Tribhuvan International Airport and drive to your hotel on Durbar Marg, the wide avenue that runs up to the old royal palace. After a rest, your guide walks you into Asan, the market crossroads where six streets meet. The three-roofed Annapurna temple stands in the middle of it, and women still stop on their way home to touch its bells. Walk on through Indra Chowk, past bead sellers and stacks of pashmina, as shopkeepers light oil lamps at their doorway shrines. Dinner is near the hotel, and the briefing for the next four days happens over it.", "meals": "Dinner"},
+    {"day": 2, "title": "Kathmandu Durbar Square and Swayambhu", "place": "kathmandu", "overnight": "Kathmandu, Durbar Marg", "alt_m": 1400, "move": "≈ 4 km · 20 min drive between sites", "text": "Morning in Kathmandu Durbar Square, the Hanuman Dhoka palace zone. Your guide shows you the Taleju temple raised by Mahendra Malla in 1564, the fierce Kal Bhairav, and the rebuilt Kasthamandap, the timber rest house that legend says gave Kathmandu its name. At Kumari Ghar, built in 1757, the living goddess sometimes appears at her window; photographs of her are not allowed. After lunch drive to Swayambhunath on its wooded hill. Walk the circuit of prayer wheels, watch the monkeys, and stay for late light over the city, when your guide tells the Swayambhu Purana story of the valley as a lake.", "meals": "Breakfast"},
+    {"day": 3, "title": "Pashupatinath and the kora at Boudha", "place": "boudhanath", "overnight": "Kathmandu, Durbar Marg", "alt_m": 1400, "move": "≈ 3 km between sites · walk or 15 min drive", "text": "Pashupatinath is the most sacred Shiva temple in Nepal, and only Hindus may enter the main courtyard. From the terraces on the east bank of the Bagmati you look across at Arya Ghat, where families cremate their dead in the open; your guide explains the rites quietly and without staring. Sadhus in ash and saffron sit among the small Shiva shrines. In the afternoon move to Boudhanath. Walk the kora clockwise with Tibetan families, spin the prayer wheels set into the wall, and visit one of the monasteries around the square. Watch the butter lamps from a rooftop before driving back.", "meals": "Breakfast"},
+    {"day": 4, "title": "Patan, the city of fine arts", "place": "patan", "overnight": "Kathmandu, Durbar Marg", "alt_m": 1400, "move": "≈ 6 km · 30 min drive", "text": "Cross the Bagmati to Patan, which Newars call Yala. The Durbar Square here is the most complete of the three. Start at Krishna Mandir, built in stone by Siddhi Narasimha Malla in 1637, its friezes telling the Mahabharata and Ramayana. Spend an hour in the Patan Museum inside Keshav Narayan Chowk, the clearest guide to Hindu and Buddhist bronzes in the country. Lunch is at a Newar eatery near the square. Afterwards walk the lanes to the Golden Temple of Kwa Bahal, the terracotta Mahaboudha and the five-roofed Kumbheshwar. Evening free.", "meals": "Breakfast, Lunch"},
+    {"day": 5, "title": "Changu Narayan, Bhaktapur, then fly", "place": "bhaktapur", "overnight": "Departure from Tribhuvan International Airport", "alt_m": 1338, "move": "≈ 22 km · 1 h to Changu; ≈ 8 km to Bhaktapur; ≈ 14 km · 45 min to the airport", "text": "Check out early and drive east to Changu Narayan on its ridge at about 1,540 m. The temple to Vishnu is the oldest religious site still in use in the valley, and the stone pillar in the courtyard carries an inscription of King Manadeva dated 464 CE. Drive down to Bhaktapur, the old city of Khwopa. Climb the steps of the five-storey Nyatapola past its stone wrestlers, elephants and lions, then wander to the potters' square and Dattatreya with its peacock window. Eat juju dhau, the city's sweet curd, before the short drive to the airport.", "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-yak-and-yeti"],
+  "includes": [
+    "4 nights at Hotel Yak & Yeti, Durbar Marg, with breakfast, twin sharing",
+    "Licensed English-speaking guide for all sightseeing days",
+    "Private car with driver for airport transfers and all sightseeing",
+    "Entry fees to all seven monument zones",
+    "Welcome dinner on day 1 and Newar lunch in Patan on day 4"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee",
+    "Lunches and dinners not listed",
+    "Tips for guide and driver",
+    "Travel insurance",
+    "Camera fees inside museums where charged"
+  ],
+  "good_to_know": [
+    "Entry fees for foreigners at the seven zones add up to roughly NPR 5,500–6,000; they are included, but check current status before you travel.",
+    "Only Hindus may enter the main Pashupatinath temple; everyone may walk the east-bank terraces and the outer shrines.",
+    "Wear clothes that cover shoulders and knees, and slip-on shoes, as you will remove them at many shrines.",
+    "Walk clockwise around every stupa and prayer wheel, and do not photograph cremations at close range.",
+    "The order of days can swap to avoid a festival crowd or a strike; your guide will tell you the evening before."
+  ],
+  "faqs": [
+    {"q": "Can you really see all seven heritage sites in four nights?", "a": "Yes, comfortably. The seven monument zones sit within about 25 km of each other. We give the three Durbar squares a half day each and pair the stupas with Pashupatinath. The pace leaves afternoons for a rest or a coffee. In a hurry people do it in two days, but you see the buildings without seeing how people use them, which is the point of this valley."},
+    {"q": "How much are the entry fees to the Kathmandu Valley heritage sites?", "a": "For foreign visitors, Kathmandu and Patan Durbar squares charge about NPR 1,000 each, Bhaktapur charges the most at around NPR 1,500–1,800, Pashupatinath about NPR 1,000, and Swayambhu, Boudha and Changu Narayan a few hundred rupees each. SAARC and Chinese visitors pay less. Fees are included in this journey, but they change often, so check current status before you travel."},
+    {"q": "Can non-Hindus go inside Pashupatinath?", "a": "No. The main temple courtyard is open only to Hindus, and guards at the gates check. Everyone else can walk the east bank of the Bagmati, where terraces look straight across at the temple roofs and the cremation ghats, and visit the many smaller shrines and the Guhyeshwari side. Your guide explains what you see. Please keep a respectful distance from grieving families."},
+    {"q": "Will I see the Kumari, the living goddess?", "a": "Possibly. The Royal Kumari lives in Kumari Ghar on Kathmandu Durbar Square, and she sometimes appears briefly at an upper window when visitors gather in the courtyard. It is not scheduled and never guaranteed. Photographing her is forbidden. During Indra Jatra in late summer she is carried through the old city on a chariot, which is the surest way to see her."},
+    {"q": "Are the temples still damaged from the 2015 earthquake?", "a": "Most of the major monuments have been rebuilt or restored, including Kasthamandap in Kathmandu, Boudhanath and the temples of Patan Durbar Square. You will still see some scaffolding, cleared plinths and new timber beside old. Your guide points out what fell and how it was rebuilt, which many travellers find the most moving part of the trip."},
+    {"q": "Is this heritage tour suitable for older travellers?", "a": "Yes. There is no trekking, and the longest walks are around 2–3 km on flat stone paving with places to sit. Swayambhu has a long staircase on the east side, but the car can drive to the western entrance near the top. Changu Narayan has a short climb from the car park. We adjust the pace and add rest stops whenever you need them."},
+    {"q": "Can I do this trip in the monsoon?", "a": "Yes, this is one of the few Nepal trips that works in June to August. Rain usually falls in the afternoon and night, mornings are often clear, the stones shine and the valley is green. Mountain views are rare in those months, and lanes can be muddy. October, November, March and April remain the most comfortable months."},
+    {"q": "Do I need a guide for the Durbar squares?", "a": "You can enter alone, but a licensed guide changes the visit. The squares are crowded with temples whose names, gods and stories are not signposted, and many details, like the carved roof struts or which window the Kumari uses, are easy to miss. Our guides grew up in the valley and also handle tickets, timing and traffic."},
+    {"q": "What should I wear to the temples in Kathmandu?", "a": "Cover shoulders and knees, men and women alike. Light trousers or a long skirt and a T-shirt with sleeves are fine. Leather belts and bags are not allowed in some Hindu shrines. Slip-on shoes help, as you remove footwear at many temples and monasteries. Bring a scarf for sun and dust, and a light jacket for early mornings from November to February."}
+  ]
+}

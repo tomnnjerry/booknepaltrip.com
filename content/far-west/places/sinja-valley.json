@@ -1,0 +1,172 @@
+{
+  "slug": "sinja-valley",
+  "name": "Sinja Valley",
+  "name_ne": "सिंजा उपत्यका",
+  "local_name": "Yatse (Tibetan name for the Khasa capital)",
+  "region": "far-west",
+  "kind": "archaeological site",
+  "wiki": "Sinja Valley",
+  "image_query": "Sinja valley Jumla",
+  "lat": 29.4,
+  "lng": 82.0,
+  "altitude_m": 2440,
+  "tagline": "Capital of the Khasa kings and cradle of the Nepali language",
+  "meta_description": "Sinja Valley guide: the Khasa Malla capital in Jumla, Kanakasundari temple, medieval stone pillars, cliff inscriptions in early Nepali and how to visit from Jumla.",
+  "summary": "The Sinja valley in Jumla was the capital of the Khasa Malla kings, who ruled much of the western Himalaya from the 12th to the 14th century. Its temples, stone pillars and cliff inscriptions include some of the earliest writing in the language that became Nepali. It has been on UNESCO's Tentative List since 2008.",
+  "intro": [
+    "Ask a historian where Nepali began and they will point to Sinja. This quiet farming valley north-west of Jumla, with rice paddies, flat-roofed stone houses and a river running down to the Karnali, was once the seat of an empire that stretched from Mustang to Uttarakhand and into western Tibet. The Khas language spoken at its court became Khas Kura, then Gorkhali, and finally Nepali.",
+    "Little of the royal city survives above ground, but the valley is scattered with traces of it: the Kanakasundari temple on its promontory, shikhara temples at Tarpibada and Bistabara, carved stone memorial pillars, old fountains and the Lihi stupa. Across the Hima river, caves hold votive Buddhist chaityas and cliff inscriptions, a reminder that the Khasa kings patronised Buddhism as well as Hindu gods.",
+    "Very few foreigners visit. There are no ticket offices, guides with name badges or souvenir stalls. You walk between monuments that stand in fields and village lanes, with farmers who know the stories passed down in their families. It is best seen with a knowledgeable guide from Jumla, on the way to or from Rara."
+  ],
+  "story": {
+    "title": "The summer capital of a Himalayan empire",
+    "paras": [
+      "From the 12th century a dynasty of Khasa kings ruled from Sinja, which Tibetan sources call Yatse. Their state, often called the Khasa Malla kingdom, grew into the largest power in the western Himalaya. At its height it held land from Mustang in the east to parts of present-day Uttarakhand in the west and Guge and Purang in western Tibet. Sinja was the summer capital; Dullu, lower and warmer in Dailekh, was the winter seat.",
+      "The Khasa kings were patrons of both Buddhism and Hinduism. Buddhist practice in the valley dates from at least the early 12th century and lasted until about the 16th; Hindu temples were built from around the 13th century. King Ripu Malla, who left an inscription at Lumbini in 1312, also left one here in Sinja at Sahubada. Cliffs at the edge of the valley carry some of the oldest writing in the Khas language that grew into Nepali.",
+      "After the 14th century the empire fragmented into the twenty-two Baise kingdoms, and Jumla, next door, became the leading power. Sinja slipped into obscurity as a farming valley. Excavations later uncovered palace foundations, a network of underground water pipes and a ring of large stone columns around the old settlement. In 2008 Nepal placed the valley on UNESCO's Tentative List for World Heritage."
+    ]
+  },
+  "legend": "Old genealogies of the Khasa kings say the dynasty's founder, Nagaraj, came south from Khari, the Ngari country of western Tibet, and chose the Sinja valley as his capital. Local people add that the Deuda circle dance, now sung across the far west, was first danced in Sinja's royal courtyards, and that it spread from here to the neighbouring hills.",
+  "people": "The people of the Sinja valley are mostly Khas: Chhetri, Thakuri and Brahmin farmers, along with Kami, Sarki and Damai families of blacksmiths, leatherworkers and tailor-musicians. They speak the Khas dialect of Jumla, grow marshi rice, wheat, barley and beans, and keep cattle and sheep. Many still worship the Masto gods at stone dewal shrines, consulting dhami oracles in times of trouble.",
+  "untold": [
+    {"fact": "The Sinja valley was added to UNESCO's World Heritage Tentative List on 30 January 2008, in the cultural category, as the ancient capital of the Khasa kingdom.", "source": "Wikipedia: Sinja Valley; UNESCO World Heritage Centre, Tentative List"},
+    {"fact": "Excavations in Sinja found a large network of underground pipes that formed a water supply system, and a ring of massive monolithic stone columns around the old settlement.", "source": "Wikipedia: Sinja Valley"},
+    {"fact": "A stone inscription of King Ripu Malla stands at Sahubada in the Sinja valley. The same king left an inscription on the Ashokan pillar at Nigali Sagar near Lumbini in 1312.", "source": "DANAM project, Heidelberg University: Heritage Focus Area Sinja Valley; Wikipedia: Ripu Malla"}
+  ],
+  "local_words": [
+    {"word": "Dewal", "script": "देवल", "lang": "Nepali", "meaning": "Small stone shrine, often to a Masto god"},
+    {"word": "Masto", "script": "मष्टो", "lang": "Nepali", "meaning": "Family of local gods worshipped across the Karnali"},
+    {"word": "Baise", "script": "बाइसे", "lang": "Nepali", "meaning": "The twenty-two kingdoms that followed the Khasa empire"}
+  ],
+  "taste": {"name": "Chino and kaguno", "text": "Proso millet (chino) and foxtail millet (kaguno), the old grains of the Karnali, boiled like rice or cooked into a sweet porridge with milk. They grow in Sinja's dry upper fields alongside marshi. Ask your guide to arrange a meal in a village home; they are rarely on lodge menus."},
+  "facts": [
+    ["Best months", "Apr – May, Sep – Nov"],
+    ["Days we suggest", "1"],
+    ["Nearest airport", "Jumla (JUM)"],
+    ["From Kathmandu", "Fly via Nepalgunj to Jumla, then road or 1–2 days on foot"],
+    ["Altitude", "≈ 2,440 m"],
+    ["Known for", "Khasa capital, Kanakasundari temple, early Nepali inscriptions"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Kanakasundari temple", "text": "The Kanakasundari temple, dedicated to a form of the goddess, stands on a promontory above the valley and is the best known monument of Sinja. The local rural municipality takes its name from it. It is an active shrine, busiest at Dashain."},
+    {"title": "Stone pillars and shikhara temples", "text": "Carved stone memorial pillars and shikhara temples at Tarpibada, Bistabara and other sites date from the Khasa period. They stand in fields and village lanes, weathered and unfenced, often with local offerings at their base."},
+    {"title": "Cliff inscriptions and caves", "text": "On cliffs at the valley edge and across the Hima river are inscriptions among the earliest written examples of Nepali, and caves holding votive Buddhist chaityas. A guide is needed to find and read them."},
+    {"title": "Ripu Malla's inscription at Sahubada", "text": "The same Khasa king who left his mark on the Ashokan pillar at Nigali Sagar near Lumbini in 1312 also left a stone inscription at Sahubada in Sinja, linking this valley to the Buddha's birthplace."},
+    {"title": "Village life in a living valley", "text": "Sinja is not a museum. Flat-roofed stone villages, rice terraces, water mills and threshing floors fill the valley, and the old stones stand among them. Walking here is as much about today's farmers as about medieval kings."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "A rough road links Jumla's Khalanga bazaar to the Sinja valley. A local jeep takes a few hours depending on conditions, which change with every monsoon; check current status before you travel. Most visitors arrange a vehicle and guide in Jumla."},
+    {"mode": "On foot", "text": "Walking from Jumla takes one to two days through villages and pine forest. Sinja can also be included in a Jumla–Rara trek, adding one or two days. A licensed guide is required for the national park section of the Rara route."},
+    {"mode": "Air", "text": "The nearest airport is Jumla, reached by small plane from Nepalgunj in about 40 minutes. From there continue by road or on foot."}
+  ],
+  "where_to_stay": "There are no hotels aimed at tourists in Sinja. Trekkers stay in simple village teahouses or family homes arranged by their guide, sleeping on mattresses and eating dal bhat, or camp with a supported trek. If you prefer more comfort, visit Sinja as a long day trip from a guesthouse in Jumla's Khalanga bazaar and return by evening.",
+  "stays": [],
+  "tips": [
+    "Hire a guide in Jumla who knows the monuments; many are unmarked and hard to find alone.",
+    "Do not climb on or lean against the stone pillars and temples, which are fragile and sacred to local people.",
+    "Carry snacks and water; shops in the valley are few and basic.",
+    "Ask permission before photographing a dhami, a shrine during worship, or people in their homes.",
+    "Road conditions to Sinja change often, so confirm travel times in Jumla the day before; check current status before you travel."
+  ],
+  "themes": ["heritage-and-temples", "villages-and-homestays", "treks-and-trails"],
+  "nearby": ["jumla", "rara-lake", "dullu"],
+  "experiences": [
+    {
+      "slug": "sinja-kanakasundari-temple-visit",
+      "title": "Kanakasundari temple on its promontory",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Morning, Apr–May and Sep–Nov",
+      "image_query": "Kanakasundari temple Sinja",
+      "wiki": "",
+      "summary": "Walk up to the Kanakasundari temple, the best known shrine of the Sinja valley, linked to the Khasa period and still the focus of local worship, with views over the valley floor where the royal city once stood.",
+      "body": [
+        "The Kanakasundari temple stands on a promontory above the Sinja valley floor, a short walk up from the fields. It is dedicated to a form of the goddess, and its name is now carried by the rural municipality around it. The temple has been rebuilt over the centuries, but the site is old, and local tradition connects it to the Khasa kings.",
+        "From the temple you look down over rice terraces, villages and the river, and it is easy to imagine the court of an empire spread across this valley. Around the shrine are old carved stones and offerings left by villagers. During Dashain the temple fills with worshippers from the surrounding villages, and festival days are the liveliest time to visit.",
+        "Go with a local guide who can explain the rituals and point out the older stones. Remove your shoes near the shrine, walk clockwise, and ask before taking pictures. A visit fits easily into a day exploring the other monuments of the valley."
+      ],
+      "good_for": ["photographers", "solo", "couples", "seniors"],
+      "faqs": [
+        {"q": "Who is Kanakasundari?", "a": "Kanakasundari is a form of the Hindu goddess worshipped in the Sinja valley, with her main temple on a promontory above the old Khasa capital. She is a powerful local deity, and the rural municipality of Kanakasundari in Jumla is named after her."},
+        {"q": "Can foreigners visit the Kanakasundari temple?", "a": "Visitors are generally welcome in the temple area. Remove your shoes, avoid touching offerings, walk clockwise and follow the priest's or villagers' guidance about the inner shrine. On festival days, watch rituals quietly from a distance."},
+        {"q": "Is there an entrance fee at Sinja's monuments?", "a": "We are not aware of any entrance fees for the temples or pillars of Sinja, which are part of village life rather than a ticketed site. A small donation at the temple is welcome. Rules may change if the valley gains more formal protection; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "sinja-khasa-stone-pillars-walk",
+      "title": "A day among the Khasa stone pillars",
+      "kind": "heritage",
+      "duration": "5–6 hours",
+      "best_time": "Full day, Apr–May and Sep–Nov",
+      "image_query": "Sinja stone pillar Jumla",
+      "wiki": "Khasa Kingdom",
+      "summary": "Walk the length of the Sinja valley with a guide, visiting carved stone memorial pillars, shikhara temples at Tarpibada and Bistabara, old fountains and the Lihi stupa, the scattered remains of the Khasa capital.",
+      "body": [
+        "The monuments of Sinja are not gathered in one place. They are spread across the valley in fields, at village edges and on low hills, so the best way to see them is a long day on foot. A guide from Jumla or the valley leads you from site to site along field paths and village lanes.",
+        "You will see carved stone memorial pillars, some with inscriptions or small reliefs, which the Khasa period raised in many parts of the far west. Small stone shikhara temples stand at Tarpibada and Bistabara, and stone water spouts still run in places. The Lihi stupa recalls the Buddhist side of the Khasa court.",
+        "Between the monuments you pass threshing floors, water mills and stone houses with flat roofs where families dry grain. Bring water, a packed lunch and sun protection. The walking is not hard but the day is long, at almost 2,500 m."
+      ],
+      "good_for": ["photographers", "trekkers", "solo", "couples"],
+      "faqs": [
+        {"q": "How much of the Khasa capital survives in Sinja?", "a": "No standing palace survives, but the valley has temples, carved stone pillars, water spouts, a stupa and inscriptions from the Khasa period, and excavations found palace foundations, underground water pipes and a ring of stone columns. The remains are scattered and modest, which is part of their charm."},
+        {"q": "Do I need a guide to find the monuments?", "a": "Yes. Many sites are unmarked, on private land or reached by unsigned field paths. A guide who knows the valley will find them, explain their history and help you talk with villagers. Arrange one in Jumla before you set out."},
+        {"q": "Is Sinja a UNESCO World Heritage Site?", "a": "Not yet. Nepal placed the Sinja valley on UNESCO's Tentative List in 2008, the first step towards nomination. It is not inscribed on the World Heritage List, and the monuments have little formal protection or interpretation on site."}
+      ]
+    },
+    {
+      "slug": "sinja-hima-river-caves-inscriptions",
+      "title": "Caves and cliff inscriptions across the Hima",
+      "kind": "heritage",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Apr–May and Sep–Nov",
+      "image_query": "Sinja cave chaitya Jumla",
+      "wiki": "",
+      "summary": "Cross the Hima river with a local guide to caves holding votive Buddhist chaityas and cliffs bearing old inscriptions, some among the earliest written examples of the language that became Nepali.",
+      "body": [
+        "On the far side of the Hima river from the main valley, the cliffs hold caves where Buddhist devotees left small votive chaityas, clay or stone miniatures of a stupa. They date from the centuries when the Khasa kings supported Buddhism alongside Hindu worship.",
+        "Nearby rock faces carry inscriptions. Scholars count the writing on Sinja's cliffs, and on stones in nearby Dullu, among the earliest examples of the Khas language written in Devanagari, the ancestor of modern Nepali. They are weathered and not always easy to see; morning light across the rock helps.",
+        "The paths to the caves are steep in places and cross the river by bridge or ford depending on the season. Go only with a local guide, wear good shoes and do not touch the inscriptions or remove anything. The caves are sacred and fragile."
+      ],
+      "good_for": ["trekkers", "solo", "photographers"],
+      "faqs": [
+        {"q": "Are the Sinja inscriptions really the oldest Nepali?", "a": "They are among the earliest written examples of Khas, the ancestor of Nepali, together with inscriptions in Dullu in Dailekh, from around the 13th and 14th centuries. Scholars debate exact dates and wording, but Sinja's role in the birth of written Nepali is widely accepted."},
+        {"q": "How difficult is it to reach the Sinja caves?", "a": "The walk involves a river crossing and some steep, rough paths up to the cliffs. Allow three to four hours with time at the caves. It suits reasonably fit walkers with good shoes. After heavy rain the river crossing may not be possible."},
+        {"q": "Can I photograph the inscriptions and chaityas?", "a": "Yes, without flash and without touching them. Do not chalk, wet or rub the inscriptions to make them clearer, which damages the stone. Ask your guide whether any cave is used for current worship, and respect any request not to enter."}
+      ]
+    },
+    {
+      "slug": "sinja-village-night-deuda",
+      "title": "A night in a Sinja village house",
+      "kind": "heritage",
+      "duration": "Overnight",
+      "best_time": "Sep–Nov; festival evenings for Deuda",
+      "image_query": "Jumla village flat roof houses",
+      "wiki": "Deuda (genre)",
+      "summary": "Spend a night with a farming family in the Sinja valley, eat millet and marshi rice by the fire, and if your visit meets a festival, listen to Deuda, the circle song said to have been born in this valley.",
+      "body": [
+        "Sinja's villages are built of stone and timber, with flat mud roofs that serve as terraces for drying grain and chillies. A night in a family home, arranged by your guide, gives you a seat by the hearth, a simple meal of marshi rice or millet with beans and greens, and a chance to ask about life in a valley few outsiders reach.",
+        "Deuda is the song and dance of the far west, sung in call and answer between men and women holding hands in a circle, with no instruments. Tradition places its origin in the Khasa court of Sinja. It is performed at fairs and festivals such as Gaura Parva and Dashain, and sometimes at weddings.",
+        "Deuda is not staged for visitors, so hearing it is a matter of timing and luck. Bring a small gift for your hosts, such as fruit or tea from Jumla, and pay the agreed rate for food and lodging. Rooms are simple and toilets basic."
+      ],
+      "good_for": ["solo", "couples", "trekkers"],
+      "faqs": [
+        {"q": "Are there homestays in the Sinja valley?", "a": "There is no formal homestay programme for foreign tourists that we can confirm, but guides from Jumla regularly arrange nights with village families, especially on Rara treks. Facilities are basic. Book through a licensed agency so hosts are paid fairly and expectations are clear."},
+        {"q": "What is Deuda?", "a": "Deuda is a song and dance genre of Nepal's far west and Karnali, performed by men and women holding hands in a circle and singing verses in call and answer, without instruments. It is said to have originated in the Khasa kingdom of Sinja and is central to festivals like Gaura Parva."},
+        {"q": "When can I hear Deuda in Sinja?", "a": "Most often at festivals and fairs: Gaura Parva in August or September, Dashain in October and local temple fairs. Weddings in the winter months may also have Deuda. Dates follow the lunar calendar, so check current status before you travel and ask your guide."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is the Sinja valley?", "a": "Sinja is in Jumla district of Karnali Province, north-west of the district headquarters at Khalanga. A rough road connects it to Jumla, and trekking routes link it to Rara Lake in Mugu. The valley's river flows down to join the Karnali."},
+    {"q": "Why is Sinja important?", "a": "It was the capital of the Khasa Malla kingdom, which ruled much of the western Himalaya from the 12th to the 14th century, and it is regarded as the birthplace of the Nepali language. Its monuments and inscriptions are among the oldest Khas remains anywhere."},
+    {"q": "How do I get to Sinja from Kathmandu?", "a": "Fly Kathmandu to Nepalgunj and on to Jumla, then travel to Sinja by jeep or on foot in one to two days. Road conditions vary greatly, so allow flexibility. Many visitors include Sinja in a trek between Jumla and Rara."},
+    {"q": "What is the best time to visit Sinja?", "a": "September to November gives clear skies, harvest colour and dry paths. April and May are pleasant, with spring planting. Winters are cold with snow, and the monsoon from June to August brings mud, landslides and leeches."},
+    {"q": "How much time do I need in Sinja?", "a": "One full day sees the main monuments; two lets you add the caves and inscriptions across the Hima and a night in a village. If you are trekking to Rara, adding Sinja usually costs one or two extra days."},
+    {"q": "Is there accommodation in Sinja?", "a": "Only simple village teahouses and family homes, arranged by your guide, or camping on a supported trek. There are no tourist hotels. For more comfort, stay in Jumla and visit Sinja as a long day trip, road conditions permitting."},
+    {"q": "Was Sinja connected to Lumbini?", "a": "Yes. King Ripu Malla, who ruled from Sinja, visited Lumbini in 1312 and left an inscription on the Ashokan pillar at Nigali Sagar. He also left a stone inscription at Sahubada in the Sinja valley. The Khasa kings patronised Buddhism as well as Hindu gods."},
+    {"q": "Do I need a permit to visit Sinja?", "a": "No special permit is required for the Sinja valley itself. If you continue to Rara, you need a Rara National Park entry permit and, under current rules, a licensed guide. Check current status before you travel."},
+    {"q": "Is Sinja suitable for families?", "a": "For families used to rough travel, yes, but it suits older children better than toddlers. Roads are bumpy, accommodation is basic and the attractions are historical rather than hands-on. Children who enjoy walking and village life will find plenty to see."}
+  ]
+}

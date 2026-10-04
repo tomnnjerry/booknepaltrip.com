@@ -1,0 +1,157 @@
+{
+  "slug": "kapilavastu-circuit-3n",
+  "title": "Kapilavastu Circuit: Tilaurakot, Kudan and Pillars",
+  "region": "lumbini",
+  "kind": "pilgrimage",
+  "nights": 3,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "lumbini",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 700,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Kapilavastu circuit, 3 nights from Lumbini: Tilaurakot palace ruins, Kudan, the Ashoka pillars at Gotihawa and Niglihawa, and Ramagrama stupa.",
+  "summary": "Three nights in Lumbini with two full days west and east of it: the walled ruins of Tilaurakot, where Nepal places the Shakya capital of the Buddha's youth, the stupa mounds of Kudan, the broken Ashoka pillars of Gotihawa and Niglihawa, and the brick stupa of Ramagrama, said to hold a share of the Buddha's relics.",
+  "intro": [
+    "Most visitors see the Sacred Garden at Lumbini and leave. They miss the country where the Buddha actually grew up. About 27 km west, in Kapilvastu district, the brick ramparts and moat of Tilaurakot sit in a mango and sal grove beside the Banganga river. Nepal's archaeologists identify it as Kapilavastu, the Shakya town where Prince Siddhartha lived until he was 29. Around it, within an hour's drive, are the sites that pilgrims have walked to for two thousand years: Kudan, Gotihawa, Niglihawa.",
+    "This trip gives those places the time they need. Day two covers Tilaurakot and the sites around Taulihawa; day three goes east to Ramagrama, the one relic stupa of the original eight that tradition says was never opened. Each evening you are back in Lumbini for the Sacred Garden at dusk. Your guide carries the story from site to site, including the debate with India over where Kapilavastu really lay."
+  ],
+  "story": "The first day is Lumbini: the birth story, told in brick and stone. The second day moves into the life. You drive west through Kapilvastu district, where Awadhi is the language of the fields and the villages grow rice, wheat and lentils on land that has been farmed since the Shakyas. At Tilaurakot you walk the line of the old wall to the eastern gate, the gate tradition says Siddhartha rode out of at night. At Kudan he came back as the Buddha to meet his father. At Gotihawa and Niglihawa the stumps of Ashoka's pillars mark the birthplaces of Buddhas before him. The third day ends at Ramagrama, on the bank of the Jharahi, at a grassy mound that has kept its secret.",
+  "highlights": [
+    "The ramparts, moat and eastern gate of Tilaurakot, with the small Kapilavastu Museum nearby",
+    "Kudan, linked by tradition to the Buddha's return to meet his father Suddhodana",
+    "Niglihawa's broken Ashoka pillar and its inscription about the stupa of Buddha Konakamana",
+    "Ramagrama, the brick relic stupa that Buddhist tradition says Ashoka left unopened",
+    "Two evenings at the Sacred Garden after the day crowds have gone"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Bhairahawa, Lumbini Sacred Garden",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 35 min flight · then ≈ 22 km · 40 min drive",
+      "text": "Fly from Kathmandu to Gautam Buddha International Airport at Bhairahawa and drive to Lumbini. Rest through the midday heat. In the late afternoon your guide walks you through the Sacred Garden: the Maya Devi Temple and its marker stone, the Ashoka pillar with its inscription naming Lumbini as the birthplace, the Puskarini pond and the bodhi tree hung with prayer flags. Over tea he lays out the next two days on a map so the places feel connected before you see them.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Tilaurakot, Kudan, Gotihawa and Niglihawa",
+      "place": "tilaurakot",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 90 km round trip · 3 h driving in total",
+      "text": "Leave early for Tilaurakot, about an hour west. Walk the excavated walls, the moat and the eastern and western gates, and see the small shrine of Samai Mai inside the grove. Visit the Kapilavastu Museum, which holds coins, pottery and terracotta found in the district. Continue to Kudan, a pair of stupa mounds beside a pond, then Gotihawa, where the stump of an Ashoka pillar stands by a brick stupa linked to Buddha Krakuchchhanda. End at Niglihawa, where the inscribed pillar lies in two pieces by a pond. Return to Lumbini by evening.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 3,
+      "title": "Ramagrama stupa and the monastic zone",
+      "place": "ramagrama",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 100 km round trip · 3–3.5 h driving in total",
+      "text": "Drive east past Bhairahawa to Ramagrama near Parasi, on the bank of the Jharahi river. The stupa is an overgrown brick mound, and that is the point: Buddhist texts say the Koliyas built it over their share of the Buddha's relics, and that Ashoka, collecting relics for new stupas, left this one alone because it was guarded by nagas. Back in Lumbini after lunch, spend the afternoon in the monastic zone by bicycle or e-rickshaw and finish at the World Peace Pagoda for sunset.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 4,
+      "title": "Dawn chanting, fly to Kathmandu",
+      "place": "lumbini",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 22 km · 40 min drive · then ≈ 35 min flight",
+      "text": "Go back to the Sacred Garden at sunrise for the quietest hour of the day, when monks and lay pilgrims chant beside the pond. After breakfast, drive to Bhairahawa for the flight to Kathmandu. If you are travelling on to Kushinagar, Sarnath or Bodh Gaya in India, we can drop you at the Belahiya–Sunauli border instead, about 45 minutes from Lumbini. If you choose the border, allow at least an hour for the formalities, and keep your passport, visa and hotel receipts together in one place.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "buddha-maya-garden-hotel"
+  ],
+  "includes": [
+    "Return economy flights Kathmandu–Bhairahawa",
+    "3 nights at Buddha Maya Garden Hotel, twin sharing, with breakfast",
+    "Private air-conditioned car with driver for all transfers and day trips",
+    "Licensed English-speaking guide for three days",
+    "Lunch on the Tilaurakot and Ramagrama days",
+    "Entry tickets to the Sacred Garden, Tilaurakot and the Kapilavastu Museum"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Dinners and lunches not listed",
+    "Donations at monasteries and shrines",
+    "Tips for guide and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "The Kapilavastu sites are open fields with little shade; bring a hat, water and sunscreen.",
+    "Roads around Taulihawa are narrow and slow in places; times above allow for this.",
+    "Food stops west of Lumbini are simple dal bhat places; we carry snacks and water.",
+    "Entry fees and museum hours change; check current status before you travel.",
+    "The question of where Kapilavastu lay is debated between Nepal and India; your guide will explain both views."
+  ],
+  "faqs": [
+    {
+      "q": "Where is Tilaurakot and how far is it from Lumbini?",
+      "a": "Tilaurakot is in Kapilvastu district, about 27 km west of Lumbini near the town of Taulihawa, roughly an hour by car. It is an archaeological site with brick fortification walls, a moat and gateways, identified by Nepal as Kapilavastu, the Shakya capital where the Buddha grew up. There is a small museum nearby with finds from the area."
+    },
+    {
+      "q": "Is Tilaurakot really Kapilavastu?",
+      "a": "Nepal identifies Tilaurakot as Kapilavastu, citing the fortified town and the accounts of Chinese pilgrims Faxian and Xuanzang. India identifies Piprahwa and Ganwaria, about 20 km south across the border, where excavators found sealings naming a Kapilavastu monastery. Many scholars think each site preserves part of the story. We present both views on the ground and in our guide to the debate."
+    },
+    {
+      "q": "What are Gotihawa and Niglihawa?",
+      "a": "Both are villages near Taulihawa with broken pillars raised by Emperor Ashoka. Niglihawa's pillar carries an inscription saying Ashoka enlarged the stupa of Buddha Konakamana and later visited it. Gotihawa's stump stands near a brick stupa linked by tradition to Buddha Krakuchchhanda. Buddhists regard both as Buddhas of earlier ages, before Gautama."
+    },
+    {
+      "q": "What is special about Ramagrama?",
+      "a": "After the Buddha's cremation his relics were divided into eight shares, and the Koliyas of Ramagrama built a stupa over theirs. Buddhist tradition says that when Ashoka opened the relic stupas to redistribute the relics, he left Ramagrama untouched because nagas guarded it. The brick mound near Parasi is therefore honoured as an original, unopened relic stupa."
+    },
+    {
+      "q": "How much walking is involved?",
+      "a": "Very little. Each site is a short walk from the car park, from 200 m to about 1 km. Tilaurakot involves the most, as you walk along the walls and to the gates, about an hour on flat, sometimes uneven ground. The challenge is heat rather than distance, so we visit the open sites in the morning."
+    },
+    {
+      "q": "Can I do the Kapilavastu sites as a day trip?",
+      "a": "Yes. Tilaurakot, Kudan, Gotihawa and Niglihawa fit into one full day from Lumbini, which is how this trip runs. Ramagrama is in the other direction and needs a separate half day. If you only have one spare day, we suggest Tilaurakot and Niglihawa, which carry the most history for most visitors."
+    },
+    {
+      "q": "Are there places to eat near Tilaurakot?",
+      "a": "Only simple ones. Taulihawa has small restaurants serving dal bhat, chana and tea, and roadside stalls sell fruit and samosas. We include lunch on the two day trips and choose places our guides use regularly. Carry water and a snack; there is nothing to buy at the sites themselves."
+    },
+    {
+      "q": "Is this trip suitable in summer?",
+      "a": "It is possible but hard. From April to June the plains reach 38–42 °C and the Kapilavastu sites have little shade. If summer is your only window, we start at 6 am, finish the outdoor visits by 10:30 am and rest in the hotel through the afternoon. October to March is far more comfortable."
+    },
+    {
+      "q": "Do I need a permit for these sites?",
+      "a": "No special permit is needed. You buy entry tickets at the Sacred Garden in Lumbini and at Tilaurakot and its museum; the smaller sites are open fields. Foreign visitors pay a higher fee than Nepali and SAARC visitors. Fees and opening hours change, so check current status before you travel. Tickets are included in our price."
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "slug": "bardia-and-shuklaphanta-safari-7n",
+  "title": "Bardia and Shuklaphanta Safari",
+  "region": "far-west",
+  "kind": "wildlife",
+  "nights": 7,
+  "themes": [
+    "wildlife-and-jungle",
+    "lakes-and-rivers",
+    "villages-and-homestays",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "bardia",
+      "nights": 4
+    },
+    {
+      "place": "shuklaphanta",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu, via Dhangadhi Airport",
+  "price_from_usd": 2100,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Bardia and Shuklaphanta, 7 nights: tigers and river safaris in Bardia, Ghodaghodi Tal lakes, then the swamp deer grasslands of the far western Terai.",
+  "summary": "Seven nights across the two national parks of Nepal's far western plain. Four nights at Bardia for tigers, the Karnali and Tharu villages, a day's drive past the Ghodaghodi lakes, then three nights at Shuklaphanta, home to some of the largest herds of swamp deer left in South Asia. Fly in to Nepalgunj, out of Dhangadhi.",
+  "intro": [
+    "Most safari trips in Nepal stop at Chitwan. This one goes to the other end of the Terai, where the plain is wider, the villages are Tharu and the parks are quiet. Bardia, the larger of the two, is river and forest country cut by the braided channels of the Karnali. Shuklaphanta, near the Mahakali river and the Indian border, is grassland: open phanta where swamp deer gather in herds of hundreds and Bengal floricans display in spring.",
+    "Between them lies Ghodaghodi Tal, a chain of lakes listed under the Ramsar Convention and sacred to the Tharu people who live around it. We drive the East–West Highway between the parks, a flat road through mango orchards, sugarcane and market towns, so you see how the far western plain lives as well as what it protects. Lodges in Bardia are comfortable; near Shuklaphanta they are simpler, and we tell you exactly what to expect."
+  ],
+  "story": "You begin in the heat of Nepalgunj and drive into Bardia, where the first days belong to the forest: sal trees, termite mounds, a guide pointing at a fresh scratch on a tree. Then the Karnali, cold and green, pouring out of the hills at Chisapani under its single-tower bridge. West of the river the land opens. Lakes appear by the highway, with lotus leaves and cormorants, and a small temple on the shore of Ghodaghodi. By the time you reach Shuklaphanta the forest has stepped back and the sky is huge. On the grassland at dusk, swamp deer stand in their hundreds, and the only sound is the wind in the grass and a jeep engine cooling.",
+  "highlights": [
+    "Full-day jeep safari and a guided walk in Bardia, one of Nepal's strongest parks for tiger sightings",
+    "Raft float on the Geruwa channel of the Karnali for crocodiles, birds and a chance of river dolphins",
+    "Ghodaghodi Tal, a Ramsar-listed lake system with a Tharu temple on its shore",
+    "Herds of swamp deer on the open Shuklaphanta grassland at dawn and dusk",
+    "Two Tharu communities, Dangaura in Bardia and Rana in Kanchanpur, with different dress, food and dances"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Nepalgunj, drive to Bardia",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 1 h flight · then ≈ 90 km · 2–2.5 h drive",
+      "text": "A morning flight from Kathmandu to Nepalgunj, then the drive west to Kohalpur and north to Thakurdwara, the Tharu village at the park gate. After lunch your guide walks you through the village lanes to the park boundary and a watchtower, where spotted deer and peafowl come out as the heat breaks. Dinner at the lodge, with a briefing on the park rules for the next three days and what each kind of safari will involve.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Full-day jeep safari to the Karnali",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 8–9 h in an open jeep inside the park",
+      "text": "We start at first light in an open jeep with a licensed naturalist. The track crosses sal forest and phanta grassland, where rhinos and wild elephants sometimes feed, then reaches the Karnali river country in the west of the park. Here we leave the jeep and sit on a high bank above a channel, because tigers cross and drink here in the heat of the day. Lunch is a packed meal by the river. The drive back is slow, through the hour when deer and boar come out to the grass edges.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "On foot in the forest, afloat on the Geruwa",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 4 h on foot · ≈ 2 h by raft",
+      "text": "A walking safari with two licensed guides, following dry river beds and game trails. You learn to read the ground: tiger pugmarks, rhino middens, the snapped branches where elephants have fed. After lunch we put an inflatable raft on the Geruwa, the calm eastern channel of the Karnali, and drift for a couple of hours. Mugger crocodiles bask on the banks, ospreys and kingfishers hunt the shallows, and in the deeper pools there is a chance of the endangered Gangetic dolphin surfacing for a breath.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Crocodile centre and a Tharu home",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "On foot and by bicycle",
+      "text": "A dawn bird walk on the park edge, then the park headquarters, where a breeding centre raises crocodiles, including the rare gharial, and turtles. In the afternoon you cycle to a Dangaura Tharu home in a nearby village. The family shows you the longhouse, its built-in mud grain bins and the painted walls, and cooks a meal of rice, river fish and greens. If the village dance group is free, they perform the sakhiya, the Tharu circle dance of the Dashain season. Time for a last evening at the watchtower.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Karnali bridge and Ghodaghodi Tal",
+      "place": "ghodaghodi-tal",
+      "overnight": "Shuklaphanta, near Mahendranagar",
+      "alt_m": 200,
+      "move": "≈ 220 km · 5–6 h drive with stops",
+      "text": "We drive west to Chisapani, where the Karnali leaves the hills under a long single-tower bridge, and stop on the bank for the view upriver into the gorge. Beyond the river the highway runs through Kailali to Ghodaghodi Tal, a cluster of lakes and marshes recognised as a Ramsar wetland. We walk the shore, visit the small temple of the goddess Ghodaghodi and look for waterbirds and lotus. Lunch in a roadside dhaba, then on through Attariya to Mahendranagar and the edge of Shuklaphanta.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Swamp deer on the Shuklaphanta grassland",
+      "place": "shuklaphanta",
+      "overnight": "Shuklaphanta, near Mahendranagar",
+      "alt_m": 200,
+      "move": "≈ 6–7 h by jeep in two drives",
+      "text": "Shuklaphanta takes its name from the Sukila Phanta, a wide grassland in the south of the park. We drive out at dawn, when the herds of swamp deer, or barasingha, are feeding in the open, sometimes hundreds together. Mid-morning we stop at Rani Tal, a forest lake with a watchtower, where local belief places the palace of a Tharu king. The afternoon drive looks for hog deer, wild elephants and, in spring, the Bengal florican, a rare bustard that leaps above the grass in display.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Bird walk and a Rana Tharu village",
+      "place": "shuklaphanta",
+      "overnight": "Shuklaphanta, near Mahendranagar",
+      "alt_m": 200,
+      "move": "Short drives and walks",
+      "text": "An early walk on the park edge with a bird guide; the grassland and wetland birds here are among the best in western Nepal. Later we visit a Rana Tharu village in Kanchanpur. Rana Tharu dress differs from that of the Tharu in Bardia: women wear long embroidered skirts, mirror-work blouses and heavy silver jewellery. The family cooks a lunch of rice, dal and dhikri, steamed rice-flour rolls. The afternoon is free, or you can take a second jeep drive for the evening light on the phanta.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Dhangadhi and the flight to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 60 km · 1.5 h drive · then ≈ 1 h 15 min flight",
+      "text": "After breakfast we drive east along the highway to Dhangadhi, the largest town of the far west, and its airport. The direct flight to Kathmandu takes about an hour and a quarter, crossing the hills of Doti and Dailekh with the western Himalaya on the left side of the aircraft on a clear day. We meet you at Kathmandu's domestic terminal and take you to your hotel. If you have an extra day, Dhangadhi is also a gateway to the Khaptad plateau.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "tiger-tops-karnali-lodge"
+  ],
+  "includes": [
+    "Kathmandu–Nepalgunj and Dhangadhi–Kathmandu flights (economy)",
+    "Private air-conditioned car for all road transfers",
+    "4 nights at Tiger Tops Karnali Lodge or a similar Thakurdwara lodge, full board",
+    "3 nights in the best available lodge or hotel near Shuklaphanta, full board",
+    "Jeep safaris, walking safari and raft float with licensed nature guides",
+    "National park entry fees in Bardia and Shuklaphanta",
+    "Visits to Dangaura and Rana Tharu homes with meals"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Kathmandu hotel nights",
+    "Drinks, tips and laundry",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Accommodation near Shuklaphanta is simple compared with Bardia; expect clean rooms and good food rather than a safari lodge.",
+    "Park entry for foreigners is charged per entry or per day depending on the park; fees change, so check current status before you travel.",
+    "Swamp deer gather in the largest herds from February to April, when the grass has been burned or cut and new shoots come up.",
+    "December and January mornings bring dense fog on the plain; flights into Nepalgunj and out of Dhangadhi can be delayed.",
+    "Both parks restrict activities in the monsoon, roughly mid-June to September."
+  ],
+  "faqs": [
+    {
+      "q": "Is Shuklaphanta worth visiting after Bardia?",
+      "a": "Yes, if you like open country and birds. Bardia is forest and river; Shuklaphanta is mainly grassland, so the experience is different. Its swamp deer herds are the main reason to go, and the park also holds tigers, wild elephants and grassland birds such as the Bengal florican. It sees very few foreign visitors, so you often have the phanta to yourself."
+    },
+    {
+      "q": "How far is Shuklaphanta from Bardia?",
+      "a": "About 220 km by the East–West Highway, which takes five to six hours with stops. The road is flat and paved for most of the way, crossing the Karnali at Chisapani and passing Ghodaghodi Tal and the town of Attariya. We break the drive with a lakeside walk and lunch so it never feels like a transfer day."
+    },
+    {
+      "q": "What is Ghodaghodi Tal?",
+      "a": "Ghodaghodi Tal is a system of more than a dozen lakes, ponds and marshes in Kailali district, surrounded by forest. It was listed as a Ramsar wetland of international importance in 2003. It matters for waterbirds, turtles and mugger crocodiles, and the Tharu people of the area worship the goddess Ghodaghodi at a small temple on the main lake."
+    },
+    {
+      "q": "What is a swamp deer?",
+      "a": "The swamp deer, or barasingha, is a large deer of wet grasslands whose stags carry antlers with many points; barasingha means twelve tines. It has disappeared from most of its old range across northern India and Nepal. Shuklaphanta holds one of the largest remaining populations, and the herds feeding on the open phanta are the reason most visitors come."
+    },
+    {
+      "q": "Which airport do I use for Shuklaphanta?",
+      "a": "Dhangadhi Airport, about 60 km and 1.5 hours east of the park edge near Mahendranagar. There are direct flights between Dhangadhi and Kathmandu taking about 1 hour 15 minutes. That is why this trip flies into Nepalgunj for Bardia and out of Dhangadhi, so you never retrace the highway."
+    },
+    {
+      "q": "Can I see tigers in Shuklaphanta?",
+      "a": "Tigers live in Shuklaphanta and the population has grown in recent surveys, but they are harder to see than in Bardia because the park has less riverine country and fewer guided walks. We plan your best tiger time in Bardia and treat Shuklaphanta as the grassland and swamp deer half of the trip."
+    },
+    {
+      "q": "Who are the Rana Tharu?",
+      "a": "The Rana Tharu are a Tharu group living mainly in Kailali and Kanchanpur districts and across the border in India. Their women's dress is distinctive: long embroidered skirts, short blouses with mirror work and heavy silver ornaments. They speak their own Tharu dialect and keep festivals such as Holi with their own songs and dances. Visits are arranged with families who welcome guests."
+    },
+    {
+      "q": "Is this safari suitable for older travellers?",
+      "a": "Yes. There is no hard walking, roads between the parks are flat, and you can skip the walking safari in Bardia and add another jeep drive instead. The longest day is the 5–6 hour drive between parks. Heat is the main thing to plan for: in April and May afternoons pass 38 °C, so we keep activities to mornings and evenings."
+    },
+    {
+      "q": "Do I need a licensed guide in these parks?",
+      "a": "Yes. All jeep drives, walks and raft trips inside Bardia and Shuklaphanta go with licensed nature guides, which our price includes. This matches the national rule, in place since April 2023, that foreign visitors in national parks and conservation areas be accompanied by a licensed guide. Rules and fees change, so check current status before you travel."
+    }
+  ]
+}

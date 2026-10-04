@@ -1,0 +1,16 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}When to visit Nepal: seasons and the Nepali calendar · Book Nepal Trip{% endblock %}
+{% block description %}The best months for every region of Nepal, with the Nepali Bikram Sambat months alongside, and what each season brings at each height.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Seasons and calendar</p><h1 class="h-xl">Nepal keeps its own time</h1><p class="lede">Nepal runs on Bikram Sambat, about 56 years and 8 months ahead of the Gregorian calendar, with a new year in mid-April. Its clock is set 5 hours 45 minutes ahead of UTC. Here is the year in both calendars, region by region.</p></div></header>
+<section class="wrap" style="padding:10px 0 60px">
+  <div class="table-wrap"><table><thead><tr><th>Region</th>{% for m in bars %}<th title="{{ m.full }}">{{ m.m }}<br><span style="text-transform:none;letter-spacing:0">{{ m.bs }}</span></th>{% endfor %}</tr></thead>
+  <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><td><a href="{{ r.url }}"><b>{{ r.name }}</b></a></td>{% for b in r.bar %}<td style="padding:6px 3px"><a href="{% url 'region_month' r.slug b.full|lower %}" title="{{ r.name }} in {{ b.full }}" style="display:block;height:24px;border-radius:4px;{% if b.v == 2 %}background:var(--acc-ink){% elif b.v == 1 %}background:repeating-linear-gradient(135deg,var(--tint) 0 4px,#fff 4px 8px);box-shadow:inset 0 0 0 1px var(--rule){% else %}background:var(--paper-2){% endif %}"></a></td>{% endfor %}</tr>{% endfor %}</tbody></table></div>
+  <div class="grid grid--2" style="margin-top:40px">
+    <div class="panel"><h2 class="h-s">Autumn · Asoj to Mangsir (Sep–Dec)</h2><p>The clearest air of the year after the monsoon. Peak trekking season, and Dashain and Tihar, Nepal's biggest festivals, usually fall in October or November.</p></div>
+    <div class="panel"><h2 class="h-s">Winter · Poush to Magh (Dec–Feb)</h2><p>Cold, clear and quiet. Good for the Kathmandu Valley, Chitwan and lower treks; high passes such as Thorong La can close after snow.</p></div>
+    <div class="panel"><h2 class="h-s">Spring · Falgun to Baisakh (Mar–May)</h2><p>Rhododendrons flower in the hills, high camps warm up and the Terai parks are at their most open. Haze can soften the views by May.</p></div>
+    <div class="panel"><h2 class="h-s">Monsoon · Jestha to Bhadra (Jun–Aug)</h2><p>Rain on the south side of the Himalaya and leeches on low trails, but green valleys and festivals. Upper Mustang, Dolpo and Limi in the rain shadow are at their best.</p></div>
+  </div>
+</section>
+{% endblock %}

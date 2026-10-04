@@ -1,0 +1,164 @@
+{
+  "slug": "royal-trek-pokhara-4n",
+  "title": "The Royal Trek above Begnas",
+  "region": "pokhara-annapurna",
+  "kind": "trek",
+  "nights": 4,
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "lakes-and-rivers",
+    "family-trips"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "begnas-lake",
+      "nights": 4
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 450,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1730,
+  "meta_description": "The Royal Trek in 4 nights from Pokhara: the low hill route Prince Charles walked in 1980, via Syaklung and Chisapani to Begnas Lake.",
+  "summary": "Four nights on the gentle hill route east of Pokhara that took its name from the Prince of Wales's walk here in 1980: Kalikasthan, the Gurung village of Syaklung, the ridge at Chisapani and down to a night by Begnas Lake. Low altitude, short days and village life, with the Annapurnas in view.",
+  "intro": [
+    "The Royal Trek is the opposite of a big Himalayan trek. It stays below 2,000 m, follows ridges and village paths through farmland, and needs no flights or jeeps. It was named after the Prince of Wales, now King Charles III, who walked this loop with a royal party in 1980, and it has stayed quiet ever since, because the big treks lie to the north. Expect terraces, temples and tea stops rather than snow.",
+    "Because it is low, it works in months when high treks are cold, including December and January, and suits families, older walkers, and anyone who wants Nepali village life without lodges full of trekkers. Accommodation is in simple village lodges and homestays, and the last night is beside Begnas Lake. Your guide speaks the village languages and makes the introductions. Porters carry the bags, so you walk with a day pack."
+  ],
+  "story": "You leave Pokhara by car for half an hour and start walking from Bijaypur, climbing through forest and terraces to Kalikasthan, where a small temple to Kali stands on the ridge. From here the trek follows the hills east, through villages where Brahmin and Chhetri families farm the lower terraces and Gurung families the higher ones. Syaklung is a Gurung village on a high shoulder, the highest night of the trek, with the Annapurnas, Machhapuchhre and Lamjung Himal lined up to the north. In autumn the paddy is gold below. The third day reaches Chisapani, the cold water, a ridge with long views, and the last day drops through forest and fields to the shore of Begnas Lake, where a boat takes you across in the evening light.",
+  "highlights": [
+    "The low hill route Prince Charles walked in 1980, still rarely trekked",
+    "Sunrise over Machhapuchhre, the Annapurnas and Lamjung Himal from Syaklung",
+    "Village life among Gurung, Brahmin and Chhetri families",
+    "A last night on the shore of Begnas Lake with a boat at sunset",
+    "Short days below 2,000 m, good in winter and for families"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara to Bijaypur, walk to Kalikasthan",
+      "place": "begnas-lake",
+      "overnight": "Kalikasthan",
+      "alt_m": 1370,
+      "move": "≈ 30 min drive · then ≈ 3–4 h walk · +500 m",
+      "text": "We pick you up from your Pokhara hotel and drive east to Bijaypur at the edge of the city. The walk climbs gently through forest and farmland, with the Pokhara valley and the Seti river opening behind. By early afternoon we reach Kalikasthan, a small ridge settlement named for its Kali temple. Spend the evening with your host family, who will cook dal bhat and local greens, and watch the mountains catch the last light.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Kalikasthan to Syaklung",
+      "place": "begnas-lake",
+      "overnight": "Syaklung",
+      "alt_m": 1730,
+      "move": "≈ 5 h walk · +450 m / −100 m",
+      "text": "The trail follows the ridge north and east, through forest of chestnut and rhododendron and past terraced hamlets. Stop for tea in a village house and watch daily life: women carrying fodder in doko baskets, men ploughing with oxen, children walking to school. Syaklung is a Gurung village on a high shoulder with wide views to Annapurna II, Machhapuchhre and Lamjung Himal. It is the highest night of the trek, and the sunrise next morning is the best of the trip.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Syaklung to Chisapani",
+      "place": "begnas-lake",
+      "overnight": "Chisapani",
+      "alt_m": 1550,
+      "move": "≈ 5 h walk · −300 m / +100 m",
+      "text": "After sunrise we walk along the ridge through villages and forest, with the Begnas and Rupa lakes visible below to the south. The trail is easy and the pace slow, with time to stop in villages and talk. Chisapani, the cold water, is a small settlement on a ridge with a spring and a few houses. Evening with a local family, and if they offer it, a taste of home-made raksi.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Down to Begnas Lake",
+      "place": "begnas-lake",
+      "overnight": "Begnas Lake",
+      "alt_m": 650,
+      "move": "≈ 4 h walk · −900 m",
+      "text": "A long, easy descent through forest and terraced farms to the shore of Begnas Lake. After a lunch of lake fish, take a rowing boat out on the water as the afternoon light softens on the hills you have just walked. The night is in a simple lakeside lodge, a quiet end to the walk, far from Lakeside's traffic. Your guide arranges the boat with local boatmen. Life jackets are provided.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Return to Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "≈ 15 km · 40 min drive",
+      "text": "A slow breakfast by the lake, then a drive back to Pokhara, about 40 minutes. The trip ends at your hotel, the airport or the bus park. The Royal Trek pairs well with a few days in Pokhara or a visit to Chitwan, and families often use it as a first taste of trekking before a longer route. Leave about three hours between a Pokhara flight and any connection in Kathmandu.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Pick-up from your Pokhara hotel and return drive from Begnas",
+    "3 nights in village lodges or homestays and 1 night in a lakeside lodge at Begnas",
+    "Meals as listed during the trek",
+    "Licensed English-speaking guide and one porter for two trekkers",
+    "Rowing boat on Begnas Lake"
+  ],
+  "excludes": [
+    "Hotel nights in Pokhara before or after the trek",
+    "Any permit required on the day (we arrange it at cost)",
+    "Drinks, donations and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Accommodation is simple; some homestays have shared toilets and bucket hot water.",
+    "Most of the route lies outside the Annapurna Conservation Area; permit and guide rules change, so check current status before you travel.",
+    "Days are short and mostly on village paths, with a long descent on the last day.",
+    "December and January are excellent: clear skies and mild days at this altitude.",
+    "Carry small notes in Nepali rupees for tea stops and village shops."
+  ],
+  "faqs": [
+    {
+      "q": "Why is it called the Royal Trek?",
+      "a": "It is named after the Prince of Wales, now King Charles III, who walked this route with a royal party in 1980. The name stuck, and trekking companies have used it since. It is a short, low trek through villages east of Pokhara rather than a royal road, and it has stayed quiet compared with the big Annapurna treks."
+    },
+    {
+      "q": "How hard is the Royal Trek?",
+      "a": "It is easy. Days are three to five hours on village paths and forest trails, the highest night is about 1,730 m at Syaklung, and there is no altitude risk. The last day has a long descent to Begnas Lake. It suits families, older walkers and first-time trekkers who are reasonably fit."
+    },
+    {
+      "q": "Do I need permits for the Royal Trek?",
+      "a": "Most of the route lies outside the Annapurna Conservation Area, so the full ACAP permit is usually not required. Rules on permits and guides change, and some operators include a permit as a precaution. Check current status before you travel; we arrange whatever is required at cost."
+    },
+    {
+      "q": "Can children do the Royal Trek?",
+      "a": "Yes. It is one of the best short treks around Pokhara for children, with low altitude, short days and village homestays where children usually make friends quickly. Porters can carry bags, and the walk can be shortened by using a car for parts of the route if small legs get tired."
+    },
+    {
+      "q": "What is the best season for the Royal Trek?",
+      "a": "October to April is good, with October to December clearest. Because the route stays below 2,000 m, it is a good choice for December and January, when higher treks are cold. March and April bring rhododendrons and warmer days. Monsoon, June to September, is muddy and cloudy."
+    },
+    {
+      "q": "What will I see on the Royal Trek?",
+      "a": "On clear days you see Annapurna II, Annapurna IV, Machhapuchhre, Lamjung Himal and Annapurna South to the north. You walk through Gurung, Brahmin and Chhetri villages, terraced rice and millet fields, forests of chestnut and rhododendron, and look down on Begnas and Rupa lakes. The last night is beside Begnas Lake."
+    },
+    {
+      "q": "How does the Royal Trek compare to Poon Hill?",
+      "a": "Poon Hill goes higher, to 3,210 m, with a bigger mountain view and many more trekkers. The Royal Trek stays below 2,000 m, has fewer views but much more village life and almost no other trekkers. Choose Poon Hill for the panorama, the Royal Trek for quiet and culture."
+    },
+    {
+      "q": "Where do we stay on the Royal Trek?",
+      "a": "Nights are in simple village lodges or homestays at Kalikasthan, Syaklung and Chisapani, and in a lakeside lodge at Begnas. Rooms are clean but basic, and some have shared toilets. Meals are home-cooked dal bhat, vegetables and pickles, eaten with the family or in a small dining room."
+    },
+    {
+      "q": "How much does the Royal Trek cost?",
+      "a": "Our 4-night Royal Trek starts from USD 450 per person, twin sharing, including transfers from Pokhara, all nights and meals on the trek, a licensed guide, a porter for two and a boat on Begnas Lake. Hotel nights in Pokhara and any permit needed are extra."
+    }
+  ]
+}

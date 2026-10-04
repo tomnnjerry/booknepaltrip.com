@@ -1,0 +1,10 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Things to do in Nepal, region by region · Book Nepal Trip{% endblock %}
+{% block description %}Heritage walks, treks, safaris, festivals, food and craft in Nepal: experiences coded by the five prayer-flag colours, with durations and best times.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Experiences</p><h1 class="h-xl">Coded by prayer-flag colour</h1><p class="lede">Each experience carries one of the five lungta colours: blue for sky (nature, slow days), white for wind (trekking, spirit), red for fire (food, adventure), green for water (rivers, wildlife) and yellow for earth (heritage, craft).</p><div class="chips" style="margin-top:18px">{% for k, n in kind_links %}<a class="chip" href="{% url 'experience_kind' k %}">{% icon k %}{{ n }}</a>{% endfor %}</div></div></header>
+<section class="wrap" style="padding:10px 0 90px">
+  <div class="filters" data-filter-group="#exp-grid"><label class="small">Region <select data-key="region"><option value="">All</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label><label class="small">Kind <select data-key="kind"><option value="">All</option>{% for k, n in kind_links %}<option value="{{ k }}">{{ n }}</option>{% endfor %}</select></label><span class="small muted" style="margin-left:auto"><span data-filter-count></span> shown</span></div>
+  <div id="exp-grid">{% for r in regions %}<div data-section style="margin-bottom:40px"><h2 class="h-m">{{ r.name }}</h2><div class="grid grid--4">{% for p in r.places %}{% for e in p.experiences %}{% include "yatra/partials/card_exp.html" %}{% endfor %}{% endfor %}</div></div>{% endfor %}</div>
+</section>
+{% endblock %}

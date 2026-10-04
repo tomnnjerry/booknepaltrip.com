@@ -1,0 +1,188 @@
+{
+  "slug": "annapurna-honeymoon-pokhara-6n",
+  "title": "Annapurna Honeymoon in Pokhara",
+  "region": "pokhara-annapurna",
+  "kind": "tour",
+  "nights": 6,
+  "themes": [
+    "honeymoons",
+    "slow-and-wellness",
+    "lakes-and-rivers",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 6
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 2200,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1600,
+  "meta_description": "A 6-night Annapurna honeymoon: Tiger Mountain Pokhara Lodge on its ridge, then villas at The Pavilions Himalayas, with boats, walks and Sarangkot.",
+  "summary": "Six nights for two in the hills around Pokhara, split between Tiger Mountain Pokhara Lodge on a ridge facing the Annapurnas and The Pavilions Himalayas, an eco-resort of villas on a farm west of Phewa Lake. Days are for village walks, a private boat at dusk, spa time and, if you dare, a tandem flight off Sarangkot.",
+  "intro": [
+    "Pokhara is the obvious honeymoon base in Nepal: warm, green, by a lake, with 7,000 and 8,000 m peaks on the skyline and no altitude to worry about. The trick is to stay out of Lakeside's traffic. Both lodges on this trip sit above or beyond the town. Tiger Mountain Pokhara Lodge stands on a ridge about 300 m above the valley floor, with stone cottages facing Machhapuchhre and the Annapurnas. The Pavilions Himalayas is a farm resort of private villas in the hills west of Phewa, close to the Peace Pagoda ridge.",
+    "There is no fixed timetable. We give you a car and guide on the days you want them and leave you alone on the days you do not. Both properties grow some of their own food and run on low-impact principles, which many couples value as much as the view. Lunches are left open so you can eat at the lodge, in a village or by the lake, as the day suggests. We set the order of the two lodges around your flight times."
+  ],
+  "story": "The first three mornings begin with the mountains in the window. Tiger Mountain's ridge looks straight across the Pokhara valley to the Annapurna range, and at dawn the snow turns pink before the valley below has woken. Walks lead out from the lodge to Gurung and Brahmin villages on the ridge, where farmers cut fodder and children walk to school along the terraces. Then you move west across the city to the farm at The Pavilions, where villas stand among rice paddies and vegetable gardens on a hillside near the Fusre Khola. From here the World Peace Pagoda is an evening walk, Phewa Lake a short drive, and a private boat at sunset rows you out to watch Machhapuchhre in the still water. One morning, if you both agree, you can fly together on tandem paragliders off Sarangkot.",
+  "highlights": [
+    "Three nights at Tiger Mountain Pokhara Lodge, facing Machhapuchhre and the Annapurnas",
+    "Three nights in a private villa at The Pavilions Himalayas farm resort",
+    "A private sunset boat on Phewa Lake with Machhapuchhre reflected in the water",
+    "Village walks on the ridge among Gurung and Brahmin farms",
+    "Optional tandem paragliding together from Sarangkot"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive at Tiger Mountain Pokhara Lodge",
+      "place": "pokhara",
+      "overnight": "Tiger Mountain Pokhara Lodge",
+      "alt_m": 1220,
+      "move": "≈ 40 min drive from the airport",
+      "text": "We meet you at Pokhara International Airport and drive east, climbing the last few kilometres up a winding road to Tiger Mountain Pokhara Lodge on its ridge. Stone cottages with private terraces face the Annapurna range across the valley. Settle in with tea on the terrace and watch the afternoon clouds roll off the peaks. Dinner is at the lodge, much of it from its own garden and local farms, served in the main house.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Ridge villages and a slow afternoon",
+      "place": "pokhara",
+      "overnight": "Tiger Mountain Pokhara Lodge",
+      "alt_m": 1220,
+      "move": "≈ 3 h walk",
+      "text": "Sunrise from your terrace, then a guided walk along the ridge through farming villages where houses are washed in red clay and white lime and buffalo stand in the yards. Your naturalist guide points out birds and the crops of the season: rice in autumn, mustard and wheat in winter. Back for lunch by the pool, which looks across to Machhapuchhre. The afternoon is for a massage, a book, or nothing at all.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Begnas Lake by boat",
+      "place": "begnas-lake",
+      "overnight": "Tiger Mountain Pokhara Lodge",
+      "alt_m": 1220,
+      "move": "≈ 30 min drive each way",
+      "text": "A short drive down to Begnas Lake, quieter and greener than Phewa, where we take a rowing boat across the water past fish farms and rice terraces. Walk the shore path to a viewpoint above Rupa Lake, and stop for a lunch of fried lake fish in a small family restaurant. Back to the lodge for sunset on the terrace with a drink in hand as the range turns pink.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Move to The Pavilions Himalayas",
+      "place": "pokhara",
+      "overnight": "The Pavilions Himalayas, Pokhara",
+      "alt_m": 850,
+      "move": "≈ 1 h drive",
+      "text": "After a last breakfast on the ridge we cross the city to the western hills and The Pavilions Himalayas, a resort of private villas set on a working farm, with paddy fields, vegetable plots and a river below. Each villa has its own outdoor space. In the afternoon walk the farm with a staff member who explains its organic growing and water systems, then take a soak or a spa treatment before dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Peace Pagoda and a sunset boat",
+      "place": "pokhara",
+      "overnight": "The Pavilions Himalayas, Pokhara",
+      "alt_m": 850,
+      "move": "≈ 2 h walk · ≈ 1 h boat",
+      "text": "A morning walk up to the World Peace Pagoda on its ridge above Phewa, with the lake below and the Annapurnas behind, and down the stone stairs to the shore. Lunch in Lakeside if you want a little bustle and a coffee. Late afternoon a private boat rows you out on Phewa past the island temple of Tal Barahi as the light fades and Machhapuchhre's reflection settles in the water.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Sarangkot, by air or by car",
+      "place": "sarangkot",
+      "overnight": "The Pavilions Himalayas, Pokhara",
+      "alt_m": 850,
+      "move": "≈ 30 min drive",
+      "text": "Choose the pace. Either drive to Sarangkot for sunrise and come back for breakfast, or go later in the morning for a tandem paragliding flight together, two pilots side by side, about 20 to 30 minutes over the lake with the Annapurnas in front of you. For a quieter alternative, a yoga session at the resort and a long lunch. Final dinner at the villa. If the wind is wrong for flying, we move the flight to another morning.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "≈ 30 min drive",
+      "text": "A slow breakfast and a transfer to Pokhara airport for your flight to Kathmandu or onward. Couples often continue to Chitwan for a jungle lodge or to Bandipur for a night in the old Newar bazaar. We can arrange either, and our guide will take your bags to the airport so you can enjoy the morning. Leave about three hours between a Pokhara flight and any international connection in Kathmandu.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "tiger-mountain-pokhara-lodge",
+    "the-pavilions-himalayas"
+  ],
+  "includes": [
+    "3 nights at Tiger Mountain Pokhara Lodge with all meals as listed",
+    "3 nights in a villa at The Pavilions Himalayas with breakfast and dinner",
+    "Private car for airport and lodge transfers and excursions",
+    "Guided ridge walk, Begnas Lake boat, Peace Pagoda walk and private sunset boat on Phewa",
+    "Sarangkot sunrise drive"
+  ],
+  "excludes": [
+    "Flights to and from Pokhara",
+    "Tandem paragliding (about USD 90–120 per person)",
+    "Spa treatments and drinks",
+    "Lunches not listed",
+    "Travel insurance and tips"
+  ],
+  "good_to_know": [
+    "Both lodges are outside Lakeside; we arrange transport for any trip into town.",
+    "Mountain views are clearest from October to February; spring mornings are clear with haze by midday.",
+    "Room types and inclusions at each lodge change by season; we confirm at booking.",
+    "Paragliding depends on wind and weather; keep it to a flexible day.",
+    "Bring a warm layer for evenings on the ridge from November to February."
+  ],
+  "faqs": [
+    {
+      "q": "Is Pokhara good for a honeymoon?",
+      "a": "Yes. Pokhara has a warm climate, a lake, mountain views and plenty of gentle activities without high altitude. Staying outside busy Lakeside, at a ridge lodge or a farm resort, makes it quiet and private. It combines well with a jungle lodge in Chitwan or a few days in Kathmandu's heritage towns for a longer honeymoon."
+    },
+    {
+      "q": "What is Tiger Mountain Pokhara Lodge like?",
+      "a": "It is a lodge of stone cottages on a ridge about 300 m above the Pokhara valley, facing the Annapurna range, with a pool, gardens and guided walks. It is known for its low-impact approach and local food. It is about 40 minutes by road from the airport and feels far from the town."
+    },
+    {
+      "q": "What is The Pavilions Himalayas?",
+      "a": "The Pavilions Himalayas is an eco-resort of private villas on a farm in the hills west of Phewa Lake, near the Peace Pagoda ridge. It grows produce for its kitchen and has a spa. It is a short drive to the lake and Lakeside, but feels rural. We confirm villa type and inclusions when we book."
+    },
+    {
+      "q": "When is the best time for a honeymoon in Pokhara?",
+      "a": "October to December gives clear mountain views and pleasant days around 20 to 25 °C. February to April is warm, with rhododendrons on the hills and haze by midday in April. January nights are cool but skies are very clear. Monsoon, June to September, is green and quiet but the peaks are usually hidden."
+    },
+    {
+      "q": "Can we paraglide together in Pokhara?",
+      "a": "Yes. Each of you flies tandem with your own licensed pilot, and operators can launch two gliders together so you fly side by side. Flights last about 20 to 30 minutes from Sarangkot to the lakeshore. Check that your travel insurance covers paragliding. Flights depend on the weather on the day."
+    },
+    {
+      "q": "How much does the Annapurna honeymoon cost?",
+      "a": "Our 6-night honeymoon starts from USD 2,200 per person, twin sharing, including three nights at Tiger Mountain Pokhara Lodge, three nights at The Pavilions Himalayas, private transfers, walks and boats. Flights to Pokhara and paragliding are extra. Prices vary by season and room category."
+    },
+    {
+      "q": "Do we need to be fit for this trip?",
+      "a": "No. Walks are optional and gentle, up to three hours on village paths, and the highest point is Sarangkot at 1,600 m, reached by car. The Peace Pagoda climb is about an hour on stone steps and can be done by car instead. Each day can be as active or as lazy as you want."
+    },
+    {
+      "q": "Can we add a short trek to our honeymoon?",
+      "a": "Yes. A two- or three-night lodge trek to Dhampus and Australian Camp, or to Ghandruk, adds big mountain views and Gurung villages without serious altitude. For more comfort on the trail, a private guide and porter carry your bags. We usually place the trek before the resort nights so you finish with rest."
+    },
+    {
+      "q": "Is Pokhara expensive for a honeymoon?",
+      "a": "Pokhara offers a wide range. Lakeside hotels with lake views cost from about USD 60 to 150 a night, while the ridge and farm lodges in this plan cost several hundred dollars a night with meals. Food, boats and activities are inexpensive by international standards: a rowing boat with a boatman on Phewa costs well under USD 15 an hour."
+    }
+  ]
+}

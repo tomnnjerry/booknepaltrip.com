@@ -1,0 +1,259 @@
+{
+  "slug": "thame-sherpa-heritage-trek-10n",
+  "title": "Thame and Sherpa Heritage Trek",
+  "region": "everest-khumbu",
+  "kind": "culture",
+  "nights": 10,
+  "themes": [
+    "villages-and-homestays",
+    "spiritual-and-pilgrimage",
+    "treks-and-trails",
+    "heritage-and-temples"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 2
+    },
+    {
+      "place": "thame",
+      "nights": 2
+    },
+    {
+      "place": "khumjung",
+      "nights": 1
+    },
+    {
+      "place": "tengboche",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1450,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 3970,
+  "meta_description": "Thame and Sherpa heritage trek in 10 nights: Namche, Thame Gompa, Khumjung and Tengboche, the villages behind Everest's Sherpa climbers. From USD 1,450.",
+  "summary": "A trek through the Sherpa villages that raised generations of Everest climbers. Ten nights linking Namche Bazaar, Thame in the Bhote Koshi valley, Khumjung and Tengboche, with time in monasteries, village homes and the museum. Low altitude, short days and a slower look at how Khumbu families live, farm, pray and rebuild.",
+  "intro": [
+    "Most trekkers walk through the Khumbu on the way to somewhere else. This trip stops in the villages themselves. Thame, a day west of Namche on the old trade route to Tibet, is where Tenzing Norgay grew up and where many of the most experienced Everest Sherpas still come from, including Kami Rita Sherpa, who holds the record for the most Everest ascents. Its monastery, built against a cliff above the village, is said to be over three centuries old.",
+    "In August 2024 a glacial lake outburst flood swept through Thame, destroying homes, the school and lodges, though no one was killed. Families have been rebuilding since. Visiting now, staying in local lodges and eating in local kitchens, is one of the most direct ways to support them. We then cross to Khumjung and Tengboche, two other centres of Sherpa life, before walking back to Lukla. The pace throughout is slow and unhurried."
+  ],
+  "story": "The Sherpas came from Kham in eastern Tibet about five centuries ago, crossing the Nangpa La into the head of the Bhote Koshi above Thame. Thame was one of their first villages, and the valley route stayed the trade road to Tibet for salt, wool and yaks until the border tightened. The families farmed potatoes and barley, herded yaks up to summer pastures and later carried loads and fixed ropes for foreign expeditions, then led them. In Thame you see that history close up: the gompa where Mani Rimdu is danced each spring, stone houses with prayer flags on every roof and, since 2024, new walls going up beside the flood channel. Khumjung, with Hillary's school and its monastery, and Tengboche, the spiritual heart of the Khumbu, complete the picture.",
+  "highlights": [
+    "Two nights in Thame, home village of famous Everest Sherpas, and its cliffside gompa",
+    "The old trade route towards the Nangpa La and Tibet",
+    "Khumjung monastery and the school founded by Edmund Hillary in 1961",
+    "Tengboche Monastery's afternoon puja",
+    "Namche's Sherpa Culture Museum and Saturday market"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, Boudhanath",
+      "place": "boudhanath",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at the airport and take you to Hyatt Regency Kathmandu, a few minutes' walk from the great stupa of Boudhanath. In the late afternoon your guide walks with you around the stupa as butter lamps are lit. Many Sherpa families from Solukhumbu have settled in Boudha, and several Khumbu monasteries have branches here, so it is the right place to begin a trip about Sherpa life. Briefing and kit check after dinner.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Lukla, walk to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 35 min flight · 3–4 h walk · −250 m",
+      "text": "The early flight lands on Lukla's short uphill runway at 2,860 m. After tea and meeting the porters, we walk down through Chheplung to Phakding beside the Dudh Koshi. Along the way your guide explains what you are passing: mani stones carved with om mani padme hum, chortens holding relics, prayer wheels turned by streams, and why Sherpas always pass them on the left side of the path, keeping them on their right.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phakding to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 6 h walk · +830 m",
+      "text": "Upstream through Benkar and Monjo, where the national park checks permits, to the high Hillary bridge and the long climb to Namche. Namche, Nauche to Sherpas, was a small village of farmers and traders until the trekking era made it the Khumbu's market town. Tonight your guide may be able to introduce you to a family he or she knows, for butter tea and conversation in a Sherpa kitchen. Rest well after the climb.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Namche: museum and market",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 2–4 h short walks",
+      "text": "A morning at the Sherpa Culture Museum, set in a traditional house with its smoke-darkened kitchen, prayer room and household gods, and a gallery of photographs of climbing Sherpas. Then the national park visitor centre on the ridge, for views of Thamserku and Kongde. If it is Saturday, the haat bazaar fills the lower town with Rai and Tamang traders selling rice, vegetables and goods carried up from the lowlands. Afternoon free.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Namche to Thame",
+      "place": "thame",
+      "overnight": "Thame",
+      "alt_m": 3820,
+      "move": "≈ 4 h walk · +380 m",
+      "text": "West out of Namche on the quiet trail up the Bhote Koshi valley, through pine and rhododendron, past long mani walls, chortens and the small villages of Thamo and Samde. Few trekkers come this way. Thame sits in a wide bowl beneath Kongde and Thamserku, with stone houses spread across the slopes. You will see where the 2024 flood came down and how families are rebuilding. We stay in a local lodge.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Thame Gompa and village day",
+      "place": "thame",
+      "overnight": "Thame",
+      "alt_m": 3820,
+      "move": "≈ 3–4 h walks · up to ≈ 3,970 m",
+      "text": "A morning climb of about an hour to Thame Gompa, built against the cliff above the village and said to date back more than three hundred years. Monks perform the Mani Rimdu festival here each spring. After the visit, walk through the village with your guide, past potato fields and yak sheds, and learn which houses belong to which famous climbing families. Afternoon tea in a family home where possible.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Thame to Khumjung",
+      "place": "khumjung",
+      "overnight": "Khumjung",
+      "alt_m": 3780,
+      "move": "≈ 5 h walk · −40 m net",
+      "text": "Back down the Bhote Koshi to Thamo, then across the hillside past Syangboche to Khumjung, the largest village in the Khumbu, spread across a flat valley below the sacred peak Khumbila. Sherpas believe Khumbila is the home of Khumbu Yul Lha, the protector deity of the region, and it has never been climbed. Your lodge is in the village, a short walk from the monastery and the school. Dinner is in a Sherpa lodge kitchen.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Khumjung to Tengboche",
+      "place": "tengboche",
+      "overnight": "Tengboche",
+      "alt_m": 3867,
+      "move": "≈ 4–5 h walk · +87 m net",
+      "text": "In the morning visit Khumjung Gompa, which keeps a relic villagers call the yeti scalp, and the Khumjung School, founded by Edmund Hillary's Himalayan Trust in 1961. Then down to Kyangjuma and the river at Phunki Thenga, and up through the forest to Tengboche. If you arrive by 3 pm, sit quietly at the back of the afternoon puja, with the monks' long horns and cymbals and Everest framed behind the monastery.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Tengboche to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4 h walk · −430 m",
+      "text": "An early visit to the monastery for morning prayers if they are open to visitors, then down through the forest to Phunki Thenga, where water-turned prayer wheels clatter beside the bridge, and back along the level path to Namche. The afternoon is for any final shopping: Sherpa tea, prayer flags, a yak-wool hat or locally printed books on Sherpa history and Buddhism. Dinner with your guide and porters. Namche on Saturday has its market.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Namche to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 7 h walk · −580 m",
+      "text": "The last trekking day: down the zigzag to the Hillary bridge, through Monjo and Phakding and along the river, then up for an hour from Chheplung to Lukla. Your guide reconfirms the morning flight. This is the evening to thank your porters, who often come from Solu villages below and travel home from here. Your guide can suggest what tip is normal for the crew after ten nights. Lukla has hot showers and quiet rooms.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Fly Lukla to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "The morning flight returns you to Kathmandu, or in peak months to Ramechhap, from where we drive you back to the city in about four to five hours. The trip ends on arrival. Lukla flights are often delayed by cloud, so please keep at least one spare night in Kathmandu; we can book it near Boudhanath so you can end where you started, by the stupa. Safe travels home, tashi delek.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hyatt-regency-kathmandu"
+  ],
+  "includes": [
+    "Airport transfers and 1 night at Hyatt Regency Kathmandu, twin sharing with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "Licensed Sherpa or Nepali guide with local knowledge, and one porter for every two trekkers",
+    "9 nights in local teahouses, twin rooms, with three meals a day on trek",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Sherpa Culture Museum entry",
+    "Guide and porter wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking and helicopter evacuation (required)",
+    "Monastery donations (customary, at your discretion)",
+    "Hot showers, charging, Wi-Fi and drinking water on trek",
+    "Drinks, snacks and Kathmandu lunches and dinners",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "Thame was badly damaged by a flood in August 2024; lodges and paths are being rebuilt and conditions change. Check current status before you travel.",
+    "Since April 2023 foreign trekkers in national parks must walk with a licensed guide; enforcement in Khumbu has varied. Check current status before you travel.",
+    "Family visits depend on who is at home; they are a privilege, not a guarantee, and a small gift such as fruit or biscuits is appreciated.",
+    "Thame's Mani Rimdu festival usually falls in May; ask us to time your trip around it.",
+    "Walk clockwise around chortens and mani walls, and ask before photographing people, monks or shrines.",
+    "Even below 4,000 m, mild altitude symptoms are common; tell your guide early."
+  ],
+  "faqs": [
+    {
+      "q": "Why visit Thame?",
+      "a": "Thame is one of the oldest Sherpa villages in the Khumbu, on the trade route to Tibet, and the home village of many renowned Everest Sherpas. It is quieter than the main trail, with an old cliffside monastery and real village life. After the 2024 flood, visitors also bring income that helps families rebuild."
+    },
+    {
+      "q": "Is Thame open to trekkers after the 2024 flood?",
+      "a": "Yes, though rebuilding continues. The August 2024 flood destroyed homes, the school and lodges; no lives were lost. Trails have been repaired and some lodges reopened, with others still under construction. We confirm open lodges before every departure and adapt if needed. Check current status before you travel."
+    },
+    {
+      "q": "How much does the Thame heritage trek cost?",
+      "a": "This 10-night trip starts from USD 1,450 per person, twin sharing, including Lukla flights, a licensed guide and porter, permits, nine teahouse nights with three meals a day, museum entry and a night at Hyatt Regency Kathmandu near Boudhanath. Insurance, visa, monastery donations, drinks and tips are extra."
+    },
+    {
+      "q": "Who are the Sherpas?",
+      "a": "The Sherpas are a Tibetan-speaking Buddhist people who migrated from Kham in eastern Tibet about five centuries ago and settled the Khumbu and Solu valleys. Their name means people from the east. They farm, herd yaks, trade and, since the 1920s, have worked on Himalayan expeditions, where many became renowned climbers."
+    },
+    {
+      "q": "Can we visit a Sherpa home on this trek?",
+      "a": "Often yes. Our guides have friends and relatives across the Khumbu and may arrange butter tea in a family kitchen in Namche, Thame or Khumjung. It depends on who is home and the farming season. Bring a small gift such as fruit or biscuits, remove your shoes, and accept tea with both hands."
+    },
+    {
+      "q": "How hard is this trek?",
+      "a": "It is moderate. Days are 3 to 7 hours, mostly on good trails, and the highest night is Tengboche at about 3,867 m, with a short walk up to Thame Gompa. With two nights in Namche, most healthy adults acclimatise well. It suits walkers who prefer culture and quiet to big altitude goals."
+    },
+    {
+      "q": "What is the Sherpa Culture Museum?",
+      "a": "It is a small private museum on the ridge above Namche, set in a traditional Sherpa house with a kitchen, prayer room and storerooms laid out as a family would use them. A gallery of photographs shows Sherpa climbers and early Everest expeditions. It takes about an hour and is the best introduction to Sherpa life."
+    },
+    {
+      "q": "Is there a festival in Thame?",
+      "a": "Yes. Thame Gompa holds its own Mani Rimdu, with masked dances and blessings, usually in May by the Tibetan calendar. Dumji, a Sherpa festival held in summer, is also celebrated in Khumbu villages. Dates vary each year. Tell us if you want to plan around a festival and we will confirm dates with the monastery."
+    },
+    {
+      "q": "Why does the trek go to Khumjung and Tengboche?",
+      "a": "Khumjung is the largest Sherpa village in the Khumbu, below the sacred mountain Khumbila, with Hillary's school and an important monastery. Tengboche is the region's best-known monastery and its spiritual centre. Together with Thame and Namche, they show the farming, trading, religious and climbing sides of Sherpa life."
+    }
+  ]
+}

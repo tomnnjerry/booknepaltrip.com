@@ -1,0 +1,21 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ f.name }}: when, where and how to see it · Book Nepal Trip{% endblock %}
+{% block description %}{{ f.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %} data-land="{{ f.region }}"{% endblock %}
+{% block content %}
+<header class="phead phead--paper">{% contours f.slug 10 %}<span class="phead__ghost deva" aria-hidden="true">{{ f.name_ne }}</span><div class="wrap phead__grid">
+  <div><p class="eyebrow">{{ f.region_obj.name }} · {{ f.place_obj.name }}</p><h1 class="h-xl">{{ f.name }}</h1>{% if f.name_ne %}<p class="phead__ne">{{ f.name_ne }}</p>{% endif %}<p class="lede">{{ f.summary }}</p>
+  <div class="readouts"><div><span class="mono">{% icon "calendar" %}When</span><b style="font-family:var(--f-text);font-size:1rem">{{ f.when }}</b></div></div>
+  <a class="btn btn--lg btn--sweep" href="{% url 'plan' %}?land={{ f.region }}&journey={{ f.name|urlencode }}&from={{ request.path|urlencode }}" data-cta="fest-plan">Plan a trip around {{ f.name }}</a></div>
+  <div>{% photo f.images|first f.name "photo--43" "(max-width: 1020px) 100vw, 45vw" True %}</div></div></header>
+<div class="dhaka dhaka--land"></div>
+<section class="sec"><div class="wrap split">
+  <div><div class="read prose">{% for para in f.body %}<p{% if forloop.first %} class="drop"{% endif %}>{{ para }}</p>{% endfor %}</div>
+  <h2 class="h-m">Tips</h2><ul class="tips">{% for t in f.tips %}<li>{{ t }}</li>{% endfor %}</ul>
+  <h2 class="h-m" style="margin-top:1.4em">Questions</h2>{% include "yatra/partials/faq.html" with faqs=f.faqs %}</div>
+  <aside class="split__aside"><div class="panel"><h2 class="h-s">Usual months</h2>{% include "yatra/partials/months.html" with bar=bar now=-1 %}<p class="small muted" style="margin-top:10px">Lunar dates move every year: check current status before you travel.</p></div>
+  {% include "yatra/partials/quick_form.html" with land=f.region qf_source="fest" qf_title="Ask about "|add:f.name %}</aside>
+</div></section>
+{% if journeys %}<section class="sec sec--paper2"><div class="wrap"><h2 class="h-m">Trips in {{ f.region_obj.name }}</h2><div class="grid grid--3">{% for j in journeys %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}
+{% block cta %}{% include "yatra/partials/cta.html" with land=f.region %}{% endblock %}

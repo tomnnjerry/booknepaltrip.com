@@ -1,0 +1,347 @@
+{
+  "slug": "meghauli",
+  "name": "Meghauli",
+  "name_ne": "मेघौली",
+  "local_name": "",
+  "region": "chitwan-terai",
+  "kind": "village",
+  "wiki": "Meghauli",
+  "image_query": "Meghauli Chitwan Rapti river grassland",
+  "lat": 27.585,
+  "lng": 84.226,
+  "altitude_m": 165,
+  "tagline": "Chitwan's quiet west, where the Rapti meets the Narayani",
+  "meta_description": "Meghauli, west Chitwan: river confluence sunsets, quieter jeep safaris, grassland birds, Tharu homestays, the birthplace of elephant polo, and lodges.",
+  "summary": "Meghauli is a farming village on Chitwan National Park's western edge, along the Rapti and close to its meeting with the Narayani. It has fewer jeeps than Sauraha, some of the park's best grassland, upmarket lodges and Tharu homestays. Stay two nights, ideally after or instead of Sauraha, October to April.",
+  "intro": [
+    "Meghauli lies on the western side of the Chitwan valley, about 35 km from Bharatpur, where the East Rapti runs along the park boundary toward its meeting with the Narayani. The village touches more than 25 km of the park border and the floodplain grassland beyond the river is some of the richest wildlife country in Nepal. The village spreads across rice fields, with the park's forest on the far side of the river.",
+    "It feels very different from Sauraha. There is no tourist main street; instead you find rice fields, Tharu farmhouses, a small airstrip and a few lodges spread out along the river. Jeeps and canoes leave from the lodges themselves, and on many mornings you will not see another vehicle for an hour. Evenings are dark and quiet, and you hear the jungle across the river rather than traffic.",
+    "We suggest Meghauli for travellers who have done Sauraha before, for couples, and for anyone who wants a slower safari with good food and quiet nights. It is also the best base for wild gharials on the Narayani and for grassland birds such as the Bengal florican. Two nights is the right length; three if you want to rest between drives. Book early for February to April, when rooms are scarce."
+  ],
+  "story": {
+    "title": "Elephant polo, hunting camps and a farm village",
+    "paras": [
+      "Long before tourism, Meghauli was Tharu farm country on the edge of a forest used by Nepal's rulers for winter hunts. The grassland across the Rapti, still among the best rhino and tiger habitat in the park, was part of those hunting grounds. Once malaria was cleared in the 1950s and 1960s, hill families settled in and the village grew around paddy and mustard. Rhinos and tigers still use the same grassland today.",
+      "Meghauli became known worldwide for something unexpected: elephant polo. The game was first played on the meadows here, and the World Elephant Polo Association championships were held at Meghauli for many years. Teams from Europe and Asia arrived each winter to play a slow, careful match with long cane mallets, each player sitting behind a mahout who steered. It is one of the stranger chapters in Chitwan's long history with elephants and hunting.",
+      "Today Meghauli is part of Bharatpur Metropolitan City, yet it keeps its village shape. Tharu families run homestays, community forest groups manage the buffer zone, and a handful of lodges along the river employ local guides, drivers and cooks. Wildlife and farms sit side by side, sometimes uneasily, when rhinos raid the rice at night. Farmers build fences and keep watch from raised huts at night to protect their fields."
+    ]
+  },
+  "legend": "",
+  "people": "Meghauli is home to Chitwan Tharu families, who farm rice, maize and mustard and keep buffaloes and goats, alongside Brahmin, Chhetri, Magar and Gurung families who settled from the hills. Bote and Musahar families have long fished on the Narayani. Many young people work as nature guides, drivers and lodge staff. Tharu and Nepali are the everyday languages.",
+  "untold": [
+    {
+      "fact": "Elephant polo was first played at Meghauli, and the village became the home of the World Elephant Polo Championships, played under rules set by the World Elephant Polo Association.",
+      "source": "Wikipedia: Elephant polo"
+    },
+    {
+      "fact": "Meghauli was a separate Village Development Committee until 2014; after mergers it became part of Bharatpur Metropolitan City in 2016, covering wards 27 and 28.",
+      "source": "Wikipedia: Meghauli"
+    },
+    {
+      "fact": "The village touches more than 25 km of Chitwan National Park's boundary along the Rapti and Narayani rivers, so the buffer zone here is some of the busiest for wildlife crossings.",
+      "source": "Wikipedia: Meghauli"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "phanit",
+      "script": "फनित",
+      "lang": "Nepali",
+      "meaning": "Elephant driver; the person who sits on the neck and steers"
+    },
+    {
+      "word": "dovan",
+      "script": "दोभान",
+      "lang": "Nepali",
+      "meaning": "River confluence, where two rivers meet"
+    },
+    {
+      "word": "khar",
+      "script": "खर",
+      "lang": "Nepali",
+      "meaning": "Thatch grass cut from the park each winter for roofs"
+    }
+  ],
+  "taste": {
+    "name": "Narayani river fish curry",
+    "text": "Families in Meghauli cook small river fish from the Narayani and Rapti in a mustard-oil curry with turmeric, chilli and tomato, eaten with rice. Bote and Tharu homes cook it best. Ask your homestay or lodge kitchen to prepare it with local fish when the catch is in."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "2"
+    ],
+    [
+      "Nearest airport",
+      "Bharatpur (BHR), ≈ 35 km · 1 h"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 175 km · 5–6 h by road"
+    ],
+    [
+      "Altitude",
+      "≈ 165 m"
+    ],
+    [
+      "Known for",
+      "Quiet safaris, grassland, river confluence"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "2",
+  "highlights": [
+    {
+      "title": "Fewer jeeps, better grassland",
+      "text": "The floodplain across the Rapti from Meghauli is wide grassland with scattered lakes, prime habitat for rhinos, hog deer, gaur and tigers. Drives from Meghauli lodges often have the tracks almost to themselves. Book a private jeep for the best experience."
+    },
+    {
+      "title": "Sunset at the confluence",
+      "text": "Near Meghauli the Rapti flows into the broad Narayani. Sunset from the bank, with the river turning gold and the Mahabharat hills behind, is one of the finest evenings in Chitwan. Bring a jacket in winter."
+    },
+    {
+      "title": "Wild gharials on the Narayani",
+      "text": "The deep, clean Narayani is the main river for wild gharials in Chitwan. Boat trips and riverbank walks from Meghauli give the best chance to see one basking on a sandbank. Bring binoculars."
+    },
+    {
+      "title": "Tharu homestays",
+      "text": "Tharu families in Meghauli open their homes to visitors, with meals cooked on clay stoves, walks through the fields and evening dances. A night here balances a lodge stay with village life. Book a night in advance."
+    },
+    {
+      "title": "Grassland birds",
+      "text": "Meghauli's grasslands hold rare birds such as the Bengal florican and lesser florican, plus storks, hornbills and many raptors. Spring is best, when male floricans display above the grass. Go early with a specialist guide."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "From Bharatpur it is about 35 km and 1 hour to Meghauli; from Sauraha about 45 km and 1.5 hours. From Kathmandu allow 5 to 6 hours via Mugling and Narayangadh. Most lodges arrange pick-ups from Bharatpur airport or bus park."
+    },
+    {
+      "mode": "Air",
+      "text": "Scheduled flights land at Bharatpur (BHR), about 20 to 25 minutes from Kathmandu. Meghauli has its own small airstrip, used mainly for charter flights; check current status before you travel."
+    }
+  ],
+  "where_to_stay": "Meghauli has a small number of lodges strung along the Rapti, each with its own safari team. Meghauli Serai, A Taj Safari, offers high-end rooms and villas facing the river and park. Barahi Jungle Lodge is a comfortable riverside lodge with its own naturalists and safari team. Tharu families run homestays in the village for a simpler, cheaper stay with home cooking. There are no shops or cafes for travellers, so most guests take full board.",
+  "stays": [
+    "meghauli-serai",
+    "barahi-jungle-lodge"
+  ],
+  "tips": [
+    "Book Meghauli lodges early for February and March, the peak wildlife months, as there are few rooms.",
+    "Bring cash for tips and small purchases; there are few ATMs in the village.",
+    "Ask your lodge for a boat or riverbank walk on the Narayani if you want to see wild gharials.",
+    "Expect simple roads; the last stretch to some lodges is a dirt track.",
+    "Combine two nights in Sauraha with two in Meghauli for the best of both sides of the park."
+  ],
+  "themes": [
+    "wildlife-and-jungle",
+    "honeymoons",
+    "villages-and-homestays",
+    "lakes-and-rivers",
+    "photography"
+  ],
+  "nearby": [
+    "amaltari",
+    "barauli",
+    "kasara",
+    "sauraha"
+  ],
+  "experiences": [
+    {
+      "slug": "meghauli-confluence-sunset",
+      "title": "Sunset where the Rapti meets the Narayani",
+      "kind": "water",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Oct–Apr",
+      "image_query": "Narayani river sunset Chitwan",
+      "wiki": "Gandaki River",
+      "summary": "Drive or walk to the riverbank near Meghauli where the Rapti joins the wide Narayani, watch birds and crocodiles on the sandbanks, and stay as the sun sets over the water and the far hills.",
+      "body": [
+        "The Narayani is the Gandaki under another name: the same river that starts in Mustang as the Kali Gandaki, picks up the Trishuli at Devghat and runs south through the Terai to the Ganges. By Meghauli it is wide and slow, with long sandbanks, and the Rapti flows into it from the east along the park boundary. Below the confluence the river flows on toward India.",
+        "Lodges take guests to the riverbank in the late afternoon. As the heat drops, cormorants and egrets fly up and down the channel, river lapwings call from the bars, and mugger crocodiles lie motionless on the sand. Wild gharials are seen here more than anywhere near Sauraha, though never on schedule. Bote families sometimes fish from small boats nearby.",
+        "As the sun goes down behind the Narayani, the sky turns orange and the far bank goes dark. Some lodges set up a simple drink and snacks on the sand. Bring a jacket in winter, insect repellent from March, and keep away from the water's edge. Most trips last about two hours."
+      ],
+      "good_for": [
+        "couples",
+        "photographers",
+        "seniors",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "Where do the Rapti and Narayani rivers meet?",
+          "a": "The East Rapti flows west along the northern edge of Chitwan National Park and joins the Narayani on the park's western side, near Meghauli. Lodges in Meghauli arrange visits to the riverbank near the confluence, especially in the late afternoon for sunset and birds."
+        },
+        {
+          "q": "Is the Narayani the same as the Kali Gandaki?",
+          "a": "Yes. The Kali Gandaki rises in Mustang, joins the Trishuli at Devghat near Narayangadh, and from there is called the Narayani. It forms the western edge of Chitwan National Park and flows on into India, where it joins the Ganges."
+        },
+        {
+          "q": "Can I see gharials at the Narayani confluence?",
+          "a": "There is a fair chance. The Narayani is the main river for wild gharials in Chitwan, and they bask on sandbanks in the dry season. Numbers are small, so bring binoculars, go with a guide who knows the current basking sites, and stay quiet."
+        }
+      ]
+    },
+    {
+      "slug": "meghauli-west-chitwan-jeep-safari",
+      "title": "Jeep safari in west Chitwan's grassland",
+      "kind": "wildlife",
+      "duration": "4 hours or full day",
+      "best_time": "Dawn and late afternoon, Feb–Apr",
+      "image_query": "Indian rhinoceros Chitwan grassland",
+      "wiki": "Indian rhinoceros",
+      "summary": "Cross the Rapti from Meghauli into the park's western floodplain, a mix of tall grass, riverine forest and small lakes that is excellent for rhino and good for tiger, with far fewer vehicles than the Sauraha side.",
+      "body": [
+        "Meghauli's lodges run their own jeeps with experienced naturalists. After crossing the Rapti you are straight into the floodplain grassland, with views over cut grass in February and March and channels lined with kapok and rosewood. Rhinos are seen on almost every dry-season drive. Drives leave at dawn, when animals are most active, and return before the midday heat.",
+        "This western sector is well known for tigers, which move along the river corridors and grassland edges. Sightings are never guaranteed, but early starts and patient waiting at water points improve the odds. Leopards, sloth bears and jungle cats are seen on some drives, along with hog deer and spotted deer. Patience at water points pays off.",
+        "A full-day drive allows time at watchtowers and lakes, a packed lunch in the forest and a slow return in the afternoon light. Dust can be heavy in April, so bring a scarf and protect camera gear. Your lodge arranges the park permit and guides. Full days are long, so bring snacks and a hat."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "first-timers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Is tiger spotting better in Meghauli than in Sauraha?",
+          "a": "The western floodplain around Meghauli has good tiger habitat and fewer vehicles, which helps. Many of our guests have their best sightings from this side. Still, tigers are shy everywhere in Chitwan and no lodge can promise one. Time is the main factor: two full days give better odds than one."
+        },
+        {
+          "q": "What animals will I see in west Chitwan?",
+          "a": "Expect rhinos, spotted deer, hog deer, wild boar, langur and macaque monkeys, mugger crocodiles and many birds. With luck you may see gaur, sloth bear, leopard or tiger. In winter, migrant waterbirds and raptors add variety along the rivers and lakes."
+        },
+        {
+          "q": "Are the jeep safaris included at Meghauli lodges?",
+          "a": "At most Meghauli lodges, safari activities are sold as part of a full-board package that includes jeep drives, guides and other activities, with park entry fees sometimes added separately. Check what your package includes before you book, especially private versus shared jeeps."
+        }
+      ]
+    },
+    {
+      "slug": "meghauli-tharu-homestay-evening",
+      "title": "Evening with a Tharu family in Meghauli",
+      "kind": "heritage",
+      "duration": "3 hours, or overnight",
+      "best_time": "Evening, Oct–Apr",
+      "image_query": "Tharu house mud walls Chitwan village",
+      "wiki": "Tharu people",
+      "summary": "Spend an evening in a Tharu home in Meghauli: help in the kitchen, eat a meal cooked on a clay stove, hear how families lived before the park, and watch local dances in the village.",
+      "body": [
+        "Meghauli has a small number of Tharu homestays, and an evening visit is a good way to meet the families who have lived beside this forest for generations. Your host shows you the house, often built of mud and reed with a central courtyard, a grain store and a shed for buffaloes and goats. Houses are simple and clean.",
+        "Dinner is usually rice, lentils, seasonal vegetables, pickle and a curry of chicken, fish or snails. You can help roll dhikri dough or grind spices. Over the meal, older family members may talk about life before the park, the move from the forest, the arrival of hill settlers and the rhinos that still visit the fields. Ask about Maghi, the Tharu new year in January.",
+        "Some evenings the village dance group performs the stick dance or women's dances in the courtyard. Stay overnight for a dawn walk through the fields and breakfast with the family. Bring a small gift such as fruit or school supplies rather than sweets, and ask before taking photos. Rooms are basic, so bring a torch and insect repellent."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "solo",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is a Tharu homestay like?",
+          "a": "Simple and warm. Rooms are basic, with clean beds and shared or attached bathrooms depending on the house. Meals are home-cooked and eaten with the family. The value lies in the conversation and daily life, not the comfort. Some homestays have Western toilets and hot showers; ask before booking."
+        },
+        {
+          "q": "Do Tharu families in Meghauli speak English?",
+          "a": "Some younger family members speak English, and many have worked in tourism. Older people speak Tharu and Nepali. Your guide or a younger family member will translate. A few words of Nepali, such as namaste and dhanyabad, are always welcome."
+        },
+        {
+          "q": "What should I bring to a Tharu homestay?",
+          "a": "Bring a torch, insect repellent, light layers, sandals for the house and your own toiletries. A small gift such as fruit, tea or school supplies is appreciated. Dress modestly, remove shoes before entering the house and kitchen, and ask before photographing people or the family shrine."
+        }
+      ]
+    },
+    {
+      "slug": "meghauli-grassland-florican-birding",
+      "title": "Grassland birding for the Bengal florican",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "Early morning, Mar–May",
+      "image_query": "Bengal florican Chitwan grassland",
+      "wiki": "Bengal florican",
+      "summary": "Go out at dawn with a bird guide to scan the open grasslands near Meghauli for the critically endangered Bengal florican, whose males leap above the grass in spring, plus storks, hornbills and raptors. It needs patience.",
+      "body": [
+        "The Bengal florican is a large, shy bustard that lives in the tall floodplain grasslands of the Terai. It is critically endangered, and Chitwan's grasslands are one of its last strongholds in Nepal. For most of the year it is almost impossible to see, but in spring the males perform display flights, rising above the grass and dropping back down. The park's yearly grassland cutting and burning helps keep its habitat open.",
+        "Mornings start early, often from a jeep parked at the edge of a grassland or from a watchtower. Your guide scans for the black-and-white males while other birds come into view: woolly-necked and black storks, grey-headed fish-eagles, great hornbills in nearby forest and many smaller grassland birds such as prinias and babblers. Bring a flask of tea for the cold starts.",
+        "Even without a florican, a grassland morning in Meghauli is rewarding. Rhinos often graze in the same open areas, and the light in the first hour is excellent for photography. Bring a long lens, binoculars and patience, and keep to the guide's instructions about where to walk. Sessions last three to four hours and end before the heat."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "When is the best time to see the Bengal florican in Chitwan?",
+          "a": "Spring, from about March to May, when males display by jumping and flying above the grass to attract females. At other times of year the birds are quiet and hidden in tall grass. Early mornings are best. Sightings are never guaranteed, as the population is very small."
+        },
+        {
+          "q": "Is the Bengal florican endangered?",
+          "a": "Yes. The Bengal florican is listed as critically endangered. It depends on lowland grasslands that have largely been converted to farmland across South Asia. Protected grasslands in Chitwan and a few other parks in Nepal and India hold most of the remaining birds."
+        },
+        {
+          "q": "Do I need a specialist bird guide in Meghauli?",
+          "a": "For rare species like the florican, yes. Ask your lodge for its best birding naturalist, or book a specialist guide in advance. They know the current territories, the calls and how to approach without disturbing birds. All walking inside the park requires licensed guides."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Meghauli in Chitwan?",
+      "a": "Meghauli is on the western side of the Chitwan valley, about 35 km from Bharatpur, along the East Rapti river near its confluence with the Narayani. It is now part of Bharatpur Metropolitan City. The village borders more than 25 km of Chitwan National Park and is a quieter base than Sauraha."
+    },
+    {
+      "q": "Is Meghauli worth it if I have already stayed in Sauraha?",
+      "a": "Yes. Meghauli offers a different side of the park: wider grasslands, fewer jeeps, the Narayani with its gharials, and a farm-village setting with no tourist strip. Many travellers find the wildlife viewing calmer and more rewarding here. Two nights in each place gives a fuller picture of Chitwan."
+    },
+    {
+      "q": "How do I get from Sauraha to Meghauli?",
+      "a": "By road it is about 45 km and 1.5 hours via Bharatpur. Most lodges in Meghauli send a car to collect guests from Sauraha, Bharatpur airport or the bus park. There is no direct public bus to the lodges, so a private transfer is easiest."
+    },
+    {
+      "q": "Which lodges are in Meghauli?",
+      "a": "Meghauli has a few lodges spread along the river, including Meghauli Serai, A Taj Safari, and Barahi Jungle Lodge. Tharu families also run homestays in the village. There are fewer rooms than in Sauraha, so book early for February to April."
+    },
+    {
+      "q": "What is the best time to visit Meghauli?",
+      "a": "October to April. February to April is best for wildlife after the grass is cut, and spring is the season for florican displays. November to February is cooler and good for migrant birds. From mid-June to September the monsoon limits safaris and some lodges close."
+    },
+    {
+      "q": "Is elephant polo still played in Meghauli?",
+      "a": "Meghauli is the birthplace of elephant polo and hosted the World Elephant Polo Championships for many years. The tournament has not been held regularly in recent years and its future is uncertain, partly because of changing views on elephant welfare. Check current status before you travel if you hope to see it."
+    },
+    {
+      "q": "Is Meghauli good for a honeymoon?",
+      "a": "Yes. Its lodges are among the most comfortable in Chitwan, with river views, good food and private safaris, and the evenings are quiet. Sunset at the confluence and dawn drives in the grassland make a fine few days, often paired with Pokhara."
+    },
+    {
+      "q": "Can I see gharials in Meghauli?",
+      "a": "Meghauli is one of the better places in Chitwan to see wild gharials, because it lies close to the Narayani, the main river where they live. Ask your lodge for a boat trip or riverbank walk. Numbers are small, so bring binoculars and be patient."
+    },
+    {
+      "q": "Is there a Meghauli airport?",
+      "a": "Meghauli has a small airstrip that has been used for scheduled flights in the past and is now mainly used for charters. Most visitors fly into Bharatpur, about an hour's drive away. Check current status before you travel if you hope to fly directly to Meghauli."
+    }
+  ]
+}

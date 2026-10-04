@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "kathmandu-to-pokhara",
+    "from": "kathmandu",
+    "to": "pokhara",
+    "distance_km": 200,
+    "summary": "Kathmandu to Pokhara is about 200 km on the Prithvi Highway: 6–8 hours by private car or tourist bus, or about 25 minutes by air to Pokhara International Airport. The road follows the Trishuli and Marsyangdi rivers, with easy detours to Manakamana, Bandipur and Gorkha.",
+    "options": [
+      {"mode": "Flight", "time": "≈ 25 min", "text": "Several domestic airlines fly Kathmandu to Pokhara International Airport (PHH) daily. It is the fastest and, in the monsoon, the most reliable option. Sit on the right side heading west for mountain views on clear mornings. Allow time for Kathmandu's domestic terminal and possible weather delays; morning flights are usually most punctual. Baggage limits are lower than on international flights."},
+      {"mode": "Private car or jeep", "time": "6–7 h", "text": "A private car with driver lets you leave when you like and stop where you want: river views near Malekhu, the Manakamana cable car at Kurintar, lunch in Mugling, or a detour to Bandipur or Gorkha. The road is busy and often under repair, especially around Naubise and Mugling, so traffic can add hours. Best for families and anyone combining the drive with sightseeing."},
+      {"mode": "Tourist bus", "time": "7–8 h", "text": "Tourist buses leave Kathmandu around 7 am from the Kantipath and Sorhakhutte area near Thamel and arrive at Pokhara's Tourist Bus Park, a short taxi ride from Lakeside. They stop for breakfast and lunch at roadside restaurants. Seats are reserved and luggage goes on the roof or in the hold. Comfortable enough and inexpensive; book a day ahead."}
+    ],
+    "stops_on_way": ["Malekhu (river fish lunches)", "Kurintar and the Manakamana cable car", "Mugling (Trishuli–Marsyangdi confluence)", "Bandipur, 8 km above Dumre", "Gorkha, 24 km above Abu Khaireni"],
+    "tip": "Leave Kathmandu by 7 am to beat the traffic leaving the valley at Nagdhunga.",
+    "faqs": [
+      {"q": "How long does it take to drive from Kathmandu to Pokhara?", "a": "Allow 6–8 hours for the roughly 200 km drive on the Prithvi Highway by private car or tourist bus. Traffic leaving Kathmandu, road works and landslides in the monsoon can add hours. Leaving early, around 7 am, helps. With stops at Manakamana or Bandipur, the trip becomes a full day or an overnight journey."},
+      {"q": "Is it better to fly or drive from Kathmandu to Pokhara?", "a": "Fly if time is short, if travelling in the monsoon when landslides are common, or if you dislike long road journeys: the flight takes about 25 minutes. Drive if you want to see the countryside and stop at Bandipur, Gorkha or the Manakamana cable car, or if you are on a budget. Many travellers drive one way and fly the other."},
+      {"q": "How much is a tourist bus from Kathmandu to Pokhara?", "a": "Tourist buses are the cheapest comfortable option, with standard and deluxe classes at different prices, all far below the cost of a flight or private car. Fares change with fuel prices, so check current rates with your hotel or a ticket office in Thamel. Book a day ahead in October, November and around Dashain."},
+      {"q": "Which airport do Pokhara flights use?", "a": "Domestic flights from Kathmandu use Pokhara International Airport (PHH), which opened on 1 January 2023 about 3 km east of the old airport. The old airport is still used for some short-runway flights, such as Jomsom. The new airport is about 15–20 minutes by taxi from Lakeside. Check your ticket for the correct airport."}
+    ]
+  },
+  {
+    "slug": "pokhara-to-ghandruk",
+    "from": "pokhara",
+    "to": "ghandruk",
+    "distance_km": 55,
+    "summary": "Pokhara to Ghandruk is about 55 km: drive the Baglung road to Nayapul, then a rough road up the Modi Khola to Kimche or Ghandruk, about 3 hours by jeep. Many travellers drive to Kimche and walk the last 1.5 hours, or walk the whole way from Nayapul in 4–6 hours.",
+    "options": [
+      {"mode": "Private jeep", "time": "≈ 3 h", "text": "A private jeep from Lakeside follows the paved Pokhara–Baglung road to Nayapul, about 42 km and 1.5 hours, then turns up the Modi Khola valley on a narrow, rough road to Kimche or into Ghandruk. It is the most comfortable option, and drivers know the road conditions. In the monsoon, landslides can close the upper road."},
+      {"mode": "Local bus and jeep", "time": "4–5 h", "text": "Buses for Baglung leave Pokhara's Baglung bus park regularly and stop at Nayapul in about 1.5–2 hours. From Nayapul, shared jeeps run towards Kimche and Ghandruk when full, which can mean waiting. It is cheap but slow, with crowded vehicles and luggage on the roof. Good for budget travellers with time."},
+      {"mode": "On foot from Nayapul", "time": "4–6 h", "text": "The classic walk leaves Nayapul, crosses to Birethanti for the ACAP checkpoint, follows the Modi Khola to Syauli Bazaar and climbs steeply on stone steps to Ghandruk, about 900 m of ascent. Part of the trail now shares the road. It is a good first trekking day; you need an ACAP permit, TIMS card and a licensed guide."}
+    ],
+    "stops_on_way": ["Naudanda and Kande ridge views", "Nayapul bazaar", "Birethanti ACAP checkpoint", "Syauli Bazaar", "Kimche"],
+    "tip": "Start before 8 am so you reach Ghandruk by lunchtime, with the mountains still clear.",
+    "faqs": [
+      {"q": "How far is Ghandruk from Pokhara?", "a": "Ghandruk is about 55 km from Pokhara by road: around 42 km on the Pokhara–Baglung road to Nayapul, then a rough road up the Modi Khola valley. In a straight line it is about 32 km northwest of Pokhara. The drive takes about 3 hours by jeep; on foot from Nayapul it is 4–6 hours."},
+      {"q": "Can you drive all the way to Ghandruk?", "a": "Yes, a jeep road now reaches Ghandruk via Kimche, though it is rough, narrow and sometimes blocked by mud or landslides, especially from June to September. Many travellers drive to Kimche and walk the last 1.5 hours up stone steps, which is a pleasant arrival. Ask your agency about current road conditions."},
+      {"q": "Do I need a permit to go from Pokhara to Ghandruk?", "a": "Yes. Ghandruk is inside the Annapurna Conservation Area, so you need an ACAP permit and a TIMS card, checked at Birethanti or other posts, and since April 2023 foreign trekkers must walk with a licensed guide. Permits are issued in Pokhara and Kathmandu. Check current status before you travel."},
+      {"q": "Is there public transport from Pokhara to Ghandruk?", "a": "Partly. Baglung-bound buses from Pokhara stop at Nayapul, and shared jeeps run from Nayapul towards Kimche and Ghandruk, leaving when full. Services are irregular and crowded, and may stop in bad weather. A private jeep from Pokhara is much easier and can be shared between a small group."}
+    ]
+  },
+  {
+    "slug": "pokhara-to-bandipur",
+    "from": "pokhara",
+    "to": "bandipur",
+    "distance_km": 80,
+    "summary": "Pokhara to Bandipur is about 80 km: drive east on the Prithvi Highway to Dumre, then 8 km up a paved hill road, about 2.5–3 hours by car. Tourist buses to Kathmandu can drop you at Dumre, where local jeeps and buses climb to Bandipur.",
+    "options": [
+      {"mode": "Private car", "time": "2.5–3 h", "text": "A private car from Pokhara follows the Prithvi Highway east through Damauli to Dumre, then climbs 8 km of switchbacks to the parking area at the edge of Bandipur's bazaar. The drive is easy and scenic, with river valleys and terraced hills. It allows a stop at Begnas Lake on the way out of Pokhara and arrival in time for sunset."},
+      {"mode": "Tourist bus and local jeep", "time": "3–4 h", "text": "Take a Kathmandu-bound tourist bus from Pokhara's Tourist Bus Park and ask to be dropped at Dumre, about 2–2.5 hours. From Dumre, local buses and shared jeeps go up to Bandipur in about 30 minutes. It is inexpensive and simple, though you may wait in Dumre for a vehicle to fill."},
+      {"mode": "Walk up from Dumre", "time": "≈ 2 h", "text": "From Dumre, an old stone trail climbs to Bandipur through forest and villages, the route traders used before the road. It takes about 2 hours uphill and is a good way to arrive if you travel light. Leave heavy bags with a jeep or arrange for your inn to send them up."}
+    ],
+    "stops_on_way": ["Begnas Lake turning near Talchowk", "Damauli on the Seti and Madi rivers", "Dumre bazaar"],
+    "tip": "Arrive in Bandipur by late afternoon to walk the bazaar at sunset, its best hour.",
+    "faqs": [
+      {"q": "How far is Bandipur from Pokhara?", "a": "Bandipur is about 80 km east of Pokhara by road: around 72 km on the Prithvi Highway to Dumre, then 8 km up a paved hill road. The drive takes 2.5–3 hours by private car. By tourist bus to Dumre and a local jeep up, allow 3–4 hours including waiting."},
+      {"q": "Can I take a bus from Pokhara to Bandipur?", "a": "There is no regular direct tourist bus to Bandipur, but any Kathmandu-bound bus from Pokhara can drop you at Dumre on the highway. From Dumre, local buses and shared jeeps climb to Bandipur in about 30 minutes. Tell the conductor your stop when boarding and keep your bag with you."},
+      {"q": "Is Bandipur worth a stop between Pokhara and Kathmandu?", "a": "Yes. Bandipur is barely off the highway, and a night there breaks the long drive with a car-free Newar bazaar, Himalayan views at sunrise and quiet evenings. It works equally well between Pokhara and Chitwan. A few hours' stop is possible, but staying overnight is far more rewarding."},
+      {"q": "Is the road to Bandipur safe?", "a": "The 8 km road from Dumre to Bandipur is paved but narrow and winding, with steep drops in places; experienced local drivers handle it daily. The Prithvi Highway section is busy with trucks and buses. In the monsoon, landslides can affect both. Travel in daylight and use a reliable driver."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-gorkha",
+    "from": "kathmandu",
+    "to": "gorkha",
+    "distance_km": 140,
+    "summary": "Kathmandu to Gorkha is about 140 km: the Prithvi Highway to Abu Khaireni, then 24 km up a paved road to Gorkha bazaar, about 5 hours by private car. Local buses run from Kathmandu's Gongabu bus park. The Manakamana cable car fits neatly on the way.",
+    "options": [
+      {"mode": "Private car", "time": "≈ 5 h", "text": "A private car follows the Prithvi Highway west from Kathmandu along the Trishuli River through Malekhu, Kurintar and Mugling, then turns off at Abu Khaireni for the 24 km climb to Gorkha. It allows a stop at the Manakamana cable car and arrival in time to climb to the palace for sunset. Expect delays leaving Kathmandu and around Mugling."},
+      {"mode": "Local bus", "time": "5–6 h", "text": "Direct buses to Gorkha leave from Kathmandu's Gongabu (New Bus Park) through the morning. They are inexpensive, crowded and slow, with frequent stops, but deliver you to Gorkha bazaar without changes. Keep luggage small and valuables with you. Book a seat a day ahead around Dashain, when demand peaks."},
+      {"mode": "Tourist bus and local transport", "time": "5–6 h", "text": "Take a Pokhara-bound tourist bus from Kathmandu and get off at Abu Khaireni, about 4 hours, then catch a local bus or jeep up to Gorkha, about 45 minutes. It combines tourist-bus comfort for most of the journey with a short local ride. Tell the conductor your stop when boarding."}
+    ],
+    "stops_on_way": ["Naubise and the Trishuli valley", "Malekhu (river fish lunches)", "Kurintar and the Manakamana cable car", "Mugling", "Abu Khaireni junction"],
+    "tip": "Ride the Manakamana cable car on a weekday morning on the way, then reach Gorkha for an afternoon at the palace.",
+    "faqs": [
+      {"q": "How far is Gorkha from Kathmandu?", "a": "Gorkha bazaar is about 140 km west of Kathmandu: about 115 km on the Prithvi Highway to Abu Khaireni, then 24 km up a paved road. By private car it takes about 5 hours, by local bus 5–6 hours. Traffic leaving Kathmandu and road works around Mugling can add time."},
+      {"q": "Can I visit Manakamana on the way to Gorkha?", "a": "Yes. The Manakamana cable car station is at Kurintar on the Prithvi Highway, on the way from Kathmandu to Abu Khaireni. The cable car ride takes about 10 minutes each way, and a temple visit adds 1–2 hours, more on Saturdays and festival days. It makes a good mid-journey break before continuing to Gorkha."},
+      {"q": "Is there a direct bus from Kathmandu to Gorkha?", "a": "Yes. Local buses run directly from Kathmandu's Gongabu (New Bus Park) to Gorkha bazaar, mostly in the morning, taking 5–6 hours. They are cheap but crowded. Alternatively take a Pokhara tourist bus to Abu Khaireni and a local bus or jeep up to Gorkha, about 45 minutes."},
+      {"q": "Can I go from Gorkha to Pokhara or Bandipur?", "a": "Yes. From Gorkha, drive back down to Abu Khaireni and continue west on the Prithvi Highway: Bandipur is about 2 hours away via Dumre, and Pokhara about 3.5–4 hours. Many travellers do Kathmandu, Gorkha, Bandipur and Pokhara over three or four days instead of the direct drive."}
+    ]
+  }
+]

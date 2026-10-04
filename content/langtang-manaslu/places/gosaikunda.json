@@ -1,0 +1,346 @@
+{
+  "slug": "gosaikunda",
+  "name": "Gosaikunda",
+  "name_ne": "गोसाइँकुण्ड",
+  "local_name": "Silu (Nepal Bhasa)",
+  "region": "langtang-manaslu",
+  "kind": "lake",
+  "wiki": "Gosaikunda",
+  "image_query": "Gosaikunda lake Langtang",
+  "lat": 28.083,
+  "lng": 85.415,
+  "altitude_m": 4380,
+  "tagline": "The sacred lake Shiva made with his trident, at 4,380 m",
+  "meta_description": "Gosaikunda lake at 4,380 m: the Shiva legend, Janai Purnima pilgrimage, the trek from Dhunche, Lauribina La to Helambu, permits and best season.",
+  "summary": "Gosaikunda is a sacred alpine lake at 4,380 m in Langtang National Park, two to three days' walk from Dhunche. Hindus believe Shiva created it with his trident, and thousands of pilgrims come at Janai Purnima in August. It is part of a Ramsar-listed group of lakes and links to Helambu over Lauribina La.",
+  "intro": [
+    "Gosaikunda lies in a bowl of bare rock at about 4,380 m, south of the Langtang Valley in Rasuwa district. The lake covers about 13.8 hectares and is the largest of a cluster of glacial lakes, including Saraswati Kunda and Bhairab Kunda, strung along the trail. Together they form a wetland complex of about 1,030 hectares listed under the Ramsar Convention since 2007. In winter the lake freezes and snow often closes the route.",
+    "For Hindus Gosaikunda is one of the holiest lakes in Nepal, tied to the story of Shiva drinking poison at the churning of the ocean. A small Shiva shrine stands on the shore, and on the full moon of Shrawan, Janai Purnima, thousands of pilgrims and shamans walk up from Dhunche to bathe. Buddhists also hold the lakes sacred. The rest of the year, trekkers come for the stark scenery and the views from Laurebina of Manaslu, Ganesh Himal and the Annapurnas.",
+    "The usual approach is from Dhunche, about 2,030 m, climbing over two or three days through forest to Laurebina and the lake. From Gosaikunda the trail crosses Lauribina La at 4,610 m into Helambu, or links with the Langtang Valley via Thulo Syabru. Road access to Dhunche passes through the Trishuli valley, hit by the flood of 26 August 2026; check current status before you travel."
+  ],
+  "story": {
+    "title": "A pilgrim lake on the roof of Rasuwa",
+    "paras": [
+      "People have walked to Gosaikunda for centuries. The lake is mentioned in Hindu tradition as the place where Shiva rested after drinking the poison of the churning of the ocean, and Nepali kings and ordinary families alike made the climb. Before roads reached Dhunche, pilgrims walked for a week or more from Kathmandu, sleeping in rest houses and caves. The trail through Sing Gompa and Laurebina is still lined with stone shelters and shrines. Many families still make the climb as a vow, walking for a sick relative or giving thanks, and some older pilgrims are carried part of the way. The trail is as much a part of the pilgrimage as the lake itself.",
+      "Gosaikunda has always had two faces. On one hand it is a Hindu tirtha, a crossing place where bathing washes away sin. On the other it lies in the heart of Tamang and Hyolmo country, and the shamans of these communities, dhami and jhankri, come to the lake at Janai Purnima to renew their healing power. Buddhists circle the lake too. The festival night, with drums, bells, fires and chanting, brings these traditions together on one shore. Outside the festival, the lake is silent: wind, ice cracking in spring, the bells at the shrine. Many trekkers find this quiet face of Gosaikunda as moving as the crowded night of the full moon.",
+      "In 1976 the lakes became part of Langtang National Park, and in 2007 the Gosaikunda lake complex was listed as a Ramsar wetland of international importance. Trekking lodges have grown at Laurebina and by the lake, and the route became popular as an add-on to the Langtang trek or a crossing to Helambu. The Newars of Kathmandu know the lake as Silu, the subject of a well-known song about a difficult pilgrimage there. For Newar families in the valley, Silu still stands for a long, hard journey made for the sake of faith, and grandparents tell stories of walking there in their youth."
+    ]
+  },
+  "legend": "In Hindu tradition, when gods and demons churned the ocean for the nectar of immortality, a deadly poison rose first. Shiva drank it to save the world, holding it in his throat, which turned blue. Burning with pain, he came to the Himalaya and struck the mountainside with his trishul, his trident, and cold water burst out of the rock to form Gosaikunda. Pilgrims believe the lake is linked underground to the Kumbheshwar pond in Patan.",
+  "people": "Gosaikunda has no permanent village. Lodges at the lake, Laurebina and Sing Gompa are run by Tamang families from Dhunche and nearby villages, who open them for the trekking and pilgrimage seasons. Herders bring yaks and cattle to pastures below the lakes in summer. At Janai Purnima, Hindu pilgrims from across Nepal and Tamang and Hyolmo shamans share the shore.",
+  "untold": [
+    {
+      "fact": "The Gosaikunda lake complex, about 1,030 hectares, was designated a Ramsar wetland of international importance on 29 September 2007, and the lake itself covers 13.8 hectares.",
+      "source": "Wikipedia: Gosaikunda"
+    },
+    {
+      "fact": "Among the Newar people Gosaikunda is known as Silu, and it inspired the Newar song Silu, about a pilgrimage to the lake, which later inspired a film of the same name.",
+      "source": "Wikipedia: Gosaikunda"
+    },
+    {
+      "fact": "Gosaikunda is linked in belief with the pond at Kumbheshwar temple in Patan; at Janai Purnima people who cannot make the climb bathe at Kumbheshwar instead.",
+      "source": "Wikipedia: Gosaikunda"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "kunda",
+      "script": "कुण्ड",
+      "lang": "Nepali",
+      "meaning": "Sacred pond or lake"
+    },
+    {
+      "word": "trishul",
+      "script": "त्रिशूल",
+      "lang": "Nepali",
+      "meaning": "Trident, Shiva's weapon"
+    },
+    {
+      "word": "jhankri",
+      "script": "झाँक्री",
+      "lang": "Nepali",
+      "meaning": "Shaman and healer who dances at Gosaikunda during Janai Purnima"
+    }
+  ],
+  "taste": {
+    "name": "Garlic soup and Tibetan bread",
+    "text": "Lodges at Laurebina and Gosaikunda serve garlic soup, believed on the trail to help with altitude, with fried Tibetan bread and honey. It is not a cure for altitude sickness, but it is hot, salty and very welcome after the climb. Order early; kitchens are small."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Apr – May, Oct – Nov"
+    ],
+    [
+      "Days we suggest",
+      "4–6 from Dhunche; 1 night at the lake"
+    ],
+    [
+      "Nearest airport",
+      "Kathmandu (KTM)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 117 km to Dhunche + 2–3 days on foot"
+    ],
+    [
+      "Altitude",
+      "4,380 m"
+    ],
+    [
+      "Known for",
+      "Shiva's lake, Janai Purnima, Lauribina La"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1,
+    2,
+    2,
+    0
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "The sacred lake",
+      "text": "Gosaikunda's dark water under bare ridges, with the Shiva shrine on the shore and bells and tridents left by pilgrims. Walk the shore path quietly, keep the shrine on your right and do not swim or wash in the lake."
+    },
+    {
+      "title": "Janai Purnima",
+      "text": "On the full moon of Shrawan, usually in August, thousands of pilgrims and Tamang shamans gather to bathe at dawn after a night of drumming and dancing. It is crowded, wet and unlike anything else in the Himalaya."
+    },
+    {
+      "title": "Laurebina viewpoint",
+      "text": "At about 3,900 m, Laurebina looks west over Ganesh Himal, Manaslu and, on clear days, the Annapurnas. Sunset here is one of the best mountain views on any short trek from Kathmandu. Bring a warm jacket for the wait."
+    },
+    {
+      "title": "The chain of lakes",
+      "text": "Saraswati Kunda, Bhairab Kunda and the smaller lakes below Gosaikunda form a chain along the trail, each with its own name and story. The whole complex is a Ramsar-listed wetland. Walk their shores slowly and quietly, and leave no litter."
+    },
+    {
+      "title": "Lauribina La crossing",
+      "text": "From Gosaikunda the trail climbs to Lauribina La at 4,610 m and drops into Helambu toward Ghopte and Tharepati. It is a long, high day and needs a clear forecast and a guide. Start at first light to reach the far side in daylight."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Drive about 117 km from Kathmandu to Dhunche, normally 6 to 8 hours, on the road through Trishuli and Betrawati that was damaged by the 26 August 2026 flood. Check current status before you travel."
+    },
+    {
+      "mode": "On foot",
+      "text": "From Dhunche, 2 to 3 days via Deurali, Sing Gompa (Chandanbari) and Laurebina, climbing about 2,350 m. From the Langtang Valley, link via Thulo Syabru and Sing Gompa. From Helambu, cross Lauribina La from Ghopte."
+    },
+    {
+      "mode": "Air",
+      "text": "Charter helicopters fly to Gosaikunda in good weather, mainly for pilgrims and rescue. Arriving at 4,380 m by air without acclimatisation is risky."
+    }
+  ],
+  "where_to_stay": "A few family-run lodges stand on the shore at Gosaikunda, with basic rooms, shared toilets and a stove in the dining room; they fill completely at Janai Purnima. Laurebina, about 500 m lower, has more lodges and better sunsets, and is the better place to sleep on the way up. Sing Gompa (Chandanbari) at about 3,330 m has several lodges in forest. Bring a sleeping bag rated to minus 10 °C or lower.",
+  "stays": [],
+  "tips": [
+    "Sleep at Laurebina before going to the lake; Dhunche to Gosaikunda is too big a jump in two days for many people.",
+    "Do not bathe in or wash at the lake except as a pilgrim at the festival; it is a sacred site and a protected wetland.",
+    "Carry water purification: lodges near the lake rely on stored water in dry months.",
+    "Snow can close Lauribina La from December to March; check current status before you travel.",
+    "Leave early for the pass; afternoon cloud and wind are common above 4,000 m."
+  ],
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "treks-and-trails",
+    "high-altitude",
+    "lakes-and-rivers",
+    "food-and-festivals"
+  ],
+  "nearby": [
+    "helambu",
+    "kyanjin-gompa",
+    "syabrubesi",
+    "langtang-village"
+  ],
+  "experiences": [
+    {
+      "slug": "gosaikunda-janai-purnima-pilgrimage",
+      "title": "Walk with the pilgrims at Janai Purnima",
+      "kind": "spiritual",
+      "duration": "5–6 days from Dhunche",
+      "best_time": "Shrawan full moon, usually August",
+      "image_query": "Gosaikunda Janai Purnima pilgrims bathing",
+      "wiki": "",
+      "summary": "Join the Hindu and shamanic pilgrimage to Gosaikunda on the full moon of Shrawan: a monsoon trek from Dhunche, a night of drums and dancing by the lake, and a dawn bath for the faithful.",
+      "body": [
+        "Janai Purnima is the day Brahmin and Chhetri men change their sacred thread and everyone ties a protective cord on the wrist. At Gosaikunda it becomes a mass pilgrimage. Families, sadhus and shamans walk up from Dhunche over two or three days in monsoon rain, carrying offerings and food, and the trail is busy with people of every age. The walk is social: pilgrims share food, sing bhajans and help each other on the steep sections. Many have done it for years and will tell you why they come.",
+        "On the night before the full moon the shore fills with tents, fires and pilgrims. Tamang and other shamans, dhami and jhankri, dance in white skirts and feather headdresses, beating drums. At dawn pilgrims step into the icy water to bathe, then pray at the Shiva shrine. For a visitor it is a rare chance to see Himalayan Hinduism and shamanism together. Stay back from the water's edge during the bathing, give the shamans space and keep your camera low. Some pilgrims also make offerings at the shore in memory of family members who have died.",
+        "It is a hard trip: rain, mud, leeches, crowds and full lodges. We plan it with tents or pre-booked lodge space, an extra acclimatisation day, and an experienced guide. Road access to Dhunche runs through areas hit by the August 2026 flood; check current status before you travel. Bring rain gear, a warm sleeping bag, headlamp, water purification and spare dry clothes in waterproof bags. Expect to share rooms or sleep in a tent. The walk down after the festival is busy and slippery, so take your time."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Can non-Hindus join the Gosaikunda pilgrimage?",
+          "a": "Yes. The trail is open to all, and foreign visitors walk alongside pilgrims every year. You need the Langtang National Park permit and, under the rule in force since April 2023, a licensed guide; check current status before you travel. Watch the bathing respectfully; it is a religious act, and the best spots belong to worshippers."
+        },
+        {
+          "q": "How crowded is Gosaikunda at Janai Purnima?",
+          "a": "Very. Thousands of pilgrims reach the lake for the full moon, lodges fill completely and many people sleep in tents or shelters. The trail from Dhunche is busy for several days before and after. Book lodge space early or travel with a camping crew, and expect queues at kitchens and toilets."
+        },
+        {
+          "q": "What should I pack for a monsoon Gosaikunda trek?",
+          "a": "A good rain jacket and trousers, a pack cover, quick-dry clothes, a warm down jacket and a sleeping bag rated to minus 5 °C or lower, leech socks or salt for the forest section, and waterproof bags for electronics. Trail shoes with good grip matter more than heavy boots on wet stone."
+        }
+      ]
+    },
+    {
+      "slug": "gosaikunda-laurebina-sunset",
+      "title": "Sunset over Manaslu from Laurebina",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Late afternoon, Oct–Nov and Apr–May",
+      "image_query": "Laurebina Ganesh Himal sunset view",
+      "wiki": "",
+      "summary": "Laurebina, at about 3,900 m below Gosaikunda, looks west across Ganesh Himal, Manaslu and on clear days the Annapurnas. Watch the light leave the peaks from the ridge behind the lodges. A good acclimatisation stop as well.",
+      "body": [
+        "Laurebina is a small group of lodges on an open ridge below the lake, and most trekkers sleep here on the way up. The view to the west is one of the broadest on any trek near Kathmandu: Ganesh Himal close by, Manaslu beyond it, and in very clear weather the Annapurna range far in the distance. Langtang Lirung shows to the north. Laurebina has long been a resting point for pilgrims too, and at Janai Purnima its lodges and terraces fill with families on their way to the lake.",
+        "In the late afternoon, climb the short slope behind the lodges to a rise with prayer flags and a small shrine. As the sun sets, the snow peaks turn gold and then pink while the valleys below fill with shadow. It gets cold fast, so bring a down jacket, hat and gloves. The best light comes in the last 30 minutes before sunset, so be in position early. Photographers should bring a telephoto lens for close shots of Manaslu and Ganesh Himal. Keep spare batteries warm inside your jacket.",
+        "Sleeping at Laurebina also helps with acclimatisation before Gosaikunda, which is about 500 m higher. Next morning, start early for the lake and you will often have the view again in clear dawn light. Dinner at the lodge is usually dal bhat, noodles or potatoes, with garlic soup a favourite on the trail. Drink plenty of water, avoid alcohol and get to bed early. The lake is about 2 to 3 hours further on, and an early start gives you the best weather."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Which mountains can be seen from Laurebina?",
+          "a": "On clear days you see Ganesh Himal to the west, Manaslu beyond it, Langtang Lirung to the north and, at a distance, the Annapurna range. Visibility is best from October to December and in clear spells in spring. Cloud usually hides the peaks in the monsoon months."
+        },
+        {
+          "q": "How high is Laurebina?",
+          "a": "About 3,900 m. It lies on the route from Dhunche and Sing Gompa to Gosaikunda, roughly 500 m below the lake. Spending a night here is the best way to acclimatise before Gosaikunda at 4,380 m, and it is where most of the trail's lodges are."
+        },
+        {
+          "q": "Is it cold at Laurebina at night?",
+          "a": "Yes. In October and November, nights are typically around minus 5 to minus 10 °C, and colder in winter. Lodges have quilts and a stove in the dining room only. Bring a sleeping bag rated to minus 10 °C, a down jacket, warm hat and gloves."
+        }
+      ]
+    },
+    {
+      "slug": "gosaikunda-lauribina-la-crossing",
+      "title": "Cross Lauribina La into Helambu",
+      "kind": "trek",
+      "duration": "8–9 hours",
+      "best_time": "Oct–Nov, Apr–May",
+      "image_query": "Lauribina La pass Gosaikunda",
+      "wiki": "",
+      "summary": "From Gosaikunda, climb past the upper lakes to Lauribina La at 4,610 m and descend a long rocky trail to Phedi and Ghopte, entering the Helambu side of the park. A demanding, beautiful day linking two trek regions.",
+      "body": [
+        "The trail leaves Gosaikunda along the shore and climbs gently past smaller lakes to Lauribina La at 4,610 m, marked with prayer flags and cairns. On a clear morning you look back over the lake chain and forward into the folded ridges of Helambu, with the Jugal Himal to the east. The climb from the lake to the pass is gentle compared with the descent, around 230 m over 1.5 to 2 hours. Take it slowly and keep warm. The smaller lakes on the way include Surya Kunda.",
+        "The descent is long and rough: rocky steps down to Phedi, where there are basic lodges, then a traverse with ups and downs through rhododendron forest to Ghopte. The trail is exposed in places and slippery when wet or icy. From Ghopte it is a day to Tharepati and the Hyolmo villages of Helambu. Expect sections of loose rock and steep steps on the way down. Use walking poles, watch your footing and keep the group together. Basic lodges at Phedi serve lunch and are a welcome break.",
+        "We only cross with a clear forecast and a guide who knows the route; cloud on the pass makes navigation hard, and people have been lost here. In winter snow can close the pass. Check current status before you travel. Carry extra water, snacks and warm layers, and tell your lodge at Gosaikunda your plans before you leave. If the weather turns, there is no shame in waiting a day at the lake. The pass will still be there tomorrow."
+      ],
+      "good_for": [
+        "trekkers",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How difficult is Lauribina La?",
+          "a": "It is a strenuous day of 8 to 9 hours, with a climb to 4,610 m and a long, steep, rocky descent of more than 1,000 m. There is no technical climbing, but the altitude, length and exposed sections make it demanding. Do it only when acclimatised, with a guide, in clear weather."
+        },
+        {
+          "q": "Can Lauribina La be crossed in winter?",
+          "a": "Snow often covers the pass and the descent from December to March, and lodges at Phedi and Ghopte may be closed. Crossing in those months needs experience, proper gear and current local information, and is often not possible. Check current status before you travel."
+        },
+        {
+          "q": "Where does the Lauribina La trail lead?",
+          "a": "It leads from Gosaikunda into Helambu, through Phedi and Ghopte to Tharepati, then down through Hyolmo villages such as Melamchi Ghyang and Tarkeghyang, or south over the Shivapuri ridge to Chisapani and Sundarijal. This makes it possible to walk from Langtang back toward Kathmandu."
+        }
+      ]
+    },
+    {
+      "slug": "gosaikunda-lakes-circuit",
+      "title": "Walk the chain of sacred lakes",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Oct–Nov and Apr–May",
+      "image_query": "Saraswati Kunda Bhairab Kunda Gosaikunda",
+      "wiki": "Bhairabkunda",
+      "summary": "A gentle half-day walk around Gosaikunda and the smaller lakes of the Ramsar-listed complex, Saraswati Kunda and Bhairab Kunda among them, with shrines, cairns and wide views over Langtang. An easy rest-day walk.",
+      "body": [
+        "The Gosaikunda complex includes many lakes; tradition speaks of 108 in the area. The best known lie along the trail: Saraswati Kunda below Gosaikunda, Bhairab Kunda with its rocky shore, and Gosaikunda itself, the largest. Each is linked to a deity, and pilgrims make offerings at each. Your guide can tell you the stories linked to each lake and point out where pilgrims bathe at the festival. Walk slowly; at 4,380 m even easy paths are tiring.",
+        "On a rest morning at the lake, walk the shore path around Gosaikunda, past the Shiva shrine, tridents and bells left by pilgrims, then climb a little to look down on the chain of lakes. In autumn the water is deep blue under bright skies; in spring there can still be ice on the surface. Look for the bells, tridents and coins pilgrims leave at the Shiva shrine, and the prayer flags strung by Buddhist visitors. Photography of the shrine from outside is generally fine; ask before photographing people at prayer.",
+        "Bird life includes snowcocks and choughs, and the wetland supports alpine plants that flower briefly in summer. Stay on paths, carry out all rubbish and do not wash or swim in the lakes. The lakes are a protected wetland as well as sacred waters, important for birds and alpine plants. Respect both: no washing, no soap, no litter, and no stones moved from cairns or shrines. Take your rubbish back down to Dhunche, where it can be disposed of properly."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "How many lakes are there at Gosaikunda?",
+          "a": "Tradition and sources speak of 108 lakes in the area, large and small. The ones most trekkers see are Saraswati Kunda, Bhairab Kunda and Gosaikunda itself, with Surya Kunda higher on the way to Lauribina La. The lake complex as a whole is listed as a Ramsar wetland of about 1,030 hectares."
+        },
+        {
+          "q": "Can I swim in Gosaikunda?",
+          "a": "No. Gosaikunda is a sacred lake and a protected wetland, and swimming or washing in it is not appropriate. Pilgrims bathe ritually at the festival, which is different. The water is also very cold, close to freezing for much of the year, and frozen in winter."
+        },
+        {
+          "q": "When is Gosaikunda frozen?",
+          "a": "The lake freezes over in winter, typically from around December into spring, and can hold ice into April or later at the edges. Snow also covers the trail in these months. Autumn, October and November, is the best time to see open blue water and clear skies."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How high is Gosaikunda lake?",
+      "a": "Gosaikunda lies at about 4,380 m in Langtang National Park, Rasuwa district. Lauribina La, the pass beyond it into Helambu, is about 4,610 m. Altitude sickness is a real risk because many people climb quickly from Dhunche at 2,030 m. Sleep at Laurebina, around 3,900 m, before going to the lake."
+    },
+    {
+      "q": "How do I get to Gosaikunda from Kathmandu?",
+      "a": "Drive about 117 km to Dhunche, normally 6 to 8 hours, then walk 2 to 3 days via Sing Gompa and Laurebina. The road runs through the Trishuli valley, damaged by the 26 August 2026 flood, so check current status before you travel. You can also reach the lake from Langtang or Helambu."
+    },
+    {
+      "q": "Why is Gosaikunda sacred?",
+      "a": "Hindus believe Shiva created the lake by striking the mountain with his trident to get cold water after drinking the poison of the churning of the ocean. It is a major pilgrimage site, especially at Janai Purnima in August. Buddhists and the shamans of the Tamang and other hill peoples also hold it sacred."
+    },
+    {
+      "q": "When is the best time to trek to Gosaikunda?",
+      "a": "October and November give the clearest weather and open water, and April and May are good too, with rhododendrons in the forest below. August brings Janai Purnima but also monsoon rain and leeches. December to March the lake freezes and snow often blocks the trail and the pass."
+    },
+    {
+      "q": "How many days is the Gosaikunda trek?",
+      "a": "From Kathmandu, a simple out-and-back via Dhunche takes 5 to 6 days. Linking with the Langtang Valley makes 10 to 12 days, and crossing Lauribina La into Helambu and walking back to Sundarijal takes 8 to 10 days. Add a spare day for weather and road delays, especially after the 2026 flood."
+    },
+    {
+      "q": "Do I need a permit for Gosaikunda?",
+      "a": "Yes. Gosaikunda is inside Langtang National Park, so foreigners need the park entry permit. Since April 2023 foreign trekkers in national parks are required to go with a licensed guide. Fees and rules change, and there may be extra controls in the post-flood period; check current status before you travel."
+    },
+    {
+      "q": "Is Gosaikunda harder than the Langtang Valley trek?",
+      "a": "Usually yes. The climb from Dhunche to the lake gains about 2,350 m in two to three days, steeper than the Langtang Valley, and the lake is higher than Kyanjin Gompa. Crossing Lauribina La adds a long, high day. Fit walkers manage it well with acclimatisation and a sensible pace."
+    },
+    {
+      "q": "Are there lodges at Gosaikunda?",
+      "a": "Yes, a handful of basic family-run lodges stand on the shore, and more at Laurebina below. Rooms are simple, with shared toilets and a stove in the dining room only. At Janai Purnima everything fills; book ahead or carry tents. Some lodges close in deep winter."
+    },
+    {
+      "q": "Was Gosaikunda affected by the 2026 flood?",
+      "a": "The flood of 26 August 2026 came down the Bhote Koshi and Trishuli rivers, far below the lake. Reports in September 2026 described the Dhunche approach as sitting higher above the river, but the road from Kathmandu runs through flood-damaged areas. Check current status before you travel."
+    }
+  ]
+}

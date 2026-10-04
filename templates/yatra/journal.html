@@ -1,0 +1,7 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{% if category %}{{ category.name }} · {% endif %}Stories from Nepal · Book Nepal Trip{% endblock %}
+{% block description %}Stories from Nepal that most travel sites never tell: calendars, festivals, foods, trails, peoples and the facts behind them.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Stories</p><h1 class="h-xl">{% if category %}{{ category.name }}{% else %}Nepal, told slowly{% endif %}</h1><p class="lede">Long reads on the things that make Nepal itself: why its year is 2083, how a trail becomes a road, what is cooked for which festival, and who keeps the temples standing.</p><div class="chips" style="margin-top:18px"><a class="chip" href="{% url 'journal' %}"{% if not category %} aria-pressed="true"{% endif %}>Every story</a>{% for c in cats %}<a class="chip" href="{% url 'journal_cat' c.slug %}"{% if category.slug == c.slug %} aria-pressed="true"{% endif %}>{{ c.name }}</a>{% endfor %}</div></div></header>
+<section class="wrap" style="padding:20px 0 90px">{% if posts %}<div class="grid grid--3">{% for d in posts %}{% include "yatra/partials/card_post.html" %}{% endfor %}</div>{% else %}<p class="empty">Stories are on their way.</p>{% endif %}</section>
+{% endblock %}

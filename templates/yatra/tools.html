@@ -1,0 +1,11 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal trip tools: seasons, altitude, budget and permits · Book Nepal Trip{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Trip tools</p><h1 class="h-xl">Small tools for big decisions</h1><p class="lede">Free, no sign-up, and they work on a phone.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px"><div class="grid grid--2">
+  <a class="card" href="{% url 'tool_season' %}" style="padding:24px;gap:10px"><span class="badge">{% icon "calendar" %}</span><h3>Season finder</h3><p>Choose a month and see which places are at their best, with the Nepali months alongside.</p></a>
+  <a class="card" href="{% url 'tool_altitude' %}" style="padding:24px;gap:10px"><span class="badge">{% icon "oxygen" %}</span><h3>Altitude and air</h3><p>Type a height and see the oxygen in each breath, where water boils and which places on our trips sit there.</p></a>
+  <a class="card" href="{% url 'tool_budget' %}" style="padding:24px;gap:10px"><span class="badge">{% icon "compass" %}</span><h3>Budget builder</h3><p>A planning range in US dollars by trip type, nights and comfort level.</p></a>
+  <a class="card" href="{% url 'tool_permits' %}" style="padding:24px;gap:10px"><span class="badge">{% icon "shield" %}</span><h3>Permits</h3><p>Which permits each region needs, in plain words, with what only an agency can apply for.</p></a>
+</div></section>
+{% endblock %}

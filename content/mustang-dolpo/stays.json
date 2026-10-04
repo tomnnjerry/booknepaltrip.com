@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "shinta-mani-mustang",
+    "name": "Shinta Mani Mustang",
+    "place": "jomsom",
+    "kind": "resort",
+    "wiki": "Shinta Mani Mustang",
+    "image_query": "Shinta Mani Mustang Jomsom resort",
+    "summary": "The first high-end resort in Mustang, opened in Jomsom in August 2023 with 29 suites. Designed by Nepali architect Prabal Thapa with interiors by Bill Bensley, it draws on the stone, timber and colours of Mustang, and is the comfortable base for Muktinath, Kagbeni and the Kali Gandaki villages.",
+    "body": [
+      "Shinta Mani Mustang sits in Jomsom, the district town of Mustang, at about 2,700 m, with views across the Kali Gandaki towards Nilgiri. It opened in August 2023 as part of the Shinta Mani Hotels collection and was developed by Sherpa Hospitality Group. The architecture is by the Nepali architect Prabal Thapa and the interiors by Bill Bensley, and the design borrows from the region's stone walls, timber, textiles and the ochre and red of Mustang's gompas.",
+      "There are 29 suites, which keeps the place calm even in the busy months of October and May. For our guests it works as a base for several nights: day trips by jeep to Muktinath, Kagbeni and Marpha, walks to Thini and Dhumba Lake, and a soft landing after the flight from Pokhara or before heading north into Upper Mustang. It is the only hotel of this standard anywhere in the Kali Gandaki valley, so book well ahead for spring and autumn."
+    ],
+    "why": [
+      "The most comfortable place to sleep in Mustang, with 29 suites only",
+      "Design by Prabal Thapa and Bill Bensley rooted in Mustang's own materials",
+      "A good base for day trips to Muktinath, Kagbeni, Marpha and Lubra"
+    ],
+    "best_for": ["couples", "honeymooners", "seniors", "families"],
+    "website": "",
+    "faqs": [
+      {"q": "When did Shinta Mani Mustang open?", "a": "Shinta Mani Mustang opened in Jomsom in August 2023. It is part of the Shinta Mani Hotels collection and was developed by Sherpa Hospitality Group, with architecture by Prabal Thapa and interiors by Bill Bensley. It has 29 suites and is the first property of its kind in Mustang district."},
+      {"q": "How do I get to Shinta Mani Mustang?", "a": "Fly from Pokhara to Jomsom, about 20 minutes on an early-morning flight, and the hotel is a short drive from the airport. By road, Pokhara to Jomsom is about 160 km and 7–9 hours by jeep via Beni. Flights are often delayed by wind or cloud, so keep a spare day in your plan."},
+      {"q": "Is Shinta Mani Mustang a good base for Muktinath?", "a": "Yes. Muktinath is about 22 km from Jomsom, 1–1.5 hours by jeep, so you can visit the temple and return the same day. Sleeping lower in Jomsom, at about 2,700 m, is also kinder for acclimatisation than spending your first night at Muktinath's 3,700 m. Kagbeni and Marpha are each about 20–30 minutes away."}
+    ]
+  },
+  {
+    "slug": "oms-home-jomsom",
+    "name": "Om's Home",
+    "place": "jomsom",
+    "kind": "mountain lodge",
+    "wiki": "",
+    "image_query": "Hotel Om's Home Jomsom",
+    "summary": "A long-running, family-feel hotel in the centre of Jomsom, a two- or three-minute walk from the airport. Om's Home is built around a traditional building and serves Thakali and international food, making it a practical, warm base for early flights, Muktinath day trips and treks into Upper Mustang.",
+    "body": [
+      "Om's Home stands in the centre of Jomsom on the west bank, a short walk from the airport terminal, which matters on a route where flights leave early and are often rescheduled at short notice. The main part of the hotel is a traditional building, with added wings of rooms around it. Rooms are simple and warm, with thick bedding for cold Mustang nights, and the restaurant serves Thakali dal-bhat alongside international dishes.",
+      "We use Om's Home for travellers who want something comfortable and central without the cost of a resort. It suits a night before or after the Pokhara flight, a base for jeep trips to Muktinath and Kagbeni, or the first and last nights of an Upper Mustang trek. The staff are used to trekkers and pilgrims, and can help with luggage storage, jeep bookings and early breakfasts for the first flight out."
+    ],
+    "why": [
+      "Two or three minutes' walk from Jomsom airport for early flights",
+      "Thakali home cooking and warm, simple rooms",
+      "Good value base for Muktinath and Upper Mustang"
+    ],
+    "best_for": ["trekkers", "families", "first-timers", "solo"],
+    "website": "",
+    "faqs": [
+      {"q": "How far is Om's Home from Jomsom airport?", "a": "Om's Home is about two or three minutes' walk from Jomsom airport, in the centre of town. That makes it convenient for the early-morning flights to and from Pokhara, and for days when flights are delayed and you need to wait close by. Luggage can be carried over by hotel staff or porters."},
+      {"q": "Does Om's Home have heating?", "a": "Rooms are set up for cold Mustang nights with thick bedding, and the hotel advertises heating, though standards are simpler than in a city hotel. In winter, from December to February, nights in Jomsom fall well below freezing, so bring warm sleepwear. Ask at booking what heating is offered in your room type."},
+      {"q": "Is Om's Home good for Muktinath pilgrims?", "a": "Yes. Many pilgrims stay at Om's Home before and after visiting Muktinath, about 1–1.5 hours away by jeep. The hotel can help arrange jeeps and early breakfasts. Sleeping in Jomsom at about 2,700 m, rather than going straight to Muktinath at 3,710 m, helps your body adjust to the altitude."}
+    ]
+  },
+  {
+    "slug": "red-house-lodge-kagbeni",
+    "name": "Red House Lodge",
+    "place": "kagbeni",
+    "kind": "heritage hotel",
+    "wiki": "",
+    "image_query": "Red House Lodge Kagbeni",
+    "summary": "A lodge in an old Kagbeni building, restored with care and painted the deep red that gave it its name, set inside the mud-walled village beside the Kali Gandaki. Simple rooms, a warm dining room and the old village at the door make it our favourite place to sleep in Kagbeni.",
+    "body": [
+      "Red House Lodge has been hosting travellers in Kagbeni for decades. It occupies a traditional village building, joined to neighbouring structures with little modern intervention, and the oldest part is said to be about 300 years old, with an old shrine room that is still part of the house. The lodge takes its name from its colour, painted red long ago and still red today. Rooms have attached bathrooms and are simple but comfortable.",
+      "What you are paying for here is the setting. Step out of the door and you are in Kagbeni's tunnel lanes, a few minutes from Kag Chode gompa and the confluence of the Kali Gandaki and the stream from Muktinath. The kitchen serves local food, and the dining room is warm in the evening. We book it for a night before Muktinath or before entering Upper Mustang, which begins at the checkpost just north of the village."
+    ],
+    "why": [
+      "A restored old building inside Kagbeni's medieval village",
+      "Minutes from Kag Chode gompa and the river confluence",
+      "Ideal first night before Muktinath or Upper Mustang"
+    ],
+    "best_for": ["couples", "photographers", "trekkers", "solo"],
+    "website": "",
+    "faqs": [
+      {"q": "Why is it called the Red House Lodge?", "a": "The lodge takes its name from its colour: the old Kagbeni building was painted red, and the name stuck. The building is a traditional village structure, parts of which are said to be around 300 years old, restored to keep its character while adding attached bathrooms and a warm dining room for guests."},
+      {"q": "Is Red House Lodge in Upper Mustang?", "a": "No. Kagbeni sits just south of the Upper Mustang restricted area, so you can stay at Red House Lodge with only the usual ACAP permit and TIMS card. The checkpost for Upper Mustang is at the northern edge of the village. Many travellers stay here the night before entering the restricted area."},
+      {"q": "How do I get to Red House Lodge in Kagbeni?", "a": "Fly from Pokhara to Jomsom, then drive about 30 minutes north to Kagbeni, or walk 2.5–3 hours along the Kali Gandaki. The lodge is inside the old village, so vehicles stop at the edge and you walk the last few minutes through the lanes. Porters or lodge staff can help with luggage."}
+    ]
+  }
+]

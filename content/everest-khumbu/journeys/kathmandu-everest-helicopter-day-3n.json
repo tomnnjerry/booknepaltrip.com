@@ -1,0 +1,158 @@
+{
+  "slug": "kathmandu-everest-helicopter-day-3n",
+  "title": "Kathmandu and Everest Helicopter Day",
+  "region": "everest-khumbu",
+  "kind": "tour",
+  "nights": 3,
+  "themes": [
+    "photography",
+    "heritage-and-temples",
+    "honeymoons"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1850,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 5545,
+  "meta_description": "Kathmandu and Everest helicopter day in 3 nights: a morning flight to Kala Patthar and Hotel Everest View, plus Patan and Boudhanath. From USD 1,850.",
+  "summary": "See Everest without trekking. Three nights at Dwarika's Hotel in Kathmandu with a shared helicopter morning to the Khumbu: a short landing near Kala Patthar facing Everest, breakfast at Hotel Everest View, and back by midday. A spare day covers weather, and if it is not needed, we show you Patan and Boudhanath.",
+  "intro": [
+    "Not everyone has two weeks and strong knees, and some travellers simply want to see the mountain once with their own eyes. The helicopter day does that. You leave Kathmandu at first light, refuel at Lukla, fly up the Dudh Koshi past Namche and Tengboche and land for a few minutes near Kala Patthar, about 5,545 m, with Everest, Lhotse and Nuptse in front of you and the Khumbu Glacier below.",
+    "Because landing that high without acclimatisation is hard on the body, the stop is short, ten minutes or so, before dropping to Hotel Everest View at 3,880 m for breakfast on the terrace. You are back in Kathmandu by late morning. The rest of the trip is the city: Dwarika's courtyards, the old royal city of Patan and the great stupa at Boudhanath, where many Sherpa families now live. It is an easy, short trip."
+  ],
+  "story": "Kathmandu at dawn is grey and quiet as the helicopter lifts off. Within minutes you are over terraced hills, then the Sun Koshi and Dudh Koshi rivers, with the Himalaya rising white along the northern horizon. At Lukla the pilot refuels on the sloping runway where trekkers start their walk. Then up the valley: the bridges, the horseshoe of Namche, the monastery on its saddle at Tengboche, the stone fields of Dingboche, and the Khumbu Glacier, grey and broken. You step out into thin, cold air near Kala Patthar with Everest close and huge. At Hotel Everest View, eggs and coffee on a terrace that looks straight across the valley at the summit. By lunchtime you are back among the brick temples and traffic of Kathmandu, a little dazed.",
+  "highlights": [
+    "Helicopter flight up the Dudh Koshi and Khumbu valleys",
+    "A short landing near Kala Patthar, about 5,545 m, facing Everest",
+    "Breakfast on the terrace of Hotel Everest View, 3,880 m",
+    "Three nights at Dwarika's Hotel, built around rescued Newar woodcarvings",
+    "Guided Patan and Boudhanath if the spare day is not needed"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, Dwarika's",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 20 min transfer",
+      "text": "We meet you at the airport and drive you to Dwarika's Hotel in Battisputali, whose brick courtyards are built around carved windows, doors and pillars rescued from old Kathmandu houses that were being demolished. In the evening our team briefs you on the helicopter day: the early pick-up time, warm clothes to wear, the weight limits and what happens if the weather is poor. Have an early dinner and a good night's sleep.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Everest helicopter morning",
+      "place": "everest-base-camp",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 4–5 h round trip by helicopter",
+      "text": "Pick-up at about 5.30 am for the domestic terminal. The helicopter flies east to Lukla, about 50 minutes, to refuel, then up the Dudh Koshi past Namche and Tengboche to land briefly near Kala Patthar or Gorak Shep, about 5,545 m, with Everest, Lhotse and Nuptse in front of you. Walk slowly and breathe deeply. After about ten minutes you fly down to Hotel Everest View for breakfast on the terrace, then return to Kathmandu by late morning.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Patan and Boudhanath, or spare day",
+      "place": "patan",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 5–6 h guided city day",
+      "text": "This day protects the helicopter flight in case cloud or wind stops it on day two. If you have already flown, we spend it in the city. In Patan, a guide walks you through the Durbar Square, the Golden Temple and the Patan Museum in the old palace. In the late afternoon we drive to Boudhanath and walk the circuit around the great stupa as butter lamps are lit, among the Sherpa and Tibetan families who live there.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 20 min transfer",
+      "text": "Breakfast at Dwarika's and transfer to Tribhuvan International Airport about three hours before your international flight. If you can stay longer, we suggest a night in Bhaktapur or Dhulikhel to see the valley's other side, or a few days in Pokhara or Chitwan. Many guests who take the helicopter day come back a year or two later to walk the trail they flew over; we are happy to plan that trip too.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "dwarikas-hotel-kathmandu",
+    "hotel-everest-view"
+  ],
+  "includes": [
+    "Airport transfers and 3 nights at Dwarika's Hotel, twin sharing with breakfast",
+    "Shared helicopter seat Kathmandu–Lukla–Kala Patthar area–Hotel Everest View–Kathmandu",
+    "Breakfast at Hotel Everest View",
+    "Sagarmatha National Park entry fee and local landing permits",
+    "Guided day in Patan and Boudhanath with private car and entrance fees (if the spare day is free)"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance (required)",
+    "Private helicopter charter (available at extra cost)",
+    "Lunches and dinners in Kathmandu except the first dinner",
+    "Drinks, spa treatments and tips"
+  ],
+  "good_to_know": [
+    "Helicopters fly only in clear weather; mornings in October–December are most reliable, and the spare day exists for delays.",
+    "Landing at about 5,500 m without acclimatisation can cause dizziness or breathlessness; the stop is kept short. If you have heart or lung conditions, ask your doctor first.",
+    "Shared seats depend on group size and helicopter weight limits; total passenger weight is limited at altitude.",
+    "Landing spots near Kala Patthar or Gorak Shep depend on conditions and the pilot's decision on the day.",
+    "Fees for the national park and landing are set locally and change; check current status before you travel.",
+    "Wear warm layers, gloves and a hat; it can be −10 °C at the landing even on a sunny morning."
+  ],
+  "faqs": [
+    {
+      "q": "How much does an Everest helicopter tour cost?",
+      "a": "This 3-night trip starts from USD 1,850 per person, twin sharing, including a shared helicopter seat with landings near Kala Patthar and at Hotel Everest View, breakfast there, three nights at Dwarika's Hotel and a guided Patan and Boudhanath day. A private helicopter for your group costs more; ask us for a current quote."
+    },
+    {
+      "q": "Do you land at Everest Base Camp?",
+      "a": "Tourist flights usually land near Kala Patthar or Gorak Shep, not at base camp itself, which is on the moving glacier and kept for expedition use in season. Kala Patthar gives a far better view of Everest's summit anyway. The flight passes close to base camp and the Khumbu Icefall, so you see them clearly from the air."
+    },
+    {
+      "q": "Is the helicopter tour safe at high altitude?",
+      "a": "The flight itself is routine for Khumbu pilots, who fly only in good weather. The main risk is your body arriving at about 5,500 m from 1,400 m in under two hours. That is why the landing lasts about ten minutes. Move slowly, do not run, and tell the pilot if you feel unwell."
+    },
+    {
+      "q": "How long is the Everest helicopter flight?",
+      "a": "The whole trip takes about four to five hours, including about 50 minutes from Kathmandu to Lukla, a refuelling stop, around 20 minutes up the valley to the landing, ten minutes on the ground, a 45-minute to one-hour breakfast at Hotel Everest View, and the return to Kathmandu."
+    },
+    {
+      "q": "What if the weather is bad on the flight day?",
+      "a": "We postpone to the spare day. Helicopters in the Khumbu fly only with good visibility, and the pilot decides each morning. If both days are lost to weather, which is rare in autumn and early winter, we refund the helicopter portion or rebook if your plans allow. The spare day becomes a Patan and Boudhanath tour if unused."
+    },
+    {
+      "q": "When is the best time for an Everest helicopter tour?",
+      "a": "October to December has the clearest mornings. March to April is also good, with some haze and afternoon cloud. January and February are clear but very cold at the landing. From June to September the monsoon often hides the mountains and cancels flights, so we do not recommend it."
+    },
+    {
+      "q": "Can children or older travellers take the helicopter tour?",
+      "a": "Yes, generally. Children and older travellers in good health take the tour regularly. Because of the rapid altitude change, anyone with heart, lung or blood pressure problems should check with their doctor first. Pregnant travellers are usually advised not to land at high altitude. Infants cannot be accommodated on most flights."
+    },
+    {
+      "q": "Is there a weight limit on the helicopter?",
+      "a": "Yes. Helicopters carry less weight at altitude, so operators limit total passenger weight and may ask for each person's weight when booking. Bring only a small bag with warm clothes, camera and water; leave luggage at the hotel. Sometimes heavier groups are shuttled in two short lifts at the high landing."
+    },
+    {
+      "q": "What should I wear for the helicopter flight?",
+      "a": "Dress as for a winter morning: thermal base layer, fleece, down jacket, warm hat, gloves and sunglasses. Wear sturdy shoes with grip for the rocky landing area. It may be −10 °C or colder at about 5,500 m even on a sunny day, and the wind from the rotors makes it feel colder."
+    }
+  ]
+}

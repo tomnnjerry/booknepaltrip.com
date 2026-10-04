@@ -1,0 +1,343 @@
+{
+  "slug": "kirtipur",
+  "name": "Kirtipur",
+  "name_ne": "कीर्तिपुर",
+  "local_name": "Kipu (Nepal Bhasa)",
+  "region": "kathmandu-valley",
+  "kind": "hill town",
+  "wiki": "Kirtipur",
+  "image_query": "Kirtipur Bagh Bhairab temple",
+  "lat": 27.6787,
+  "lng": 85.2775,
+  "altitude_m": 1400,
+  "tagline": "Kipu, the ridge town that held off the Gorkha army three times",
+  "meta_description": "Kirtipur (Kipu) with locals: the 1767 siege story, Bagh Bhairab, hilltop temples, Newa Lahana's Newar food, Chobhar gorge, Taudaha lake and Chandragiri.",
+  "summary": "Kirtipur, Kipu in Nepal Bhasa, is a Newar hill town on a ridge 5 km south-west of central Kathmandu. It resisted Prithvi Narayan Shah's army three times before falling in 1767. Come for a half day: temples, brick lanes, a community-run Newar restaurant and views over the valley.",
+  "intro": [
+    "Kirtipur sits on a long ridge with two low humps, rising above the fields on the south-west side of the valley. Most of Kathmandu knows it as the home of Tribhuvan University, whose campus spreads over the lower slopes. Above it, the old Newar town still keeps its brick lanes, open squares and temples, and feels a world away from the city it overlooks.",
+    "The town's story is one of resistance. In the 1750s and 1760s, as Prithvi Narayan Shah of Gorkha closed in on the valley, Kirtipur's defenders beat back his army twice before a long siege forced them to surrender in 1767. The cost was terrible, but the town is proud of its defiance, and the story is told in its temples and its people.",
+    "Today Kirtipur is a pleasant half-day trip, easily combined with the Chobhar gorge, where legend says Manjushri drained the valley lake, and the small Taudaha lake. Eat at Newa Lahana, a restaurant run by local women, and walk the ridge at sunset for views over Kathmandu to the Himalaya on clear days."
+  ],
+  "story": {
+    "title": "The siege of Kirtipur, 1757 to 1767",
+    "paras": [
+      "In the 18th century Kirtipur belonged to the kingdom of Patan and guarded the south-western approach to the valley. Prithvi Narayan Shah of Gorkha, set on conquering the valley, saw it as the key. His first assault, in 1757, failed and his commander Kalu Pande was killed. A second attack in 1764 also failed, and the king's brother Surpratap Shah lost an eye to an arrow.",
+      "The third campaign, in 1767, turned to siege. The Gorkha army cut off food and water from the ridge town for months, while the other valley kings did not come to its aid. Kirtipur surrendered. Accounts, including that of a Capuchin missionary in the valley, say the conqueror ordered the noses of the town's men to be cut off as punishment. Kathmandu and Patan fell the next year.",
+      "Kirtipur stayed a farming and weaving town until the 1960s, when Tribhuvan University, founded in 1959, built its main campus on the slopes below. The town has grown fast since, but its upper core keeps its temples and squares. Community groups have restored houses and water spouts, and a cooperative of local women opened Newa Lahana to keep Kirtipur's cooking alive."
+    ]
+  },
+  "legend": "Local legend says that at the foot of the Kirtipur ridge, at Chobhar, the bodhisattva Manjushri cut the hills with his sword to drain the valley lake. As the water rushed out, many of the serpents who lived in it were left stranded. Their king, Karkotak, was given a new home in a small pond nearby: Taudaha, where people say he still lives, which is why its waters are never fished.",
+  "people": "Kirtipur's old town is Newar, mainly Jyapu farming families, along with Shakya and Bajracharya Buddhist households and craftsmen. Many still farm the fields below the ridge and keep the town's festivals through guthis. The university has brought students and teachers from every part of Nepal, and the lower town is mixed and busy, while the upper lanes still speak Nepal Bhasa first.",
+  "untold": [
+    {
+      "fact": "Prithvi Narayan Shah attacked Kirtipur three times. His first assault in 1757 failed and his commander Kalu Pande was killed, and the second in 1764 also failed. Kirtipur fell only in 1767, after a long siege.",
+      "source": "Wikipedia: Battle of Kirtipur"
+    },
+    {
+      "fact": "Tribhuvan University, Nepal's oldest university, founded in 1959, has its main campus on the slopes of Kirtipur, so much of the town's modern life revolves around students and teachers.",
+      "source": "Wikipedia: Tribhuvan University"
+    },
+    {
+      "fact": "Taudaha, a small lake below Kirtipur, is believed locally to be the home of Karkotak, king of serpents, after the valley lake drained. It is a winter stop for migratory water birds.",
+      "source": "Wikipedia: Taudaha"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Kipu",
+      "script": "किपू",
+      "lang": "Nepal Bhasa",
+      "meaning": "Kirtipur, the Newar name for the town"
+    },
+    {
+      "word": "Bhoj",
+      "script": "भोज",
+      "lang": "Nepali",
+      "meaning": "Feast, often a community meal after a ritual or festival"
+    },
+    {
+      "word": "Nasa dyah",
+      "script": "नासःद्यः",
+      "lang": "Nepal Bhasa",
+      "meaning": "God of music and dance, worshipped by Newar musicians"
+    }
+  ],
+  "taste": {
+    "name": "Chhoyla",
+    "text": "Buffalo meat grilled over straw or flame, then cut small and tossed with mustard oil, chilli, garlic, ginger and timur pepper. It is served with beaten rice and is part of every samay baji. Try it at Newa Lahana in Kirtipur, a restaurant run by local Newar women."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "Half day"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 10 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 5 km · 30 min"
+    ],
+    [
+      "Altitude",
+      "≈ 1,400 m"
+    ],
+    [
+      "Known for",
+      "1767 siege, Bagh Bhairab, ridge views, Newar food"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    1,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "Bagh Bhairab temple",
+      "text": "A three-roofed pagoda to Bhairav in the form of a tiger, in the middle of the old town. Swords linked to the Battle of Kirtipur are displayed on the temple. Busiest with worshippers in the early morning."
+    },
+    {
+      "title": "Uma Maheshwar on the hilltop",
+      "text": "At the top of the ridge, a temple to Shiva and Parvati guarded by stone elephants, with views over the valley. On clear mornings in autumn and winter, you can see the Himalaya to the north."
+    },
+    {
+      "title": "Chilancho stupa",
+      "text": "On the southern hump of the ridge, a large white stupa surrounded by smaller chaityas and Buddhist courtyards. It is a quiet place, used by local Buddhists for daily kora."
+    },
+    {
+      "title": "Newa Lahana",
+      "text": "A Newar restaurant run by a cooperative of Kirtipur women, serving samay baji, bara, chatamari and seasonal dishes in a traditional house. Good value and a good cause."
+    },
+    {
+      "title": "Chobhar gorge and Taudaha",
+      "text": "At the foot of the ridge, the narrow gorge where legend says Manjushri drained the valley, with the Adinath and Jal Binayak temples nearby, and the small Taudaha lake, home to the serpent king."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Kirtipur is about 5 km south-west of central Kathmandu. A taxi takes about 30 minutes from Thamel via the Balkhu bridge and Tribhuvan University. Microbuses run from Ratnapark to Kirtipur Naya Bazaar, at the foot of the old town. Walk up the steps from there."
+    },
+    {
+      "mode": "On foot",
+      "text": "From Chobhar gorge, a 45-minute walk through fields and villages leads up to Kirtipur's old town. From Patan, the walk via Pangga and Nagaun takes about 2 hours on lanes and field paths."
+    }
+  ],
+  "where_to_stay": "Kirtipur has few places to stay, mostly small guesthouses near the university, and most travellers visit as a half-day trip from Kathmandu or Patan. Staying in Patan, 30 minutes away, makes it easy to combine Kirtipur with Bungamati and Chobhar. For more comfort, stay in central Kathmandu at Hotel Yak & Yeti or Hotel Shanker and take a taxi in the morning.",
+  "stays": [],
+  "tips": [
+    "Start at Kirtipur Naya Bazaar and walk up; the old town lanes are too narrow for cars.",
+    "Go on a clear autumn or winter morning for mountain views from Uma Maheshwar temple.",
+    "Ask before entering temple courtyards, and walk clockwise round the Chilancho stupa.",
+    "Book a table at Newa Lahana for groups; it is popular with Kathmandu families at weekends.",
+    "Combine Kirtipur with Chobhar and Taudaha, all within 3 km, for a full day out."
+  ],
+  "themes": [
+    "heritage-and-temples",
+    "food-and-festivals",
+    "villages-and-homestays",
+    "photography"
+  ],
+  "nearby": [
+    "patan",
+    "bungamati",
+    "pharping",
+    "swayambhunath"
+  ],
+  "experiences": [
+    {
+      "slug": "kirtipur-siege-and-temples-walk",
+      "title": "Kirtipur's siege story told on its ridge",
+      "kind": "heritage",
+      "duration": "2.5 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Kirtipur Uma Maheshwar temple view",
+      "wiki": "Battle of Kirtipur",
+      "summary": "A walk through Kirtipur's old town with the story of the siege of 1757 to 1767: Bagh Bhairab's temple with its weapons, the hilltop Uma Maheshwar, the Chilancho stupa and the lanes where the town held out. Views across the valley along the way.",
+      "body": [
+        "We start at the foot of the old town and climb the steps into its lanes, stopping where the ridge gives a clear view north over Kathmandu. Here we tell the story of the three Gorkha assaults: the first in 1757 that cost Kalu Pande his life, the second in 1764 when Surpratap Shah lost an eye, and the long siege of 1767 that ended in surrender.",
+        "At the centre of town, the Bagh Bhairab temple honours Bhairav in tiger form. Swords linked to the Battle of Kirtipur are displayed on the temple, a reminder of 1767. Worshippers come with flowers, rice and vermilion through the morning. We then climb to Uma Maheshwar at the top of the ridge, guarded by stone elephants.",
+        "We walk along the ridge to the southern hump and the Chilancho stupa, ringed by smaller chaityas, where Buddhist neighbours walk their kora. On the way down we pass old water spouts and houses rebuilt after 2015. We end at Newa Lahana for lunch or tea and a plate of snacks."
+      ],
+      "good_for": [
+        "first-timers",
+        "couples",
+        "solo",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "Why is Kirtipur famous?",
+          "a": "Kirtipur is known for its long resistance to Prithvi Narayan Shah of Gorkha, who failed to take it in 1757 and 1764 and captured it only in 1767 after a siege. It is also home to Tribhuvan University and keeps an old Newar town with temples, a stupa and valley views."
+        },
+        {
+          "q": "Is there an entry fee for Kirtipur?",
+          "a": "There is no general entry fee for Kirtipur's old town at the time of writing, unlike Bhaktapur or Patan. Some temples may accept donations. Fees in the valley change, so check current status before you travel. Respect temple rules, and ask before entering private courtyards."
+        },
+        {
+          "q": "How long does it take to see Kirtipur?",
+          "a": "Two to three hours covers the old town, the main temples, the Chilancho stupa and the ridge views. Add an hour for lunch at Newa Lahana, and two more if you combine it with Chobhar gorge and Taudaha lake on foot."
+        }
+      ]
+    },
+    {
+      "slug": "kirtipur-newa-lahana-lunch",
+      "title": "Lunch at Newa Lahana, run by Kirtipur's women",
+      "kind": "food",
+      "duration": "1.5 hours",
+      "best_time": "Lunch, all year",
+      "image_query": "Newari food set Kirtipur",
+      "wiki": "",
+      "summary": "A long Newar lunch at a restaurant run by a cooperative of Kirtipur women, in a traditional brick house in the old town. Samay baji, bara, chatamari, kwati, aloo tama and seasonal dishes, with juju dhau to finish.",
+      "body": [
+        "Newa Lahana was started by local Newar women to keep Kirtipur's home cooking alive and to earn an income in their own town. It is housed in a traditional building, with simple dining rooms and a terrace, and is busy with Kathmandu families at weekends. Kitchen staff are local women, many from farming families.",
+        "We order a spread to share: samay baji with beaten rice, chhoyla, black soybeans and egg; bara made from black lentils; chatamari rice crepes; kwati soup of sprouted beans; aloo tama, a sour potato and bamboo-shoot curry; and a seasonal green. Vegetarian versions of most dishes are available.",
+        "To finish, juju dhau and a cup of milk tea, or for those who want it, a small glass of aila or thwon. We talk about what each dish means in Newar life: which are eaten at feasts, which at death rituals, which only in winter. It is one of the best value Newar meals in the valley."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is Newa Lahana in Kirtipur?",
+          "a": "Newa Lahana is a Newar restaurant in Kirtipur's old town run by a cooperative of local women. It serves traditional dishes such as samay baji, bara, chatamari and kwati at local prices. Profits support the women and their community. It is popular with Nepali families, especially at weekends."
+        },
+        {
+          "q": "Is Newa Lahana good for vegetarians?",
+          "a": "Yes. Many dishes come in vegetarian versions, including bara, chatamari, kwati, aloo tama, beaten rice and pickles. Ask staff or your guide to order without meat. Some soups use meat stock, so mention it when ordering. Juju dhau makes a good vegetarian dessert."
+        },
+        {
+          "q": "How much does a meal at Newa Lahana cost?",
+          "a": "A generous Newar spread for two costs roughly NPR 1,000 to 2,000, depending on what you order and drink, which is good value compared with tourist restaurants. Prices change, so treat this as a guide. Carry cash in rupees."
+        }
+      ]
+    },
+    {
+      "slug": "kirtipur-chobhar-gorge-taudaha-walk",
+      "title": "Chobhar gorge and Taudaha, where the lake drained",
+      "kind": "nature",
+      "duration": "3 hours",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Chobhar gorge Bagmati river",
+      "wiki": "",
+      "summary": "A walk below Kirtipur to the narrow gorge of the Bagmati, where legend says Manjushri cut the hills to drain the valley lake. Visit the Adinath temple hung with pots and pans, the Jal Binayak shrine at the river, and the small Taudaha lake with winter birds.",
+      "body": [
+        "From Kirtipur, we walk down through fields to Chobhar, a small Newar village on a hill above the Bagmati gorge. At its top stands the Adinath Lokeshwar temple, its walls hung with hundreds of pots, pans and water vessels, many given by newly married couples who hope for a well-stocked home.",
+        "Below, the Bagmati squeezes through a narrow rock gorge, crossed by a suspension bridge. This is the cut that, in the Swayambhu Purana, Manjushri made with his sword to drain the valley lake. Geologists explain the lake's draining differently, but the gorge is the valley's natural outlet. On the river bank stands Jal Binayak, a temple to Ganesh.",
+        "A short walk south brings us to Taudaha, a small lake ringed by trees. Locals say the serpent king Karkotak lives here, and the lake is not fished. From November to February, migratory ducks and other water birds rest here, and birdwatchers bring binoculars. We return by car or walk back up to Kirtipur."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "couples",
+        "trekkers"
+      ],
+      "faqs": [
+        {
+          "q": "What is the legend of Chobhar gorge?",
+          "a": "In the Swayambhu Purana, the Kathmandu Valley was a lake until the bodhisattva Manjushri cut a gorge at Chobhar with his sword, letting the water drain. Hindu versions credit Krishna. Geologists agree the valley was once a lake, though they explain its draining by natural causes."
+        },
+        {
+          "q": "Where is Taudaha lake?",
+          "a": "Taudaha is about 6 km south-west of central Kathmandu, beside the road to Pharping and Dakshinkali, and a short walk from Chobhar gorge. It is a small lake surrounded by trees, best visited from November to February when migratory water birds are present."
+        },
+        {
+          "q": "Why are pots nailed to the Adinath temple at Chobhar?",
+          "a": "Many of the pots, pans and vessels on the walls of the Adinath Lokeshwar temple are offerings, often from newly married couples hoping for a prosperous household, and others are given in memory of the dead. The tradition has filled the walls over generations."
+        }
+      ]
+    },
+    {
+      "slug": "kirtipur-chandragiri-cable-car",
+      "title": "Cable car up Chandragiri for Himalayan views",
+      "kind": "nature",
+      "duration": "4 hours",
+      "best_time": "Clear mornings, Oct–Feb",
+      "image_query": "Chandragiri hills cable car Kathmandu",
+      "wiki": "",
+      "summary": "From Kirtipur, drive 30 minutes to Thankot and ride the cable car to the top of Chandragiri, about 2,500 m, on the valley's western rim. On clear days the Himalaya stretches from Annapurna to Everest, and the whole valley lies below where Prithvi Narayan Shah is said to have first seen it.",
+      "body": [
+        "Chandragiri is the high hill on the valley's south-western rim, above Thankot on the road west out of Kathmandu. A cable car from the base climbs about 2.4 km to the summit in roughly 15 minutes, over terraced fields and forest. At the top is a viewing area, the Bhaleshwar Mahadev temple and a hotel.",
+        "On clear mornings, from October to February, the view runs along the Himalaya: Annapurna and Manaslu to the north-west, Ganesh Himal and Langtang to the north, and on the best days Everest far to the east. Below, the whole Kathmandu Valley lies in its bowl, with Kirtipur's ridge in the foreground.",
+        "Tradition says Prithvi Narayan Shah first looked down on the valley from these hills and decided to conquer it, which makes this a fitting end to a Kirtipur day. Go early, as clouds usually build by late morning. Cable car tickets are paid at the base station; the service can close in bad weather."
+      ],
+      "good_for": [
+        "families",
+        "seniors",
+        "photographers",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "How high is Chandragiri hill?",
+          "a": "The top of Chandragiri is about 2,500 m, around 1,100 m above the valley floor. The cable car from Thankot covers the climb in roughly 15 minutes. It is noticeably cooler at the top, so bring a warm layer, especially in winter mornings."
+        },
+        {
+          "q": "Can you see Everest from Chandragiri?",
+          "a": "On exceptionally clear days, Everest can be seen far to the east, small on the horizon. More often you see Annapurna, Manaslu, Ganesh Himal and Langtang. October to February mornings give the best chance; haze and cloud often hide the peaks from March to September."
+        },
+        {
+          "q": "How much is the Chandragiri cable car?",
+          "a": "Tickets are sold at the base station in Thankot, with a higher return fare for foreign visitors than for Nepalis and lower rates for children. The service may close in high winds or storms. Fares change, so check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Kirtipur worth visiting?",
+      "a": "Yes, if you want a quieter Newar town with real history and few tourists. It has temples, a stupa, valley views and some of the best value Newar food in the valley at Newa Lahana. It combines well with Chobhar gorge and Taudaha for a half or full day."
+    },
+    {
+      "q": "How do I get to Kirtipur from Thamel?",
+      "a": "A taxi takes about 30 minutes for the 7 km via Kalimati or Balkhu and Tribhuvan University. Microbuses from Ratnapark run to Kirtipur Naya Bazaar, from where you walk up the steps into the old town. Ride-hailing apps also work."
+    },
+    {
+      "q": "What happened at Kirtipur in 1767?",
+      "a": "After failing twice, in 1757 and 1764, Prithvi Narayan Shah's Gorkha army besieged Kirtipur in 1767 and forced it to surrender. Accounts say he punished the town's men by cutting off their noses. Kirtipur's fall opened the way to his conquest of Kathmandu and Patan in 1768."
+    },
+    {
+      "q": "Can I see the Himalaya from Kirtipur?",
+      "a": "On clear mornings from October to February, yes, from the top of the ridge near Uma Maheshwar temple, looking north over Kathmandu. Views are hazy for much of the rest of the year. For a bigger panorama, take the Chandragiri cable car, 30 minutes away."
+    },
+    {
+      "q": "Is Kirtipur part of the UNESCO World Heritage Site?",
+      "a": "No. The Kathmandu Valley UNESCO site is made up of seven monument zones, and Kirtipur is not one of them. That is part of its appeal: it is lived in, unticketed at the time of writing and much quieter than the Durbar Squares."
+    },
+    {
+      "q": "What is Tribhuvan University?",
+      "a": "Tribhuvan University is Nepal's oldest university, founded in 1959, with its main campus spread across the lower slopes of Kirtipur. Thousands of students study here, which gives Kirtipur cheap cafes and a lively lower town. The upper old town is quieter and more traditional."
+    },
+    {
+      "q": "How long should I spend in Kirtipur?",
+      "a": "Half a day is enough for the old town, temples and a meal. A full day lets you add Chobhar gorge, Taudaha lake and either the Chandragiri cable car or a walk to Bungamati. Few visitors stay overnight; most come from Kathmandu or Patan."
+    },
+    {
+      "q": "Can I walk from Kirtipur to Chobhar?",
+      "a": "Yes. It is about 3 km and 45 minutes to an hour through fields and the edges of villages, mostly downhill. From Chobhar, Taudaha lake is another 15 to 20 minutes on foot. A guide helps with the route, which is not signposted."
+    },
+    {
+      "q": "What festivals happen in Kirtipur?",
+      "a": "Kirtipur keeps the Newar festival calendar, including chariot processions and masked dances in its old town, and Indra Jatra and Dashain rituals at Bagh Bhairab. Dates follow the lunar calendar and change each year. Ask us when you book and we will check what falls during your visit."
+    }
+  ]
+}

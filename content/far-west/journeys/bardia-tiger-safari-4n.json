@@ -1,0 +1,168 @@
+{
+  "slug": "bardia-tiger-safari-4n",
+  "title": "Bardia Tiger Safari",
+  "region": "far-west",
+  "kind": "wildlife",
+  "nights": 4,
+  "themes": [
+    "wildlife-and-jungle",
+    "lakes-and-rivers",
+    "villages-and-homestays",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "bardia",
+      "nights": 4
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1350,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Bardia tiger safari, 4 nights: jeep and walking safaris, a float on the Karnali's Geruwa channel and a Tharu village, flying via Nepalgunj.",
+  "summary": "Four nights at Thakurdwara on the edge of Bardia National Park, Nepal's largest lowland park. Full-day jeep safari, a guided walk on tiger tracks, a raft float down the Geruwa channel of the Karnali and an evening in a Tharu village. Fly Kathmandu–Nepalgunj, then 90 km by road.",
+  "intro": [
+    "Bardia is the park Nepalis tell you about when you say Chitwan felt crowded. It covers 968 km² of sal forest, phanta grassland and braided river channels where the Karnali leaves the hills, and it gets a fraction of Chitwan's visitors. Lodges sit in Thakurdwara, a Tharu village beside the park headquarters, and most evenings the only engine you hear is a tractor coming home from the fields. Fewer jeeps means quieter tracks.",
+    "This short trip uses the park the way local nature guides do: one long day by jeep to reach the river country deep inside, one day on foot and on the water, and time in the village that shares its fields with elephants. Tigers are never promised. We plan the days so that you are in the right places at the right hours, and we keep the groups small and the voices low."
+  ],
+  "story": "The trip starts with a one-hour flight that drops you out of the hills onto the flat, hot plain at Nepalgunj, a few kilometres from the Indian border. The road west runs past mustard and rice fields, then Kohalpur, then the turn north into Bardia, where painted Tharu houses give way to a wall of sal trees. In the park the land changes by the hour: dry forest, then tall elephant grass, then the white stones and blue water of the Geruwa channel. You learn to read sand. A guide kneels at a pugmark and tells you it was made after the dew fell. By the last evening the jungle has a shape in your head, and the drive back to the airport feels too fast.",
+  "highlights": [
+    "Full-day jeep safari to the Karnali river country, with lunch on a riverbank inside the park",
+    "Walking safari with two licensed nature guides, reading tiger, rhino and elephant tracks on foot",
+    "Raft float on the Geruwa channel looking for mugger and gharial crocodiles, and a chance of Gangetic river dolphins",
+    "The crocodile breeding centre at the park headquarters in Thakurdwara",
+    "An evening with a Dangaura Tharu family: their longhouse, their fish curry and their sakhiya dance"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Nepalgunj, drive to Thakurdwara",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 1 h flight · then ≈ 90 km · 2–2.5 h drive",
+      "text": "We take a morning flight from Kathmandu to Nepalgunj, about an hour over the hills, and step out into the heat of the plain. Your driver meets you at the terminal. The road runs west along the East–West Highway to Kohalpur, then turns north to Ambassa and the lane into Thakurdwara. After lunch at the lodge your guide walks you through the village to the edge of the park, past Tharu houses with mud walls and grain bins, and you watch the light go orange over the grassland from a watchtower.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Full-day jeep safari to the Karnali",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 8–9 h in an open jeep inside the park",
+      "text": "We leave at first light in an open jeep with a park-licensed naturalist and driver. The track runs through sal forest, where spotted deer and langur feed at dawn, and out across phanta grasslands where swamp francolin call and rhinos sometimes graze. By late morning we reach the Karnali river country, and here we stop, climb down and sit quietly on a bank above a channel where tigers come to drink in the heat. Lunch is a packed meal on the sand. We come back slowly, scanning the grass, as the light goes.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Walking safari and a float on the Geruwa",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 4 h on foot · ≈ 2 h by raft",
+      "text": "Bardia is one of the few parks in Nepal where walking is the normal way to look for tigers. Two licensed guides lead, never more than a few guests, and they explain the rules before you start: stay close, stay quiet, never run. You follow river beds and game trails, read scratch marks on trees and listen for the alarm call of a spotted deer. After lunch we take an inflatable raft down the Geruwa channel, a calm, clear braid of the Karnali, looking for mugger crocodiles on the banks and the brief grey roll of a river dolphin.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Crocodile centre and a Tharu evening",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "On foot and by bicycle in the village",
+      "text": "An early bird walk on the park edge, then the park headquarters, where a breeding centre raises crocodiles, including the rare gharial, and turtles. In the afternoon we cycle on flat lanes to a Dangaura Tharu home. The family shows you how their longhouse works, with storage bins of mud and straw built into the walls, and the women cook a meal of rice, fish curry and leafy greens. If the village dance group is free, they dance the sakhiya, the Tharu circle dance of the Dashain season, in the courtyard. Optional last evening at the watchtower.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Drive to Nepalgunj, fly to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 90 km · 2–2.5 h drive · then ≈ 1 h flight",
+      "text": "A last walk at dawn if you want one, then breakfast and the drive back to Nepalgunj. If there is time before the flight, your driver can stop at the Bageshwari temple in the old bazaar, the town's best-known shrine. The afternoon flight lands you in Kathmandu in about an hour, and we transfer you to your hotel. If your plans allow it, Bardia combines well with three nights in Shuklaphanta further west, or with Lumbini, a day's drive east along the highway.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "tiger-tops-karnali-lodge"
+  ],
+  "includes": [
+    "Kathmandu–Nepalgunj return flights (economy)",
+    "Private air-conditioned car Nepalgunj–Thakurdwara–Nepalgunj",
+    "4 nights at Tiger Tops Karnali Lodge or a similar lodge in Thakurdwara, full board",
+    "Full-day jeep safari, walking safari and raft float with licensed nature guides",
+    "Bardia National Park entry fees for the days in the park",
+    "Tharu village visit with a home-cooked meal"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Kathmandu hotel nights",
+    "Drinks, tips and laundry",
+    "Travel insurance",
+    "Camera fees if the park charges them"
+  ],
+  "good_to_know": [
+    "Bardia's park entry is charged per day; at the time of writing foreigners pay about NPR 1,500 per day plus VAT. Check current status before you travel.",
+    "Walking safaris are led by two licensed guides. Wear neutral colours and closed shoes, and follow every instruction.",
+    "March to May is hot (up to 40 °C in May) but the grass has been cut and animals come to the rivers, so sightings are best then.",
+    "Many lodges close or slow down from mid-June to September, when rain floods the tracks.",
+    "Winter mornings in December and January bring thick fog to the plain and can delay flights into Nepalgunj."
+  ],
+  "faqs": [
+    {
+      "q": "What are the chances of seeing a tiger in Bardia?",
+      "a": "Real, but never certain. Bardia holds one of Nepal's largest tiger populations, and on a full-day jeep safari plus a day on foot many of our guests see one, often at a river crossing in the heat of the afternoon. Others see fresh pugmarks and hear alarm calls but no tiger. March to May gives the best odds because the grass is short and animals drink more."
+    },
+    {
+      "q": "Is Bardia better than Chitwan?",
+      "a": "It is different. Chitwan is easier to reach, has more lodges and more one-horned rhinos. Bardia is quieter, wilder and has a better record for tigers, with far fewer jeeps on the tracks. If you have seen Chitwan, or if you care more about stillness than comfort, Bardia is the better choice. Many travellers do Chitwan and Bardia in one trip, linked by the East–West Highway."
+    },
+    {
+      "q": "How do I get to Bardia National Park from Kathmandu?",
+      "a": "Fly Kathmandu to Nepalgunj, about one hour, then drive roughly 90 km to Thakurdwara, which takes 2 to 2.5 hours. By road the whole journey from Kathmandu is about 12 to 14 hours, so most visitors fly. Several domestic airlines, including Buddha Air, fly the route daily, and our driver meets you in the arrivals hall."
+    },
+    {
+      "q": "Is a walking safari in Bardia safe?",
+      "a": "Walking safaris carry real risk, which is why they are run under strict rules. You walk with two licensed nature guides, in a small group, and you follow their instructions about distance, silence and what to do if you meet a rhino, elephant or tiger. Serious incidents with visitors are rare. If you prefer, we can replace the walk with a second jeep day."
+    },
+    {
+      "q": "Can I see Gangetic river dolphins in Bardia?",
+      "a": "Sometimes. The Karnali is one of the last rivers in Nepal where the endangered Gangetic dolphin still lives, and they are seen most often in deeper pools of the Karnali and Geruwa channels, especially in the cooler months. Sightings are brief, a grey back rolling at the surface. Treat a dolphin as a bonus, not the reason to book."
+    },
+    {
+      "q": "What is the best month for a Bardia safari?",
+      "a": "For wildlife, March, April and May are best, followed by October and November. In spring, locals are allowed to cut thatch grass, so the grasslands open up and animals come to the rivers. October and November are greener and cooler. December and January are pleasant by day but foggy at dawn. Avoid June to September, when rain closes much of the park."
+    },
+    {
+      "q": "What should I wear on safari in Bardia?",
+      "a": "Wear green, brown or khaki, never white or bright red, and bring closed walking shoes for the walking day. A wide hat, sunscreen and a refillable bottle matter in spring heat. Bring a fleece for early winter drives, which can be cold in an open jeep. Binoculars make a large difference here; your guide carries a pair but your own is better."
+    },
+    {
+      "q": "Is Bardia suitable for children?",
+      "a": "Jeep safaris, the crocodile breeding centre and the Tharu village are fine for children from about seven. Walking safaris have age rules set by the park and the guides, and we normally suggest them only for teenagers who can stay quiet and follow instructions. The long jeep day is tiring for small children, so families often split it into two half days."
+    },
+    {
+      "q": "Do I need a guide to enter Bardia National Park?",
+      "a": "Yes. Visitors may not enter the park on their own; jeep drives, walks and raft trips go with licensed nature guides, and our price includes them. This matches Nepal's wider rule, applied since April 2023, that foreign visitors in national parks and conservation areas go with a licensed guide. Check current status before you travel."
+    }
+  ]
+}

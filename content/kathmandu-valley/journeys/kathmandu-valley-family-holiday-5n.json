@@ -1,0 +1,181 @@
+{
+  "slug": "kathmandu-valley-family-holiday-5n",
+  "title": "Kathmandu Valley with children",
+  "region": "kathmandu-valley",
+  "kind": "family",
+  "nights": 5,
+  "themes": [
+    "family-trips",
+    "heritage-and-temples",
+    "crafts-and-makers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 3
+    },
+    {
+      "place": "nagarkot",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 800,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 2551,
+  "meta_description": "5 nights in the Kathmandu Valley with children: monkey temple, momo making, a cable car to 2,551 m, a pottery wheel in Bhaktapur and sunrise at Nagarkot.",
+  "summary": "A five-night family trip around the Kathmandu Valley built for short attention spans and early bedtimes: monkeys at Swayambhu, a momo-making class, the Chandragiri cable car, a turn on a potter's wheel in Bhaktapur and two nights on the Nagarkot ridge for sunrise over the Himalaya. Three nights in a forest resort, no long drives.",
+  "intro": [
+    "Children often enjoy Kathmandu more than their parents expect. There are monkeys on temple roofs, prayer wheels to spin, pigeons in the squares, dumplings to fold and a living goddess in a carved window. What tires them is traffic and long lectures, so this trip keeps each day to two or three things, with gardens, a forest and a lot of food in between. Plan on a rest every afternoon and an early dinner every night, and the valley works for a toddler as well as a teenager.",
+    "You stay three nights at Gokarna Forest Resort, set inside an old walled forest on the north-east edge of the city, where children can run on the lawns and walk under the trees. Then two nights at Club Himalaya on the Nagarkot ridge, with mountain views from the rooms. A guide used to families leads every day and a private van with child seats on request covers all the driving."
+  ],
+  "story": "The trip starts under old trees in a forest where Nepal's kings once hunted, a quiet base after the noise of arrival. Day two climbs the steps of Swayambhu, which children everywhere call the monkey temple, and ends with flour on everyone's hands at a momo class. Then a cable car lifts the family more than a thousand metres up Chandragiri hill, with the whole valley and, on clear days, the Himalaya spread out below. In Bhaktapur, potters let children try the wheel in the square where their families have worked clay for generations, and mask painters in Thimi show how festival faces are made. The last two nights are on the Nagarkot ridge, waiting for the mountains to turn pink at sunrise.",
+  "highlights": [
+    "Swayambhu, the monkey temple, and its circuit of prayer wheels",
+    "A family momo-making class in a Kathmandu home",
+    "The Chandragiri cable car to about 2,551 m with valley and mountain views",
+    "Trying the potter's wheel in Bhaktapur's potters' square",
+    "Sunrise over the Himalaya from Nagarkot, from your room or the view tower"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive and settle in at Gokarna",
+      "place": "kathmandu",
+      "overnight": "Gokarna Forest Resort",
+      "alt_m": 1400,
+      "move": "≈ 10 km · 30–40 min from the airport",
+      "text": "We meet the family at Tribhuvan International Airport and drive to Gokarna Forest Resort on the north-east edge of the valley. The resort sits inside a large old forest that was once a royal hunting ground, with a golf course, lawns and walking paths among tall trees full of birds. Nothing is planned for the afternoon except a walk and an early dinner. Your guide joins you for a short chat about the days ahead, adjusted to your children's ages and interests.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Monkey temple and a momo class",
+      "place": "swayambhunath",
+      "overnight": "Gokarna Forest Resort",
+      "alt_m": 1400,
+      "move": "≈ 15 km · 45 min drive each way",
+      "text": "Drive to Swayambhunath and walk up from the west side, which is easier for small legs, to the stupa on the hilltop. Children spin the prayer wheels, count the monkeys and look for the painted eyes on the tower. Your guide tells the story of the lake that once filled the valley. After lunch visit Kathmandu Durbar Square and the courtyard of the Kumari, the girl worshipped as a goddess, then the quiet Garden of Dreams. In the late afternoon a family in Kathmandu teaches you to fold momo, which become dinner.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Chandragiri cable car and Patan",
+      "place": "patan",
+      "overnight": "Gokarna Forest Resort",
+      "alt_m": 1400,
+      "move": "≈ 20 km · 1 h to Chandragiri; ≈ 15 km on to Patan",
+      "text": "Drive to the south-west rim of the valley and ride the Chandragiri cable car, about 2.4 km long, up to the hilltop at about 2,551 m. At the top there is a Shiva temple and a viewpoint where, on clear days, the Himalaya line up beyond the valley. Ride down for lunch, then visit the Central Zoo in Jawalakhel, Nepal's only zoo, with rhinos, tigers and many Himalayan birds. Finish in Patan Durbar Square, where children can watch metal workers hammering and polishing statues in the lanes nearby.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Bhaktapur potters and up to Nagarkot",
+      "place": "bhaktapur",
+      "overnight": "Club Himalaya, Nagarkot",
+      "alt_m": 2175,
+      "move": "≈ 15 km · 45 min to Bhaktapur; ≈ 20 km · 1 h to Nagarkot",
+      "text": "Check out and drive to Bhaktapur. In the potters' square, families shape bowls and pots on wheels and leave them in rows to dry in the sun. Children get a turn on the wheel with a potter's help and can take home what they make once it is fired. See the Nyatapola temple with its stone guardians on the steps, then eat juju dhau, the sweet curd children usually love. After lunch drive up the winding road to Nagarkot and check in to Club Himalaya, with rooms facing the mountains.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Sunrise and a ridge walk at Nagarkot",
+      "place": "nagarkot",
+      "overnight": "Club Himalaya, Nagarkot",
+      "alt_m": 2175,
+      "move": "≈ 2–3 h easy walk",
+      "text": "Wake before dawn to see the Himalaya turn pink and gold, from your room or the hotel terrace, wrapped in a blanket. After breakfast take an easy walk with your guide along the ridge to the view tower and through pine forest, with a picnic lunch. Older children can walk further, down to a Tamang village and back. The afternoon is free for board games, reading or sitting in the sun on the terrace. On a clear night the stars are bright here, far from the city lights.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Changu Narayan on the way to the airport",
+      "place": "changunarayan",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 35 km · 1.5 h to the airport with a stop",
+      "text": "A last sunrise, then drive down from Nagarkot. If there is time, stop at Changu Narayan, a hilltop temple full of stone carvings of Vishnu and his eagle, Garuda, which children can spot like a treasure hunt. The lane up to the temple is lined with small shops and a private museum of old household objects. Continue to Tribhuvan International Airport for your flight. Total driving time is about 1.5 hours with the stop, longer at rush hour.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "gokarna-forest-resort",
+    "club-himalaya-nagarkot"
+  ],
+  "includes": [
+    "3 nights at Gokarna Forest Resort and 2 nights at Club Himalaya, Nagarkot, family rooms or twin sharing",
+    "Breakfast daily, full board at Nagarkot and the meals listed",
+    "Licensed English-speaking guide experienced with families",
+    "Private van with driver for all transfers; child seats on request",
+    "Chandragiri cable car tickets, zoo entry, heritage site fees, momo class and pottery session"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Lunches and dinners not listed",
+    "Tips for guide and driver",
+    "Travel insurance",
+    "Golf, spa and other resort extras"
+  ],
+  "good_to_know": [
+    "Children's prices depend on age and room sharing; we quote per family.",
+    "Bring a warm layer for each child: Nagarkot mornings in December and January can be close to 0 °C.",
+    "Monkeys at Swayambhu grab food and bags; keep snacks out of sight.",
+    "Use bottled or filtered water only, and keep hand sanitiser handy before meals.",
+    "The Chandragiri cable car closes in high wind or for maintenance; check current status before you travel."
+  ],
+  "faqs": [
+    {
+      "q": "Is Kathmandu safe for families with young children?",
+      "a": "Yes. Nepal is generally safe and Nepalis are warm towards children. The main risks are traffic, uneven paving, stomach upsets and air pollution in winter. We use private transport, choose quiet times at busy sites, eat at trusted places and keep days short. Bring any regular medicines, a basic first-aid kit and masks for dusty days."
+    },
+    {
+      "q": "What is there for kids to do in Kathmandu?",
+      "a": "Children enjoy the monkeys and prayer wheels at Swayambhu, folding momo dumplings, the Chandragiri cable car, the Central Zoo in Jawalakhel, the pottery wheels of Bhaktapur, mask painting in Thimi and watching the sunrise at Nagarkot. Many also like spinning the big prayer wheels at Boudhanath and feeding pigeons in Kathmandu Durbar Square."
+    },
+    {
+      "q": "What is the minimum age for this family trip?",
+      "a": "There is no minimum age. Families with babies and toddlers have done this trip; bring a carrier rather than a pushchair, as steps and uneven paving are everywhere. For children under five we shorten sightseeing blocks and plan a rest every afternoon. The Nagarkot ridge walk is optional and can be cut to 30 minutes."
+    },
+    {
+      "q": "How high is the Chandragiri cable car?",
+      "a": "The Chandragiri cable car runs about 2.4 km from Thankot on the valley floor to the top of Chandragiri hill at about 2,551 m. The ride takes around ten minutes. At the top there is a Shiva temple, viewpoints and places to eat. The altitude is fine for children on a day visit. It closes in high wind, so we keep it flexible."
+    },
+    {
+      "q": "Is the altitude at Nagarkot a problem for children?",
+      "a": "No. Nagarkot is about 2,175 m, well below the height at which altitude sickness usually becomes a concern, and children rarely notice anything except cooler air. Some people feel slightly breathless on stairs. The main thing to plan for is cold: evenings and early mornings from November to February can be near freezing."
+    },
+    {
+      "q": "What food will my children eat in Nepal?",
+      "a": "Most children happily eat momo, fried rice, noodles, dal bhat, pancakes, eggs and toast, all easy to find. Both resorts have international menus. Spicy food is easy to avoid by asking for mild dishes. Juju dhau, the sweet curd of Bhaktapur, and Nepali milk tea are usually hits. Carry snacks from home for fussy days."
+    },
+    {
+      "q": "When is the best time to visit Kathmandu with kids?",
+      "a": "October and November are the best months: dry, mild and clear. December fits Christmas holidays and gives the clearest mountain views, but nights are cold. March and April are warm and green. July and August, the summer holidays for many families, are monsoon months with heavy afternoon rain, though the valley sights stay open."
+    },
+    {
+      "q": "Can we combine this with Chitwan or Pokhara?",
+      "a": "Yes, easily. Chitwan is a 25-minute flight or 5–6 hour drive from Kathmandu, and its canoe rides and jeep safaris are popular with children. Pokhara is a 25-minute flight and has boating, short walks and paragliding for older children. A 9–10 night family trip combining all three is a common plan."
+    },
+    {
+      "q": "Do we need a guide with children in Kathmandu?",
+      "a": "It helps a lot. A guide handles tickets, crowds and timing, keeps an eye on traffic, finds clean toilets and child-friendly cafes, and tells stories at a child's level. Our family guides adjust the plan daily: if the children are tired, they swap a temple for a garden or an early return to the hotel."
+    }
+  ]
+}

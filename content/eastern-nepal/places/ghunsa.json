@@ -1,0 +1,341 @@
+{
+  "slug": "ghunsa",
+  "name": "Ghunsa",
+  "name_ne": "घुन्सा",
+  "local_name": "",
+  "region": "eastern-nepal",
+  "kind": "trek stop",
+  "wiki": "Ghunsa",
+  "image_query": "Ghunsa village Kanchenjunga trek",
+  "lat": 27.661,
+  "lng": 87.936,
+  "altitude_m": 3475,
+  "tagline": "The last real village below Kanchenjunga's north face",
+  "meta_description": "Ghunsa, 3,475 m on the Kanchenjunga North trek: a Tibetan Buddhist village, acclimatisation hub and checkpoint. Permits, routes and what to see.",
+  "summary": "Ghunsa is a Buddhist village at 3,475 m in the upper Ghunsa valley of Taplejung, inside the Kanchenjunga Conservation Area. It is the main village and checkpoint on the trek to Kanchenjunga's north base camp at Pang Pema, and the usual place to rest and acclimatise for a day before going higher.",
+  "intro": [
+    "After days of walking up the Tamor and Ghunsa valleys through forest and Hindu and Limbu farming villages, the trail reaches Ghunsa and the culture changes. Houses are built of stone and timber, prayer flags fly from poles, and a gompa sits above the village. The people here are Buddhists of Tibetan descent, and many speak a Tibetan dialect at home. Mani walls line the trail, and the smell of juniper smoke drifts from the kitchens in the evening.",
+    "Ghunsa is the largest settlement in the upper valley and the place where trekkers stop for a rest day before climbing to Kambachen, Lhonak and Pang Pema. It has lodges, a checkpoint for the Kanchenjunga Conservation Area, small shops and the last reliable supplies before the high country. Guides and porters use the stop to rest, dry clothes and buy food, and the village has the feel of a busy waypoint during the trekking seasons.",
+    "It is a good place to slow down. Use the rest day for a hike up the valley side, a visit to the gompa, and time in the kitchen of your lodge, where the family will make you salt butter tea if you ask. Walk the lanes in the late afternoon when the yaks come in, and go to bed early: the days that follow climb well above 4,000 m, and a rested body copes far better with the thin air."
+  ],
+  "story": {
+    "title": "A Tibetan village at the head of the Ghunsa valley",
+    "paras": [
+      "The families of Ghunsa trace their origins to Tibet, and the village has long lived from yak herding, trade over the high passes and farming of potatoes and barley in the short summer. Like other Himalayan Buddhist villages, they move between settlements at different heights through the year, following pasture and weather. Their religious life centres on the village gompa, mani walls and the festivals of the Tibetan calendar, and their houses keep a shrine room or altar with butter lamps.",
+      "In 1997 the government declared the Kanchenjunga Conservation Area, 2,035 km² of Taplejung's high country bordering Tibet and Sikkim. In September 2006 management of the area was handed to a council of local people, one of the first such handovers in Nepal. On 23 September 2006, a chartered helicopter on a flight linked to the handover ceremony at Ghunsa crashed in the Taplejung mountains, killing all 24 people on board, including leading Nepali conservationists, government officials and WWF staff.",
+      "The loss was felt across Nepal, and the village is still linked with it in the national memory. Since then the local council has continued to manage the conservation area, using permit fees for community projects, trail work and conservation. Ghunsa today is busier than it was, with more lodges and trekkers each autumn and spring, and roads creeping up the lower valleys. But the families still keep yaks, plant potatoes and run their homes much as before, and the gompa remains the heart of village life."
+    ]
+  },
+  "legend": "",
+  "people": "Ghunsa's people are Buddhists of Tibetan descent, often grouped with the Sherpa or with the Tibetan-speaking communities of the northern border, though they have their own local identity. They speak a Tibetan dialect and Nepali, and some speak English from years of lodge work. Families herd yaks, grow potatoes and barley, trade, run lodges and work as guides and porters on the Kanchenjunga trek.",
+  "untold": [
+    {
+      "fact": "The Kanchenjunga Conservation Area was established in 1997 and covers 2,035 km² of Taplejung district. It adjoins Qomolangma National Nature Preserve in Tibet and Khangchendzonga National Park in Sikkim.",
+      "source": "Wikipedia: Kanchenjunga Conservation Area"
+    },
+    {
+      "fact": "On 23 September 2006 a chartered helicopter flying between Phungling and Ghunsa crashed, killing all 24 people aboard, including a WWF team, during the creation of the locally managed Kanchenjunga Conservation Area.",
+      "source": "Wikipedia: 2006 Shree Air Mil Mi-8 crash"
+    },
+    {
+      "fact": "Ghunsa lies at about 3,475 m in Taplejung and is the main village and checkpoint on the trekking route to Kanchenjunga's northern base camp at Pang Pema.",
+      "source": "Wikipedia: Ghunsa"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "gompa",
+      "script": "དགོན་པ",
+      "lang": "Tibetan",
+      "meaning": "Buddhist monastery or temple"
+    },
+    {
+      "word": "mani",
+      "script": "མ་ཎི",
+      "lang": "Tibetan",
+      "meaning": "Prayer stones carved with om mani padme hum, passed on the left"
+    },
+    {
+      "word": "kharka",
+      "script": "खर्क",
+      "lang": "Nepali",
+      "meaning": "High summer pasture for yaks and cattle"
+    }
+  ],
+  "taste": {
+    "name": "Po cha (butter tea)",
+    "text": "Salted tea churned with butter, drunk all day in Tibetan Buddhist homes. In Ghunsa, lodge families make it in a tall wooden churn or a flask. It tastes more like a thin soup than tea and helps at altitude. Ask for it in the lodge kitchen."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Nov, Apr – May"
+    ],
+    [
+      "Days we suggest",
+      "2 (with rest day)"
+    ],
+    [
+      "Nearest airport",
+      "Taplejung (Suketar); Bhadrapur"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 6–9 days including road and trek"
+    ],
+    [
+      "Altitude",
+      "3,475 m"
+    ],
+    [
+      "Known for",
+      "Buddhist village, acclimatisation, Kanchenjunga North trek"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    0
+  ],
+  "nights": "2",
+  "highlights": [
+    {
+      "title": "The village gompa",
+      "text": "The Buddhist temple above the village holds statues, murals and the butter lamps of daily worship. Visit with your guide in the early morning, walk clockwise, leave a small donation, and ask before taking photographs inside."
+    },
+    {
+      "title": "Acclimatisation hike above the village",
+      "text": "On the rest day, a 3–4 hour hike up the slopes above Ghunsa, gaining 300–500 m, helps your body adjust before Kambachen and Lhonak. Views open up the valley toward the high peaks."
+    },
+    {
+      "title": "Stone and timber houses",
+      "text": "Ghunsa's houses are built of stone and wood, with prayer flags on tall poles and stacks of firewood under the eaves. Walk the lanes in the evening when the yaks come in."
+    },
+    {
+      "title": "Gateway to Pang Pema",
+      "text": "From Ghunsa the trail climbs to Kambachen (about 4,050 m), Lhonak (about 4,780 m) and Pang Pema (about 5,140 m), under the north face of Kanchenjunga. Ghunsa is your last proper village."
+    },
+    {
+      "title": "A conservation story",
+      "text": "Ghunsa is inside the Kanchenjunga Conservation Area, managed by a local council since 2006. Snow leopards, blue sheep and red pandas live in the area. Your permit fees help fund local conservation."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "On foot",
+      "text": "From Taplejung (Phungling), the trek up the Tamor and Ghunsa valleys to Ghunsa takes about 5–7 days, depending on how far roads and jeeps can take you. New roads have pushed up the valleys in recent years and shortened the walk. Check current status before you travel."
+    },
+    {
+      "mode": "Road",
+      "text": "Reach Taplejung via Bhadrapur or Biratnagar and the Mechi Highway north through Ilam and Panchthar, a long day of driving. From Taplejung, jeeps go up the Tamor valley as far as the road is open."
+    }
+  ],
+  "where_to_stay": "Ghunsa has several family-run teahouses with twin rooms, shared toilets, a dining room heated by a stove and a menu of dal bhat, noodles, potatoes and Tibetan bread. Rooms are basic and cold at night, so bring a good sleeping bag. Hot showers and phone charging are usually available for a fee. Ghunsa is the most comfortable stop between Taplejung and Pang Pema. Lodges above it at Kambachen and Lhonak are simpler still.",
+  "stays": [],
+  "tips": [
+    "Take a full rest day in Ghunsa before going higher; it is the single most useful thing you can do for acclimatisation.",
+    "Buy any last supplies here; shops above Ghunsa are few and expensive.",
+    "Walk clockwise around gompas, chortens and mani walls, and do not touch religious objects without asking.",
+    "Carry enough cash in Nepali rupees for the whole trek; there are no ATMs in the Kanchenjunga region.",
+    "Nights at 3,475 m are below freezing from October to April; bring a sleeping bag rated to about minus 15 °C."
+  ],
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "villages-and-homestays",
+    "spiritual-and-pilgrimage"
+  ],
+  "nearby": [
+    "pang-pema",
+    "pathibhara"
+  ],
+  "experiences": [
+    {
+      "slug": "ghunsa-acclimatisation-hike",
+      "title": "Acclimatisation hike above Ghunsa",
+      "kind": "trek",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–Nov and Apr–May",
+      "image_query": "Ghunsa valley mountains trekking",
+      "wiki": "",
+      "summary": "A rest-day hike from Ghunsa up the valley side, gaining a few hundred metres and returning to sleep low, following the climb high, sleep low rule that keeps trekkers safe on the way to Pang Pema.",
+      "body": [
+        "After breakfast we leave Ghunsa and climb steadily up a path on the valley side, through juniper and rhododendron scrub and past summer pasture. The aim is to gain 300–500 m in altitude, spend some time higher up, and then walk back down to sleep in Ghunsa. This simple pattern, climb high and sleep low, is the best way to prepare your body for the nights at Kambachen and Lhonak that follow.",
+        "As you climb, the view opens up and down the valley: the village roofs and prayer flags below, the trail to Kambachen heading north, and snow peaks at the head of the valley. Our guide watches the pace and checks how everyone feels, with regular stops for water and snacks. We stay at the high point for half an hour or so, enough for the body to register the height, before turning back.",
+        "We are back in time for lunch and a lazy afternoon of washing clothes, reading and resting. The hike makes the next days to Kambachen and Lhonak noticeably easier. In the evening, your guide runs a simple check on everyone, asking about headaches, appetite and sleep, so that any early signs of altitude sickness are caught before the group climbs higher. If anyone needs another day, we take it."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Why do we take a rest day in Ghunsa?",
+          "a": "Ghunsa, at 3,475 m, is the last major village before the trail climbs to around 4,000 m at Kambachen and over 4,700 m at Lhonak. A rest day with a short hike higher helps your body adjust and lowers the risk of altitude sickness further up."
+        },
+        {
+          "q": "How hard is the Ghunsa acclimatisation hike?",
+          "a": "It is a moderate 3–4 hour hike with a steady climb of 300–500 m and the same back down. Go slowly, drink plenty of water, and tell your guide about any headache, nausea or unusual tiredness."
+        },
+        {
+          "q": "What if I feel unwell in Ghunsa?",
+          "a": "Tell your guide straight away. Mild headaches are common and often ease with rest and water. If symptoms get worse, the safe answer is to descend. Our guides carry a first-aid kit, and evacuation by helicopter can be arranged if needed, which is why insurance is essential."
+        }
+      ]
+    },
+    {
+      "slug": "ghunsa-gompa-morning",
+      "title": "Morning at the Ghunsa gompa",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Early morning, any trekking season",
+      "image_query": "Ghunsa monastery prayer flags",
+      "wiki": "",
+      "summary": "A short, quiet visit to the Buddhist temple above Ghunsa village, with prayer wheels, butter lamps and murals, and a conversation with a caretaker or villager about the place of the gompa in village life.",
+      "body": [
+        "The gompa is the centre of Ghunsa's religious life. Villagers come here for daily prayers, for the ceremonies that mark births, deaths and the farming year, and for festivals in the Tibetan calendar. Lamas from the village or the wider area lead the rituals, and families take turns in looking after the building and lighting the lamps. It sits a short walk above the houses, with prayer flags strung between poles around it.",
+        "We walk up in the early morning, turn the prayer wheels and step inside if the caretaker opens the door. Our guide explains the murals and statues, and the meaning of the mani stones and prayer flags you have been passing for days on the trail. You learn why trekkers pass mani walls on the left, why prayer flags come in five colours, and what the carved syllables om mani padme hum mean.",
+        "A small donation for the upkeep of the temple is welcome, placed in the box or handed to the caretaker. It is a short visit that fits easily into the rest day, before or after the acclimatisation hike. If you happen to be in Ghunsa during a ceremony, you may hear horns, drums and chanting from the gompa; ask your guide whether visitors may watch, and keep to the back."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "trekkers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Can trekkers visit the Ghunsa gompa?",
+          "a": "Yes, visitors are usually welcome if the caretaker is there to open it. Remove your shoes and hat inside, walk clockwise, do not point your feet at the altar and ask before taking photographs. A small donation is customary."
+        },
+        {
+          "q": "What religion do people follow in Ghunsa?",
+          "a": "Ghunsa's people are Tibetan Buddhists. You see this in the gompa, prayer flags, mani walls and chortens around the village, and in the butter lamps lit each day in homes and in the temple. Many households also keep a small shrine room or altar."
+        },
+        {
+          "q": "Are there festivals in Ghunsa?",
+          "a": "Villagers celebrate Lhosar, the Tibetan New Year, usually in February or March, and other festivals of the Tibetan Buddhist calendar. Dates follow the lunar calendar and many families spend winter lower down, so ask us when you plan your trek."
+        }
+      ]
+    },
+    {
+      "slug": "ghunsa-yak-herding-village-walk",
+      "title": "Village lanes and yak herders of Ghunsa",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Oct–Nov and Apr–May",
+      "image_query": "Yaks Ghunsa village Taplejung",
+      "wiki": "",
+      "summary": "An afternoon walk through Ghunsa's stone and timber lanes as yaks and herders return, with a guide who explains seasonal herding, potato and barley farming, and how a high Himalayan village feeds itself.",
+      "body": [
+        "Ghunsa's houses stand close together along the river, built from local stone and timber, with firewood stacked under the eaves for winter. Prayer flags fly from tall poles beside the doors, and many houses have a ground floor for animals and stores, with the family living above. Walls of stone mark the potato and barley fields, which are small and carefully tended in the short summer growing season.",
+        "In the late afternoon herders bring yaks and crossbred cattle down to the village, and families work in the potato fields. Our guide explains how herding works through the year, from summer kharka high up the valley to the shelter of the village in the cold months, and how families combine herding with lodges and portering. You learn how yak and dzo differ, and why butter, cheese and dried meat matter so much here.",
+        "Ask before photographing people and animals, and keep a safe distance from the yaks, which can be nervous with strangers. The walk ends at your lodge kitchen, the warmest room in the village, where the family may be churning butter tea or cooking dinner on the stove. It is the best place to ask more questions, and to warm your hands before the cold night sets in."
+      ],
+      "good_for": [
+        "photographers",
+        "trekkers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Are yaks dangerous on the Kanchenjunga trail?",
+          "a": "Yaks are usually calm but large and unpredictable. When a yak train passes, step to the uphill side of the trail, never the drop side, and wait until they have gone. Do not get between a herder and the animals."
+        },
+        {
+          "q": "What do people grow in Ghunsa?",
+          "a": "Mainly potatoes and barley, with some buckwheat and vegetables in the short summer. Most other food, including rice, is carried up the valley by porters or mules, which is why prices rise as you go higher."
+        },
+        {
+          "q": "Can I stay with a family in Ghunsa?",
+          "a": "Lodges in Ghunsa are family homes as well as guesthouses, so you already eat in the family kitchen in most of them and share their evening. We choose lodges where the families are welcoming and the rooms are clean, and we pay them directly."
+        }
+      ]
+    },
+    {
+      "slug": "ghunsa-kanchenjunga-conservation-talk",
+      "title": "The Kanchenjunga Conservation Area story",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Evening, any trekking season",
+      "image_query": "Kanchenjunga Conservation Area landscape",
+      "wiki": "Kanchenjunga Conservation Area",
+      "summary": "A conversation over tea about how Ghunsa's valley came to be run by its own people: the 1997 conservation area, the 2006 handover to a local council, the helicopter crash that followed, and the snow leopards and red pandas the area protects.",
+      "body": [
+        "The Kanchenjunga Conservation Area covers 2,035 km² of Taplejung's high country, from the forests of the lower valleys to the glaciers of Kanchenjunga, bordering Tibet and Sikkim. It was declared in 1997, and in September 2006 its management was handed to a council of local people, a step in Nepal's move toward community-run conservation. Your permit fees go to the council for conservation and community work.",
+        "During the handover, a chartered helicopter carrying officials, conservationists and WWF staff on a flight between Phungling and Ghunsa crashed. All 24 aboard died, including some of Nepal's best-known figures in conservation. Our guide tells the story as people in the valley remember it, and what has changed since: lodges, trails, local rules on firewood and rubbish, and the way the council works with the villages.",
+        "We also talk about wildlife: snow leopards, blue sheep, musk deer and red pandas live in the conservation area, and you may see blue sheep on the slopes above Kambachen. Our guide explains the simple rules trekkers follow to help: carry out plastic, use kerosene or gas rather than wood where possible, keep to trails, and never feed or chase animals. It is a short conversation that gives the next days new meaning."
+      ],
+      "good_for": [
+        "trekkers",
+        "solo",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Who manages the Kanchenjunga Conservation Area?",
+          "a": "Since 2006 a local management council has run the Kanchenjunga Conservation Area, with support from the government's national parks department. Permit fees go to conservation and community projects. Rules and fees can change; check current status before you travel."
+        },
+        {
+          "q": "Can you see snow leopards near Ghunsa?",
+          "a": "Snow leopards live in the Kanchenjunga Conservation Area, but sightings are very rare. Blue sheep, their main prey, are seen more often on the slopes above Kambachen and Lhonak. Keep your camera ready and your voice low."
+        },
+        {
+          "q": "What permits are needed for Ghunsa?",
+          "a": "You need the Kanchenjunga Conservation Area entry permit and a restricted area permit for this part of Taplejung, issued through a registered trekking agency, usually for at least two trekkers with a licensed guide. Since April 2023 a licensed guide is required in any case. Check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Ghunsa?",
+      "a": "Ghunsa is a village at about 3,475 m in the upper Ghunsa valley, Taplejung district, far north-eastern Nepal, inside the Kanchenjunga Conservation Area. It lies on the trek to Pang Pema, the north base camp of Kanchenjunga."
+    },
+    {
+      "q": "How many days does it take to reach Ghunsa?",
+      "a": "From Taplejung it usually takes about 5–7 days of trekking, depending on how far jeeps can drive up the valley. Add 1–2 days from Kathmandu to Taplejung by flight and road. Roads are changing quickly here; check current status before you travel."
+    },
+    {
+      "q": "What permits do I need for Ghunsa?",
+      "a": "A Kanchenjunga Conservation Area permit and a Kanchenjunga restricted area permit. As we understand it, the restricted permit needs at least two trekkers, booking through a registered agency and a licensed guide. Since April 2023 a licensed guide is required for foreign trekkers anyway. Check current status before you travel."
+    },
+    {
+      "q": "Are there lodges in Ghunsa?",
+      "a": "Yes. Ghunsa has several family-run teahouses with simple twin rooms, shared toilets, stove-heated dining rooms and hot meals. It is the best equipped village on the north side of the Kanchenjunga trek, with small shops and paid hot showers."
+    },
+    {
+      "q": "Is there mobile signal or wifi in Ghunsa?",
+      "a": "Mobile coverage in the Kanchenjunga region is patchy and wifi, where offered, is slow and paid. Do not rely on either for bookings or emergencies. Many trekking groups, including ours, carry a satellite messenger so they can call for help if needed."
+    },
+    {
+      "q": "What is the weather like in Ghunsa?",
+      "a": "In October and November days are usually clear and cool, with nights well below freezing. April and May are milder with more afternoon cloud. December to February is very cold with snow, and June to September is wet with cloud and leeches lower down."
+    },
+    {
+      "q": "Do I need a rest day in Ghunsa?",
+      "a": "Yes. Most safe itineraries spend two nights in Ghunsa, with a short hike higher on the rest day, before continuing to Kambachen and Lhonak. Skipping it raises the risk of altitude sickness and makes the climb to Pang Pema much harder."
+    },
+    {
+      "q": "Can I go from Ghunsa to the south side of Kanchenjunga?",
+      "a": "Yes. The full Kanchenjunga circuit links the north and south base camps by crossing high passes between Ghunsa and the Yalung side. It is a longer, harder trek that needs extra days and good weather. Ask us for the route and current conditions."
+    },
+    {
+      "q": "Who lives in Ghunsa?",
+      "a": "Buddhist families of Tibetan descent who speak a Tibetan dialect and Nepali. They herd yaks, grow potatoes and barley, trade, run lodges and work on treks. The village has a gompa, mani walls and prayer flags."
+    }
+  ]
+}

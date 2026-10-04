@@ -1,0 +1,273 @@
+{
+  "slug": "terai-east-to-west-overland-12n",
+  "title": "The Terai East to West Overland",
+  "region": "chitwan-terai",
+  "kind": "overland",
+  "nights": 12,
+  "themes": [
+    "wildlife-and-jungle",
+    "heritage-and-temples",
+    "spiritual-and-pilgrimage",
+    "villages-and-homestays",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "koshi-tappu",
+      "nights": 2
+    },
+    {
+      "place": "janakpur",
+      "nights": 2
+    },
+    {
+      "place": "sauraha",
+      "nights": 2
+    },
+    {
+      "place": "lumbini",
+      "nights": 2
+    },
+    {
+      "place": "bardia",
+      "nights": 2
+    },
+    {
+      "place": "shuklaphanta",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 2450,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2
+  ],
+  "pace": "Active",
+  "max_altitude_m": 1400,
+  "meta_description": "Nepal Terai overland, 12 nights east to west: Koshi Tappu, Janakpur, Chitwan, Lumbini, Bardia and Shuklaphanta by private car on the East-West Highway.",
+  "summary": "Twelve nights across the whole Nepal Terai by private car: from the wetlands of Koshi Tappu in the far east, through Maithil Janakpur, Chitwan's rhino country and the Buddha's birthplace at Lumbini, to the tiger forests of Bardia and the swamp deer grasslands of Shuklaphanta. Fly out to Biratnagar, home from Dhangadhi.",
+  "intro": [
+    "Most visitors see the Terai as a strip of heat between the mountains and India, crossed on the way to somewhere else. It is in fact the most varied part of Nepal: Maithil, Bhojpuri, Awadhi and Tharu cultures, the Buddha's birthplace, five national parks and a wildlife reserve, and some of the best food in the country. More than half of Nepal's people live in these plains. We have travelled this road many times.",
+    "This journey travels the length of it, about 1,000 km on the Mahendra Highway, also called the East-West Highway, with no drive longer than a working day and two nights in most places. You fly to Biratnagar, travel west by private car with the same driver and guide throughout, and fly home from Dhangadhi near the far-western border. It suits travellers who have seen the mountains and want to understand the rest of Nepal."
+  ],
+  "story": "It starts in water. At Koshi Tappu the river spreads across a plain so flat the horizon seems to curve, and wild buffalo stand in the shallows. West of the Koshi the houses change: painted walls, temple ponds and the Maithili of Janakpur, with bells at Janaki Mandir before dawn. Then the forest returns. In Chitwan rhino graze by the river and Tharu villages wake to the creak of oxcarts. At Lumbini, the pace slows to a walk around a garden where a prince was born two and a half thousand years ago. Further west the land empties again and the Karnali comes down green and wide from the far-western hills. Bardia is quiet tiger country, and at Shuklaphanta, in the last corner of Nepal, hundreds of swamp deer graze open grassland under a huge sky.",
+  "highlights": [
+    "Koshi Tappu, Nepal's first Ramsar site, home to the last wild water buffalo in the country",
+    "Janakpur's Janaki Mandir and the Mithila painting of Maithil women artists",
+    "Rhino and canoe trips in Chitwan National Park",
+    "The Maya Devi Temple and Ashoka Pillar in Lumbini, birthplace of the Buddha",
+    "Tigers on the Karnali in Bardia and swamp deer herds in Shuklaphanta"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "We meet you at Tribhuvan International Airport and transfer you to your hotel. Your guide, who will travel with you for the whole journey, meets you in the evening to walk through the route, the parks and the culture of the Terai. If you arrive early, an afternoon at Patan Durbar Square or Boudhanath is a good way to set the scene. Dinner is free tonight. Rest well; the next morning starts early.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Fly to Biratnagar, drive to Koshi Tappu",
+      "place": "koshi-tappu",
+      "overnight": "Koshi Tappu",
+      "alt_m": 75,
+      "move": "45 min flight + ≈ 1.5 h drive",
+      "text": "A morning flight east to Biratnagar, Nepal's main industrial city in the east, with Himalayan views on the left side of the plane on clear days. Your driver meets you for the drive to a camp near Kusaha, headquarters of Koshi Tappu Wildlife Reserve. In the afternoon walk the embankment with a naturalist for waterbirds and the first sight of the wide, braided Sapta Koshi. Swamp francolin call from the reeds at dusk.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Koshi Barrage and the river",
+      "place": "koshi-tappu",
+      "overnight": "Koshi Tappu",
+      "alt_m": 75,
+      "move": "",
+      "text": "Sunrise at the Koshi Barrage, where in winter thousands of ducks, gulls and terns gather on the open water. After breakfast, a boat trip on the river to look for wild water buffalo, which Nepalis call arna, and with luck Gangetic river dolphins. The reserve was created in 1976 to protect the arna, and in 1987 it became Nepal's first wetland listed under the Ramsar Convention. In the afternoon visit a nearby Tharu or Mushahar village with your guide.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "West to Janakpur",
+      "place": "janakpur",
+      "overnight": "Janakpur",
+      "alt_m": 74,
+      "move": "≈ 160 km · 4–5 h drive",
+      "text": "We cross the Koshi and drive west through Saptari and Siraha, where the villages are Maithil and the houses have painted walls and courtyard shrines. Arrive in Janakpur by early afternoon and rest. In the late afternoon walk to Janaki Mandir, built in 1910 by a queen from Tikamgarh in central India, and stay for the evening aarti. Then walk to the ghats of Ganga Sagar, where families light oil lamps on the water.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Mithila art and Dhanusha Dham",
+      "place": "janakpur",
+      "overnight": "Janakpur",
+      "alt_m": 74,
+      "move": "≈ 18 km to Dhanusha Dham",
+      "text": "Morning at the Janakpur Women's Development Centre in Kuwa, where Maithil women paint the fish, peacocks and wedding scenes of Mithila art on paper, pottery and cloth. Try a short painting lesson. After lunch, a drive to Dhanusha Dham, where tradition says a piece of Shiva's bow fell when Ram broke it to win Sita's hand. Back in town, a short ride on the Janakpur–Jaynagar railway or an evening in the sweet shops of the bazaar.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Janakpur to Chitwan",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 290 km · 7–8 h drive",
+      "text": "The longest drive of the trip, west through Bardibas and Pathlaiya, then north-west to Hetauda and along the Rapti valley to Chitwan. The Churia hills rise on the right and the forest thickens. We stop for lunch and tea along the way. You reach Sauraha, on the Rapti River at the edge of Chitwan National Park, in the late afternoon, in time for a sunset walk on the riverbank, where rhino often come to graze.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Canoe and jeep in Chitwan",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "",
+      "text": "A dawn dugout canoe trip on the Rapti, with mugger crocodiles and kingfishers on the banks, then a short guided walk. After breakfast, a visit to the elephant breeding centre at Khorsor. In the afternoon, a jeep safari into the park for rhino, deer, monkeys and birds, and the chance of a sloth bear, gaur or leopard. In the evening a Tharu village visit and a stick dance by a local youth group.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "On to Lumbini",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 100,
+      "move": "≈ 170 km · 5 h drive",
+      "text": "Drive west through Nawalparasi to Butwal and south to Lumbini, the birthplace of Siddhartha Gautama, the Buddha. After lunch and a rest, walk into the sacred garden to the Maya Devi Temple, which shelters the marker stone of the birth spot, the Ashoka Pillar raised in about 249 BCE, and the Puskarini pond where tradition says Maya Devi bathed. The garden is quiet at dusk, when monks chant under the bodhi tree.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Monasteries and Tilaurakot",
+      "place": "tilaurakot",
+      "overnight": "Lumbini",
+      "alt_m": 100,
+      "move": "≈ 27 km · 1 h to Tilaurakot",
+      "text": "Morning by bicycle or electric rickshaw through the monastic zone, where Buddhist countries and communities have built monasteries in their own styles: Thai, Vietnamese, German, Chinese, Myanmar and many more. After lunch, drive west to Tilaurakot, the archaeological site identified by many scholars with ancient Kapilavastu, where the Buddha is said to have grown up as a prince. Walk the brick foundations and the eastern gate, through which tradition says he left his palace.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Lumbini to Bardia",
+      "place": "bardia",
+      "overnight": "Bardia (Thakurdwara)",
+      "alt_m": 150,
+      "move": "≈ 330 km · 7–8 h drive",
+      "text": "A long day west on the East-West Highway, through Dang's Tharu villages and over the Siwalik hills to Kohalpur, then north to Thakurdwara on the edge of Bardia National Park. The last stretch runs through sal forest, often with deer and monkeys by the road. Settle into Tiger Tops Karnali Lodge, built in a Tharu style in gardens near the park. Evening by the fire with the naturalists. We stop for lunch in Dang.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Bardia jungle and the Karnali",
+      "place": "bardia",
+      "overnight": "Bardia (Thakurdwara)",
+      "alt_m": 150,
+      "move": "",
+      "text": "A full day in Bardia National Park with naturalists, by jeep and on foot, to sit by the Karnali and Orai rivers where tigers come down to drink. Bardia had about 125 tigers in Nepal's 2022 survey, and its quiet tracks give some of the best tiger chances in the country. Wild elephants, swamp deer, langurs and mugger crocodiles are likely; rhino and dolphin are possible. Lunch is packed, and you return at dusk.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "To Shuklaphanta in the far west",
+      "place": "shuklaphanta",
+      "overnight": "Shuklaphanta (Mahendranagar)",
+      "alt_m": 170,
+      "move": "≈ 190 km · 4–5 h drive",
+      "text": "West across the Karnali bridge at Chisapani, one of the great river crossings of Nepal, and on through Kailali to Mahendranagar, now part of Bhimdatta municipality, near the Indian border. In the afternoon, a jeep safari into Shuklaphanta National Park, whose great grassland, the Shuklaphanta phanta, holds one of the largest herds of swamp deer in Asia. The park is also good for grassland birds, including Bengal florican, and for tigers.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Fly Dhangadhi to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 1.5 h drive + ≈ 1 h 15 min flight",
+      "text": "A last morning drive through the grassland if you wish, then the drive east to Dhangadhi for the flight to Kathmandu. On clear days the far-western Himalaya shows on the left of the plane. We transfer you to your hotel or the international airport. You will have crossed the whole of lowland Nepal, from the Koshi to the Mahakali, and seen a side of the country very few visitors know.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "green-park-chitwan",
+    "buddha-maya-garden-hotel",
+    "tiger-tops-karnali-lodge"
+  ],
+  "includes": [
+    "Flights Kathmandu–Biratnagar and Dhangadhi–Kathmandu",
+    "Private car with driver from Biratnagar to Dhangadhi",
+    "English-speaking guide throughout; naturalists and licensed park guides in each park",
+    "12 nights' accommodation, twin sharing, including Green Park Chitwan, Buddha Maya Garden Hotel and Tiger Tops Karnali Lodge",
+    "Meals as listed",
+    "Entry fees for Koshi Tappu, Chitwan, Bardia and Shuklaphanta, Lumbini and Tilaurakot"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Meals not listed, drinks and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "The East-West Highway is being widened in sections; road works can add an hour or two to some days.",
+    "Accommodation at Koshi Tappu, Janakpur and Shuklaphanta is simpler than in Chitwan or Bardia: clean and comfortable, not luxurious.",
+    "Political strikes, or bandh, occasionally close roads in the Terai; we keep a spare half-day in the plan.",
+    "Park and reserve entry fees are charged per day in each park; check current status before you travel.",
+    "The best window is November to March; from April temperatures pass 38 °C."
+  ],
+  "faqs": [
+    {
+      "q": "What is the Terai?",
+      "a": "The Terai is Nepal's lowland belt along the Indian border, a strip of plains 25 to 50 km wide that rises to the Siwalik or Churia hills. It holds much of Nepal's farmland, more than half its people, five national parks and a wildlife reserve. Cultures here include Maithil, Bhojpuri, Awadhi and Tharu, very different from those of the hills."
+    },
+    {
+      "q": "How long is the drive across the Terai?",
+      "a": "The East-West Highway runs about 1,000 km from Kakarbhitta in the east to Mahendranagar in the far west. This trip covers most of it in stages of 3 to 8 hours, with flights at each end. Driving it all non-stop would take more than two days, so we break it into short legs with two nights in most places."
+    },
+    {
+      "q": "Is overland travel in the Terai comfortable?",
+      "a": "With a private car and air conditioning, yes. The highway is mostly paved and flat, and sections have been widened in recent years. Expect heavy trucks, slow traffic through towns and occasional road works. We stop every couple of hours for tea and stretches, and we never drive after dark between towns."
+    },
+    {
+      "q": "Which national parks does this trip visit?",
+      "a": "Three national parks and one wildlife reserve: Koshi Tappu Wildlife Reserve in the east, Chitwan National Park in the centre, and Bardia and Shuklaphanta national parks in the far west. Each is different: wetlands at Koshi, rhino grassland and sal forest in Chitwan, the Karnali floodplain in Bardia and swamp deer grassland at Shuklaphanta."
+    },
+    {
+      "q": "Can I see a tiger on this trip?",
+      "a": "It is possible. Nepal counted about 355 wild tigers in 2022, and this trip passes through three parks with tigers: Chitwan, Bardia and Shuklaphanta. Bardia gives the best chances, but sightings always depend on luck and patience. Rhino, swamp deer, wild buffalo and many birds are much more likely."
+    },
+    {
+      "q": "What is the best time for this Terai journey?",
+      "a": "November to March. Days are warm and dry, nights cool, and wildlife viewing is good, especially from February when grass is cut. December and January bring morning fog, which can delay flights and slow driving. From April, heat passes 38 °C, and June to September is monsoon, with flooding in parts of the Terai."
+    },
+    {
+      "q": "Can I shorten this trip?",
+      "a": "Yes. Popular shorter versions are Chitwan, Lumbini and Bardia in 8 nights, or Koshi Tappu, Janakpur and Chitwan in 7 nights. You can also fly between sections: Nepalgunj, Bhairahawa, Bharatpur, Janakpur and Biratnagar all have flights to Kathmandu. We will shape the route to your time and interests."
+    },
+    {
+      "q": "Is the Terai safe for travellers?",
+      "a": "Yes. The Terai sees few foreign travellers and people are friendly and curious. The main issues are road safety, heat and occasional strikes or protests, which we monitor. Drink only filtered or bottled water, use mosquito repellent and travel with your guide in towns at night."
+    },
+    {
+      "q": "What food will I eat across the Terai?",
+      "a": "Each area has its own: Tharu dhikri and river snails in Chitwan and Bardia, dahi chura and fish in Janakpur, freshwater fish near Koshi, and the dal bhat of every roadside stop. Sweets such as jalebi and peda are everywhere. Hotels serve Nepali, Indian and simple Western dishes."
+    }
+  ]
+}

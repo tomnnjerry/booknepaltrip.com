@@ -1,0 +1,7 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal festival calendar, month by month · Book Nepal Trip{% endblock %}
+{% block description %}Nepal's festivals by month, with the Nepali (Bikram Sambat) months alongside: Dashain, Tihar, Indra Jatra, Bisket, Tiji, Mani Rimdu, Chhath and more.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Festivals</p><h1 class="h-xl">The festival calendar</h1><p class="lede">Most festivals follow the lunar calendar, so their dates move each year. We confirm every date before we build a plan. Check current status before you travel.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px">{% for m in by_month %}{% if m.festivals %}<div class="altcol"><div class="altcol__k"><span class="h-m" style="font-family:var(--f-display)">{{ m.name }}</span><span class="mono">{{ m.bs }}</span></div><div class="grid grid--3">{% for f in m.festivals %}{% include "yatra/partials/card_fest.html" %}{% endfor %}</div></div>{% endif %}{% endfor %}</section>
+{% endblock %}

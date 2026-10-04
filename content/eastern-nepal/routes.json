@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "kathmandu-to-ilam",
+    "from": "kathmandu",
+    "to": "ilam",
+    "distance_km": 600,
+    "summary": "Kathmandu to Ilam is about 600 km by road, 14–16 hours by overnight bus. The quicker way is a 45–50 minute flight to Bhadrapur in Jhapa, then about 100 km and 3–4 hours by car up the Mechi Highway through Birtamod or Charali and the tea hills of Kanyam.",
+    "options": [
+      {"mode": "Flight + private car", "time": "≈ 5–6 h door to door", "text": "Fly Kathmandu to Bhadrapur, about 45–50 minutes with several flights a day in season. Our driver meets you at the airport and drives about 100 km via Birtamod or Charali and up the Mechi Highway, past Kanyam and Fikkal, to Ilam bazaar in 3–4 hours. This is the best option for most travellers. Flight schedules change; check current status before you travel."},
+      {"mode": "Overnight tourist or local bus", "time": "14–16 h", "text": "Night buses leave Kathmandu in the afternoon and reach Ilam the next morning, via the East–West Highway and Birtamod. It is cheap but long and tiring, with rest stops at roadside restaurants. Choose a reputable operator and a front seat if you get carsick. Some buses go only to Birtamod, where you change for Ilam."},
+      {"mode": "Private car over two days", "time": "2 days", "text": "A private car lets you break the drive, for example with a night in Chitwan, Janakpur or the Koshi Tappu area, then continue east along the East–West Highway and up the Mechi Highway. It suits families and anyone who wants to see the Terai on the way."}
+    ],
+    "stops_on_way": ["Birtamod", "Charali", "Kanyam", "Fikkal"],
+    "tip": "Take a morning flight to Bhadrapur so you drive up the Mechi Highway in daylight and reach Ilam before dark.",
+    "faqs": [
+      {"q": "What is the fastest way from Kathmandu to Ilam?", "a": "Fly from Kathmandu to Bhadrapur, about 45–50 minutes, then drive about 3–4 hours to Ilam. Door to door it takes 5–6 hours. By road the trip takes 14–16 hours. Check current flight schedules and road conditions before you travel."},
+      {"q": "Is there an airport in Ilam?", "a": "No. Ilam has no airport with scheduled flights. The nearest is Bhadrapur in Jhapa district, about 100 km and 3–4 hours by road. Biratnagar is another option, a little further away."},
+      {"q": "Can I stop at Kanyam on the way to Ilam?", "a": "Yes. Kanyam lies on the Mechi Highway between the Terai and Ilam, so it is an easy stop of an hour or more for the tea garden. If you have time, spend a night nearby for sunrise at Antu Danda."},
+      {"q": "Is the road to Ilam safe?", "a": "The Mechi Highway is paved and well used, but steep and winding, and landslides can block it in the monsoon from June to September. Travel in daylight with an experienced driver, and check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-tumlingtar",
+    "from": "kathmandu",
+    "to": "tumlingtar",
+    "distance_km": 560,
+    "summary": "Kathmandu to Tumlingtar is about 45 minutes by air, the usual way for Makalu trekkers. By road it is roughly 550–600 km and two days, via the East–West Highway, Itahari, Dharan, Dhankuta, Hile and Khandbari, a scenic route through the Koshi hills.",
+    "options": [
+      {"mode": "Flight", "time": "≈ 45 min", "text": "Scheduled flights run from Kathmandu to Tumlingtar, landing on the flat terrace above the Arun river. Services vary by season and are often delayed or cancelled by cloud, especially in the monsoon. We book morning flights and keep a spare day in Makalu itineraries. Check current status before you travel."},
+      {"mode": "Private jeep over two days", "time": "2 days", "text": "Drive from Kathmandu to Dharan or Dhankuta on day one, about 10–12 hours via the Sindhuli road or the East–West Highway, then continue through Hile and Khandbari to Tumlingtar on day two, about 6–8 hours. The drive passes Bhedetar, Dhankuta and Hile, all good overnight stops."},
+      {"mode": "Flight to Biratnagar + jeep", "time": "≈ 1 day", "text": "Fly Kathmandu to Biratnagar, about 40 minutes with frequent flights, then drive north via Itahari, Dharan, Dhankuta and Hile to Khandbari and Tumlingtar, roughly 8–10 hours. This is a reliable alternative when Tumlingtar flights are cancelled."}
+    ],
+    "stops_on_way": ["Itahari", "Dharan", "Bhedetar", "Dhankuta", "Hile", "Khandbari"],
+    "tip": "If your Tumlingtar flight is cancelled, switch to the Biratnagar flight and drive north the same day rather than waiting.",
+    "faqs": [
+      {"q": "How long is the flight from Kathmandu to Tumlingtar?", "a": "About 45 minutes. Schedules vary by season and flights are often affected by cloud, so build a spare day into any itinerary that depends on them. Check current status before you travel."},
+      {"q": "Can I drive from Kathmandu to Tumlingtar?", "a": "Yes. The road route runs via Dharan, Dhankuta, Hile and Khandbari, roughly 550–600 km, and usually takes two days. Long sections are paved, but landslides can cause delays in the monsoon."},
+      {"q": "Which is better for Makalu: Tumlingtar or Biratnagar?", "a": "Tumlingtar is closer and saves a day when flights operate. Biratnagar has more frequent and reliable flights, followed by a long drive north. We usually book Tumlingtar with Biratnagar as the backup plan."},
+      {"q": "What is the baggage limit on flights to Tumlingtar?", "a": "Domestic airlines in Nepal usually allow about 10–15 kg of checked baggage plus a small hand bag on these routes, with charges for extra weight. Limits vary by airline; check your ticket before you pack."}
+    ]
+  },
+  {
+    "slug": "ilam-to-kanyam",
+    "from": "ilam",
+    "to": "kanyam",
+    "distance_km": 35,
+    "summary": "Ilam bazaar to Kanyam is roughly 35 km along the Mechi Highway, about 1–1.5 hours by car or a little longer by local bus or jeep, through tea gardens, cardamom plots and the market town of Fikkal.",
+    "options": [
+      {"mode": "Private car", "time": "1–1.5 h", "text": "The easiest way, with stops wherever you like for tea gardens and views. Most travellers do Kanyam as a half-day trip from Ilam, or stop on the way down to Bhadrapur. Add Antu Danda for sunrise by staying a night near Kanyam or Fikkal."},
+      {"mode": "Local bus or shared jeep", "time": "1.5–2 h", "text": "Buses and shared jeeps between Ilam and the Terai run along the Mechi Highway and stop at Kanyam. They are cheap and frequent in the daytime but can be crowded, especially on holidays. Ask to be dropped at Kanyam tea garden."}
+    ],
+    "stops_on_way": ["Fikkal", "Tea gardens along the Mechi Highway"],
+    "tip": "Go early in the morning so you reach Kanyam before the weekend crowds from the plains arrive.",
+    "faqs": [
+      {"q": "How far is Kanyam from Ilam?", "a": "Roughly 35 km along the Mechi Highway, about 1–1.5 hours by car. Road works and weekend traffic can add time. Check current status before you travel in the monsoon."},
+      {"q": "Can I do Ilam and Kanyam in one day?", "a": "Yes. Many travellers walk Ilam Tea Estate in the morning and drive to Kanyam in the afternoon, or the other way round. Two nights in the area is more relaxed and lets you add Antu Danda or Mai Pokhari."},
+      {"q": "Is there public transport from Ilam to Kanyam?", "a": "Yes. Buses and shared jeeps on the Mechi Highway stop at Kanyam. They run frequently in daylight but rarely after dark. A private car is more flexible for photo stops."},
+      {"q": "Should I stay in Ilam or Kanyam?", "a": "Ilam bazaar has more places to stay and eat, and the old tea estate is walkable from town. Kanyam and Fikkal suit an early start to Antu Danda. Many travellers stay in Ilam and visit Kanyam on a day trip."}
+    ]
+  },
+  {
+    "slug": "dhankuta-to-hile",
+    "from": "dhankuta",
+    "to": "hile",
+    "distance_km": 13,
+    "summary": "Dhankuta to Hile is about 13 km north along the Koshi Highway, a 30–40 minute drive that climbs from about 1,190 m to about 1,950 m along the ridge, past tea gardens and farm villages.",
+    "options": [
+      {"mode": "Private car", "time": "30–40 min", "text": "A short, scenic drive up the ridge with views over the hills on both sides. Stop at a tea garden on the way if you have booked a visit. Hile is a natural place for lunch or a tongba evening before continuing north to Basantapur or Khandbari."},
+      {"mode": "Local bus or shared jeep", "time": "40–60 min", "text": "Frequent buses and jeeps running north from Dharan and Dhankuta to Hile, Basantapur and Khandbari stop in both towns. They are cheap and run through the day. Expect crowded seats around festivals."}
+    ],
+    "stops_on_way": ["Tea gardens on the ridge", "Farm villages above Dhankuta"],
+    "tip": "Drive up in the late afternoon, check into a lodge in Hile and walk the ridge at sunrise the next day.",
+    "faqs": [
+      {"q": "How far is Hile from Dhankuta?", "a": "About 13 km north along the Koshi Highway, or 30–40 minutes by car. The road climbs roughly 750 m from Dhankuta to Hile's ridge at about 1,948 m."},
+      {"q": "Should I stay in Dhankuta or Hile?", "a": "Dhankuta has the calmer old bazaar and orange orchards; Hile has cooler air, tongba kitchens and sunrise views from the ridge. With one night, choose Hile for atmosphere. With two, spend one in each."},
+      {"q": "Can I walk from Dhankuta to Hile?", "a": "Yes, local footpaths link the two through farm villages and tea gardens, a walk of roughly 4–5 hours uphill. A guide helps with route-finding, as paths cross the highway and fork often."},
+      {"q": "What is beyond Hile on the road north?", "a": "North of Hile the road continues to Basantapur, gateway to the Tinjure–Milke–Jaljale rhododendron ridge, and on to Khandbari and Tumlingtar in Sankhuwasabha, the starting point for the Makalu trek."}
+    ]
+  }
+]

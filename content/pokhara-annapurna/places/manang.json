@@ -1,0 +1,171 @@
+{
+  "slug": "manang",
+  "name": "Manang",
+  "name_ne": "मनाङ",
+  "local_name": "Nyeshang (Manange)",
+  "region": "pokhara-annapurna",
+  "kind": "village",
+  "wiki": "Manang",
+  "image_query": "Manang village Annapurna III Gangapurna",
+  "lat": 28.6667,
+  "lng": 84.0167,
+  "altitude_m": 3519,
+  "tagline": "A dry Tibetan Buddhist valley behind the Annapurnas",
+  "meta_description": "Manang (3,519 m) with locals: the Nyeshang valley on the Annapurna Circuit, Braga monastery, Ice Lake, Gangapurna Lake, Tilicho, acclimatisation, road and permits.",
+  "summary": "Manang is a stone village at 3,519 m in the upper Marsyangdi valley, north of the Annapurna range, home of the Nyeshang (Manangi) people. In the rain shadow, dry and Tibetan Buddhist, it is the classic acclimatisation stop before the 5,416 m Thorong La on the Annapurna Circuit, with day hikes to Ice Lake and Gangapurna Lake.",
+  "intro": [
+    "Cross to the north side of the Annapurnas and the country changes. Pine forest gives way to juniper, barley fields and bare brown slopes; houses become flat-roofed stone blocks stacked against the hillside; prayer flags, mani walls and chortens line the trail. Manang village sits on the valley's sunny northern slope at 3,519 m, facing the glaciers of Annapurna III, Gangapurna and Tilicho Peak across the river.",
+    "This is the heart of Nyeshang, the upper Manang valley, and its people, the Manangi or Nyeshangte, have a history out of all proportion to their small numbers: herders and farmers who became some of Nepal's most widely travelled traders. Today the village lives mostly on trekking, with dozens of lodges, bakeries and a medical post for altitude sickness, but the old village core and its monastery remain.",
+    "Almost everyone on the Annapurna Circuit spends two nights here to acclimatise before Thorong La, using the rest day for a hike to Ice Lake, the Gangapurna glacier lake or the monastery at Braga. A rough jeep road now reaches Manang from Besisahar, so it can also be visited for a few days without crossing the pass; check road conditions before you travel."
+  ],
+  "story": {
+    "title": "Herders of Nyeshang who traded across Asia",
+    "paras": [
+      "The upper Manang valley, Nyeshang, was settled by people of Tibetan culture who farmed barley, buckwheat and potatoes on the dry slopes and herded yak, sheep and goats on the high pastures. Paths led north to Tibet, and the trail over Thorong La to Muktinath has been used for centuries to move herds of sheep and yak between Manang and the Kali Gandaki.",
+      "What set the Manangi apart was trade. They received special trading rights from the Kathmandu court, and in the 20th century travelled widely in South and Southeast Asia with precious stones, musk, herbs and other goods, bringing back ready-made clothing, watches and electronics. Many families spent winters away trading, and today many Manangi live in Kathmandu for much of the year. In 1960 Manangi families in Pokhara founded Matepani Gumba, the monastery on the hill east of the city.",
+      "The valley was closed to outsiders until the late 1970s. When it opened, the Annapurna Circuit quickly became one of the world's great treks, and Manang's families turned to lodges and bakeries. An airstrip at Humde opened in 1985 but has had no commercial flights since 2012; instead a road has crept up the Marsyangdi. The Manang language, which its speakers call Nyishang, 'our language', is unwritten and now considered threatened."
+    ]
+  },
+  "legend": "In Tibetan Buddhist tradition the yogi Milarepa wandered the Nyeshang region, and local Buddhists point to a cave above the valley near Braga as one of his retreats. A story told here, from his songs, is of a hunter chasing a deer that took refuge beside the meditating yogi. Milarepa sang to the hunter of the suffering of all beings; the hunter laid down his bow and became his disciple.",
+  "people": "The Manangi, or Nyeshangte, are Tibetan Buddhist farmers, herders and traders, speaking the Manang language, close to Gurung and Thakali, alongside Nepali and Tibetan. Gurung people form the largest language group in Manang district as a whole, and Ghale, Tamang and Nar-Phu communities live in nearby valleys. Many families split their year between Manang in summer and Kathmandu or Pokhara in winter, and run lodges in the trekking seasons.",
+  "untold": [
+    {"fact": "Manangi traders received special dispensation to trade in Southeast Asia, travelling abroad with precious stones, musk and herbs; they are counted among Nepal's best-known trading communities.", "source": "Wikipedia: Manang District, Nepal"},
+    {"fact": "Manang's airstrip at Humde, about 2.5 km from the town, was inaugurated in 1985 but has had no commercial flights since 2012; access is now by jeep road or on foot.", "source": "Wikipedia: Manang"},
+    {"fact": "Manang district receives the lowest rainfall of any district in Nepal, because it lies north of the Himalaya, which blocks the monsoon winds.", "source": "Wikipedia: Manang District, Nepal"}
+  ],
+  "local_words": [
+    {"word": "Gompa", "script": "དགོན་པ", "lang": "Tibetan", "meaning": "Buddhist monastery or temple"},
+    {"word": "Chorten", "script": "མཆོད་རྟེན", "lang": "Tibetan", "meaning": "Stupa or reliquary shrine; walk around it clockwise"},
+    {"word": "Tsampa", "script": "རྩམ་པ", "lang": "Tibetan", "meaning": "Roasted barley flour, a staple mixed with tea"}
+  ],
+  "taste": {"name": "Tsampa with salt butter tea", "text": "Roasted barley flour kneaded with salty, buttery tea into a dough or stirred into porridge: the old staple of Nyeshang. Some Manang lodges and family kitchens still make it on request. Bakeries in the village also sell apple and cinnamon rolls that trekkers remember for years."},
+  "facts": [
+    ["Best months", "Apr – May, Sep – Nov"],
+    ["Days we suggest", "2 (acclimatisation)"],
+    ["Nearest airport", "Pokhara (PHH); Humde airstrip has no scheduled flights"],
+    ["From Kathmandu", "≈ 275 km · 2 days by road and jeep via Besisahar"],
+    ["Altitude", "3,519 m"],
+    ["Known for", "Annapurna Circuit, acclimatisation, Tibetan Buddhist villages"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Ice Lake acclimatisation hike", "text": "Climb about 1,100 m from Braga or Manang to Kicho Tal, the Ice Lake, at roughly 4,600 m, with views across to Annapurna II, III, IV and Gangapurna. The classic rest-day hike."},
+    {"title": "Braga monastery", "text": "An old gompa perched above the village of Braga, a short walk from Manang, with chortens, prayer wheels and murals, among the oldest in the valley."},
+    {"title": "Gangapurna glacier lake", "text": "A milky green lake fed by the glaciers of Gangapurna and Annapurna III, just across the river from Manang, with a viewpoint above it."},
+    {"title": "The old village core", "text": "Walk the narrow lanes of stone houses with flat roofs stacked with firewood, past prayer wheels and mani walls, where elders spin wool in the sun."},
+    {"title": "Tilicho Lake side trip", "text": "From Manang, a 2–3 day detour via Khangsar leads to Tilicho Lake at 4,919 m beneath the Tilicho wall, one of the highest large lakes in the world."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Kathmandu, drive about 175 km to Besisahar (5–6 hours), then take a jeep up the Marsyangdi valley road to Chame and Manang, about 100 km and 7–9 hours on a rough road. Landslides, especially in the monsoon, close sections; check road status before you travel."},
+    {"mode": "On foot", "text": "On the Annapurna Circuit, walkers reach Manang in 5–7 days from Besisahar, or 3–4 days from Dharapani or Chame if they drive part way. From Manang, Thorong La (5,416 m) is crossed via Yak Kharka and Thorong Phedi or High Camp in 2–3 days to Muktinath."}
+  ],
+  "where_to_stay": "Manang has dozens of lodges, from simple teahouses to comfortable guesthouses with attached bathrooms, hot showers, bakeries and heated dining rooms, many run by Manangi families. Braga, 30 minutes back down the trail, has quieter lodges and the old monastery. Rooms facing south look across to Gangapurna and Annapurna III. In peak months, especially October and April, book ahead. In Pokhara before or after the circuit, Temple Tree Resort or Hotel Barahi make a comfortable base.",
+  "stays": [],
+  "tips": [
+    "Manang is inside the Annapurna Conservation Area: carry your ACAP permit and TIMS card and trek with a licensed guide; check current status before you travel.",
+    "Spend two nights here before Thorong La and climb high on the rest day, then sleep low again.",
+    "In the trekking seasons the Himalayan Rescue Association aid post in Manang gives afternoon talks on altitude sickness; they are worth attending.",
+    "Walk clockwise around chortens and mani walls, and do not touch religious objects without permission.",
+    "Nights are below freezing from October to April; bring a four-season sleeping bag."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "spiritual-and-pilgrimage", "photography"],
+  "nearby": ["annapurna-base-camp", "ghorepani-poon-hill", "pokhara"],
+  "experiences": [
+    {
+      "slug": "manang-ice-lake-hike",
+      "title": "Ice Lake acclimatisation hike above Braga",
+      "kind": "trek",
+      "duration": "6–7 hours return",
+      "best_time": "Morning, Apr–May and Sep–Nov",
+      "image_query": "Ice Lake Kicho Tal Manang",
+      "wiki": "",
+      "summary": "The best rest-day hike in Manang: climb about 1,100 m from Braga to Kicho Tal, the Ice Lake, at around 4,600 m, for a panorama of Annapurna II, III and IV, Gangapurna and Tilicho Peak, then sleep low again in Manang.",
+      "body": [
+        "Climb high, sleep low: that is the principle behind this hike. From Braga, just below Manang, a steep trail zigzags up the northern side of the valley past yak pastures and herders' shelters. The gain is relentless, about 1,100 m, so walk slowly and stop often. Within an hour the view opens across the valley to the glaciers.",
+        "Kicho Tal, the Ice Lake, lies in a high bowl at roughly 4,600 m and is often partly frozen in autumn and spring. The panorama from its shore is one of the best on the circuit: Annapurna II, III and IV, Gangapurna and Tilicho Peak across the valley, with the Marsyangdi far below. Blue sheep sometimes graze on the slopes.",
+        "Allow 6–7 hours return. Start early, carry water, snacks and warm layers, and turn back if you feel unwell; the point is acclimatisation, not the summit. Returning to sleep at 3,519 m after the climb is exactly what helps your body prepare for Thorong La."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How high is Ice Lake near Manang?", "a": "Ice Lake, Kicho Tal, sits at roughly 4,600 m, about 1,100 m above Manang and Braga. Figures vary slightly by source. It is a steep day hike of 6–7 hours return, used for acclimatisation before Thorong La. Because you sleep back in Manang, the high climb helps your body adjust."},
+        {"q": "Is the Ice Lake hike necessary for Thorong La?", "a": "It is not compulsory, but a climb-high, sleep-low day hike from Manang helps acclimatisation, and Ice Lake is the most rewarding option. If you feel unwell, choose a shorter hike, such as the Gangapurna Lake viewpoint or the walk to Braga monastery, and rest. Never push on with worsening altitude symptoms."},
+        {"q": "What should I bring on the Ice Lake hike?", "a": "Bring 2 litres of water, snacks or a packed lunch, warm layers, windproof jacket, hat, gloves, sunglasses and sunscreen. There are few or no shops on the trail. Walking poles help on the steep descent. Start by 7–8 am to return before afternoon wind and cloud. Your guide should accompany you."}
+      ]
+    },
+    {
+      "slug": "manang-braga-monastery",
+      "title": "Braga monastery and the old Nyeshang villages",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–Nov",
+      "image_query": "Braga monastery Manang gompa",
+      "wiki": "",
+      "summary": "Walk 30 minutes down-valley from Manang to Braga, a village of stacked stone houses below cliffs, and climb to its old gompa with chortens, prayer wheels and murals, among the oldest monasteries in the Nyeshang valley.",
+      "body": [
+        "Braga, also written Bhraka, is built in tiers up a cliff face, its flat-roofed houses stacked so that one family's roof is the next family's yard. Above the village stands the gompa, a Tibetan Buddhist monastery of the old school, with a row of chortens and prayer flags at its feet. It is one of the oldest religious buildings in the valley.",
+        "Inside, if the caretaker is present, you may see painted murals, rows of statues and old texts. Make a donation, walk clockwise and do not photograph inside without permission. The view from the terrace across the valley to Annapurna III and Gangapurna is one of the finest in the area.",
+        "Walk back through the village lanes, past mani walls carved with the mantra om mani padme hum and prayer wheels set in the walls. Elders sit on rooftops spinning wool or drying grain. Combine the visit with the Ice Lake hike, which starts from Braga, or with a slow rest day in Manang."
+      ],
+      "good_for": ["trekkers", "photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "How old is Braga monastery?", "a": "Braga's gompa is often described as around 500 years old and among the oldest in the Nyeshang valley, but we have not found a firm, documented founding date. Treat age claims with caution. What is certain is that it is an important old Tibetan Buddhist monastery for the villages of upper Manang, with old statues and murals."},
+        {"q": "Can tourists enter Braga gompa?", "a": "Visitors are generally welcome when a caretaker is present to open it, usually for a small donation. Remove shoes and hats, walk clockwise, do not touch statues or texts and ask before photographing, especially inside. Opening is not guaranteed; ask at a lodge in Braga or Manang about the caretaker's hours."},
+        {"q": "How far is Braga from Manang?", "a": "Braga is about 2 km down-valley from Manang, about 30 minutes' walk on the main trail, slightly lower in altitude. It has its own lodges, and some trekkers prefer to sleep here because it is quieter. The Ice Lake trail starts from Braga, making it a convenient base for the acclimatisation day."}
+      ]
+    },
+    {
+      "slug": "manang-gangapurna-lake",
+      "title": "Gangapurna glacier lake and viewpoint",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–Nov",
+      "image_query": "Gangapurna lake Manang glacier",
+      "wiki": "Gangapurna Lake",
+      "summary": "Cross the Marsyangdi from Manang to the milky turquoise Gangapurna Lake, fed by the glaciers of Gangapurna and Annapurna III, then climb a ridge above it for a view of icefalls tumbling into the valley.",
+      "body": [
+        "Gangapurna Lake lies directly below Manang, across the river, in the hollow left by the retreating Gangapurna glacier. Its water is a pale green-blue, coloured by rock flour ground by the ice. Above it, the glaciers of Gangapurna (7,455 m) and Annapurna III (7,555 m) hang in broken icefalls.",
+        "A short walk from the village takes you down to the lake shore and across a bridge. From there a trail climbs the moraine ridge to a viewpoint with chortens and prayer flags, where you look straight into the icefall and back across to Manang's stacked houses. In the afternoon the wind picks up and seracs crack and fall with a sound like thunder.",
+        "This is a good half-day for those not ready for Ice Lake, or for a second acclimatisation walk. Climb slowly and enjoy it. Do not walk on the glacier or ice at the lake edge, which is unstable."
+      ],
+      "good_for": ["trekkers", "photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "Where is Gangapurna Lake?", "a": "Gangapurna Lake is a glacial lake directly below Manang village, across the Marsyangdi River, formed by the glaciers of Gangapurna and Annapurna III. It is a short walk from the village. A trail climbs the moraine ridge beside it to a viewpoint. It is often visited on the Manang acclimatisation day."},
+        {"q": "Is the Gangapurna Lake walk good for acclimatisation?", "a": "Yes, as a gentle option. Climbing the viewpoint ridge above the lake gains a little height and keeps you active without the effort of the 1,100 m climb to Ice Lake. Many trekkers do it in the afternoon after resting. Combined with a night in Manang at 3,519 m, it supports acclimatisation for Thorong La."},
+        {"q": "Can you swim in Gangapurna Lake?", "a": "No. The water is glacial and near freezing, the shore and lake edges are unstable moraine, and falling ice from the glacier above poses a risk. It is also a sacred landscape for local people. Enjoy it from the shore and viewpoint, and keep children away from the water's edge and loose slopes."}
+      ]
+    },
+    {
+      "slug": "manang-tilicho-lake-detour",
+      "title": "Detour to Tilicho Lake from Manang",
+      "kind": "adventure",
+      "duration": "2–3 days",
+      "best_time": "Daytime, Apr–May and Sep–Nov",
+      "image_query": "Tilicho Lake Manang",
+      "wiki": "Tilicho Lake",
+      "summary": "A demanding 2–3 day side trip west from Manang via Khangsar to Tilicho Base Camp and up to Tilicho Lake at 4,919 m, a vast blue lake under the ice wall of Tilicho Peak, before rejoining the circuit towards Thorong La.",
+      "body": [
+        "From Manang the trail heads west through the village of Khangsar and an old gompa, then traverses a notorious landslide slope of loose scree above the river, where your guide will want you to move steadily and not stop. Tilicho Base Camp, at around 4,100–4,200 m, has a few lodges in a bleak, impressive valley.",
+        "Next morning, start early for the climb of about 800 m in zigzags to the lake. Tilicho Lake, at 4,919 m, is one of the highest large lakes in the world, often frozen at its edges, beneath the ice-covered wall of Tilicho Peak and the Grande Barrière. The scale is hard to take in: the lake stretches for several kilometres.",
+        "Return to base camp and continue to Yak Kharka or Shree Kharka to rejoin the main route to Thorong La, adding 2–3 days to the circuit. The altitude and the landslide section make this a serious detour: go only when acclimatised, with a licensed guide, and check trail status in Manang first."
+      ],
+      "good_for": ["trekkers", "photographers"],
+      "faqs": [
+        {"q": "How high is Tilicho Lake?", "a": "Tilicho Lake lies at 4,919 m, beneath Tilicho Peak in Manang district. It is often called one of the highest large lakes in the world. Reaching it requires a climb of about 800 m from Tilicho Base Camp, at around 4,100–4,200 m. Good acclimatisation from a few nights in the Manang valley is essential."},
+        {"q": "Is the Tilicho Lake trek dangerous?", "a": "It has real hazards: a long landslide-prone scree traverse between Khangsar and Tilicho Base Camp, altitude near 5,000 m, cold and changeable weather. With acclimatisation, a licensed guide, an early start and good conditions, most fit trekkers complete it. Check trail status in Manang, as rockfall or snow can close sections."},
+        {"q": "How many extra days does Tilicho Lake add to the Annapurna Circuit?", "a": "Usually 2–3 days. A common plan is Manang to Tilicho Base Camp, then the lake and back to base camp, then a crossing to Yak Kharka or Shree Kharka to rejoin the trail to Thorong La. Some routes are longer. Plan your total days so you are not rushed over Thorong La."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Manang?", "a": "Manang village is at 3,519 m in the upper Marsyangdi valley. It is the main acclimatisation stop on the Annapurna Circuit before Thorong La (5,416 m). Altitude symptoms such as headache and poor sleep are common on arrival. Spend two nights, drink water, avoid alcohol and tell your guide if symptoms worsen."},
+    {"q": "Why do trekkers spend two nights in Manang?", "a": "Manang is the standard acclimatisation stop before Thorong La. A rest day lets the body adjust to 3,519 m, and a climb-high, sleep-low hike to Ice Lake or the Gangapurna viewpoint helps further. Skipping it raises the risk of altitude sickness on the way to Thorong Phedi and the pass."},
+    {"q": "Can I drive to Manang?", "a": "Yes. A rough jeep road now runs from Besisahar up the Marsyangdi valley through Chame to Manang, about 100 km and 7–9 hours. It is often damaged by landslides, especially from June to September. Driving up fast removes acclimatisation time, so build in rest days. Check road status before you travel."},
+    {"q": "Do I need a permit for Manang?", "a": "Yes. Manang is inside the Annapurna Conservation Area, so you need an ACAP permit and a TIMS card, and since April 2023 foreign trekkers must walk with a licensed guide. Nar and Phu valleys nearby require a separate restricted-area permit. Check current status before you travel."},
+    {"q": "When is the best time to visit Manang?", "a": "April, May, September, October and November are best, with dry trails and open passes. Because Manang lies in a rain shadow, it gets less rain than the southern Annapurnas in the monsoon, but the road below is often blocked. December to February is very cold, many lodges close and Thorong La may be snowbound."},
+    {"q": "Who are the people of Manang?", "a": "The Manangi, or Nyeshangte, are Tibetan Buddhist people of the upper Manang valley who speak the Manang language, related to Gurung and Thakali. Historically herders, farmers and long-distance traders, they received special trading rights and travelled widely in Asia. Many now live part of the year in Kathmandu and run lodges in Manang."},
+    {"q": "Is there medical help in Manang?", "a": "Yes. Manang has a health post, and during the trekking seasons the Himalayan Rescue Association runs an aid post with volunteer doctors who give talks on altitude sickness. For serious cases, evacuation by helicopter is possible in good weather. Make sure your insurance covers helicopter rescue to 6,000 m."},
+    {"q": "How cold is Manang?", "a": "Manang is cold at night for most of the year: around freezing in October, -5 to -10 °C or colder from December to February. Days are often sunny and pleasant in autumn and spring. It is dry and windy in the afternoon. Bring a four-season sleeping bag, down jacket, hat, gloves and sun protection."},
+    {"q": "How far is Thorong La from Manang?", "a": "From Manang it usually takes two days to reach Thorong Phedi (about 4,450 m) or High Camp (about 4,850 m) via Yak Kharka, then a pre-dawn crossing of Thorong La (5,416 m) and descent to Muktinath (about 3,800 m) on the third day. The pass day is long, 7–10 hours."}
+  ]
+}

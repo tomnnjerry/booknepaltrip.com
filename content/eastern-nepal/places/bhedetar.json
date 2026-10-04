@@ -1,0 +1,342 @@
+{
+  "slug": "bhedetar",
+  "name": "Bhedetar",
+  "name_ne": "भेडेटार",
+  "local_name": "",
+  "region": "eastern-nepal",
+  "kind": "viewpoint",
+  "wiki": "Bhedetar",
+  "image_query": "Bhedetar view Dharan hills",
+  "lat": 26.873,
+  "lng": 87.32,
+  "altitude_m": 1420,
+  "tagline": "The first ridge above the plains, with the Terai spread below",
+  "meta_description": "Bhedetar, about 1,420 m above Dharan: viewpoint over the Terai and Sapta Koshi, sunsets, sekuwa and the first cool air of the hills. How to reach and what to do.",
+  "summary": "Bhedetar is a small ridge settlement at about 1,420 m on the road from Dharan to Dhankuta, on the border of Sunsari and Dhankuta districts. It is the first cool ridge above the plains, with views south over the Terai and, on clear days, the Sapta Koshi river. Families from Dharan and Biratnagar come up for sunsets and grilled meat.",
+  "intro": [
+    "Leave Dharan and the road climbs hard, in tight bends through forest, gaining more than a thousand metres in about 16 km. At the top is Bhedetar, a ridge settlement of hotels, tea shops and homes strung along the highway, with the air suddenly cool and the whole Terai laid out below. After the heat and traffic of the plains, the change is immediate: you can feel it on your skin when you step out of the car.",
+    "On a clear day, especially after rain or in winter, you look across the flat plains of Sunsari and Morang, the grid of fields and towns, and the wide sandbanks of the Sapta Koshi. To the north, the hills of Dhankuta fold away toward the high mountains. At night the lights of Dharan, Itahari and the plains spread out below, a sight that brings families up from the towns on summer evenings.",
+    "Bhedetar is a short stop for most people on the way to Dhankuta and Hile, or an evening out from Dharan. We like it for a first night in the hills when you arrive from Biratnagar: it is close, cool and quiet once the day visitors leave. Combine it with Dharan's hilltop temples on the way up and the Tamor river at Mulghat on the way down the other side."
+  ],
+  "story": {
+    "title": "Sheep's terrace, then a highway town",
+    "paras": [
+      "The name Bhedetar is usually translated as sheep's terrace, from the Nepali bhedo, sheep, and tar, a flat shelf of land. Before the road, the ridge lay on the footpath between the plains and the eastern hills, with only a scattering of farms. Porters carrying loads between Dharan and Dhankuta climbed the same steep slope the highway now winds up, and the ridge top was a natural place to rest after the long climb out of the heat.",
+      "The main settlement grew after the road from Dharan to Dhankuta was completed in 1982. Shops and tea stalls opened to serve buses and trucks, and later hotels and restaurants for visitors coming up from the plains. A high-power transmitter of Nepal Television on the ridge carries signals across the region, and its tower is a landmark from below. Over the years the ridge has filled with houses, viewpoints and small resorts along the road.",
+      "Today Bhedetar is a weekend escape for people from Dharan, Itahari and Biratnagar, known for its views, sunset and sekuwa, grilled skewers of meat. On weekdays it is quiet, and the families who live here go back to their farms, shops and jobs in Dharan. For many people in the eastern Terai, a drive up to Bhedetar is the simplest way to feel the hills, and for many travellers it is the first taste of the Koshi hills beyond."
+    ]
+  },
+  "legend": "",
+  "people": "Bhedetar's residents include Limbu and Rai families, whose Kirat homeland covers these hills, along with Brahmin, Chhetri, Magar, Tamang and Newar households. Many run hotels, restaurants and shops along the highway; others farm or commute to work in Dharan. Dharan below has long been a Kirat cultural centre and a home of retired Gurkha soldiers. Nepali is the common language.",
+  "untold": [
+    {
+      "fact": "Bhedetar's main settlement began when the Dharan–Dhankuta highway was completed in 1982; before that it was a farming ridge on the porters' trail.",
+      "source": "Wikipedia: Bhedetar"
+    },
+    {
+      "fact": "Nepal Television operates a high-power transmitter station at Bhedetar that broadcasts its channels to the surrounding region, which is why a tall mast stands out on the ridge when seen from Dharan below.",
+      "source": "Wikipedia: Bhedetar"
+    },
+    {
+      "fact": "Bhedetar lies at about 1,420 m on the border between Sunsari and Dhankuta districts, more than a thousand metres above Dharan just below.",
+      "source": "Wikipedia: Bhedetar"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "bhedo",
+      "script": "भेडो",
+      "lang": "Nepali",
+      "meaning": "Sheep, the first part of the name Bhedetar"
+    },
+    {
+      "word": "sekuwa",
+      "script": "सेकुवा",
+      "lang": "Nepali",
+      "meaning": "Meat skewers marinated in spices and grilled over charcoal"
+    },
+    {
+      "word": "ukalo",
+      "script": "उकालो",
+      "lang": "Nepali",
+      "meaning": "Uphill climb, as on the road up from Dharan"
+    }
+  ],
+  "taste": {
+    "name": "Sekuwa",
+    "text": "Chunks of pork, chicken or goat marinated with garlic, ginger, chilli and spices, threaded on skewers and grilled over charcoal. Bhedetar's roadside restaurants serve it with beaten rice and pickle, especially at weekends. Dharan below is known across Nepal for its sekuwa."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Mar"
+    ],
+    [
+      "Days we suggest",
+      "0.5–1"
+    ],
+    [
+      "Nearest airport",
+      "Biratnagar (BIR), ≈ 1.5–2 h"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 40 min flight to Biratnagar + ≈ 1.5–2 h drive"
+    ],
+    [
+      "Altitude",
+      "≈ 1,420 m"
+    ],
+    [
+      "Known for",
+      "Views over the Terai, sunsets, sekuwa"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0–1",
+  "highlights": [
+    {
+      "title": "The Terai from above",
+      "text": "From the ridge the plains of Sunsari and Morang spread south to the horizon, with fields, towns and the sandbanks of the Sapta Koshi. Clearest after rain and in the winter months."
+    },
+    {
+      "title": "Sunset and city lights",
+      "text": "Evenings bring families up from Dharan to watch the sun set over the plains. After dark, the lights of Dharan, Itahari and the Terai towns spread out below the ridge in a wide, glittering grid."
+    },
+    {
+      "title": "Sekuwa on the ridge",
+      "text": "Roadside restaurants grill skewers of pork, chicken and goat over charcoal. Eat at a table facing the view with beaten rice, pickle and a cold drink, as families from Dharan do every weekend."
+    },
+    {
+      "title": "First cool air of the hills",
+      "text": "At about 1,420 m, Bhedetar is several degrees cooler than Dharan. In April and May, when the plains swelter in the high 30s °C, the ridge is a relief, especially in the evening."
+    },
+    {
+      "title": "Gateway to Dhankuta and Hile",
+      "text": "Bhedetar is the first stop on the Koshi Highway into the hills. From here the road drops to the Tamor river at Mulghat and climbs again to Dhankuta, Hile and the road north to Tumlingtar."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Bhedetar is about 16 km and 30–45 minutes uphill from Dharan on the Koshi Highway, and roughly 1.5–2 hours from Biratnagar. Buses and jeeps to Dhankuta pass through. The road is steep and winding; avoid driving it at night if you can."
+    },
+    {
+      "mode": "Air",
+      "text": "The nearest airport is Biratnagar, about 40 minutes by air from Kathmandu, with frequent flights. From there drive via Itahari and Dharan."
+    }
+  ],
+  "where_to_stay": "Bhedetar has a few hotels and resorts along the ridge, aimed mostly at weekend visitors from Dharan and Biratnagar, plus simple lodges and restaurants. Rooms with a view south over the plains are worth asking for. Weekends are busy and weekdays quiet. For the widest choice, stay in Dharan and drive up for sunset, or continue to Dhankuta or Hile for the night, both within about two hours.",
+  "stays": [],
+  "tips": [
+    "Come on a weekday or late in the evening for a quieter visit; Saturdays and holidays bring crowds from Dharan.",
+    "The clearest views are from October to March, especially after rain; in spring haze often hides the plains.",
+    "Bring a light jacket for the evening; the ridge is breezy and cooler than Dharan.",
+    "If you get carsick, take something before the climb from Dharan; the road has many tight bends.",
+    "Combine Bhedetar with Dharan's temples and food on the same day."
+  ],
+  "themes": [
+    "photography",
+    "food-and-festivals",
+    "family-trips",
+    "honeymoons"
+  ],
+  "nearby": [
+    "dhankuta",
+    "hile",
+    "tumlingtar"
+  ],
+  "experiences": [
+    {
+      "slug": "bhedetar-sunset-over-the-terai",
+      "title": "Sunset over the Terai from Bhedetar",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Oct–Mar",
+      "image_query": "Bhedetar sunset Terai plains",
+      "wiki": "",
+      "summary": "An evening on the Bhedetar ridge to watch the sun go down over the plains of eastern Nepal, the Sapta Koshi catching the last light, and the lights of Dharan and the Terai towns coming on below.",
+      "body": [
+        "We drive up from Dharan in the late afternoon, about 30–45 minutes on the winding road, and walk to a viewpoint on the ridge. A viewing area known locally as Charles Point and other spots along the ridge look south over the plains. Our guide picks a place away from the busiest stalls, with a clear line west and south, and we settle in with tea while the light begins to change.",
+        "As the sun drops, the Terai turns gold and then hazy blue. On clear evenings the wide braided channels of the Sapta Koshi shine to the south-west, and the towns of the plains show as clusters of roofs and trees. Our guide points out Dharan, Itahari and the hills of Dhankuta to the north, and explains how the Koshi rivers gather from the mountains before spreading out across the plain.",
+        "After dark, the lights of the plains come on in a wide grid, spreading to the horizon. We finish with tea or sekuwa at a roadside restaurant before driving back down or staying the night on the ridge. It is a relaxed, easy evening that suits families, couples and anyone arriving in the east, and it gives a first sense of how sharply the hills rise from the plains here."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "photographers",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What can you see from Bhedetar?",
+          "a": "On clear days, the Terai plains of Sunsari and Morang spread south, with Dharan directly below and the Sapta Koshi river to the south-west. To the north, the hills of Dhankuta roll toward the mountains. At night you see the lights of the plains."
+        },
+        {
+          "q": "When is the best time for the view at Bhedetar?",
+          "a": "October to March gives the clearest air, especially just after rain. Sunset is the most popular time. In April and May haze often blurs the plains, and from June to September cloud and rain are common."
+        },
+        {
+          "q": "Is Bhedetar crowded at sunset?",
+          "a": "On Saturdays and public holidays, yes, with families from Dharan and Biratnagar filling the viewpoints and restaurants. On weekdays it is much quieter. We choose viewpoints a little away from the busiest spots either way."
+        }
+      ]
+    },
+    {
+      "slug": "bhedetar-sekuwa-evening",
+      "title": "Sekuwa evening on the ridge",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, any dry month",
+      "image_query": "Sekuwa grilled meat Nepal",
+      "wiki": "",
+      "summary": "Dinner at a roadside grill on the Bhedetar ridge: skewers of pork, chicken or goat marinated in spices and cooked over charcoal, eaten with beaten rice and pickle, with the plains glowing below.",
+      "body": [
+        "Sekuwa is the dish people drive up to Bhedetar for. Meat is cut into chunks, marinated with garlic, ginger, chilli, cumin and other spices, and grilled on skewers over charcoal until smoky and slightly charred. Every restaurant has its own marinade, and regulars argue about which is best. The smell of the grills drifts along the ridge from late afternoon, and tables fill as the sun goes down.",
+        "We choose a busy, clean place with tables facing the view. Our guide helps you order: pork is the local favourite, but chicken and goat are always available, and vegetarian dishes such as grilled paneer or potatoes can usually be found. It comes with beaten rice (chiura), raw onion, pickle and lemon. Order a little at a time; plates arrive hot from the grill, and it is easy to over-order.",
+        "Dharan, below, is famous across Nepal for its sekuwa, and the ridge restaurants share the tradition. It is a simple, sociable evening, with families at long tables, music from somewhere along the road, and the lights of the plains below. Our guide shares stories of Dharan and the hills while you eat. Afterwards we drive back to Dharan or walk to your lodge if you are staying on the ridge."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is sekuwa?",
+          "a": "Sekuwa is spiced meat grilled on skewers over charcoal, a favourite across Nepal and especially in Dharan and the eastern hills. Pork, chicken and goat are common. It is eaten with beaten rice, pickle and onion."
+        },
+        {
+          "q": "Is there vegetarian food at Bhedetar?",
+          "a": "Yes. Most restaurants serve dal bhat, vegetable dishes, momo with vegetable filling and sometimes grilled paneer or potatoes. Tell us in advance and we will choose a place with good vegetarian options and separate grills where possible."
+        },
+        {
+          "q": "Is the food at Bhedetar safe to eat?",
+          "a": "Freshly grilled meat at busy restaurants is usually fine. We avoid places with low turnover and suggest you skip raw salads, choose meat that is cooked through and drink bottled or filtered water rather than tap water."
+        }
+      ]
+    },
+    {
+      "slug": "bhedetar-dharan-temples",
+      "title": "Dantakali and Budhasubba temples below Bhedetar",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning, any season",
+      "image_query": "Dantakali temple Dharan",
+      "wiki": "",
+      "summary": "A morning visit to two temples on the hills at the edge of Dharan, on the way up to Bhedetar: Dantakali, a goddess shrine, and Budhasubba, a temple sacred to Kirat and Hindu devotees, with its famous bamboo grove.",
+      "body": [
+        "Before climbing to Bhedetar, we stop at the forested hill of Bijaypur on Dharan's edge. Dantakali temple is a goddess shrine where, devotees say, a tooth of the goddess Sati fell, making it one of the Shakti sites of the region. Steps lead up through trees to the shrine, which is busiest on Saturdays and festival days, when families come with offerings of flowers, rice and red powder.",
+        "Nearby, Budhasubba temple is revered by Kirat and Hindu worshippers alike. Local belief holds that the bamboo growing around the shrine grows without tips, and the grove is part of every visit. Couples come to pray for children and newlyweds for blessings, and many tie offerings or threads near the shrine. The temple shows how Kirat and Hindu traditions have grown together in Dharan, a city with deep Kirat roots.",
+        "Our guide explains the stories and rituals, and how Kirat and Hindu worship meet in Dharan. We move quietly, give space to worshippers and take photographs only where it is welcome. The visit takes about two hours with both temples. Then we continue up the road to Bhedetar for the views, a meal and, if the timing works, the sunset over the plains you have just left."
+      ],
+      "good_for": [
+        "families",
+        "seniors",
+        "first-timers",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Where are Dantakali and Budhasubba temples?",
+          "a": "Both are on the forested hills at the eastern edge of Dharan, near the start of the road to Bhedetar and Dhankuta. They are a few minutes' drive from the city centre and easy to combine with Bhedetar."
+        },
+        {
+          "q": "What is special about Budhasubba temple?",
+          "a": "Budhasubba is sacred to Kirat and Hindu devotees, and is known for the bamboo around it, which local belief says grows without tips. Many couples visit to pray for blessings and children, and the temple is busy on Saturdays and festival days."
+        },
+        {
+          "q": "What should I wear to the temples?",
+          "a": "Dress modestly, covering shoulders and knees, and remove shoes and leather items where asked. Ask before photographing worshippers or shrines, do not touch offerings or images, and walk around shrines clockwise as local people do."
+        }
+      ]
+    },
+    {
+      "slug": "bhedetar-mulghat-tamor-river",
+      "title": "Down to the Tamor river at Mulghat",
+      "kind": "water",
+      "duration": "Half day",
+      "best_time": "Oct–Apr",
+      "image_query": "Tamor river Mulghat bridge",
+      "wiki": "",
+      "summary": "A drive from Bhedetar down the far side of the ridge to Mulghat, where the Koshi Highway crosses the Tamor river, for a riverside walk, fried river fish and a feel for the deep valleys of the Koshi hills.",
+      "body": [
+        "From Bhedetar the highway drops steeply north, through forest and farms, to Mulghat, a small riverside settlement where a bridge crosses the Tamor. The descent is dramatic: the cool ridge gives way to a warm valley floor in under an hour, losing roughly a thousand metres. Along the way, the road passes terraces, small villages and viewpoints over the deep valley of the Tamor and the hills of Dhankuta beyond.",
+        "The Tamor drains the Kanchenjunga region far to the north, and here it runs wide and green over boulders in the dry season. We walk along the banks, watch the traffic cross the bridge, and stop at a riverside stall for fried fish and tea. Our guide explains how the Tamor joins the Arun and Sun Koshi downstream to form the Sapta Koshi, the river you saw shining on the plains from Bhedetar.",
+        "Then we either climb back to Bhedetar or carry on up the other side to Dhankuta and Hile, making this a natural part of the journey north rather than a separate trip. In the dry months the riverside is pleasant and warm; in the monsoon the river is high, brown and dangerous, and we keep well back from the water. Either way, the drive shows how deeply the rivers cut these hills."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Where is Mulghat?",
+          "a": "Mulghat is a small settlement on the Tamor river, where the Koshi Highway crosses between Bhedetar and Dhankuta. It sits much lower than both, in a warm river valley, roughly under an hour's drive from Bhedetar."
+        },
+        {
+          "q": "Can I swim in the Tamor at Mulghat?",
+          "a": "We do not recommend it. The Tamor is cold and fast with strong currents, especially from May to October when snowmelt and monsoon rain swell it. Paddle only at the edge in calm water in the dry season, and stay away in the monsoon."
+        },
+        {
+          "q": "Where does the Tamor river come from?",
+          "a": "The Tamor rises in the Kanchenjunga region of Taplejung, flows south through the eastern hills past Mulghat, and joins the Arun and Sun Koshi to form the Sapta Koshi, which crosses the Terai into India and joins the Ganges."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Bhedetar?",
+      "a": "Bhedetar is a ridge settlement at about 1,420 m on the Koshi Highway between Dharan and Dhankuta, on the border of Sunsari and Dhankuta districts in Koshi Province, eastern Nepal. It is the first ridge above the plains on the road north."
+    },
+    {
+      "q": "How far is Bhedetar from Dharan?",
+      "a": "About 16 km, or 30–45 minutes by car up a steep, winding road from Dharan. Buses and jeeps to Dhankuta pass through, and taxis from Dharan run up for the evening. Avoid the road after dark if you can."
+    },
+    {
+      "q": "How do I get to Bhedetar from Kathmandu?",
+      "a": "Fly to Biratnagar (about 40 minutes), then drive about 1.5–2 hours via Itahari and Dharan. Overnight buses from Kathmandu reach Dharan in roughly 10–12 hours, and it is a short drive up from there. Check current status before you travel."
+    },
+    {
+      "q": "What does Bhedetar mean?",
+      "a": "Bhedetar combines bhedo, sheep, and tar, a flat shelf of land in Nepali, and is usually translated as sheep's terrace. The second part, tar, appears in many eastern place names, such as Tumlingtar on the Arun river."
+    },
+    {
+      "q": "When is the best time to visit Bhedetar?",
+      "a": "October to March for clear views over the plains, especially after rain. April and May are hazier but the ridge is a cool escape from the hot plains. June to September brings cloud, rain and occasional road blocks."
+    },
+    {
+      "q": "Is Bhedetar worth visiting?",
+      "a": "Yes, as a short stop or an evening out. It offers wide views over the Terai, sunsets and good sekuwa, and is the gateway to the hills of Dhankuta and Hile. It is not a destination for several days."
+    },
+    {
+      "q": "Are there hotels at Bhedetar?",
+      "a": "Yes, a few hotels and resorts along the ridge, aimed mostly at weekend visitors, plus simple lodges and restaurants. For more choice, stay in Dharan and drive up for the evening, or continue to Dhankuta or Hile."
+    },
+    {
+      "q": "Can you see mountains from Bhedetar?",
+      "a": "Bhedetar's main view is south over the plains. To the north you look over the hills of Dhankuta. On rare, very clear winter days distant snow peaks may show, but for big mountain views go further north to Hile or Sandakpur."
+    },
+    {
+      "q": "Is the road to Bhedetar safe?",
+      "a": "It is a well-used paved highway, but steep and winding, with trucks and buses. Drive in daylight with an experienced driver, and take travel-sickness tablets if you need them. In the monsoon, landslides can close sections briefly. Check current status before you travel."
+    }
+  ]
+}

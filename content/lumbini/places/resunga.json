@@ -1,0 +1,164 @@
+{
+  "slug": "resunga",
+  "name": "Resunga",
+  "name_ne": "रेसुङ्गा",
+  "local_name": "",
+  "region": "lumbini",
+  "kind": "viewpoint",
+  "wiki": "Resunga Municipality",
+  "image_query": "Resunga Gulmi hill forest",
+  "lat": 28.07,
+  "lng": 83.26,
+  "altitude_m": 2347,
+  "tagline": "The horned sage's forested hill above Tamghas, Gulmi",
+  "meta_description": "Resunga, the forested 2,347 m hill above Tamghas in Gulmi: legend of the sage Rishyashringa, Himalayan views, a 3–4 hour hike and Nepal's first coffee country.",
+  "summary": "Resunga is a forested hill rising to about 2,347 m above Tamghas, the headquarters of Gulmi district. It is sacred to Hindus as the place where the sage Rishyashringa is said to have meditated, and its top gives wide views of the Himalaya. The hike up from Tamghas takes 3–4 hours.",
+  "intro": [
+    "From Tamghas, Resunga is the dark, forested hill that fills the sky to the north-east. Its slopes run from deep valleys at about 800 m to a summit ridge at about 2,347 m, covered in oak, rhododendron and pine. On top are a temple, prayer flags and, on a clear morning, a line of snow peaks from Dhaulagiri to the Annapurnas.",
+    "For the people of Gulmi, Resunga is sacred. Legend ties it to the sage Rishyashringa, the horned sage of the Ramayana, and pilgrims climb it on festival days. The forest has been protected for generations because of that holiness.",
+    "Gulmi sees few foreign visitors, which is a reason to come. Combine Resunga with Ridi, about 2 hours away on the road from Tansen, and with Gulmi's coffee farms, the oldest in Nepal."
+  ],
+  "story": {
+    "title": "A sacred hill in the land of the Magars",
+    "paras": [
+      "Gulmi was one of the small hill kingdoms of western Nepal before unification, part of the old Baise and Chaubise world of rival principalities, and the hills around Resunga have long been home to Magar communities. Tamghas, below the hill, grew as the district headquarters, a bazaar town on a saddle with offices, schools and a hospital serving the surrounding villages.",
+      "Resunga's importance has always been religious. Its name is linked by local tradition with Rishyashringa, a sage of the Treta age in Hindu belief, who is said to have meditated in its forests. The hill became a place of pilgrimage and the forest a protected, sacred grove. In 2000 a team of French and Nepali scholars published a study of the region's society and religion titled Resunga: The Mountain of the Horned Sage.",
+      "In 2014 the government merged Tamghas with three neighbouring village committees, Arkhale, Dubichaur and Simichaur, into a new municipality and named it after the hill. Today a road network reaches much of Gulmi, but the climb to Resunga's summit is still made on foot by most pilgrims."
+    ]
+  },
+  "legend": "Local tradition says that in the Treta age the sage Rishyashringa, the horned sage of Hindu legend, chose Resunga's forest for his meditation, and that the hill's name comes from his. In the Ramayana, Rishyashringa is the sage who led the sacrifice that brought sons to King Dasharatha, among them Rama. Pilgrims honour him at the summit temple, and many believe prayers made on Resunga are especially strong.",
+  "people": "Gulmi's hills are home to Magar communities, the district's oldest people, together with Brahmin, Chhetri, Thakuri and Dalit families. Most farm maize, millet, rice and vegetables on terraces, and Gulmi is known for coffee and oranges. A large share of young men work abroad, in the Gulf, Malaysia or in Gurkha regiments, and remittances have built much of Tamghas's new housing.",
+  "untold": [
+    {"fact": "Coffee was first planted in Nepal in Gulmi district in 1938, when Hira Giri, a hermit returning from Burma, brought seeds to Aanpchaur. Gulmi still grows some of Nepal's best-known hill coffee.", "source": "National Tea and Coffee Development Board, Nepal"},
+    {"fact": "Resunga Municipality was created on 18 May 2014 by merging the village committees of Arkhale, Dubichaur, Simichaur and Tamghas, and takes its name from the sacred hill.", "source": "Wikipedia: Resunga Municipality"},
+    {"fact": "The scholarly volume Resunga: The Mountain of the Horned Sage, edited by Philippe Ramirez and published by Himal Books in 2000, studies religion, society and the Magar communities of Gulmi and Arghakhanchi.", "source": "Nepali Times review, 'The mountain of the horned sage'"}
+  ],
+  "local_words": [
+    {"word": "rishi", "script": "ऋषि", "lang": "Nepali", "meaning": "Sage or seer; Resunga is the hill of the horned rishi"},
+    {"word": "lali gurans", "script": "लालीगुराँस", "lang": "Nepali", "meaning": "Red rhododendron, Nepal's national flower, blooming on Resunga in spring"},
+    {"word": "ukalo", "script": "उकालो", "lang": "Nepali", "meaning": "Uphill climb; you will hear it often on the way up"}
+  ],
+  "taste": {"name": "Gulmi coffee", "text": "Hill-grown arabica from the farms of Gulmi, where Nepal's first coffee was planted in 1938. Beans are pulped, sun-dried and roasted in small batches. Cafes and cooperative shops in Tamghas sell it by the cup and by the packet."},
+  "facts": [["Best months", "Oct – Nov, Mar – Apr"], ["Days we suggest", "1–2"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa"], ["From Tansen", "≈ 4 h by road to Tamghas"], ["Altitude", "≈ 2,347 m"], ["Known for", "Sacred forest, Himalayan views, Gulmi coffee"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The summit ridge", "text": "At about 2,347 m, the top of Resunga has a temple, prayer flags and open ground among the trees. On clear mornings the view runs north to Dhaulagiri and the Annapurna range and south over the folded hills of Gulmi and Arghakhanchi."},
+    {"title": "The sacred forest", "text": "Resunga's slopes are covered in oak, pine and rhododendron, protected by long-standing religious respect. The climb passes through shady, quiet forest with birdsong and, in spring, red rhododendron flowers."},
+    {"title": "The legend of the horned sage", "text": "Resunga is linked with Rishyashringa, the sage of the Ramayana who led the sacrifice for King Dasharatha's sons. Pilgrims climb to honour him, especially on festival days, and the summit temple is the focus."},
+    {"title": "Tamghas bazaar", "text": "Gulmi's district headquarters sits on a saddle below the hill, with a busy bazaar, government offices and tea shops. It is the base for the climb and for visits to the district's coffee and orange farms."},
+    {"title": "Nepal's first coffee country", "text": "Gulmi is where coffee was first grown in Nepal, in 1938. Farms in the district still grow arabica under shade trees, and in season you can see picking, pulping and drying."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Tamghas is about 4 hours by road from Tansen via Ridi, and about 5–6 hours from Butwal. Local buses and jeeps run from Butwal and Tansen. Roads in Gulmi are winding and can be blocked by landslides in the monsoon, so check current status before you travel."},
+    {"mode": "On foot", "text": "From Tamghas the climb to Resunga's summit takes about 3–4 hours on forest trails, with around 2–3 hours for the descent. Some roads reach higher on the hill, shortening the walk; ask locally about current access."}
+  ],
+  "where_to_stay": "Tamghas has a small number of local hotels and guesthouses used by officials, traders and Nepali travellers, with simple rooms and dal bhat. There is no comfortable accommodation on the hill itself, so most visitors stay in Tamghas and climb at dawn. Travellers who prefer more comfort visit Ridi and the foot of the hill on a long day from Tansen, where Hotel Srinagar is the best-known base.",
+  "stays": [],
+  "tips": [
+    "Start the climb before dawn to reach the summit while the Himalaya is still clear.",
+    "Carry water, snacks and a warm layer; the summit is cool even when Tamghas is warm.",
+    "Respect the sacred forest: do not cut branches, pick plants or leave litter.",
+    "March and April bring rhododendron flowers; October and November bring the clearest mountain views.",
+    "Hire a local guide in Tamghas; trails branch in the forest and are not signposted."
+  ],
+  "themes": ["treks-and-trails", "spiritual-and-pilgrimage", "photography", "food-and-festivals"],
+  "nearby": ["ridi", "tansen", "swargadwari"],
+  "experiences": [
+    {
+      "slug": "resunga-summit-hike",
+      "title": "Hike to the summit of Resunga",
+      "kind": "trek",
+      "duration": "6–7 hours",
+      "best_time": "Dawn start, Oct–Nov, Mar–Apr",
+      "image_query": "Resunga hill Gulmi temple",
+      "wiki": "",
+      "summary": "A day hike from Tamghas through sacred oak and rhododendron forest to the summit of Resunga at about 2,347 m, with the summit temple, Himalayan views on clear mornings and a slow walk down through villages.",
+      "body": [
+        "We leave Tamghas in the dark with a local guide, walking up through the edge of town into the forest. The trail climbs steadily on stone steps and earth paths, through oak, pine and, higher up, rhododendron, with breaks at viewpoints where the valleys of Gulmi open below.",
+        "The summit takes 3–4 hours. At the top are the temple, prayer flags and a clearing with views north. On good mornings from October to February you see Dhaulagiri and the Annapurna range rising above the ridges.",
+        "After time at the temple and a packed breakfast, we walk down by a different trail through Magar and Brahmin villages, arriving in Tamghas by early afternoon."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How difficult is the Resunga hike?", "a": "It is a moderate day hike: about 3–4 hours up and 2–3 hours down from Tamghas, on forest trails and stone steps with steady climbing. No technical skills are needed, but you should be comfortable walking 6–7 hours on hills. Walking poles help on the descent."},
+        {"q": "Do I need a permit or guide for Resunga?", "a": "Resunga is outside Nepal's national parks and conservation areas, so no trekking permit is required. A local guide is strongly recommended, as forest trails branch and are not signposted. Check current status before you travel, as local rules on the sacred forest can change."},
+        {"q": "Can I see the Himalaya from Resunga?", "a": "Yes, on clear days. From the summit at about 2,347 m the view north includes Dhaulagiri and the Annapurna range. Visibility is best at sunrise from October to February. From April haze increases, and from June to September clouds usually hide the peaks."}
+      ]
+    },
+    {
+      "slug": "resunga-gulmi-coffee-farm",
+      "title": "Nepal's first coffee, on a Gulmi farm",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "Nov–Feb harvest",
+      "image_query": "Nepal coffee plantation Gulmi",
+      "wiki": "",
+      "summary": "Visit a smallholder coffee farm in Gulmi, the district where Nepal's first coffee was planted in 1938, to see arabica growing under shade trees, the picking, pulping and drying, and taste a fresh cup with the family.",
+      "body": [
+        "In 1938 a hermit named Hira Giri brought coffee seeds from Burma to Gulmi. The plants grew, and Gulmi became the starting point of Nepal's coffee industry. Today thousands of small farmers in the mid-hills grow arabica, often under the shade of other trees, and Gulmi coffee is sought after by roasters in Kathmandu.",
+        "We visit a family farm near Tamghas. From November to February you see the red cherries picked by hand, pulped and spread on mats to dry. At other times of year you see the flowering, the young plants and the drying yards.",
+        "The visit ends with a cup made from the farm's own beans, roasted in a pan over the fire, and a chance to buy coffee directly from the growers."
+      ],
+      "good_for": ["couples", "families", "solo", "photographers"],
+      "faqs": [
+        {"q": "When was coffee introduced to Nepal?", "a": "Coffee was introduced to Nepal in 1938, when Hira Giri, a hermit returning from Burma, planted seeds in Gulmi district. Commercial growing expanded from the 1970s and 1980s. Today coffee is grown across the mid-hills, with Gulmi, Palpa, Syangja, Kaski and other districts among the producers."},
+        {"q": "When is the coffee harvest in Gulmi?", "a": "Coffee cherries in Gulmi usually ripen and are picked from about November to February, depending on altitude and the year's weather. Flowering comes in spring. If you want to see picking and pulping, plan your visit for December or January, and we will confirm with the farm."},
+        {"q": "Can I buy coffee directly from Gulmi farmers?", "a": "Yes. Many farms and cooperatives sell green or roasted beans directly, usually in 250 g to 1 kg packets, and prices are lower than in Kathmandu cafes. Buying direct supports smallholders. Check your home country's rules on bringing in green coffee beans before buying."}
+      ]
+    },
+    {
+      "slug": "resunga-rhododendron-forest-walk",
+      "title": "Spring rhododendrons in the sacred forest",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "Mar–Apr",
+      "image_query": "red rhododendron forest Nepal",
+      "wiki": "",
+      "summary": "A shorter forest walk on Resunga's upper slopes in March and April, when red rhododendron, Nepal's national flower, blooms among the oaks and pines of the protected forest, with birdwatching on the way.",
+      "body": [
+        "In spring the upper slopes of Resunga turn red. Lali gurans, the red rhododendron that is Nepal's national flower, blooms through the forest from around March, when the hillsides above about 1,800 m are cool and damp.",
+        "We walk a loop on the upper forest trails with a local guide, moving slowly and stopping often. The forest is home to many hill birds, and spring is when they are most active and vocal.",
+        "This walk does not go to the summit and suits those who want the forest without the full climb. We finish with tea in a village on the edge of the trees."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "When do rhododendrons bloom on Resunga?", "a": "Red rhododendrons on Resunga usually bloom from around March to April, varying with altitude and the year's weather. Lower slopes flower earlier, higher ridges later. For the best display, plan for mid-March to early April and ask us to check with local contacts before you travel."},
+        {"q": "Is the rhododendron walk suitable for older travellers?", "a": "Yes, for those who walk comfortably for 3–4 hours on uneven forest paths with some gentle climbs. It is much easier than the summit hike. We drive to the start of the trail where roads allow and walk at a relaxed pace with plenty of stops."},
+        {"q": "Can I pick rhododendron flowers on Resunga?", "a": "Please do not. Resunga's forest is protected and sacred, and local people expect visitors to leave plants, flowers and branches untouched. Photograph the flowers instead. Fallen petals are fine to admire on the trail."}
+      ]
+    },
+    {
+      "slug": "resunga-pilgrim-festival-climb",
+      "title": "Climb with pilgrims on a festival day",
+      "kind": "spiritual",
+      "duration": "Full day",
+      "best_time": "Festival days, check dates",
+      "image_query": "Hindu pilgrims hill temple Nepal",
+      "wiki": "",
+      "summary": "Join local families climbing Resunga on a major festival day, when the forest trails fill with pilgrims carrying offerings to the summit temple of the horned sage, and stalls appear along the way.",
+      "body": [
+        "On important festival days, people from across Gulmi climb Resunga to worship at the summit. Families walk together, older people with sticks and children running ahead, carrying flowers, incense, rice and coins as offerings.",
+        "We climb with them from Tamghas, at their pace, with a guide who explains the rituals and the legend of Rishyashringa. At the top the temple is crowded, bells ring constantly and priests give blessings.",
+        "Festival dates follow the lunar calendar and change every year, so we confirm them with local contacts well in advance. It is a busy, friendly day and a rare chance to see a hill pilgrimage that few outsiders join."
+      ],
+      "good_for": ["solo", "photographers", "trekkers"],
+      "faqs": [
+        {"q": "When do pilgrims climb Resunga?", "a": "Pilgrims climb throughout the year, with larger numbers on auspicious days in the Hindu calendar and major festivals. Dates follow the lunar calendar and vary each year. We check with local contacts in Tamghas before your trip; check current status before you travel."},
+        {"q": "Can foreigners join the pilgrimage to Resunga?", "a": "Yes. Visitors who walk respectfully are welcome. Dress modestly, remove shoes where others do at the temple, ask before photographing people at worship, and follow your guide's lead on offerings. Joining the climb is a good way to meet local families."},
+        {"q": "Is food available on the Resunga trail?", "a": "On ordinary days there is very little, so carry water and snacks. On festival days temporary stalls sell tea, snacks and puja goods along the trail and near the summit. Tamghas has tea shops and restaurants for meals before and after the climb."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Resunga?", "a": "Resunga is a sacred, forested hill above Tamghas, the headquarters of Gulmi district in Lumbini Province. Its summit is at about 2,347 m. Tamghas is about 4 hours by road from Tansen via Ridi, and 5–6 hours from Butwal."},
+    {"q": "What is Resunga famous for?", "a": "Resunga is known as a sacred hill linked with the sage Rishyashringa, for its protected oak, pine and rhododendron forest, and for Himalayan views from the summit. It also gave its name to Resunga Municipality, which includes Tamghas."},
+    {"q": "How long does it take to climb Resunga?", "a": "From Tamghas the climb to the summit takes about 3–4 hours, and the descent 2–3 hours, making a full day of 6–7 hours with stops. Some roads now reach higher on the hill, which can shorten the walk; ask locally about current access."},
+    {"q": "What is the best time to visit Resunga?", "a": "October and November give the clearest Himalayan views. March and April bring rhododendrons in bloom. December to February is clear but cold at the summit, sometimes near freezing at dawn. The monsoon from June to September brings rain, leeches and cloud."},
+    {"q": "Where can I stay near Resunga?", "a": "Tamghas has simple local hotels and guesthouses with basic rooms and Nepali meals. There is no accommodation on the hill. Travellers wanting more comfort stay in Tansen, about 4 hours away, but then cannot easily make the dawn climb."},
+    {"q": "Do I need a permit to visit Resunga?", "a": "No trekking permit is needed for Resunga, as it lies outside Nepal's national parks and conservation areas. The forest is protected locally, so stay on trails and leave nothing behind. Check current status before you travel in case local rules change."},
+    {"q": "Who was Rishyashringa?", "a": "Rishyashringa, the horned sage, is a figure of Hindu legend who appears in the Ramayana and Mahabharata. In the Ramayana he leads the sacrifice that brings sons, including Rama, to King Dasharatha. Local tradition says he meditated on Resunga, and the hill's name is linked with his."},
+    {"q": "Is Resunga worth visiting for foreign travellers?", "a": "Yes, for those who enjoy walking, forests and places off the usual routes. Resunga offers a sacred forest, mountain views and a glimpse of hill life in Gulmi, which few foreign travellers see. Facilities are basic, so it suits flexible, self-reliant travellers."},
+    {"q": "Can I combine Resunga with Ridi?", "a": "Yes. Ridi lies on the road between Tansen and Tamghas, about 2 hours from each. A good plan is Tansen to Ridi for the morning, on to Tamghas for the night, then Resunga at dawn the next day, returning via Ridi or continuing west."}
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "slug": "kathmandu-to-sauraha",
+    "from": "kathmandu",
+    "to": "sauraha",
+    "distance_km": 165,
+    "summary": "Kathmandu to Sauraha, the gateway to Chitwan National Park, is about 165 km: 5 to 7 hours by road via the Prithvi Highway, Mugling and Narayangadh, or a 20 to 25 minute flight to Bharatpur and a 30 minute drive.",
+    "options": [
+      {"mode": "Private car", "time": "5–7 h", "text": "The most flexible option. The road climbs out of the valley past Naubise, then follows the Trishuli river down the Prithvi Highway to Mugling, where you turn south to Narayangadh and east to Tandi and Sauraha. Traffic and road works make timings vary. A private car lets you stop for lunch by the river, ride the Manakamana cable car or visit Devghat."},
+      {"mode": "Tourist bus", "time": "6–8 h", "text": "Tourist buses leave Kathmandu early each morning from the Kantipath and Thamel area and drop passengers at the Sauraha bus park, where lodges collect guests. Seats are reserved, there are lunch stops on the highway and luggage goes on the roof or in the hold. A cheap and reliable choice for budget travellers."},
+      {"mode": "Flight", "time": "20–25 min + 30 min drive", "text": "Several airlines fly Kathmandu to Bharatpur (BHR) daily. From the airport it is about 15 km and 30 minutes by car to Sauraha. Flying saves most of a day and avoids the winding hill road, but winter fog in Chitwan can delay morning flights. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Trishuli riverside restaurants near Kurintar", "Manakamana cable car at Kurintar", "Mugling, where the Trishuli meets the Marsyangdi", "Devghat confluence near Narayangadh"],
+    "tip": "Leave Kathmandu by 7 am to beat traffic on the valley's exit roads and reach Sauraha in time for sunset on the Rapti.",
+    "faqs": [
+      {"q": "How long does it take from Kathmandu to Chitwan by road?", "a": "Usually 5 to 7 hours for the roughly 165 km to Sauraha, depending on traffic, road works and stops. Tourist buses take 6 to 8 hours including breaks. In the monsoon, landslides on the Prithvi Highway can cause longer delays. Check current status before you travel."},
+      {"q": "Is it better to fly or drive from Kathmandu to Chitwan?", "a": "Flying to Bharatpur takes 20 to 25 minutes plus a 30 minute drive and saves most of a day. Driving is cheaper and shows you the Trishuli valley, with useful stops such as the Manakamana cable car. If you have limited time or dislike winding roads, fly."},
+      {"q": "Where do tourist buses to Chitwan leave from in Kathmandu?", "a": "Most leave early in the morning from the Kantipath area near Thamel. Your hotel or tour operator can book seats and confirm the exact departure point. Buses arrive at the tourist bus park in Sauraha, where most lodges send someone to meet guests."},
+      {"q": "What is the road like from Kathmandu to Chitwan?", "a": "It is a paved two-lane highway, winding through the hills along the Trishuli river to Mugling and flatter beyond Narayangadh. Traffic is heavy with trucks and buses, and some sections have ongoing road works. Travel by day and allow extra time."}
+    ]
+  },
+  {
+    "slug": "pokhara-to-sauraha",
+    "from": "pokhara",
+    "to": "sauraha",
+    "distance_km": 150,
+    "summary": "Pokhara to Sauraha is about 150 km: 5 to 6 hours by road via Damauli, Mugling and Narayangadh, by private car or tourist bus. There are no direct flights; flying means changing in Kathmandu.",
+    "options": [
+      {"mode": "Private car", "time": "5–6 h", "text": "The road runs east along the Prithvi Highway past Damauli to Mugling, then south beside the Trishuli and Narayani to Narayangadh, and east to Sauraha. A private car allows stops at Bandipur, a short detour up the hill from Dumre, or at Devghat. It is the most comfortable option for families and small groups."},
+      {"mode": "Tourist bus", "time": "6–7 h", "text": "Tourist buses leave Pokhara's tourist bus park early each morning and arrive at the Sauraha bus park in the early afternoon. Seats are reserved and there are breakfast and lunch stops. It is good value and reliable, though buses do not stop for sightseeing on the way."},
+      {"mode": "Flight via Kathmandu", "time": "4–5 h including connection", "text": "There is no direct flight between Pokhara and Bharatpur. You can fly Pokhara to Kathmandu, about 25 minutes, then Kathmandu to Bharatpur, about 20 to 25 minutes, but connection times usually make this slower and more expensive than the road. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Bandipur hill town, via Dumre", "Damauli and the Seti river", "Mugling junction", "Devghat confluence near Narayangadh"],
+    "tip": "Book a private car if you want to stop at Bandipur; it adds about two hours but breaks the journey well.",
+    "faqs": [
+      {"q": "How far is Chitwan from Pokhara?", "a": "Sauraha, the main gateway to Chitwan National Park, is about 150 km from Pokhara by road. The drive takes 5 to 6 hours by private car and 6 to 7 hours by tourist bus, via Damauli, Mugling and Narayangadh."},
+      {"q": "Is there a flight from Pokhara to Chitwan?", "a": "No direct scheduled flight runs between Pokhara and Bharatpur. Flying means connecting through Kathmandu, which usually takes longer and costs more than driving. Most travellers go by road. Check current status before you travel, as routes do change."},
+      {"q": "Can I stop at Bandipur between Pokhara and Chitwan?", "a": "Yes. Bandipur is a Newar hill town about 8 km up a side road from Dumre on the Prithvi Highway. A stop of two to three hours, or an overnight stay, breaks the journey nicely. A private car is needed, as tourist buses do not make the detour."},
+      {"q": "What time do tourist buses leave Pokhara for Chitwan?", "a": "Most leave from Pokhara's tourist bus park early in the morning, usually around 7 to 7:30 am, and arrive in Sauraha in the early afternoon. Book a day ahead through your hotel or a travel agent, and confirm the departure time."}
+    ]
+  },
+  {
+    "slug": "sauraha-to-meghauli",
+    "from": "sauraha",
+    "to": "meghauli",
+    "distance_km": 45,
+    "summary": "Sauraha to Meghauli, on the western side of Chitwan, is about 45 km by road via Bharatpur: around 1.5 hours by private car. Most Meghauli lodges arrange transfers; there is no direct public bus to the lodges.",
+    "options": [
+      {"mode": "Private car", "time": "1.5 h", "text": "The usual way. The road runs from Sauraha to Tandi on the East-West Highway, west through Bharatpur, then south-west through farmland and villages to Meghauli. The last stretch to some lodges is a village road. Meghauli lodges usually include or arrange the transfer, so ask when booking."},
+      {"mode": "Jeep through the park", "time": "Full day", "text": "Some operators can combine the move with a full-day jeep safari, driving west through the park and stopping at Kasara before reaching the Meghauli side. Park entry fees and permits apply, and routes depend on the season and park rules. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Bharatpur for a taas lunch", "Bishazari Tal, a short detour south of Bharatpur", "Kasara and the gharial breeding centre, via Patihani"],
+    "tip": "Ask your Meghauli lodge to collect you in Sauraha after a morning activity, so you arrive in time for an afternoon drive.",
+    "faqs": [
+      {"q": "How do I get from Sauraha to Meghauli?", "a": "By private car, about 45 km and 1.5 hours via Bharatpur. Most Meghauli lodges arrange the transfer for their guests. Local buses run to Meghauli village from Bharatpur but do not reach the lodges, so a private transfer is far easier with luggage."},
+      {"q": "Can I visit Kasara on the way from Sauraha to Meghauli?", "a": "Yes. Kasara, the park headquarters with the gharial breeding centre, can be reached by road via Patihani with a short detour, or as part of a full-day jeep safari through the park. Allow extra time and confirm park permits with your guide."},
+      {"q": "Should I stay in both Sauraha and Meghauli?", "a": "If you have four nights or more, yes. Sauraha gives easy access, more food choices and lively evenings; Meghauli gives quieter drives and the Narayani. Two nights in each lets you see different parts of the park and different kinds of village life."},
+      {"q": "Is there a bus from Sauraha to Meghauli?", "a": "There is no direct tourist bus. You can take local buses from Tandi or Bharatpur toward Meghauli, changing on the way, but they are slow and crowded and do not reach the lodges. A private car is the practical option."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-janakpur",
+    "from": "kathmandu",
+    "to": "janakpur",
+    "distance_km": 225,
+    "summary": "Kathmandu to Janakpur is about 225 km by road, 6 to 8 hours via the BP Highway through Dhulikhel, Sindhuli and Bardibas, or a 25 to 30 minute flight to Janakpur Airport, a few minutes from the Janaki Mandir.",
+    "options": [
+      {"mode": "Flight", "time": "25–30 min", "text": "Several airlines fly Kathmandu to Janakpur (JKR) daily. The airport is inside the city, a short rickshaw or taxi ride from the Janaki Mandir and the ponds. Flying is the easiest way to reach Janakpur and lets you see the city in a day. Winter fog can delay flights; check current status before you travel."},
+      {"mode": "Private car", "time": "6–8 h", "text": "The BP Highway leaves the Kathmandu Valley at Dhulikhel, follows the Sunkoshi river and crosses the hills past Sindhuli to Bardibas on the East-West Highway, then runs south-east to Janakpur. It is shorter than the old route via Hetauda and has views of the hills and river. Allow extra time in the monsoon."},
+      {"mode": "Bus", "time": "8–10 h", "text": "Day and night buses run between Kathmandu and Janakpur. They are cheap but slow and crowded, with long stops. Travel by day if you can, as night buses on hill roads are less safe. Book through your hotel or at the bus park."}
+    ],
+    "stops_on_way": ["Dhulikhel for Himalayan views", "Sindhuli Gadhi, an old hill fort on the BP Highway", "Bardibas junction on the East-West Highway"],
+    "tip": "Fly in and drive out, or the reverse, to see the hills of the BP Highway once without spending two full days on the road.",
+    "faqs": [
+      {"q": "How long is the flight from Kathmandu to Janakpur?", "a": "About 25 to 30 minutes. Several airlines fly the route daily, and Janakpur Airport is inside the city, a few minutes from the Janaki Mandir. Winter fog in the Terai can delay morning flights. Check current status before you travel."},
+      {"q": "Which is the best road from Kathmandu to Janakpur?", "a": "The BP Highway via Dhulikhel, Sindhuli and Bardibas is the shortest, about 225 km and 6 to 8 hours. The older route via Hetauda and the East-West Highway is longer. In the monsoon, landslides can affect the BP Highway, so check current status before you travel."},
+      {"q": "Is there a bus from Kathmandu to Janakpur?", "a": "Yes, day and night buses run daily and take 8 to 10 hours. They are inexpensive but crowded and slow. We recommend day buses, a private car or a flight. Book a day ahead during festivals such as Chhath and Vivaha Panchami."},
+      {"q": "Can I visit Janakpur as a day trip from Kathmandu?", "a": "It is possible by flying out early and back in the evening, giving about six to eight hours in the city for the Janaki Mandir, ponds and a Mithila art centre. An overnight stay is more relaxed and lets you see the temple at both dawn and dusk."}
+    ]
+  }
+]

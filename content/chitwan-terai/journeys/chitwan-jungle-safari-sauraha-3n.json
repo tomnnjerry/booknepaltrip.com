@@ -1,0 +1,69 @@
+{
+  "slug": "chitwan-jungle-safari-sauraha-3n",
+  "title": "Chitwan Jungle Safari from Sauraha",
+  "region": "chitwan-terai",
+  "kind": "wildlife",
+  "nights": 3,
+  "themes": ["wildlife-and-jungle", "villages-and-homestays", "lakes-and-rivers"],
+  "grade": "Easy",
+  "stops": [{"place": "sauraha", "nights": 3}],
+  "start": "Kathmandu (hotel pick-up)",
+  "end": "Kathmandu",
+  "price_from_usd": 550,
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Chitwan safari, 3 nights in Sauraha: dugout canoe on the Rapti, jeep safari for one-horned rhino, a guided jungle walk and a Tharu village evening.",
+  "summary": "Three nights in Sauraha on the Rapti River, the easiest door into Chitwan National Park. A dugout canoe at dawn, a half-day and a full-day jeep safari, a guided walk with two park guides and an evening in a Tharu village. One-horned rhino are seen on most trips; tigers are a bonus.",
+  "intro": [
+    "Sauraha is where most people meet Chitwan for the first time, and for good reason. The village sits on the north bank of the Rapti, the park boundary is the river itself, and on many evenings a rhino grazes the far bank while the tea stalls light their lamps. From here every kind of safari is a short walk or a short drive away: canoe put-ins, the park ticket office, the jeep gate and the community forests of the buffer zone.",
+    "We built this trip for people with three or four days between Kathmandu and the mountains. It is easy on the body, the stays are comfortable, and the order of activities is chosen for the light and the animals: water at dawn, jeeps in the cooler hours, walking when the grass is short. Chitwan became Nepal's first national park in 1973 and a UNESCO World Heritage Site in 1984, and that long protection shows in how close the animals let you come."
+  ],
+  "story": "The trip starts in the hills. The road from Kathmandu drops through the Trishuli gorge, rafts bobbing below, then turns south at Mugling along the Narayani and the air thickens and warms by the hour. By Bharatpur the pine has become sal forest and the houses have flat roofs and mango trees. In Sauraha the sound changes: peacocks at dusk, the creak of oxcarts, Tharu spoken at the tea stall. The next morning you sit in a canoe carved from one silk-cotton trunk, a metre above mugger crocodiles, while kingfishers work the bank. Then the grass closes over the jeep and every bend may hold a rhino. By the last evening you know the sound of a chital alarm call, and that knowledge goes home with you.",
+  "highlights": [
+    "A dawn dugout canoe on the Rapti or Budhi Rapti, with mugger crocodiles and kingfishers at eye level",
+    "A full-day jeep safari deep into the park, past Kasara to the gharial breeding centre",
+    "A guided jungle walk with two licensed nature guides, reading tracks, scat and alarm calls",
+    "A Tharu village evening in Bachhauli or Baghmara, with a stick dance and dhikri dumplings",
+    "Sunset on the Rapti sandbank, when rhino often cross to graze the far bank"
+  ],
+  "days": [
+    {"day": 1, "title": "Kathmandu to Sauraha by road", "place": "sauraha", "overnight": "Sauraha", "alt_m": 150, "move": "≈ 160 km · 5–7 h drive", "text": "We leave Kathmandu at 7 am to beat the traffic at Naubise and follow the Trishuli River down to Mugling, where the road turns south along the Narayani. Lunch is at a riverside dal bhat stop. By mid-afternoon you check in at Green Park Chitwan, a short walk from the river. Late in the day your guide walks you through Sauraha to the Rapti sandbank for sunset. Rhino often cross here at dusk and the evening light on the elephant grass is soft and low. Dinner at the lodge, and an early night.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Canoe, elephant centre and jeep safari", "place": "sauraha", "overnight": "Sauraha", "alt_m": 150, "move": "", "text": "At first light you push off in a dugout canoe from the put-in near the park office. The river is quiet, mist sits on the water and mugger crocodiles sun on the banks. The canoe drops you downstream for a short guided walk back through riverine forest. After lunch we visit the government elephant breeding centre at Khorsor, about 3 km away, then take a half-day jeep safari into the eastern sector in the late afternoon, when animals come out of the shade to feed. Back after dark for dinner.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Full-day jeep safari to Kasara", "place": "kasara", "overnight": "Sauraha", "alt_m": 150, "move": "≈ 8–9 h in the park by jeep", "text": "Today is the long one. Our jeep enters the park in the morning and works west through grassland, sal forest and the edge of the lakes, with a packed lunch eaten at a watch tower. The turnaround is Kasara, the park headquarters, where the gharial conservation breeding centre has raised these narrow-snouted crocodiles since 1978. Rhino, chital, sambar, wild boar and langur are likely; sloth bear, gaur and leopard are possible; tiger is luck. In the evening we walk to a Tharu village for a stick dance and supper.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Morning walk, drive to Kathmandu", "place": "", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 160 km · 5–7 h drive", "text": "If you want one more look at the jungle, an early guided walk in the community forest east of Sauraha takes about two hours and is good for birds. After breakfast we drive back to Kathmandu, arriving in the late afternoon, or we drop you at Bharatpur airport for a 25-minute flight if you would rather save the day. Many guests continue to Pokhara instead, about 150 km and 5 to 6 hours by road, which we can arrange as a change to the plan.", "meals": "Breakfast"}
+  ],
+  "stays": ["green-park-chitwan"],
+  "includes": [
+    "Private car with driver Kathmandu–Sauraha–Kathmandu",
+    "3 nights at Green Park Chitwan, twin sharing, full board",
+    "Licensed nature guides for all activities in the park",
+    "Chitwan National Park entry fees for the days in the park",
+    "Dugout canoe trip, half-day jeep safari, full-day jeep safari, guided walk",
+    "Tharu village visit with cultural dance"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Domestic flight from Bharatpur if you choose to fly back",
+    "Drinks, tips and personal expenses",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Chitwan National Park charges foreigners a daily entry fee, about NPR 2,000 per person at our last check; check current status before you travel.",
+    "Walking safaris inside the park run only with licensed nature guides, usually two per group, and are not offered when the grass is too tall to see over.",
+    "In October and November the elephant grass can stand taller than a jeep, so sightings improve from February after the annual grass cutting and burning.",
+    "Wear dull green, brown or khaki on safari, and keep voices low in the canoe.",
+    "Monsoon (June to September) brings heat, leeches and closed park tracks; we do not sell this trip in July and August."
+  ],
+  "faqs": [
+    {"q": "How many days do you need in Chitwan?", "a": "Three nights is the sweet spot for a first visit. It gives you a canoe trip, one half-day and one full-day jeep safari, a walk and a village evening without rushing. Two nights works if you are short on time, but you lose the full-day safari, which is where most of the better sightings happen, deeper in the park away from Sauraha."},
+    {"q": "Will I see a tiger in Chitwan?", "a": "Possibly, but do not plan around it. Nepal's 2022 tiger survey counted about 128 tigers in Chitwan, yet they are shy and spread over a large park. Most visitors see pugmarks rather than a tiger. Rhino are a different story: on a three-night trip most of our guests see several, often from the canoe or the riverbank in Sauraha itself."},
+    {"q": "Is the drive from Kathmandu to Sauraha safe?", "a": "It is a busy two-lane highway through the Trishuli gorge, and the main risk is slow traffic and road works rather than danger. With a private car and an experienced driver it takes 5 to 7 hours, with stops. In the monsoon, landslides can block the road for hours, which is why we suggest flying in July and August if you travel then."},
+    {"q": "Can I fly to Chitwan instead of driving?", "a": "Yes. Bharatpur airport is about 25 minutes by air from Kathmandu, then 30 to 40 minutes by road to Sauraha. Yeti Airlines and Buddha Air have both flown the route in recent years, but schedules change; check current status before you travel. We can switch one or both legs to a flight for an extra cost."},
+    {"q": "What is the best month for a Chitwan safari?", "a": "February to April is best for sightings because the grass has been cut and burnt and animals gather near water. October to January is cooler and pleasant, though the grass is still tall early in the season. May is very hot, often above 38 °C. June to September is monsoon, when many tracks close."},
+    {"q": "Is a dugout canoe trip safe with crocodiles in the river?", "a": "Yes, when you follow the boatman. The canoes are carved from a single silk-cotton trunk and are stable as long as you sit still and keep hands inside. The mugger crocodiles on the banks are wary of people. The trip is about an hour on the water, then a guided walk back. Children are welcome if they can sit quietly."},
+    {"q": "Do you include elephant rides on this trip?", "a": "No. We do not sell elephant-back safaris. Riding chained, working elephants raises welfare concerns, and the jeep, canoe and walking safaris give better and calmer sightings anyway. You will still see elephants: at the Khorsor breeding centre, on the riverbank and sometimes in the park, where the park uses them for patrols."},
+    {"q": "What should I pack for Chitwan?", "a": "Light long sleeves and trousers in green, brown or khaki, a warm layer for winter mornings and open jeeps, a hat, sunscreen, insect repellent with DEET or picaridin, binoculars and closed shoes for walking. From December to January early mornings in an open jeep can be 8 to 10 °C, so a fleece and a buff help."},
+    {"q": "Is Chitwan good for children?", "a": "Yes, for children around six and older. The canoe, jeep and village visit suit families well, and the elephant breeding centre is a favourite. Jungle walks have age limits at some lodges, and a full-day jeep safari is long for young children, so we can swap it for a half-day safari and a visit to the Bird Education Society in Sauraha."}
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "lumbini-buddhist-circuit-india-link-5n",
+  "title": "Buddhist Circuit: Kathmandu to Sunauli Border",
+  "region": "lumbini",
+  "kind": "pilgrimage",
+  "nights": 5,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lumbini",
+      "nights": 4
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Belahiya–Sunauli border, for onward travel to Kushinagar and India",
+  "price_from_usd": 800,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "5 nights linking Nepal to India's Buddhist circuit: Swayambhunath, Lumbini, Tilaurakot, Ramagrama and Devdaha, ending at the Sunauli border.",
+  "summary": "The Nepal half of the Buddhist circuit in five nights. One night in Kathmandu for Swayambhunath, then four in Lumbini for the Sacred Garden, the monastic zones, Tilaurakot and the Kapilavastu sites, Ramagrama and Devdaha. On the last morning we drive you to the Belahiya–Sunauli border to continue to Kushinagar, Sarnath and Bodh Gaya.",
+  "intro": [
+    "Of the four places the Buddha himself is said to have named for pilgrimage, birth, awakening, first teaching and passing, only the first lies in Nepal. Lumbini is the start of the classic Buddhist circuit, and many pilgrims come to it from India, crossing at Sunauli for a hurried day before turning back. This journey goes the other way and gives the Nepal side the time it needs, then delivers you to the border ready for Kushinagar, where the Buddha died, about 150 km beyond it.",
+    "Four nights in Lumbini let you see more than the Sacred Garden. You go west to Tilaurakot, which Nepal identifies as Kapilavastu, and to the Ashoka pillars at Niglihawa and Gotihawa; east to the relic stupa at Ramagrama; and to Devdaha, home of the Buddha's mother. Our service ends at the border; we can help you plan the Indian half, and the Indian visa is your own to arrange."
+  ],
+  "story": "It begins on a hilltop in Kathmandu, among Newar prayer wheels and monkeys, with the whole valley below. The next morning the plane drops you to the plains, where the circuit really begins. Each day in Lumbini moves outward from the birthplace: first the garden itself, then the monasteries every Buddhist country has built around it, then the countryside where the prince grew up and left, and the stupa where some of his relics are said to lie. On the last morning you drive south past Bhairahawa's trucks and rickshaws to a busy border town, walk through the gate, and the story continues in India, at the places where he taught and where he died.",
+  "highlights": [
+    "Swayambhunath at dawn, the oldest of the Kathmandu Valley's great stupas",
+    "Three dawns available in Lumbini's Sacred Garden, the start of the Buddhist circuit",
+    "Tilaurakot's ramparts and gates, Nepal's Kapilavastu, and the Ashoka pillar at Niglihawa",
+    "Ramagrama's unopened relic stupa and Devdaha, the Buddha's maternal home",
+    "A smooth handover at the Belahiya–Sunauli border for Kushinagar and beyond"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, Swayambhunath",
+      "place": "swayambhunath",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 20–30 min drive",
+      "text": "We meet you at Tribhuvan International Airport and drive you to Hotel Shanker in Lazimpat. If your flight lands by early afternoon, your guide takes you to Swayambhunath for the late light, climbing to the white dome with its painted eyes and the five Buddhas in their niches. The Swayambhu Purana says the valley was once a lake and that a light rose from a lotus here. If you arrive late, we visit at dawn on day 2 before the flight.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Fly to Bhairahawa, the Sacred Garden",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 35 min flight · then ≈ 22 km · 40 min drive",
+      "text": "Fly to Gautam Buddha International Airport at Bhairahawa and drive to Lumbini. Check in at Buddha Maya Garden Hotel and rest. In the late afternoon walk into the Sacred Garden: the Maya Devi Temple and its marker stone, the Ashoka pillar whose inscription records the emperor's visit in the twentieth year of his reign, and the Puskarini pond. Pilgrim groups from Sri Lanka, Thailand and Vietnam often chant here at dusk; you are welcome to sit and listen.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Monastic zones and the Peace Pagoda",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 10 km by bicycle or e-rickshaw",
+      "text": "Spend the morning in the monastic zones north of the Sacred Garden. In the East zone are the Theravada monasteries of Thailand, Myanmar and Sri Lanka, the traditions many pilgrims on the Indian circuit follow; in the West the Mahayana and Vajrayana temples of China, Korea, Vietnam and the Tibetan schools. Rest through the afternoon heat, then visit the Lumbini Museum and finish at the World Peace Pagoda at sunset.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Tilaurakot and the Kapilavastu sites",
+      "place": "tilaurakot",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 90 km round trip · 3 h driving in total",
+      "text": "Drive west to Tilaurakot near Taulihawa, about an hour away, and walk the brick ramparts, moat and gates of the town Nepal identifies as Kapilavastu. Tradition says Siddhartha rode out through the eastern gate on the night he left home. Visit the Kapilavastu Museum, then Kudan, where tradition places his return to meet his father, and the Ashoka pillars of Niglihawa and Gotihawa, linked to the Buddhas of earlier ages. Back to Lumbini for the evening.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 5,
+      "title": "Ramagrama and Devdaha",
+      "place": "ramagrama",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 140 km loop · 4.5–5 h driving in total",
+      "text": "Drive east to Ramagrama near Parasi, where a grassy brick mound on the Jharahi river is honoured as the relic stupa of the Koliyas, which tradition says Ashoka left unopened. Continue to Devdaha, east of Butwal, the home of the Buddha's mother Maya Devi and of Prajapati Gautami, who raised him and later became the first Buddhist nun. Return to Lumbini for a last evening in the Sacred Garden. Lunch is at a simple local restaurant in Butwal or on the road.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 6,
+      "title": "Dawn in Lumbini, drive to the Sunauli border",
+      "place": "lumbini",
+      "overnight": "Belahiya–Sunauli border",
+      "alt_m": 100,
+      "move": "≈ 30 km · 45 min–1 h drive",
+      "text": "Take a final dawn walk in the Sacred Garden, then drive south through Bhairahawa to Belahiya. Your guide helps you through Nepal immigration, where you get your exit stamp, and walks you to the Indian checkpost at Sunauli. From there Gorakhpur is about 95 km and Kushinagar about 150 km. Our service ends at the border; if you need help booking a car on the Indian side, ask us when you book.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu",
+    "buddha-maya-garden-hotel"
+  ],
+  "includes": [
+    "1 night at Hotel Shanker, Kathmandu, and 4 nights at Buddha Maya Garden Hotel, Lumbini, twin sharing with breakfast",
+    "One-way economy flight Kathmandu–Bhairahawa",
+    "Private car with driver for all transfers and day trips, including the drive to the border",
+    "Licensed English-speaking guide throughout, including help at Nepal immigration",
+    "Lunch on the Tilaurakot and Ramagrama days",
+    "Entry tickets at Swayambhunath, the Sacred Garden, Tilaurakot and the Kapilavastu Museum"
+  ],
+  "excludes": [
+    "International flights, Nepal visa and Indian visa fees",
+    "Any transport or services on the Indian side of the border",
+    "Lunches and dinners not listed",
+    "Tips, donations and travel insurance"
+  ],
+  "good_to_know": [
+    "Foreign nationals need a valid Indian visa before reaching Sunauli; e-visa rules for land borders change, so check current status before you travel.",
+    "Indian and Nepali citizens can cross with valid photo ID; Nepal has at times limited higher-value Indian rupee notes, so check current status before you travel.",
+    "The border gets busy with trucks from late morning; we aim to arrive by 9–10 am.",
+    "You can run this trip in reverse, starting at Sunauli; we will meet you on the Nepal side.",
+    "Days 4 and 5 involve long hours in a car on narrow roads; we stop often."
+  ],
+  "faqs": [
+    {
+      "q": "Can foreigners cross from Nepal to India at Sunauli?",
+      "a": "Yes. Belahiya–Sunauli is one of the main crossings open to third-country nationals. You need a valid Indian visa arranged before you arrive, and you must get a Nepal exit stamp at Belahiya and an Indian entry stamp at Sunauli. Rules on which Indian visas can be used at land borders change, so check current status before you travel."
+    },
+    {
+      "q": "How far is Kushinagar from the Sunauli border?",
+      "a": "About 150 km, usually 4–5 hours by road via Gorakhpur, which is about 95 km from the border. Many pilgrims stop the night in Kushinagar to visit the Mahaparinirvana Temple, then continue to Vaishali, Rajgir, Bodh Gaya and Sarnath. Our service ends at the border, but we can help you plan that onward route."
+    },
+    {
+      "q": "Why spend four nights in Lumbini?",
+      "a": "Because the birthplace is only the start. Four nights give you the Sacred Garden at dawn and dusk, a full day in the monastic zones, and two days out to Tilaurakot and the Kapilavastu sites, Ramagrama and Devdaha. Most circuit pilgrims see only the garden; these places complete the Nepal side of the Buddha's life."
+    },
+    {
+      "q": "Can I start this trip from India instead?",
+      "a": "Yes. We can meet you at Belahiya on the Nepal side of the border, run the Lumbini days first and finish with a flight from Bhairahawa to Kathmandu. Nepal issues visas on arrival at Belahiya to most nationalities; check current status before you travel. The price is similar; ask us for a quote."
+    },
+    {
+      "q": "Which Buddhist sites in Nepal are part of the circuit?",
+      "a": "The core circuit sites in Nepal are Lumbini, the birthplace, and the Kapilavastu area around Tilaurakot, where the Buddha grew up. Ramagrama, with its relic stupa, and Devdaha, his mother's home, are part of the wider Lumbini circuit. In the Kathmandu Valley, Swayambhunath and Boudhanath are major later sites of Buddhist practice."
+    },
+    {
+      "q": "What currency do I need at the border?",
+      "a": "Carry some Nepali rupees for the Nepal side and Indian rupees for the Indian side; there are money changers at both. Nepal has at times limited higher-value Indian rupee notes, so carry smaller notes and check current status before you travel. Cards work in Lumbini hotels but cash is needed at the border and in small towns."
+    },
+    {
+      "q": "Is the drive to the border safe and easy?",
+      "a": "Yes. It is about 30 km of flat road through Bhairahawa, 45 minutes to an hour depending on traffic. The border area is crowded with trucks, rickshaws and touts, so your guide stays with you through Nepal immigration and walks you to the Indian checkpost. Keep your passport and visa copies handy."
+    },
+    {
+      "q": "What is the Ashoka pillar at Lumbini?",
+      "a": "It is a stone pillar Emperor Ashoka raised when he visited Lumbini in the twentieth year of his reign, around 249 BCE. Its Brahmi inscription says the Buddha Shakyamuni was born here and that the village of Lumbini was exempted from tax. Rediscovered in 1896, it is the key evidence identifying the birthplace."
+    },
+    {
+      "q": "Do I need to be Buddhist to join this pilgrimage?",
+      "a": "No. Guests of any faith or none join our circuit trips. The guide explains the stories and rituals and you take part only as you wish. Respectful dress, removing shoes where asked, and walking clockwise around stupas are the only expectations, and the guide will show you each of them."
+    }
+  ]
+}

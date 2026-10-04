@@ -1,0 +1,261 @@
+{
+  "slug": "lower-dolpo-phoksundo-trek-13n",
+  "title": "Lower Dolpo circuit to Phoksundo Lake",
+  "region": "mustang-dolpo",
+  "kind": "trek",
+  "nights": 13,
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "lakes-and-rivers",
+    "villages-and-homestays"
+  ],
+  "grade": "Challenging",
+  "stops": [
+    {
+      "place": "dho-tarap",
+      "nights": 8
+    },
+    {
+      "place": "shey-phoksundo",
+      "nights": 5
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 3400,
+  "best_months": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "pace": "Active",
+  "max_altitude_m": 5190,
+  "meta_description": "Lower Dolpo trek, 13 nights: Tarap valley and Dho Tarap, over Numa La and Baga La to Phoksundo Lake, with permits, licensed guide and camping crew.",
+  "summary": "A 13-night circuit of Lower Dolpo from the airstrip at Juphal: up the Tarap gorge to the Bon and Buddhist villages of Dho Tarap, over two passes above 5,000 m, Numa La and Baga La, and down to Phoksundo Lake, Nepal's deepest. Lodges where they exist, a camping crew where they do not.",
+  "intro": [
+    "Dolpo lies west of Mustang, behind the Dhaulagiri and Kanjiroba ranges, in Nepal's Karnali Province. It is one of the most remote inhabited areas of the country: no road reaches its upper valleys, and most supplies still arrive by mule or yak. The Dolpo-pa, who live here, follow Tibetan Buddhism and Bon, farm barley and buckwheat at altitudes most crops cannot survive, and trade with Tibet across high passes. Few trekkers come here: Dolpo receives only a small fraction of the visitors who walk to Everest or around Annapurna.",
+    "Lower Dolpo, the southern part, is open to trekkers with a restricted-area permit far cheaper than Upper Dolpo's. This circuit takes in its finest country: the narrow Tarap gorge, the wide valley of Dho Tarap at about 4,090 m, two high passes, and the turquoise lake of Phoksundo inside Shey Phoksundo National Park, Nepal's largest national park. It is camping for much of the way, with a full crew, cook and mules or porters, and it rewards trekkers who have done at least one high-altitude trek before."
+  ],
+  "story": "The trek starts in the heat of the Terai at Nepalgunj and a small plane drops you onto a hillside airstrip at Juphal, among walnut trees and Hindu villages. For three days you follow the Tarap river upstream through a gorge so narrow the trail is sometimes built out of stone ledges over the water. Then the walls fall back and Dho Tarap appears: barley fields, chortens, Bon and Buddhist monasteries side by side, and yak herders who greet you in a Tibetan dialect. Over Numa La and Baga La you cross a world of scree, snow and blue sheep. On the last high day you come down through birch forest and see Phoksundo below you, a lake so blue it looks painted, with the white houses of Ringmo at its edge.",
+  "highlights": [
+    "Phoksundo Lake, at about 3,610 m and up to about 145 m deep, the deepest lake in Nepal",
+    "Two passes above 5,000 m, Numa La (5,190 m) and Baga La (5,070 m)",
+    "Dho Tarap's Bon and Buddhist monasteries and barley fields",
+    "The Tarap Khola gorge, with trail sections built from stone ledges above the river",
+    "Ringmo village and its Bon monastery beside the lake"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu to Nepalgunj",
+      "place": "",
+      "overnight": "Nepalgunj",
+      "alt_m": 150,
+      "move": "≈ 1 h flight",
+      "text": "We fly west across the length of Nepal to Nepalgunj, a hot, flat border town in the Terai a few kilometres from India. It is the hub for flights into Karnali. Your guide and crew meet you here, check permits and kit, and brief you on the trek. Expect temperatures above 30 °C in May and September. Early dinner and a short night, because the Juphal flight leaves at dawn when the air in the hills is calmest.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Juphal, walk to Dunai",
+      "place": "",
+      "overnight": "Dunai",
+      "alt_m": 2140,
+      "move": "≈ 40 min flight · ≈ 3 h walk",
+      "text": "A small plane climbs over the Mahabharat and Siwalik hills and lands on the short airstrip at Juphal, about 2,475 m. After tea, we walk down through terraced fields and walnut trees to the Thuli Bheri river and along it to Dunai, the headquarters of Dolpa district, a long bazaar with government offices and a police post where permits are checked. A short day to start, and a hot meal in a simple lodge.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dunai to Tarakot",
+      "place": "",
+      "overnight": "Tarakot",
+      "alt_m": 2540,
+      "move": "≈ 5–6 h walk · +400 m",
+      "text": "We follow the Thuli Bheri upstream on a broad trail through villages of Magar and Thakuri farmers, fields of millet and maize, and stands of pine. Tarakot sits on a ridge above the river among terraced fields, close to where the Tarap Khola joins the Thuli Bheri. Camp or lodge near the village, depending on availability. The evening is warm compared with what lies ahead, so enjoy it with a long dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Into the Tarap gorge to Laini",
+      "place": "",
+      "overnight": "Laini",
+      "alt_m": 3160,
+      "move": "≈ 6 h walk · +620 m",
+      "text": "Today we turn north into the Tarap Khola gorge. The trail climbs and drops along the cliffs, crossing the river several times on wooden bridges. Pine and juniper give way to birch. In places the path is built from stone slabs laid across ledges above the water, a feat of local engineering maintained by villagers each year. We camp at Laini, a small clearing beside the river. Laini is quiet, with only the sound of the river, and the crew will have tea ready when you arrive.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Laini to Nawarpani",
+      "place": "",
+      "overnight": "Nawarpani",
+      "alt_m": 3545,
+      "move": "≈ 6 h walk · +385 m",
+      "text": "The gorge deepens. We pass caves used as shelters by herders and traders, and watch for blue sheep, known locally as naur, on the cliffs above. The trail climbs steadily, and the forest thins to scrub. Nawarpani is a camping place in a widening of the valley. Altitude starts to matter from today, so drink well and take the climbs slowly. Dinner is in the mess tent, with hot soup, dal bhat or pasta from the crew's kitchen, and an early night in a warm sleeping bag.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Nawarpani to Dho Tarap",
+      "place": "dho-tarap",
+      "overnight": "Dho Tarap",
+      "alt_m": 4090,
+      "move": "≈ 6 h walk · +545 m",
+      "text": "The valley opens out above Nawarpani, and by afternoon we reach Dho Tarap, a village of stone houses in a wide, treeless valley ringed with brown hills. The Tarap valley is home to both Bon and Buddhist communities, each with its own monasteries and chortens, and to herds of yak and goats. We settle into a lodge or camp at the edge of the fields and watch the evening light on the hills.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Rest and explore Dho Tarap",
+      "place": "dho-tarap",
+      "overnight": "Dho Tarap",
+      "alt_m": 4090,
+      "move": "Optional walks of 2–4 h",
+      "text": "An acclimatisation day before the passes. We walk up the valley to visit a Buddhist gompa and a Bon monastery, noting the difference in direction as people walk around chortens: clockwise for Buddhists, anticlockwise for Bon followers. Children from the village school may follow you. In the afternoon, rest, wash and check gear for the high days ahead. Your guide will check oxygen levels and decide with you if you are ready to cross.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Dho Tarap to Numa La base",
+      "place": "",
+      "overnight": "Numa La base camp",
+      "alt_m": 4440,
+      "move": "≈ 5 h walk · +350 m",
+      "text": "We leave the village and climb west up a side valley toward the pass. The trail passes summer grazing grounds, where herders' tents and stone shelters may be occupied in season. Camp is at the foot of the pass. It is cold here at night, often below −5 °C in autumn, so your crew will serve hot drinks early and you will be in your sleeping bag soon after dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Over Numa La to Pelung Tang",
+      "place": "",
+      "overnight": "Pelung Tang",
+      "alt_m": 4465,
+      "move": "≈ 7 h walk · +750 m, −725 m",
+      "text": "An early start for the steep climb to Numa La at 5,190 m, the highest point of the trek. From the top, prayer flags frame a view across Dolpo's ranges, with Dhaulagiri to the south-east on clear days. The descent is long and steep on loose ground, down to a camp in the meadows at Pelung Tang. Expect to be tired and happy tonight. Hot soup and an early dinner in the mess tent, then a long sleep; tomorrow brings the second pass.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Over Baga La to Dajok Tang",
+      "place": "",
+      "overnight": "Dajok Tang",
+      "alt_m": 4080,
+      "move": "≈ 6 h walk · +605 m, −990 m",
+      "text": "Our second high pass, Baga La at 5,070 m, is a steady climb from Pelung Tang. The top gives wide views over the ranges of Dolpo. The descent drops through grassland into the upper valley of the Phoksundo Khola, where birch and juniper begin again. Dajok Tang is a pleasant camp among trees, and the air feels thick after two days above 4,400 m. The crew lights a fire if wood is available, and the evening is spent warming up after the high days.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Dajok Tang to Phoksundo Lake",
+      "place": "shey-phoksundo",
+      "overnight": "Ringmo, Phoksundo Lake",
+      "alt_m": 3640,
+      "move": "≈ 4 h walk · −440 m",
+      "text": "A short, beautiful day through forest to Ringmo, a village of stone houses and chortens at the southern end of Phoksundo Lake. The first view of the lake, deep turquoise against grey cliffs, is the moment many trekkers remember most. In the afternoon we walk to the Bon monastery on the lakeshore, and if the light is good, along the shore path. Local people regard the lake as sacred, so we do not swim or fish in it.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Ringmo to Chhepka",
+      "place": "",
+      "overnight": "Chhepka",
+      "alt_m": 2720,
+      "move": "≈ 6–7 h walk · −920 m",
+      "text": "We drop south from the lake, past a tall waterfall where the Phoksundo Khola pours out of the lake basin, and follow the river down through forest of pine, birch and bamboo. Look out for langur monkeys and, if lucky, musk deer. The descent is long. We reach Chhepka, a small village with a lodge and camping ground beside the river. Chhepka is lower and warmer, and after the cold nights above 4,000 m, the thick air and green trees feel very welcome.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Chhepka to Juphal",
+      "place": "",
+      "overnight": "Juphal",
+      "alt_m": 2475,
+      "move": "≈ 6–7 h walk",
+      "text": "A final long day down the Phoksundo Khola to Sulighat and the Thuli Bheri, then up through terraced fields to Juphal. The airstrip village has a few simple lodges. This is the last evening with the crew, so we share a meal together and settle tips. Your guide confirms the morning flight, which, as everywhere in the mountains, depends on the weather. If the weather is clear, look back north for a last view of the hills you crossed, and thank the muleteers who carried the loads.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Fly to Nepalgunj and Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 40 min + 1 h flights",
+      "text": "An early flight takes us from Juphal down to Nepalgunj, where we connect to Kathmandu. The trek ends on arrival. Juphal flights are often delayed by cloud or wind, sometimes for a day or more, so do not book an international flight within two days of this date. We can add nights in Kathmandu to give you a buffer. Nepalgunj is hot after the hills, and the connection to Kathmandu usually leaves the same afternoon.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Lower Dolpo restricted-area permit and Shey Phoksundo National Park entry",
+    "Licensed guide, cook and camping crew, with porters or mules for luggage",
+    "Flights Kathmandu–Nepalgunj–Juphal and return",
+    "One night in a hotel in Nepalgunj with dinner and breakfast",
+    "Twelve nights in lodges or tents with all meals on trek",
+    "Tents, sleeping mats, dining and toilet tents",
+    "Crew wages, insurance, food and equipment"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking to 5,500 m and helicopter evacuation",
+    "Sleeping bag and personal trekking gear",
+    "Extra nights caused by flight delays",
+    "Tips for guide and crew"
+  ],
+  "good_to_know": [
+    "Lower Dolpo requires a restricted-area permit, as we understand it about USD 20 per person per week, plus the Shey Phoksundo National Park fee; check current status before you travel.",
+    "Restricted-area permits are issued only through registered agencies, for at least two foreign trekkers with a licensed guide; check current status before you travel.",
+    "Flights to Juphal use small aircraft in the morning and are often delayed; allow two spare days at the end.",
+    "Numa La and Baga La can hold snow in early spring and from November; we may change the route if passes are unsafe.",
+    "There is no road and no mobile network on parts of the route; our guides carry a satellite phone or similar device for emergencies."
+  ],
+  "faqs": [
+    {
+      "q": "How hard is the Lower Dolpo trek?",
+      "a": "It is a challenging trek. You walk five to seven hours most days, cross two passes above 5,000 m, and sleep above 4,000 m for five nights. Trails are rough and steep in places, especially on the descents from the passes. You need good fitness, previous trekking experience at altitude and the patience for camping, cold nights and remote conditions."
+    },
+    {
+      "q": "How much is the Lower Dolpo permit?",
+      "a": "As we understand the current rules, the Lower Dolpo restricted-area permit costs USD 20 per person per week, and you also pay the Shey Phoksundo National Park entry fee, NPR 3,000 for foreigners. Upper Dolpo, north of Phoksundo, costs much more: USD 500 for the first 10 days. Permits are arranged through a registered agency. Check current status before you travel."
+    },
+    {
+      "q": "How deep is Phoksundo Lake?",
+      "a": "Phoksundo is the deepest lake in Nepal, measured at about 145 m, and lies at about 3,610 m in Shey Phoksundo National Park. It is famous for its deep turquoise colour, which changes with the light. The lake is sacred to the local Bon and Buddhist communities, so visitors should not swim or fish in it."
+    },
+    {
+      "q": "Are there teahouses in Lower Dolpo?",
+      "a": "There are simple lodges in Juphal, Dunai, Chhepka, Ringmo and some villages of the Tarap valley, but not at every stop, and not on the high section between Dho Tarap and Phoksundo. That is why we travel with a camping crew, cook and tents. Where a good lodge exists, we may use it for a warm dining room."
+    },
+    {
+      "q": "When is the best time to trek in Dolpo?",
+      "a": "May, June, September and October are best. Dolpo lies in the rain shadow of the Dhaulagiri range, so even July and August are fairly dry in the upper valleys, although flights to Juphal are disrupted more often then. From late November to March the passes are snowbound and many villagers move to lower ground."
+    },
+    {
+      "q": "How do I get to Dolpo?",
+      "a": "Fly from Kathmandu to Nepalgunj (about 1 hour), stay overnight, then take a morning flight to Juphal (about 40 minutes), the airstrip for Lower Dolpo. There is no road into Dolpo's upper valleys. Some trekkers drive from Nepalgunj toward Dunai on rough roads, but this takes several days and is rarely worth it."
+    },
+    {
+      "q": "Do I need a guide for Dolpo?",
+      "a": "Yes. Lower and Upper Dolpo are restricted areas, and permits are issued only to groups of at least two foreigners travelling with a licensed guide through a registered agency. In practice you also need a cook and crew for camping. Since April 2023 Nepal also requires licensed guides in national parks. Check current status before you travel."
+    },
+    {
+      "q": "What wildlife can I see in Shey Phoksundo National Park?",
+      "a": "Blue sheep are common on the cliffs around Tarap and the passes. Himalayan tahr, goral, musk deer and langur monkeys live in the lower forests. Snow leopards live in the park, especially in Upper Dolpo, but are very rarely seen. Lammergeiers and Himalayan griffon vultures are often overhead."
+    },
+    {
+      "q": "What happens if the Juphal flight is cancelled?",
+      "a": "If weather stops the flight, we wait in Juphal for the next morning, which usually works. Delays of two or three days happen occasionally in cloudy periods. In an emergency, a helicopter can fly out at extra cost, usually covered by evacuation insurance only for medical reasons. Allow two spare days before your international departure."
+    }
+  ]
+}

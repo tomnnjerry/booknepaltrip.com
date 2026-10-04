@@ -1,0 +1,171 @@
+{
+  "slug": "annapurna-base-camp",
+  "name": "Annapurna Base Camp",
+  "name_ne": "अन्नपूर्ण आधार शिविर",
+  "local_name": "Annapurna Sanctuary",
+  "region": "pokhara-annapurna",
+  "kind": "base camp",
+  "wiki": "Annapurna Sanctuary",
+  "image_query": "Annapurna Base Camp sanctuary",
+  "lat": 28.5306,
+  "lng": 83.878,
+  "altitude_m": 4130,
+  "tagline": "A glacial bowl ringed by Annapurna, sacred to the Gurung",
+  "meta_description": "Annapurna Base Camp (4,130 m) with locals: the Annapurna Sanctuary, Chhomrong, Machhapuchhre Base Camp, avalanche zones, permits, best months and how many days.",
+  "summary": "Annapurna Base Camp sits at 4,130 m inside the Annapurna Sanctuary, a glacial basin about 40 km north of Pokhara ringed by Annapurna I (8,091 m), Annapurna South, Hiunchuli, Gangapurna and Machhapuchhre. It is reached on a 7–10 night teahouse trek up the Modi Khola gorge via the Gurung village of Chhomrong.",
+  "intro": [
+    "The Annapurna Sanctuary is a mountain amphitheatre. Its only entrance is a narrow gorge of the Modi Khola between Hiunchuli and Machhapuchhre; beyond it the valley opens into an oval basin above 4,000 m, with a ring of peaks mostly over 7,000 m. Annapurna Base Camp, a cluster of lodges at 4,130 m on the moraine, looks straight up at the south face of Annapurna I, nearly 4,000 m of rock and ice.",
+    "The walk in is as varied as any in Nepal. You start among rice terraces and banana trees, climb through the large Gurung village of Chhomrong, enter bamboo and rhododendron forest so dense that the sun barely reaches the trail, and come out above the trees at Machhapuchhre Base Camp, 3,700 m, with the fishtail peak overhead. The last two hours to ABC cross open moraine.",
+    "It is a teahouse trek with no camping needed: lodges stand at every stage. It does go high, so altitude, cold and avalanche risk in the gorge must be taken seriously. Most of our trips take 7–10 nights from Pokhara, or longer combined with Poon Hill. Licensed guides are required for foreigners since April 2023; check current status before you travel."
+  ],
+  "story": {
+    "title": "The sanctuary no outsider entered until 1956",
+    "paras": [
+      "For the Gurung villages below, the sanctuary was a sacred place. They believed it held gold and treasures left by the nagas, the serpent gods, and was home to deities from Hindu, Buddhist and older traditions. Herders took animals to its summer pastures, but villagers forbade carrying eggs or meat inside, and until recently women and so-called untouchables were barred from entering.",
+      "Outsiders came late. In 1950 Maurice Herzog's French team made the first ascent of Annapurna I, the first 8,000 m peak ever climbed, but from the north, via the Kali Gandaki. The sanctuary itself was first entered in 1956 by Colonel Jimmy Roberts, who spent days forcing a way up the gorge while scouting Machhapuchhre. In 1970 a British expedition led by Chris Bonington climbed Annapurna's huge south face from here, Dougal Haston and Don Whillans reaching the top.",
+      "Trekkers followed the climbers. Chhomrong's Gurung families built lodges up the valley at Sinuwa, Bamboo, Dovan, Himalaya, Deurali and the two base camps, and the route became one of Nepal's most popular. Because the sanctuary is enclosed by such high walls, it gets only around seven hours of direct sunlight a day even in midsummer. Nights at base camp are cold, and mornings, when the first sun hits Annapurna I, are the reason to come."
+    ]
+  },
+  "legend": "Gurung tradition, recorded in accounts of the sanctuary, held it to be a store of gold and treasure guarded by the nagas, serpent gods. Machhapuchhre at its gate was the home of Shiva, and the plume of snow streaming from its summit on windy days was the smoke of his incense. To keep the gods content, villagers forbade carrying eggs or meat into the sanctuary, a rule some lodges above Chhomrong still honour.",
+  "people": "No one lives permanently in the sanctuary; its lodges are run seasonally by families from Chhomrong and nearby Gurung villages, who close them in the coldest weeks and the monsoon. Chhomrong itself is a large Gurung village of terraced fields and stone houses at about 2,170 m. Porters on the route come from across the hills, many of them Magar, Tamang and Gurung men.",
+  "untold": [
+    {"fact": "No outsider entered the Annapurna Sanctuary until 1956, when Colonel Jimmy Roberts forced a route up the Modi Khola gorge while reconnoitring Machhapuchhre for the 1957 attempt.", "source": "Wikipedia: Annapurna Sanctuary"},
+    {"fact": "Because it is enclosed by peaks mostly over 7,000 m, the Annapurna Sanctuary receives only around seven hours of direct sunlight a day even at the height of summer.", "source": "Wikipedia: Annapurna Sanctuary"},
+    {"fact": "The south face of Annapurna I, which towers over base camp, was first climbed in 1970 by a British expedition led by Chris Bonington; Dougal Haston and Don Whillans reached the summit.", "source": "Wikipedia: Annapurna"}
+  ],
+  "local_words": [
+    {"word": "Himal", "script": "हिमाल", "lang": "Nepali", "meaning": "Snow mountain, as in Annapurna Himal"},
+    {"word": "Lekh lagyo", "script": "लेक लाग्यो", "lang": "Nepali", "meaning": "Altitude sickness has struck; what porters say of headaches up high"},
+    {"word": "Khola", "script": "खोला", "lang": "Nepali", "meaning": "River or stream; the Modi Khola drains the sanctuary"}
+  ],
+  "taste": {"name": "Dal bhat at Chhomrong", "text": "Rice, black lentil dal, potato and greens curry and a spicy pickle, with refills until you refuse. Chhomrong's lodges serve it with vegetables from their own terraces, and their bakeries are known among trekkers for chocolate cake. Above Chhomrong, menus are simpler and largely vegetarian."},
+  "facts": [
+    ["Best months", "Oct – Nov, Mar – Apr"],
+    ["Days we suggest", "7–10 nights from Pokhara"],
+    ["Nearest airport", "Pokhara International Airport (PHH)"],
+    ["From Kathmandu", "Via Pokhara: 200 km road or 25 min flight, then 4–5 days on foot"],
+    ["Altitude", "4,130 m"],
+    ["Known for", "Annapurna Sanctuary, south face of Annapurna I, Machhapuchhre"]
+  ],
+  "best_months": [0, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Sunrise on Annapurna's south face", "text": "From base camp, first light hits the summit of Annapurna I at 8,091 m, then sweeps across Annapurna South, Hiunchuli, Gangapurna and Machhapuchhre, while the moraine stays in deep shadow."},
+    {"title": "Machhapuchhre Base Camp", "text": "At 3,700 m the fishtail peak rises directly above the lodges. No one is permitted to climb it; you see it closer here than anywhere else."},
+    {"title": "Chhomrong village", "text": "A large Gurung village of stone houses and terraces on a steep slope at about 2,170 m, the gateway to the sanctuary, with views straight up the valley to Annapurna South and Machhapuchhre."},
+    {"title": "Bamboo and rhododendron forest", "text": "Between Sinuwa and Deurali the trail runs through dense forest of bamboo, oak and rhododendron in the Modi Khola gorge, with waterfalls and langur monkeys."},
+    {"title": "Hot springs at Jhinu Danda", "text": "On the way down, soak tired legs in natural hot pools beside the Modi Khola, a 20-minute walk below the village of Jhinu Danda."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Pokhara, jeeps drive via Nayapul up the Modi Khola to road heads near Jhinu Danda or Siwai and Kimche, about 3–4 hours depending on the road. From there the trail goes on foot. Private jeeps are booked in Pokhara; local jeeps run from Nayapul."},
+    {"mode": "On foot", "text": "From Jhinu Danda or Chhomrong, allow 3–4 days up via Sinuwa, Bamboo, Dovan, Himalaya, Deurali and Machhapuchhre Base Camp to ABC, and 2–3 days down. Longer routes link Ghandruk or Poon Hill. Daily walks are 5–7 hours."}
+  ],
+  "where_to_stay": "Teahouses stand at every stage: Chhomrong has many comfortable family lodges; above it, Sinuwa, Bamboo, Dovan, Himalaya and Deurali have a few lodges each, with simpler rooms. Machhapuchhre Base Camp and Annapurna Base Camp have several lodges with shared rooms, cold nights and limited hot water. Lodges above Chhomrong are small and fill fast in October, November, March and April, so your guide books ahead. In Pokhara before and after, Temple Tree Resort, Hotel Barahi and Fish Tail Lodge are good resting places.",
+  "stays": [],
+  "tips": [
+    "ABC is inside the Annapurna Conservation Area: you need an ACAP permit, a TIMS card and a licensed guide; check current status before you travel.",
+    "Do not linger between Deurali and Machhapuchhre Base Camp after snowfall; this gorge section has a history of avalanches and is sometimes closed.",
+    "Climb steadily: if you feel headache, nausea or breathlessness at rest above 3,000 m, stop and tell your guide.",
+    "Bring a four-season sleeping bag; ABC drops to around -10 °C at night in late autumn and winter.",
+    "Pay attention to local customs: some lodges above Chhomrong do not serve meat, in respect of the sanctuary's gods."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "photography", "spiritual-and-pilgrimage"],
+  "nearby": ["ghandruk", "ghorepani-poon-hill", "mardi-himal", "dhampus"],
+  "experiences": [
+    {
+      "slug": "annapurna-base-camp-sunrise",
+      "title": "Sunrise inside the Annapurna Sanctuary",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Dawn, Oct–Nov and Mar–Apr",
+      "image_query": "Annapurna I south face sunrise base camp",
+      "wiki": "Annapurna Sanctuary",
+      "summary": "Step out of your lodge at 4,130 m before dawn and watch the sun light the summit of Annapurna I, then the full ring of peaks around the sanctuary, from Hiunchuli and Annapurna South to Gangapurna and Machhapuchhre.",
+      "body": [
+        "The cold at base camp before sunrise is serious: well below freezing from November, with frost on the lodge windows. Wrap up, take a hot drink and walk a few minutes up the moraine behind the lodges, where prayer flags and memorial stones overlook the glacier. The sky turns from black to deep blue.",
+        "The sun hits Annapurna I first, its summit 8,091 m high and almost 4,000 m above you. The light spreads along the ridge to Annapurna South and Hiunchuli, then across to Gangapurna and Annapurna III, and finally to Machhapuchhre, which from here shows a different face from the fishtail seen in Pokhara. The whole bowl fills with light while the glacier below stays blue.",
+        "Below you, the Annapurna South Glacier groans and occasionally avalanches roar on the faces. Many visitors find it the most powerful mountain place they have stood. After an hour, breakfast is ready. Most trekkers start down the same morning, as the sanctuary clouds over by midday."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How cold is Annapurna Base Camp at night?", "a": "At 4,130 m, night temperatures at ABC are around 0 °C in October, falling to -10 °C or lower in late November, December and January. Spring nights are cold too. Lodges are not heated except for dining rooms. Bring a four-season sleeping bag, down jacket, warm hat, gloves and thermal layers, and a hot water bottle helps."},
+        {"q": "Which mountains are visible from Annapurna Base Camp?", "a": "From ABC you see Annapurna I (8,091 m), Annapurna South (7,219 m), Hiunchuli (6,441 m), Baraha Shikhar (Fang), Gangapurna (7,455 m), Annapurna III, Gandharvachuli and Machhapuchhre (6,993 m). The view is a full circle of peaks around the sanctuary. Annapurna I's south face dominates."},
+        {"q": "Can I see Annapurna I from Annapurna Base Camp?", "a": "Yes. Base camp sits below the south face of Annapurna I, and the summit is clearly visible on fine days, especially at sunrise. It is about 4,000 m above you. Cloud usually builds by late morning, so the best views are at dawn and in the early morning, or at sunset on clear evenings."}
+      ]
+    },
+    {
+      "slug": "annapurna-base-camp-mbc-to-abc-walk",
+      "title": "From Machhapuchhre Base Camp into the sanctuary",
+      "kind": "trek",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Oct–Nov and Mar–Apr",
+      "image_query": "Machhapuchhre Base Camp trail Annapurna",
+      "wiki": "Machapuchare",
+      "summary": "The last stage of the trek: from Machhapuchhre Base Camp at 3,700 m, walk up the open valley of the sanctuary to Annapurna Base Camp at 4,130 m, with the fishtail peak behind you and Annapurna I growing ahead.",
+      "body": [
+        "Machhapuchhre Base Camp is a misnomer: no climbing expedition uses it, because the mountain has been closed to climbing since 1957, when a British team stopped about 50 m short of the summit by agreement with King Mahendra. The lodges sit on a grassy shelf with the peak directly above, its summit tower dark against the sky.",
+        "From here the trail climbs gently up the sanctuary floor, beside the lateral moraine of the South Annapurna glacier. It is open, high country of grass and stones, with snow in spring and late autumn. The air is thin, so walk slowly, about 2–3 hours for 430 m of ascent. Behind you Machhapuchhre changes shape; ahead the ring of Annapurna peaks closes in.",
+        "Many trekkers walk up early from MBC for sunrise at ABC, starting in the dark. Others sleep at ABC. Either way, watch for signs of altitude sickness, drink plenty of water and avoid alcohol. In bad weather the trail can be hard to follow; stay with your guide."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "Why can't you climb Machhapuchhre?", "a": "Machhapuchhre is sacred to Gurung people as a home of Shiva, and Nepal has issued no climbing permits for it since a 1957 British expedition stopped about 46 m below the summit by agreement with King Mahendra. It is effectively closed to climbing. There are unconfirmed reports of an illegal ascent in the early 1980s."},
+        {"q": "Should I sleep at Machhapuchhre Base Camp or Annapurna Base Camp?", "a": "It depends on acclimatisation and availability. Sleeping at MBC (3,700 m) and walking to ABC for sunrise reduces time at the highest altitude. Sleeping at ABC (4,130 m) gives sunset and sunrise there. Lodges at both fill in peak season. Your guide will decide based on how you feel and on bookings."},
+        {"q": "Is altitude sickness common on the ABC trek?", "a": "Mild symptoms such as headache and poor sleep are common above 3,500 m; serious altitude sickness is less common because the ascent is gradual. Climb steadily, drink water, avoid alcohol and tell your guide about worsening headache, vomiting or confusion. The cure is descent. Consider talking to a doctor about acetazolamide before you go."}
+      ]
+    },
+    {
+      "slug": "annapurna-base-camp-jhinu-hot-springs",
+      "title": "Soak in the hot springs at Jhinu Danda",
+      "kind": "wellness",
+      "duration": "2 hours",
+      "best_time": "Afternoon, Oct–May",
+      "image_query": "Jhinu Danda hot spring Modi Khola",
+      "wiki": "",
+      "summary": "On the way down from the sanctuary, walk 20 minutes below the village of Jhinu Danda to natural hot pools beside the roaring Modi Khola, and soak away days of steps.",
+      "body": [
+        "Jhinu Danda sits on a ridge below Chhomrong, and its hot springs are the trekker's reward on the way out of the sanctuary. From the village, a stone path drops through forest for about 20 minutes to the river, where hot water from the ground has been channelled into a few concrete pools right beside the Modi Khola.",
+        "The water is warm rather than scalding, and the setting is the point: the river thunders past, forested gorge walls rise on both sides and steam drifts in the cool air. A small fee is charged at the springs to maintain the pools. There are changing rooms and a shower.",
+        "Go mid-afternoon, after arriving at Jhinu Danda, and bring a swimsuit and quick-dry towel. Nudity is not acceptable. Climb back up slowly before dark: after a hot soak, the 20-minute climb feels longer. In the monsoon the river can flood the pools, which may be closed."
+      ],
+      "good_for": ["trekkers", "couples", "solo", "families"],
+      "faqs": [
+        {"q": "Where are the hot springs on the Annapurna Base Camp trek?", "a": "The hot springs are about 20 minutes' walk below the village of Jhinu Danda, beside the Modi Khola. Jhinu Danda is on the main ABC route below Chhomrong, so most trekkers stop on the way down. There are a few pools with changing facilities. A small entrance fee applies, paid at the springs."},
+        {"q": "Are the Jhinu Danda hot springs open all year?", "a": "They are generally open in the trekking seasons, but heavy rain in the monsoon, June to September, can flood or damage the pools beside the river, and they may close temporarily. Floods have damaged them in the past. Ask at your lodge in Jhinu Danda or Chhomrong about current conditions before walking down."},
+        {"q": "What should I bring to the Jhinu hot springs?", "a": "Bring a swimsuit, a quick-dry towel, sandals and a warm layer for the climb back. Nudity is not acceptable, and modest swimwear is respectful in a village setting. Carry a little cash for the entry fee and a snack. Leave valuables at your lodge, and keep an eye on belongings near the pools."}
+      ]
+    },
+    {
+      "slug": "annapurna-base-camp-chhomrong-village",
+      "title": "Chhomrong, the Gurung gateway to the sanctuary",
+      "kind": "heritage",
+      "duration": "Half day",
+      "best_time": "Afternoon, Oct–May",
+      "image_query": "Chhomrong village Annapurna South",
+      "wiki": "",
+      "summary": "Spend an afternoon in Chhomrong, the large Gurung village at about 2,170 m that controls the gateway to the Annapurna Sanctuary, with stone staircases, terraces, lodges and a view up the valley to Annapurna South and Machhapuchhre.",
+      "body": [
+        "Chhomrong is built on a steep slope above the Chhomrong Khola, its houses and lodges linked by long stone staircases that every trekker remembers for the climb back out. It is the last real village on the route; above it, the valley belongs to the gods and the lodges are seasonal.",
+        "Walk the lower village in the afternoon. Terraces of millet, maize and potatoes drop towards the river, and the view up the valley takes in Annapurna South and Hiunchuli on the left and Machhapuchhre's fishtail on the right. There is a school, small shops and a checkpoint where your permit and guide are recorded.",
+        "Ask your guide about the sanctuary rules that Chhomrong's people have kept: no meat or eggs taken up in the past, respect for the deities of the valley, and closing lodges in deep winter. Chhomrong's bakeries are an institution among trekkers; try the chocolate cake on the way down."
+      ],
+      "good_for": ["trekkers", "photographers", "families", "solo"],
+      "faqs": [
+        {"q": "What is the altitude of Chhomrong?", "a": "Chhomrong sits at about 2,170 m, though the village spreads over a steep slope with a few hundred metres between upper and lower lodges. It is the last permanent village on the way to the Annapurna Sanctuary. Annapurna Base Camp is about 2,000 m higher, reached in 2–3 days of walking."},
+        {"q": "Is there a checkpoint at Chhomrong?", "a": "Yes, there is an ACAP checkpoint at Chhomrong where permits and guide details are recorded before you continue into the sanctuary. Avalanche and trail warnings are also posted or announced here in risky periods. Keep your ACAP permit and TIMS card accessible. Rules and checkpoint locations change; check current status before you travel."},
+        {"q": "Is meat served above Chhomrong?", "a": "Traditionally, Gurung people forbade carrying eggs and meat into the sanctuary out of respect for its gods, and some lodges above Chhomrong still serve only vegetarian food. Practice varies, and menus have changed with tourism. Eating vegetarian on the upper trail is respectful, safer, and dal bhat makes it easy."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days is the Annapurna Base Camp trek?", "a": "From Pokhara, most ABC treks take 7–10 nights: a jeep to Jhinu Danda or Siwai, 3–4 days up via Chhomrong, Bamboo and Deurali, a night at or near base camp, and 2–3 days down. Adding Poon Hill makes it 10–12 nights. Shorter itineraries exist but leave no spare day for weather or altitude."},
+    {"q": "How difficult is the Annapurna Base Camp trek?", "a": "It is graded moderate. There is no technical climbing, but days are 5–7 hours with many stone steps, especially around Chhomrong, and the last stage reaches 4,130 m. Reasonable fitness, broken-in boots and a steady pace are needed. People with heart or lung conditions should consult a doctor first."},
+    {"q": "What is the best time for the ABC trek?", "a": "October and November give the clearest skies and stable weather. March and April bring rhododendrons on the lower trail and good conditions above, with more cloud by afternoon. December to February are cold, with snow and avalanche risk in the gorge. June to September is monsoon, with rain, leeches and poor views."},
+    {"q": "Is there avalanche risk on the ABC trek?", "a": "Yes. The trail between Deurali and Machhapuchhre Base Camp runs through a narrow gorge below avalanche slopes, and avalanches have killed trekkers here, notably after heavy snowfall. The section is sometimes closed. Follow your guide and checkpoint instructions, avoid crossing after fresh snow, and keep spare days. Check current status before you travel."},
+    {"q": "Do I need a guide for Annapurna Base Camp?", "a": "Yes, as we understand the rules. Since April 2023 foreign trekkers in the Annapurna Conservation Area must walk with a licensed guide, and checkpoints at Birethanti or Chhomrong record guide details. You also need an ACAP permit and a TIMS card. Enforcement has varied; check current status before you travel."},
+    {"q": "What is the altitude of Annapurna Base Camp?", "a": "Annapurna Base Camp is at 4,130 m. Machhapuchhre Base Camp, the previous stop, is at about 3,700 m, and Deurali about 3,200 m. Chhomrong is about 2,170 m. The ascent is gradual, but altitude symptoms are possible above 3,000 m, so climb steadily and tell your guide about any headache or nausea."},
+    {"q": "How much does the Annapurna Base Camp trek cost?", "a": "As a guide, a private ABC trek of 7–10 nights from Pokhara with a licensed guide, porter, teahouse lodging, meals, permits and transport typically runs from about USD 900–1,400 per person twin sharing, depending on group size, days and comfort. Kathmandu–Pokhara transport and Pokhara hotels are extra. Ask us for a current quote."},
+    {"q": "Can I get a helicopter back from Annapurna Base Camp?", "a": "Helicopters can land at ABC and are used for rescues and charter flights back to Pokhara, about 20–30 minutes. Charters are expensive unless shared, and depend on weather. Rescue flights need insurance that covers helicopter evacuation up to at least 5,000 m. Confirm your policy before you go."},
+    {"q": "Can you combine ABC with Poon Hill?", "a": "Yes, and many do. The combined route goes Ulleri, Ghorepani and Poon Hill, then Tadapani to Chhomrong, joining the ABC trail, and returns via Jhinu Danda. It takes about 10–12 nights from Pokhara and gives both the Dhaulagiri sunrise and the sanctuary. It is our most popular two-week Annapurna trek."}
+  ]
+}

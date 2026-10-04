@@ -1,0 +1,184 @@
+{
+  "slug": "samagaon",
+  "name": "Samagaon",
+  "name_ne": "सामागाउँ",
+  "local_name": "Sama (Nubri)",
+  "region": "langtang-manaslu",
+  "kind": "village",
+  "wiki": "Samagaun",
+  "image_query": "Samagaon village Manaslu",
+  "lat": 28.58,
+  "lng": 84.637,
+  "altitude_m": 3530,
+  "tagline": "Nubri village at the foot of Manaslu, the mountain of the spirit",
+  "meta_description": "Samagaon (Sama Gaun) at 3,530 m on the Manaslu Circuit: Nubri culture, Pungyen Gompa, Manaslu Base Camp, Birendra Tal, permits and acclimatisation.",
+  "summary": "Samagaon is the largest village of upper Nubri, at about 3,530 m below Manaslu (8,163 m), the world's eighth-highest mountain. It is the main acclimatisation stop on the Manaslu Circuit, with day hikes to Pungyen Gompa, Birendra Tal and Manaslu Base Camp. Entry needs a restricted area permit and a licensed guide.",
+  "intro": [
+    "Samagaon, often written Sama Gaun or Samagaun, spreads across a broad glacial plain in the upper Budhi Gandaki valley in Gorkha district, Gandaki Province. Its stone houses, fields of barley and potatoes, long mani walls and chortens sit directly below the east face of Manaslu. At around 3,530 m it is the highest large settlement in the Manaslu area and the heart of Nubri, the Tibetan-Buddhist upper valley.",
+    "Trekkers on the Manaslu Circuit reach Samagaon after five or six days of walking up the Budhi Gandaki from the road at Machha Khola or Soti Khola. Most spend two nights or more here to acclimatise before Samdo, Dharamsala and the Larkya La. The rest day is never wasted: Pungyen Gompa, Birendra Tal and the climb toward Manaslu Base Camp all start from the village.",
+    "The Manaslu region lies on the Budhi Gandaki, a separate river system from the Bhote Koshi and Trishuli that flooded on 26 August 2026, and trekking operators reported the Manaslu trail undamaged. The drive to the trailhead, however, uses roads affected by flood and landslide damage; check current status before you travel."
+  ],
+  "story": {
+    "title": "The village that turned back an expedition",
+    "paras": [
+      "Nubri, the upper Budhi Gandaki valley, was settled by Tibetan-speaking people who kept close ties with Tibet across the passes to the north. They farmed barley and potatoes, herded yaks and traded salt and grain. Samagaon grew as the largest village, with the Ribung Gompa on the hill above and the Pungyen Gompa on a terrace below the glaciers of Manaslu. The 1991 census counted 665 people in 179 houses, all Buddhist.",
+      "In the 1950s the mountain above the village became a goal for Japanese climbers. In 1953 an expedition reached about 7,750 m. When the next team came in 1954, the people of Sama blocked them: they believed earlier expeditions had angered the gods and caused avalanches that destroyed Pungyen Gompa and killed 18 people. The climbers withdrew. A substantial donation later helped rebuild the monastery, and on 9 May 1956 Toshio Imanishi and Gyalzen Norbu made the first ascent of Manaslu.",
+      "The Manaslu Conservation Area was created in 1998, and the circuit opened to organised trekking groups with restricted area permits. Teahouses spread up the valley, and Samagaon now has lodges, bakeries and a steady flow of trekkers and climbers in autumn and spring. Many families still farm and herd, and in winter some move to lower villages or Kathmandu."
+    ]
+  },
+  "legend": "The name Manaslu comes from the Sanskrit manasa, meaning intellect or soul, and is usually translated as the mountain of the spirit. For the people of Sama, the mountain and its glaciers are the home of deities who must be respected. Local belief held that the avalanches which destroyed Pungyen Gompa in the 1950s were the anger of those gods, roused by foreign climbers on their mountain.",
+  "people": "Samagaon's people are Nubri, Tibetan Buddhists who speak Nubri, a Tibetic language, and Nepali. They farm barley, buckwheat and potatoes on the plain, herd yaks and run lodges and shops for trekkers. Monks and nuns serve the gompas. Many children study in Kathmandu monastery schools, and some families spend winters in lower villages or the city.",
+  "untold": [
+    {
+      "fact": "In 1954 villagers at Sama forced a Japanese Manaslu expedition to retreat, believing earlier climbers had caused avalanches that destroyed the Pungyen Gompa and killed 18 people. A later donation helped rebuild the monastery.",
+      "source": "Wikipedia: Manaslu"
+    },
+    {
+      "fact": "Manaslu, 8,163 m, was first climbed on 9 May 1956 by Toshio Imanishi of Japan and Gyalzen Norbu, a Sherpa, members of a Japanese expedition.",
+      "source": "Wikipedia: Manaslu"
+    },
+    {
+      "fact": "At the 1991 Nepal census Samagaon had 665 residents living in 179 houses, and the entire population was recorded as Buddhist.",
+      "source": "Wikipedia: Samagaun"
+    }
+  ],
+  "local_words": [
+    {"word": "gompa", "script": "དགོན་པ་", "lang": "Tibetan", "meaning": "Monastery; Pungyen and Ribung are Sama's two best known"},
+    {"word": "tsampa", "script": "རྩམ་པ་", "lang": "Tibetan", "meaning": "Roasted barley flour, eaten with tea or butter"},
+    {"word": "kale phe", "script": "ག་ལེར་ཕེབས་", "lang": "Tibetan", "meaning": "Go slowly; said to someone leaving, like goodbye"}
+  ],
+  "taste": {
+    "name": "Tibetan bread with yak butter",
+    "text": "Samagaon lodges and homes serve fried Tibetan bread with honey or yak butter for breakfast, and potatoes grown on the plain at almost every meal. Try tsampa porridge with butter tea, and in season the local buckwheat pancakes. Bakeries in the village sell apple pie and cinnamon rolls to trekkers."
+  },
+  "facts": [
+    ["Best months", "Sep – Nov, Mar – May"],
+    ["Days we suggest", "2–3 nights"],
+    ["Nearest airport", "Kathmandu (KTM)"],
+    ["From Kathmandu", "≈ 8–9 h drive to Machha Khola + 5–6 days on foot"],
+    ["Altitude", "≈ 3,530 m"],
+    ["Known for", "Manaslu views, Pungyen Gompa, Nubri culture"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Pungyen Gompa", "text": "A walk of 2 to 3 hours up a side valley to the rebuilt Pungyen Gompa at around 4,000 m, beneath the glaciers of Manaslu. It is the monastery destroyed by avalanche in the 1950s, and the view of the mountain from its meadow is close and huge."},
+    {"title": "Manaslu Base Camp", "text": "A long, steep day hike from Samagaon to Manaslu Base Camp at about 4,800 m, over moraine above the Manaslu glacier. It is the best acclimatisation climb before Larkya La, and in season you see climbers' camps."},
+    {"title": "Birendra Tal", "text": "A glacial lake about 30 to 45 minutes from the village, fed by Manaslu's icefall. Chunks of ice sometimes float on its grey-green water, and avalanches can be heard from the slopes above."},
+    {"title": "Ribung Gompa", "text": "The monastery on the hill above the village, with views over the plain and its fields and mani walls. Visit in the late afternoon with your guide, walking clockwise around the buildings."},
+    {"title": "Nubri village life", "text": "Stone houses, barley fields, yaks grazing on the plain and grain drying in courtyards. Walk the village lanes slowly; Samagaon is a farming village first and a trek stop second."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Drive from Kathmandu via the Prithvi Highway and Dhading or Arughat to Machha Khola or Soti Khola, about 8 to 9 hours by jeep in normal conditions. Roads in the Trishuli corridor were damaged in August 2026; check current status before you travel."},
+    {"mode": "On foot", "text": "From Machha Khola, 5 to 6 days up the Budhi Gandaki via Jagat, Deng, Namrung and Lho to Samagaon, climbing from about 900 m to 3,530 m."},
+    {"mode": "Air", "text": "Helicopters can land at Samagaon for charters and rescue. Flying in directly is not advised, since it skips acclimatisation."}
+  ],
+  "where_to_stay": "Samagaon has a good number of family-run teahouses, many rebuilt or expanded in recent years, with twin rooms, some attached bathrooms, solar hot showers and stove-heated dining rooms. Standards are simple but comfortable for the altitude. Book ahead in October, the busiest month. Lodges at the upper end of the village have the clearest view of Manaslu. Bring a sleeping bag rated to minus 10 °C or lower.",
+  "stays": [],
+  "tips": [
+    "Spend at least two nights here and do one high hike before going on to Samdo.",
+    "Start the Manaslu Base Camp hike by 6 am and turn back by noon whatever height you reach.",
+    "Keep mani walls and chortens on your right and never sit on them.",
+    "Carry enough cash from Kathmandu for the whole circuit; there is no ATM in upper Nubri.",
+    "Your restricted area permit is checked at several points; keep copies with your guide."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "spiritual-and-pilgrimage", "photography"],
+  "nearby": ["tsum-valley", "bhimthang"],
+  "experiences": [
+    {
+      "slug": "samagaon-pungyen-gompa-hike",
+      "title": "Hike to Pungyen Gompa under Manaslu",
+      "kind": "spiritual",
+      "duration": "5–6 hours return",
+      "best_time": "Morning, Sep–Nov and Mar–May",
+      "image_query": "Pungyen Gompa Manaslu",
+      "wiki": "",
+      "summary": "Climb from Samagaon to Pungyen Gompa, the monastery destroyed by avalanche in the 1950s and later rebuilt, in a meadow directly below Manaslu's glaciers. A good acclimatisation day with a story.",
+      "body": [
+        "From the village the trail crosses fields and climbs a side valley through juniper and grass to a broad meadow at around 4,000 m. Pungyen Gompa stands here, small and plain, with Manaslu and its glaciers rising directly behind. The climb takes 2 to 3 hours at an acclimatising pace.",
+        "This is the monastery whose destruction by avalanche in the 1950s the people of Sama blamed on angered gods, leading them to turn back a Japanese expedition in 1954. A donation later helped rebuild it. Your guide tells the story at the site, and if a caretaker is present you may visit inside.",
+        "Spend time in the meadow, where yaks graze in summer, and watch the glaciers above. Return to Samagaon for a late lunch. Climbing about 500 m and sleeping low again prepares your body for Samdo and the Larkya La."
+      ],
+      "good_for": ["trekkers", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "How hard is the hike to Pungyen Gompa?", "a": "It is a moderate acclimatisation hike of 5 to 6 hours return, climbing roughly 500 m from Samagaon to around 4,000 m. The path is clear in good weather but can be muddy or icy. Go slowly, carry water and warm layers, and return early if clouds come in."},
+        {"q": "Why is Pungyen Gompa famous?", "a": "In the 1950s avalanches from Manaslu destroyed the monastery and killed 18 people. Villagers blamed foreign expeditions for angering the gods and turned back a Japanese team in 1954. A donation later helped rebuild the monastery, and the Japanese made the first ascent of Manaslu in 1956."},
+        {"q": "Should I choose Pungyen Gompa or Manaslu Base Camp for acclimatisation?", "a": "Pungyen Gompa is shorter and gentler, around 4,000 m, and suits most trekkers. Manaslu Base Camp, at about 4,800 m, is a much harder full day that gives better acclimatisation for Larkya La. With two rest days, do both; with one, choose based on how you feel."}
+      ]
+    },
+    {
+      "slug": "samagaon-manaslu-base-camp",
+      "title": "Day climb to Manaslu Base Camp",
+      "kind": "adventure",
+      "duration": "7–8 hours return",
+      "best_time": "Early start, Sep–Nov and Apr–May",
+      "image_query": "Manaslu Base Camp trek glacier",
+      "wiki": "Manaslu",
+      "summary": "A steep, high day hike from Samagaon to Manaslu Base Camp at about 4,800 m, above Birendra Tal and the Manaslu glacier, the best acclimatisation climb before crossing the Larkya La.",
+      "body": [
+        "We leave Samagaon at first light and pass Birendra Tal before climbing steep moraine ridges above the Manaslu glacier. The trail gains around 1,300 m, with loose rock and long zigzags. Above 4,500 m the air is thin and the pace slows; most people take 4 to 5 hours to reach base camp.",
+        "Base camp sits on a rocky shelf with prayer flags and, in the autumn and spring climbing seasons, the tents of expeditions. Manaslu's summit ridges and icefall rise above, while across the valley you see the peaks along the Tibetan border. On clear days the view is enormous.",
+        "Descend the same way, carefully on the loose sections. We set a firm turnaround time and stop for anyone showing signs of altitude sickness. It is a hard day, but trekkers who do it often find the Larkya La easier."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How high is Manaslu Base Camp?", "a": "Manaslu Base Camp is at about 4,800 m, roughly 1,300 m above Samagaon. The hike takes 7 to 8 hours return. It is higher than Larkya La's approach camp at Dharamsala and nearly as high as the pass at 5,106 m, so it is excellent acclimatisation if you feel well."},
+        {"q": "Is the Manaslu Base Camp hike dangerous?", "a": "It is demanding rather than technical. Risks are altitude sickness, loose rock on moraine and sudden weather changes. Go with a guide, start early, set a turnaround time and descend at the first sign of serious symptoms such as severe headache, vomiting or confusion."},
+        {"q": "Can I see Manaslu summit from base camp?", "a": "On clear mornings you see the upper ridges and icefall of Manaslu, though the true summit at 8,163 m is often hidden behind nearer slopes. The best full view of the mountain is actually from Samagaon, Pungyen Gompa and the trail toward Samdo."}
+      ]
+    },
+    {
+      "slug": "samagaon-birendra-tal-walk",
+      "title": "Walk to Birendra Tal glacial lake",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Afternoon, Sep–Nov and Mar–May",
+      "image_query": "Birendra Tal Samagaon lake",
+      "wiki": "Birendra Lake",
+      "summary": "An easy walk from Samagaon to Birendra Tal, a grey-green glacial lake at the snout of the Manaslu glacier, where ice falls from the slopes above and floats on the water.",
+      "body": [
+        "Birendra Tal lies just west of Samagaon, about 30 to 45 minutes away on a gentle path past fields and mani walls. The lake was formed by the retreating Manaslu glacier, and the ice wall above it still sheds blocks into the water with a crack that echoes across the valley.",
+        "It is an ideal afternoon walk on the day you arrive in Samagaon, gaining very little height. Sit on the moraine above the lake and watch the light change on the glacier and the peaks above. Keep well back from the water's edge and the ice cliffs.",
+        "The lake is named after King Birendra of Nepal. On the way back, stop at the mani walls and chortens near the village and let your guide explain the inscriptions."
+      ],
+      "good_for": ["families", "seniors", "photographers", "trekkers"],
+      "faqs": [
+        {"q": "How far is Birendra Tal from Samagaon?", "a": "About 30 to 45 minutes' easy walk west of the village, with little height gain. Allow 1.5 to 2 hours for the round trip with time at the lake. It is a good short walk on arrival day, leaving the bigger hikes for your rest day."},
+        {"q": "Can I swim in Birendra Tal?", "a": "No. The water is near freezing, ice falls from the glacier above, and waves from falling ice can be dangerous. Stay well back from the shore and the ice cliffs, and do not throw stones or try to reach floating ice."},
+        {"q": "Why is it called Birendra Tal?", "a": "The lake is named after King Birendra Bir Bikram Shah, who reigned from 1972 to 2001. Several places in Nepal were named after him. Tal simply means lake in Nepali, so locals and trekkers call it Birendra Tal or Birendra Lake."}
+      ]
+    },
+    {
+      "slug": "samagaon-nubri-village-walk",
+      "title": "Nubri village walk and Ribung Gompa",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Sep–Nov and Mar–May",
+      "image_query": "Samagaon mani wall village houses",
+      "wiki": "",
+      "summary": "Walk through the lanes and fields of Samagaon with your guide, past stone houses, mani walls and grain-drying courtyards, then climb to Ribung Gompa for a view over the Nubri plain.",
+      "body": [
+        "Samagaon is laid out across a wide plain, with houses clustered in groups and fields divided by stone walls. In autumn barley and potatoes are harvested and dried, and in spring the fields are ploughed with yaks or dzo.",
+        "Your guide leads you along the mani walls, explaining the carved prayers and chortens, and introduces you to people where it is welcome. You learn about Nubri life: yak herding, the old trade with Tibet, children studying in Kathmandu, and how tourism has changed the village.",
+        "The walk ends at Ribung Gompa on the hill above the village, with a view across the plain to Manaslu. If monks are present, you may be invited in. It is a quiet way to spend an afternoon between bigger hikes."
+      ],
+      "good_for": ["seniors", "families", "solo", "photographers"],
+      "faqs": [
+        {"q": "Who are the Nubri people?", "a": "The Nubri are the Tibetan-Buddhist people of the upper Budhi Gandaki valley, including Samagaon, Lho and Samdo. They speak Nubri, a Tibetic language, along with Nepali, and traditionally farm barley and potatoes and herd yaks. Their culture is closely linked to Tibet, across the passes to the north."},
+        {"q": "Can I visit Ribung Gompa?", "a": "Usually yes, when monks or a caretaker are present. Remove shoes and hat inside, walk clockwise, keep quiet and ask before taking photographs. A small donation is appreciated. Your guide can check opening and prayer times on the day."},
+        {"q": "Is it okay to photograph people in Samagaon?", "a": "Always ask first, through your guide if needed. Many people are happy to be photographed, others are not, especially elders and people working. Do not photograph inside homes or gompas without permission, and never pay children for photos."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Samagaon?", "a": "Samagaon is in Gorkha district, Gandaki Province, in the upper Budhi Gandaki valley known as Nubri, within the Manaslu Conservation Area. It sits at about 3,530 m below the east face of Manaslu and is the main acclimatisation stop on the Manaslu Circuit trek, a day before Samdo."},
+    {"q": "How many days does it take to reach Samagaon?", "a": "Usually 6 to 7 days from Kathmandu: one long drive to Machha Khola or Soti Khola, then 5 to 6 days of walking up the Budhi Gandaki via Jagat, Deng, Namrung and Lho. Most itineraries include two nights in Samagaon to acclimatise before Samdo and the Larkya La."},
+    {"q": "What permits do I need for Samagaon?", "a": "The Manaslu region is restricted. Foreigners need a Manaslu restricted area permit, issued only through a registered agency for a minimum of two trekkers with a licensed guide, plus the Manaslu Conservation Area permit and the Annapurna Conservation Area permit if exiting via Dharapani. Fees depend on season; check current status before you travel."},
+    {"q": "How much is the Manaslu restricted area permit?", "a": "As we understand the current rules, it costs about USD 100 per person for the first 7 days from September to November and about USD 75 from December to August, with a daily charge after the first week. Conservation area fees are extra. Rules and fees change, so check current status before you travel; we arrange all permits."},
+    {"q": "Is Samagaon at risk of altitude sickness?", "a": "Yes. At 3,530 m, many trekkers notice the altitude, and the circuit goes on to Larkya La at 5,106 m. Spend at least two nights in Samagaon, do a high hike on your rest day, drink plenty of water and avoid alcohol. Descend if symptoms worsen."},
+    {"q": "Was the Manaslu Circuit affected by the 2026 flood?", "a": "The flood of 26 August 2026 struck the Bhote Koshi and Trishuli rivers. The Manaslu Circuit follows the Budhi Gandaki, a separate river system, and trekking operators reported no confirmed damage to the trail. Roads to the trailhead were affected by flood and landslide damage. Check current status before you travel."},
+    {"q": "When is the best time to visit Samagaon?", "a": "September to November and March to May. October and November give the clearest views of Manaslu; April and May are warmer with spring flowers lower down. December to February is very cold and the Larkya La is often closed by snow. June to August brings monsoon rain and landslides on the lower trail."},
+    {"q": "Are there lodges in Samagaon?", "a": "Yes, Samagaon has many family-run teahouses with twin rooms, some attached bathrooms, solar hot showers and heated dining rooms, plus bakeries and small shops. In October they can be busy; we book ahead. Wi-Fi is available in many lodges for a fee but is slow and unreliable."},
+    {"q": "Can I see Manaslu from Samagaon?", "a": "Yes. Manaslu, the world's eighth-highest mountain at 8,163 m, rises directly above the village to the west, and on clear mornings its summit and glaciers dominate the view. The best viewpoints are the upper village, Pungyen Gompa and the trail toward Samdo."}
+  ]
+}

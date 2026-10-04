@@ -1,0 +1,171 @@
+{
+  "slug": "simikot",
+  "name": "Simikot",
+  "name_ne": "सिमिकोट",
+  "local_name": "",
+  "region": "far-west",
+  "kind": "trek stop",
+  "wiki": "Simikot",
+  "image_query": "Simikot Humla airstrip",
+  "lat": 29.97,
+  "lng": 81.83,
+  "altitude_m": 2910,
+  "tagline": "Airstrip town on the old pilgrim and salt route to Kailash",
+  "meta_description": "Simikot guide: Humla's headquarters at 2,910 m, the short mountain airstrip, the Kailash route to Hilsa over the Nara La, Kermi hot springs, permits and flights.",
+  "summary": "Simikot is the headquarters of Humla, Nepal's far north-western district, set at just over 2,900 m above the Humla Karnali river. Reached by small plane from Nepalgunj, it is the Nepali gateway to Mount Kailash and Lake Manasarovar in Tibet, and the start of treks to Hilsa and the Limi valley.",
+  "intro": [
+    "Simikot is a town at the end of the line. Until very recently no road reached it from the rest of Nepal, and almost everything still arrives by air, landing on a short, steep airstrip at about 2,800 m beside the houses. The town spreads along a slope high above the Humla Karnali, a mix of government offices, stone homes, small hotels and prayer flags.",
+    "For centuries this was a stop on the trade and pilgrim route between the Karnali hills and western Tibet. Humli traders carried grain north and salt and wool south, and Hindu and Buddhist pilgrims walked on to Kailash and Manasarovar. Since the 2015 earthquake damaged the Tatopani–Zhangmu route further east, Simikot has become the main Nepali gateway for Kailash pilgrims, many of them from India.",
+    "For trekkers, Simikot is the start of some of the most remote walking in Nepal: the old route up the Humla Karnali to Hilsa over the Nara La, and the loop through the Tibetan-Buddhist Limi valley. Even a day or two in town, walking the paths above it and watching the planes come in, gives a real taste of this far corner of the country."
+  ],
+  "story": {
+    "title": "From salt trail to Kailash gateway",
+    "paras": [
+      "Humla has always looked north as much as south. Its people traded with Purang, the Tibetan market town also called Taklakot, carrying grain up the Humla Karnali and bringing back salt and wool, and the trail through Simikot was part of this network. When the border became more tightly controlled after 1959 and Tibetan grazing was restricted, much of the old trade dried up, and Humla became one of the hardest-pressed districts in Nepal.",
+      "Simikot grew as the district headquarters, with an airstrip that remained the only practical link to the south for decades. The runway, just 549 m long at nearly 3,000 m, can only take short take-off and landing aircraft such as Twin Otters and Dorniers. The Nepal Trust, working in Humla since 1996, was among the first organisations to run health and development programmes here, including through the years of conflict.",
+      "In the last decade change has come fast. A road from the Tibetan border at Hilsa reached Simikot in 2019, and in July 2025 a Bailey bridge over the Chuwa Khola completed a rough road link south along the Karnali corridor. Kailash pilgrims pass through by the thousand each summer, most flying in and taking helicopters on to Hilsa, and Simikot's hotels and shops have multiplied."
+    ]
+  },
+  "legend": "",
+  "people": "Humla's people are mostly Khas Chhetri and Thakuri families, with Khas Dalit communities and, in the north, Buddhist groups who speak Tibetan dialects, including the Nyinba and the people of Limi. In Simikot you hear Nepali, the Humli dialect and Tibetan. People farm barley, buckwheat, potatoes and beans, keep sheep, goats and yaks, trade with Tibet and work in tourism and the Kailash pilgrimage.",
+  "untold": [
+    {"fact": "Simikot Airport's runway is only 549 m long at an elevation of about 2,818 m, so it can only be used by short take-off and landing aircraft such as the Twin Otter and Dornier.", "source": "Wikipedia: Simikot Airport; Simikot"},
+    {"fact": "Humla is Nepal's second-largest district by area at 5,655 sq km, and its Namkha rural municipality, which includes the Limi valley, is the largest rural municipality in Nepal by area.", "source": "Wikipedia: Humla District"},
+    {"fact": "In July 2025 a Bailey bridge over the Chuwa Khola completed Simikot's connection to Nepal's national road network, after more than two decades of work on the Karnali corridor. Humla had been the last district headquarters without a road link.", "source": "Wikipedia: Karnali Highway"}
+  ],
+  "local_words": [
+    {"word": "Tashi delek", "script": "བཀྲ་ཤིས་བདེ་ལེགས།", "lang": "Tibetan", "meaning": "Greeting and blessing in Humla's Buddhist villages"},
+    {"word": "Gumba", "script": "गुम्बा", "lang": "Nepali", "meaning": "Buddhist monastery or temple"},
+    {"word": "Bhot", "script": "भोट", "lang": "Nepali", "meaning": "Tibetan-speaking highlands; people of upper Humla are called Bhote"}
+  ],
+  "taste": {"name": "Phapar ko roti", "text": "Thick, slightly bitter flatbread of buckwheat flour, cooked on an iron griddle and eaten with butter, chilli pickle or a potato curry. Buckwheat grows well in Humla's cold fields. Order it for breakfast in a Simikot lodge and drink it with salty Tibetan butter tea."},
+  "facts": [
+    ["Best months", "Apr – Jun, Sep – Oct"],
+    ["Days we suggest", "1–2 (plus trek)"],
+    ["Nearest airport", "Simikot (IMK), in town"],
+    ["From Kathmandu", "Fly to Nepalgunj (≈ 1 h), then ≈ 50 min to Simikot"],
+    ["Altitude", "≈ 2,910 m"],
+    ["Known for", "Kailash gateway, mountain airstrip, Humla treks"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 2, 1, 1, 2, 2, 1, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Watching planes land at Simikot", "text": "Twin Otters and Dorniers drop onto the short, sloping runway with a roar, unload rice, gas cylinders and passengers, and leave again within minutes. Watching an arrival from the edge of town shows how Humla has lived for decades."},
+    {"title": "The Kailash trail to Hilsa", "text": "The old pilgrim and trade route follows the Humla Karnali north-west for four to five days to Hilsa on the Tibetan border, crossing the Nara La at 4,530 m. It is a restricted-area trek through Khas and Buddhist villages."},
+    {"title": "Kermi and its hot springs", "text": "The village of Kermi, a day's walk from Simikot on the Hilsa trail, has natural hot springs where trekkers soak tired legs. It is a gentle first stage that helps acclimatisation."},
+    {"title": "Gateway to the Limi valley", "text": "Simikot is the starting point for the Limi valley loop, one of Nepal's most remote treks, over the Nyalu La to the Tibetan-Buddhist villages of Til, Halji and Jang, with views to Kailash from the Lapcha La."},
+    {"title": "Life in a district headquarters", "text": "Walk Simikot's lanes past stone houses with flat roofs, small shops stocked from Tibet and Nepalgunj, prayer flags and the district offices. Humla's two community radio stations broadcast from here."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu to Nepalgunj in about 1 hour, usually overnighting there, then take a morning small-plane flight to Simikot of about 50 minutes. Flights are weather-dependent and baggage limits are strict, often 15 kg or less. Keep spare days in your plan."},
+    {"mode": "Road", "text": "Since July 2025 a rough road links Simikot to the Karnali corridor from Surkhet, and a road also runs north to Hilsa on the Tibetan border. Journeys by jeep are long, slow and seasonal; check current status before you travel."}
+  ],
+  "where_to_stay": "Simikot has a growing number of simple hotels and guesthouses, many busy with Kailash pilgrims in the summer season, offering twin rooms with attached or shared bathrooms, solar hot water and Nepali, Tibetan and Indian food. The Nepal Trust runs a guesthouse at its Simikot office as a social enterprise. Standards are basic but clean. On treks beyond town, expect village homes, simple teahouses or camping.",
+  "stays": [],
+  "tips": [
+    "Allow at least two spare days for Nepalgunj–Simikot flights, which are often delayed by cloud and wind.",
+    "Pack to the small-plane baggage limit and carry essentials, including medicines and a warm layer, in your hand luggage.",
+    "Rest in Simikot on arrival; at about 2,900 m you may feel the altitude after flying in from the plains.",
+    "Carry enough cash from Nepalgunj; banking in Simikot is limited and prices are higher than elsewhere.",
+    "Trekking north of Simikot needs the Humla restricted area permit, a licensed guide and at least two trekkers; check current status before you travel."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "spiritual-and-pilgrimage", "adventure-sports"],
+  "nearby": ["limi-valley", "rara-lake"],
+  "experiences": [
+    {
+      "slug": "simikot-airstrip-arrivals",
+      "title": "Morning arrivals on Simikot's short runway",
+      "kind": "adventure",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Apr–Oct",
+      "image_query": "Simikot airport Twin Otter",
+      "wiki": "Simikot Airport",
+      "summary": "Watch small planes land on Simikot's 549 m runway at nearly 3,000 m, the lifeline of Humla, as rice, fuel, mail and passengers are unloaded and the planes turn round for Nepalgunj within minutes.",
+      "body": [
+        "Simikot Airport is one of the remote mountain airstrips that keep Nepal's highlands supplied. Its runway is only 549 m long at around 2,818 m, so only short take-off and landing aircraft can use it. On busy mornings planes arrive one after another from Nepalgunj, weather permitting.",
+        "Find a safe spot at the edge of town with a view of the runway, away from the airport fence and restricted areas. You will see Twin Otters or Dorniers appear over the valley, drop steeply and land uphill, then taxi to the small apron where porters swarm to unload sacks of rice, gas cylinders and boxes of supplies.",
+        "Within a short time the plane is turned round and roars off again, heading down the valley. It is a vivid lesson in how Humla has lived, and why every visitor needs spare days. Do not fly drones near the airport."
+      ],
+      "good_for": ["photographers", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Is flying into Simikot safe?", "a": "Flights into Simikot are operated by experienced mountain pilots in aircraft built for short airstrips, and they fly only in good visibility. Delays and cancellations are common for that reason. Choose an established operator, fly in the morning and accept that weather decides the schedule."},
+        {"q": "How long is the Simikot runway?", "a": "About 549 m, at an elevation of around 2,818 m. That is very short, which is why only short take-off and landing aircraft such as Twin Otters and Dorniers can use it. The runway has been improved in recent years."},
+        {"q": "Can I photograph the airport?", "a": "Photographing planes landing from public areas in town is generally fine. Stay outside the airport fence and away from restricted areas, follow any instructions from airport or security staff, and never fly a drone near the runway."}
+      ]
+    },
+    {
+      "slug": "simikot-kermi-hot-springs",
+      "title": "Walk to Kermi for the hot springs",
+      "kind": "wellness",
+      "duration": "Overnight (5–6 hours walk each way)",
+      "best_time": "Apr–Jun, Sep–Oct",
+      "image_query": "Kermi Humla village",
+      "wiki": "",
+      "summary": "Follow the Kailash trail for a day from Simikot down to the Humla Karnali and up to Kermi village, where natural hot springs make a welcome soak at the end of the walk.",
+      "body": [
+        "The first stage of the old route to Hilsa drops from Simikot through pine forest and terraced fields to the Humla Karnali, then follows the river upstream. After five or six hours you reach Kermi, a village of stone houses, fields and Buddhist chortens on a terrace above the river.",
+        "A short walk from the village are natural hot springs, where you can soak in warm water with views of the valley walls. After a day on the trail at close to 3,000 m, it is a fine way to ease your legs, and it makes Kermi a popular first night for Hilsa and Limi treks.",
+        "Kermi lies on the restricted-area route, so you need the Humla permit and a licensed guide. Bring a swimsuit and towel, respect any separate times for men and women, and do not use soap in the pools. Return to Simikot the next day or continue towards Hilsa."
+      ],
+      "good_for": ["trekkers", "couples", "solo"],
+      "faqs": [
+        {"q": "How far is Kermi from Simikot?", "a": "Kermi is about a day's walk from Simikot, often five to six hours, descending to the Humla Karnali and following it upstream. It is the usual first overnight stop on treks to Hilsa and the Limi valley."},
+        {"q": "Do I need a permit to walk to Kermi?", "a": "Yes. Kermi is on the route north of Simikot that falls under the Humla restricted area permit, which must be arranged through a licensed agency for a group of at least two, with a licensed guide. Check current status before you travel."},
+        {"q": "Are the Kermi hot springs developed?", "a": "They are simple natural pools rather than a resort, sometimes with basic walls or shelters. Facilities are minimal. Bring a towel and swimsuit, follow local customs on dress and timing, and keep the water clean."}
+      ]
+    },
+    {
+      "slug": "simikot-hilsa-kailash-trail",
+      "title": "The old Kailash trail from Simikot to Hilsa",
+      "kind": "trek",
+      "duration": "4–5 days",
+      "best_time": "May–Jun, Sep–Oct",
+      "image_query": "Nara La pass Humla",
+      "wiki": "Hilsa, Nepal",
+      "summary": "Walk the historic pilgrim and trade route up the Humla Karnali from Simikot to Hilsa on the Tibetan border, over the 4,530 m Nara La, through Khas and Buddhist villages on the way to Kailash.",
+      "body": [
+        "Before helicopters, every Kailash pilgrim from this side walked. The trail leaves Simikot, follows the Humla Karnali upstream past Kermi, Yalbang and Tumkot, and climbs to the Nara La at about 4,530 m before dropping steeply to Hilsa, the border village where the Karnali enters Nepal from Tibet.",
+        "The route passes from Khas Hindu villages into Buddhist country, with monasteries, mani walls, chortens and yak herds. Views open to snow peaks and the arid hills of the Tibetan plateau. The walk takes four to five days, with simple lodges and camping along the way.",
+        "Today most Kailash pilgrims cover this distance by helicopter in about twenty minutes, so the trail is quiet. It needs the Humla restricted area permit, a licensed guide and at least two trekkers. From Hilsa you can cross to Tibet with a separate Chinese permit, or loop back through the Limi valley."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How long is the trek from Simikot to Hilsa?", "a": "Usually four to five days on foot, crossing the Nara La at about 4,530 m. The straight-line distance to Hilsa is about 51 km, but the trail is much longer with climbs and descents. Helicopters cover the route in about twenty minutes."},
+        {"q": "Can I continue from Hilsa to Mount Kailash?", "a": "Yes, but only with a Chinese group visa and Tibet travel permits arranged through an authorised agency, usually as part of a Kailash–Manasarovar tour. Rules for foreigners change often and the border can close. Check current status before you travel."},
+        {"q": "Do I need a permit for the Simikot–Hilsa trek?", "a": "Yes. Upper Humla is a restricted area, so you need a special permit arranged by a licensed trekking agency, for a group of at least two trekkers with a licensed guide. Fees are charged per week. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "simikot-town-ridge-walk",
+      "title": "A morning walk through Simikot",
+      "kind": "heritage",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Apr–Oct",
+      "image_query": "Simikot town Humla houses",
+      "wiki": "",
+      "summary": "Spend a morning walking Simikot's lanes and the paths above town, past stone houses with flat roofs, prayer flags and small shrines, with views down to the Humla Karnali and up to the surrounding peaks.",
+      "body": [
+        "Simikot spreads over a slope above the Humla Karnali, and a slow walk through it shows a town where Hindu and Buddhist Humla meet. Stone houses with flat mud roofs step down the hillside, with firewood stacked on top and ladders cut from single logs leading up to them.",
+        "Along the way you pass small Hindu shrines and Buddhist prayer flags, shops selling goods trucked from Tibet and flown from Nepalgunj, and the district offices, school and hospital that make Simikot the centre of Humla life. Children walk to school, women spin wool on doorsteps, and porters wait by the airstrip.",
+        "Climb a little above town for views of the river gorge below and the snow peaks around Humla. It is an easy acclimatisation walk on your arrival day. Greet people with namaste or tashi delek, and ask before taking photos."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Is there much to see in Simikot itself?", "a": "Simikot is a working district headquarters rather than a sightseeing town, but a walk through its lanes shows stone architecture, Hindu and Buddhist shrines, local markets and daily life. It is an ideal way to acclimatise before a trek."},
+        {"q": "What languages are spoken in Simikot?", "a": "Nepali is spoken by almost everyone, along with the local Humli dialect. Many people from upper Humla speak Tibetan dialects. English is limited outside hotels and trekking circles, so a guide helps."},
+        {"q": "Do I need the restricted area permit to stay in Simikot?", "a": "The rules on exactly which parts of Humla require the restricted area permit have varied over time. Trekking north from Simikot towards Hilsa or Limi certainly requires it. Your agency will confirm the current rule for Simikot itself; check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get to Simikot?", "a": "Fly Kathmandu to Nepalgunj in about an hour, then take a small-plane flight to Simikot of around 50 minutes, usually early in the morning. Since 2025 a rough road also connects Simikot south to the Karnali corridor, but the journey is very long. Check current status before you travel."},
+    {"q": "Is Simikot the gateway to Mount Kailash?", "a": "Yes. Simikot is the main Nepali gateway for the Kailash–Manasarovar pilgrimage. Pilgrims fly from Nepalgunj to Simikot, then go by helicopter or on foot to Hilsa on the Tibetan border and cross into Purang. Thousands pass through each summer."},
+    {"q": "What permits do I need in Humla?", "a": "Trekking north of Simikot, including to Hilsa and the Limi valley, requires the Humla restricted area permit, arranged by a licensed agency for at least two trekkers with a licensed guide, with fees charged per week. Check current status before you travel."},
+    {"q": "What is the best time to visit Simikot?", "a": "May to June and September to October. Upper Humla lies partly in a rain shadow, so treks are possible even in July and August, when the Kailash pilgrimage is busiest. Winter brings snow and very cold nights, and few flights."},
+    {"q": "How high is Simikot?", "a": "The town stands at just over 2,900 m, with the airstrip at about 2,818 m. Some people feel mild altitude effects after flying in from Nepalgunj, near sea level. Rest on your first day and drink plenty of water."},
+    {"q": "Are there hotels in Simikot?", "a": "Yes, a number of simple hotels and guesthouses, busy with Kailash pilgrims in summer. Rooms are basic but clean, with solar hot water in the better places. Book ahead in the pilgrim season of June to September."},
+    {"q": "What if my flight to or from Simikot is cancelled?", "a": "It happens often. Plan at least two spare days for this leg. Charter helicopters are sometimes available at extra cost. Keep your schedule flexible, buy travel insurance that covers delays, and keep in touch with your agency."},
+    {"q": "Can I visit Simikot without trekking?", "a": "Yes. Some travellers fly in for a night or two to experience a remote Himalayan headquarters town, walk around Simikot and watch the airstrip. Most, though, come to start a trek or the Kailash pilgrimage."},
+    {"q": "Is there mobile coverage and electricity in Simikot?", "a": "Simikot has mobile coverage and electricity, often from solar and small hydro, with occasional outages. Internet is available but can be slow. Coverage drops quickly once you leave town on the trails north."}
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "everest-base-camp-gokyo-cho-la-17n",
+  "title": "Gokyo Lakes, Cho La and Everest Base Camp",
+  "region": "everest-khumbu",
+  "kind": "trek",
+  "nights": 17,
+  "themes": ["treks-and-trails", "high-altitude", "lakes-and-rivers", "photography"],
+  "grade": "Strenuous",
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "lukla", "nights": 1},
+    {"place": "namche-bazaar", "nights": 2},
+    {"place": "gokyo", "nights": 5},
+    {"place": "everest-base-camp", "nights": 3},
+    {"place": "dingboche", "nights": 1},
+    {"place": "tengboche", "nights": 1},
+    {"place": "namche-bazaar", "nights": 1},
+    {"place": "lukla", "nights": 1},
+    {"place": "kathmandu", "nights": 1}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1950,
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "pace": "Active",
+  "max_altitude_m": 5545,
+  "meta_description": "Gokyo Lakes, Cho La pass and Everest Base Camp in 17 nights: Gokyo Ri, the Ngozumpa glacier, Kala Patthar. Licensed guide and porter, from USD 1,950.",
+  "summary": "A loop that sees the Khumbu from two valleys. You walk up to the turquoise Gokyo lakes and climb Gokyo Ri, cross the Ngozumpa glacier and the 5,420 m Cho La, then join the main trail to Everest Base Camp and Kala Patthar. Seventeen nights, well acclimatised, for fit trekkers with some mountain experience.",
+  "intro": [
+    "Most people walk to base camp and back on the same trail. This route goes up the quieter Dudh Koshi valley to Gokyo first, where the acclimatisation is gentler and the lakes hold the sky like glass. By the time you reach the Cho La you have slept four nights above 4,000 m, and the pass, steep boulders on one side and a small glacier on the other, is a hard day rather than a dangerous one.",
+    "From Dzongla you drop into the Khumbu valley at Lobuche, already strong, and reach base camp and Kala Patthar with the hard work behind you. Two big viewpoints on one trip: Gokyo Ri, where Everest, Lhotse, Makalu and Cho Oyu line up across the glacier, and Kala Patthar, where Everest is close enough to see the South Col. We walk out via Pangboche and Tengboche to finish the loop, so even the last days show you a part of the valley you have not walked yet."
+  ],
+  "story": "Above Namche the trail climbs to Mong La, a chorten on a ridge, and then the Gokyo valley opens, emptier than the main trail, with yak pastures and summer herders' huts at Dole and Machhermo. At Machhermo the lodge owners still tell the 1974 story of a yeti that killed yaks there. The lakes come in a chain beside the Ngozumpa, about 36 km long and among the longest glaciers in the Himalaya, grey ice and rubble the width of a valley. Crossing it to Thagnak takes two hours of cairns and creaking ice. Then the Cho La: boulders, a glacier, prayer flags and a sudden view down to Dzongla and Ama Dablam. On the Khumbu side you meet the crowds again, the memorials at Thukla, the sand of Gorak Shep, and finally the mountain itself.",
+  "highlights": [
+    "Sunrise on Gokyo Ri, about 5,357 m, with four 8,000 m peaks in one view",
+    "The chain of Gokyo lakes, a protected Ramsar wetland since 2007",
+    "Crossing the Ngozumpa glacier and the 5,420 m Cho La",
+    "Everest Base Camp and sunrise from Kala Patthar",
+    "A quieter, gentler acclimatisation route than the main base camp trail"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 30 min transfer", "text": "We meet you at the airport and take you to your hotel. In the afternoon your guide runs through the route and checks your kit with special care for this trek: you need a warm sleeping bag rated to about −15 °C, good gloves and, for the Cho La, microspikes that fit your boots. We can rent or buy missing pieces in Thamel. Permits are prepared and the flight time confirmed for the morning.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lukla, walk to Phakding", "place": "lukla", "overnight": "Phakding", "alt_m": 2610, "move": "≈ 35 min flight · 3–4 h walk · −250 m", "text": "The flight to Lukla follows the Himalaya east, with Langtang and Gauri Shankar off the left side on clear mornings. After landing on Lukla's sloping runway we meet the porters and walk down past Chheplung to Phakding on the Dudh Koshi. It is an easy afternoon through pine and fields of potatoes and buckwheat, with prayer wheels at every water mill. Sleeping lower than Lukla tonight helps the first night of altitude.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "alt_m": 3440, "move": "≈ 6 h walk · +830 m", "text": "Upstream past Monjo, where the national park permits are checked, to the confluence at Jorsalle and the high Hillary suspension bridge. The climb to Namche is long and steady, with a first view of Everest's summit from a bend in the trail if the sky is clear. Namche fills a steep bowl at 3,440 m: lodges, bakeries, a police post, money changers and the last real gear shops before the mountains. Take the climb slowly.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Acclimatisation day in Namche", "place": "namche-bazaar", "overnight": "Namche Bazaar", "alt_m": 3440, "move": "≈ 4–5 h day hike · +440 m and back", "text": "We walk up to Syangboche and the terrace of Hotel Everest View, about 3,880 m, then down through Khumjung and its monastery, which keeps a skull-shaped relic that villagers call the yeti scalp. Climbing high and sleeping low today makes the next days easier. In the afternoon visit the Sherpa Culture Museum or the park visitor centre at the top of town, where a map of the Gokyo valley shows the route ahead.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Namche to Dole via Mong La", "place": "gokyo", "overnight": "Dole", "alt_m": 4040, "move": "≈ 5–6 h walk · +600 m", "text": "We leave the main trail at Kyangjuma and climb to the chorten on Mong La, about 3,970 m, the spur where the routes to Gokyo and Tengboche separate. Khumbila, the sacred mountain no one climbs, stands right above you. The path drops steeply to Phortse Thanga by the river, then climbs through rhododendron and birch to Dole, a few lodges in a side valley. In spring the forest here is red with flowers; in autumn the birch turns gold.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Dole to Machhermo", "place": "gokyo", "overnight": "Machhermo", "alt_m": 4470, "move": "≈ 4 h walk · +430 m", "text": "A short day on purpose. The trail climbs along the side of the valley past summer settlements at Luza with Cho Oyu straight ahead. Machhermo sits in a sheltered bowl with stone yak walls and a handful of lodges. In the main seasons the Himalayan Rescue Association runs an aid post here and gives an afternoon talk on altitude sickness, worth attending. Ask your lodge owner about 1974, when a herder said a yeti attacked her yaks nearby.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Machhermo to Gokyo", "place": "gokyo", "overnight": "Gokyo", "alt_m": 4790, "move": "≈ 4 h walk · +320 m", "text": "Past Pangka, the trail climbs a short steep section beside the Ngozumpa moraine, then the lakes begin. The first, Longponga, is small; the second, Taboche Tsho, is larger; the third, Dudh Pokhari, holds the village of Gokyo on its shore. On a still afternoon the water is a deep turquoise. The lodges here are some of the best above 4,500 m, with sun rooms facing the lake. Rest, eat well and go to bed early.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Gokyo Ri sunrise and the fourth lake", "place": "gokyo", "overnight": "Gokyo", "alt_m": 4790, "move": "≈ 3 h up and down Gokyo Ri · optional 4 h to the fourth lake", "text": "We start in the dark and cross the stream at the lake's inflow, then climb the steep, zigzagging path up Gokyo Ri, about 5,357 m. At the top Everest, Lhotse, Makalu and Cho Oyu all stand in one sweep, with the Ngozumpa glacier below. After breakfast those with energy walk north to the fourth lake, Thonak Tsho, for quiet and yak pastures; others rest. This second night at Gokyo prepares you for the Cho La.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 9, "title": "Cross the Ngozumpa to Thagnak", "place": "gokyo", "overnight": "Thagnak", "alt_m": 4700, "move": "≈ 2–3 h walk · −90 m", "text": "A short morning crossing the Ngozumpa glacier, not on clean ice but on a moving field of rubble, meltwater ponds and grey ice cliffs. Cairns mark the route, which shifts from season to season, so your guide checks it with the lodges. Thagnak, also written Dragnag, is a few lodges at the foot of the pass. The afternoon is for rest, checking microspikes and an early meal before a 5 am start tomorrow.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 10, "title": "Over the Cho La to Dzongla", "place": "", "overnight": "Dzongla", "alt_m": 4830, "move": "≈ 7–8 h walk · +720 m, −590 m", "text": "The hardest day of the trek. From Thagnak a valley leads to a steep climb over loose boulders to the pass at about 5,420 m, hung with prayer flags. On the east side there is a short glacier, often icy in the morning, where microspikes help. Then a steep descent on rock and scree to a meadow, and down to Dzongla, with Ama Dablam, Cholatse and Taboche close around you. Arrive tired and proud.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 11, "title": "Dzongla to Lobuche", "place": "", "overnight": "Lobuche", "alt_m": 4940, "move": "≈ 3–4 h walk · +110 m", "text": "An easy traverse after yesterday, contouring above the Chola Tsho lake and around the shoulder of Awi Peak to join the main Everest trail just below Lobuche. You start to meet more trekkers, porters with loads of supplies and yak trains heading up to base camp. Lobuche is a cluster of lodges below Lobuche East and the Khumbu Glacier's moraine. The afternoon is free to rest before the base camp day.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 12, "title": "Gorak Shep and Everest Base Camp", "place": "everest-base-camp", "overnight": "Gorak Shep", "alt_m": 5164, "move": "≈ 7–8 h walk · +420 m to base camp", "text": "Along the lateral moraine of the Khumbu Glacier to Gorak Shep, a few lodges on a dry lake bed. After lunch we walk to Everest Base Camp at 5,364 m, about two to three hours each way over rubble and ice. In spring you see expedition camps and the Khumbu Icefall above them; in autumn the camp is empty and quiet. Gorak Shep is the coldest night of the trip, so sleep with your water bottle inside your bag.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 13, "title": "Kala Patthar sunrise, down to Pheriche", "place": "everest-base-camp", "overnight": "Pheriche", "alt_m": 4371, "move": "≈ 2 h up · ≈ 6 h down · −790 m overnight", "text": "Before dawn we climb Kala Patthar to about 5,545 m. Having seen Everest from Gokyo across the glacier, you now see it from close in: the summit pyramid, the South Col and the Lhotse face. After breakfast at Gorak Shep we walk down past Lobuche and the Thukla memorials to Pheriche, a broad windy valley with a Himalayan Rescue Association aid post. The thicker air makes for the best sleep in a week.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 14, "title": "Pheriche to Tengboche", "place": "tengboche", "overnight": "Tengboche", "alt_m": 3867, "move": "≈ 5 h walk · −500 m", "text": "Down the valley to Pangboche, where the old gompa above the village is said to be the oldest in the Khumbu, then across the gorge and up to Tengboche on its saddle. You arrive among trees again, juniper, fir and rhododendron. If you are in by 3 pm, sit quietly at the back of the monastery's afternoon puja with the monks' long horns and cymbals. Everest shows behind the Nuptse wall at sunset.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 15, "title": "Tengboche to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "alt_m": 3440, "move": "≈ 4 h walk · −430 m", "text": "Down through the forest to Phunki Thenga, where water-turned prayer wheels clatter beside the bridge, then a stiff climb up to Kyangjuma and the level path back into Namche. The afternoon is for hot showers, a bakery, laundry and perhaps a few souvenirs, prayer flags, singing bowls or a yak-wool hat. Thank-you dinners usually happen tonight or tomorrow; your guide can tell you what tipping is normal for the crew.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 16, "title": "Namche to Lukla", "place": "lukla", "overnight": "Lukla", "alt_m": 2860, "move": "≈ 7 h walk · −580 m", "text": "The last full trekking day: down the zigzag to the Hillary bridge, through Monjo and Phakding and along the river, then the climb of about an hour from Chheplung up to Lukla. Your legs will notice the downhill more than the uphill. In Lukla the guide reconfirms the morning flight. The porters finish their work here, and evening is the time to thank them; most come from lower villages in Solu and travel home from here.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 17, "title": "Fly Lukla to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive", "text": "Morning flights leave as the cloud allows. In peak months you may land at Ramechhap and drive back to the city in about four to five hours. Afternoon at leisure in Kathmandu. There is no spare day built in on this route, so if you have flexibility, we strongly suggest adding one extra night here in case Lukla weather delays the flight; we can hold it for you at little cost.", "meals": "Breakfast"},
+    {"day": 18, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 30 min transfer", "text": "We drive you to the airport about three hours before your international flight. If you stay on, a quiet day in Patan, a night in Bhaktapur or a few days in the warm air of Chitwan or Pokhara are good ways to come down from three weeks of cold and climbing. Leave any rented sleeping bag, down jacket or microspikes at the hotel desk and we collect them later in the day.", "meals": "Breakfast"}
+  ],
+  "stays": ["kathmandu-guest-house"],
+  "includes": [
+    "Airport transfers and 2 nights at Kathmandu Guest House, twin sharing with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "Licensed trekking guide experienced on the Cho La, and one porter for every two trekkers",
+    "15 nights in teahouses, twin rooms, with three meals a day on trek",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Guide and porter wages, insurance, food and lodging",
+    "Pulse oximeter, first-aid kit and route checks for the Ngozumpa crossing"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking to 6,000 m and helicopter evacuation (required)",
+    "Microspikes and sleeping bag rental (≈ USD 2–3 a day each in Kathmandu)",
+    "Hot showers, charging, Wi-Fi cards and drinking water on trek",
+    "Drinks, snacks and Kathmandu lunches and dinners",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "The Cho La can be closed by fresh snow, usually from December; in that case we return via Gokyo and Phortse to the main trail and still reach base camp. Check current status before you travel.",
+    "Since April 2023 foreign trekkers in national parks are required to walk with a licensed guide, though enforcement in Khumbu has varied; check current status before you travel.",
+    "The Gokyo lakes are sacred to Hindus and Buddhists; do not wash or swim in them.",
+    "Microspikes and trekking poles make the Cho La glacier and descent much safer.",
+    "Add a spare night in Kathmandu if you can; Lukla flights are often delayed by cloud.",
+    "Rooms above Machhermo are basic and cold; nights at Gorak Shep in autumn fall to about −15 °C."
+  ],
+  "faqs": [
+    {"q": "How difficult is the Cho La pass?", "a": "It is the hardest day of this trek but not technical. Expect 7 to 8 hours, a steep climb over loose boulders to about 5,420 m, a short glacier on the east side that is often icy in the morning, and a steep rocky descent. Microspikes and poles help. Fit trekkers with prior hiking experience manage it well with an early start."},
+    {"q": "Is it better to do Gokyo first or base camp first?", "a": "Gokyo first. The climb up the Gokyo valley is gentler, with short days to Dole, Machhermo and Gokyo, so you acclimatise better before the pass. The climb to the Cho La from Thagnak is also easier to route-find than the descent. By the time you reach base camp you have slept many nights above 4,000 m and feel strong."},
+    {"q": "How much does the Gokyo and Cho La trek cost?", "a": "This 17-night trip starts from USD 1,950 per person, twin sharing, with Lukla flights, licensed guide, porter between two, park and municipality permits, teahouses with three meals on trek and two Kathmandu nights. Budget USD 350–450 extra for showers, charging, water and snacks, plus tips, visa and insurance."},
+    {"q": "Can the Cho La be crossed in winter?", "a": "Sometimes, but not reliably. From December to February fresh snow can make the glacier and the descent dangerous, and lodges at Thagnak and Dzongla may close. We decide on the day with the lodge owners and other guides. If the pass is out, we walk back down the Gokyo valley via Phortse and still reach base camp by the main trail."},
+    {"q": "How high is Gokyo Ri and what can you see?", "a": "Gokyo Ri is about 5,357 m, a two-hour climb from Gokyo village. From the top you see four of the world's 8,000 m peaks, Everest, Lhotse, Makalu and Cho Oyu, with the Ngozumpa glacier spread below and the Gokyo lakes at your feet. Many trekkers think it is a better view of Everest than Kala Patthar."},
+    {"q": "Do I need microspikes or crampons?", "a": "Microspikes, yes; full crampons, usually not. The short glacier on the Dzongla side of the Cho La is often hard ice early in the morning, and microspikes that strap over trekking boots make it far safer. You can rent them in Kathmandu or Namche for a few dollars a day. Your guide checks conditions before you leave Gokyo."},
+    {"q": "What are the Gokyo lakes?", "a": "They are a chain of glacier-fed lakes beside the Ngozumpa glacier, between about 4,700 and 5,000 m. Gokyo village stands on the third, Dudh Pokhari. The lakes and surrounding wetland were listed as a Ramsar site in 2007. They are sacred to both Hindus and Buddhists, and pilgrims come at Janai Purnima in August."},
+    {"q": "Is this trek suitable for first-time trekkers?", "a": "It suits fit first-timers with good hill-walking experience at home, but if you have never walked several days in a row we suggest the classic base camp route or the Gokyo trek without the pass. The extra difficulty here is the Cho La day and longer stretches above 4,500 m, which feel cold and tiring."},
+    {"q": "What happens if someone gets altitude sickness near the pass?", "a": "We descend. From Gokyo or Thagnak the fastest way down is the Gokyo valley to Machhermo, which has a seasonal aid post, or further to Dole. Your guide checks oxygen levels each morning and evening and will not cross the pass with anyone showing symptoms. Helicopter evacuation is possible from most villages, which is why insurance is required."}
+  ]
+}

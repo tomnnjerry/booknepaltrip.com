@@ -1,0 +1,342 @@
+{
+  "slug": "chainpur",
+  "name": "Chainpur",
+  "name_ne": "चैनपुर",
+  "local_name": "",
+  "region": "eastern-nepal",
+  "kind": "old town",
+  "wiki": "Chainpur Municipality",
+  "image_query": "Chainpur Sankhuwasabha bazaar",
+  "lat": 27.29,
+  "lng": 87.32,
+  "altitude_m": 1277,
+  "tagline": "An old hill bazaar of brass jugs, bronze casters and khukuri smiths",
+  "meta_description": "Chainpur, Sankhuwasabha: old trading bazaar at about 1,277 m, known for its karuwa brass water jugs, metal casting and khukuri. How to reach and what to see.",
+  "summary": "Chainpur is an old trading bazaar on a ridge in Sankhuwasabha district, at about 1,277 m, above the Arun valley. For centuries it has been known for the karuwa, a spouted water jug of cast and carved brass, and for its metalworkers and khukuri smiths. It is a short drive from Tumlingtar and Khandbari.",
+  "intro": [
+    "Long before roads reached the Koshi hills, Chainpur was one of the market towns where hill villages traded with merchants from the south. Its bazaar grew along a ridge, with Newar shopkeepers and metalworkers among the families who settled here, and it served as the headquarters of Sankhuwasabha district until the offices moved to Khandbari. Porters walked for days to reach it, carrying hill produce in and metal goods, cloth and salt out.",
+    "Today Chainpur is quieter than its neighbour, which is part of its charm. The old bazaar still has shop-houses with wooden windows and family workshops where brass and bronze are cast, filed and engraved. The best-known product is the karuwa, a heavy water jug with a carved spout, still given as a wedding gift across eastern Nepal. You hear the workshops before you see them: the tap of hammers and the rasp of files.",
+    "Come for half a day from Tumlingtar, or stay a night to see the workshops at their busiest in the morning and walk the bazaar after the shops shut. Chainpur is also a good rest stop at the start or end of the Makalu trek, with cooler air than the Arun valley below, quiet lanes, and enough to see to fill a slow day without any long drives or early starts."
+  ],
+  "story": {
+    "title": "The bazaar that made the karuwa",
+    "paras": [
+      "Chainpur's place on the ridge between the Arun valley and the higher hills made it a natural trading post. Grain, ghee, cardamom and herbs came down from the villages; cloth, salt, metal and tools came up from the south. Merchants and craft families settled along the ridge, and the bazaar became one of the best known in the eastern hills. Its shop-houses, with goods on the ground floor and family rooms above, still follow the pattern of those trading days.",
+      "Metalwork became its trade. Workshops here have cast and carved brass and bronze for generations, making plates, bowls, lamps and especially the karuwa, the spouted water jug that a bride's family gives in eastern Nepal and that sits on the shelf of many hill homes. A Chainpur karuwa is recognised by its weight and the carving on its body and spout. Blacksmiths in the area are also known for their khukuri knives.",
+      "Chainpur was the district headquarters of Sankhuwasabha until the offices moved to Khandbari, and in 2014 it became the centre of a new municipality formed from five former village areas. The workshops face competition from cheap factory-made goods, aluminium and steel, and fewer young people take up the trade, many leaving instead for jobs abroad. But several families still work in the old way, and a Chainpur karuwa remains a gift that carries weight, in both senses."
+    ]
+  },
+  "legend": "",
+  "people": "Chainpur's bazaar has long been home to Newar trading and metalworking families, alongside Brahmin, Chhetri and Dalit artisan families such as the blacksmiths who make khukuri. The surrounding villages are home to Rai, Limbu, Tamang, Sherpa, Gurung and others. Nepali is the common language, with Tamang, Sherpa, Limbu and Rai languages spoken in many homes. Trade, crafts, farming and remittances keep the town going.",
+  "untold": [
+    {
+      "fact": "Chainpur has been known for hundreds of years for the karuwa, a water jug with a pipe-like spout and carved exterior, still a classic gift in eastern Nepal.",
+      "source": "Wikipedia: Chainpur Municipality"
+    },
+    {
+      "fact": "Chainpur used to be the headquarters of Sankhuwasabha district before the offices moved to Khandbari, which is why the old town has an older, more established bazaar than many hill towns of its size.",
+      "source": "Wikipedia: Chainpur Municipality"
+    },
+    {
+      "fact": "Chainpur municipality was formed in May 2014 by merging five former village areas: Chainpur, Siddhakali, Siddhapokhari, Baneshwar and Kharang, with the old bazaar as its centre.",
+      "source": "Wikipedia: Chainpur Municipality"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "karuwa",
+      "script": "करुवा",
+      "lang": "Nepali",
+      "meaning": "Spouted brass water jug, Chainpur's famous product"
+    },
+    {
+      "word": "khukuri",
+      "script": "खुकुरी",
+      "lang": "Nepali",
+      "meaning": "Curved Nepali knife used on farms and by Gurkha soldiers"
+    },
+    {
+      "word": "kami",
+      "script": "कामी",
+      "lang": "Nepali",
+      "meaning": "Blacksmith; also a caste name for metalworking families"
+    }
+  ],
+  "taste": {
+    "name": "Yomari",
+    "text": "A steamed rice-flour dumpling shaped like a fig, filled with molasses and sesame or sweetened milk solids. Newar families make it for Yomari Punhi, the full moon of Mangsir in November or December. Outside the festival, ask a Newar household in the bazaar; we can arrange it with notice."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "1"
+    ],
+    [
+      "Nearest airport",
+      "Tumlingtar (TMI)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 45 min flight + 1.5–2.5 h by road"
+    ],
+    [
+      "Altitude",
+      "≈ 1,277 m"
+    ],
+    [
+      "Known for",
+      "Karuwa water jugs, brass and bronze casting, khukuri"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0–1",
+  "highlights": [
+    {
+      "title": "A karuwa workshop",
+      "text": "Watch a metalworking family cast, file, polish and engrave brass jugs and bowls by hand. The work is noisy, hot and slow, and a single karuwa takes days. Buy directly from the maker if you want one."
+    },
+    {
+      "title": "The old bazaar",
+      "text": "Walk the bazaar along the ridge, with shop-houses, carved wooden windows, small temples and tea shops. It is quiet and easy to explore on foot in an hour or two, best in the late afternoon light."
+    },
+    {
+      "title": "Khukuri smiths",
+      "text": "Blacksmiths around Chainpur forge khukuri, the curved Nepali knife, from steel heated in charcoal fires. A visit shows how blades are shaped and hardened, though carrying one home needs care with airline rules."
+    },
+    {
+      "title": "Views over the Arun valley",
+      "text": "From the ridge, the land falls away toward the Arun, with the Tumlingtar terrace below and forested hills beyond. On clear winter mornings snow peaks show on the northern horizon above the ridges."
+    },
+    {
+      "title": "Yomari at Mangsir full moon",
+      "text": "Newar families in Chainpur make yomari dumplings for Yomari Punhi, the full moon of Mangsir in November or December. If you visit then, you may be offered one fresh from the steamer."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Chainpur is a drive of roughly 1.5–2.5 hours from Tumlingtar, depending on the road, and closer to Khandbari. Jeeps run between the towns. Roads are rough in places and slow in the monsoon; check current status before you travel."
+    },
+    {
+      "mode": "Air",
+      "text": "The nearest airport is Tumlingtar, about 45 minutes by air from Kathmandu. Flights can be delayed by weather, so keep a spare half day."
+    }
+  ],
+  "where_to_stay": "Chainpur has a few simple lodges and guesthouses in the bazaar, with basic rooms, shared or simple private bathrooms and home-style meals. For more choice, stay in Khandbari or Tumlingtar and visit Chainpur on a day trip. If you want to see workshops early in the morning, a night in Chainpur is worth it, and the bazaar is pleasant in the evening; we confirm open lodges before booking.",
+  "stays": [],
+  "tips": [
+    "Visit workshops in the morning, when the metalworkers are most active and the light is good.",
+    "Ask before photographing artisans at work, and consider buying something small from the families you visit.",
+    "A real Chainpur karuwa is heavy; check your baggage allowance, especially on small domestic flights with 10–15 kg limits.",
+    "Khukuri knives must go in checked baggage, never hand luggage, and some countries restrict importing them.",
+    "Saturday is the weekly day off in Nepal, and some workshops close; plan visits for other days."
+  ],
+  "themes": [
+    "crafts-and-makers",
+    "heritage-and-temples",
+    "villages-and-homestays",
+    "food-and-festivals"
+  ],
+  "nearby": [
+    "tumlingtar",
+    "makalu-base-camp",
+    "hile"
+  ],
+  "experiences": [
+    {
+      "slug": "chainpur-karuwa-casting-workshop",
+      "title": "Inside a Chainpur karuwa workshop",
+      "kind": "craft",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Nepal brass karuwa jug",
+      "wiki": "",
+      "summary": "A morning with a metalworking family in Chainpur, watching how brass and bronze vessels, above all the karuwa water jug, are cast, filed, polished and carved by hand in a small workshop.",
+      "body": [
+        "Our guide takes you to a family workshop in the bazaar, a small room or courtyard with a furnace, anvils, files and piles of half-finished pieces. Depending on the day you may see metal being melted and poured into moulds, rough castings filed and turned, or finished jugs being polished and engraved with fine patterns on the body and spout. The work is done by hand, often by several generations of the same family.",
+        "The family explains the steps and the tools, many of them handmade, and how long each piece takes, often several days for a single large karuwa. They talk about the karuwa's role in weddings and household rituals across eastern Nepal, and why a heavy, well-carved Chainpur jug is still prized over factory-made ones. You can hold pieces at different stages and feel the difference in weight and finish.",
+        "If you want to buy, you buy directly from the maker at a fair price, usually set by weight plus the amount of work. Small bowls, lamps and cups make easier souvenirs than a full karuwa, which can weigh a few kilograms. We pay the family for their time whether you buy or not, so there is no pressure. Ask before photographing, and be careful around the furnace and hot metal."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "solo",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "What is a karuwa?",
+          "a": "A karuwa is a heavy brass water jug with a spout like a pipe, used for drinking water, rituals and weddings in Nepal. Chainpur has been known for its karuwa for centuries, with carved decoration on the body and spout."
+        },
+        {
+          "q": "How much does a Chainpur karuwa cost?",
+          "a": "Prices depend on weight, metal and the amount of carving, and are usually set by weight plus labour. A small plain piece costs far less than a large carved jug. Ask the maker for a price and compare a few pieces before buying."
+        },
+        {
+          "q": "Can I watch metal being cast in Chainpur?",
+          "a": "Sometimes. Casting is done in batches, not every day, depending on orders and the supply of metal. On other days you will see filing, polishing and engraving, which are just as interesting. Tell us in advance and we will try to time the visit for casting."
+        }
+      ]
+    },
+    {
+      "slug": "chainpur-old-bazaar-walk",
+      "title": "Old bazaar walk on the Chainpur ridge",
+      "kind": "heritage",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, any dry month",
+      "image_query": "Chainpur old bazaar houses",
+      "wiki": "",
+      "summary": "A slow walk through Chainpur's old trading bazaar with a local guide: shop-houses with wooden windows, small temples, workshops and tea shops, and the story of how this ridge-top market grew and changed.",
+      "body": [
+        "We walk the length of the bazaar, stopping at shops, small shrines and the houses where trading families have lived for generations. Our guide explains how goods came up and down from the Arun valley and the high villages, and how the town changed after the district offices moved to Khandbari. Some of the older houses have carved wooden windows and doors; others have been rebuilt in concrete, and the mix tells its own story.",
+        "Along the way we stop for tea and a snack, perhaps sel roti or a plate of fried snacks, and visit a workshop or two if they are open. Shopkeepers are usually happy to chat, and our guide translates. The ridge gives views over the Arun valley as the sun gets low, with the Tumlingtar terrace visible far below and the hills of Sankhuwasabha folding away to the north and east.",
+        "Chainpur is small, so the walk is unhurried and easy, with no need to rush or plan. It works well in the late afternoon after a morning workshop visit, when the light is soft and the bazaar fills with people finishing work and children coming home from school. We end at a viewpoint or tea shop, and you can wander back to your lodge in your own time."
+      ],
+      "good_for": [
+        "seniors",
+        "first-timers",
+        "photographers",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Is Chainpur worth visiting?",
+          "a": "Yes, if you are interested in crafts and old hill towns. It is small and quiet, with family workshops that still make the famous karuwa jugs. It fits easily into a day from Tumlingtar or Khandbari, or a night on a slower Arun valley trip."
+        },
+        {
+          "q": "Is the Chainpur bazaar walk easy?",
+          "a": "Yes. The bazaar runs along a ridge with some gentle slopes and steps, and the walk takes about 1.5 hours at a slow pace, at about 1,277 m, so there is no altitude concern. We can shorten it or add rest stops as needed."
+        },
+        {
+          "q": "Are there temples in Chainpur?",
+          "a": "Yes, there are several small Hindu shrines in and around the bazaar, and the wider municipality includes the Siddhakali area. Ask before entering any shrine, remove shoes where asked, and avoid touching offerings or images."
+        }
+      ]
+    },
+    {
+      "slug": "chainpur-khukuri-smithy",
+      "title": "Khukuri forging with a local smith",
+      "kind": "craft",
+      "duration": "1.5 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Khukuri blacksmith Nepal forge",
+      "wiki": "",
+      "summary": "A visit to a blacksmith's forge near Chainpur to see how khukuri, the curved Nepali knife, are forged, shaped, hardened and fitted with handles, from the charcoal fire to the finished blade in its sheath.",
+      "body": [
+        "The khukuri is Nepal's everyday farm knife and the symbol of the Gurkha soldier. Families use it to cut fodder, split firewood, clear paths and prepare food. Blacksmiths in Chainpur and the villages around it have long forged them for local use, often from recycled steel such as old vehicle springs. We visit a smithy where a family works with a charcoal fire, hand bellows and hammers.",
+        "You see a blade heated until it glows, hammered into its curve, shaped with files, and hardened in water with a hiss of steam. The smith explains the notch near the handle, the different blade styles for farm work, ceremony and the army, and the wooden or horn handles fitted at the end. Ask questions; our guide translates, and the smith will often let you try the bellows.",
+        "Buying a khukuri is possible, and a knife made in front of you is a meaningful souvenir. But plan ahead: it must travel in checked baggage, never hand luggage, and some countries restrict bringing blades home. Smaller decorative knives are easier to carry. As with all our craft visits, we pay the family for their time, and photographs are taken only with their agreement."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "families",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Can I take a khukuri home from Nepal?",
+          "a": "Usually yes in checked baggage, never in hand luggage. Some countries restrict or ban importing large knives, so check your own country's customs rules before you buy. Smiths can wrap the blade in its sheath for travel."
+        },
+        {
+          "q": "Is it safe for children to visit a forge?",
+          "a": "Yes with close supervision. Forges have open fire, hot metal and flying sparks, so children should stay back where the smith tells them and never touch tools or blades. Wear closed shoes and avoid loose clothing."
+        },
+        {
+          "q": "What is the notch on a khukuri for?",
+          "a": "The small notch near the handle, called the cho, has many explanations. Smiths often say it stops blood or sap reaching the handle, marks the end of the cutting edge, or carries religious meaning. Ask the smith what his family says."
+        }
+      ]
+    },
+    {
+      "slug": "chainpur-newar-kitchen-yomari",
+      "title": "Newar food and yomari in Chainpur",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Mangsir full moon (Nov–Dec), or any month with notice",
+      "image_query": "Yomari Newar sweet dumpling",
+      "wiki": "",
+      "summary": "A cooking session with a Newar family in Chainpur bazaar, making yomari dumplings and other Newar dishes, with stories of the festivals and customs that the Newar families of the eastern hills still keep.",
+      "body": [
+        "Newar families came to Chainpur as traders and craftspeople, and they brought their food and festivals from the Kathmandu Valley. The best-known is yomari, a steamed rice-flour dumpling with a sweet filling of molasses and sesame, made for Yomari Punhi, the full moon of Mangsir, which marks the end of the rice harvest. In Newar homes it is offered to the gods before it is eaten.",
+        "We arrange a session with a family in the bazaar. You help mix the dough and shape the dumplings, which takes practice: the pointed, fig-like shape is harder than it looks. While they steam, you learn about the other dishes on the table, such as beaten rice, spiced meat or soybeans, and pickles. The family talks about keeping Newar customs and language alive far from the Valley.",
+        "If you visit at Yomari Punhi itself, you will see the dumplings in many homes and may be offered them as you walk the bazaar. At other times we arrange it with notice, and the family makes a small batch especially. The session takes about two hours and ends with eating what you have made, hot, with tea. We pay the family directly for ingredients and their time."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "solo",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is yomari?",
+          "a": "Yomari is a Newar dumpling of steamed rice flour, shaped like a fig or a cone and filled with molasses and sesame or sweetened milk solids. It is made for Yomari Punhi, the Mangsir full moon, which marks the end of the rice harvest."
+        },
+        {
+          "q": "Do I need to book the Newar cooking session?",
+          "a": "Yes. The session is in a family home and needs at least a day's notice, more around festivals when families are busy. Tell us about any dietary needs when you book, as fillings and side dishes can be adjusted."
+        },
+        {
+          "q": "Why are there Newar families in Chainpur?",
+          "a": "Newar traders and craftspeople from the Kathmandu Valley settled in hill bazaars across Nepal, including Chainpur, to trade and work metal. Their descendants still run shops and workshops, speak Nepal Bhasa in some homes, and keep many Newar festivals."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Chainpur?",
+      "a": "Chainpur is a hill bazaar and municipality in Sankhuwasabha district, Koshi Province, eastern Nepal, at about 1,277 m. It is near Khandbari, the district headquarters, and a drive of roughly 1.5–2.5 hours from Tumlingtar airport, above the Arun valley."
+    },
+    {
+      "q": "What is Chainpur famous for?",
+      "a": "Chainpur is famous for the karuwa, a carved brass water jug with a spout, and for its brass and bronze metalwork more generally. Blacksmiths in the area are also known for khukuri knives. It is an old trading bazaar with Newar shop-houses."
+    },
+    {
+      "q": "How do I get to Chainpur from Kathmandu?",
+      "a": "Fly from Kathmandu to Tumlingtar in about 45 minutes, then drive roughly 1.5–2.5 hours. By road, the route runs via Dharan, Dhankuta, Hile and Khandbari, about two days from Kathmandu. Check current status before you travel."
+    },
+    {
+      "q": "How much time do I need in Chainpur?",
+      "a": "Half a day covers a workshop and a bazaar walk. A night lets you see workshops in the morning when they are busiest and the bazaar in the evening. Many travellers visit Chainpur as a day trip from Tumlingtar or Khandbari."
+    },
+    {
+      "q": "Can I buy a karuwa in Chainpur?",
+      "a": "Yes, directly from the families who make them or from shops in the bazaar. Prices depend on weight and carving. Remember that a good karuwa is heavy, often a few kilograms, and check baggage limits on domestic flights before you buy."
+    },
+    {
+      "q": "Is Chainpur the same as other Chainpurs in Nepal?",
+      "a": "No. Several places in Nepal are called Chainpur, including the headquarters of Bajhang district in the far west. The karuwa town is Chainpur in Sankhuwasabha district, near Khandbari and Tumlingtar, so check the district when booking transport."
+    },
+    {
+      "q": "When is the best time to visit Chainpur?",
+      "a": "October to April is dry and pleasant, with clear views over the Arun valley from October to February. The Mangsir full moon in November or December brings Yomari Punhi. June to September is wet, and roads can be slow."
+    },
+    {
+      "q": "Are there hotels in Chainpur?",
+      "a": "There are a few simple lodges and guesthouses in the bazaar, with basic rooms and home-style meals. For more choice, stay in Khandbari or Tumlingtar and visit on a day trip. We confirm what is open before booking."
+    },
+    {
+      "q": "Can I combine Chainpur with the Makalu trek?",
+      "a": "Yes. Chainpur is close to Tumlingtar and Khandbari, the gateways for the Makalu trek, so it fits well at the start or end, for example as a rest day after coming down from the mountains, or while waiting for a flight."
+    }
+  ]
+}

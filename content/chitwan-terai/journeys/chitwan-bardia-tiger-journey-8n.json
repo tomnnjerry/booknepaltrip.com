@@ -1,0 +1,221 @@
+{
+  "slug": "chitwan-bardia-tiger-journey-8n",
+  "title": "Chitwan and Bardia Tiger Journey",
+  "region": "chitwan-terai",
+  "kind": "wildlife",
+  "nights": 8,
+  "themes": [
+    "wildlife-and-jungle",
+    "photography",
+    "lakes-and-rivers",
+    "spiritual-and-pilgrimage"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "meghauli",
+      "nights": 3
+    },
+    {
+      "place": "lumbini",
+      "nights": 1
+    },
+    {
+      "place": "bardia",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 2300,
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Chitwan and Bardia tiger safari, 8 nights: rhino at Meghauli, a night in Lumbini, then three days tracking tigers on the Karnali with Tiger Tops.",
+  "summary": "Eight nights across Nepal's two great tiger parks. Three nights at Meghauli in western Chitwan for rhino and big grassland, a night at Lumbini on the long drive west, then three nights at Tiger Tops Karnali Lodge in Bardia, where tigers are tracked on foot and by jeep along the Karnali. Fly back from Nepalgunj.",
+  "intro": [
+    "Nepal's tiger story is one of the best conservation stories in Asia. The 2022 national survey counted about 355 wild tigers, close to three times the 2009 figure, with roughly 128 in Chitwan and 125 in Bardia. Chitwan is the better park for rhino and variety; Bardia, wilder and far less visited, is where many naturalists would send you for a real chance of a tiger. Both parks lie in the lowland Terai, under 200 m, and both are easy to reach by air and road.",
+    "This journey links the two. We fly you to Bharatpur for three nights on the Rapti, then drive west along the East-West Highway with a night in Lumbini, birthplace of the Buddha, to break the road. In Bardia we stay at Tiger Tops Karnali Lodge, near the park's Thakurdwara entrance, and spend three days with naturalists on the Karnali and Babai floodplains. A short flight from Nepalgunj takes you home."
+  ],
+  "story": "The first half belongs to rhino. At Meghauli they graze the far bank at breakfast and stand in the grass like boulders that breathe. Then the road goes west, past sugarcane, brick kilns and roadside tea stalls, and at Lumbini you walk at dusk past monasteries built by a dozen nations to the stone that marks the Buddha's birth. The next day the land empties. Beyond Kohalpur the forest closes in, villages thin out and the Karnali, Nepal's longest river, runs wide and green from the mountains of the far west. In Bardia you sit for hours on a riverbank or in a machan, listening for a sambar's bark, and learn the patience tigers ask for. Some days they give nothing. Some days they walk out of the grass.",
+  "highlights": [
+    "Three nights on the Rapti at Meghauli, among the best grassland in Chitwan for one-horned rhino",
+    "A night at Lumbini, with time at the Maya Devi Temple and the monastic zone",
+    "Three nights at Tiger Tops Karnali Lodge, tracking tigers on foot, by jeep and from riverside hides",
+    "Rafting or a float trip on the Karnali, with a chance of Gangetic dolphin in the lower river",
+    "Two very different jungles in one trip: Chitwan's sal and grass, Bardia's wide river islands"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "We meet you at Tribhuvan International Airport and drive to your hotel, about 30 minutes depending on traffic. If you land early, a guide can walk you through Thamel to Asan and Indra Chowk, the old trading heart of the city, or take you to Boudhanath for the evening kora around the stupa. In the evening your trip leader runs through the plan, the parks and what to pack for the jungle. Dinner is free, and Thamel has plenty of choice.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Fly to Bharatpur, drive to Meghauli",
+      "place": "meghauli",
+      "overnight": "Meghauli",
+      "alt_m": 160,
+      "move": "25 min flight + ≈ 45 km · 1 h 15 min drive",
+      "text": "A short morning flight to Bharatpur, then the drive west through farmland to Meghauli, on the Rapti at the western end of Chitwan National Park. After lunch and a briefing, take an evening canoe trip or drive along the river. The grassland across the water is some of the best rhino habitat in the park, and many guests see their first rhino from the lodge terrace. Dinner at the lodge, with the frogs and nightjars loud after dark.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Jeep safari and canoe in Chitwan",
+      "place": "meghauli",
+      "overnight": "Meghauli",
+      "alt_m": 160,
+      "move": "",
+      "text": "A morning jeep safari with your naturalist into the grasslands and riverine forest of the western sector. Rhino, chital, hog deer and wild boar are likely, with gaur and sloth bear possible. Rest through the middle of the day. In the late afternoon a dugout canoe on the Rapti brings you close to mugger crocodiles, and with luck the long-snouted gharial, critically endangered and helped back by the breeding centre at Kasara since 1978.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Full day in western Chitwan",
+      "place": "meghauli",
+      "overnight": "Meghauli",
+      "alt_m": 160,
+      "move": "≈ 7–8 h by jeep",
+      "text": "A full day deep in the park with a packed lunch, following the naturalist's knowledge of recent tiger and leopard movements. The western forests are quiet, with few other vehicles, and the lakes hold storks, adjutants and, in winter, migrant ducks. Even if no tiger appears, you will learn to read the forest: fresh pugmarks in the sand of a stream, scrape marks on a tree trunk, the sharp alarm bark of a chital that means a predator is moving.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Drive to Lumbini",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 100,
+      "move": "≈ 150 km · 4–5 h drive",
+      "text": "We leave after breakfast and follow the highway west through Nawalparasi to Butwal and on to Lumbini, arriving by early afternoon. After lunch and a rest, your guide takes you into the sacred garden to the Maya Devi Temple, built over the spot where tradition says the Buddha was born, and the stone pillar that Emperor Ashoka raised here around 249 BCE. Late afternoon is lovely in the monastic zone, among temples built by Buddhist communities from many countries.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Lumbini to Bardia",
+      "place": "bardia",
+      "overnight": "Bardia (Thakurdwara)",
+      "alt_m": 150,
+      "move": "≈ 330 km · 7–8 h drive",
+      "text": "A long but interesting drive west on the East-West Highway: through Butwal, the Dang valley and its Tharu villages, past Kohalpur and north to Thakurdwara on the edge of Bardia National Park. The last stretch runs through forest, and it is common to see deer and monkeys on the road. Tiger Tops Karnali Lodge is a quiet lodge of Tharu-style buildings in gardens on the edge of the jungle. Dinner by the fire.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Tracking tigers on foot and by jeep",
+      "place": "bardia",
+      "overnight": "Bardia (Thakurdwara)",
+      "alt_m": 150,
+      "move": "",
+      "text": "Bardia is about patience. Today you head into the park with your naturalists, by jeep and then on foot to a spot on the Karnali or Orai river where tigers come down to drink. Many sightings here happen while sitting quietly on a high bank or in a hide for hours. Bardia is also home to wild elephants, swamp deer and a small population of one-horned rhino reintroduced from Chitwan. Lunch is packed. Return at dusk.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Karnali river and a last safari",
+      "place": "bardia",
+      "overnight": "Bardia (Thakurdwara)",
+      "alt_m": 150,
+      "move": "",
+      "text": "A morning float or gentle raft on the Karnali, where the river spreads into channels and islands and, with luck, the Gangetic river dolphin surfaces in the deeper water downstream. Mugger crocodiles on the sandbanks, ospreys and river lapwings are all possible. In the afternoon a final jeep drive or walk, depending on where the naturalists have heard tiger calls. On the last evening, the lodge's Tharu neighbours sometimes perform songs and dances.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Fly Nepalgunj to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 95 km · 2–2.5 h drive + ≈ 1 h flight",
+      "text": "After breakfast we drive south to Nepalgunj, near the Indian border, for the flight to Kathmandu, about an hour in the air. We transfer you to your hotel or straight to the international airport if you have an evening departure. If you have more time, we can add a night in Patan or Bhaktapur to see the craft and temple life of the Kathmandu Valley before you leave. Pack binoculars in your hand luggage for the drive.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "meghauli-serai",
+    "barahi-jungle-lodge",
+    "buddha-maya-garden-hotel",
+    "tiger-tops-karnali-lodge"
+  ],
+  "includes": [
+    "Flights Kathmandu–Bharatpur and Nepalgunj–Kathmandu",
+    "Private vehicle with driver from Meghauli to Lumbini, Bardia and Nepalgunj",
+    "1 night Kathmandu (bed and breakfast), 3 nights Meghauli and 3 nights Bardia full board, 1 night Lumbini half board",
+    "Lodge naturalists and licensed park guides; all lodge safari activities",
+    "Chitwan and Bardia National Park entry fees",
+    "Guided visit of the Lumbini sacred garden"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Lunches in Kathmandu and Lumbini, drinks and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Tiger sightings cannot be promised in either park; Bardia gives better odds but you need patience and time.",
+    "The best tiger months are March to May, when grass is short and water scarce, but April and May are hot, often 35–40 °C.",
+    "Park entry fees are charged per day in both parks; check current status before you travel.",
+    "Bardia lodges sometimes close or scale down in the monsoon, June to September.",
+    "Domestic flight times change seasonally; morning fog can delay Bharatpur and Nepalgunj flights in winter."
+  ],
+  "faqs": [
+    {
+      "q": "Is Bardia or Chitwan better for seeing tigers?",
+      "a": "Bardia, by most naturalists' reckoning. It has a similar number of tigers to Chitwan, about 125 in the 2022 survey, but far fewer visitors and wide river channels where tigers come out to drink. Chitwan has more rhino and is easier to reach. Doing both gives you the best of each, which is why this trip exists."
+    },
+    {
+      "q": "How many tigers are there in Nepal?",
+      "a": "Nepal's 2022 national tiger survey estimated 355 wild tigers, almost three times the 121 counted in 2009. Chitwan held about 128, Bardia about 125, with the rest in Parsa, Shuklaphanta and Banke. That is well past the goal, agreed at the 2010 St Petersburg tiger summit, of doubling wild tigers by 2022."
+    },
+    {
+      "q": "How long is the drive from Chitwan to Bardia?",
+      "a": "About 450 km on the East-West Highway, which takes 10 to 12 hours in one go. We break it with a night in Lumbini, which is roughly halfway and well worth seeing. The alternative is flying Bharatpur to Kathmandu and Kathmandu to Nepalgunj, then driving 2 to 2.5 hours to Bardia."
+    },
+    {
+      "q": "What is the best time of year for this tiger journey?",
+      "a": "February to May. After the grass cutting and burning in early spring, visibility improves, and as water dries up tigers come to rivers more often. March and April are the sweet spot; May is very hot. October to January is pleasant and good for birds, but tall grass makes tigers harder to see."
+    },
+    {
+      "q": "Is walking in Bardia National Park safe?",
+      "a": "With licensed, experienced naturalists, walking is generally safe and is one of the joys of Bardia. Groups are small, guides know the animals' behaviour and you will be briefed on what to do if you meet a rhino, elephant or tiger. Follow every instruction and never wander off. Under-12s are usually not taken on foot."
+    },
+    {
+      "q": "What else can I see in Bardia besides tigers?",
+      "a": "Wild Asian elephants, a small population of one-horned rhino, swamp deer, chital, sambar, nilgai, langur, mugger and gharial crocodiles, and Gangetic river dolphins in the Karnali. Bardia has a long bird list too, including Bengal florican and sarus crane on the edges. The wild elephants are some of the most exciting sightings."
+    },
+    {
+      "q": "Where do we stay in Bardia?",
+      "a": "At Tiger Tops Karnali Lodge near Thakurdwara, the main village on the edge of the park. The lodge is built in a Tharu style with mud walls and thatch, set in gardens, and its naturalists have long experience in the park. Simpler lodges are also available in Thakurdwara if you prefer a lower budget."
+    },
+    {
+      "q": "Can I do this trip in reverse?",
+      "a": "Yes. Flying Kathmandu to Nepalgunj first and finishing in Chitwan works just as well, and lets you connect to Pokhara at the end. Flights and lodge availability decide the best direction. In peak months from March to April we book early, as Tiger Tops Karnali Lodge has limited rooms."
+    },
+    {
+      "q": "Is this trip good for photographers?",
+      "a": "Yes. Long lenses of 400 to 600 mm help in both parks, especially for tigers on far banks. Early mornings in December to February give soft mist; March to May give clearer skies and harsher light. Jeep safaris and riverbank waits suit camera work. We can arrange private jeeps for serious photographers."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "tharu-homestay-barauli-amaltari-3n",
+  "title": "Tharu Homestays in Barauli and Amaltari",
+  "region": "chitwan-terai",
+  "kind": "culture",
+  "nights": 3,
+  "themes": ["villages-and-homestays", "wildlife-and-jungle", "food-and-festivals", "lakes-and-rivers"],
+  "grade": "Easy",
+  "stops": [{"place": "barauli", "nights": 1}, {"place": "amaltari", "nights": 2}],
+  "start": "Bharatpur Airport (BHR)",
+  "end": "Bharatpur Airport (BHR)",
+  "price_from_usd": 550,
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Unhurried",
+  "max_altitude_m": 160,
+  "meta_description": "Tharu homestay trip, 3 nights in Barauli and Amaltari on Chitwan's western edge: village life, Tharu food, canoe trips and a jeep safari from Amaltari.",
+  "summary": "Three nights with Tharu families on the western edge of Chitwan National Park: one night in Barauli and two in Amaltari, both community-run homestays. Cook dhikri in a mud-walled kitchen, walk the fields at dusk, take a canoe on the river and a jeep safari into the park's quiet western sector.",
+  "intro": [
+    "The Tharu are the people of the inner Terai, and they lived in these forests long before the park, the highway or the hill settlers who came after malaria was controlled in the 1950s. In Barauli and Amaltari, villages on the park's western buffer zone, families have opened their homes to guests through community homestay programmes. The money stays in the village, and the rooms are in or beside family houses.",
+    "This is a simple, warm trip. Rooms are clean and basic, with shared or attached bathrooms depending on the house, and meals are whatever the family is cooking: rice, lentils, greens from the field, river fish or snails in season. Evenings end early and start with the sound of buffalo bells. For people who want to understand the Terai rather than just drive through it, three nights here can mean more than a week of sightseeing."
+  ],
+  "story": "The plane drops you in Bharatpur, but within an hour the road has narrowed to a lane between mustard and rice, and the houses have walls of mud over woven reed. In Barauli your host mother ties a garland on you and pours tea. You help pound rice in a wooden dhiki, eat on the floor of a kitchen lit by a wood fire and sleep under a mosquito net to the sound of frogs. In Amaltari the forest comes closer. Women walk back from the community forest with grass on their heads, children race bicycles along the embankment, and in the evening the young men practise the stick dance for Maghi. You leave with a full stomach, a few words of Tharu and a better sense of who keeps this jungle.",
+  "highlights": [
+    "Two community-run Tharu homestays, with money going straight to host families and village committees",
+    "Cooking dhikri, steamed rice-flour dumplings, with your host family",
+    "A jeep safari into the quiet western sector of Chitwan National Park from Amaltari",
+    "Canoeing and birding on the river and the wetlands near the villages",
+    "A Tharu stick dance and songs performed by the village youth group"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bharatpur, welcome in Barauli", "place": "barauli", "overnight": "Barauli homestay", "alt_m": 150, "move": "≈ 1–1.5 h drive from Bharatpur", "text": "We meet you at Bharatpur airport, off the morning flight from Kathmandu, and drive west into Tharu farm country. In Barauli the homestay committee welcomes you with a garland and tika, and you meet the family you will stay with. After lunch your local guide walks you through the village: houses of mud and reed, clay grain bins, fish traps and ducks in the ponds. In the evening help in the kitchen and learn how dhikri, steamed rice-flour dumplings, are shaped by hand. Dinner is with the family.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "River morning, on to Amaltari", "place": "amaltari", "overnight": "Amaltari homestay", "alt_m": 140, "move": "≈ 1–1.5 h drive", "text": "At dawn walk the riverbank with your guide for birds: kingfishers, herons, egrets and, in winter, ducks and waders. After breakfast say goodbye to your Barauli family and drive to Amaltari, a village on the western buffer zone of Chitwan National Park. The Amaltari homestay is one of the better-known community homestays in the Terai, with rooms built in the Tharu style. The afternoon is for the village and the edge of the community forest, and the evening for a cultural programme by the local youth group.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Jeep safari in the western park", "place": "amaltari", "overnight": "Amaltari homestay", "alt_m": 140, "move": "≈ 4–5 h in the park by jeep", "text": "This morning a licensed park guide takes you into Chitwan National Park by jeep from the Amaltari side. The western sector sees far fewer vehicles than Sauraha, and the grasslands and riverbanks here are good for rhino, gaur, deer and birds. Back for lunch with your family, then an unhurried afternoon: a canoe trip if the water level allows, a cooking session, or time in the fields with your hosts. Ask about ghonghi, river snails cooked in a spicy gravy, a Tharu favourite in season.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Farewell and drive to Bharatpur", "place": "", "overnight": "Bharatpur (end)", "alt_m": 200, "move": "≈ 1.5–2 h drive", "text": "A last breakfast with your hosts, a small gift exchange if you have brought something from home, and the drive back to Bharatpur airport for the late-morning or afternoon flight to Kathmandu. If you have time, we stop at Devghat on the way, where the Kali Gandaki and Trishuli rivers meet to form the Narayani and pilgrims bathe at the ghats. We can also continue by road to Pokhara or Lumbini instead of flying back.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private vehicle and driver from and to Bharatpur airport",
+    "1 night in Barauli community homestay and 2 nights in Amaltari community homestay, full board",
+    "English-speaking guide throughout and local village guides",
+    "Half-day jeep safari with licensed park guide and park entry fee",
+    "Cooking session and cultural programme",
+    "Community homestay fees"
+  ],
+  "excludes": [
+    "Flights Kathmandu–Bharatpur–Kathmandu (we can book them)",
+    "Drinks, tips and personal expenses",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Homestay rooms are simple: twin beds, mosquito nets, and shared or attached bathrooms depending on the house.",
+    "Dress modestly in the villages and take your shoes off before entering a kitchen.",
+    "Meals are mostly vegetarian with fish, duck or snails in season; tell us about food needs in advance.",
+    "Park entry fees and jeep safari permits are charged per day and change from time to time; check current status before you travel.",
+    "A small gift for the family, such as photos of your home or something from your country, is appreciated more than cash."
+  ],
+  "faqs": [
+    {"q": "What is a Tharu homestay like?", "a": "You sleep in a simple room in or beside a Tharu family home, eat meals with the family and take part in daily life: cooking, fieldwork, fishing, evening dances. Rooms have beds, nets and basic bathrooms. Community homestays are run by a village committee, so prices are fixed and the money is shared fairly among families."},
+    {"q": "Where are Barauli and Amaltari?", "a": "Both are Tharu villages on the western buffer zone of Chitwan National Park, west of Bharatpur toward the Narayani and Nawalparasi side. Amaltari lies on the park's western edge and has its own park entry point for jeep safaris. Each is about 1 to 2 hours by road from Bharatpur airport depending on the road."},
+    {"q": "Is the food at a Tharu homestay safe to eat?", "a": "Yes, for most travellers. Food is freshly cooked and served hot, and water is boiled or filtered. We brief families on guests' needs. Bring a refillable bottle and purification tablets as a backup. If you are vegetarian or have allergies, tell us when you book and we pass it on to the homestay committee."},
+    {"q": "What Tharu dishes should I try?", "a": "Dhikri, steamed dumplings of rice flour shaped by hand, is the signature dish, eaten with chutney or curry. Ghonghi, river snails cooked in a spiced gravy, is a seasonal favourite. You may also eat fish from the river, duck, freshwater crab and rice beer brewed at home. Families are proud of their cooking and happy to teach."},
+    {"q": "Can I see wildlife from a homestay?", "a": "Yes. Amaltari is on the edge of the park and the trip includes a jeep safari into the western sector with a licensed guide, which is good for rhino, deer, gaur and birds. Wild animals sometimes wander into the fields at night, so always walk with your hosts after dark."},
+    {"q": "Is a homestay suitable for families with children?", "a": "Very much so. Children usually love the farm animals, the cooking and playing with village children. Facilities are basic, so it suits families who are relaxed about simple bathrooms and early nights. Bring torches, insect repellent and a few games or books to share."},
+    {"q": "What should I bring to a Tharu homestay?", "a": "Light, modest clothes that cover shoulders and knees, a warm layer from December to February, sandals, a torch, insect repellent, a refillable water bottle, toiletries and a quick-dry towel. A small gift for your host family is welcome. Cash in Nepali rupees is useful for crafts and tips, as there are no ATMs in the villages."},
+    {"q": "When is the best time to stay with Tharu families?", "a": "October to March. Winter brings cool, clear days and Maghi, the Tharu new year festival, around mid-January, with dances and feasts. February and March are good for both village life and wildlife. From April it gets very hot, and June to September brings monsoon rain, mud and leeches."},
+    {"q": "How do homestays benefit the community?", "a": "In community homestays, a local committee sets prices, rotates guests among families and puts part of the income into a village fund for things like schools, paths and forest protection. It gives families a reason to value the nearby park, since tourists come for both the culture and the wildlife. Buying local crafts helps too."}
+  ]
+}

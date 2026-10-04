@@ -1,0 +1,69 @@
+{
+  "slug": "chitwan-luxury-safari-meghauli-4n",
+  "title": "Chitwan Luxury Safari at Meghauli",
+  "region": "chitwan-terai",
+  "kind": "wildlife",
+  "nights": 4,
+  "themes": ["wildlife-and-jungle", "honeymoons", "lakes-and-rivers", "photography"],
+  "grade": "Easy",
+  "stops": [{"place": "meghauli", "nights": 4}],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1850,
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Unhurried",
+  "max_altitude_m": 1400,
+  "meta_description": "Chitwan luxury safari, 4 nights at Meghauli on the Rapti: Meghauli Serai or Barahi Jungle Lodge, private jeep drives, canoe trips and quiet western jungle.",
+  "summary": "Four nights in Meghauli, on the quiet western side of Chitwan, at Meghauli Serai or Barahi Jungle Lodge. Private jeep safaris with a naturalist, canoe trips on the Rapti, a guided walk and long, slow afternoons by the river where rhino graze across the water. Fly in from Kathmandu to Bharatpur.",
+  "intro": [
+    "Meghauli is a Tharu farming village where the Rapti bends west toward its meeting with the Narayani. The park lies across the river, the grassland on the far bank is some of Chitwan's best for rhino, and there are far fewer jeeps here than in Sauraha. In the 1960s guests flew into a grass strip here for Tiger Tops, Nepal's first jungle lodge; the lodges inside the park closed in 2012, and today the best-run lodges sit on the village bank, looking straight into the park.",
+    "This trip is about time rather than ticking boxes. Four nights lets you take the activities at the animals' pace: two drives a day when the light is good, rest in the heat, and an extra morning on the water if a canoe trip delivers. We pair it with Meghauli Serai, a Taj Safari lodge, or Barahi Jungle Lodge next door; both run their own naturalist teams, and both let you watch the riverbank from your room."
+  ],
+  "story": "You fly out of the Kathmandu haze and 25 minutes later step down into warm air at Bharatpur. An hour west the road narrows between mustard fields and mud-walled Tharu houses, and then the river is there. Days in Meghauli fall into a rhythm set by the jungle. Tea at dawn, the jeep's engine cutting out by a wallow, a rhino breathing on the other side of the grass. Lunch in the shade while langurs crash through the simal trees. Late afternoon on the river in a dugout, the boatman pointing with his chin at a gharial. On the last evening the sandbank turns orange, a herd of chital steps out to drink and you realise you have stopped checking your phone.",
+  "highlights": [
+    "Rooms and terraces that look straight across the Rapti into Chitwan National Park",
+    "Private jeep safaris with the lodge's own naturalist in the quieter western sector",
+    "Dugout canoe trips on the Rapti and the chance to see gharial near the Narayani confluence",
+    "A walk through Meghauli's Tharu village with a local guide",
+    "Unhurried days: two outings a day and long afternoons by the river"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bharatpur, drive to Meghauli", "place": "meghauli", "overnight": "Meghauli", "alt_m": 160, "move": "25 min flight + ≈ 45 km · 1 h 15 min drive", "text": "We collect you from your Kathmandu hotel for a morning flight to Bharatpur, which on a clear day shows the Ganesh Himal and Annapurna to the north. Your lodge vehicle meets you on the apron for the drive west through Bharatpur and the farmland of the buffer zone to Meghauli. After lunch and a briefing from the naturalist, take your first look at the park from the riverbank or a short evening drive. Dinner is at the lodge, and the night is full of frogs and nightjars.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Morning jeep safari, evening canoe", "place": "meghauli", "overnight": "Meghauli", "alt_m": 160, "move": "", "text": "Early tea, then across the river into the park with your naturalist. The grasslands opposite Meghauli are some of the best in Chitwan for one-horned rhino, and the edges of the sal forest are where sloth bear and leopard are sometimes seen. Back for a late breakfast and a slow middle of the day by the pool or on the terrace. In the late afternoon you drift down the Rapti in a dugout canoe, watching for mugger crocodiles, gharial, ruddy shelduck in winter and the small pratincoles that nest on the sandbanks.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Full day in the western park", "place": "meghauli", "overnight": "Meghauli", "alt_m": 160, "move": "≈ 7–8 h by jeep", "text": "A full day in the park with a packed lunch, heading into the forests and lakes of the western sector, where few vehicles go. Your naturalist will plan the route around recent tiger and leopard signs, water holes and the time of year. Great hornbill, lesser adjutant and several species of woodpecker are found here. In the dry season, from February, animals concentrate along streams and sightings get better each week. You return in time for a drink on the riverbank as the light goes.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Walk, village and a slow afternoon", "place": "meghauli", "overnight": "Meghauli", "alt_m": 160, "move": "", "text": "This morning is on foot: a guided walk on the edge of the jungle with two naturalists, learning to read pugmarks, rhino middens and the alarm calls of chital and langur. Later, a local guide takes you through Meghauli village, where Tharu families still plaster walls with mud and cow dung and store rice in tall clay bins. The afternoon is yours: a spa treatment, a book, or a final jeep drive or canoe trip depending on what the jungle has been offering.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Last birding hour, fly to Kathmandu", "place": "", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 1 h 15 min drive + 25 min flight", "text": "A last walk or birding hour in the lodge garden at dawn, when the river mist lifts and the hornbills move. After breakfast we drive back to Bharatpur for the flight to Kathmandu, arriving around midday. We can connect you to an international departure the same evening, or extend the trip with a night in Patan, Bhaktapur or Pokhara. Morning fog at Bharatpur in December and January can delay flights, so we leave a buffer before international connections.", "meals": "Breakfast"}
+  ],
+  "stays": ["meghauli-serai", "barahi-jungle-lodge"],
+  "includes": [
+    "Return flights Kathmandu–Bharatpur and airport transfers",
+    "4 nights at Meghauli Serai or Barahi Jungle Lodge, twin sharing, full board",
+    "All lodge safari activities: jeep drives, canoe trips, guided walks and village visit",
+    "Lodge naturalists and licensed park guides",
+    "Chitwan National Park entry fees"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Spa treatments, drinks and tips",
+    "Kathmandu hotel nights before and after",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Some lodges change their activity menus and rates by season; what is included depends on the lodge and month, and we confirm it in writing.",
+    "Morning fog in December and January can delay Bharatpur flights by an hour or two; keep a buffer before international connections.",
+    "Chitwan National Park entry fees for foreigners are charged per day; check current status before you travel.",
+    "Walking safaris inside the park are led by licensed guides, usually two per group, and are paused when grass is too tall.",
+    "Meghauli is about 45 km from Bharatpur airport; road works on the Bharatpur–Meghauli stretch can add time."
+  ],
+  "faqs": [
+    {"q": "Which is better, Meghauli Serai or Barahi Jungle Lodge?", "a": "Both sit on the Rapti facing the park, a short way apart, and both run good naturalist teams. Meghauli Serai is a Taj Safari lodge with a more polished, design-led feel and a higher price. Barahi Jungle Lodge has stilted cottages and a slightly simpler, warmer style. We choose based on your budget, dates and room availability."},
+    {"q": "Why stay in Meghauli rather than Sauraha?", "a": "Meghauli is quieter. Far fewer jeeps enter the park from the west, the lodges look straight into rhino grassland, and the village has kept more of its farming rhythm. Sauraha is livelier, cheaper and has more choice of restaurants. For a slower, high-comfort safari, Meghauli is the better base; for a short, budget trip, Sauraha wins."},
+    {"q": "How do I get to Meghauli from Kathmandu?", "a": "Fly Kathmandu to Bharatpur in about 25 minutes, then drive about 45 km west, roughly an hour and a quarter. By road from Kathmandu the drive is about 6 to 7 hours. Meghauli had an airstrip in the past, but scheduled flights use Bharatpur; check current status before you travel."},
+    {"q": "Is four nights too long in one lodge?", "a": "Not in Chitwan. The jungle changes by the hour and by the day, and many of the best sightings come on a third or fourth drive, when your naturalist knows where the animals are moving. Four nights also lets you rest through the hottest hours instead of cramming everything into two days. Guests rarely tell us they stayed too long."},
+    {"q": "Is a luxury Chitwan safari good for a honeymoon?", "a": "Yes. The Meghauli lodges are quiet, private and romantic in a low-key way: river views, candlelit dinners, spa treatments and no crowds. Pair it with Pokhara or a Kathmandu heritage hotel for a balanced honeymoon. From February to April the weather is warm and dry and the evenings are long."},
+    {"q": "What wildlife can I see from Meghauli?", "a": "One-horned rhino, chital, sambar, hog deer, barking deer, wild boar, rhesus macaque and grey langur are seen on most stays. Mugger crocodile and gharial are on the rivers. Sloth bear, gaur, leopard and tiger are possible but never guaranteed. Bird lists for a four-night stay often pass 100 species in winter."},
+    {"q": "When is the best time for a luxury safari in Chitwan?", "a": "October to April. February to April gives the best sightings because the grass is short and animals stay close to water. December and January are cool and misty, lovely for birds and photography, with 8 to 10 °C at dawn. May is very hot. From June to September monsoon rain closes tracks and some lodges reduce activities."},
+    {"q": "Do the Meghauli lodges offer elephant rides?", "a": "Elephant welfare policies vary by lodge and change over time, so ask before you book. We do not include elephant-back rides on our trips. Jeep, canoe and walking safaris are better for sightings, and several lodges offer to let you watch elephants bathe or feed with their mahouts instead."},
+    {"q": "Can I add Bardia or Pokhara to this trip?", "a": "Yes. Pokhara is about 5 hours by road from Meghauli, or a flight via Kathmandu. Bardia, for a better tiger chance, is a long drive west, best broken with a night in Lumbini. Our Chitwan and Bardia tiger journey, 8 nights, combines Meghauli with Tiger Tops Karnali Lodge."}
+  ]
+}

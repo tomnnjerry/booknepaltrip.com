@@ -1,0 +1,198 @@
+{
+  "slug": "lumbini-chitwan-family-heritage-6n",
+  "title": "Family Heritage: Lumbini and Chitwan",
+  "region": "lumbini",
+  "kind": "family",
+  "nights": 6,
+  "themes": [
+    "family-trips",
+    "wildlife-and-jungle",
+    "spiritual-and-pilgrimage",
+    "villages-and-homestays"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "lumbini",
+      "nights": 2
+    },
+    {
+      "place": "sauraha",
+      "nights": 3
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1050,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Lumbini and Chitwan family trip, 6 nights: cycle the Buddha's birthplace, look for sarus cranes, then rhinos, canoes and Tharu villages in Chitwan.",
+  "summary": "A six-night family trip across the plains of Nepal. Two nights in Lumbini to cycle between monasteries from a dozen countries and hear the story of the Buddha's birth where it happened, then three nights at Sauraha for jeep safaris, canoes, rhinos and Tharu village life, and a last night in Kathmandu. Short drives, two flights, no hills.",
+  "intro": [
+    "Lumbini and Chitwan are a natural pair for families. Both are on the warm, flat plains of the Terai, about 4–5 hours apart by road, and both give children things they can touch and remember: in Lumbini, bicycles, temple bells, monks in saffron and maroon, and the tallest flying bird in the world, the sarus crane, in the fields; in Chitwan, one-horned rhinos grazing beside the river, crocodiles on sandbanks and the stick dance of the Tharu.",
+    "We keep the days short and the pace easy. Mornings are for the main activity, afternoons for rest and swimming pools. The guide stays with you throughout and knows how to tell the Buddha's story to a seven-year-old. We do not include elephant-back rides; in Chitwan you go by jeep, on foot with naturalists and by dugout canoe. The trip ends with one night in Kathmandu so you can connect easily to your international flight."
+  ],
+  "story": "The plane lands in heat and flat green fields, and the first thing children notice in Lumbini is the space: wide paths, a long canal, bicycles everywhere. They walk through the big Korean temple, count the gold spires of the Myanmar pagodas, and stand in front of a 2,200-year-old stone pillar that an emperor put up. Then the road runs east along the edge of the hills to Chitwan, and the story becomes animals. A rhino steps out of the elephant grass. A gharial lies motionless on a sandbank. In the evening Tharu dancers strike sticks in rhythm and a grandmother shows how mud walls are painted. By the last night in Kathmandu, the children have their own Nepal to tell.",
+  "highlights": [
+    "Cycling between monasteries built by a dozen countries in Lumbini's monastic zone",
+    "Looking for sarus cranes, the tallest flying birds, around Lumbini",
+    "A jeep safari in Chitwan National Park for one-horned rhinos and, with luck, a tiger",
+    "A dugout canoe on the Rapti river past crocodiles and kingfishers",
+    "A Tharu village visit and an evening of stick dancing at Sauraha"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Bhairahawa, the birthplace",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 35 min flight · then ≈ 22 km · 40 min drive",
+      "text": "Fly from Kathmandu to Gautam Buddha International Airport at Bhairahawa and drive to Buddha Maya Garden Hotel in Lumbini. Rest through the hottest hours. In the late afternoon walk into the Sacred Garden with your guide, who tells the birth story in the place it happened: Queen Maya Devi travelling to her parents' home, stopping in a garden, holding a branch. See the Maya Devi Temple, the Ashoka pillar and the pond, and light a butter lamp together.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Bicycles, monasteries and cranes",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 10 km by bicycle or e-rickshaw",
+      "text": "Cycle the monastic zones in the cool of the morning, with e-rickshaws for younger children. Walk through the large Korean temple, look at the white Thai monastery and the gold Myanmar pagodas, and spin prayer wheels at a Tibetan stupa. Your guide shows children how to bow and where to leave shoes. After lunch and a rest, look for sarus cranes in the wetlands near the crane sanctuary at the north end, then watch sunset at the World Peace Pagoda.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Drive to Chitwan, Tharu village walk",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 160 km · 4–5 h drive",
+      "text": "Drive east along the plains via Butwal and Narayangarh, stopping for snacks and a stretch. Arrive in Sauraha by lunchtime and check in at Green Park Chitwan. In the afternoon walk with your naturalist through a Tharu village near Sauraha, where houses have mud walls, painted decorations and clay grain stores. The Tharu have lived in these malarial forests for centuries, and their knowledge of the jungle is the reason many naturalists here are Tharu. Evening Tharu stick dance.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Jeep safari in Chitwan National Park",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 4 h by jeep in the park",
+      "text": "Cross the Rapti river and spend the morning or afternoon on a jeep safari in Chitwan National Park, a UNESCO World Heritage Site since 1984. One-horned rhinos are seen on most drives, along with spotted deer, wild boar, monkeys and many birds; sloth bears and tigers are rare but possible. Your naturalist explains how rhino numbers recovered after near-extinction. The rest of the day is free for the pool and an early night.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Canoe, gharials and a river evening",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 1 h canoe · ≈ 1–2 h walk",
+      "text": "Glide down the Rapti in a dugout canoe in the early morning mist, watching for mugger crocodiles, gharials with their thin snouts, and kingfishers. Walk back through community forest with your naturalist, who teaches children to read tracks and droppings. In the afternoon, visit the gharial breeding programme at Kasara or the government elephant breeding centre near Sauraha. End with sunset on the river bank, where Sauraha's families gather every evening.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Fly to Kathmandu, Swayambhunath",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 15 km · 30 min drive · then ≈ 25 min flight",
+      "text": "Drive to Bharatpur airport for the short flight to Kathmandu and check in at Kathmandu Guest House in Thamel, with its quiet garden. In the afternoon visit Swayambhunath, the hilltop stupa children know as the monkey temple, where they can spot the painted eyes and compare it with what they saw in Lumbini. Farewell dinner of momos, which almost every child in our experience loves. Kathmandu is cooler than the plains, so have a light jacket ready for the evening.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Depart Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 20–30 min drive",
+      "text": "Free until your transfer to Tribhuvan International Airport. If your flight is late, the Garden of Dreams near Thamel is a quiet place to spend a last morning, or children can try their bargaining skills for a singing bowl in the Thamel shops. We stay in touch until you are checked in. Allow about three hours before an international departure; the airport is only 6 km from Thamel, but rush-hour traffic in Kathmandu is slow and hard to predict.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "buddha-maya-garden-hotel",
+    "green-park-chitwan",
+    "kathmandu-guest-house"
+  ],
+  "includes": [
+    "Economy flights Kathmandu–Bhairahawa and Bharatpur–Kathmandu",
+    "6 nights in family or twin rooms: 2 at Buddha Maya Garden Hotel, 3 at Green Park Chitwan, 1 at Kathmandu Guest House",
+    "Breakfast daily; all meals in Chitwan",
+    "Private car with driver for transfers and Lumbini sightseeing",
+    "Licensed English-speaking guide throughout, and a naturalist in Chitwan",
+    "Chitwan National Park entry, jeep safari, canoe trip, village walk and Tharu dance",
+    "Bicycles or e-rickshaws in Lumbini, and Sacred Garden entry"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Lunches and dinners in Lumbini and Kathmandu",
+    "Elephant-back rides, which we do not offer",
+    "Tips, donations and travel insurance"
+  ],
+  "good_to_know": [
+    "Children under 12 sharing a room with parents usually pay less; ask us for a family quote.",
+    "Use insect repellent at dusk in Lumbini and Chitwan, and bring long, light clothes in neutral colours for safaris.",
+    "Chitwan wildlife sightings are never guaranteed; rhinos are likely, tigers rare.",
+    "We plan the main activities for mornings and keep afternoons free for rest, especially from March onwards.",
+    "Park fees and rules change; check current status before you travel."
+  ],
+  "faqs": [
+    {
+      "q": "Is Lumbini interesting for children?",
+      "a": "Yes, if you give it the right shape. Children enjoy cycling the wide paths between monasteries, spinning prayer wheels and looking for sarus cranes, and the birth story is simple and gentle. We keep visits short, plan them for mornings and evenings, and leave afternoons free for rest at the hotel."
+    },
+    {
+      "q": "How far is Chitwan from Lumbini?",
+      "a": "Sauraha, the gateway to Chitwan National Park, is about 160 km east of Lumbini, around 4–5 hours by road via Butwal and Narayangarh. The road is flat and mostly good, and we stop every hour or so with children. There are no direct flights between the two, so road is the best option."
+    },
+    {
+      "q": "Will we see a rhino in Chitwan?",
+      "a": "Very likely. One-horned rhinos are seen on most jeep safaris and canoe trips, and sometimes from the river bank at Sauraha. Chitwan's rhino population has recovered strongly since the 1970s thanks to protection. Tigers live in the park too, but sightings are rare and never promised. Birds, deer and crocodiles are almost certain."
+    },
+    {
+      "q": "Why don't you offer elephant rides?",
+      "a": "Because we do not think they are good for the elephants. Riding requires training methods and working hours that cause welfare problems, and many visitors now prefer to see elephants without riding them. In Chitwan you explore by jeep, by canoe and on foot with naturalists, and you can visit the elephant breeding centre to see mothers and calves."
+    },
+    {
+      "q": "What age is this trip suitable for?",
+      "a": "We find it works best for children from about five upwards, though families with toddlers have done it with a slower pace. There is no trekking or altitude, flights are short and drives are broken up. Your naturalist chooses walks that suit your children's ages and keeps them short."
+    },
+    {
+      "q": "Is Chitwan safe for families?",
+      "a": "Yes, with sensible rules. Stay with your naturalist in the park, follow instructions on walks and canoes, and keep to lodge grounds after dark. Wild animals, including rhinos, sometimes wander into Sauraha at night. Malaria is rare now in Chitwan, but use repellent, cover up at dusk and ask your doctor before travel."
+    },
+    {
+      "q": "When is the best time for a family trip to Lumbini and Chitwan?",
+      "a": "October to March. Days are warm and dry, from about 20 to 28 °C, and wildlife viewing is good, especially from February when the grass is cut and burned. Early morning fog in December and January can be cold and can delay flights. April to June is very hot, and the monsoon closes some park areas."
+    },
+    {
+      "q": "Do you have family rooms?",
+      "a": "We book family rooms or connecting rooms wherever the hotel has them, and twin rooms with extra beds where not. Buddha Maya Garden Hotel and Green Park Chitwan both have gardens, which matter in the heat. Tell us your children's ages and we will confirm the best room setup in each place."
+    },
+    {
+      "q": "What should children pack?",
+      "a": "Light long-sleeved shirts and trousers in green, brown or khaki for safaris, a sun hat, sunglasses, swimwear, sandals plus closed shoes for jungle walks, a light fleece for foggy winter mornings, binoculars if you have them, and a refillable water bottle. Insect repellent and sunscreen are easier to bring from home."
+    }
+  ]
+}

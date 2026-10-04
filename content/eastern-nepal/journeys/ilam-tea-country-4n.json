@@ -1,0 +1,73 @@
+{
+  "slug": "ilam-tea-country-4n",
+  "title": "Ilam Tea Country",
+  "region": "eastern-nepal",
+  "kind": "tour",
+  "nights": 4,
+  "themes": ["food-and-festivals", "slow-and-wellness", "villages-and-homestays", "photography"],
+  "grade": "Easy",
+  "stops": [
+    {"place": "kanyam", "nights": 1},
+    {"place": "ilam", "nights": 3}
+  ],
+  "start": "Kathmandu (morning flight to Bhadrapur)",
+  "end": "Kathmandu",
+  "price_from_usd": 850,
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Unhurried",
+  "max_altitude_m": 2100,
+  "meta_description": "Ilam tea country, 4 nights: Kanyam's tea slopes, the Ilam estate and a small factory, Mai Pokhari lake and village kitchens in Nepal's oldest tea hills.",
+  "summary": "Four slow nights in the tea hills of Ilam, Nepal's oldest tea district. A night at Kanyam among clipped green slopes, then three nights in Ilam bazaar with walks through the estate, a visit to a small orthodox tea factory, a tasting, a day at the sacred lake of Mai Pokhari and a village kitchen afternoon.",
+  "intro": [
+    "Ilam is where Nepal's tea story starts. The first estate here was planted in 1863, and the slopes around the bazaar are still covered in bushes clipped to waist height, cut by narrow paths that pickers have walked for generations. This is orthodox tea country: leaf withered, rolled and dried in small factories, the same craft as Darjeeling across the ridge but with its own character and a fraction of the visitors.",
+    "We built this trip for travellers who want a few quiet days between Kathmandu and the mountains, or a gentle add-on after a trek in the east. The pace is slow. There is time to walk the rows with a picker, sit in a factory while the rollers turn, drink your way from first flush to autumn tea, and eat round chillies, chhurpi and kinema in a family kitchen. Nights are in simple, clean hotels and homestays that we know well."
+  ],
+  "story": "You land in the flat rice country of Jhapa, hot and green, and within an hour the road begins to climb. The first tea appears below Kanyam: bright green slopes cut into steps, women in wide hats picking two leaves and a bud, and the smell of withering leaf drifting from a factory. At Kanyam the evening mist rolls up from the plains and the slopes go silver. Next day the Mechi Highway takes you along the ridge to Ilam bazaar, a hill town of wooden balconies, tea shops and a busy market. Over three days you learn the year of a tea bush, from the first flush in March to the autumn leaf in November, and you walk up to Mai Pokhari, where pilgrims light lamps on the water.",
+  "highlights": [
+    "The rolling tea slopes of Kanyam at sunset and early morning",
+    "A walk through the Ilam tea estate with a picker, and a small factory visit",
+    "A guided tasting from first flush to autumn tea",
+    "Mai Pokhari, a sacred lake and Ramsar wetland at about 2,100 m",
+    "A village kitchen afternoon with round chillies, chhurpi and kinema"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bhadrapur, drive to Kanyam", "place": "kanyam", "overnight": "Kanyam", "alt_m": 1570, "move": "≈ 50 min flight · ≈ 2–2.5 h drive", "text": "A morning flight from Kathmandu runs east along the Himalaya to Bhadrapur in Jhapa. On a clear day sit on the left side for the peaks. Our car drives across the plains via Birtamod and Charali, past rice fields and flat CTC tea gardens, then climbs the Mechi Highway into the hills. Kanyam is a broad slope of clipped tea at about 1,570 m, popular with Nepali families on weekends. We arrive for the late afternoon light, walk the paths between the rows and watch the mist rise from the plains.", "meals": "Breakfast, Dinner"},
+    {"day": 2, "title": "Kanyam to Ilam bazaar", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 35 km · 1–1.5 h drive", "text": "Wake early for sunrise on the tea slopes, when pickers start work and the light is soft. After breakfast we drive along the ridge past Fikkal, the market town for this part of Ilam, and on to Ilam bazaar. Check in and walk into the old Ilam tea estate below town, where paths wind between the rows and shade trees. In the afternoon we visit a small orthodox factory to see the leaf withered on racks, rolled, oxidised and dried. Dinner is in a local restaurant in the bazaar.", "meals": "Breakfast, Dinner"},
+    {"day": 3, "title": "Day trip to Mai Pokhari", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 1.5–2 h drive each way · short walks", "text": "We drive north from Ilam through villages of cardamom, broom grass and small tea gardens to Mai Pokhari, a sacred lake at about 2,100 m surrounded by forest. It is a Ramsar wetland, listed in 2008, and a place of pilgrimage that fills with families at festival times. Walk the path around the lake, look for birds in the forest edge, and visit the small temple where pilgrims leave red cloth and coins. Back in Ilam by late afternoon for a quiet evening and early sleep.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Tea tasting and a village kitchen", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "short drives and walks", "text": "Morning walk with a tea picker through the rows, learning how to pluck two leaves and a bud and why the best leaf is picked early. Then a tasting with a local tea maker: first flush from late March, the deeper second flush of May and June, and the round autumn tea of October and November. In the afternoon we cook with a family in a village near the bazaar. Expect gundruk, kinema, a fiery achar of Akabare chillies and soft chhurpi, eaten with rice and dal on the veranda.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Drive to Bhadrapur, fly to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 3–4 h drive · ≈ 50 min flight", "text": "A last cup of tea on the hotel terrace, then we drive down the Mechi Highway through the tea and forest to the Jhapa plains. If time allows we stop in Charali or Birtamod to buy loose-leaf tea packed by the small factories you visited, a better gift than the boxed tea at the airport. The afternoon flight from Bhadrapur brings you back to Kathmandu, where our driver meets you and takes you to your hotel or onward plans.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Bhadrapur–Kathmandu flights",
+    "Private car and driver for all transfers and day trips",
+    "Licensed English-speaking guide for the whole trip",
+    "Four nights in simple hotels or homestays, twin sharing",
+    "Meals as listed, tea factory visit, tasting and village cooking session",
+    "Kathmandu airport transfers"
+  ],
+  "excludes": [
+    "International flights, Nepal visa fees and travel insurance",
+    "Hotel nights in Kathmandu",
+    "Meals not listed, drinks and tea you buy",
+    "Tips for guide and driver"
+  ],
+  "good_to_know": [
+    "Ilam has simple hotels and homestays, not luxury properties; rooms are clean and warm, with hot water by geyser or bucket.",
+    "Tea is picked from late March to November; in December to February the bushes rest and factories are quiet.",
+    "Kanyam is busy with Nepali families on Saturdays and public holidays; we time weekend visits for early morning.",
+    "Ilam bazaar banned plastic bags from its market in 2010; carry a cloth bag for shopping.",
+    "Flights to Bhadrapur can be delayed by fog in December and January."
+  ],
+  "faqs": [
+    {"q": "Is Ilam worth visiting?", "a": "Yes, if you enjoy slow travel, tea and hill towns. Ilam is Nepal's oldest tea district, with estates and small factories you can visit, views of the eastern Himalaya on clear days and very few foreign visitors. It does not have big monuments or luxury hotels. Come for the walks, the tea, the food and the friendly bazaar."},
+    {"q": "How do I get to Ilam from Kathmandu?", "a": "The easiest way is a 50-minute flight from Kathmandu to Bhadrapur, then about 3–4 hours by car up the Mechi Highway. Overnight buses also run from Kathmandu to Ilam, about 600 km and 14–16 hours. We use the flight and a private car, which turns a long journey into an easy morning."},
+    {"q": "When is the best time to visit Ilam tea gardens?", "a": "March to May and October to November are best. Spring brings the first flush and clear mornings, and autumn brings the best mountain views and the autumn flush. The monsoon from June to August is lush but wet, with leeches and landslides. Winter is clear and cold, but the bushes are dormant and factories are quiet."},
+    {"q": "What is the difference between Ilam tea and Darjeeling tea?", "a": "They grow on the same range of hills and use the same orthodox method, and some Nepal estates sit only a few kilometres from Darjeeling's. Darjeeling has a protected geographical name and a long export history. Ilam tea is often lighter and more floral in the first flush and is less expensive. Taste them side by side and decide for yourself."},
+    {"q": "Can I see tea being made in Ilam?", "a": "Yes. We visit a small orthodox factory where you can see the leaf withered on long racks, rolled in machines, oxidised and dried. The best time is from late March to November, when picking is in full swing. Some smaller producers also make hand-rolled tea and will show you how. Factories are working places, so we visit at times that suit them."},
+    {"q": "Where do we stay in Ilam?", "a": "Ilam has no chain hotels. We use simple, clean hotels and family homestays in Ilam bazaar and at Kanyam that we have checked recently. Rooms have private or shared bathrooms with hot water by geyser or bucket, and the food is home-style dal bhat and local dishes. If you want more comfort, we can choose the best available room in town."},
+    {"q": "What food should I try in Ilam?", "a": "Try chhurpi, a cheese eaten soft in curries and hard as a chew; kinema, a fermented soybean dish of the Limbu and Rai; gundruk, fermented greens; and achar made with Akabare chillies, the small round chillies Ilam is famous for. Wash it down with local tea, or with tongba, the warm millet drink of the east."},
+    {"q": "Can I see the mountains from Ilam?", "a": "On clear mornings, especially from October to January, you can see the Kanchenjunga range to the north from the ridges around Ilam. For a much bigger view, add a night at Sandakpur on the Singalila ridge, where Everest, Lhotse, Makalu and Kanchenjunga are all visible. Our Ilam, Sandakpur and Kanyam journey does exactly that."},
+    {"q": "How much does the Ilam tea trip cost?", "a": "Our four-night trip is from USD 850 per person, twin sharing. That includes return flights to Bhadrapur, a private car and driver, a licensed guide, four nights in simple hotels or homestays, the factory visit, tasting and cooking session, and the meals listed. A large share of the cost is the domestic flight, which is priced for foreign visitors."}
+  ]
+}

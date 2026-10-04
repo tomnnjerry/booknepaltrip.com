@@ -1,0 +1,7 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Getting around Nepal: routes, drive times and flights · Book Nepal Trip{% endblock %}
+{% block description %}How to get between the main places in Nepal: road distances, drive times, flights and buses, with stops worth making on the way.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Routes</p><h1 class="h-xl">Getting from here to there</h1><p class="lede">Nepal's roads are slow: 200 km can take seven hours. These pages give honest times by car, bus and plane, and the stops worth making on the way.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px">{% for r in regions %}{% if r.routes %}<div data-land="{{ r.slug }}" style="margin-bottom:36px"><h2 class="h-m">{{ r.name }}</h2><div class="rows">{% for rt in r.routes %}<a class="row" href="{{ rt.url }}"><span class="row__alt">{{ rt.distance_km }} km</span><span><b>{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</b><small>{{ rt.summary|truncatewords:18 }}</small></span>{% icon "arrow" %}</a>{% endfor %}</div></div>{% endif %}{% endfor %}</section>
+{% endblock %}

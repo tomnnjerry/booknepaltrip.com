@@ -1,0 +1,16 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal trips, treks and tours with prices · Book Nepal Trip{% endblock %}
+{% block description %}Every Nepal trip we plan, from three-night safaris to three-week treks, with the sleeping height of every night and indicative prices in USD.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Trips</p><h1 class="h-xl">Every trip, drawn by height</h1><p class="lede">Each card shows the sleeping height of every night as a line. Filter by region, length or how high you want to sleep. Every trip changes to fit you.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px">
+  <div class="filters" data-filter-group="#trip-grid">
+    <label class="small">Region <select data-key="region"><option value="">All</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+    <label class="small">Length <select data-key="length"><option value="">Any</option><option value="short">A week or less</option><option value="mid">8 to 13 nights</option><option value="long">Two weeks or more</option></select></label>
+    <label class="small">Highest night <select data-key="height"><option value="">Any</option><option value="low">Below 2,500 m</option><option value="mid">2,500 to 4,000 m</option><option value="high">Above 4,000 m</option></select></label>
+    <label class="small">Style <select data-key="themes"><option value="">Any</option>{% for t in themes %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select></label>
+    <span class="small muted" style="margin-left:auto"><span data-filter-count>{{ journeys|length }}</span> shown</span>
+  </div>
+  <div class="grid grid--3" id="trip-grid">{% for j in journeys %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div>
+</section>
+{% endblock %}

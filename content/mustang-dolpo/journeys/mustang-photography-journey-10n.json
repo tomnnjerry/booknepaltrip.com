@@ -1,0 +1,254 @@
+{
+  "slug": "mustang-photography-journey-10n",
+  "title": "Mustang photography journey by jeep",
+  "region": "mustang-dolpo",
+  "kind": "overland",
+  "nights": 10,
+  "themes": [
+    "photography",
+    "heritage-and-temples",
+    "high-altitude",
+    "villages-and-homestays"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 1
+    },
+    {
+      "place": "kagbeni",
+      "nights": 1
+    },
+    {
+      "place": "muktinath",
+      "nights": 1
+    },
+    {
+      "place": "tsarang",
+      "nights": 1
+    },
+    {
+      "place": "lo-manthang",
+      "nights": 3
+    },
+    {
+      "place": "ghami",
+      "nights": 1
+    },
+    {
+      "place": "marpha",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Pokhara",
+  "price_from_usd": 3300,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    2,
+    2,
+    2,
+    0
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 3950,
+  "meta_description": "Mustang photography journey, 10 nights by private jeep: dawn at Muktinath, three nights in Lo Manthang, Chhoser caves, Dhakmar's red cliffs and Marpha.",
+  "summary": "Ten nights by private jeep, planned around light rather than distance: golden hour in Kagbeni, dawn at Muktinath, three nights in Lo Manthang, the red cliffs of Dhakmar at sunset and two slow days in Marpha. A guide who knows where the sun falls, and drivers who will stop when you ask.",
+  "intro": [
+    "Mustang is one of the best places in Nepal to photograph, and one of the hardest. The light is hard and white by mid-morning, the wind fills the air with dust after midday, and the best moments come in the first and last hour of the day. Most itineraries ignore this and drive through the good light. Ours is built around it: short drives in the middle of the day, and mornings and evenings spent where the pictures are.",
+    "We travel by private jeep so you can carry heavy gear and stop anywhere, and we sleep close to the subjects: beside the temple at Muktinath, inside the walls of Lo Manthang, below the cliffs at Ghami and in the lanes of Marpha. Upper Mustang requires the restricted-area permit and a licensed guide, and the permit covers this whole trip. Each evening your guide plans the next day's light with you, so you know where to be and when."
+  ],
+  "story": "The first frames come in Kagbeni: mud walls, prayer flags and Nilgiri glowing above the confluence in the last light. At Muktinath you photograph pilgrims at the spouts as steam rises in the cold. Then north into the restricted area, where the land turns into eroded pillars and cliffs riddled with caves. In Lo Manthang you have three dawns: horses led out through the gate, monks crossing the square, smoke rising from flat roofs. At Chhoser the caves are dark and the cliffs bright, a lesson in exposure. Dhakmar's red walls burn at sunset, and Marpha gives you whitewashed lanes, apple orchards and Dhaulagiri in the morning. You go home with dust in your camera and a card full of light.",
+  "highlights": [
+    "Three dawns and dusks in Lo Manthang, inside the walls",
+    "Pilgrims under the 108 spouts at Muktinath in early morning light",
+    "The cliff caves of Chhoser and the eroded pillars around Chhusang",
+    "Red cliffs of Dhakmar at sunset and the long mani wall at Ghami",
+    "Marpha's white lanes with Dhaulagiri and Nilgiri at first light"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 25 min flight",
+      "text": "Fly to Pokhara and meet your guide. We go through your gear: Mustang's dust is hard on sensors, so bring a blower, cleaning kit and spare batteries, as charging is limited in the north. In the evening, photograph boats on Phewa Lake as the light fades behind Machhapuchhre, a useful warm-up. Early night for the dawn flight. Your guide explains the plan for the light at each stop and agrees with you on how early you like to start.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Jomsom, golden hour in Kagbeni",
+      "place": "kagbeni",
+      "overnight": "Kagbeni",
+      "alt_m": 2810,
+      "move": "≈ 20 min flight · ≈ 40 min drive",
+      "text": "Window seats on both sides pay off: Dhaulagiri on the left, the Annapurnas on the right. From Jomsom we drive to Kagbeni, rest through the harsh midday light and explore the lanes in the afternoon. Before sunset climb above the village for the classic view: mud-walled houses, green fields and the Kali Gandaki braiding north toward Upper Mustang, with Nilgiri glowing behind. The lodge roof is a good spot for night photography, as Kagbeni's lights are few and the stars are bright on clear nights.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kagbeni to Muktinath via Jharkot",
+      "place": "muktinath",
+      "overnight": "Ranipauwa, Muktinath",
+      "alt_m": 3700,
+      "move": "≈ 1.5 h drive with stops",
+      "text": "A morning shoot in Kagbeni's alleys as light reaches into the tunnels, then we drive up the Jhong valley. Stop at Jharkot, an old fortress village with a monastery and ruined walls on a ridge. Settle in Ranipauwa below the Muktinath temple. In the late afternoon, photograph the temple compound and the prayer flags against the peaks to the south. An early night at altitude, as tomorrow begins before sunrise at the temple.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Dawn at Muktinath, drive to Tsarang",
+      "place": "tsarang",
+      "overnight": "Tsarang",
+      "alt_m": 3560,
+      "move": "≈ 6 h drive with stops",
+      "text": "At first light, pilgrims bathe under the 108 spouts and steam rises in the cold air. Ask before you photograph anyone bathing, and keep a respectful distance. After breakfast we drive down to Kagbeni, show permits, and continue north past the cave-riddled cliffs of Chhusang and the eroded pillars near Chele. We reach Tsarang by late afternoon for the monastery in warm light. Your guide will steer you to the best viewpoints along the way and tell the driver where to pause.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Tsarang to Lo Manthang",
+      "place": "lo-manthang",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "≈ 1 h drive",
+      "text": "Dawn at Tsarang, with the fortress-palace and monastery catching the first sun above the gorge. A short drive brings us over Lo La at about 3,950 m, where we stop for the first view of Lo Manthang. Rest through midday, then walk the walls and lanes in the afternoon. Sunset from a rooftop, when the town turns gold and then blue. Lo Manthang's lanes are narrow and dark, so a fast lens is useful for life inside the walls.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Lo Manthang at dawn and dusk",
+      "place": "lo-manthang",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "On foot",
+      "text": "Before sunrise, wait by the gate as horses and dzo are led out to the fields and women carry water. Midday is for the monasteries: interior photography rules vary, and some do not allow it, so your guide will ask each time. In the evening, walk to the hill west of town to frame the walled city against the hills. A day of patience: let people get used to you, and the best portraits often come in the afternoon.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Chhoser caves and the northern valleys",
+      "place": "chhoser",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "≈ 5 h round trip by jeep",
+      "text": "We drive north to Chhoser, where the Jhong cave cuts into the cliff in several levels of rooms. The contrast between dark interiors and the bright cliff face makes for a technical shoot; a small torch and a fast lens help. We also stop at Nyiphu's cliff gompa. Back to Lo Manthang for a last evening on the rooftops. Bring a polarising filter for the deep blue skies above the cliffs.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Ghar Gompa and Dhakmar to Ghami",
+      "place": "ghami",
+      "overnight": "Ghami",
+      "alt_m": 3520,
+      "move": "≈ 4 h drive with walks",
+      "text": "We take the eastern track to Ghar Gompa, a small and old monastery with painted stone tablets, then drop to Dhakmar for its red cliffs and caves. After lunch we continue to Ghami. In the late afternoon light, walk the long mani wall south of the village, one of the longest in Nepal, with the red cliffs of Dhakmar behind. Ghami's family lodges are warm in the evening, and the stars over the village are worth a tripod and a long exposure.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Ghami to Marpha",
+      "place": "marpha",
+      "overnight": "Marpha",
+      "alt_m": 2670,
+      "move": "≈ 6 h drive with stops",
+      "text": "A long drive south, with stops at Syangboche and the cliffs above the Kali Gandaki, which look completely different in morning light. We pass Kagbeni and Jomsom and arrive in Marpha by mid-afternoon. Walk the flagstoned lane at sunset, when the whitewashed houses glow and wood smoke rises from kitchens. Between Ghami and Kagbeni, ask the driver to stop at the pillars and caves above Chhusang if the light is good. Arrive in time for a slow walk before dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Marpha and the orchards",
+      "place": "marpha",
+      "overnight": "Marpha",
+      "alt_m": 2670,
+      "move": "On foot",
+      "text": "A slow day. Climb to the monastery above Marpha at dawn for Dhaulagiri and Nilgiri catching first light above the rooftops. In autumn, orchards are heavy with apples and roofs are spread with slices drying in the sun. Cross the river to Chhairo for its small monastery among poplars. Final evening with the team. In the late afternoon, photograph the orchards and the river with Nilgiri glowing above, and spend your last evening sorting your pictures with tea or apple brandy.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Fly Jomsom to Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 820,
+      "move": "≈ 20 min drive · ≈ 20 min flight",
+      "text": "A short drive to Jomsom for the morning flight to Pokhara, where the trip ends. Sit on the left side for the Annapurnas on the way down. If the flight is cancelled, we wait for the next morning or drive out by jeep. Please keep a spare day in your plans. If you want to continue to Kathmandu the same day, we can book a connecting flight, but we strongly advise a spare day in your plans. Your guide can help back up your photographs before you leave.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "red-house-lodge-kagbeni",
+    "oms-home-jomsom",
+    "hotel-barahi-pokhara"
+  ],
+  "includes": [
+    "Upper Mustang restricted-area permit (USD 500 for 10 days) and Annapurna Conservation Area permit",
+    "Licensed guide experienced with photographers",
+    "Private 4WD jeep with driver from Jomsom to Marpha and Jomsom",
+    "Flights Kathmandu–Pokhara and Pokhara–Jomsom–Pokhara",
+    "One night in Pokhara with breakfast and nine nights in the best available lodges with all meals",
+    "Jeep for the Chhoser day"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Drone permits and fees",
+    "Travel insurance covering equipment and evacuation",
+    "Donations at monasteries where photography is allowed for a fee",
+    "Drinks, charging and tips"
+  ],
+  "good_to_know": [
+    "Flying a drone in Nepal needs prior government permission, and restricted areas add more conditions; check current status before you travel.",
+    "Many monasteries do not allow photography inside, or charge a fee; always ask your guide first.",
+    "Charging is limited in Upper Mustang; bring spare batteries and a power bank.",
+    "Strong wind and dust after midday make lens changes risky; change lenses inside the jeep or lodge.",
+    "The permit requires at least two foreign travellers and a licensed guide; check current status before you travel."
+  ],
+  "faqs": [
+    {
+      "q": "Is Mustang good for photography?",
+      "a": "Yes, among the best in Nepal for landscapes, architecture and people. The dry air gives deep blue skies and clear distance, and the cliffs, caves and whitewashed villages make strong compositions. The challenge is harsh midday light and afternoon dust, so this trip concentrates on early mornings and late afternoons, with drives in between."
+    },
+    {
+      "q": "Can I fly a drone in Upper Mustang?",
+      "a": "Only with permission. Nepal requires drone users to obtain prior approval from the authorities, and restricted areas like Upper Mustang carry extra conditions. Even with a permit, flying over monasteries, festivals or people without consent is not acceptable. Apply well in advance through us, and check current status before you travel."
+    },
+    {
+      "q": "Can I photograph inside the monasteries?",
+      "a": "It depends on the monastery. Some do not allow photography inside at all, especially of old murals; others allow it without flash, sometimes for a small fee. Rules can change, so your guide asks each time. Outside, courtyards and chortens are usually fine, but ask before photographing monks or people at prayer."
+    },
+    {
+      "q": "What camera gear should I bring to Mustang?",
+      "a": "A wide-angle zoom for villages and landscapes, a short telephoto for faces and details, and a fast prime for interiors and caves. Bring a blower and cleaning cloths, as dust is constant, plus several spare batteries and a power bank. A light tripod helps at dawn and dusk. Pack everything in a dust-proof bag."
+    },
+    {
+      "q": "Is there electricity in Lo Manthang?",
+      "a": "Yes, most lodges have electricity from the grid, solar panels or both, but supply can be unreliable and sockets limited. Charging is often a small extra fee. We recommend spare batteries and a large power bank, and charging every chance you get in Kagbeni, Muktinath and Marpha."
+    },
+    {
+      "q": "When is the best light in Mustang?",
+      "a": "The first hour after sunrise and the last hour before sunset. Midday light is harsh, and wind raises dust after about 11 am most days. Autumn, from late September to November, gives the clearest air and warm colours in the fields; spring, April to May, adds green barley and the Tiji festival."
+    },
+    {
+      "q": "Can I photograph people in Mustang?",
+      "a": "Many people are happy to be photographed if you ask first and take time to talk, and your guide will help with that. Some, especially older people and monks at prayer, prefer not to be. Respect a no. Do not pay for photographs, as it changes relationships in villages; sharing a print on a later visit is a good gift."
+    },
+    {
+      "q": "Why do you travel by jeep rather than trek?",
+      "a": "Photographers usually carry heavy kit and need to be in the right place at the right light, not on a trail at 4 pm in dust and wind. A private jeep lets us stop anywhere, shorten long sections and stay at locations for dawn and dusk. If you prefer to walk, we can combine this with sections of trekking."
+    },
+    {
+      "q": "How does altitude affect photography trips?",
+      "a": "You sleep at up to 3,840 m and reach about 3,950 m on passes, so you may feel short of breath when climbing to viewpoints with heavy gear. We take Muktinath and Kagbeni before going higher, and keep walking light. Altitude also makes the sun's ultraviolet strong, so protect your skin and eyes."
+    }
+  ]
+}

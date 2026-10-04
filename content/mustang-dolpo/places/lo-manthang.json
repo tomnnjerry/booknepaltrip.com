@@ -1,0 +1,350 @@
+{
+  "slug": "lo-manthang",
+  "name": "Lo Manthang",
+  "name_ne": "लोमान्थाङ",
+  "local_name": "Lo Monthang (Lo-ke)",
+  "region": "mustang-dolpo",
+  "kind": "old town",
+  "wiki": "Lo Manthang",
+  "image_query": "Lo Manthang walled city Mustang",
+  "lat": 29.183,
+  "lng": 83.958,
+  "altitude_m": 3840,
+  "tagline": "The walled capital of the kingdom of Lo",
+  "meta_description": "Lo Manthang, the walled capital of Upper Mustang at 3,840 m: Ame Pal's city, the royal palace, Thubchen and Jampa gompas, Tiji festival and how to get there.",
+  "summary": "Lo Manthang is the walled capital of the old kingdom of Lo, at about 3,840 m near the Tibetan border. Founded by Ame Pal around 1380, it keeps its mud-brick walls, single gate, five-storey palace and 15th-century gompas with restored murals. It is the goal of every Upper Mustang trek and the home of the Tiji festival.",
+  "intro": [
+    "From the ridge above, Lo Manthang looks like a city drawn on a plain: a rectangle of high, pale walls with corner towers, packed inside with flat-roofed houses, red-painted gompas and the tall palace of the former kings, surrounded by green or golden fields and a scattering of hamlets. Beyond it, bare hills roll north towards Tibet, about 20 km away. Walk down through the fields to the city's single gate and you enter a place that has changed little in shape since the 15th century.",
+    "Inside the walls, narrow lanes run between houses of mud brick and stone, opening onto small squares where women spin wool, children play and horses wait to be loaded. The palace square, in front of the five-storey royal palace, is the heart of the city and the stage for the Tiji festival every May. Around it stand the great gompas: Thubchen with its huge red assembly hall, Jampa with its towering image of Maitreya, Chhoede, the main monastery, and Choprang, the new gompa.",
+    "Lo Manthang is not a museum. About 1,400 people lived in the wider rural municipality at the 2021 census, and the city has new guesthouses, shops selling Chinese goods brought over the border, and jeeps parked outside the walls. But the scale and the old buildings are intact. We recommend at least two nights here, three if you can, to see the gompas without hurry, ride to the caves at Chhoser and walk the walls at dawn."
+  ],
+  "story": {
+    "title": "Ame Pal's city and the last king of Lo",
+    "paras": [
+      "Lo Manthang was founded in about 1380 by Ame Pal, a warrior who made Lo an independent Buddhist kingdom, closely tied to Tibet by language and religion. He oversaw the building of the city wall and many of the structures that still stand. Lo's position on the trade route between the Tibetan plateau and the Kali Gandaki brought it wealth, and from the 15th to the 17th century it controlled much of the trade in salt, wool and grain between the Himalaya and the south. The great gompas of the city were built in this period of prosperity.",
+      "At the end of the 18th century Lo was annexed by the expanding kingdom of Nepal and became a dependency in 1795, but it kept its own hereditary rulers, known locally as gyalpo and in Nepali as raja. They lived in the palace, presided over festivals and settled disputes. Upper Mustang remained closed to outsiders until 1992, which helped preserve its Tibetan culture, language and architecture into modern times. Lo also supported Tibet and the Qing empire against Nepal during the Sino-Nepalese War of the late 18th century, a reminder of how close its ties to the north remained.",
+      "On 7 October 2008, after Nepal became a federal republic, the government ended the kingdom of Lo. The last king, Jigme Dorje Palbar Bista, who had reigned since 1964 and was 25th in a line traced back to Ame Pal, lost his title, though many residents continued to treat him as their king until his death in December 2016. His nephew, Jigme Singhe Palbar Bista, still attends ceremonies in the palace. Today Lo Manthang is the centre of Lomanthang rural municipality, a place of farmers, monks, traders and lodge-keepers."
+    ]
+  },
+  "legend": "Tiji, Lo Manthang's great May festival, retells a legend of the deity Dorje Jono. A demon born in Lo, the story goes, brought drought and suffering to the land, and Dorje Jono, a form of the Buddha's power, took on the task of defeating him. Over three days in the palace square, masked monks of Chhoede gompa dance the tale, until the demon is destroyed and Lo is purified for the year ahead. Many villagers still see the festival as protecting their crops and families.",
+  "people": "Lo Manthang's people are Loba, who speak Lo-ke, a Tibetan dialect, and most follow the Sakya school of Tibetan Buddhism. At the 2011 census nearly nine in ten people in the municipality identified as Lhopa. Families farm barley, buckwheat and mustard, keep horses, yaks and goats, trade across the Tibetan border and run lodges. In winter many move south to Pokhara or Kathmandu, returning before spring planting.",
+  "untold": [
+    {
+      "fact": "Lo Manthang's royal palace is a nine-cornered, five-storey building put up around 1400. The last king of Lo, Jigme Dorje Palbar Bista, was born in it in 1930 and was the 25th in a direct line of rulers dating back to 1380.",
+      "source": "Wikipedia: Lomanthang Rural Municipality; Wikipedia: Jigme Dorje Palbar Bista"
+    },
+    {
+      "fact": "In 2007 a series of at least twelve caves decorated with Buddhist paintings, dating to around the 13th century and showing Newar influence, were found in cliffs near Lo Manthang at about 4,300 m.",
+      "source": "Wikipedia: Lomanthang Rural Municipality"
+    },
+    {
+      "fact": "Lo Manthang is about 20 km by road from the Korala border crossing into Tibet. The Kaligandaki Corridor road now links the city with Pokhara in around a day of driving, though much of it was still unpaved in 2025.",
+      "source": "Wikipedia: Lomanthang Rural Municipality"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "gyalpo",
+      "script": "རྒྱལ་པོ",
+      "lang": "Tibetan",
+      "meaning": "king; the title of the rulers of Lo until 2008"
+    },
+    {
+      "word": "lhakhang",
+      "script": "ལྷ་ཁང",
+      "lang": "Tibetan",
+      "meaning": "temple, literally 'god house'; as in Jampa Lhakhang"
+    },
+    {
+      "word": "tsampa",
+      "script": "རྩམ་པ",
+      "lang": "Tibetan",
+      "meaning": "roasted barley flour, the staple food of Lo"
+    }
+  ],
+  "taste": {
+    "name": "Tsampa",
+    "text": "Tsampa is roasted barley flour mixed with butter tea and kneaded by hand into small balls, or stirred into porridge. It is the staple of Lo, carried by herders and eaten at home every day. Ask your lodge in Lo Manthang to make it the local way at breakfast."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Apr – Jun, Sep – Oct; Tiji in May"
+    ],
+    [
+      "Days we suggest",
+      "2–3"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom (JMO), ≈ 80 km by road"
+    ],
+    [
+      "From Kathmandu",
+      "Flight to Jomsom via Pokhara, then ≈ 6–7 h by jeep or 4–5 days on foot"
+    ],
+    [
+      "Altitude",
+      "3,840 m"
+    ],
+    [
+      "Known for",
+      "Walled city, royal palace, Thubchen and Jampa gompas, Tiji festival"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "nights": "2–3",
+  "highlights": [
+    {
+      "title": "The walled city",
+      "text": "Walk the lanes inside Lo Manthang's walls, from the single gate to the palace square, past houses of mud brick and stone, prayer wheels and small courtyards. At dawn, follow the path around the outside of the walls for the light on the corner towers."
+    },
+    {
+      "title": "Thubchen gompa",
+      "text": "The huge red assembly hall built in the late 15th century, with tall wooden pillars and walls covered in murals restored by conservators working with local Loba artisans. One of the finest interiors in the Himalaya. Bring a torch and time."
+    },
+    {
+      "title": "Jampa Lhakhang",
+      "text": "The oldest of the city's major temples, built in the early 15th century and dedicated to Jampa, the Maitreya Buddha. Its tall clay image of Maitreya and painted mandalas on the walls are the reason many visitors come to Lo Manthang."
+    },
+    {
+      "title": "The royal palace",
+      "text": "The nine-cornered, five-storey palace built around 1400 dominates the main square. It was home to the kings of Lo until 2008. Access inside is limited and changes over time; even from outside, it shows the scale of the old kingdom."
+    },
+    {
+      "title": "Chhoede gompa and Tiji",
+      "text": "Chhoede is the main working monastery of the city, whose monks perform the masked dances of Tiji in the palace square each May. Outside festival time you may see young monks at lessons in its courtyard. Ask before photographing them."
+    },
+    {
+      "title": "Ride to Namgyal and Tingkhar",
+      "text": "Hire a Mustang horse for a morning ride over the hills west of the city to Namgyal gompa on its ridge and the village of Tingkhar beyond, with views back over the walls. A gentle ride that suits beginners with a local handler."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Jeeps run from Jomsom to Lo Manthang in about 6–7 hours on a rough, dusty road via Kagbeni, Chele, Syangboche, Ghami and Tsarang. Pokhara–Lo Manthang is possible in one very long day. Landslides and river crossings can close the road; check current status before you travel."
+    },
+    {
+      "mode": "On foot",
+      "text": "The classic trek from Kagbeni takes 4–5 days via Chele, Samar or Syangboche, Ghami and Tsarang, at 3,000–4,000 m, with passes up to about 4,000 m. Many trekkers walk one way and drive the other."
+    },
+    {
+      "mode": "Air",
+      "text": "The nearest airport is Jomsom, about 80 km south, with early-morning flights from Pokhara. There is no airport in Upper Mustang; helicopter charters land at Lo Manthang for those with limited time, at high cost."
+    }
+  ],
+  "where_to_stay": "Lo Manthang has the widest choice of lodges in Upper Mustang. Most are family-run guesthouses inside or just outside the walls, with heated dining rooms, solar hot water and rooms with attached bathrooms in the better ones. A few newer lodges built in traditional style offer more comfort. Expect simple rooms and cold nights; bring a four-season sleeping bag. Book well ahead for Tiji in May, when every bed in the city is taken. We choose lodges close to the gate so evening and dawn walks are easy.",
+  "stays": [],
+  "tips": [
+    "Stay at least two nights; arriving tired at 3,840 m and leaving the next morning wastes the effort of getting here.",
+    "Visit Thubchen and Jampa gompas with a guide who can find the caretakers; both are often kept locked.",
+    "Bring a strong torch; the murals in Thubchen and Jampa are in deep shade.",
+    "Book lodges months ahead if you plan to see Tiji in May.",
+    "Respect the palace and gompas: ask before photographing monks, residents or interiors, and never use flash on murals."
+  ],
+  "themes": [
+    "heritage-and-temples",
+    "treks-and-trails",
+    "food-and-festivals",
+    "high-altitude"
+  ],
+  "nearby": [
+    "tsarang",
+    "chhoser",
+    "ghami"
+  ],
+  "experiences": [
+    {
+      "slug": "lo-manthang-walled-city-walk",
+      "title": "Dawn walk around and inside the walled city",
+      "kind": "heritage",
+      "duration": "2.5 hours",
+      "best_time": "Dawn, Apr–Oct",
+      "image_query": "Lo Manthang city wall dawn",
+      "wiki": "Upper Mustang",
+      "summary": "A walk around the outside of Lo Manthang's walls at first light, then in through the single gate to the lanes, squares and the palace square, with a guide from Lo who can explain how the city was built, defended and lived in for more than six centuries.",
+      "body": [
+        "We leave the lodge as the sky begins to lighten and follow the path around the outside of the city walls. They are built of mud brick on stone foundations, rising high above the path, with towers at the corners and at intervals along the sides. Chortens and mani walls stand outside. As the sun rises, the light moves across the walls from pale grey to warm gold, and the first smoke rises from kitchen fires inside.",
+        "We enter through the gate, the only way in through the walls, and walk the lanes. Houses are packed close, two or three storeys high, with animals on the ground floor, families above and flat roofs stacked with firewood. Your guide will point out the old water channels, prayer wheels, and the doorways where families hang protective charms. Women spin wool in the sun, and horses wait to be loaded for the fields.",
+        "We finish in the palace square, in front of the five-storey royal palace, home of the kings of Lo until 2008. Your guide will tell the story of Ame Pal, the founder, and of Jigme Dorje Palbar Bista, the last king. From here the city's great gompas are a few steps away. Breakfast follows, and the rest of the day is for the monasteries. Take a warm layer; dawn is cold even in summer."
+      ],
+      "good_for": [
+        "first-timers",
+        "photographers",
+        "couples",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "How old is the wall around Lo Manthang?",
+          "a": "The wall dates from the founding of the city by Ame Pal in about 1380, and has been repaired and rebuilt many times since. It is built of mud brick on stone foundations, with towers at the corners and along the sides. Much of the city inside has changed little in shape since the 15th century."
+        },
+        {
+          "q": "Does Lo Manthang have only one gate?",
+          "a": "Yes. Lo Manthang's walls traditionally have a single main gate, which was closed at night. All traffic in and out of the city passed through it, which made the city easy to defend and control. Today you enter through the same gate; vehicles stay outside, and the lanes inside are only for people and animals."
+        },
+        {
+          "q": "Can I visit the royal palace in Lo Manthang?",
+          "a": "Access to the palace interior is limited and has changed over time; it remains the family property of the former royal family, and parts have undergone repair. Your guide will check whether any visits are possible during your stay. Even from outside, in the palace square, its five storeys and nine corners are impressive."
+        }
+      ]
+    },
+    {
+      "slug": "lo-manthang-thubchen-jampa-murals",
+      "title": "Murals of Thubchen and Jampa gompas",
+      "kind": "heritage",
+      "duration": "3 hours",
+      "best_time": "Late morning, Apr–Oct",
+      "image_query": "Thubchen monastery Lo Manthang mural",
+      "wiki": "",
+      "summary": "Spend a morning inside Lo Manthang's two great 15th-century temples, Jampa Lhakhang with its giant Maitreya and mandala walls, and Thubchen's vast red assembly hall, both covered in murals saved by a long restoration that trained local Loba artisans as conservators.",
+      "body": [
+        "Jampa Lhakhang is the oldest of Lo Manthang's major temples, built in the early 15th century and known locally as the 'god house'. Its main hall rises through several storeys to hold a huge clay image of Jampa, the Maitreya or future Buddha. The walls are painted with mandalas of exceptional detail and colour, in a style that shows the links between Lo and the great monasteries of central Tibet. A torch helps you see them in the dim light.",
+        "Thubchen gompa, built in the late 15th century just south-west of Jampa, is a huge red assembly hall with tall wooden pillars and walls covered in large painted figures of buddhas, bodhisattvas and protectors. For years the paintings were dark with soot and damaged by water. From the late 1990s a restoration programme supported by the American Himalayan Foundation brought in international conservators and trained young Loba men and women to clean and stabilise them.",
+        "Your guide will find the caretakers, who hold the keys and collect the entry fee or donation. Take your time; the best murals reward close looking, and light comes in only from the doors and high windows. Photography rules vary and flash is never allowed. Allow at least an hour in each temple, and go in the late morning when the sun is high enough to light the doorways. It is time well spent."
+      ],
+      "good_for": [
+        "photographers",
+        "seniors",
+        "solo",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What are the main monasteries in Lo Manthang?",
+          "a": "There are four major temples: Jampa Lhakhang, the oldest, from the early 15th century, with a huge Maitreya image; Thubchen, a vast red assembly hall from the late 15th century; Chhoede, the main working monastery of the city; and Choprang, known as the New Gompa. All belong to the Sakya tradition."
+        },
+        {
+          "q": "Who restored the murals in Lo Manthang?",
+          "a": "From the late 1990s, a long conservation programme supported by the American Himalayan Foundation worked on the wall paintings of Thubchen and Jampa gompas. International conservators trained local Loba men and women, who did much of the cleaning and stabilising. The project also repaired roofs and structures to protect the paintings from water."
+        },
+        {
+          "q": "Is there an entry fee for the gompas of Lo Manthang?",
+          "a": "Yes, the major gompas usually charge a modest entry fee for foreigners, paid to the caretaker, or ask for a donation. Fees change and may be combined into a single ticket. Keep small notes in Nepali rupees. Your guide will arrange the visits, as the temples are often kept locked outside prayer times."
+        }
+      ]
+    },
+    {
+      "slug": "lo-manthang-horse-ride-namgyal-tingkhar",
+      "title": "Horse ride to Namgyal gompa and Tingkhar",
+      "kind": "adventure",
+      "duration": "Half day",
+      "best_time": "Morning, May–Oct",
+      "image_query": "Mustang horse riding Lo Manthang",
+      "wiki": "",
+      "summary": "Ride a sturdy Mustang horse out of Lo Manthang over the open hills to Namgyal gompa on its ridge and the small village of Tingkhar beyond, with views back over the walled city and the plateau stretching north to Tibet. Led by local handlers; suitable for beginners.",
+      "body": [
+        "Horses have always been central to life in Lo, for travel, trade, farming and festival races, and Mustang's small, strong horses are well suited to the altitude and terrain. We arrange horses and handlers from Lo Manthang families. You do not need riding experience; the handler walks beside the horse and leads it on steeper ground. Helmets are not standard locally, so bring your own if you want one. Most horses are gentle and used to visitors.",
+        "We ride out of the city and climb gently over the open hills to the west, about an hour to Namgyal gompa, the 'monastery of victory', which stands on a ridge with wide views over the plain. A caretaker or monk may open the hall. From here the trail continues to Tingkhar, a small village of farmers and herders, with chortens, a few houses and fields in a quiet valley.",
+        "On the ride back the walled city appears below, the palace and gompas clear against the plain, a view that shows how compact Lo Manthang is. The whole trip takes about four hours. Wear long trousers, a hat and sun protection; the saddles are traditional Tibetan-style and can be hard after a few hours, so bring something to pad them if you are not a regular rider. Tip the handler at the end."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "photographers",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Do I need riding experience to ride a horse in Upper Mustang?",
+          "a": "No. The horses used for visitors are calm and sure-footed, and a local handler walks beside you, leading the horse on steep or loose ground. You should be comfortable sitting on a horse for a few hours. Children can ride with a handler. Bring your own helmet if you want one, as they are not standard locally."
+        },
+        {
+          "q": "How much does a horse ride cost in Lo Manthang?",
+          "a": "Prices vary with season, distance and demand, and are agreed with the horse owner before you set off; during Tiji they rise. Expect to pay per horse for a half day or full day, plus the handler. Your guide will negotiate a fair rate. Check current prices locally, as they change each year."
+        },
+        {
+          "q": "Where can I ride from Lo Manthang?",
+          "a": "Popular rides go west to Namgyal gompa and Tingkhar, north-east to the caves and monasteries of Chhoser and Garphu, and south to Lo Gekar. Half-day and full-day rides are possible. Rides to Chhoser take most of a day. All are led by local handlers who know the trails."
+        }
+      ]
+    },
+    {
+      "slug": "lo-manthang-tiji-palace-square",
+      "title": "Watch Tiji's masked dances in the palace square",
+      "kind": "spiritual",
+      "duration": "3 days",
+      "best_time": "May (dates set by the Tibetan calendar)",
+      "image_query": "Tiji festival Lo Manthang masked dance",
+      "wiki": "",
+      "summary": "Time your trip for Tiji, the three-day festival in May when the monks of Chhoede gompa perform masked dances in front of the royal palace, telling the story of Dorje Jono and the demon to purify Lo for the year ahead. The most important event of the year in Lo Manthang.",
+      "body": [
+        "Tiji is held over three days in the third month of the Tibetan calendar, usually in May. The dates are fixed each year by the lamas of Chhoede gompa. People from all over Upper Mustang come to Lo Manthang in their best clothes, and the palace square fills with families, monks, traders and visitors. Long horns and drums announce each day's dances, and every rooftop around the square fills with spectators.",
+        "The masked dances, performed by Chhoede's monks, tell the legend of Dorje Jono, who defeats a demon that has brought drought and suffering to Lo. Each day has its own dances, building to the destruction of the demon's effigy on the last day, when the land is purified for the year. The dances are long, slow and hypnotic, with moments of drama, and people watch for hours from the square and the rooftops.",
+        "To see Tiji, plan months ahead. Lodges fill up and the restricted area permit should be arranged early. Arrive in Lo Manthang a day or two before to acclimatise. Find a spot in the square early each morning, bring a cushion, sun hat and warm layers, and keep your camera discreet. Never step into the dance area, and follow the stewards' instructions. Patience is rewarded; the best moments often come late in the day."
+      ],
+      "good_for": [
+        "photographers",
+        "first-timers",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "When is the Tiji festival in Lo Manthang?",
+          "a": "Tiji is held over three days in the third month of the Tibetan lunar calendar, usually in May. In 2026 it fell on 14–16 May. The lamas of Chhoede gompa set the dates each year, so they move against the Western calendar. Check current dates before you travel and book early."
+        },
+        {
+          "q": "Can tourists attend Tiji?",
+          "a": "Yes, visitors are welcome to watch the dances in the palace square, as long as they are respectful. Do not step into the dance area, keep your voice low during rituals, ask before photographing people and never use flash. Stewards may ask you to move; follow their instructions. Arrive early to find a good spot."
+        },
+        {
+          "q": "How far ahead should I book for Tiji?",
+          "a": "Book at least four to six months ahead. Lodges in Lo Manthang fill up for Tiji, flights to Jomsom are busy, and the restricted area permit must be arranged through a registered agency. We plan Tiji trips with an extra buffer day before and after the festival for weather and road delays."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get to Lo Manthang?",
+      "a": "Fly from Pokhara to Jomsom (about 20 minutes), then drive about 6–7 hours by jeep, or trek 4–5 days from Kagbeni via Chele, Syangboche, Ghami and Tsarang. Pokhara to Lo Manthang by road is possible in one long day. You need an Upper Mustang restricted area permit and a licensed guide."
+    },
+    {
+      "q": "How much is the Upper Mustang permit?",
+      "a": "Since a November 2025 government decision, foreigners are reported to pay USD 50 per person per day for the Upper Mustang restricted area permit, replacing the old USD 500 for the first 10 days. You also need an ACAP permit. The permit is issued through a registered agency, for at least two people with a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "What is the altitude of Lo Manthang?",
+      "a": "Lo Manthang lies at about 3,840 m. That is high enough for altitude sickness if you arrive quickly by jeep from Jomsom (2,700 m). Trekkers who walk up over 4–5 days usually adjust well. Rest on arrival, drink plenty of water and avoid alcohol for the first night."
+    },
+    {
+      "q": "Is there still a king in Lo Manthang?",
+      "a": "No. The kingdom of Lo was formally ended on 7 October 2008, when Nepal became a republic. The last king, Jigme Dorje Palbar Bista, died in December 2016. His nephew, Jigme Singhe Palbar Bista, still takes part in ceremonies at the palace, but holds no formal title. Many residents still respect the family."
+    },
+    {
+      "q": "When is the best time to visit Lo Manthang?",
+      "a": "April to June and September to October are best. May brings the Tiji festival, the highlight of the year. Lo Manthang lies in the rain shadow, so July and August are mostly dry, though roads from the south can be cut. Winter is very cold and many residents move south."
+    },
+    {
+      "q": "How many days do I need for Upper Mustang?",
+      "a": "With a jeep both ways from Jomsom, allow at least 7–8 days from Pokhara, including two nights in Lo Manthang. A trek in one direction and a drive back takes 10–12 days; trekking both ways takes 14–16 days. Add spare days for flights. Under the daily permit system, longer trips cost more in permit fees."
+    },
+    {
+      "q": "Can I use a credit card or ATM in Lo Manthang?",
+      "a": "Do not count on it. There are no reliable ATMs in Upper Mustang, and most lodges and shops take cash only, in Nepali rupees. Some places may accept digital payment through Nepali apps, which most visitors cannot use. Bring enough cash from Pokhara or Jomsom for lodges, food, donations and horse hire."
+    },
+    {
+      "q": "Is Lo Manthang safe for travellers?",
+      "a": "Yes. Lo Manthang is a small, close-knit community and crime against visitors is very rare. The main risks are altitude, cold, wind and rough roads. Travel with a licensed guide, as required by the permit, keep warm, drink water, and take care on jeep journeys. Check road and weather conditions before you travel."
+    },
+    {
+      "q": "Can I cross into Tibet from Lo Manthang?",
+      "a": "The Korala border crossing, about 20 km north of Lo Manthang, is used for trade between Nepal and Tibet, but it is not generally open to foreign tourists. Do not plan a crossing into Tibet here. Rules can change, so check current status before you travel, but expect to return south to Jomsom."
+    }
+  ]
+}

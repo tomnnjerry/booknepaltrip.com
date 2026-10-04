@@ -1,0 +1,259 @@
+{
+  "slug": "lo-manthang-ghar-gompa-loop-11n",
+  "title": "Lo Manthang and Ghar Gompa loop",
+  "region": "mustang-dolpo",
+  "kind": "trek",
+  "nights": 11,
+  "themes": [
+    "treks-and-trails",
+    "heritage-and-temples",
+    "high-altitude",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 2
+    },
+    {
+      "place": "kagbeni",
+      "nights": 2
+    },
+    {
+      "place": "ghami",
+      "nights": 3
+    },
+    {
+      "place": "lo-manthang",
+      "nights": 2
+    },
+    {
+      "place": "tsarang",
+      "nights": 1
+    },
+    {
+      "place": "jomsom",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 3650,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 4010,
+  "meta_description": "Lo Manthang loop, 11 nights: trek in by Dhakmar and Ghar Gompa, two nights in the walled city, out by Tsarang and jeep to Jomsom. Permit and guide included.",
+  "summary": "An 11-night loop that walks into Lo Manthang the old way, by the red cliffs of Dhakmar and the monastery of Ghar Gompa, and leaves by Tsarang with a jeep ride back to Jomsom. A shorter Upper Mustang trek that still sees the best of it, with no stretch walked twice.",
+  "intro": [
+    "Most Upper Mustang treks walk in and out on the same main trail. This loop does not. We walk north through Chele, Syangboche and Ghami, then turn off the main route to Dhakmar and climb over the ridge to Ghar Gompa, arriving in Lo Manthang from the south-east by the route pilgrims have long used. After two nights in the walled city, we walk out over Lo La to Tsarang and take a jeep for the long return to Jomsom.",
+    "The jeep section saves three days without cutting anything you would want to see, and keeps the trek within 11 nights, the right length for many travellers with two weeks in Nepal. The restricted-area permit fee is charged for a minimum of 10 days, so this trip uses it well. It also means the hardest climbing is done on the way in, when you are fresh, and the final day in the restricted area is an easy one."
+  ],
+  "story": "You start among apple trees and pilgrims at Kagbeni and climb through the cliffs of Chele into a country of wind-cut pillars and long views. At Syangboche the snow peaks fall behind you. Ghami's mani wall, said in local legend to be a demon's intestines, leads you to Dhakmar, where the cliffs are red with the same demon's blood. Over the ridge, Ghar Gompa's painted stone tablets and butter lamps mark the spot where tradition says Guru Rinpoche overcame the demon. And then the walls of Lo Manthang, entered by its single gate. You leave over Lo La, look back once, and walk down to Tsarang's fortress and monastery before the jeep takes you south.",
+  "highlights": [
+    "The red cliffs of Dhakmar at sunset",
+    "Ghar Gompa, also called Lo Gekar, linked by tradition to Guru Rinpoche",
+    "Two nights inside the walls of Lo Manthang, with its 15th-century monasteries",
+    "Tsarang's Sakya monastery and old fortress-palace",
+    "A loop with no section walked twice"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 25 min flight",
+      "text": "Fly to Pokhara and meet your guide, who checks your gear and permit paperwork. Upper Mustang is sunny, dry and windy, with cold nights: a warm jacket, sun hat, buff and sunglasses matter more than rain gear. Afternoon by Phewa Lake and an early night before the dawn flight to Jomsom. If you arrive early, walk along the lakeshore or take a boat to the Tal Barahi temple on its island. We collect passport copies for the permit if they have not already been sent.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Jomsom, walk to Kagbeni",
+      "place": "kagbeni",
+      "overnight": "Kagbeni",
+      "alt_m": 2810,
+      "move": "≈ 20 min flight · ≈ 3 h walk",
+      "text": "We land in Jomsom before the wind and walk north along the Kali Gandaki riverbed to Kagbeni, a fortified village at the meeting of the Jhong and Kali Gandaki rivers. In the afternoon, explore its tunnel-like lanes and Kag Chode monastery, and see the clay guardian figures that protect the village from harm. A night at 2,810 m helps you adjust before the climb. Dinner is at the lodge, often dal bhat with local greens, and the evening is quiet: Kagbeni goes to bed early, and so should you.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kagbeni to Chele",
+      "place": "",
+      "overnight": "Chele",
+      "alt_m": 3050,
+      "move": "≈ 6 h walk · +240 m",
+      "text": "Permits are checked at the edge of Kagbeni and we enter Upper Mustang. The trail runs through Tangbe's whitewashed lanes and Chhusang's orchards, below cliffs full of cave openings, then crosses the Kali Gandaki and climbs to Chele. Start early; the wind picks up around midday and blows hard up the valley until evening. Chele is a small Gurung and Loba village on a ledge above the gorge, with a few family lodges and wide views back down the valley.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Chele to Syangboche",
+      "place": "",
+      "overnight": "Syangboche",
+      "alt_m": 3800,
+      "move": "≈ 6–7 h walk · +750 m",
+      "text": "The hardest climb of the trek. We cross two passes above 3,600 m with views back to Nilgiri and the Annapurnas, lunch at Samar, and continue over rolling side valleys to Syangboche. Walk slowly and drink often. Your guide checks your oxygen levels in the evening and talks through how you feel. The village of Samar, with its poplars and stone walls, is a pleasant place to rest at lunch before the afternoon section.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Syangboche to Ghami",
+      "place": "ghami",
+      "overnight": "Ghami",
+      "alt_m": 3520,
+      "move": "≈ 5–6 h walk",
+      "text": "Over Yamda La and Nyi La, the highest point of the route at about 4,010 m, then down to Ghami, a large village of whitewashed houses, poplars and barley fields. In the afternoon walk along Ghami's long mani wall, one of the longest in Nepal, keeping it on your right as local Buddhists do. Dinner tonight is in one of Ghami's family lodges, where the stove sits in the middle of the dining room and the conversation turns to tomorrow's quieter route.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Ghami to Dhakmar",
+      "place": "",
+      "overnight": "Dhakmar",
+      "alt_m": 3820,
+      "move": "≈ 2–3 h walk · +300 m",
+      "text": "A short day that turns off the main trail. We cross the Ghami Khola and walk up a side valley to Dhakmar, a small village under tall cliffs of deep red rock, pocked with caves. Local legend says the red is the blood of a demon killed by Guru Rinpoche. The afternoon is free to explore the village and photograph the cliffs as the light turns them crimson before sunset. Few trekkers stay overnight in Dhakmar, so the evening is quiet and personal, usually spent around the family stove.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Over the ridge to Ghar Gompa and Lo",
+      "place": "lo-manthang",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "≈ 6 h walk · +300 m, −280 m",
+      "text": "We climb out of Dhakmar onto a high plateau and cross to Ghar Gompa, also known as Lo Gekar, a small monastery that tradition says Guru Rinpoche founded in the 8th century. Inside are painted stone tablets and murals; the caretaker opens it for visitors. Then we climb over a final ridge and see Lo Manthang below, walled and compact on its plain, and enter by the city's single gate.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "A day inside Lo Manthang",
+      "place": "lo-manthang",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "Walks inside and around the walls",
+      "text": "We visit Jampa Lhakhang, with its large clay Maitreya Buddha and painted mandalas, and Thubchen, a tall 15th-century assembly hall whose murals were restored with the help of local artists. Chode monastery is the active one, where novice monks study. In the afternoon, choose between a pony ride to the hills north of town, a visit to a local home for butter tea, or rest. Evening prayers at Chode are open to respectful visitors; sit at the back and listen.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Lo Manthang to Tsarang over Lo La",
+      "place": "tsarang",
+      "overnight": "Tsarang",
+      "alt_m": 3560,
+      "move": "≈ 4 h walk · +110 m, −390 m",
+      "text": "We leave Lo Manthang on the main trail, climb gently to Lo La at about 3,950 m for a last look back at the walled city, then descend across open plateau to Tsarang. The village's old fortress-palace and large red Sakya monastery stand on the edge of a gorge. Visit the monastery in the afternoon if the monks allow. Tsarang is quieter than Lo Manthang, and the evening walk around the edge of the village, above the gorge, is one of the most peaceful hours of the trek.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Jeep from Tsarang to Jomsom",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 5–6 h by jeep",
+      "text": "A private jeep takes us south on the Upper Mustang road through Ghami, Syangboche, Chele and Chhusang to Kagbeni and Jomsom. It is a rough, dusty ride with long views and a lunch stop on the way. In Jomsom, hot showers and a celebration dinner with the team. The jeep also lets you stop at places you passed on foot, for a last look at Ghami's mani wall and the cliffs above Chhusang. Jomsom has a bank, shops and good lodges.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Fly back to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 20 min flight",
+      "text": "The morning flight returns you to Pokhara. The rest of the day is free. If the Jomsom flight is cancelled by wind or cloud, today becomes our buffer: we wait for the next morning or drive out along the Kali Gandaki road, 8 to 10 hours by jeep. Phewa Lake is the place to spend the afternoon: a boat, a massage, or a long lunch overlooking the water. After two weeks in dry air, the green of Pokhara is a pleasure in itself.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 12,
+      "title": "Pokhara to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 25 min flight",
+      "text": "Fly to Kathmandu, where the trip ends. Keep at least four hours between landing and any international departure, or better, a spare night. We are happy to arrange hotels and a day of sightseeing in Patan or Bhaktapur. If you have time to spare, a night in Bhaktapur or Patan, among Newar temples and courtyards, is a fine way to round off a journey through the old Kingdom of Lo. We book onward hotels and transfers on request.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "red-house-lodge-kagbeni",
+    "oms-home-jomsom",
+    "hotel-barahi-pokhara"
+  ],
+  "includes": [
+    "Upper Mustang restricted-area permit (USD 500 for 10 days) and Annapurna Conservation Area permit",
+    "Licensed guide and one porter for every two trekkers",
+    "Flights Kathmandu–Pokhara–Jomsom and return",
+    "Private jeep Tsarang–Jomsom",
+    "Two nights in Pokhara with breakfast, nine nights in lodges with all meals",
+    "Airport transfers"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation cover",
+    "Meals in Pokhara other than breakfast",
+    "Drinks, hot showers, charging and tips"
+  ],
+  "good_to_know": [
+    "The restricted-area permit is for groups of at least two foreigners with a licensed guide through a registered agency; check current status before you travel.",
+    "Dhakmar and Ghar Gompa have very few lodges; we book ahead and may use a family home.",
+    "Ghar Gompa is opened by a caretaker; a small donation for upkeep is customary.",
+    "Jomsom flights run only in the morning and are often delayed; keep a spare day.",
+    "Afternoon wind in Upper Mustang is strong; we start walking at 7 am on most days."
+  ],
+  "faqs": [
+    {
+      "q": "What is Ghar Gompa?",
+      "a": "Ghar Gompa, also called Lo Gekar, is a small monastery south-east of Lo Manthang that tradition links to Guru Rinpoche, Padmasambhava, in the 8th century, which would make it one of the oldest Buddhist sites in Nepal. It is known for its painted stone tablets and old murals. A caretaker opens it for visitors, and a small donation is customary."
+    },
+    {
+      "q": "Why are the cliffs at Dhakmar red?",
+      "a": "Geologically, the colour comes from iron-rich sedimentary rock, common in the uplifted sea and river deposits of Mustang. Local legend gives another answer: Guru Rinpoche killed a demon here, and its blood stained the cliffs red, while its intestines became the long mani wall at Ghami. Dhakmar means red rock in the local Tibetan dialect."
+    },
+    {
+      "q": "Is this loop shorter than the standard Upper Mustang trek?",
+      "a": "Yes. It takes 11 nights from Kathmandu instead of 14, because you return from Tsarang by jeep rather than walking back to Jomsom. You still walk in on foot, sleep two nights in Lo Manthang, and see Dhakmar and Ghar Gompa. You miss the day trip to Chhoser, which can be added with one more night."
+    },
+    {
+      "q": "How difficult is the Ghar Gompa route?",
+      "a": "It is moderate. Days are four to seven hours on dry trails, except the short day to Dhakmar. The highest point is about 4,010 m at Nyi La, and the ridge above Ghar Gompa is a little lower. The route to Ghar Gompa is quieter and less used than the main trail, but our guides know it well."
+    },
+    {
+      "q": "Do I need the restricted-area permit for only 11 nights?",
+      "a": "Yes. The Upper Mustang permit is charged at USD 500 per person for the first 10 days regardless of how long you stay, as we understand the rules. On this trip you spend about eight days inside the restricted area, so you stay within that fee. Check current status before you travel."
+    },
+    {
+      "q": "Where do I stay in Dhakmar?",
+      "a": "Dhakmar has a small number of family lodges and homes that take guests. Rooms are simple, with blankets and shared toilets, and food is cooked in the family kitchen. We book ahead, especially in October and May. It is one of the most memorable nights of the trek, with the red cliffs glowing at sunset."
+    },
+    {
+      "q": "Can I add the Tiji festival to this trek?",
+      "a": "Yes, if your dates fit. Tiji is held over three days in Lo Manthang, usually in May, on dates set by the Tibetan calendar. We would add three nights in Lo Manthang, making the trip 14 nights. Lodges fill months ahead for Tiji, so book early. Check current status of festival dates before you travel."
+    },
+    {
+      "q": "What is the best season for this loop?",
+      "a": "April, May, September and October are best, with clear skies and pleasant days. Because Upper Mustang lies in the rain shadow, the loop also works from June to August, though flights to Jomsom and the lower road are less reliable. From December to February many lodges close and nights fall far below freezing."
+    },
+    {
+      "q": "Is the jeep ride from Tsarang comfortable?",
+      "a": "It is rough and dusty, but we use a private 4WD with an experienced local driver and stop for lunch and photographs. Expect 5 to 6 hours on a dirt road with some steep sections and river crossings. Bring a buff for the dust and motion sickness tablets if you need them."
+    }
+  ]
+}

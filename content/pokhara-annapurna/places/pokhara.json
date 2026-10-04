@@ -1,0 +1,355 @@
+{
+  "slug": "pokhara",
+  "name": "Pokhara",
+  "name_ne": "पोखरा",
+  "local_name": "",
+  "region": "pokhara-annapurna",
+  "kind": "city",
+  "wiki": "Pokhara",
+  "image_query": "Phewa lake Pokhara boats",
+  "lat": 28.2096,
+  "lng": 83.9856,
+  "altitude_m": 822,
+  "tagline": "A lake city under Machhapuchhre, gateway to the Annapurnas",
+  "meta_description": "Pokhara with locals: Phewa Lake and Tal Barahi, the Seti gorge, old bazaar, Peace Pagoda, Gurkha and mountain museums, best months, stays and transport.",
+  "summary": "Pokhara is Nepal's second city and capital of Gandaki Province, about 200 km west of Kathmandu on Phewa Lake at 822 m. It is the base for every Annapurna trek, with lake boats, paragliding, museums and an old Newar bazaar, and Machhapuchhre (6,993 m) standing roughly 25 km to the north.",
+  "intro": [
+    "The name comes from pokhari, Nepali for pond, and water shapes everything here. Phewa Lake, about 4.4 km2, lies along the southwest of the city; Begnas and Rupa lakes sit in the valley's east. The Seti Gandaki, milky white with glacial silt, cuts a gorge straight through town, in places only a few metres wide and tens of metres deep. On clear mornings the whole Annapurna range hangs above the rooftops.",
+    "Most visitors stay at Lakeside, the strip of hotels, cafes and boat stands along Phewa's eastern shore, and use it as a base before and after trekking. Old Pokhara, 4–5 km north around Bindhyabasini temple and Bhairab Tole, is a different town: Newar shopfronts, brass shops, Hindu shrines and morning markets, with almost no tourists. Between the two sit the airport, the museums and the bus parks. Damside, at the southern end of the lake, is quieter than central Lakeside, and the hills to the west and north hold the viewpoints.",
+    "Give Pokhara two or three nights. One morning for a boat to Tal Barahi and the climb to the Peace Pagoda, one for sunrise at Sarangkot, an afternoon in the museums, and an evening walk through the old bazaar. If you are trekking, add a rest day at the end: a lakeside dinner after a week of dal bhat is part of the tradition. In the monsoon, from June to September, plan around rain: mornings are often clearer, and museums and cafes fill the wet afternoons."
+  ],
+  "story": {
+    "title": "Sixteen Newar families and a lake",
+    "paras": [
+      "In the 17th century Pokhara was farmland under the kingdom of Kaski, one of the twenty-four small hill states, whose rulers kept their fort at Kaskikot on the ridge to the west. The Parajuli Brahmin families who looked after Bindhyabasini temple were among the first settlers in the valley floor. In the 1770s the last king of Kaski invited sixteen Newar trading families from Bhaktapur to build a proper market, and they settled around Bindhyabasini, Nalakomukh and Bhairab Tole, the core of today's old bazaar.",
+      "The market sat on two trade routes: from Kathmandu west to Jumla, and from India north to Tibet through the Kali Gandaki gorge. Mule trains brought salt and wool down and carried grain and cloth up. In 1786 the expanding Gorkha state absorbed Kaski. Pokhara stayed a foot-and-mule town for nearly two more centuries: until the Siddhartha Highway reached it in 1968, the only way in was to walk or fly onto a grass strip. Porters and mules carried everything else, from kerosene to roofing tin.",
+      "After 1959 Tibetan refugees settled in four camps around the city, Tashi Palkhel, Tashi Ling, Paljorling and Jampaling, which are now neighbourhoods with their own monasteries. Gurkha families retired to Pokhara on army pensions. Trekkers arrived with the road, and Lakeside grew from paddy fields. Today Pokhara is a metropolitan city of about 600,000 people, declared Nepal's tourism capital in 2024, with an international airport opened on 1 January 2023. Gurung, Magar and Khas villages still cover the surrounding hills, and many of their families now keep a second home in the city."
+    ]
+  },
+  "legend": "Local legend says the valley under Phewa Lake once held a rich village. A goddess came as a poor old woman begging for food and was refused at every door except the hut of a poor couple, who fed her. She told them to leave for the hill that night. The valley flooded, the village vanished under the water, and the couple survived. Devotees say the goddess is Barahi, worshipped today in the island temple of Tal Barahi.",
+  "people": "Pokhara's largest communities are Khas Brahmin and Chhetri families, Gurung (Tamu) and Magar, many with Gurkha soldiers in the family. Newar traders still run shops in the old bazaar. Tibetan families live in the four settlements and sell carpets and jewellery at Lakeside. Batulechaur in the north is home to Gandharva (Gaine) families, the traditional musicians who play the four-string sarangi and sing news and ballads from village to village.",
+  "untold": [
+    {
+      "fact": "Batulechaur, at Pokhara's northern edge, is home to Gandharva families, also called Gaine, the hereditary wandering musicians of the hills who carry the sarangi fiddle and once spread news between villages in song.",
+      "source": "Wikipedia: Pokhara (History)"
+    },
+    {
+      "fact": "Davis Falls, Patale Chhango in Nepali, is named after a Swiss woman who drowned there on 31 July 1961. The stream from Phewa drops into a tunnel about 150 m long and 30 m below ground before passing through Gupteshwor Mahadev cave.",
+      "source": "Wikipedia: Davis Falls"
+    },
+    {
+      "fact": "Matepani Gumba, on a hill east of the city about 5 km from Mahendrapul, was established in 1960 by Nyeshang people who had moved down from Manang to Pokhara, long before trekking brought outsiders to their home valley.",
+      "source": "Wikipedia: Matepani Gumba"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Tal",
+      "script": "ताल",
+      "lang": "Nepali",
+      "meaning": "Lake, as in Phewa Tal and Begnas Tal"
+    },
+    {
+      "word": "Doonga",
+      "script": "डुङ्गा",
+      "lang": "Nepali",
+      "meaning": "Wooden rowing boat, the painted ones for hire on Phewa"
+    },
+    {
+      "word": "Chhango",
+      "script": "छाँगो",
+      "lang": "Nepali",
+      "meaning": "Waterfall, as in Patale Chhango (Davis Falls)"
+    }
+  ],
+  "taste": {
+    "name": "Thakali khana set",
+    "text": "Rice or buckwheat dhido with black lentil dal, gundruk, greens, pickles and ghee, refilled until you say stop. Thakali kitchens line the streets behind Lakeside and around the old bus park; locals eat them at lunch. For lake fish, try fried machha at stalls near Phewa's dam end."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Nov, Feb – Apr"
+    ],
+    [
+      "Days we suggest",
+      "2–3"
+    ],
+    [
+      "Nearest airport",
+      "Pokhara International Airport (PHH)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 200 km · 6–8 h by road; 25 min by air"
+    ],
+    [
+      "Altitude",
+      "822 m"
+    ],
+    [
+      "Known for",
+      "Phewa Lake, Machhapuchhre views, trek starts, paragliding"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "2–3",
+  "highlights": [
+    {
+      "title": "Boat to Tal Barahi",
+      "text": "Hire a doonga at Barahi Ghat and row about ten minutes to the two-tiered pagoda of Tal Barahi on its island. Saturdays bring devotees with pigeons and flowers; early mornings bring mirror-calm water and Machhapuchhre reflected in it."
+    },
+    {
+      "title": "The Seti gorge",
+      "text": "Stand on the bridge at Mahendrapul or K.I. Singh Pul and look down: the Seti Gandaki runs so deep and narrow that you hear it before you see it. Its milky colour comes from glacial silt carried from the Annapurnas."
+    },
+    {
+      "title": "World Peace Pagoda",
+      "text": "The white Shanti Stupa sits at about 1,100 m on Anadu hill above Phewa's southern shore, built by Japanese Nipponzan Myohoji monks with local help. Take a boat across and climb 45 minutes through forest for the whole lake and range."
+    },
+    {
+      "title": "Old bazaar and Bindhyabasini",
+      "text": "Walk the old Newar market from Bhimsen temple to Bindhyabasini, a hilltop Durga temple and one of the oldest in Pokhara. Mornings bring bells, marigolds and families offering puja before work. Dashain brings long queues of devotees."
+    },
+    {
+      "title": "Two museums, two stories",
+      "text": "The International Mountain Museum tells the story of Himalayan climbing and the hill peoples; the Gurkha Memorial Museum covers two centuries of Nepali soldiers in British and Indian service, with medals and letters home. Allow half a day for both."
+    },
+    {
+      "title": "Davis Falls and Gupteshwor cave",
+      "text": "Watch Phewa's outflow plunge into a sinkhole, then cross the road and descend into Gupteshwor Mahadev cave, where a Shiva lingam sits in the rock and the same water roars through a chamber below. Allow about two hours for both."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Air",
+      "text": "Flights from Kathmandu take about 25 minutes to Pokhara International Airport (PHH), opened in January 2023, with several departures a day. Sit on the right side flying west for the mountains. Jomsom flights still use the old airport. Morning flights are less likely to be delayed by cloud."
+    },
+    {
+      "mode": "Road",
+      "text": "The Prithvi Highway covers about 200 km from Kathmandu in 6–8 hours via Mugling. Tourist buses leave Kathmandu around 7 am and arrive at the Tourist Bus Park, a short taxi ride from Lakeside. A private car allows stops at Bandipur, Gorkha or the Manakamana cable car. From Chitwan it is about 160 km, 5 hours."
+    }
+  ],
+  "where_to_stay": "Lakeside is the obvious base: hotels from budget to Hotel Barahi and Temple Tree Resort & Spa sit within a few minutes' walk of the water, the cafes and the boat stands. Fish Tail Lodge is the one hotel actually on the lake's far side, reached by a short raft ferry near the dam. For quiet, The Pavilions Himalayas sits in farmland outside the city with villas and its own organic farm, and Tiger Mountain Pokhara Lodge looks across the valley to the Annapurnas from a ridge east of town. Damside, at Phewa's southern end, is calmer than central Lakeside.",
+  "stays": [
+    "fish-tail-lodge",
+    "temple-tree-resort",
+    "the-pavilions-himalayas",
+    "tiger-mountain-pokhara-lodge",
+    "hotel-barahi-pokhara"
+  ],
+  "tips": [
+    "Mountain views are best before 9 am; plan boat trips and viewpoints for early morning.",
+    "Lakeside boat prices are fixed and posted at the boat association counters, so there is no need to bargain.",
+    "Taxis do not use meters; agree the fare before you get in.",
+    "Get your ACAP permit and TIMS card in Pokhara the day before a trek if you did not do it in Kathmandu.",
+    "Saturday is the busiest day at Tal Barahi and the Peace Pagoda, when Nepali families have the day off."
+  ],
+  "themes": [
+    "lakes-and-rivers",
+    "adventure-sports",
+    "family-trips",
+    "honeymoons",
+    "photography"
+  ],
+  "nearby": [
+    "sarangkot",
+    "begnas-lake",
+    "panchase",
+    "dhampus"
+  ],
+  "experiences": [
+    {
+      "slug": "pokhara-phewa-boat-tal-barahi",
+      "title": "Row a doonga to Tal Barahi temple",
+      "kind": "water",
+      "duration": "1–2 hours",
+      "best_time": "Early morning, Oct–Apr",
+      "image_query": "Tal Barahi temple Phewa lake",
+      "wiki": "Tal Barahi Temple",
+      "summary": "A wooden boat across Phewa Lake to the island temple of Barahi, Pokhara's most important shrine. Go at dawn for still water and Machhapuchhre's reflection, or on Saturday morning to see devotees bring offerings. Allow one to two hours.",
+      "body": [
+        "The boats at Barahi Ghat are flat, painted wooden doongas, and you can take one with a boatman or row yourself. The island is about ten minutes out. Its temple is a small two-tiered pagoda dedicated to Barahi, a form of the mother goddess Ajima, protector of the lake. It is the most important religious monument in Pokhara, and the busiest days are Saturdays and the months of Baisakh and Kartik.",
+        "Devotees bring flowers, red powder, coconuts and sometimes pigeons or roosters to offer. The island is tiny, so you walk around the temple in a few minutes, feed the pigeons and sit on the steps watching boats come and go. Non-Hindus can visit the courtyard; respect queues at the shrine door and take shoes off where others do. Most visitors spend 20–30 minutes on the island before rowing on. Small stalls at Barahi Ghat sell flowers and offerings if you want to join in. In the monsoon the lake rises, and boats may stop when storms build in the afternoon.",
+        "Do not rush back. Ask your boatman to row north along the shore towards the paragliders landing at the north end, or south towards the dam, where the Peace Pagoda appears on its hill. On a clear October morning Machhapuchhre, Annapurna South and Annapurna I reflect in the water. Pack a light jacket: the lake is cold at dawn even when afternoons are warm. On the way back, look along the shore for fishermen casting nets from small dugouts."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "first-timers",
+        "photographers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "How much does a boat to Tal Barahi cost?",
+          "a": "Boat hire on Phewa is priced by the hour at fixed rates set by the boat association and shown on boards at Barahi Ghat, with higher rates if you take a boatman. A return trip with a short stop at the temple takes about an hour. Life jackets are provided and should be worn. Prices are revised from time to time, so check the board when you arrive."
+        },
+        {
+          "q": "Can tourists enter Tal Barahi temple?",
+          "a": "Visitors of any faith can land on the island, walk around the temple and watch the worship. The inner shrine is for devotees making offerings, so stand aside from the queue and ask before taking photographs of people praying. Remove shoes near the shrine, avoid leather items there, and keep voices low. Saturdays are crowded; weekday mornings are quieter."
+        },
+        {
+          "q": "What is the best time for a boat ride on Phewa Lake?",
+          "a": "Early morning from October to April is best: the water is calm, the air clear and Machhapuchhre reflects in the lake. By late morning cloud often builds over the peaks and wind ripples the surface. In the monsoon, June to September, boats still run but mountain views are rare and afternoon storms can roll in quickly."
+        }
+      ]
+    },
+    {
+      "slug": "pokhara-old-bazaar-seti-gorge-walk",
+      "title": "Old bazaar, Bindhyabasini and the Seti gorge",
+      "kind": "heritage",
+      "duration": "3 hours",
+      "best_time": "Morning, year-round",
+      "image_query": "Bindhyabasini temple Pokhara",
+      "wiki": "Bindhyabasini Temple",
+      "summary": "A walk through the Pokhara most visitors never see: Newar shopfronts, the Bhimsen temple, the hilltop Durga shrine of Bindhyabasini and the bridges over the Seti gorge, where the river runs far below in a slot of white rock.",
+      "body": [
+        "Start at the old bus park area and walk north into the old bazaar, the market that sixteen Newar families from Bhaktapur were invited to build in the 1770s. Look up: the older houses have brick facades and carved wooden windows, now squeezed between concrete. Bhimsen temple, honouring the god of traders, stands in the middle of the market streets. Small shops still sell brass and copper pots, cloth and spices, and the lanes are busiest early in the morning when families buy vegetables for the day.",
+        "Climb the stone stairs to Bindhyabasini temple on its small hill. The goddess is a form of Durga, and the complex has shrines to Saraswati, Shiva, Hanuman and Ganesh. Mornings are busy with families offering puja; Saturdays and Dashain bring long lines. On clear days the Annapurnas rise directly behind the temple roofs. Walk around clockwise, as devotees do, and leave shoes at the foot of the inner stairs. Small stalls sell flowers, red powder and incense if you want to make an offering, and priests will place a tika on your forehead if you ask.",
+        "Finish at the Seti gorge. From Mahendrapul bridge or K.I. Singh bridge you look down into a canyon so narrow that in places it is only a few metres wide, cut by the Seti Gandaki through soft valley gravels. The milky water is glacial silt from the Annapurnas. Stop for tea and sel roti in a bazaar tea shop before heading back. Taxis back to Lakeside wait near the main road, about 15–20 minutes away."
+      ],
+      "good_for": [
+        "first-timers",
+        "photographers",
+        "solo",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "How far is old Pokhara from Lakeside?",
+          "a": "Old Pokhara's bazaar and Bindhyabasini temple are about 4–5 km north of central Lakeside, 15–20 minutes by taxi depending on traffic. Local buses run along the main road too. Most people take a taxi there and walk back south through the bazaar and past Mahendrapul. Allow three hours to see the temples, market and gorge at an easy pace."
+        },
+        {
+          "q": "Where can I see the Seti river gorge in Pokhara?",
+          "a": "The easiest viewpoints are Mahendrapul bridge in the old bazaar area and K.I. Singh bridge to its north, where the river runs deep below the road. The gorge is narrow and the sides are unfenced in places, so keep children close and stay behind railings."
+        },
+        {
+          "q": "Is Bindhyabasini temple open to non-Hindus?",
+          "a": "Visitors can climb to the temple complex, walk around the courtyard and watch worship. The inner sanctum is for devotees, and animal sacrifices are made at some festivals, notably Dashain, which some visitors may find difficult. Remove shoes where locals do, avoid leather near shrines and ask before photographing people praying. Mornings are the liveliest time."
+        }
+      ]
+    },
+    {
+      "slug": "pokhara-peace-pagoda-hike",
+      "title": "Boat and hike to the World Peace Pagoda",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Morning, Oct–May",
+      "image_query": "Shanti Stupa Pokhara Anadu hill",
+      "wiki": "Shanti Stupa, Pokhara",
+      "summary": "Cross Phewa by boat, climb about 45 minutes through forest to the white Shanti Stupa at roughly 1,100 m, and look back over the lake, the city and the Annapurna range. Return on foot to Damside or by boat.",
+      "body": [
+        "The Peace Pagoda on Anadu hill was built by monks of the Japanese Buddhist order Nipponzan Myohoji with local supporters, under the guidance of its founder Nichidatsu Fujii, who laid the foundation stone with relics of the Buddha in 1973. Nepal has two of these peace pagodas, one here and one in Lumbini. The stupa stands at about 1,100 m above Phewa's southern shore, painted white with gilded images of the Buddha set into niches around the dome. On clear days its outline is visible from much of Lakeside.",
+        "The classic route starts with a boat from Lakeside to the jetty below the hill on the southern shore. From there a stone path climbs through sal and chestnut forest, about 45 minutes at an easy pace, with tea stalls on the way. At the top, walk clockwise around the white dome and its gilded Buddha images. The terrace looks over the whole lake to Machhapuchhre and the Annapurnas. Sit for a while on the steps.",
+        "Keep quiet on the stupa itself: it is a place of worship, and videos are restricted. Come down the other side towards Damside and the Phewa dam, about 40 minutes, and continue to Davis Falls if you like. A taxi can also drive to near the top by road, useful for older travellers. Small cafes near the top serve tea and simple lunches with lake views, and the walk down through forest and village paths is easier on the lungs than the climb."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "photographers",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the hike to the Peace Pagoda in Pokhara?",
+          "a": "From the boat landing on Phewa's southern shore it is about 45 minutes uphill on a stone path, and about 40 minutes down the other side to Damside. Allow a half day including the boat, time at the top and a tea stop. A road also reaches a car park near the top, about 30 minutes from Lakeside by taxi."
+        },
+        {
+          "q": "Can you take photos at the World Peace Pagoda?",
+          "a": "Still photographs are allowed and the views are the reason to go. Videos are restricted on the stupa, with a fee reported for filming and social media clips specifically banned, so check the notice at the gate. Walk clockwise, remove shoes on the upper terrace and keep voices low, as monks and devotees use it for prayer."
+        },
+        {
+          "q": "Is the Peace Pagoda hike suitable for children?",
+          "a": "Yes for most children over six. The path is stone steps and forest trail with no exposure, but it is steady uphill for 45 minutes and slippery after rain. Bring water and snacks; tea stalls sell drinks. For younger children or seniors, take a taxi to the car park near the top and walk the last few minutes."
+        }
+      ]
+    },
+    {
+      "slug": "pokhara-mountain-and-gurkha-museums",
+      "title": "Mountain Museum and Gurkha Memorial Museum",
+      "kind": "heritage",
+      "duration": "Half day",
+      "best_time": "Afternoon, year-round",
+      "image_query": "International Mountain Museum Pokhara",
+      "wiki": "International Mountain Museum",
+      "summary": "Two museums that explain the region: the International Mountain Museum on Himalayan peaks, climbers and mountain peoples, and the Gurkha Memorial Museum on the soldiers from these hills who have served in British and Indian regiments for two centuries.",
+      "body": [
+        "The International Mountain Museum sits in a large compound in the south of the city, with halls on the fourteen 8,000 m peaks, the history of Himalayan mountaineering, and the dress, tools and houses of mountain communities such as Gurung, Thakali, Sherpa and Manangi. One section tells the story of the 1950 French ascent of Annapurna, the first 8,000 m peak ever climbed, which began from this side of the range.",
+        "The Gurkha Memorial Museum tells the story of the men recruited from these hills since the early 19th century, with uniforms, medals, the stories of Gurkha Victoria Cross holders, and letters and photographs. Many families in Pokhara, Ghandruk and the surrounding villages have a grandfather or father who served, and the museum explains why. Several Gurkha soldiers from Nepal have won the Victoria Cross, Britain's highest award for gallantry, and their stories are told here. Labels are in English, and staff are often former soldiers or their relatives.",
+        "Pair the museums on a cloudy afternoon or a rest day after trekking. Ask your guide about their own family's links to the army; it is a common story here. British Gurkha recruitment selection still takes place each year at the British camp in Pokhara, and you may see young men running with loaded doko baskets on the hills as they train. Selection is fiercely competitive, and passing is a matter of pride for a whole village."
+      ],
+      "good_for": [
+        "families",
+        "first-timers",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Is the International Mountain Museum worth visiting?",
+          "a": "Yes, especially before or after a trek. It gives context on the Annapurna peaks, the history of climbing them and the peoples who live under them, with expedition gear and village displays. Allow 1.5–2 hours. The compound is large and outdoors in parts, so it works in the morning or late afternoon. It is in the south of Pokhara, a 15-minute taxi from Lakeside."
+        },
+        {
+          "q": "What will I see at the Gurkha Memorial Museum?",
+          "a": "Uniforms, weapons, medals, photographs and personal stories of Gurkha soldiers from Nepal who served in the British and Indian armies, with sections on the two World Wars and later campaigns. It explains recruitment, life in the regiments and what service meant for hill villages. Allow about an hour. Check opening days before going, as hours can change."
+        },
+        {
+          "q": "Where are Gurkha soldiers recruited in Nepal?",
+          "a": "British Army Gurkha recruitment selection is held at the British Gurkhas camp in Pokhara, with regional registration in the hills beforehand. The Indian Army recruits Nepali Gorkhas through its own process. Competition is intense, and young men train for months with running and loaded-basket carries. Recruitment rules and dates change, so this is background rather than something to plan a visit around."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many days should I spend in Pokhara?",
+      "a": "Two to three nights suits most travellers: one morning for Phewa and the Peace Pagoda, one for Sarangkot sunrise, and time for the old bazaar, museums and paragliding. Add a rest night after any trek. If you want lake life and yoga, a week passes easily. Pokhara is also the base for Annapurna treks, so many visitors return twice in one trip."
+    },
+    {
+      "q": "What is the best month to visit Pokhara?",
+      "a": "October and November are best for clear mountain views and dry weather. March and April are warm and green, with rhododendrons in the hills but more haze. December to February are cool and often clear. June to September is the monsoon: Pokhara gets some of Nepal's heaviest rain, the peaks hide in cloud and paragliding may stop for days."
+    },
+    {
+      "q": "Can you see Everest from Pokhara?",
+      "a": "No. Everest is about 300 km east. From Pokhara you see the Annapurna range: Machhapuchhre (6,993 m), Annapurna I (8,091 m), Annapurna South, Annapurna II to IV and Lamjung Himal, with Dhaulagiri (8,167 m) to the west and Manaslu (8,163 m) to the east, both visible from Sarangkot and other viewpoints on clear days."
+    },
+    {
+      "q": "How do I get from Kathmandu to Pokhara?",
+      "a": "Fly in about 25 minutes to Pokhara International Airport, or drive 200 km on the Prithvi Highway in 6–8 hours by tourist bus or private car. Tourist buses leave Kathmandu early each morning. The drive allows stops at the Manakamana cable car, Bandipur or Gorkha. In the monsoon, landslides can close the road, so flying is more reliable."
+    },
+    {
+      "q": "Is Pokhara safe for solo women travellers?",
+      "a": "Pokhara is one of the most relaxed cities in Nepal and solo women travel here in large numbers. Usual sense applies: use registered trekking agencies and licensed guides, avoid walking alone on isolated hill trails such as the Peace Pagoda path late in the day, and agree taxi fares in advance. Lakeside is busy and well lit in the evening."
+    },
+    {
+      "q": "How much does paragliding in Pokhara cost?",
+      "a": "Tandem flights from Sarangkot typically run 20–30 minutes, with longer cross-country options, and operators sell them at Lakeside offices with photo and video add-ons. Prices vary by flight length and season, and are higher in October and November. Choose a registered operator with insured pilots. Flights are cancelled in poor weather, so keep a spare morning."
+    },
+    {
+      "q": "Is Pokhara good for a honeymoon?",
+      "a": "Yes. Couples come for lake views, sunrise from Sarangkot and quiet hillside stays. Fish Tail Lodge sits across the water by raft ferry; The Pavilions Himalayas and Tiger Mountain Pokhara Lodge offer privacy outside the city. A boat to Tal Barahi, a tandem paraglide and a candlelit Lakeside dinner make an easy three days. October to April is best."
+    },
+    {
+      "q": "Do I need a permit to visit Pokhara?",
+      "a": "No permit is needed for Pokhara city, Phewa Lake, Sarangkot, the Peace Pagoda or Begnas. Permits start when you enter the Annapurna Conservation Area, for example at Phedi on the Mardi Himal route or Birethanti on the Poon Hill and Ghandruk routes. You need an ACAP permit and a TIMS card, and a licensed guide; check current status before you travel."
+    },
+    {
+      "q": "What food should I try in Pokhara?",
+      "a": "Try a Thakali khana set with buckwheat dhido, fried fish from Phewa or Begnas at lakeside stalls, Newar snacks such as bara in the old bazaar, and Tibetan momo and thukpa near the settlements. Lakeside also has bakeries and international cafes that trekkers love after the trail. Ask for lake fish freshly caught that day."
+    }
+  ]
+}

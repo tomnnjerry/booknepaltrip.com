@@ -1,0 +1,342 @@
+{
+  "slug": "panchase",
+  "name": "Panchase",
+  "name_ne": "पञ्चासे",
+  "local_name": "",
+  "region": "pokhara-annapurna",
+  "kind": "viewpoint",
+  "wiki": "",
+  "image_query": "Panchase hill Kaski Nepal",
+  "lat": 28.21,
+  "lng": 83.8,
+  "altitude_m": 2517,
+  "tagline": "Orchid forest and village homestays west of Phewa Lake",
+  "meta_description": "Panchase near Pokhara: a quiet 2,517 m forest hill with 125 orchid species, Gurung and Magar homestays, Annapurna sunrise and the Pumdikot Shiva statue.",
+  "summary": "Panchase is a forested hill rising to 2,517 m southwest of Pokhara, where Kaski, Parbat and Syangja districts meet. It is a protected forest known for orchids, with village homestays at Bhadaure and Panchase Bhanjyang and a sunrise view of Dhaulagiri, Annapurna and Machhapuchhre. A short, quiet trek of 2–4 days.",
+  "intro": [
+    "From Phewa Lake, Panchase is the high green hill behind the Peace Pagoda, often with a cap of cloud. Few foreign trekkers walk here, which is the attraction: you climb from the lake through villages and terraces into a forest of oak, rhododendron and moss, sleep in family homes, and stand on the top at dawn with the Annapurnas and Dhaulagiri spread to the north and Phewa shining below. Days are short and gentle, and evenings are spent by a family's fire.",
+    "The hill sits inside the Panchase Protected Forest, about 58 km2 of subtropical and temperate forest from roughly 1,450 m to the 2,517 m summit, spread across Kaski, Parbat and Syangja. Botanists rate it one of Nepal's richest places for orchids, with around 125 species recorded, three of them found nowhere else. In spring and the monsoon the trees are hung with flowers. The upper forest is also rhododendron country, red with lali gurans from March, and home to birds that birders come to Pokhara for.",
+    "Panchase works for travellers who want village life rather than big mountains. Walks are short, 4–6 hours a day, the highest point is modest, and the homestays run by Gurung, Magar and Brahmin families give you a seat by the kitchen fire. Combine it with Pokhara, or use it as a gentle first trek before Poon Hill or Mardi Himal. Two to three nights is the usual length, starting and ending at Phewa Lake or by jeep from Pokhara."
+  ],
+  "story": {
+    "title": "A sacred forest where three districts meet",
+    "paras": [
+      "Local explanations of the name vary: some say Panchase means five ponds, after small pools near the summit, others five seats or five peaks around the top. What everyone agrees on is that the hill is sacred. Shrines near the summit draw pilgrims from the surrounding villages at festivals, and the forest around them was protected by custom long before it was protected by law. Villagers still bring offerings to the shrines, and many believe that cutting trees near the top brings misfortune.",
+      "The hill stands where three districts and several ethnic worlds meet: Gurung villages on the Kaski side, Magar villages to the south and west, and Brahmin and Chhetri hamlets lower down. For generations people came up to the forest for fodder, firewood and medicinal plants, and down to Pokhara's bazaar to sell ghee, oranges and millet. Trails linking the villages crossed the hill at Panchase Bhanjyang, the saddle below the summit, and traders, porters and pilgrims stopped there to rest. Most of the routes trekkers walk today were village paths long before anyone came for the view.",
+      "In the early 2010s the government declared the Panchase Protected Forest, about 58 km2, and community forest groups manage parts of it. Researchers surveying its plants have counted over 600 flowering species, including around 125 orchids, among them three found nowhere else, such as Eria pokharensis. Village homestays at Bhadaure and elsewhere were set up so that families could earn from visitors without felling the forest. Visitor numbers remain small, which keeps the experience personal."
+    ]
+  },
+  "legend": "",
+  "people": "Gurung families farm the Kaski slopes of Panchase, Magar villages hold the southern and western sides towards Syangja and Parbat, and Brahmin and Chhetri households live in the lower valleys. Most grow millet, maize, rice and oranges, keep buffalo and goats, and have sons working in the Gulf, Malaysia or the army. Community homestays in villages such as Bhadaure Tamagi host trekkers in family houses.",
+  "untold": [
+    {
+      "fact": "The Panchase Protected Forest covers about 58 km2 across Kaski, Parbat and Syangja districts, ranging from roughly 1,450 m to the 2,517 m summit.",
+      "source": "A checklist of flowering plants of Panchase Protected Forest, Journal of Natural History Museum (NepJOL)"
+    },
+    {
+      "fact": "Around 125 orchid species have been recorded at Panchase, among more than 600 flowering plants, and three of the orchids, including Eria pokharensis, are known only from this forest.",
+      "source": "A checklist of flowering plants of Panchase Protected Forest, Journal of Natural History Museum (NepJOL)"
+    },
+    {
+      "fact": "On the ridge between Pokhara and Panchase, the Pumdikot viewpoint at about 1,500 m holds the second tallest statue of Shiva in Nepal, after the Kailashnath Mahadev statue near Kathmandu.",
+      "source": "Wikipedia: Pumdikot Shiva Statue"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Sunakhari",
+      "script": "सुनाखरी",
+      "lang": "Nepali",
+      "meaning": "Orchid; literally golden flower"
+    },
+    {
+      "word": "Lekh",
+      "script": "लेक",
+      "lang": "Nepali",
+      "meaning": "High forested hill, colder than the valley"
+    },
+    {
+      "word": "Chautara",
+      "script": "चौतारा",
+      "lang": "Nepali",
+      "meaning": "Stone resting platform under a shade tree on a trail"
+    }
+  ],
+  "taste": {
+    "name": "Sisnu soup with millet dhido",
+    "text": "Stinging nettle, picked with tongs and cooked down with lentils or flour and spices into a green, earthy soup, eaten with thick millet dhido and ghee. Homestay kitchens around Panchase make it in season, and it tastes best after a cold day in the forest."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Nov, Feb – Apr"
+    ],
+    [
+      "Days we suggest",
+      "2–4"
+    ],
+    [
+      "Nearest airport",
+      "Pokhara International Airport (PHH)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 220 km · 7–9 h; via Pokhara"
+    ],
+    [
+      "Altitude",
+      "2,517 m (summit)"
+    ],
+    [
+      "Known for",
+      "Orchid forest, homestays, sunrise over the Annapurnas"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "2–3",
+  "highlights": [
+    {
+      "title": "Sunrise from Panchase top",
+      "text": "Climb from Panchase Bhanjyang in the dark to the 2,517 m summit for first light on Dhaulagiri, Annapurna South, Machhapuchhre and the Annapurnas, with Phewa Lake below to the east. Leave about an hour before sunrise with a headlamp."
+    },
+    {
+      "title": "Orchids in the forest",
+      "text": "Around 125 orchid species grow here, many on oak and rhododendron trunks. Spring and the monsoon bring the most flowers; a local guide can point out species most walkers miss. Do not pick plants; the forest is protected."
+    },
+    {
+      "title": "Homestays at Bhadaure",
+      "text": "Sleep in a Gurung or Magar family home, eat at the kitchen fire and walk the village in the evening. The homestays were set up to give families income from protecting the forest. Rooms are simple and meals are eaten with the family."
+    },
+    {
+      "title": "Pumdikot Shiva statue",
+      "text": "On the ridge between Phewa and Panchase, the Pumdikot viewpoint at about 1,500 m holds Nepal's second tallest Shiva statue, with views back over the lake to the Annapurnas. It is an easy stop on the first day of the trek, or a half-day trip by road."
+    },
+    {
+      "title": "Rhododendron in spring",
+      "text": "From March the upper forest flowers red with lali gurans. Panchase's rhododendrons are fewer than on Poon Hill's ridges but you will share them with almost no one. Late March and early April are usually best."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Jeeps and taxis drive from Pokhara to trailheads near Bhumdi and Bhadaure in 1–2 hours, and rough roads now reach some villages near the hill. A private jeep is easiest; local buses run to several villages but slowly. Your guide will choose the start based on your route."
+    },
+    {
+      "mode": "On foot",
+      "text": "A classic 3-day loop leaves Phewa's southern shore, climbs past Pumdikot and Bhumdi to Panchase Bhanjyang or Bhadaure, reaches the summit at dawn and descends back towards the lake. Days are 4–6 hours. Shorter 2-day versions start by jeep higher up."
+    }
+  ],
+  "where_to_stay": "Panchase has simple lodges at Panchase Bhanjyang below the summit and community homestays in villages such as Bhadaure Tamagi, with shared bathrooms, blankets and home-cooked dal bhat. Expect a family room in a stone or mud-brick house rather than a hotel. Bring a sleeping bag liner and a headlamp. In Pokhara before and after, Lakeside hotels such as Hotel Barahi, Temple Tree Resort and Fish Tail Lodge make an easy base.",
+  "stays": [],
+  "tips": [
+    "As we understand it Panchase lies outside the Annapurna Conservation Area and needs no ACAP permit; check current status before you travel.",
+    "Clouds often settle on the summit by mid-morning, so plan to be on top at dawn.",
+    "Leeches are common in the forest from June to September; carry salt or repellent.",
+    "Do not pick orchids or plants: the forest is protected and many species are rare.",
+    "Bring cash in small notes; homestays do not take cards."
+  ],
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "photography",
+    "slow-and-wellness"
+  ],
+  "nearby": [
+    "pokhara",
+    "sarangkot",
+    "begnas-lake"
+  ],
+  "experiences": [
+    {
+      "slug": "panchase-summit-sunrise",
+      "title": "Dawn climb to Panchase summit",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Dawn, Oct–Apr",
+      "image_query": "Panchase sunrise Annapurna view",
+      "wiki": "",
+      "summary": "Leave your lodge at Panchase Bhanjyang in the dark and climb through forest to the 2,517 m top for sunrise on Dhaulagiri, the Annapurnas and Machhapuchhre, with Phewa Lake and the Pokhara valley below. Allow 2–3 hours.",
+      "body": [
+        "The climb from Panchase Bhanjyang to the summit takes about an hour on a stone and earth trail, steep in places, through oak and rhododendron forest. Start with a headlamp around 5 am in autumn. The air smells of moss and wood smoke from the village below. Near the top the trees thin and the shrines and small ponds appear in the grey light. Walk at your own pace; there is no rush to arrive long before the light.",
+        "From the summit the view runs from Dhaulagiri in the northwest across Annapurna South, Hiunchuli, Machhapuchhre and Annapurna II, with Lamjung Himal and, on clear days, Manaslu further east. To the east the Pokhara valley and Phewa Lake catch the first sun. Because few trekkers come, you may have the top to yourself or share it with a handful of local pilgrims. On hazy spring mornings the peaks may be faint, but the forest and the quiet still make the climb worthwhile.",
+        "Stay until the cloud starts to rise, usually by 8 or 9 am, then come down for breakfast. Respect the shrines: walk around them clockwise, keep shoes off where locals do, and leave nothing behind. Some shrines have bells; ring them gently if locals do. On the way down, the forest is full of birdsong, and in March and April the rhododendrons around the summit are in flower. Back at the lodge, a hot breakfast of tea, eggs and roti waits by the stove."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "How high is Panchase?",
+          "a": "The summit of Panchase is 2,517 m, the highest point of the Panchase Protected Forest. Overnight stops below it, such as Panchase Bhanjyang and Bhadaure, are lower. The altitude poses little risk of altitude sickness for healthy walkers, but nights are cold from November to February and the final climb at dawn is steep. Carry warm layers."
+        },
+        {
+          "q": "Which mountains can you see from Panchase?",
+          "a": "On a clear morning you see Dhaulagiri, Annapurna South, Hiunchuli, Machhapuchhre, Annapurna II and IV, Lamjung Himal and sometimes Manaslu, with Phewa Lake and Pokhara below. The view is lower and further than from Poon Hill, but wider over the lakes. October, November and February give the clearest mornings."
+        },
+        {
+          "q": "Is the Panchase summit climb difficult?",
+          "a": "It is a steady hour uphill from Panchase Bhanjyang on a steep forest trail, in the dark if you go for sunrise. No technical skills are needed, but a headlamp, good shoes and care on wet roots are. Most reasonably fit walkers manage it easily. Your guide will set the start time according to the season."
+        }
+      ]
+    },
+    {
+      "slug": "panchase-orchid-forest-walk",
+      "title": "Orchid walk in the Panchase forest",
+      "kind": "nature",
+      "duration": "4 hours",
+      "best_time": "Morning, Mar–May and Jul–Sep",
+      "image_query": "orchid Panchase forest Nepal",
+      "wiki": "",
+      "summary": "A slow walk with a local guide through the Panchase Protected Forest, one of Nepal's richest orchid habitats, looking for some of its roughly 125 species on mossy oak and rhododendron trunks. Best with a local guide.",
+      "body": [
+        "Orchids are hard to see if you do not know where to look. Many are small epiphytes growing high on trees, flowering for a few weeks a year. Panchase's mix of subtropical and temperate forest, mist and moss suits them, and surveys have recorded around 125 species here, including three not known anywhere else. Many grow as epiphytes on tree trunks and branches, rooted in moss rather than soil, while others grow on rocks or the forest floor.",
+        "Walk with a local guide who knows the forest, and go slowly. Spring brings the first flowers and rhododendron; the monsoon months bring many more orchids, along with leeches and rain. Look at trunks, branches and mossy rocks, and use binoculars for the high ones. The forest also has birds such as laughingthrushes and, with luck, monkeys. A macro lens or a phone with close-up mode is useful for the smallest flowers.",
+        "The forest is protected: do not pick, dig or buy wild orchids, which are threatened by collectors. Photograph them instead. Finish at a homestay for tea and ask your hosts what the forest gave their grandparents: fodder, medicine, firewood and stories. Researchers have also recorded over 600 flowering plant species here, and local healers still collect some of them for medicine. Ask your guide to show you plants used in village households, and leave everything where it grows."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "When do orchids flower at Panchase?",
+          "a": "Different species flower at different times, but most flowering falls between spring, March to May, and the monsoon, July to September. Spring offers drier trails and rhododendrons as well. The monsoon has the most orchids but also rain, mud and leeches. A local guide can tell you what is in flower in a given week."
+        },
+        {
+          "q": "How many orchid species are found in Panchase?",
+          "a": "Botanical surveys of the Panchase Protected Forest have recorded around 125 orchid species among more than 600 flowering plants, making it one of the richest orchid sites in Nepal. Three orchids, including Eria pokharensis, are recorded only from this forest. Many are small and grow high on trees, so they are easy to miss without a guide."
+        },
+        {
+          "q": "Can I buy orchids in Nepal to take home?",
+          "a": "No. Wild orchids are protected, and collecting or exporting them without permits is illegal under Nepali law and international CITES rules. Plants sold by roadside sellers are often taken from the wild. Photograph them instead. If you love orchids, visit Panchase in flowering season or botanical gardens in Kathmandu."
+        }
+      ]
+    },
+    {
+      "slug": "panchase-bhadaure-homestay",
+      "title": "Village homestay at Bhadaure Tamagi",
+      "kind": "food",
+      "duration": "1 night",
+      "best_time": "Evening, Oct–May",
+      "image_query": "Bhadaure village Panchase homestay",
+      "wiki": "",
+      "summary": "A night with a family in the community homestay village of Bhadaure Tamagi below Panchase: help in the kitchen, eat millet dhido and nettle soup by the fire, walk the terraces at dusk and hear about life on the hill.",
+      "body": [
+        "Bhadaure Tamagi is one of the villages around Panchase that runs homestays as a community programme, so that visitor income reaches several households rather than one lodge. You arrive in the afternoon to a garland or tika, a cup of tea and a simple room in a family house, with a shared bathroom outside. The house may be stone or mud brick, with a slate or tin roof, a kitchen with a wood fire and animals in a shed below.",
+        "Spend the late afternoon walking the village with a family member: terraced fields of millet and maize, buffalo sheds, the school and the water tap where everyone meets. Then join the kitchen. You may grind spices on a stone, stir dhido in a heavy pot, or pick sisnu nettles with tongs for soup. Dinner is eaten by the fire. Expect dal bhat, seasonal vegetables, pickles and perhaps millet roti, cooked over the fire and served generously.",
+        "Evenings are quiet and early. Sometimes neighbours drop by to sing or dance with guests; it is informal and not every night. Ask questions about the forest, schooling and family members working abroad. Breakfast is tea, eggs or roti, and the family will point you up the trail to the summit. Pay in cash at the end of your stay, and leave nothing behind but thanks. A small gift of fruit, notebooks or pencils for children is welcome but never expected."
+      ],
+      "good_for": [
+        "families",
+        "solo",
+        "couples",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is a homestay in Panchase like?",
+          "a": "You sleep in a family's house, usually in a simple room with a bed and blankets, and share a bathroom, often a squat toilet outside. Meals are home-cooked dal bhat, dhido and seasonal vegetables eaten with the family. Expect basic comfort and real hospitality. Bring a sleeping bag liner, headlamp and small gifts such as fruit or school supplies if you like."
+        },
+        {
+          "q": "How do I book a homestay in Bhadaure Tamagi?",
+          "a": "Homestays are arranged through the village's community committee, usually by your guide or trekking agency in Pokhara, a day or two ahead. Arriving without notice may still work outside peak season, but booking ensures a room and a meal. Pay in cash in Nepali rupees."
+        },
+        {
+          "q": "Is a Panchase homestay suitable for children?",
+          "a": "Yes for children who are happy with simple facilities. They usually love the animals, fields and kitchen, and village children are curious and friendly. Bring snacks, a headlamp and warm clothes for evenings. Toilets are basic and hot water limited. Discuss any food needs in advance so the family can prepare suitable meals."
+        }
+      ]
+    },
+    {
+      "slug": "panchase-pumdikot-shiva-statue",
+      "title": "Pumdikot Shiva statue and ridge viewpoint",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Morning or late afternoon, Oct–Apr",
+      "image_query": "Pumdikot Shiva statue Pokhara",
+      "wiki": "Pumdikot Shiva Statue",
+      "summary": "Drive or walk up the ridge southwest of Phewa to Pumdikot, a viewpoint at about 1,500 m with the second tallest Shiva statue in Nepal, looking back over Pokhara's lake to the Annapurnas. An easy stop on the way to Panchase.",
+      "body": [
+        "Pumdikot sits on the ridge between Phewa Lake and the Panchase hills, part of the old Pumdi Bhumdi area that is now inside Pokhara. The viewpoint at about 1,500 m has a large modern statue of Shiva, seated and facing the mountains, the second tallest Shiva statue in Nepal after the Kailashnath Mahadev statue near Kathmandu. Steps lead up to a temple complex below it. The statue is visible from parts of Lakeside on clear days, a white figure on the green ridge.",
+        "Most Nepali visitors come to pray and take in the view: the whole of Phewa, Lakeside and Pokhara on one side, the Annapurnas and Machhapuchhre above, and the Panchase forest rising to the west. It is busy at weekends and during Shivaratri, when devotees climb in large numbers. Shivaratri, the night of Shiva in February or March, is the busiest time, with devotees from across the valley. On ordinary weekdays it is calm, with a few families and couples taking photographs.",
+        "You can drive up in about 45 minutes from Lakeside, or include it on the first day of a Panchase trek, walking up from the lake via Pumdi Bhumdi. Late afternoon light on the range is excellent. Dress modestly, remove shoes where asked, and keep voices low inside the temple area. Small shops near the car park sell tea and snacks. From here the trail to Panchase continues west through Bhumdi, and the forest begins soon after."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "first-timers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "How do I get to Pumdikot from Pokhara?",
+          "a": "By taxi or private car it takes about 45 minutes from Lakeside via Phewa's southern side and the Pumdi Bhumdi road. You can also walk up from the lake as part of a Panchase trek or a day hike, about 2–3 hours. Arrange a return taxi in advance if you drive up, as few wait at the top on weekdays."
+        },
+        {
+          "q": "Is there an entry fee at Pumdikot?",
+          "a": "A modest entry fee has been charged at the viewpoint area, with different rates for Nepali and foreign visitors. Carry small notes in Nepali rupees. Fees and rules change, so check at the gate. The temple area is a place of worship, so dress modestly, remove shoes where asked and avoid loud behaviour."
+        },
+        {
+          "q": "Is Pumdikot part of the Panchase trek?",
+          "a": "It can be. Many Panchase routes start from Phewa's southern shore and climb through Pumdi Bhumdi past the Pumdikot viewpoint before continuing to Bhumdi and Panchase Bhanjyang. Others start by jeep higher up and skip it. If you want to see the statue, tell your guide when planning the route."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is the Panchase trek?",
+      "a": "Most Panchase treks take 2–4 days from Pokhara. A 3-day loop climbs from Phewa via Pumdikot and Bhumdi to Panchase Bhanjyang or Bhadaure, reaches the summit at dawn and returns to the lake. Daily walking is 4–6 hours. Shorter versions start by jeep. It is one of the easiest multi-day treks near Pokhara."
+    },
+    {
+      "q": "Do I need a permit for the Panchase trek?",
+      "a": "As we understand it, Panchase lies outside the Annapurna Conservation Area, so no ACAP permit is required, and Panchase Protected Forest has no general trekker permit. Rules on TIMS cards and licensed guides have changed several times since 2023, and some routes link into ACAP areas. Check current status before you travel."
+    },
+    {
+      "q": "Is the Panchase trek suitable for beginners?",
+      "a": "Yes. The highest point is 2,517 m, daily walks are 4–6 hours, and villages and homestays break up each day. Trails include steep stone steps and forest paths, so basic fitness and good shoes help. It is a good first trek before longer routes. Children who walk regularly usually manage well with a slower pace."
+    },
+    {
+      "q": "What is the best time for the Panchase trek?",
+      "a": "October and November have the clearest views and dry trails. February to April brings rhododendrons and early orchids, with more haze. The monsoon, June to September, has the most orchids in flower but also rain, mud and leeches. December and January are clear but cold at the summit, with occasional frost."
+    },
+    {
+      "q": "What is Panchase famous for?",
+      "a": "Panchase is known for its protected forest with around 125 orchid species, sunrise views of Dhaulagiri and the Annapurnas, village homestays run by Gurung and Magar families, and the Pumdikot Shiva statue on the ridge towards Pokhara. It sees few foreign trekkers, so it suits people who want quiet trails and village life."
+    },
+    {
+      "q": "How does Panchase compare with Poon Hill?",
+      "a": "Poon Hill is higher, 3,210 m, closer to Dhaulagiri and Annapurna I, with bigger views and busier trails and lodges. Panchase is lower and quieter, with homestays rather than teahouses, more orchids and less crowding, and needs no ACAP permit as we understand it. Choose Poon Hill for the classic panorama, Panchase for solitude."
+    },
+    {
+      "q": "What should I pack for Panchase?",
+      "a": "Bring walking shoes, layers including a warm jacket for dawn, rain shell, headlamp, sleeping bag liner, water bottle with purification, sun hat, sunscreen and some snacks. From June to September add leech socks and repellent. Cash in small Nepali rupee notes is essential, as there are no ATMs or card payments on the hill."
+    },
+    {
+      "q": "Is there accommodation at Panchase?",
+      "a": "Yes, but simple. Small lodges at Panchase Bhanjyang below the summit and community homestays in villages such as Bhadaure Tamagi offer beds, blankets and home-cooked meals. Bathrooms are shared and hot water is limited. Book through your guide in busy months. It is a good way to see village life rather than a teahouse corridor."
+    },
+    {
+      "q": "Can I combine Panchase with other treks?",
+      "a": "Yes. Some walkers link Sarangkot and Kaskikot along the ridge to Panchase, or continue from Panchase towards Ghandruk and Poon Hill trailheads by jeep. Panchase also makes a good warm-up before Mardi Himal or Annapurna Base Camp. Your guide can plan a combined route depending on your days and fitness."
+    }
+  ]
+}

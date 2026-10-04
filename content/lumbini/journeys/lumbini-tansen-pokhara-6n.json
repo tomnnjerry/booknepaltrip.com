@@ -1,0 +1,198 @@
+{
+  "slug": "lumbini-tansen-pokhara-6n",
+  "title": "Lumbini to Pokhara via Tansen",
+  "region": "lumbini",
+  "kind": "overland",
+  "nights": 6,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "lakes-and-rivers",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "lumbini",
+      "nights": 2
+    },
+    {
+      "place": "tansen",
+      "nights": 1
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (flight from Pokhara)",
+  "price_from_usd": 1150,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1600,
+  "meta_description": "Lumbini, Tansen and Pokhara in 6 nights: the Buddha's birthplace, a night in an old hill capital, the Siddhartha Highway and Phewa Lake.",
+  "summary": "Six nights that climb from the plains to the mountains. Two nights at the Buddha's birthplace in Lumbini, one in the old hill capital of Tansen, then the Siddhartha Highway across the Kali Gandaki to three nights in Pokhara with Sarangkot sunrise and Phewa Lake. Fly in to Bhairahawa, fly out of Pokhara.",
+  "intro": [
+    "The Siddhartha Highway is named after the prince who was born at its southern end. It runs from the Indian border at Belahiya through Bhairahawa and Butwal, climbs to Tansen, crosses the Kali Gandaki and ends in Pokhara, about 180 km of road that takes you from 100 m to 800 m and from rice paddies to the foot of the Annapurnas. Most people fly over it. We drive it, slowly, with a night in the middle.",
+    "You start in Lumbini with two nights for the Sacred Garden and the monastic zones. Tansen gives you an evening in steep Newar lanes and a dawn on the ridge. Pokhara gives you the mountains: Machhapuchhre reflected in Phewa Lake, sunrise from Sarangkot and the white Peace Pagoda above the water. It is an easy, varied first week in Nepal and a good way to see how the country is stacked."
+  ],
+  "story": "On day one the land is flat and hot, the villages are Tharu and Madhesi, and the sound in the Sacred Garden is chanting in Pali, Tibetan and Korean. On day three the road leaves Butwal and the Tinau gorge closes in; within an hour you are among pines and Magar villages, and the air smells of woodsmoke. Tansen is a hill town of traders, weavers and metalworkers. On day four you cross the Kali Gandaki at Ramdi, a river that rises beyond the Himalaya in Mustang, then climb through Syangja's terraces until, near Pokhara, Machhapuchhre appears over the ridge. You have gone from the Buddha's birthplace to the snows in a week.",
+  "highlights": [
+    "Two unhurried days in Lumbini, including dawn chanting in the Sacred Garden",
+    "An evening and a morning in the Newar bazaar town of Tansen",
+    "The Siddhartha Highway across the Kali Gandaki, with stops for tea and views",
+    "Sunrise from Sarangkot over Dhaulagiri, Annapurna and Machhapuchhre",
+    "A rowing boat on Phewa Lake and the walk up to Pokhara's World Peace Pagoda"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Bhairahawa, Lumbini Sacred Garden",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 35 min flight · then ≈ 22 km · 40 min drive",
+      "text": "Fly from Kathmandu to Gautam Buddha International Airport at Bhairahawa and drive to Lumbini. After a rest through the midday heat, walk into the Sacred Garden with your guide: the Maya Devi Temple built over excavated brick shrines, the marker stone, the Ashoka pillar of 249 BCE with its Brahmi inscription, and the Puskarini pond. Stay until the butter lamps are lit and the light goes soft over the prayer flags.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Lumbini's monastic zones",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 10 km by bicycle or e-rickshaw",
+      "text": "Go back to the Sacred Garden at dawn, then spend the cooler morning hours cycling or riding an e-rickshaw through the monastic zones. The East zone holds the Theravada monasteries of Thailand and Myanmar; the West zone the Mahayana and Vajrayana temples of China, Korea, Vietnam and the Tibetan traditions. Rest after lunch. In the late afternoon visit the Lumbini Museum and the World Peace Pagoda at the north end of the canal.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Up the Siddhartha Highway to Tansen",
+      "place": "tansen",
+      "overnight": "Tansen",
+      "alt_m": 1350,
+      "move": "≈ 90 km · 3 h drive",
+      "text": "Drive to Butwal, where the plains end abruptly at the Chure hills, and climb the winding Siddhartha Highway through sal and pine forest to Tansen. Check in at Hotel Srinagar on the ridge. In the afternoon walk the stone-paved lanes of the bazaar with your guide: the Amar Narayan temple of 1806, the great gate of the Tansen Durbar, and the workshops where dhaka cloth is woven and karuwa jugs are made. Evenings here are cool, even in spring.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Across the Kali Gandaki to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 120 km · 5–6 h drive",
+      "text": "Watch sunrise from Shreenagar Danda, then drive north. The road drops to the Kali Gandaki at Ramdi, where the river runs wide and green between steep hills, then climbs through the terraced hills of Syangja, past Waling and Putalibazaar. Stop for tea and for the first view of the Annapurnas. Arrive in Pokhara in the afternoon and check in at Temple Tree Resort in Lakeside. Walk along Phewa Lake at sunset.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Sarangkot sunrise and the Peace Pagoda",
+      "place": "sarangkot",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 30 km by car · ≈ 1.5 h walking",
+      "text": "Drive up to Sarangkot before dawn for sunrise over Dhaulagiri, the Annapurnas and the fishtail peak of Machhapuchhre, which is held sacred and closed to climbers. After breakfast, take a rowing boat across Phewa Lake, stopping at the island temple of Tal Barahi, and walk up through forest to the World Peace Pagoda, built by Nipponzan Myohoji, the same Japanese order behind Lumbini's pagoda. Afternoon free. The lake is calmest early in the day, so we time the boat for mid-morning.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Tibetan settlement and old Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 25 km in total by car",
+      "text": "Visit one of the Tibetan settlements founded around Pokhara after 1959, where you can see carpet weaving and the morning prayers at the monastery. Continue to the old bazaar, away from Lakeside, for the Bhimsen temple and the Bindhyabasini temple on its hillock. The afternoon is yours: a massage, a lakeside café or a short paraglide from Sarangkot, which we can book separately. Lakeside has good cafés and bookshops, and the lake path north of the main strip is quiet in the evenings.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Fly Pokhara to Kathmandu",
+      "place": "pokhara",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 25 min flight",
+      "text": "Transfer to Pokhara airport for the short flight to Kathmandu. On a clear morning sit on the left side of the plane for a view along the Himalaya, from the Annapurnas to Manaslu and Ganesh Himal. We meet you in Kathmandu and drive you to your hotel or onward to an international departure. If you prefer to extend, our Kathmandu Valley journeys pick up from here. Pokhara's flights are often delayed by cloud in the afternoon, so we book the earliest one we can.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "buddha-maya-garden-hotel",
+    "hotel-srinagar-tansen",
+    "temple-tree-resort"
+  ],
+  "includes": [
+    "Economy flights Kathmandu–Bhairahawa and Pokhara–Kathmandu",
+    "6 nights twin sharing with breakfast: 2 at Buddha Maya Garden Hotel, 1 at Hotel Srinagar, 3 at Temple Tree Resort",
+    "Private car with driver from Bhairahawa to Pokhara and for sightseeing",
+    "Licensed English-speaking guide throughout",
+    "Sacred Garden entry, Phewa Lake boat and Peace Pagoda visit",
+    "Airport transfers in Kathmandu and Pokhara"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Lunches and dinners",
+    "Paragliding and other optional activities",
+    "Tips for guide and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "The Tansen–Pokhara road is winding; take motion-sickness tablets if you need them.",
+    "Mountain views are clearest from October to early December and least likely from June to September.",
+    "Lumbini can be 15–20 °C warmer than Tansen on the same day; pack layers.",
+    "Monsoon landslides sometimes close the Siddhartha Highway for hours; check current status before you travel.",
+    "You can reverse the route and start in Pokhara; prices are the same."
+  ],
+  "faqs": [
+    {
+      "q": "How long is the drive from Lumbini to Pokhara?",
+      "a": "About 180 km along the Siddhartha Highway, usually 7–8 hours of driving without stops. We break it with a night in Tansen, so neither day is long: about 3 hours from Lumbini to Tansen, and 5–6 hours from Tansen to Pokhara with tea and view stops. Road works and monsoon landslides can add time."
+    },
+    {
+      "q": "Why stop in Tansen instead of driving straight through?",
+      "a": "Tansen sits almost exactly halfway and is worth a night on its own merits: an old hill capital with Newar lanes, the Amar Narayan temple, dhaka weavers and karuwa makers, and a ridge with Himalayan views. Breaking the drive there also makes the trip far more comfortable, especially for families and older travellers."
+    },
+    {
+      "q": "Can I fly instead of drive between Lumbini and Pokhara?",
+      "a": "There are no regular direct flights between Bhairahawa and Pokhara; you would fly via Kathmandu, which takes most of a day anyway. The drive is the better choice. It shows you the change from the plains to the hills and the Kali Gandaki valley, and stops in Tansen."
+    },
+    {
+      "q": "Will I see the mountains from Pokhara?",
+      "a": "On most mornings from October to April, yes. Machhapuchhre, Annapurna South and the Annapurna range stand directly north of Phewa Lake, and Sarangkot adds Dhaulagiri to the west. From June to September clouds usually hide them, though early mornings sometimes clear. Spring haze can soften views from late March."
+    },
+    {
+      "q": "Is this trip suitable for children?",
+      "a": "Yes. The flying is short, the drives are broken up and the activities are gentle: cycling in Lumbini, walking in Tansen, boats and short hikes in Pokhara. Children usually love the monasteries' colours and prayer wheels, the Phewa Lake boats and the early start for Sarangkot. We can add a child seat to the car on request."
+    },
+    {
+      "q": "What is the Siddhartha Highway?",
+      "a": "It is the road that runs north from the Indian border at Belahiya through Bhairahawa, Butwal and Tansen to Pokhara, named after Siddhartha Gautama, the Buddha, who was born near its southern end. It was built in the 1960s and 1970s with Indian assistance and is still the main road link between Lumbini and Pokhara."
+    },
+    {
+      "q": "Where do we stay in Pokhara?",
+      "a": "At Temple Tree Resort and Spa in Lakeside, a short walk from Phewa Lake, with stone-and-wood buildings around a garden and pool. Lakeside is where the cafés and boat jetties are, and it is the easiest base for Sarangkot and the Peace Pagoda. We can upgrade to Fish Tail Lodge or The Pavilions Himalayas on request."
+    },
+    {
+      "q": "Can I add a short trek from Pokhara?",
+      "a": "Yes. Two or three extra nights let you add an easy trek, such as Dhampus and the Australian Camp ridge or a walk up to Panchase. Since April 2023 foreign trekkers in conservation areas need a licensed guide; you already have one with us. Check current status before you travel, and ask us for a re-quote."
+    },
+    {
+      "q": "What is the best time of year for this route?",
+      "a": "October to March is ideal: comfortable heat in Lumbini, cool clear days in Tansen and Pokhara, and the best mountain views in October and November. April is still good but hot on the plains. From May to September Lumbini is very hot and the monsoon brings rain and possible road delays."
+    }
+  ]
+}

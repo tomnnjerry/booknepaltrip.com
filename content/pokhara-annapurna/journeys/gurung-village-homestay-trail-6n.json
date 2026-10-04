@@ -1,0 +1,194 @@
+{
+  "slug": "gurung-village-homestay-trail-6n",
+  "title": "Gurung Village Homestay Trail",
+  "region": "pokhara-annapurna",
+  "kind": "culture",
+  "nights": 6,
+  "themes": [
+    "villages-and-homestays",
+    "treks-and-trails",
+    "food-and-festivals",
+    "crafts-and-makers"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 2
+    },
+    {
+      "place": "dhampus",
+      "nights": 2
+    },
+    {
+      "place": "ghandruk",
+      "nights": 2
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 600,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 2060,
+  "meta_description": "Gurung village homestay trail in 6 nights from Pokhara: Dhampus, Landruk and Ghandruk, family kitchens, millet fields, weaving and the Gurkha story at home.",
+  "summary": "Six nights walking short days between Gurung villages on the south side of the Annapurnas: Dhampus, Landruk and two nights in Ghandruk, sleeping in family homes and community homestays, cooking in their kitchens, and hearing the stories of farming, weaving and Gurkha service from the people who live them.",
+  "intro": [
+    "The Gurung, who call themselves Tamu, have farmed the slopes below Annapurna and Lamjung Himal for centuries, and their villages are among the best-kept in the hills: slate roofs, flagstone courtyards, carved windows, and paths paved with stone. Many families have a grandfather or uncle who served in the British or Indian Gurkhas, and the pensions from that service paid for schools, water taps and many of the lodges you see today.",
+    "This walk is about villages rather than summits. Days are three to five hours, leaving afternoons for the households you stay with: helping with fodder, learning to make millet roti, watching a woman weave on a back-strap loom. The highest night is near 2,060 m at Australian Camp, so altitude is not a concern. Your guide translates and helps you join in without getting in the way. Porters carry the bags."
+  ],
+  "story": "You start in Pokhara with a visit to the Gurkha Memorial Museum to hear how two centuries of recruitment shaped these hills. Then a short drive and a stone stair bring you to Dhampus, a ridge village spread among terraces, where your first host family lights the fire for tea. The next day the trail runs through forest to Landruk, perched above the Modi Khola gorge, facing Ghandruk across the valley. You drop to the river and climb the other side to Ghandruk, the largest Gurung village of Kaski, where you stay two nights. Here the old life is still visible behind the lodges: women carrying doko baskets of grass, the rhythm of the dhiki rice pounder. Some evenings there is a rodhi, the Gurung tradition of young people gathering to sing and dance.",
+  "highlights": [
+    "Two nights with families in Ghandruk, the largest Gurung village of Kaski",
+    "The forest walk from Dhampus to Landruk above the Modi Khola gorge",
+    "Cooking millet roti, dhido and gundruk in a family kitchen",
+    "Back-strap weaving of the Gurung bhangra cloth",
+    "The Gurkha Memorial Museum in Pokhara and stories of service in village homes"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara, Gurkha Museum",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "",
+      "text": "We meet you in Pokhara and take you to your hotel. In the afternoon we visit the Gurkha Memorial Museum, which tells the story of Gurkha soldiers from the first recruitment after the Anglo-Nepalese War of 1814 to 1816 to service today, with medals, uniforms and the records of Victoria Cross holders. Your guide, often from a Gurung family, explains how the Tamu villages ahead relate to this history. Evening walk along the lake.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Drive to Phedi, climb to Dhampus",
+      "place": "dhampus",
+      "overnight": "Dhampus homestay",
+      "alt_m": 1650,
+      "move": "≈ 45 min drive · then ≈ 2 h walk · +500 m",
+      "text": "A short drive west to Phedi on the Baglung road, then a stone staircase up through forest and terraces to Dhampus, a long village spread along a ridge with the Annapurnas in front. We arrive in time for lunch with our host family. In the afternoon walk through the village with your host: the school built with community money, the water mill, the fields of millet and maize. In the evening help with dinner over the fire.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dhampus to Landruk via Australian Camp",
+      "place": "dhampus",
+      "overnight": "Landruk homestay",
+      "alt_m": 1565,
+      "move": "≈ 5 h walk · +400 m / −500 m",
+      "text": "We climb gently to Australian Camp, about 2,060 m, for a big view of Machhapuchhre, then walk through Pothana and Bheri Kharka in forest of oak and rhododendron, and down to Landruk, a Gurung village above the Modi Khola gorge. Across the valley, Ghandruk spreads up its hillside. Our hosts in Landruk keep goats and buffalo, and grow millet for the evening's roti and for the local brew. Before dinner, sit with the grandmother of the house as she sorts the day's vegetables and ask about the old days.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Across the Modi Khola to Ghandruk",
+      "place": "ghandruk",
+      "overnight": "Ghandruk homestay",
+      "alt_m": 1940,
+      "move": "≈ 4–5 h walk · −250 m / +600 m",
+      "text": "Down through terraces to the Modi Khola, across the suspension bridge below Landruk, and up the other side on a long stone stair to Ghandruk. It is hard work in the afternoon sun, but the village at the top repays it: slate roofs stacked up the slope and Annapurna South and Hiunchuli above. We stay with a family in the old part of the village, away from the lodges. Dinner is in their kitchen, around the fire.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "A day in Ghandruk",
+      "place": "ghandruk",
+      "overnight": "Ghandruk homestay",
+      "alt_m": 1940,
+      "move": "≈ 3 h of village walks",
+      "text": "A slow day. Visit the Gurung museum in a traditional house, with its farm tools, baskets and ceremonial dress. Spend time with women weaving bhangra, the cloth woven from allo, Himalayan nettle fibre, worn as a carrying wrap, and learn how the back-strap loom works. Walk to the upper village for the view. If the village holds a rodhi gathering or a cultural evening, you are welcome. A local ex-serviceman may share his story of life in the regiment.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Back to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "≈ 30 min walk · then ≈ 2.5 h drive",
+      "text": "We say goodbye to our host family and walk down to the jeep road below the village, then drive back via Kimche and Nayapul to Pokhara. The afternoon is free. A good way to end is with a Gurung dinner in Pokhara, where several family-run kitchens serve village food to Gurung workers and students from the hills. Ask your guide to take you to one; a plate of dhido and local chicken costs a few hundred rupees.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "",
+      "text": "The trip ends after breakfast with a transfer to Pokhara airport or bus park. If you have more time, combine this walk with the Poon Hill trek, which continues from Ghandruk via Tadapani to Ghorepani, or with a few slow days on the lakes. We can also connect you to Chitwan or Bandipur. Many guests keep in touch with their host families through their guide after they go home. We can pass on letters and photos.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights in a 3-star hotel in Pokhara Lakeside",
+    "4 nights in family homestays with all meals",
+    "Licensed English-speaking guide and porter for two guests",
+    "Entry to the Gurkha Memorial Museum and Ghandruk Gurung museum",
+    "ACAP entry permit and any trekking card required at the time of travel",
+    "Road transfers Pokhara–Phedi and Ghandruk–Pokhara",
+    "A cooking session and a weaving demonstration in Ghandruk"
+  ],
+  "excludes": [
+    "Travel to and from Pokhara",
+    "Lunch and dinner in Pokhara except the first dinner",
+    "Drinks, donations and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers in the Annapurna Conservation Area must walk with a licensed guide; check current status before you travel.",
+    "Homestays have simple rooms and shared bathrooms; hot water may be by bucket.",
+    "Ask before photographing people, and avoid photographing inside kitchens and shrines unless invited.",
+    "A small gift such as notebooks for children or fruit from Pokhara is welcome, but money gifts are not expected.",
+    "Remove shoes before entering a kitchen; the hearth is considered pure."
+  ],
+  "faqs": [
+    {
+      "q": "Who are the Gurung people?",
+      "a": "The Gurung, who call themselves Tamu, are an ethnic group of the central hills of Nepal, mainly in Kaski, Lamjung, Gorkha, Syangja and Manang. They speak Gurung, a Tibeto-Burman language, and follow a mix of Buddhism, Hinduism and the older shamanic traditions of their own Pachyu and Klehpree priests. Many Gurung men have served in the British and Indian Gurkha regiments."
+    },
+    {
+      "q": "What is a homestay like in a Gurung village?",
+      "a": "You sleep in a guest room in a family house, usually with clean bedding and a shared bathroom. Meals are eaten with the family, often in the kitchen around the hearth: dal bhat, seasonal greens, millet roti and pickles. Hosts are used to guests but life goes on as usual, so you see the real rhythm of the day."
+    },
+    {
+      "q": "Is Ghandruk a Gurung village?",
+      "a": "Yes. Ghandruk is one of the largest Gurung villages in Kaski district, at about 1,940 m, facing Annapurna South and Machhapuchhre. Its stone and slate houses, museum and community-run conservation projects make it a model village for the Annapurna Conservation Area. Many lodge owners are from families with Gurkha service."
+    },
+    {
+      "q": "How fit do I need to be for this homestay trail?",
+      "a": "Moderately fit. Days are three to five hours on stone steps and village paths, with one hard climb from the Modi Khola up to Ghandruk of about 600 m. The highest point is about 2,060 m. Anyone who walks regularly will manage, and porters carry the luggage."
+    },
+    {
+      "q": "What should I bring as a gift for a homestay family?",
+      "a": "Gifts are not expected, but small things are appreciated: fruit or sweets from Pokhara, notebooks and pencils for children, or a photo of your home. Avoid giving money directly or handing out sweets to children in the street. The fee you pay through us goes to the family."
+    },
+    {
+      "q": "What food will I eat in Gurung homes?",
+      "a": "Expect dal bhat with rice, lentils, vegetables and pickles, plus village foods like dhido, a thick millet or buckwheat porridge, millet roti, gundruk soup made from fermented greens, and seasonal stinging-nettle soup. Families may offer local alcohol made from millet. Vegetarians are easily catered for."
+    },
+    {
+      "q": "Do I need permits for this trail?",
+      "a": "Yes. Dhampus, Landruk and Ghandruk are inside the Annapurna Conservation Area, so you need the ACAP permit, NPR 3,000 for foreign nationals at last check. Under rules in force since April 2023 you also need a licensed guide. Check current status before you travel. We arrange both."
+    },
+    {
+      "q": "What is a rodhi in Gurung culture?",
+      "a": "Rodhi is a traditional Gurung gathering where young people met in the evening to sing, dance and socialise, sometimes in a special house. It was also a space for courtship and community work. Today rodhi survives in cultural evenings and festivals, and some villages perform it for visitors. It is a living tradition, not a show."
+    },
+    {
+      "q": "When is the best time for the Gurung homestay trail?",
+      "a": "October to December has clear views and harvest activity, including millet harvest in November. March and April bring rhododendrons and planting. Tamu Lhosar, the Gurung New Year, falls around 30 December and is a festive time to visit. Monsoon months are wet, with leeches on forest paths."
+    }
+  ]
+}

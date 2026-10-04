@@ -1,0 +1,42 @@
+{% load yatra %}<section class="sec" id="story">
+  <div class="wrap chapters">
+    <nav class="chapters__nav" aria-label="Chapters">
+      <a href="#ch-story"><span class="deva">१</span>The story</a>
+      {% if obj.legend %}<a href="#ch-legend"><span class="deva">२</span>The legend</a>{% endif %}
+      <a href="#ch-people"><span class="deva">३</span>The people</a>
+      <a href="#ch-words"><span class="deva">४</span>Words you will hear</a>
+      <a href="#ch-taste"><span class="deva">५</span>What to eat</a>
+      <a href="#ch-untold"><span class="deva">६</span>Few people know</a>
+    </nav>
+    <div>
+      <article class="chapter" id="ch-story">
+        <div class="chapter__k"><span class="deva">१</span><span class="mono">The story of {{ obj.name }}</span></div>
+        <h2>{{ obj.story.title }}</h2>
+        <div class="read prose">{% for para in obj.story.paras %}<p{% if forloop.first %} class="drop"{% endif %}>{{ para }}</p>{% endfor %}</div>
+      </article>
+      {% if obj.legend %}<article class="chapter" id="ch-legend">
+        <div class="chapter__k"><span class="deva">२</span><span class="mono">The legend</span></div>
+        <div class="pothi"><span class="pothi__rule pothi__rule--l"></span><span class="pothi__rule pothi__rule--r"></span><span class="mono">As it is told{% if obj.name_ne %} · {{ obj.name_ne }}{% endif %}</span><p>{{ obj.legend }}</p></div>
+      </article>{% endif %}
+      <article class="chapter" id="ch-people">
+        <div class="chapter__k"><span class="deva">३</span><span class="mono">The people</span></div>
+        <div class="people"><span class="badge">{% icon "people" %}</span><div><h2 class="h-m">Who lives here</h2><p style="margin:0">{{ obj.people }}</p>{% if obj.local_name %}<p class="small muted" style="margin:10px 0 0">Local name: <b>{{ obj.local_name }}</b></p>{% endif %}</div></div>
+      </article>
+      <article class="chapter" id="ch-words">
+        <div class="chapter__k"><span class="deva">४</span><span class="mono">Words you will hear</span></div>
+        <div class="words">{% for w in obj.local_words %}<div class="word" style="--wc: {% cycle 'var(--lung-blue)' 'var(--lung-red)' 'var(--lung-green)' 'var(--lung-yellow)' '#B8B09A' %}"><span class="word__lang">{{ w.lang }}</span><div class="word__script">{{ w.script|default:w.word }}</div><div class="word__roman">{{ w.word }}</div><p>{{ w.meaning }}</p></div>{% endfor %}</div>
+        <p class="small" style="margin-top:12px"><a class="link-arrow" href="{% url 'words' %}">Every word on this site {% icon "arrow" %}</a></p>
+      </article>
+      {% if obj.taste.name %}<article class="chapter" id="ch-taste">
+        <div class="chapter__k"><span class="deva">५</span><span class="mono">What to eat</span></div>
+        <div class="taste"><div class="taste__plate">{% icon "food" %}</div><div><h3>{{ obj.taste.name }}</h3><p style="margin:0">{{ obj.taste.text }}</p></div></div>
+      </article>{% endif %}
+      <article class="chapter" id="ch-untold">
+        <div class="chapter__k"><span class="deva">६</span><span class="mono">Few people know</span></div>
+        <h2>Things most guides leave out</h2>
+        <div class="notes">{% for u in obj.untold %}<div class="note"><div><p>{{ u.fact }}</p><small>{{ u.source }}</small></div></div>{% endfor %}</div>
+        <p class="small" style="margin-top:12px"><a class="link-arrow" href="{% url 'untold' %}">Untold Nepal, region by region {% icon "arrow" %}</a></p>
+      </article>
+    </div>
+  </div>
+</section>

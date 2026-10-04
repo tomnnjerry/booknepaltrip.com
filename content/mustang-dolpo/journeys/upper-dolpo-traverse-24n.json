@@ -1,0 +1,377 @@
+{
+  "slug": "upper-dolpo-traverse-24n",
+  "title": "Upper Dolpo traverse via Shey Gompa",
+  "region": "mustang-dolpo",
+  "kind": "trek",
+  "nights": 24,
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "lakes-and-rivers",
+    "heritage-and-temples"
+  ],
+  "grade": "Strenuous",
+  "stops": [
+    {
+      "place": "shey-phoksundo",
+      "nights": 15
+    },
+    {
+      "place": "dho-tarap",
+      "nights": 8
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 7500,
+  "best_months": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    0,
+    0
+  ],
+  "pace": "Active",
+  "max_altitude_m": 5360,
+  "meta_description": "Upper Dolpo traverse, 24 nights: Phoksundo Lake, Kang La to Shey Gompa, Saldang and Dho Tarap. Full camping trek with restricted permit and licensed crew.",
+  "summary": "A 24-night camping traverse of Upper Dolpo for experienced trekkers: Phoksundo Lake, the Kang La to Shey Gompa and the Crystal Mountain, the villages of the Nangkhong valley around Saldang, Jeng La into the Tarap valley, and out down the Tarap gorge. Three passes above 5,000 m and no roads.",
+  "intro": [
+    "Upper Dolpo is the Dolpo of books and film. Peter Matthiessen walked to Shey Gompa in 1973 with the biologist George Schaller and wrote The Snow Leopard about it; Eric Valli filmed Himalaya, later released as Caravan, among Dolpo's salt caravans in the late 1990s. Neither the land nor the way of life has changed as much as you might expect: villages of flat-roofed stone houses, Bon and Buddhist monasteries, yak caravans and barley fields at over 4,000 m.",
+    "This traverse is a serious expedition. You spend more than three weeks on foot, sleep in tents most nights, and cross three passes between 5,090 and 5,360 m. In return you see places few outsiders reach: the turquoise of Phoksundo, the red walls of Shey Gompa under the Crystal Mountain, the long valley of Saldang and the high Tarap valley. Upper Dolpo needs a restricted-area permit of USD 500 for the first 10 days; check current status before you travel."
+  ],
+  "story": "You start where the Lower Dolpo trekkers do, among walnut trees and Hindu villages above the Thuli Bheri. Within a week you are on the cliff path above Phoksundo Lake, the one Matthiessen described, cut into rock above deep blue water. Beyond the lake the trees stop. The Kang La drops you into Shey, a red monastery under a mountain the Dolpo-pa circle as pilgrims, and from there you move from valley to valley over passes, each village more remote than the last: Namgung's cliff gompa, Saldang's long line of houses, Namdo and Sibu among fields of barley. At Dho Tarap you meet trekkers again for the first time in a fortnight, and the Tarap gorge takes you down, step by step, into forest and warm air.",
+  "highlights": [
+    "The cliff trail along the west shore of Phoksundo Lake",
+    "Shey Gompa and the Crystal Mountain, the setting of The Snow Leopard",
+    "Saldang, Namgung and Namdo in the Nangkhong valley, among the highest villages in Nepal",
+    "Three high passes: Kang La (5,360 m), Saldang La (5,200 m) and Jeng La (5,090 m)",
+    "Dho Tarap and the descent of the Tarap Khola gorge"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu to Nepalgunj",
+      "place": "",
+      "overnight": "Nepalgunj",
+      "alt_m": 150,
+      "move": "≈ 1 h flight",
+      "text": "We fly west to Nepalgunj in the Terai, the hub for flights into Karnali. Your guide, cook and crew leader meet you here. We check permits, weigh duffels for the small plane and go through your kit: a sleeping bag rated to −20 °C, a down jacket, good boots and gaiters. Dinner at the hotel and an early night; the Juphal flight leaves at first light, when the hills are calmest.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Juphal, walk to Dunai",
+      "place": "",
+      "overnight": "Dunai",
+      "alt_m": 2140,
+      "move": "≈ 40 min flight · ≈ 3 h walk",
+      "text": "The flight lands on Juphal's short airstrip at about 2,475 m. While the crew loads mules, we walk down through terraces and walnut groves to the Thuli Bheri river and on to Dunai, the district headquarters, where permits are checked. A short first day to start the body adjusting. The town has a bazaar where the crew buys final supplies. Your guide checks everyone after the flight and keeps the pace easy, since today is about adjusting rather than distance. The first evening on the trail is often the noisiest, with mule bells and the crew settling in.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dunai to Chhepka",
+      "place": "",
+      "overnight": "Chhepka",
+      "alt_m": 2720,
+      "move": "≈ 6 h walk · +580 m",
+      "text": "We cross the Thuli Bheri and turn north up the Phoksundo Khola, past Sulighat, into the national park. The trail runs through pine and walnut, with Hindu villages giving way to Buddhist ones as we climb. Chhepka is a small village with fields and a camping ground beside the river, our first night under canvas. The crew sets up the dining tent, and the cook makes the first of many good meals on the trail.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Chhepka to Rechi",
+      "place": "",
+      "overnight": "Rechi",
+      "alt_m": 2940,
+      "move": "≈ 5 h walk · +220 m",
+      "text": "A gentle day upriver through forest of birch, pine and bamboo, with frequent bridges. Watch for langurs in the trees and for the first chortens that mark the change to Dolpo-pa country. Rechi is a quiet camping place by the river. The short day is deliberate: we are climbing slowly to give the body time before the high country. In the evening the crew lights a fire if wood is allowed, and the sound of the river fills the valley.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Rechi to Ringmo and Phoksundo",
+      "place": "shey-phoksundo",
+      "overnight": "Ringmo, Phoksundo Lake",
+      "alt_m": 3640,
+      "move": "≈ 5 h walk · +700 m",
+      "text": "The climb to the lake passes the tall waterfall where the Phoksundo Khola falls from the lake basin. Then, over a ridge, the lake appears: deep turquoise at about 3,610 m, with Ringmo's stone houses at its southern end. We camp near the village. Ringmo's people are Bon followers, and their monastery stands on the lakeshore a short walk away. In the evening, walk to the edge of the water as the light fades and the lake turns from turquoise to deep blue.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Rest day at Phoksundo",
+      "place": "shey-phoksundo",
+      "overnight": "Ringmo, Phoksundo Lake",
+      "alt_m": 3640,
+      "move": "Optional walks of 2–4 h",
+      "text": "A rest and acclimatisation day. Visit the Bon monastery on the shore, where monks walk around the shrine anticlockwise, the reverse of Buddhist practice. Walk a short way along the lakeshore for views back to the village, or climb the slope above Ringmo for a high view of the whole lake. The crew washes, repacks and prepares for the wild country ahead. In the evening, check boots and layers: from here on, the nights are much colder and the trail far more remote.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "West shore trail to Phoksundo Khola",
+      "place": "shey-phoksundo",
+      "overnight": "Phoksundo Khola camp",
+      "alt_m": 3750,
+      "move": "≈ 5 h walk · +110 m",
+      "text": "Today follows the famous trail along the west shore of the lake, a ledge built into the cliff with steep drops to the water, described by Matthiessen in The Snow Leopard. Mules cross it carefully, and so do we. At the north end, the trail enters the wide gravel valley of the Phoksundo Khola, where we camp among scrub and boulders. Tonight's camp is quiet and wild, and the stars are bright on clear nights.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Up the valley to the Kang La camp",
+      "place": "",
+      "overnight": "Phoksundo Bhanjyang camp",
+      "alt_m": 4400,
+      "move": "≈ 6 h walk · +650 m",
+      "text": "We follow the river upstream, crossing it several times, then climb a side valley toward the pass. The vegetation gives out to grass, stone and snow patches. Camp is high and cold, often well below freezing at night. Your guide checks everyone's oxygen level and how they feel before deciding on tomorrow's crossing. Hot drinks, an early dinner and an early night prepare you for the crossing. The crew checks the weather and the snow on the pass before deciding on the start time.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Over Kang La to Shey Gompa",
+      "place": "",
+      "overnight": "Shey Gompa",
+      "alt_m": 4390,
+      "move": "≈ 7 h walk · +960 m, −970 m",
+      "text": "We start before dawn for the long, steep climb to the Kang La at about 5,360 m, the highest point of the trek. Snow and scree near the top make it slow. The view from the pass reaches across the brown ranges of Upper Dolpo. A long descent leads to a river valley and Shey Gompa, a red monastery beside a wooden bridge and fields of prayer stones, under the Crystal Mountain.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Shey Gompa and the Crystal Mountain",
+      "place": "",
+      "overnight": "Shey Gompa",
+      "alt_m": 4390,
+      "move": "Optional walks of 3–5 h",
+      "text": "A day at Shey. Dolpo-pa pilgrims walk a kora around the Crystal Mountain to earn merit; we walk part of it. Climb to Tsakang, a hermitage built into the cliff above Shey, which Matthiessen visited. Blue sheep graze the slopes here, the animals Schaller came to study, and snow leopards hunt them, though they are almost never seen. In the afternoon, rest in camp and enjoy one of the quietest places you will ever stay.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Over Saldang La to Namgung",
+      "place": "",
+      "overnight": "Namgung",
+      "alt_m": 4430,
+      "move": "≈ 7 h walk · +810 m, −770 m",
+      "text": "From Shey we climb through bare, rolling country to the Saldang La at about 5,200 m, with views north toward the Tibetan border. The descent leads down to Namgung, a small village with a monastery built against a cliff, its red walls visible from far up the valley. Yak and goat herds come down to the village in the evening. It is a long, hard day, so the crew serves hot soup as soon as you reach camp.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Namgung to Saldang",
+      "place": "",
+      "overnight": "Saldang",
+      "alt_m": 3770,
+      "move": "≈ 4 h walk · −660 m",
+      "text": "A shorter day down to Saldang, the largest village in the Nangkhong valley, strung out along a terrace high above the river. Houses are flat-roofed and stacked with firewood and dung for winter. Saldang's families trade with Tibet over the northern passes, and the village is a waypoint for salt and grain caravans. The camp is close to the village, and children are often curious about the tents. Ask before photographing people or homes.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "A day in Saldang",
+      "place": "",
+      "overnight": "Saldang",
+      "alt_m": 3770,
+      "move": "Optional walks of 2–4 h",
+      "text": "A rest day among people. Visit the village monastery and the chortens at either end of the village, and watch the work of the season: harvesting barley, threshing on flat roofs, spinning wool. If invited into a home, you will be offered butter tea and tsampa. Our guide translates and helps you ask the questions you have been storing up since Shey. The day ends with dinner in the mess tent, as the crew prepares for the next section of the route.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Saldang to Sibu via Namdo",
+      "place": "",
+      "overnight": "Sibu",
+      "alt_m": 3940,
+      "move": "≈ 6 h walk · +170 m",
+      "text": "We walk down the valley to Namdo, a long village on the hillside with a monastery above it, and continue to Sibu, a small settlement with fields and a camping place by the river. The valley is wide and the walking easy. In autumn, caravans of yaks may pass carrying grain north and salt south, as they have for centuries. The afternoon is free for rest and laundry in the sun.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 15,
+      "title": "Sibu to Jeng La base",
+      "place": "",
+      "overnight": "Jeng La phedi",
+      "alt_m": 4370,
+      "move": "≈ 6 h walk · +430 m",
+      "text": "We follow the river upstream, then turn south toward the Jeng La. The trail is gentle until the last climb to camp, a grassy flat at the foot of the pass used by herders. A cold, clear night, with the Milky Way bright overhead. The crew serves an early dinner so we can start before sunrise. Your guide checks oxygen levels and weather before confirming the crossing. Sleep early and keep water bottles inside your sleeping bag so they do not freeze.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 16,
+      "title": "Over Jeng La to Tokyu",
+      "place": "",
+      "overnight": "Tokyu",
+      "alt_m": 4240,
+      "move": "≈ 6 h walk · +720 m, −850 m",
+      "text": "We climb about two hours to the Jeng La at 5,090 m. From the top, on a clear morning, the Dhaulagiri massif appears to the south. The descent leads into the upper Tarap valley and along it to Tokyu, a village with a monastery, the first settlement of the Tarap valley. The country here is gentler, with wide pastures and fields. After the pass, the walk down the valley feels easy, and Tokyu's fields and chortens are a welcome sight in the afternoon.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 17,
+      "title": "Tokyu to Dho Tarap",
+      "place": "dho-tarap",
+      "overnight": "Dho Tarap",
+      "alt_m": 4090,
+      "move": "≈ 3–4 h walk · −150 m",
+      "text": "An easy walk down the wide Tarap valley, past chortens, mani walls and both Bon and Buddhist monasteries, to Dho Tarap, the main village of the valley. After two weeks in the remote north, Dho feels busy, with a school, a few shops and a lodge or two. Afternoon free to wash and rest. For the first time in many days, you may meet other trekkers, coming up from Lower Dolpo.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 18,
+      "title": "Rest day in Dho Tarap",
+      "place": "dho-tarap",
+      "overnight": "Dho Tarap",
+      "alt_m": 4090,
+      "move": "Optional walks of 2–3 h",
+      "text": "Time to rest and explore. Visit a Bon monastery and a Buddhist gompa in the valley, and walk the fields where barley and buckwheat grow at over 4,000 m. This is the last day at real altitude, so enjoy the light and the quiet before the long descent through the gorge. The crew enjoys the rest day too, and some will visit friends and relatives in the village. Dho Tarap's lodges may offer a hot shower.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 19,
+      "title": "Dho Tarap to Nawarpani",
+      "place": "",
+      "overnight": "Nawarpani",
+      "alt_m": 3545,
+      "move": "≈ 6 h walk · −545 m",
+      "text": "We leave the open valley and enter the Tarap Khola gorge. The trail follows the river closely, crossing it on wooden bridges, with cliffs rising hundreds of metres on both sides. Shrubs and then trees return. Nawarpani is a camping place where the gorge widens briefly. The air feels thick and warm after the weeks above 4,000 m, and sleep comes easily. Watch for blue sheep on the cliffs above the river in the evening light.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 20,
+      "title": "Nawarpani to Laini",
+      "place": "",
+      "overnight": "Laini",
+      "alt_m": 3160,
+      "move": "≈ 5–6 h walk · −385 m",
+      "text": "Down the narrowest part of the gorge, where sections of the trail are built from flat stones laid across ledges above the water, repaired by villagers every year. Watch for blue sheep on the cliffs and for herders' caves. Laini is a small clearing by the river among birch and pine. The crew prepares a good dinner to mark the end of the high country. Laini is our last night in the gorge before the valley opens out.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 21,
+      "title": "Laini to Tarakot",
+      "place": "",
+      "overnight": "Tarakot",
+      "alt_m": 2540,
+      "move": "≈ 6 h walk · −620 m",
+      "text": "The gorge opens at last into the valley of the Thuli Bheri. Fields of maize and millet, Hindu shrines and the sound of Nepali rather than Tibetan tell you you have crossed back into the middle hills. Tarakot sits on a ridge above the river among terraced fields. Enjoy a warm evening with the sound of the river below and a full moon, if your dates are lucky. The crew may buy fresh vegetables in the village for dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 22,
+      "title": "Tarakot to Dunai",
+      "place": "",
+      "overnight": "Dunai",
+      "alt_m": 2140,
+      "move": "≈ 5 h walk · −400 m",
+      "text": "A warm walk down the Thuli Bheri to Dunai, where the circle closes. Hot showers are possible in a lodge here for the first time in weeks. The crew organises a farewell dinner, and it is a good evening to thank the muleteers, who will head home from here. The muleteers usually return north from here with their animals. Dunai's bazaar has small shops and tea stalls, a good place to buy a souvenir or simply sit and watch the town go by.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 23,
+      "title": "Dunai to Juphal",
+      "place": "",
+      "overnight": "Juphal",
+      "alt_m": 2475,
+      "move": "≈ 3 h walk · +335 m",
+      "text": "A short climb back to the airstrip at Juphal through terraces and walnut trees. Your guide confirms tomorrow's flight. The afternoon is free to rest, sort gear and settle tips. Juphal flights are weather-dependent, and this itinerary keeps a buffer in Kathmandu for that reason. The evening is a good time to look back over three weeks and thank each member of the crew. Your guide will also check the luggage weight for the small plane.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 24,
+      "title": "Fly to Nepalgunj and Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 40 min + 1 h flights",
+      "text": "An early flight drops you into the heat of Nepalgunj, and we connect to Kathmandu in the afternoon. Check into your hotel and enjoy a long shower and a meal you did not eat in a tent. If the Juphal flight is delayed, today's Kathmandu night becomes our buffer. Use the evening to rest, eat well and enjoy your first night in a proper bed in more than three weeks.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 25,
+      "title": "Trip ends in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "",
+      "text": "The trip ends after breakfast. If you have time, Patan or Bhaktapur make a gentle return to the world of cities. We can arrange extra nights, sightseeing and transfers to the airport for your departure. If you are flying home today, allow time for the airport, which can be busy in October. If you have more time, we can arrange a day of sightseeing or a quiet stay outside the city.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu"
+  ],
+  "includes": [
+    "Upper Dolpo restricted-area permit (USD 500 for the first 10 days, USD 50 per day after), Lower Dolpo permit and Shey Phoksundo National Park entry",
+    "Licensed guide, cook, kitchen and camping crew, mules or porters for all luggage",
+    "Flights Kathmandu–Nepalgunj–Juphal and return",
+    "One night in Nepalgunj and one in Kathmandu with breakfast",
+    "Twenty-two nights camping or in simple lodges, with all meals on trek",
+    "Tents, mattresses, dining, kitchen and toilet tents",
+    "Satellite communication device and first-aid kit carried by the guide"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking to 5,500 m and helicopter evacuation, which is compulsory",
+    "Sleeping bag, down jacket and personal gear",
+    "Extra nights caused by flight delays",
+    "Tips for guide and crew"
+  ],
+  "good_to_know": [
+    "Upper Dolpo permits require at least two foreign trekkers, a licensed guide and a registered agency; check current status before you travel.",
+    "Kang La and Saldang La may hold snow outside June to October; we may reverse or change the route for safety.",
+    "There is no mobile signal for most of the route; our guides carry a satellite device for emergencies.",
+    "Evacuation from Upper Dolpo is by helicopter only and depends on the weather; make sure your insurance covers it.",
+    "This trek suits people who have already trekked above 5,000 m and are comfortable with three weeks of camping."
+  ],
+  "faqs": [
+    {
+      "q": "How much does the Upper Dolpo permit cost?",
+      "a": "As we understand the current rules, the Upper Dolpo restricted-area permit costs USD 500 per person for the first 10 days and USD 50 per person for each additional day. You also pay the Shey Phoksundo National Park fee, NPR 3,000, and the Lower Dolpo permit for the southern sections. Permits are issued through registered agencies only. Check current status before you travel."
+    },
+    {
+      "q": "How difficult is the Upper Dolpo trek?",
+      "a": "It is a strenuous expedition-style trek. You walk five to seven hours a day for more than three weeks, cross passes up to about 5,360 m and sleep above 4,000 m for many nights. Facilities are basic and evacuation is slow. You should have trekked at high altitude before and be comfortable with cold, camping and long days."
+    },
+    {
+      "q": "Is The Snow Leopard set in Upper Dolpo?",
+      "a": "Yes. Peter Matthiessen's book The Snow Leopard, published in 1978, tells of his 1973 journey with the biologist George Schaller to Shey Gompa in Upper Dolpo, where Schaller studied blue sheep. This trek follows much of their route along Phoksundo Lake and over the Kang La to Shey. Many readers bring the book with them."
+    },
+    {
+      "q": "Will I see a snow leopard in Dolpo?",
+      "a": "Probably not. Snow leopards live in Shey Phoksundo National Park, but they are shy, well camouflaged and mostly active at dawn and dusk. Even Matthiessen did not see one. You will almost certainly see blue sheep, their main prey, and perhaps tracks or droppings. Dedicated winter wildlife trips have better chances but are very demanding."
+    },
+    {
+      "q": "When is the best time for Upper Dolpo?",
+      "a": "June to early October is the main season, when the high passes are usually free of snow. Dolpo lies in the rain shadow, so July and August are drier than most of Nepal, though flights to Juphal are disrupted more often. September and early October give the clearest skies. From November the passes become dangerous and many villages empty for winter."
+    },
+    {
+      "q": "Are there lodges in Upper Dolpo?",
+      "a": "Very few. Upper Dolpo is a camping trek. A few villages, such as Ringmo and Dho Tarap, have simple lodges, but between Phoksundo and the Tarap valley you rely on your own tents, cook and supplies. That is why the trek needs a full crew with mules or porters, and why it costs more than lodge treks."
+    },
+    {
+      "q": "What is Shey Gompa?",
+      "a": "Shey Gompa is a Tibetan Buddhist monastery at about 4,390 m in Upper Dolpo, below the Crystal Mountain, which pilgrims walk around in a kora. Shey means crystal in Tibetan. The monastery is small and red-walled, with prayer stone fields around it. It is the heart of the old religious landscape of Dolpo."
+    },
+    {
+      "q": "Can I combine Upper Dolpo with Mustang?",
+      "a": "Yes. A traverse from Dolpo to Upper Mustang via Charka and on to Jomsom is possible for very experienced trekkers. It needs both restricted-area permits and a longer camping expedition, usually around four weeks. We can design it on request, but it depends on snow conditions on the high passes and current rules."
+    },
+    {
+      "q": "What happens in a medical emergency in Upper Dolpo?",
+      "a": "Our guides are trained in first aid and carry a satellite device to call for help. Serious altitude sickness is treated by descent first. Helicopter evacuation is possible when the weather allows and must be covered by your insurance. Response can take hours or longer, which is why we plan acclimatisation carefully and turn back early if needed."
+    }
+  ]
+}

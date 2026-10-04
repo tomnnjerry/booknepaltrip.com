@@ -1,0 +1,212 @@
+{
+  "slug": "khasa-kingdom-heritage-8n",
+  "title": "Khasa Kingdom Heritage: Jumla, Sinja, Dullu",
+  "region": "far-west",
+  "kind": "culture",
+  "nights": 8,
+  "themes": [
+    "heritage-and-temples",
+    "spiritual-and-pilgrimage",
+    "food-and-festivals",
+    "villages-and-homestays"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "jumla",
+      "nights": 3
+    },
+    {
+      "place": "sinja-valley",
+      "nights": 2
+    },
+    {
+      "place": "dullu",
+      "nights": 3
+    }
+  ],
+  "start": "Nepalgunj Airport (KEP), morning flight to Jumla",
+  "end": "Kathmandu, by air from Surkhet",
+  "price_from_usd": 1450,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 2540,
+  "meta_description": "Khasa kingdom heritage, 8 nights: Jumla's temples and red rice, the Sinja capital ruins, Kakrebihar in Surkhet and the eternal flames and pillar of Dullu.",
+  "summary": "Eight nights through the heartland of the Khasa Malla kingdom, which ruled western Nepal and parts of western Tibet from about the 12th to the 14th century. Jumla's Chandannath temple and red rice terraces, the ruined capital in the Sinja valley, the stone temple of Kakrebihar and the inscribed pillar and natural-gas flames of Dullu.",
+  "intro": [
+    "Seven hundred years ago the most powerful state in the Himalaya was not in the Kathmandu Valley. It was the kingdom of the Khasa Mallas, whose kings ruled from the Sinja valley near Jumla and held land from Purang and Guge in western Tibet to Kumaon and the hills of Gandaki. Their language, Khas, grew into Nepali. Their stone pillars and temples still stand in fields and on ridges across Karnali.",
+    "This journey links the main sites with flights and jeeps, so there is little hard walking. It suits travellers who like history told on the ground: a carved stone half buried in a terrace, a priest at a flame that has burned for as long as anyone can remember. Roads in Karnali are rough and change with every monsoon, so we build in time and keep plans flexible. Local guides join us at each site."
+  ],
+  "story": "You fly into Jumla, a valley at 2,540 m where the rice is red and the houses have flat roofs for drying grain, and the Khasa world starts at once: stone water spouts, dhunge dhara, and small square temples called dewal. Then the road to Sinja, the old capital, where ruins sit on a promontory above the Hima river and farmers plough around fallen stones. From the cold north you drop to the warm valley of Surkhet, where the stone temple of Kakrebihar stands on a wooded hill, and climb again to Dullu in Dailekh. There, small flames rise from the ground at temple shrines, and a pillar carries the name of Prithvi Malla, the greatest of the Khasa kings.",
+  "highlights": [
+    "The Sinja valley, capital of the Khasa Malla kingdom, with the Kanakasundari temple and palace ruins at Lamathada",
+    "The stone pillar of King Prithvi Malla at Dullu, from the 1350s, inscribed with Buddhist and Hindu invocations",
+    "The natural-gas flames at the shrines of Dullu, including Shirsthan and Nabhisthan",
+    "Kakrebihar in Surkhet, a ruined stone temple widely linked to the Khasa king Ashoka Challa",
+    "Jumla's Chandannath temple, red marshi rice terraces and apple orchards"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Jumla",
+      "place": "jumla",
+      "overnight": "Jumla (Khalanga)",
+      "alt_m": 2540,
+      "move": "≈ 40 min flight",
+      "text": "The early flight from Nepalgunj crosses the hills and the deep valley of the Karnali and lands in Jumla, a broad valley at about 2,540 m. After tea we walk into Khalanga, the district headquarters, and visit the Chandannath temple, the guardian shrine of the town, and the Bhairav shrine beside it. Your local guide, who grew up here, explains how the Khasa kingdom gave way to the smaller states of the Baise rajya, and how Jumla became one of the strongest of them. Rest in the afternoon; the altitude is real.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Red rice, dewal and water spouts",
+      "place": "jumla",
+      "overnight": "Jumla (Khalanga)",
+      "alt_m": 2540,
+      "move": "≈ 4 h on foot and by jeep",
+      "text": "A day around the Jumla valley. In the fields you see marshi, the red rice that grows here at heights where rice does not grow elsewhere, and in season the apple orchards that supply markets across Nepal. We look at the small stone dewal, square shrines with carved panels found across Karnali, and the dhunge dhara, stone water spouts, some carrying inscriptions in old Nepali. Lunch in a Jumli home: red rice, Jumli beans, local greens and buckwheat bread.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "By road to the Sinja valley",
+      "place": "sinja-valley",
+      "overnight": "Sinja",
+      "alt_m": 2490,
+      "move": "Rough jeep road · ≈ 4–5 h",
+      "text": "We drive north-west out of the Jumla valley on a rough dirt road to the Sinja valley on the Hima river, about 2,490 m. Road conditions here change with every rain, and in places we may walk short sections while the jeep crosses landslides. Sinja is quiet: terraced fields, clusters of Chhetri and Thakuri houses, and on a promontory above the river, the place where kings once ruled from western Tibet to the edge of the plains. Night in a homestay, with a supper of local barley or rice, potatoes and dal.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "The Khasa capital at Lamathada",
+      "place": "sinja-valley",
+      "overnight": "Sinja",
+      "alt_m": 2490,
+      "move": "≈ 4 h on foot",
+      "text": "A full day in Sinja with a local guide. We climb to Lamathada, the promontory where the Kanakasundari temple stands beside the remains of a royal palace and settlement excavated in recent decades. Stone foundations, carved fragments and terraces show the scale of the old capital, known in inscriptions as Semja. Your guide tells the story of Nagaraja, who founded the dynasty, and of Ripu Malla, who in 1312 carved his name on the Ashoka pillar at Lumbini. Afternoon walk to the river and the village.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Back to Jumla",
+      "place": "jumla",
+      "overnight": "Jumla (Khalanga)",
+      "alt_m": 2540,
+      "move": "Rough jeep road · ≈ 4–5 h",
+      "text": "We return by road to Jumla. If the jeep makes good time there is a stop at a village dewal on the way, where your guide reads the carved figures: often a deity, sometimes a donor, sometimes a horse. In Jumla the afternoon is free to buy dried apples, walnuts, beans or marshi rice in the bazaar, or to watch farmers drying grain on their rooftops. Dinner and a final night in the cold, clear air of the upper Karnali.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Fly to Nepalgunj, drive to Surkhet",
+      "place": "",
+      "overnight": "Birendranagar, Surkhet",
+      "alt_m": 720,
+      "move": "≈ 40 min flight · ≈ 95 km · 3 h drive",
+      "text": "The morning flight takes you back to Nepalgunj on the plain, and we drive north through the Siwalik hills to the Surkhet valley, the capital of Karnali Province. In the late afternoon we visit Kakrebihar on a wooded hill above Birendranagar: the ruined base of a stone temple with hundreds of carved blocks showing Buddhist and Hindu figures, widely attributed to the 13th-century Khasa king Ashoka Challa. It is one of the few places where the Buddhist side of the kingdom is plain to see.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Surkhet to Dullu",
+      "place": "dullu",
+      "overnight": "Dullu",
+      "alt_m": 1400,
+      "move": "≈ 100 km · 4–5 h drive",
+      "text": "We drive into the hills of Dailekh, through the district headquarters, and on to Dullu, which local histories describe as the winter capital of the Sinja kings and later the seat of its own small kingdom until 1962. In the afternoon we visit the stone pillar, or kirti stambha, of Prithvi Malla, dated to the 1350s, its inscription mixing Buddhist syllables with Hindu invocations. Your guide shows you why scholars count it among the earliest records of the Nepali language. Night in a simple lodge or homestay.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "The flames of Dullu",
+      "place": "dullu",
+      "overnight": "Dullu",
+      "alt_m": 1400,
+      "move": "≈ 5 h by jeep and on foot",
+      "text": "Dullu is known across Nepal for its jwala, small flames of natural gas that burn at temple shrines in the area. We visit Shirsthan and Nabhisthan, two of the five sites of the local Panchkoshi pilgrimage, where priests tend flames that rise from the ground and from water. Local legend connects the sites to the head, navel and feet of a divine body that fell here. Pilgrims come especially during Shivaratri. Evening with a family in Dullu bazaar.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Drive to Surkhet, fly to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 100 km · 4–5 h drive · ≈ 1 h flight",
+      "text": "We leave Dullu after breakfast and drive back to Surkhet for the afternoon flight to Kathmandu, about an hour. If the flight is not running, the alternative is the 3-hour drive to Nepalgunj for the evening flights. You end the journey with a picture of a Nepal that most visitors never see: a kingdom that wrote the first words of Nepali on stone, and whose temples still stand in the fields of Karnali.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Nepalgunj–Jumla–Nepalgunj and Surkhet–Kathmandu flights (economy)",
+    "Private jeep in Jumla and Sinja, and private car or jeep Nepalgunj–Surkhet–Dullu–Surkhet",
+    "8 nights in the best available hotels, lodges and homestays, all meals",
+    "Licensed guide throughout, plus local heritage guides in Jumla, Sinja and Dullu",
+    "Entry and donation fees at temples and sites"
+  ],
+  "excludes": [
+    "Kathmandu–Nepalgunj flight and the night in Nepalgunj before day 1",
+    "International flights, visa and travel insurance",
+    "Drinks, tips and laundry",
+    "Extra nights caused by flight cancellations or road closures"
+  ],
+  "good_to_know": [
+    "Rooms are basic everywhere on this route. Hotels in Jumla, Surkhet and Dailekh are clean but simple; Sinja and Dullu nights are in homestays or small lodges.",
+    "The roads to Sinja and Dullu are rough and can close after heavy rain. Check current status before you travel.",
+    "Jumla flights go early in the morning and are often cancelled by cloud; keep one spare day.",
+    "No special permits are needed for Jumla, Sinja or Dailekh.",
+    "Dress modestly at temples and ask before photographing priests or the flames inside shrines."
+  ],
+  "faqs": [
+    {
+      "q": "What was the Khasa Malla kingdom?",
+      "a": "A Himalayan kingdom founded around the 11th or 12th century by King Nagaraja, with its capital in the Sinja valley near Jumla. At its height under kings such as Ripu Malla and Prithvi Malla in the 14th century it ruled western Nepal and parts of western Tibet, including Purang and Guge. It broke up into the small states of the Baise rajya in the late 14th century."
+    },
+    {
+      "q": "Where is the Sinja valley?",
+      "a": "Sinja lies in Jumla district in Karnali Province, north-west of Jumla town along the Hima river, at about 2,490 m. The capital ruins and the Kanakasundari temple stand on a promontory called Lamathada. You can reach Sinja by a rough jeep road from Jumla in about half a day, or on foot as part of the Rara Lake trek."
+    },
+    {
+      "q": "Why is Dullu important for the Nepali language?",
+      "a": "Dullu holds the stone pillar of King Prithvi Malla, dated to the 1350s, whose inscription is among the earliest surviving records of the Khas language that grew into modern Nepali. Sinja and the Karnali basin are widely described as the birthplace of the language. The pillar still stands in Dullu and can be visited with a local guide."
+    },
+    {
+      "q": "What are the flames of Dullu?",
+      "a": "At several shrines around Dullu, natural gas escapes from the ground and burns as small, steady flames, known locally as jwala. The shrines are part of a five-site pilgrimage called the Panchkoshi, including Shirsthan, Nabhisthan and Padukasthan. Local legend links them to the head, navel and feet of a divine body. Priests keep the shrines and pilgrims come at Shivaratri."
+    },
+    {
+      "q": "Is this heritage trip physically demanding?",
+      "a": "Moderately. There is no trekking, but the days include walks of two to four hours on uneven paths, long jeep rides on rough roads, and nights at 2,500 m in Jumla and Sinja where it is cold. If you can walk uphill for an hour at a steady pace and accept basic rooms, you will manage well."
+    },
+    {
+      "q": "What is Kakrebihar?",
+      "a": "Kakrebihar is the ruined base of a stone temple on a forested hill just south of Birendranagar in Surkhet. Hundreds of carved blocks show Buddhist and Hindu figures. It is widely attributed to the 13th-century Khasa king Ashoka Challa, a patron of Buddhism, though scholars still debate details of its dating. It is a protected archaeological site."
+    },
+    {
+      "q": "What did Ripu Malla write at Lumbini?",
+      "a": "In 1312 the Khasa king Ripu Malla visited Lumbini and had a line carved on the Ashoka pillar there: the Buddhist mantra om mani padme hum followed by a wish for his long rule. The inscription is still visible on the pillar. It shows how far south Khasa influence reached and that the kings honoured both Buddhist and Hindu traditions."
+    },
+    {
+      "q": "When is the best time for Jumla and Dullu?",
+      "a": "October and November are best: dry roads, reliable flights and harvest season in Jumla, when red rice and apples are being brought in. March to May is also good, warmer at Dullu and pleasant in Jumla. Avoid June to September, when roads wash out and flights are often grounded. Winter is fine in Dullu but cold in Jumla and Sinja."
+    },
+    {
+      "q": "Can I combine this trip with Rara Lake?",
+      "a": "Yes. From Sinja you can walk two days north to Rara Lake, or drive from Jumla to Rara via Nagma and Gamgadhi, then fly out from Talcha. Adding Rara takes three to four extra nights. Many guests also combine Dullu with Bardia National Park, about four hours from Surkhet by road."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "langtang-valley-trek-8n",
+  "title": "Langtang Valley trek to Kyanjin Gompa",
+  "region": "langtang-manaslu",
+  "kind": "trek",
+  "nights": 8,
+  "themes": ["treks-and-trails", "high-altitude", "villages-and-homestays", "photography"],
+  "grade": "Moderate",
+  "stops": [
+    {"place": "syabrubesi", "nights": 2},
+    {"place": "langtang-village", "nights": 3},
+    {"place": "kyanjin-gompa", "nights": 2},
+    {"place": "kathmandu", "nights": 1}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 750,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 4773,
+  "meta_description": "Langtang Valley trek, 8 nights: Syabrubesi, Lama Hotel, rebuilt Langtang village and Kyanjin Gompa, with Kyanjin Ri, a licensed guide and porter.",
+  "summary": "Eight nights from Kathmandu up the Langtang Khola to Kyanjin Gompa at 3,870 m, the closest big-mountain valley to the capital. You walk through oak and rhododendron forest, past the rebuilt Langtang village, and climb Kyanjin Ri for Langtang Lirung, with a licensed guide, porter and teahouse nights.",
+  "intro": [
+    "Langtang is the valley Kathmandu people go to when they have a week, not three. The road ends at Syabrubesi, seven or eight hours north of the city, and from there the trail follows the Langtang Khola upstream for three days, climbing from 1,460 m to the yak pastures and cheese dairy of Kyanjin Gompa. No flights, no passes, no permit beyond the national park and TIMS. That makes it one of the easiest Himalayan valleys to reach, and one of the most rewarding for the time you put in.",
+    "We pace the climb with one full day at Kyanjin, so you can walk up Kyanjin Ri (4,773 m) at dawn, visit the gompa and the cheese factory, and still walk out without rushing. The lodges along the way are run by Tamang and Langtangpa families who rebuilt their homes after the 2015 earthquake, and staying with them is part of the point. Your guide is licensed, as Nepal's rules now require in national parks; check current status before you travel."
+  ],
+  "story": "The trek begins in the Trishuli gorge, among maize terraces, banana trees and the dust of the trade road to Kerung in Tibet. Day two puts you in forest: oak, then rhododendron, then hemlock, with langur monkeys in the canopy and, if you are lucky, a red panda. At Ghoda Tabela the trees thin and the valley opens into a U-shaped trough carved by old glaciers. Then Langtang village, where a stone wall carries the names of the people lost in the avalanche of April 2015, and new lodges stand beside the debris. By Kyanjin the air is thin and dry, yaks graze between mani walls, and Langtang Lirung fills the northern sky. You walk out the way you came, but it no longer looks the same.",
+  "highlights": [
+    "Sunrise from Kyanjin Ri (4,773 m) over Langtang Lirung, Kimshung and the glaciers at the head of the valley",
+    "Yak cheese at the Kyanjin dairy, first set up with Swiss help in the 1950s",
+    "Forest walking through Langtang National Park, home of the red panda and Himalayan tahr",
+    "Tea in rebuilt Langtang village and the memorial to those lost in the 2015 avalanche",
+    "No flights and no high pass: a real Himalayan valley inside nine days from Kathmandu"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive from Kathmandu to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "alt_m": 1460,
+     "move": "≈ 122 km · 7–8 h drive", "text": "We collect you after breakfast and drive north out of the valley over the Kakani ridge, down to Trishuli Bazaar and up the Pasang Lhamu Highway through Betrawati and Dhunche. At Dhunche your guide shows your Langtang National Park permit and TIMS card at the checkpost. The last hour drops in hairpins to Syabrubesi on the Bhote Koshi, a roadside town of lodges, tea shops and trucks heading for the Rasuwagadhi border. Dinner in a family-run lodge and an early night.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Into the forest to Lama Hotel", "place": "", "overnight": "Lama Hotel", "alt_m": 2470,
+     "move": "≈ 6–7 h walk · +1,010 m", "text": "Cross the suspension bridge over the Bhote Koshi and follow the Langtang Khola east. The trail stays close to the river through Doman and Pairo, then climbs steadily into mixed forest to Bamboo, where lunch is usually dal bhat by the water. In the afternoon the path climbs through oak and rhododendron, with langur monkeys and the occasional red panda sighting, to Lama Hotel, a cluster of lodges in a clearing rather than a single hotel. Evenings here are cool and quiet, with the river loud below.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Ghoda Tabela and Langtang village", "place": "langtang-village", "overnight": "Langtang village", "alt_m": 3430,
+     "move": "≈ 6 h walk · +960 m", "text": "The forest continues past Riverside to Ghoda Tabela, the old horse stable, where the army post checks permits again and the valley suddenly opens out. Above here the trees fall away and the first big views of Langtang Lirung appear. The path passes water-driven prayer wheels and mani walls before reaching Langtang village. Take a few quiet minutes at the memorial wall that lists those lost in the 2015 avalanche; your lodge family may share their own story if you ask gently. Sleep is lighter at this height, so drink plenty.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Up the open valley to Kyanjin Gompa", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "alt_m": 3870,
+     "move": "≈ 3–4 h walk · +440 m", "text": "A short day by design. The trail rises gently through Mundu and past long mani walls, with yak pastures on both banks and the glaciers of Langtang Lirung above. You reach Kyanjin Gompa by lunch, leaving the afternoon to rest and look around. Visit the small gompa that gives the settlement its name and the cheese factory, first set up with Swiss help in the 1950s, where you can buy a block of hard yak cheese. Walk slowly, drink water and let your body catch up with the height.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Kyanjin Ri at dawn and a free afternoon", "place": "kyanjin-gompa", "overnight": "Kyanjin Gompa", "alt_m": 3870,
+     "move": "≈ 4–5 h return walk · +900 m / −900 m", "text": "Leave before first light with a headtorch for Kyanjin Ri (4,773 m), a steep grassy climb behind the lodges. From the top you look across to Langtang Lirung, Langshisa Ri and Gangchenpo, with the valley floor far below. Strong walkers with clear weather can choose Tserko Ri (4,984 m) instead, a longer day of about 8 hours that we arrange with your guide on the spot. Back at Kyanjin, the afternoon is free for the yak pastures, tea and a hot shower if the lodge's solar panels have done their work.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Long descent to Lama Hotel", "place": "", "overnight": "Lama Hotel", "alt_m": 2470,
+     "move": "≈ 6–7 h walk · −1,400 m", "text": "Going down is quicker, though the knees feel it. Retrace the valley past Langtang village and Ghoda Tabela, stopping for lunch at one of the lodges near Riverside, then drop back into the forest to Lama Hotel. With thicker air the walking feels easy again, and you notice things you missed on the way up: bee cliffs on the far bank, beard lichen on the oaks, the change of birdsong as you come down. Trekking poles make this day much kinder on your legs.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Back down the Langtang Khola to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "alt_m": 1460,
+     "move": "≈ 5–6 h walk · −1,010 m", "text": "The last walking day follows the river back through Bamboo and Pairo to Syabrubesi. Lunch is on the trail, and by mid-afternoon you are back among shops, dust and warm air. It is a good evening to settle tips with your porter and guide, buy a cold drink and wash socks for the drive. Many lodges here serve a proper Tamang meal if asked in advance: buckwheat dhido, gundruk soup and fresh greens from the garden behind the kitchen.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400,
+     "move": "≈ 122 km · 7–8 h drive", "text": "An early start for the drive back along the Pasang Lhamu Highway, with a tea stop in Dhunche and lunch near Trishuli or Kakani. Landslides and road works can slow this road in any season, so we leave room in the afternoon. You reach your Kathmandu hotel by late afternoon, in time for a long shower and a walk through Thamel or Asan for dinner. If you have a flight the next day, this buffer night is the reason we build it in.", "meals": "Breakfast, Lunch"},
+    {"day": 9, "title": "Trip ends in Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "", "text": "The trek ends after breakfast. We drop you at Tribhuvan International Airport for your flight, or help you plan more days in Nepal: Bhaktapur and Patan are an easy add-on, and Chitwan or Pokhara pair well with a week in the mountains. If you are continuing to Gosaikunda or Helambu on another trip, your Langtang National Park permit is valid only for the dates and route on it, so we arrange any new paperwork. Keep a little cash in rupees for the airport.", "meals": "Breakfast"}
+  ],
+  "stays": ["kathmandu-guest-house"],
+  "includes": [
+    "Private jeep Kathmandu–Syabrubesi–Kathmandu",
+    "Licensed trekking guide and one porter for every two trekkers, with their wages, food, insurance and lodging",
+    "Langtang National Park entry permit and TIMS card",
+    "Seven nights in teahouse lodges, twin sharing, with three meals a day on trek",
+    "One night at Kathmandu Guest House with breakfast",
+    "First-aid kit and pulse oximeter carried by your guide"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking to 5,000 m and helicopter evacuation",
+    "Hot showers, battery charging and wifi at lodges (≈ NPR 200–500 each)",
+    "Drinks, snacks and bottled water",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Foreign trekkers in national parks must trek with a licensed guide under rules in force since April 2023; check current status before you travel.",
+    "Langtang National Park entry is about NPR 3,000 for foreign visitors, plus TIMS; fees change, so check current status before you travel.",
+    "There is no ATM after Dhunche, so carry enough Nepali rupees for the trek.",
+    "Lodge rooms are simple plywood or stone rooms with two beds; bring a sleeping bag rated to about −10 °C for October to March.",
+    "The road to Syabrubesi is slow and can be blocked by landslides, especially June to September."
+  ],
+  "faqs": [
+    {"q": "How hard is the Langtang Valley trek?", "a": "It is a moderate trek. Walking days are 4 to 7 hours on a clear trail with steady climbs, and the highest night is Kyanjin Gompa at 3,870 m. Kyanjin Ri adds a steep 900 m climb, but you can skip it. Anyone who walks regularly and can manage a long day of hills at home will be fine. No climbing skills are needed."},
+    {"q": "Do I need a guide for Langtang?", "a": "Yes. Since April 2023 Nepal has required foreign trekkers in national parks and conservation areas, including Langtang, to trek with a licensed guide arranged through a registered agency. Checkpoints at Dhunche and Ghoda Tabela look at your permit and TIMS card. Enforcement has varied, so check current status before you travel, but we always send a licensed guide."},
+    {"q": "Which permits do I need for the Langtang Valley?", "a": "You need a Langtang National Park entry permit, about NPR 3,000 for foreigners, and a TIMS card issued through your trekking agency. We arrange both before you leave Kathmandu and your guide carries them. You show them at Dhunche and again on the trail. Fees and procedures change, so check current status before you travel."},
+    {"q": "Is there altitude sickness risk on this trek?", "a": "Some, because you sleep at 3,870 m and climb to 4,773 m on Kyanjin Ri. Our day plan keeps the gain modest above 3,000 m and includes a rest day at Kyanjin. Mild headache and poor sleep are common; vomiting, confusion or breathlessness at rest mean going down at once. Your guide carries a pulse oximeter and checks you each evening."},
+    {"q": "Has Langtang village been rebuilt after the 2015 earthquake?", "a": "Yes. The old village was buried by an avalanche and rockfall triggered by the 25 April 2015 earthquake. Families who survived have rebuilt lodges and homes along the trail beside the debris, and a memorial wall lists those who died. Staying and eating in these lodges is one of the most direct ways a visitor can support the valley today."},
+    {"q": "What are the teahouses like on the Langtang trek?", "a": "They are family-run lodges with twin rooms, shared toilets and a warm dining room with a stove. Most have solar hot showers and charging for a small fee, and some have wifi. Food is good and simple: dal bhat, noodles, potatoes, eggs, Tibetan bread and yak cheese at Kyanjin. Rooms are cold at night from November to March."},
+    {"q": "When is the best time to trek to Kyanjin Gompa?", "a": "March to April and October to November give the clearest skies and steady trails. Rhododendrons bloom in the lower forest in April. December to February is cold but often clear, with nights well below freezing at Kyanjin. June to August is the monsoon, with leeches, cloud and landslides on the road, so we do not recommend it."},
+    {"q": "Can I see red pandas on the Langtang trek?", "a": "Possibly, but do not count on it. Langtang National Park has red panda habitat in the bamboo, oak and fir forests between about 2,400 and 3,600 m, roughly from Bamboo to Ghoda Tabela. They are shy and active early and late in the day. Langur monkeys, Himalayan tahr and many birds are far easier to spot."},
+    {"q": "Can I add Gosaikunda to this trek?", "a": "Yes. From Lama Hotel a trail climbs to Thulo Syabru and on to Sing Gompa and Gosaikunda at 4,380 m, adding about four days. Because you have already acclimatised at Kyanjin, the climb to the lakes is safer. See our Langtang and Gosaikunda 12-night trek, or ask us to adjust this itinerary for your dates."}
+  ]
+}

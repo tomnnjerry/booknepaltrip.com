@@ -1,0 +1,323 @@
+{
+  "slug": "solu-khumbu-walk-in-phaplu-lukla-16n",
+  "title": "Solu to Khumbu Walk-in: Phaplu to Tengboche",
+  "region": "everest-khumbu",
+  "kind": "trek",
+  "nights": 16,
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "spiritual-and-pilgrimage",
+    "photography"
+  ],
+  "grade": "Challenging",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "phaplu",
+      "nights": 1
+    },
+    {
+      "place": "junbesi",
+      "nights": 3
+    },
+    {
+      "place": "lukla",
+      "nights": 4
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 2
+    },
+    {
+      "place": "tengboche",
+      "nights": 1
+    },
+    {
+      "place": "khumjung",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 2
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1850,
+  "best_months": [
+    0,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 3867,
+  "meta_description": "Solu to Khumbu walk-in in 16 nights: drive to Phaplu, walk the old expedition trail via Junbesi and Kharikhola to Lukla, Namche and Tengboche. From USD 1,850.",
+  "summary": "Walk into the Everest region the way expeditions did before the Lukla airstrip. Sixteen nights from Phaplu across the ridges of Solu, through Junbesi, Ringmo, Nunthala and Kharikhola, up the Dudh Koshi to Lukla and on to Namche, Tengboche and Khumjung. Sherpa, Rai and Magar villages, quiet trails and a body that acclimatises naturally.",
+  "intro": [
+    "Before Lukla's airstrip opened in 1964, every Everest expedition, including the British team of 1953, walked in from the Kathmandu Valley for two to three weeks across the east–west ridges of Solu. Today almost everyone flies over this country. The trail still exists, used by porters, traders and villagers, with simple lodges in each village. It is one of the best ways to understand how the Khumbu connects to the rest of Nepal.",
+    "We shorten the old approach by driving to Phaplu, then walk for six days to Lukla, crossing the Taksindu La and dropping to the Dudh Koshi at about 1,500 m before climbing back up through Rai and Sherpa villages. By the time you reach Namche you have walked yourself fit and acclimatised gently. We go on to Tengboche and Khumjung and fly out from Lukla. Most nights are in family-run village lodges."
+  ],
+  "story": "From Phaplu the trail climbs into Sherpa Solu: Junbesi with its gompa and stone houses, the apple orchards of Ringmo, the Taksindu La with its monastery in the pines. Then the long drop into the Dudh Koshi gorge, where the air turns warm, bananas grow beside the trail and the villages of Jubing and Kharikhola are Rai and Magar, with terraced millet and maize. Porters with huge doko baskets climb past you, carrying beer, rice and cement up to the Khumbu. The trail climbs again through Bupsa and Paiya into rhododendron forest, joining the Lukla trail at Chheplung. Suddenly the path is full of trekkers just off the plane, and you walk past them to Namche, Tengboche and Khumjung, having seen the whole country they flew over.",
+  "highlights": [
+    "Walking the old expedition approach through Solu to Lukla",
+    "Junbesi and the monastery of Thupten Chholing",
+    "The Taksindu La and its monastery, and Ringmo's apple orchards",
+    "Rai and Magar villages in the warm Dudh Koshi gorge",
+    "Namche Bazaar, Tengboche Monastery and Khumjung at the end"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at the airport and take you to your hotel. In the afternoon your guide explains the route: six days of walking through Solu before you reach Lukla, then four days in the Khumbu. Pack for a wide range of temperatures, from the warm Dudh Koshi gorge at 1,500 m to cold nights at Tengboche. A sleeping bag rated to about −10 °C and a light down jacket cover both ends.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Drive to Phaplu",
+      "place": "phaplu",
+      "overnight": "Phaplu",
+      "alt_m": 2413,
+      "move": "≈ 260 km · 9–11 h by jeep",
+      "text": "An early start by private jeep, east out of the valley and down along rivers, then up over ridges into Solukhumbu. The road is paved in parts and rough in others; tea and lunch stops in roadside bazaars break the day. Phaplu, at about 2,413 m, has a small airstrip and sits beside Salleri, the district headquarters. If a Phaplu flight is running, we can fly instead for a supplement.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phaplu to Junbesi",
+      "place": "junbesi",
+      "overnight": "Junbesi",
+      "alt_m": 2675,
+      "move": "≈ 5 h walk · +260 m net",
+      "text": "A pleasant walk north through pine forest, villages and terraced fields, over a ridge with chortens and prayer flags, and down into the valley of Junbesi. This old Sherpa village of whitewashed stone houses and carved wooden windows clusters round its gompa beside a clear river, with apple trees in the gardens. The lodges are simple and friendly, and the evening light on the valley walls is beautiful. Dinner is often Sherpa potato pancakes.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Thupten Chholing day walk",
+      "place": "junbesi",
+      "overnight": "Junbesi",
+      "alt_m": 2675,
+      "move": "≈ 4–5 h round walk · +300 m and back",
+      "text": "A gentle walk up the valley to Thupten Chholing, the monastery and retreat community founded by Trulshik Rinpoche after he left Tibet in 1959. It has grown into one of the largest communities of monks and nuns in Solukhumbu, with small retreat houses scattered on the hillside. Walk clockwise around the buildings, dress modestly and ask before taking photographs. The afternoon is free in Junbesi. Junbesi's own gompa is worth a visit at dusk.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Over the Taksindu La to Nunthala",
+      "place": "junbesi",
+      "overnight": "Nunthala",
+      "alt_m": 2220,
+      "move": "≈ 7 h walk · ≈ +600 m, −1,050 m",
+      "text": "East out of Junbesi and over a ridge with the first view of Everest on this trek on a clear morning, then down to Ringmo, known for its apple orchards. From Ringmo the trail climbs through pine and rhododendron to the Taksindu La, about 3,071 m, with its monastery and chortens. A long descent through forest leads to Nunthala, also called Manidingma, a village of lodges and mani walls. Nunthala's lodges are warm and simple.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Down to the Dudh Koshi, up to Bupsa",
+      "place": "lukla",
+      "overnight": "Bupsa",
+      "alt_m": 2360,
+      "move": "≈ 7 h walk · −720 m, +860 m",
+      "text": "Down through terraced farmland to the Dudh Koshi, crossing the river on a long suspension bridge at about 1,500 m, the lowest point of the trek. The air is warm here, with bananas and citrus beside the trail. We climb through Jubing, a Rai village, and on to Kharikhola, a larger Magar and Sherpa village with a monastery, then up a steep hour to Bupsa. A long day; rest well tonight.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Bupsa to Paiya",
+      "place": "lukla",
+      "overnight": "Paiya",
+      "alt_m": 2730,
+      "move": "≈ 5 h walk · +370 m",
+      "text": "The trail climbs through oak and rhododendron forest, contouring around side valleys on a path used every day by porters carrying loads to the Khumbu. You will see men and women with doko baskets of rice, beer and building materials weighing as much as they do. Paiya, also called Puiyan, is a small group of lodges in the forest. Lunch on the way at Kharte, and an early dinner. Rooms here are basic but clean.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Paiya to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 5–6 h walk · +130 m net",
+      "text": "We cross a small pass, the Kari La, and continue through forest and farm villages to Surke, then climb to join the main Everest trail at Chheplung, just below Lukla. Suddenly the path is full of trekkers just off the plane. We climb up to Lukla for the night, where there are hot showers and bakeries. You have walked six days to get here, and your body has acclimatised gently on the way.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Lukla to Monjo",
+      "place": "lukla",
+      "overnight": "Monjo",
+      "alt_m": 2835,
+      "move": "≈ 5–6 h walk · −250 m, +225 m",
+      "text": "Down through Chheplung to Phakding and along the Dudh Koshi through Benkar, with waterfalls and pine forest, to Monjo, just below the Sagarmatha National Park gate. The trail now carries trekkers from many countries, yak trains and porters. Compared with the quiet Solu paths it feels like a highway. Your fitness from the walk-in will show; most people find today easy and enjoy the afternoon off. Monjo has good lodges and a quiet evening.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Monjo to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4 h walk · +605 m",
+      "text": "Through the park gate, where permits are checked, down to Jorsalle and across the high Hillary suspension bridge, then the long climb to Namche. Halfway up, look for Everest's summit appearing behind the Nuptse ridge. Namche, Nauche to Sherpas, fills a steep bowl at 3,440 m with lodges, bakeries and shops. After a week in Solu villages, it will feel like a city. Ask for an upper-floor room for the morning view, and walk the climb slowly.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Acclimatisation day in Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 3–4 h walk · +300 m and back",
+      "text": "A walk up to the national park visitor centre on the ridge and on towards Syangboche for views of Everest, Lhotse, Ama Dablam and Thamserku. Visit the Sherpa Culture Museum to see how a Khumbu household lives and compare it with the Solu houses you have stayed in. On Saturday the weekly market fills the lower town, where traders from the lower valleys you walked through sell rice and vegetables.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Namche to Tengboche",
+      "place": "tengboche",
+      "overnight": "Tengboche",
+      "alt_m": 3867,
+      "move": "≈ 5–6 h walk · +430 m",
+      "text": "Along the level traverse to Kyangjuma, with Ama Dablam ahead, then down to the river at Phunki Thenga and up through rhododendron and fir forest to Tengboche. The monastery, founded in 1916, was rebuilt after the 1934 earthquake and again after a fire in 1989. If you arrive by 3 pm, sit at the back for the afternoon puja. At sunset Everest shows behind the Nuptse ridge. Remove shoes and hats inside the prayer hall.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Tengboche to Khumjung",
+      "place": "khumjung",
+      "overnight": "Khumjung",
+      "alt_m": 3780,
+      "move": "≈ 4–5 h walk · −87 m net",
+      "text": "Down through the forest to Phunki Thenga and up to Kyangjuma, then on to Khumjung, the large Sherpa village below the sacred peak Khumbila. Visit Khumjung Gompa, with its relic that villagers call the yeti scalp, and the school founded by Edmund Hillary's Himalayan Trust in 1961. In the afternoon walk up to Hotel Everest View for tea on the terrace with Everest across the valley. Khumjung's lodges are quieter than Namche's.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Khumjung to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 6 h walk · −1,170 m",
+      "text": "Over the ridge to Namche for tea, then down the zigzag to the Hillary bridge and along the river through Monjo to Phakding. It is a long descent, and trekking poles help. In the afternoon there may be time to visit a small gompa above Phakding. Tonight is a good evening to thank your porters, who will head home to their Solu villages along the trail you walked. Dinner tonight is a farewell for the crew.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 15,
+      "title": "Phakding to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 3–4 h walk · +250 m",
+      "text": "A short morning back along the river and up through Chheplung to Lukla, the junction where the old walking trail from Solu meets the airstrip that replaced it. In the afternoon watch planes land on the steep runway or visit the small gompa. Your guide reconfirms the morning flight. Lukla has hot showers, bakeries and comfortable lodges for the last night in the mountains. Ask your guide what tip is normal for the crew.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 16,
+      "title": "Fly Lukla to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "Morning flight to Kathmandu, or in peak months to Ramechhap with a drive of about four to five hours. In 35 minutes the plane covers what took you six days to walk; look out of the window for the ridges and river valleys of Solu. The afternoon is free. If the flight is delayed by cloud, we wait in Lukla and rebook for the next possible flight. Dinner tonight is your own choice.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 17,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "Transfer to Tribhuvan International Airport about three hours before your international flight. If you have time to stay longer, the old towns of Patan and Bhaktapur, or Boudhanath with its Sherpa monasteries, are easy additions. We also recommend at least one spare night in Kathmandu after any Lukla flight. Leave any rented gear at your hotel reception and we will collect it the same day. Safe travels, and thank you for walking.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "kathmandu-guest-house"
+  ],
+  "includes": [
+    "Airport transfers and 2 nights at Kathmandu Guest House, twin sharing with breakfast",
+    "Private jeep Kathmandu–Phaplu",
+    "Lukla–Kathmandu flight (or via Ramechhap with road transfer in peak months)",
+    "Licensed trekking guide and one porter for every two trekkers",
+    "14 nights in local teahouses, twin rooms, with three meals a day on trek",
+    "Sagarmatha National Park entry fee, Khumbu Pasang Lhamu Rural Municipality permit and any local fees in Solu",
+    "Guide, porter and driver wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking and helicopter evacuation (required)",
+    "Kathmandu–Phaplu flight supplement, when operating",
+    "Hot showers, charging, Wi-Fi and drinking water on trek",
+    "Drinks, snacks and Kathmandu lunches and dinners",
+    "Tips for guide, porters and driver"
+  ],
+  "good_to_know": [
+    "Lodges between Junbesi and Lukla are simple and family-run; rooms are basic and toilets shared.",
+    "Since April 2023 foreign trekkers in national parks must walk with a licensed guide; enforcement in Khumbu has varied. Check current status before you travel.",
+    "Roads in Solu change quickly, and jeep tracks now reach some villages on the old trail; we keep to footpaths wherever possible.",
+    "This route has big daily climbs and descents, including a drop to 1,500 m and a climb back to 2,700 m; it is harder than its maximum altitude suggests.",
+    "The lower trail is warm and can have leeches after rain in September; bring salt or insect repellent.",
+    "You can extend from Tengboche to Everest Base Camp in about five more days; ask us for a combined plan."
+  ],
+  "faqs": [
+    {
+      "q": "Why walk in from Phaplu instead of flying to Lukla?",
+      "a": "Walking in shows you the Solu half of Solukhumbu: Sherpa villages, apple orchards, monasteries and the Rai and Magar villages of the Dudh Koshi gorge. It avoids the risk of a delayed flight in, and it acclimatises your body gradually, so Namche and Tengboche feel much easier. You also see how goods and people reach the Khumbu."
+    },
+    {
+      "q": "How hard is the Solu–Khumbu walk-in?",
+      "a": "It is challenging. The highest point is only Tengboche, about 3,867 m, but the trail is a series of big climbs and descents of 700 to 900 m a day, especially around the Dudh Koshi crossing. Expect 5 to 7 hours of walking most days. Good hill fitness matters more than altitude experience on this route."
+    },
+    {
+      "q": "How much does the Solu–Khumbu walk-in cost?",
+      "a": "This 16-night trip starts from USD 1,850 per person, twin sharing, with a jeep to Phaplu, a Lukla–Kathmandu flight, a licensed guide and porter, park and municipality permits, 14 teahouse nights with three meals a day and two Kathmandu nights. Insurance, visa, drinks and tips are extra."
+    },
+    {
+      "q": "Is this the route Hillary and Tenzing took in 1953?",
+      "a": "The 1953 expedition walked from the Kathmandu Valley across the ridges of Solu and up the Dudh Koshi to Namche, as every expedition did before Lukla's airstrip opened in 1964. Our trek follows that general approach from Phaplu, though the exact villages each expedition used varied. Jiri, further west, is the other classic starting point."
+    },
+    {
+      "q": "What are the lodges like below Lukla?",
+      "a": "They are simple family-run teahouses with twin rooms, shared toilets and a dining room with a stove. Hot showers are often by bucket. Menus are shorter than in the Khumbu, but dal bhat, noodles, potatoes and eggs are always available. Most lodges now have some mobile signal and charging, at a small cost."
+    },
+    {
+      "q": "Can I combine this walk-in with Everest Base Camp?",
+      "a": "Yes. From Tengboche, continue to Dingboche, Lobuche and Gorak Shep for base camp and Kala Patthar, adding about five days. Because you will have walked for over a week, you will be strong and well adapted. Ask us for a combined plan of about 21 to 22 nights, with flights out from Lukla."
+    },
+    {
+      "q": "When is the best season for the Solu walk-in?",
+      "a": "October and November are best, with clear views and dry trails. March and April bring rhododendrons in flower through the forests between Junbesi and Paiya. Winter is possible, cold in the Khumbu but pleasant in the lower gorge. In the monsoon the lower trail is wet, leech-filled and prone to landslides."
+    },
+    {
+      "q": "Who lives along the lower trail?",
+      "a": "Junbesi, Ringmo and the Taksindu La are Sherpa country, with monasteries and mani walls. Lower down, Jubing and Kharikhola are home to Rai and Magar families who farm millet, maize and citrus. Many porters on the Everest trail come from these villages, which makes the walk a lesson in how the Khumbu economy works."
+    },
+    {
+      "q": "Do I need special permits for this route?",
+      "a": "You need the Sagarmatha National Park entry permit and the Khumbu Pasang Lhamu Rural Municipality permit for the Khumbu section. The Solu section lies outside the park; local fees or trekking permit checks may apply and rules change. We arrange everything needed. Check current status before you travel."
+    }
+  ]
+}

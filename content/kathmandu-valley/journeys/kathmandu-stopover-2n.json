@@ -1,0 +1,145 @@
+{
+  "slug": "kathmandu-stopover-2n",
+  "title": "Kathmandu stopover in two nights",
+  "region": "kathmandu-valley",
+  "kind": "tour",
+  "nights": 2,
+  "themes": [
+    "heritage-and-temples",
+    "spiritual-and-pilgrimage",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 350,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Active",
+  "max_altitude_m": 1420,
+  "meta_description": "2 nights in Kathmandu between flights or before a trek: Swayambhu at sunset, the Durbar Square, Pashupatinath, Boudha and Patan or Bhaktapur, with a guide.",
+  "summary": "Two nights in Kathmandu for travellers between flights or before a trek. See Swayambhu at sunset, Kathmandu Durbar Square, Pashupatinath and the evening kora at Boudhanath, then Patan or Bhaktapur on the last morning, timed to your flight. One guide, one car, a hotel in Thamel and no wasted hours.",
+  "intro": [
+    "Many travellers pass through Kathmandu on the way to a trek, to Bhutan or Tibet, or between flights to India and Southeast Asia, and see little more than Thamel. Two nights is enough to see five of the valley's seven heritage zones properly, if someone who knows the traffic plans the order. Our guide meets you at arrivals, so even a red-eye landing becomes a useful first afternoon rather than a lost one. You see the valley's Hindu and Buddhist sides, its oldest market and at least one of the three royal cities.",
+    "We base you at the Kathmandu Guest House in Thamel, the neighbourhood's oldest guesthouse, set around a garden. A guide and car wait for you at the airport, and the plan bends around your flight times. If you land in the morning, you gain an extra half day; if you arrive late, we move Swayambhu to the last morning. Tell us if you are heading on to a trek: the guide will help with gear shopping and permits paperwork in Thamel, and we can store bags while you are away."
+  ],
+  "story": "You land and go straight up the hill to Swayambhu, where the valley's Buddhist story begins with a lotus on a lake, and you see the whole city laid out under the sunset. Next morning you walk among the palace and temples of Kathmandu Durbar Square, where kings were crowned and where the Kumari still lives. In the afternoon the mood changes at Pashupatinath, where the fires of the cremation ghats burn by the Bagmati, and settles again at Boudhanath, as Tibetan families walk their evening circles. On the last morning, before the airport, you choose between Patan, the city of fine metalwork, and Bhaktapur, the city of potters, both still lived in by the families who built them.",
+  "highlights": [
+    "Sunset over the city from Swayambhunath",
+    "Kathmandu Durbar Square and the courtyard of the living goddess",
+    "Pashupatinath and the cremation ghats on the Bagmati",
+    "The evening kora at Boudhanath",
+    "A last morning in Patan or Bhaktapur timed to your flight"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Land, Swayambhu at sunset, Thamel",
+      "place": "swayambhunath",
+      "overnight": "Kathmandu Guest House, Thamel",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 30 min from the airport",
+      "text": "Your guide and driver meet you at Tribhuvan International Airport. Check in at the Kathmandu Guest House in Thamel, which opened in the late 1960s and still has its garden of palms and flowers. In the late afternoon drive to Swayambhunath, the stupa on its hill west of the city. Walk the circuit of prayer wheels, watch the monkeys on the shrines and stay for sunset as lights come on across the valley. Walk back into Thamel for dinner, with tips on where to eat and shop during your stay.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Durbar Square, Pashupatinath and Boudha",
+      "place": "kathmandu",
+      "overnight": "Kathmandu Guest House, Thamel",
+      "alt_m": 1400,
+      "move": "≈ 15 km of city driving",
+      "text": "Walk from Thamel through Asan and Indra Chowk, the old market streets, to Kathmandu Durbar Square. Your guide shows you the Taleju temple, Kal Bhairav, the rebuilt Kasthamandap and Kumari Ghar, home of the living goddess. After lunch drive to Pashupatinath, the most sacred Shiva temple in Nepal, and watch the riverside rites from the east bank. Walk or drive the short way to Boudhanath for the late-afternoon kora, when Tibetan families circle the stupa and butter lamps are lit. Dinner on a rooftop facing the dome.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Patan or Bhaktapur, then your flight",
+      "place": "patan",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 7–15 km depending on choice; then to the airport",
+      "text": "Choose your last morning. Patan, across the Bagmati, has the most complete Durbar Square, the stone Krishna Mandir and the Patan Museum, the best introduction to Nepali art. Bhaktapur, 13 km east and closer to the airport, has the five-roofed Nyatapola, the potters' square and juju dhau, the city's famous curd. Either takes three to four hours. Your driver then takes you to Tribhuvan International Airport, or to the domestic terminal for an onward flight to Pokhara or Bharatpur.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "kathmandu-guest-house"
+  ],
+  "includes": [
+    "2 nights at the Kathmandu Guest House, Thamel, with breakfast, twin sharing",
+    "Licensed English-speaking guide for all sightseeing",
+    "Private car for airport transfers and sightseeing",
+    "Entry fees for five of the seven heritage zones"
+  ],
+  "excludes": [
+    "Flights and Nepal visa fee",
+    "Lunches and dinners",
+    "Tips for guide and driver",
+    "Travel insurance",
+    "Hotel upgrades"
+  ],
+  "good_to_know": [
+    "If you are on a transit stop without a Nepal visa, you will need a tourist visa to leave the airport; check current status before you travel.",
+    "We need your flight numbers and times to plan the order of sites.",
+    "Hotel check-in is usually from 2 pm; early check-in can be booked at extra cost.",
+    "This plan works well the day before a trek; your guide can help you buy last gear in Thamel.",
+    "Upgrades to Dwarika's Hotel or Hotel Yak & Yeti are available."
+  ],
+  "faqs": [
+    {
+      "q": "Is 2 days enough to see Kathmandu?",
+      "a": "Two days is enough to see the highlights of the Kathmandu Valley: Swayambhunath, Kathmandu Durbar Square, Pashupatinath, Boudhanath and either Patan or Bhaktapur. You will not see everything, and you will be busy, but with a guide and a car the order works without long waits in traffic. Four or five days lets you add all seven heritage zones at an easier pace."
+    },
+    {
+      "q": "What should I see in Kathmandu with only one day?",
+      "a": "With one day, see Swayambhunath early, Kathmandu Durbar Square, then Pashupatinath and Boudhanath in the afternoon, ending at Boudha for the evening kora. This covers four of the seven heritage zones and the most important Hindu and Buddhist sites. If you have a few spare hours before an evening flight, add Bhaktapur, which is close to the airport."
+    },
+    {
+      "q": "How far is Thamel from Kathmandu airport?",
+      "a": "Thamel is about 6 km from Tribhuvan International Airport, normally 25–40 minutes by car depending on traffic. Prepaid taxis and ride-hailing apps operate from the airport. On this journey a private car meets you at arrivals, so you do not need to bargain for a taxi after a long flight."
+    },
+    {
+      "q": "Is the Kathmandu Guest House a good base?",
+      "a": "The Kathmandu Guest House has been a Thamel landmark since it opened in the late 1960s, set around a quiet garden in the middle of the busy district. It is a comfortable mid-range choice, within walking distance of the old town, and convenient for trek shopping. If you prefer more calm or luxury, we can switch to Dwarika's or Hotel Yak & Yeti."
+    },
+    {
+      "q": "Can I see Mount Everest during a Kathmandu stopover?",
+      "a": "Yes, with the one-hour mountain flight that leaves Kathmandu at dawn and flies along the Himalaya to the Everest region and back. Each passenger gets a window seat. It depends on clear weather and costs extra, usually USD 230–260 per person; check current prices. It fits on the morning of day 2, with the sightseeing moved later."
+    },
+    {
+      "q": "Do I need a visa for a short stop in Nepal?",
+      "a": "Yes, to leave the airport you need a Nepal tourist visa, available on arrival or online in advance, with fees by duration starting at 15 days. Indian citizens do not need a visa. Rules and fees change, so check current status before you travel. If you stay airside on a connection, no visa is needed."
+    },
+    {
+      "q": "Is Kathmandu safe for solo travellers?",
+      "a": "Kathmandu is generally safe, including for solo women, though normal city care applies: watch bags in crowds, use registered taxis or ride apps at night and avoid empty lanes late. Traffic is the main hazard. Thamel stays busy until late. A guide helps you avoid touts and fake monks asking for donations at the stupas."
+    },
+    {
+      "q": "What can I buy in Thamel?",
+      "a": "Thamel is good for trekking gear, pashmina and yak wool shawls, singing bowls, thangka paintings, tea, prayer flags, handmade paper and spices. Quality varies widely, so compare a few shops. Prices are negotiable in most places. For crafts, Patan and Bhaktapur workshops often offer better quality and fairer prices to the maker."
+    },
+    {
+      "q": "Can I do this stopover before or after an Everest trek?",
+      "a": "Yes, and many trekkers do. Before a trek, keep the last afternoon free for gear and an early night, as Lukla flights leave at dawn, and in busy seasons from Ramechhap, about 4–5 hours' drive away; check current status before you travel. After a trek, this plan is a gentle way to spend spare buffer days if your Lukla flight came out on time. We can keep your extra luggage at the hotel while you trek."
+    }
+  ]
+}

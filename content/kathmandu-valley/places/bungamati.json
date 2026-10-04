@@ -1,0 +1,342 @@
+{
+  "slug": "bungamati",
+  "name": "Bungamati",
+  "name_ne": "बुङ्गमती",
+  "local_name": "Bunga (Nepal Bhasa)",
+  "region": "kathmandu-valley",
+  "kind": "village",
+  "wiki": "Bungamati",
+  "image_query": "Bungamati village Rato Machhindranath temple",
+  "lat": 27.628,
+  "lng": 85.303,
+  "altitude_m": 1350,
+  "tagline": "Home village of the red rain god, and of the valley's woodcarvers",
+  "meta_description": "Bungamati with locals: Rato Machhindranath's home temple, woodcarving workshops, Khokana's mustard-oil presses, Karya Binayak and cycling from Patan.",
+  "summary": "Bungamati is a Newar village on a spur above the Bagmati, 8 km south of Patan, and the second home of Rato Machhindranath, the valley's rain god. It is known for woodcarving and for its square rebuilt after 2015. Spend half a day here with neighbouring Khokana.",
+  "intro": [
+    "Bungamati feels like a small town from another century. Its brick houses crowd round a central square, where the shikhara temple of Rato Machhindranath rises from a broad courtyard. Around the square, men and women sit on doorsteps carving wood, drying grain, spinning wool and minding grandchildren. Cars stop at the village edge, and the lanes belong to people, chickens and bicycles.",
+    "The village is the second home of Rato Machhindranath, known here as Bunga Dyah. The god spends half of each year in Bungamati and half in Patan, and the great chariot festival in spring links the two. Bungamati's people have special duties in the festival, and in every twelfth year the chariot is pulled all the way from here to Patan.",
+    "The 2015 earthquake hit Bungamati very hard. The Rato Machhindranath temple fell and many houses were destroyed. Rebuilding has taken years, partly with traditional brick and carved wood and partly with concrete. Visiting now, you see both: the restored temple at the centre and families still finishing their homes. Bungamati is a lesson in how valley villages recover."
+  ],
+  "story": {
+    "title": "The village that shares a god with Patan",
+    "paras": [
+      "Bungamati is an old Newar settlement, and tradition ties its founding to the arrival of Rato Machhindranath in the valley, around the time of the Licchavi kings. The god was brought, legend says, to end a great drought, and Bungamati became his home. The village's life has turned around the god ever since: its guthis maintain his temple and play roles in his festival.",
+      "Each year, Rato Machhindranath is carried between Bungamati and Ta Bahal in Patan, spending about six months in each. In spring the great chariot festival is held in Patan; in every twelfth year it starts in Bungamati, and the huge chariot is hauled over the fields and rough roads to Patan, a journey that takes days. These twelve-year years are major events across the valley.",
+      "Beyond the god, Bungamati is a village of craftsmen. Its woodcarvers, many from Shilpakar and other Newar families, make windows, struts, masks and statues for temples, houses and hotels across Nepal. After the 2015 earthquake, their skills were needed for the rebuilding of temples across the valley, and workshops in the village were busier than they had been for generations."
+    ]
+  },
+  "legend": "Local legend says a twelve-year drought struck the valley after the yogi Gorakhnath sat in meditation on the nagas, the serpents who bring rain. King Narendra Deva, the priest Bandhudatta and a farmer travelled to Kamaru in Assam and brought back Karunamaya, the compassionate one, in the form of a bee in a pot. When Gorakhnath stood to honour his guru Machhindranath, the rain returned, and the god made his home at Bungamati.",
+  "people": "Bungamati is a Newar village of farming Maharjan families and craftsmen, especially woodcarvers, with Buddhist and Hindu households living side by side. Nepal Bhasa is the daily language. Many young people now work in Kathmandu or abroad, but return for the chariot festival and family rituals. Women run many of the household workshops and small shops, and the village guthis still manage temple duties.",
+  "untold": [
+    {
+      "fact": "Rato Machhindranath, the rain god of the valley, spends about six months of each year in Bungamati and six in Patan. In every twelfth year, the chariot is built in Bungamati and pulled all the way to Patan.",
+      "source": "Wikipedia: Rato Machindranath Jatra"
+    },
+    {
+      "fact": "The shikhara temple of Rato Machhindranath in Bungamati's main square collapsed in the April 2015 earthquake, along with much of the village. It has since been rebuilt, with much of the work done by local craftsmen.",
+      "source": "Wikipedia: Bungamati"
+    },
+    {
+      "fact": "Neighbouring Khokana, a short walk away, is known across the valley for its mustard oil, pressed in traditional mills. The village has long sold its oil in Kathmandu's markets.",
+      "source": "Wikipedia: Khokana"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Bunga Dyah",
+      "script": "बुंगद्यः",
+      "lang": "Nepal Bhasa",
+      "meaning": "The god of Bungamati, Rato Machhindranath"
+    },
+    {
+      "word": "Shilpakar",
+      "script": "शिल्पकार",
+      "lang": "Nepal Bhasa",
+      "meaning": "Newar woodcarver; also a family name"
+    },
+    {
+      "word": "Chhen",
+      "script": "छेँ",
+      "lang": "Nepal Bhasa",
+      "meaning": "House or home"
+    }
+  ],
+  "taste": {
+    "name": "Bara (wo)",
+    "text": "A thick patty of ground black lentils fried on a flat iron pan, called wo in Nepal Bhasa, often topped with an egg or minced buffalo. It is offered in rituals and eaten as a snack. Small shops on Bungamati's square and in Khokana fry them fresh in mustard oil."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "Half day"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 14 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 10 km · 45 min"
+    ],
+    [
+      "Altitude",
+      "≈ 1,350 m"
+    ],
+    [
+      "Known for",
+      "Rato Machhindranath, woodcarving, Khokana mustard oil"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    1,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "Rato Machhindranath's temple",
+      "text": "The rebuilt shikhara in a wide courtyard at the heart of the village. When the god is in residence, families come with offerings; when he is in Patan, the temple waits. A good place to sit and watch village life."
+    },
+    {
+      "title": "Woodcarving workshops",
+      "text": "Along the lanes round the square, carvers work on windows, masks and deities with chisels and mallets. Many welcome visitors to watch and will explain the patterns and woods they use."
+    },
+    {
+      "title": "Karya Binayak",
+      "text": "A Ganesh temple on a wooded hill between Bungamati and Khokana, with valley views. It is a popular stop on the walk between the two villages, especially on Tuesdays and Saturdays."
+    },
+    {
+      "title": "Khokana's oil presses",
+      "text": "A few minutes' walk away, the village of Khokana has long been known for mustard oil from traditional presses. Walk its lanes and watch grain and mustard seed spread to dry in the squares."
+    },
+    {
+      "title": "Cycling from Patan",
+      "text": "The 8 km ride from Patan through Nakhu and the southern fields is a classic half-day bike trip, ending in Bungamati's square. Rental bikes and guided rides are easy to arrange in Patan or Thamel."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Bungamati is about 10 km south of central Kathmandu and 8 km from Patan. A taxi takes 40 to 50 minutes from Thamel, or 25 to 35 from Patan, via Nakhu. Local buses run from Lagankhel in Patan to Bungamati, taking about 45 minutes. Cars park at the edge of the village."
+    },
+    {
+      "mode": "On foot",
+      "text": "Bungamati and Khokana are linked by a 20 to 30 minute walk via Karya Binayak. Cyclists ride from Patan in about an hour, partly on busy roads at the Patan end and then quieter village lanes."
+    }
+  ],
+  "where_to_stay": "Bungamati has very few places to stay, mostly small homestays and guesthouses in the village, and most travellers visit as a half-day trip. Patan's old town, 30 minutes away, is the natural base, with heritage guesthouses close to the Durbar Square. Central Kathmandu hotels such as Hotel Yak & Yeti or Kathmandu Guest House are about 45 minutes away by car.",
+  "stays": [],
+  "tips": [
+    "Leave the car at the village edge and walk; the lanes are narrow and busy with daily life.",
+    "Ask before photographing carvers at work, and consider buying a small piece if you spend time in a workshop.",
+    "Combine Bungamati with Khokana and Karya Binayak for a half-day loop on foot.",
+    "Visit in the morning, when the square is busy and the light is good.",
+    "Check with us whether Rato Machhindranath is in Bungamati or Patan during your visit."
+  ],
+  "themes": [
+    "villages-and-homestays",
+    "crafts-and-makers",
+    "heritage-and-temples",
+    "food-and-festivals"
+  ],
+  "nearby": [
+    "patan",
+    "kirtipur",
+    "pharping"
+  ],
+  "experiences": [
+    {
+      "slug": "bungamati-village-and-machhindranath-walk",
+      "title": "Bungamati's square and the rain god's home",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Bungamati square temple courtyard",
+      "wiki": "",
+      "summary": "A guided walk through Bungamati's lanes to the Rato Machhindranath temple, with the story of the god, the chariot festival and the village's recovery since 2015. We meet craftsmen, look into courtyards and hear how guthis still run village life.",
+      "body": [
+        "We enter Bungamati from the car park and walk through narrow lanes of brick houses, many rebuilt since 2015, some still under construction. Families sit outside working: carving wood, sorting grain, knitting. Your guide, who knows the village, introduces neighbours and explains how houses are being rebuilt with a mix of traditional and modern methods.",
+        "At the heart of the village is the courtyard of Rato Machhindranath. We sit on the steps and tell the god's story: the drought, Gorakhnath on the serpents, the journey to Kamaru, the twelve-year chariot. If the god is in residence, we may see families making offerings; if not, we explain where he is and when he will return.",
+        "From the courtyard we walk to the edge of the village, where it drops away to the Bagmati with views to the southern hills. On the way back we visit a woodcarving workshop and a small shop for tea and fried bara. The walk ends at the car park or continues on foot to Khokana."
+      ],
+      "good_for": [
+        "first-timers",
+        "couples",
+        "families",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is Bungamati worth visiting?",
+          "a": "Yes, if you want to see a working Newar village with deep religious links and craft traditions, rather than a monument zone. It is quiet, friendly and close to Patan. It combines well with Khokana and Karya Binayak in a half-day trip. There are few tourist facilities, which is part of its charm."
+        },
+        {
+          "q": "Is there an entry fee for Bungamati?",
+          "a": "At the time of writing, visitors have not paid a general entry fee for Bungamati, though donations to temple restoration are welcome. Rules in the valley change, so check current status before you travel. Please be respectful, as this is a residential village."
+        },
+        {
+          "q": "Was Bungamati damaged in the 2015 earthquake?",
+          "a": "Yes, very badly. The Rato Machhindranath temple collapsed and many homes were destroyed. The temple has been rebuilt and many houses have been reconstructed, but some families are still finishing their homes. Visiting brings income to workshops and shops."
+        }
+      ]
+    },
+    {
+      "slug": "bungamati-woodcarving-workshop",
+      "title": "Carve with Bungamati's woodworkers",
+      "kind": "craft",
+      "duration": "2.5 hours",
+      "best_time": "10 am–3 pm, all year",
+      "image_query": "Newari woodcarving Bungamati workshop",
+      "wiki": "",
+      "summary": "Spend time in a family woodcarving workshop, watching carvers shape windows, masks and deities from sal and other hardwoods. Try a simple pattern with chisel and mallet, and learn how the valley's temple struts and windows are made.",
+      "body": [
+        "Bungamati's woodcarvers supply carved windows, doors, struts and figures to temples, houses and hotels across Nepal. In a family workshop, carvers sit on the floor among blocks of wood and curled shavings, tapping chisels with wooden mallets. Designs are drawn on paper and transferred to the wood, then cut in layers.",
+        "Your host explains the main motifs: lotus petals, peacocks, snakes, the many-armed deities of temple struts, and the latticed windows that let air in and keep eyes out. He shows how the old windows are pegged together without nails, so they can be taken apart and repaired, which mattered after 2015.",
+        "Then you try a simple pattern, such as a lotus petal or border, on a practice block. It takes concentration and a light touch, and most people come away with new respect for the craft. There is no pressure to buy, but small carvings and masks make good gifts, and money goes straight to the family."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I learn woodcarving in Bungamati?",
+          "a": "Yes. Several family workshops welcome visitors to watch and try a simple pattern for a small fee, usually for an hour or two. Longer lessons can be arranged in advance. Wear closed shoes, as wood chips and tools cover the floors."
+        },
+        {
+          "q": "What wood is used for Newar carving?",
+          "a": "Traditional carvers prefer sal, a hard, durable wood used in temples and old houses, and also use other hardwoods and softer woods for smaller pieces and masks. Sal is now scarcer and more expensive, which affects the price of carved windows and struts."
+        },
+        {
+          "q": "Can I ship a carved window home from Bungamati?",
+          "a": "Yes. Many workshops pack and ship larger pieces through Kathmandu cargo agents, with export paperwork for new items. Shipping can cost as much as the carving. Get a written quote including packing, shipping and customs, and pay a deposit only to established workshops."
+        }
+      ]
+    },
+    {
+      "slug": "bungamati-khokana-mustard-oil-walk",
+      "title": "Khokana's mustard oil and Karya Binayak walk",
+      "kind": "food",
+      "duration": "2.5 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Khokana village Nepal",
+      "wiki": "Khokana",
+      "summary": "Walk from Bungamati via the Ganesh temple of Karya Binayak to Khokana, a Newar village known for mustard oil. See seeds drying in the squares, visit a traditional oil press if one is working, and taste local snacks fried in fresh oil.",
+      "body": [
+        "From Bungamati, a path leads up through woods to Karya Binayak, a small Ganesh temple on a wooded hill. Locals visit to ask for success in new work, and the view over the fields towards the southern hills is lovely in the morning. We stop for a few minutes, then walk down the other side to Khokana.",
+        "Khokana is a compact Newar village built round a central street and squares. In season, mustard seed, rice and other grains are spread to dry on the paving, and you may see the old presses at work. Khokana's oil, with its sharp, pungent taste, has long been sold in Kathmandu's markets and is prized for pickles and cooking.",
+        "We visit a press where it is working, see how seeds are crushed and oil drawn off, and smell the strong fumes. Then we stop at a small shop for bara, fried snacks or aloo achar made with local oil. Khokana is also home to the temple of the goddess Rudrayani, which we visit on the way out."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "photographers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "What is Khokana famous for?",
+          "a": "Khokana is a Newar village south of Patan known for its mustard oil, pressed in traditional mills and sold in Kathmandu's markets. It also keeps a well-preserved old core with drying squares and the temple of the goddess Rudrayani. It pairs well with Bungamati, a short walk away."
+        },
+        {
+          "q": "How far is Khokana from Bungamati?",
+          "a": "About 1.5 km, a 20 to 30 minute walk via the Karya Binayak temple on a wooded hill. The path is easy, with gentle climbs. Taxis can also drive between the villages by road, but walking is the best way to see the countryside."
+        },
+        {
+          "q": "Can I buy mustard oil in Khokana?",
+          "a": "Yes. Local presses and shops sell bottles of mustard oil. It is strong and pungent, used in Nepali pickles, cooking and massage. Check the bottle is well sealed for travel, and note airline liquid rules for hand luggage."
+        }
+      ]
+    },
+    {
+      "slug": "bungamati-cycle-from-patan",
+      "title": "Cycle from Patan to Bungamati and Khokana",
+      "kind": "adventure",
+      "duration": "Half day",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "cycling Kathmandu valley village fields",
+      "wiki": "",
+      "summary": "A half-day bike ride from Patan south through Nakhu and rice fields to Bungamati, Karya Binayak and Khokana, then back. About 20 km in total, mostly on roads and lanes, with a few short climbs. Guided, with good bikes and helmets.",
+      "body": [
+        "We start early from Patan, before traffic builds, and ride south through Jawalakhel and Nakhu, where the city thins into brick factories, fields and small settlements. The first stretch shares the road with buses and trucks, so your guide leads and sets the pace. Within 30 minutes, lanes narrow and fields open up.",
+        "Bungamati appears on its spur, and we push bikes through its lanes to the temple square for tea and a rest. Then we ride or walk the bikes over the hill past Karya Binayak to Khokana, stopping to see mustard seed drying and the old village core.",
+        "The return leg takes a different route back towards Patan, with a few short climbs and fine views of the valley rim. The total is about 20 km, with 3 to 4 hours of riding and stops. The ride suits anyone comfortable on a bike in mixed traffic; e-bikes are available on request."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "trekkers"
+      ],
+      "faqs": [
+        {
+          "q": "Is it safe to cycle in the Kathmandu Valley?",
+          "a": "With a guide and a good route, yes. Main roads have heavy, unpredictable traffic, so we keep them short and use village lanes where possible. Helmets are provided and recommended. Start early to avoid traffic and heat, and avoid cycling in heavy rain."
+        },
+        {
+          "q": "How difficult is the Bungamati bike ride?",
+          "a": "It is easy to moderate: about 20 km with a few short climbs, on paved roads and rough village lanes. Anyone who rides a bike regularly can manage it. E-bikes are available for less confident riders. Children over about 12 can join with a suitable bike."
+        },
+        {
+          "q": "Can I rent a bike in Patan or Thamel?",
+          "a": "Yes. Several shops rent mountain bikes and e-bikes by the half or full day, often with helmets and locks. Check brakes and tyres before you leave. For village routes like Bungamati, a guided ride saves time finding the lanes and avoids the busiest roads."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is Bungamati from Kathmandu?",
+      "a": "About 10 km south of central Kathmandu and 8 km south of Patan. By taxi it takes 40 to 50 minutes from Thamel, or 25 to 35 minutes from Patan. Local buses from Lagankhel take about 45 minutes. Cyclists take about an hour from Patan."
+    },
+    {
+      "q": "What is Bungamati known for?",
+      "a": "Bungamati is known as the home of Rato Machhindranath, the rain god whose chariot festival is held in Patan, and for its woodcarvers. It is also a good example of a traditional Newar village, with brick houses round a central temple square, rebuilt after heavy damage in 2015."
+    },
+    {
+      "q": "Can I see the Rato Machhindranath chariot in Bungamati?",
+      "a": "The chariot is usually built and pulled in Patan. In every twelfth year, the festival starts in Bungamati and the chariot is hauled all the way to Patan. In other years, you can see the god's temple in Bungamati when he is in residence. Check current status before you travel."
+    },
+    {
+      "q": "Is Bungamati suitable for children?",
+      "a": "Yes. Children usually enjoy the village life, animals and woodcarving workshops, and the lanes are mostly car-free. There are few facilities, so bring snacks and water. A cycling trip suits older children who ride confidently. Hats and sun cream help on bright days."
+    },
+    {
+      "q": "Can I stay overnight in Bungamati?",
+      "a": "A few homestays and small guesthouses offer simple rooms in or near the village, but options are limited. Most travellers stay in Patan, 30 minutes away. If you want a village night, we can arrange a homestay with a local family."
+    },
+    {
+      "q": "How long do I need in Bungamati?",
+      "a": "Two hours covers the village, temple and a workshop. Half a day lets you walk to Khokana via Karya Binayak, eat and return. A full day can combine Bungamati, Khokana, Chobhar and Kirtipur by car, or by bike for keen riders."
+    },
+    {
+      "q": "When is the best time to visit Bungamati?",
+      "a": "October to April for dry, pleasant weather. Spring, from April to June, is when the Rato Machhindranath festival takes place in Patan, adding interest to a Bungamati visit. Monsoon months are wet and muddy but green and quiet."
+    },
+    {
+      "q": "What should I buy in Bungamati?",
+      "a": "Woodcarvings, from small masks and figures to window frames, directly from the workshops. Khokana mustard oil is another local product. Buying directly supports the families who make them; ask about packing for larger items. Prices are usually fair, but compare two or three workshops first."
+    },
+    {
+      "q": "Is there public transport to Bungamati?",
+      "a": "Yes. Local buses and microbuses leave from Lagankhel bus park in Patan to Bungamati, taking about 45 minutes. They are cheap but crowded and slow. A taxi or private car is easier, especially if you plan to combine several villages in a day."
+    }
+  ]
+}

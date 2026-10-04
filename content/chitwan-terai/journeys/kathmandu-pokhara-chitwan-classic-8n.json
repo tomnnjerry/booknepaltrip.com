@@ -1,0 +1,218 @@
+{
+  "slug": "kathmandu-pokhara-chitwan-classic-8n",
+  "title": "Kathmandu, Pokhara and Chitwan Classic",
+  "region": "chitwan-terai",
+  "kind": "tour",
+  "nights": 8,
+  "themes": [
+    "heritage-and-temples",
+    "wildlife-and-jungle",
+    "lakes-and-rivers",
+    "photography",
+    "honeymoons"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    },
+    {
+      "place": "sauraha",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1450,
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1600,
+  "meta_description": "Classic Nepal tour, 8 nights: Kathmandu's temples and squares, Pokhara's lake and Annapurna sunrise at Sarangkot, then rhino and canoe safaris in Chitwan.",
+  "summary": "The first-timer's Nepal in eight nights: two in Kathmandu for the durbar squares, Swayambhunath and Boudhanath; three in Pokhara for Phewa Lake and sunrise over the Annapurnas from Sarangkot; and three in Chitwan for rhino, canoe trips and Tharu villages. Good 4-star hotels, a private car and short flights where they save a day.",
+  "intro": [
+    "If you have one week and a bit in Nepal and no plans to trek, this is the route we recommend more than any other. It covers the three things most people come for: the temples and living old towns of the Kathmandu Valley, the mountains reflected in Pokhara's lake, and the jungle of Chitwan. Each place is a different altitude, climate and culture, and the drives between them show you the hills and rivers in between.",
+    "We fly the first leg to Pokhara to save the day on the road, then drive down to Chitwan, about 5 hours along the Seti and Trishuli valleys, and fly back to Kathmandu from Bharatpur. Three nights in Pokhara and three in Chitwan give each place time to breathe. The hotels are comfortable 4-star properties, and every day includes free time as well as guided visits. You can upgrade any of the hotels."
+  ],
+  "story": "Kathmandu comes first: brick courtyards and pagoda roofs, butter lamps at Boudhanath, a city where the medieval and the modern share a lane. Then a 25-minute flight swings along the Himalaya and drops you in Pokhara, where Machhapuchhre stands above the lake like a fishtail cut from ice. At dawn on Sarangkot the whole Annapurna range turns pink, then gold. The road down to Chitwan follows rivers out of the hills, and with every kilometre the air gets warmer, the houses flatter and the trees bigger. In Sauraha the river marks the edge of the park, and in the evening a rhino may be grazing on the far bank as you finish your tea. Three places, three altitudes, one week, and a clear picture of how varied this small country is.",
+  "highlights": [
+    "Patan Durbar Square, Swayambhunath and the great stupa of Boudhanath in the Kathmandu Valley",
+    "Sunrise over Annapurna, Machhapuchhre and Dhaulagiri from Sarangkot",
+    "Boating on Phewa Lake to the island temple of Tal Barahi",
+    "Canoe and jeep safaris for one-horned rhino in Chitwan National Park",
+    "An evening in a Tharu village, with a stick dance and local food"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "We meet you at Tribhuvan International Airport and drive to your hotel, about 30 minutes depending on traffic. If you arrive early, take an evening walk to Boudhanath, one of the largest stupas in the world, where Tibetan families walk clockwise around the dome and monks chant in the monasteries around it. Your guide briefs you on the week ahead. Dinner is free tonight, and Thamel and Boudha both have good choices.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Patan, Swayambhunath and Kathmandu",
+      "place": "patan",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "A full day of the valley's heritage. Morning in Patan, the city of fine metalwork and carving, with its Durbar Square and the Patan Museum in the old royal palace. Lunch in a Newar restaurant. In the afternoon climb to Swayambhunath for views over the city, then end at Kathmandu Durbar Square and the house of the Kumari, the living goddess. Your guide explains the Newar festivals and life behind the temples.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 3,
+      "title": "Fly to Pokhara, Phewa Lake",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 822,
+      "move": "≈ 25 min flight",
+      "text": "A short morning flight to Pokhara. Sit on the right side of the plane for the Himalaya. After check-in, walk the lakeside and take a wooden boat across Phewa Lake to the island temple of Tal Barahi, dedicated to the goddess Barahi. In the late afternoon, if you have energy, walk or drive up to the World Peace Pagoda on the ridge above the south shore for sunset over the lake and the mountains.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Sunrise at Sarangkot",
+      "place": "sarangkot",
+      "overnight": "Pokhara",
+      "alt_m": 822,
+      "move": "≈ 30 min drive each way",
+      "text": "An early start to drive up to Sarangkot, at about 1,600 m, for sunrise over Annapurna, Machhapuchhre and Dhaulagiri. On clear mornings from October to April the view stretches across the range. Back for breakfast, then a visit to Davis Falls and the Gupteshwor Mahadev cave across the road. The afternoon is free: paragliding from Sarangkot, a museum, or just the lakeside cafes. Paragliding is weather-dependent and best booked a day ahead.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "A free day in Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 822,
+      "move": "",
+      "text": "A day to choose for yourself. Options include a gentle half-day hike to Australian Camp or a village walk around Begnas Lake, a visit to the International Mountain Museum, a Tibetan settlement such as Tashi Palkhel, a cooking class or a spa afternoon. Or simply sit by the lake. Your guide can arrange anything you want, and suggest restaurants for your last Pokhara evening. A boat at dawn on the lake is one of Pokhara's quiet pleasures.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Drive to Chitwan",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 150 km · 5–6 h drive",
+      "text": "Drive south-east from Pokhara along the Seti and Marsyangdi rivers to Mugling, then down along the Trishuli and Narayani to Chitwan. The road drops from the hills into the warm, flat Terai. Arrive in Sauraha in time for lunch. In the late afternoon, walk to the Rapti riverbank for sunset, when rhino often cross to graze on the far bank. Dinner at the lodge. There are tea and lunch stops along the way, and below Mugling you may see rafts on the Trishuli.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Canoe, elephants and jeep safari",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "",
+      "text": "Early morning, a dugout canoe trip on the Rapti, past mugger crocodiles and kingfishers, then a short guided walk through riverine forest. After breakfast, a visit to the elephant breeding centre at Khorsor. In the late afternoon, a jeep safari into Chitwan National Park for rhino, deer, wild boar, monkeys and birds, with the chance of sloth bear, gaur or leopard. Evening in a Tharu village with a stick dance.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "A full day in Chitwan",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 8 h by jeep, optional",
+      "text": "Choose between a full-day jeep safari deeper into the park, past the lakes to Kasara and the gharial breeding centre, or a slower day with a birding walk, a bicycle ride through Tharu villages and a lazy afternoon at the lodge. A full day in the park gives the best chance of seeing rarer animals. On your last evening, sit by the river with a drink and watch the sun drop behind the trees.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Fly from Bharatpur to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min drive + 25 min flight",
+      "text": "A last morning walk or birdwatching session if you want, then the short drive to Bharatpur for the flight to Kathmandu. We transfer you to your hotel or the international airport. If you have extra days, consider a night in Bhaktapur or Dhulikhel, or add a short trek such as Ghorepani Poon Hill from Pokhara. The trip ends on arrival in Kathmandu. Morning fog in winter can delay the flight.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-yak-and-yeti",
+    "temple-tree-resort",
+    "green-park-chitwan"
+  ],
+  "includes": [
+    "2 nights at Hotel Yak & Yeti, Kathmandu, 3 nights at Temple Tree Resort & Spa, Pokhara, and 3 nights at Green Park Chitwan, twin sharing",
+    "Meals as listed; full board in Chitwan",
+    "Flights Kathmandu–Pokhara and Bharatpur–Kathmandu, with airport transfers",
+    "Private car with driver for sightseeing and the Pokhara–Chitwan drive",
+    "English-speaking guides in Kathmandu and Pokhara; licensed nature guides in Chitwan",
+    "Entry fees for listed heritage sites and Chitwan National Park; Chitwan activities as listed"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Lunches and dinners in Kathmandu and Pokhara, drinks and tips",
+    "Paragliding and other optional activities",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Mountain views from Pokhara are clearest from October to April; in the monsoon cloud often hides the peaks.",
+    "Domestic flights can be delayed by weather, especially fog in winter mornings at Bharatpur.",
+    "Heritage site and park entry fees change from time to time; check current status before you travel.",
+    "Hotels can be upgraded to Dwarika's in Kathmandu and Meghauli Serai in Chitwan at extra cost.",
+    "This trip suits all ages; there is no trekking and walking is light."
+  ],
+  "faqs": [
+    {
+      "q": "Is 8 nights enough for Kathmandu, Pokhara and Chitwan?",
+      "a": "Yes, for a first visit. Two nights in Kathmandu cover the main heritage sites, three in Pokhara give time for the lake, Sarangkot sunrise and a free day, and three in Chitwan allow canoe, jeep and village visits. With fewer nights you will spend a larger share of the trip in transit."
+    },
+    {
+      "q": "What is the best order: Pokhara or Chitwan first?",
+      "a": "Either works. We usually go Kathmandu, Pokhara, Chitwan, because the Pokhara–Chitwan drive is shorter than Kathmandu–Chitwan, and flying back from Bharatpur avoids a long final day. In spring, when Chitwan gets hotter, some guests prefer Chitwan first while mornings are cooler."
+    },
+    {
+      "q": "Should I fly or drive between Kathmandu, Pokhara and Chitwan?",
+      "a": "We fly Kathmandu to Pokhara, about 25 minutes, to save a 6 to 8 hour drive, and drive Pokhara to Chitwan, about 5 to 6 hours, because there is no direct flight. We then fly Bharatpur to Kathmandu, 25 minutes. Driving the whole loop is possible and cheaper but adds two long road days."
+    },
+    {
+      "q": "When is the best time for this tour?",
+      "a": "October to April. October and November have the clearest mountain views and pleasant temperatures. December and January are cool and clear, with foggy mornings in Chitwan. February to April is excellent for Chitwan wildlife, with rhododendrons in the hills, though haze can soften views of the Himalaya by April."
+    },
+    {
+      "q": "How much does a Kathmandu, Pokhara and Chitwan tour cost?",
+      "a": "This 8-night trip starts from about USD 1,450 per person, twin sharing, in good 4-star hotels with flights, private transport, guides and Chitwan activities. Budget versions with tourist buses and simpler hotels cost less; luxury versions with Dwarika's, The Pavilions Himalayas or Meghauli Serai cost more."
+    },
+    {
+      "q": "Can I add a short trek to this itinerary?",
+      "a": "Yes. From Pokhara, the Ghorepani Poon Hill trek takes 3 or 4 nights and needs no special fitness. A shorter option is a 2-night walk to Dhampus or Australian Camp for mountain views. Since April 2023, foreign trekkers in conservation areas must hire a licensed guide; check current status before you travel."
+    },
+    {
+      "q": "Is this tour suitable for older travellers or families?",
+      "a": "Yes. There is no trekking, the walking is light and mostly on flat ground, and the hotels are comfortable. Early starts for Sarangkot and the canoe trip are optional. Children of six and older enjoy Chitwan most. We can add rest days or adjust activities for anyone with limited mobility."
+    },
+    {
+      "q": "Will I see mountains from Pokhara?",
+      "a": "On most mornings from October to April, yes. Machhapuchhre, Annapurna South and the Annapurna range are visible from the lakeside, and Sarangkot adds Dhaulagiri to the west. From May to September cloud often hides the peaks, though clear mornings do happen after rain. Early morning is always the best time."
+    },
+    {
+      "q": "What wildlife will I see in Chitwan?",
+      "a": "One-horned rhino, chital and sambar deer, wild boar, rhesus macaques, grey langurs, mugger crocodiles and many birds are seen on most visits. Gharial, sloth bear, gaur and leopard are possible. Tigers live in the park, but sightings are rare. Three nights give you a canoe trip and two jeep safaris."
+    }
+  ]
+}

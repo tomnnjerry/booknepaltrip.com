@@ -1,0 +1,163 @@
+{
+  "slug": "rara-lake-by-air-4n",
+  "title": "Rara Lake by Air",
+  "region": "far-west",
+  "kind": "tour",
+  "nights": 4,
+  "themes": [
+    "lakes-and-rivers",
+    "photography",
+    "slow-and-wellness",
+    "honeymoons"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "rara-lake",
+      "nights": 4
+    }
+  ],
+  "start": "Nepalgunj Airport (KEP), morning flight to Talcha",
+  "end": "Nepalgunj, by air from Talcha",
+  "price_from_usd": 900,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    0
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 3700,
+  "meta_description": "Rara Lake by air, 4 nights: fly to Talcha, walk 3 hours to Nepal's largest lake, then three slow days on the shore and Murma Top. From Nepalgunj.",
+  "summary": "The shortest way to Rara. Fly from Nepalgunj to Talcha airstrip in Mugu, walk about three hours to the lake, and spend three nights on its shore: the 13 km lakeshore walk, the climb to Murma Top for the view over the whole lake, and quiet mornings on the water. One night by the airstrip before the flight out.",
+  "intro": [
+    "Rara is a long way from anywhere, which is most of its charm. The lake lies at 2,990 m in Mugu, one of the least visited districts of Nepal, surrounded by forest of blue pine, spruce and juniper. This trip is for people who want the lake without a week of walking: a small plane, a short trail, and time to sit still. There are no roads to cross, only a short trail through forest, and the lake does the rest.",
+    "The only demanding part is the flying. Talcha is a short mountain strip and flights go only in good weather, usually early in the morning. We plan the trip around that, with a night beside the strip before the flight out, and we advise one spare day before any onward international flight. Lodges at the lake are simple, warm and run by local families, and the food is plain dal bhat, potatoes and tea."
+  ],
+  "story": "The plane lifts off the hot runway at Nepalgunj and within minutes the plain gives way to forested ridges and then deep, grey gorges of the Karnali. You land on a strip cut into a hillside at Talcha, step into cold clear air and start walking. Fields of buckwheat and potato, then pine forest, then a gap in the trees and the lake, larger than you expected, the colour changing as cloud shadows cross it. For three days nothing much happens, which is the point. Mornings are frost and mirror-still water, afternoons a breeze off the lake, evenings a fire and stars.",
+  "highlights": [
+    "Rara Lake, 10.8 km² at 2,990 m, the largest lake in Nepal",
+    "The 13 km lakeshore path through blue pine and spruce, nearly level all the way",
+    "Murma Top at about 3,700 m, with the whole lake below and snow ranges to the north",
+    "Birds of Rara National Park: Himalayan monal, kalij pheasant and grebes on the water",
+    "Flights over the Karnali gorges between the plain and Mugu"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly to Talcha, walk to Rara",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 45 min flight · ≈ 3 h walk · +270 m",
+      "text": "We meet at Nepalgunj Airport for the morning flight to Talcha in Mugu district, about forty-five minutes over the hills. Your guide and porter meet you at the strip, at about 2,720 m. After tea the trail climbs gently through fields and villages and then into the forest of Rara National Park, where we show permits at the post. The first view of the lake comes through the trees after about three hours. Lunch and an afternoon of rest at a simple lodge near the northern shore.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Walk round Rara Lake",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 13 km · 5–6 h walk",
+      "text": "The lakeshore circuit is about 13 km and almost level. The path runs through forest and comes out onto the water every so often at small beaches and meadows. Your guide explains how the villages of Rara and Chapru once stood on the shore and were moved to the Terai when the park was founded in 1976. Look for grebes and, in late autumn, migrating ducks on the water. We picnic on the south shore and come back for tea before the evening wind.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Murma Top and an afternoon on the water",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 4–5 h walk · ≈ +700 m and back",
+      "text": "A steady climb through forest to Murma Top, about 3,700 m, for the view everyone comes for: the whole oval of Rara below, and on clear mornings the snow ranges of Mugu and Humla to the north. Leave early, because cloud often builds by late morning. Back at the lake after lunch you can take a boat ride if the park is running them, visit the small Thakur Baba shrine, or simply sit on the shore with a book. Nights are cold here even in May.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Rara to Talcha",
+      "place": "rara-lake",
+      "overnight": "Talcha",
+      "alt_m": 2720,
+      "move": "≈ 3 h walk · −270 m",
+      "text": "A last morning on the lake, often the stillest light of the trip, then the walk back through the forest and fields to Talcha. We stay near the airstrip because flights leave early, before wind rises in the valleys. The afternoon is free to walk through the village, where families grow buckwheat, potatoes and beans and keep sheep for wool. Your guide confirms seats on the next morning's flight. In the evening the lodge family lights the stove early, because Talcha is cold after dark.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Fly Talcha to Nepalgunj",
+      "place": "",
+      "overnight": "Nepalgunj or Kathmandu",
+      "alt_m": 165,
+      "move": "≈ 45 min flight",
+      "text": "The early flight takes you back across the Karnali hills to Nepalgunj in about forty-five minutes. From here you can connect to an afternoon flight to Kathmandu, or drive 90 km to Bardia National Park for a few days of safari, which pairs well with the stillness of Rara. If weather cancels the morning flight, we wait for the next one and keep you informed; extra nights are simple but warm.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Nepalgunj–Talcha–Nepalgunj flights (economy)",
+    "Licensed guide and one porter for every two guests",
+    "4 nights in simple lodges at Rara and Talcha, all meals",
+    "Rara National Park entry fee"
+  ],
+  "excludes": [
+    "Kathmandu–Nepalgunj flights and nights in Nepalgunj",
+    "Boat rides at the lake, drinks and tips",
+    "Travel insurance",
+    "Extra nights caused by weather"
+  ],
+  "good_to_know": [
+    "Rara National Park charges foreigners an entry fee, NPR 3,000 at the time of writing, and requires a licensed guide since April 2023. Check current status before you travel.",
+    "Lodges at Rara are basic: twin rooms, shared toilets, thick blankets. Bring a warm sleeping bag liner.",
+    "Night temperatures at Rara fall below freezing from November to March.",
+    "Talcha flights are weather-dependent; keep at least one spare day before international departure.",
+    "In Dashain and Tihar (October–November) many Nepali visitors drive to Rara; the north shore can be busy for a few days."
+  ],
+  "faqs": [
+    {
+      "q": "How do I get to Rara Lake quickly?",
+      "a": "Fly from Nepalgunj to Talcha airstrip in Mugu, about 45 minutes, then walk roughly three hours to the lake. From Kathmandu, fly to Nepalgunj first, usually the afternoon before. The alternative is a long drive via Surkhet and Jumla, two to three days on rough roads. Flying is the only way to reach Rara in a single day."
+    },
+    {
+      "q": "How long is the walk from Talcha to Rara?",
+      "a": "About three hours at an easy pace, climbing gently from roughly 2,720 m to 2,990 m through fields and pine forest. The trail is wide and not technical. A porter carries your main bag, so you walk with a daypack. Coming back is slightly faster because it is mostly downhill."
+    },
+    {
+      "q": "Is Rara worth it for only four nights?",
+      "a": "Yes, if you like quiet places. Three nights at the lake are enough to walk its shoreline, climb Murma Top and have unhurried mornings on the water. You will not see the Sinja valley or the old Khasa heritage that the longer trek from Jumla passes, but you will see the lake well."
+    },
+    {
+      "q": "What are the lodges like at Rara?",
+      "a": "Simple. Expect wooden or stone buildings with twin rooms, shared toilets, thick quilts and a dining room with a stove. Hot showers are limited. Food is dal bhat, noodles, potatoes, eggs and tea. There is no luxury option at the lake, and in busy weeks we may use our own tents to guarantee a good spot."
+    },
+    {
+      "q": "When is the best time to visit Rara Lake by air?",
+      "a": "April and May, and October and November. Spring brings rhododendron and warmer days; autumn brings the clearest skies and the best flying weather. March and September can work with some risk. From December to February the area is very cold and snow can close trails, and in the monsoon flights are often cancelled."
+    },
+    {
+      "q": "Can I see snow mountains from Rara?",
+      "a": "Not well from the shore, which is ringed by forest-covered hills. Climb to Murma Top, about 3,700 m, and on a clear morning you see snow ranges to the north toward Mugu and Humla, with the whole lake below. Go early, because cloud often builds by late morning in spring."
+    },
+    {
+      "q": "Is Rara Lake suitable for older travellers?",
+      "a": "Usually, yes. The only walking required is the three-hour approach from Talcha and back, and you can skip the Murma Top climb. The altitude, 2,990 m, can cause headaches or poor sleep, so we keep the first afternoon free. Talk to your doctor if you have heart or lung conditions, and bring warm clothes."
+    },
+    {
+      "q": "Do I need a permit for Rara?",
+      "a": "You need the Rara National Park entry permit, which costs NPR 3,000 for foreigners at the time of writing and is included in our price. No restricted area permit is needed. Since April 2023, foreign visitors in national parks must be accompanied by a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "What if the flight to Talcha is cancelled?",
+      "a": "You wait in Nepalgunj for the next morning's flight, and the trip shifts by a day. If cancellations continue we can switch to a jeep via Surkhet and Jumla, which takes two to three days, or shorten the stay. Flights to Talcha are most reliable from October to November and in April and May."
+    }
+  ]
+}

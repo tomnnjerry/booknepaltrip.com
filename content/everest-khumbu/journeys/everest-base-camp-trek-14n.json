@@ -1,0 +1,95 @@
+{
+  "slug": "everest-base-camp-trek-14n",
+  "title": "Everest Base Camp Trek",
+  "region": "everest-khumbu",
+  "kind": "trek",
+  "nights": 14,
+  "themes": ["treks-and-trails", "high-altitude", "photography"],
+  "grade": "Challenging",
+  "stops": [
+    {"place": "kathmandu", "nights": 1},
+    {"place": "lukla", "nights": 1},
+    {"place": "namche-bazaar", "nights": 2},
+    {"place": "tengboche", "nights": 1},
+    {"place": "dingboche", "nights": 2},
+    {"place": "everest-base-camp", "nights": 2},
+    {"place": "dingboche", "nights": 1},
+    {"place": "namche-bazaar", "nights": 1},
+    {"place": "lukla", "nights": 1},
+    {"place": "kathmandu", "nights": 2}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1650,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 5545,
+  "meta_description": "Everest Base Camp trek in 14 nights: Lukla flight, Namche, Tengboche, two acclimatisation days, Kala Patthar sunrise. Licensed guide, porter, from USD 1,650.",
+  "summary": "The classic walk from Lukla to the foot of the Khumbu Icefall and up Kala Patthar for sunrise on Everest. Fourteen nights with two full acclimatisation days, a spare day in Kathmandu for Lukla weather, a licensed Sherpa or Nepali guide, a porter and family-run teahouses all the way.",
+  "intro": [
+    "This is the trek most people mean when they say they want to see Everest. You fly into Lukla, walk up the Dudh Koshi to Namche Bazaar, cross the ridge to the monastery at Tengboche and follow the Imja and Khumbu valleys until the grass gives out and the glacier begins. The base camp itself sits at 5,364 m on rubble and ice. The view of Everest comes the next morning, from the brown hump of Kala Patthar above Gorak Shep.",
+    "We built this itinerary around one rule: sleep no more than about 500 m higher each night above 3,000 m, and rest after every big climb. That is why there are two nights in Namche and two in Dingboche, and why the walk back is quick. The spare day in Kathmandu at the end exists because Lukla flights are cancelled by cloud more often than brochures admit. If the flights run on time, you get a free day to walk around Boudhanath instead."
+  ],
+  "story": "The first two days feel like Nepal's middle hills: pine forest, potato fields, blue-roofed lodges and the river loud below every bridge. At Namche the trail turns Sherpa, with mani walls you pass on the left, prayer flags snapping and a Saturday market where Rai porters sell rice carried up from below. After Tengboche the trees shrink to juniper and rhododendron scrub, and the yak herders' summer huts of Dingboche are ringed with stone walls against the wind. Above Thukla the memorial cairns to climbers who did not come home line the ridge. By Gorak Shep there is only sand, ice and the sound of the glacier settling in the night. Then the long walk down, when the air gets thick again and everyone sleeps ten hours.",
+  "highlights": [
+    "Sunrise on Everest, Lhotse and Nuptse from Kala Patthar at about 5,545 m",
+    "Standing at Everest Base Camp under the Khumbu Icefall at 5,364 m",
+    "The afternoon puja with the monks at Tengboche Monastery",
+    "Namche Bazaar's Saturday market and the Sherpa Culture Museum",
+    "Two acclimatisation hikes, to the Everest View ridge and Nangkartshang above Dingboche"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 30 min transfer", "text": "We meet you at Tribhuvan International Airport and drive you to your hotel. In the late afternoon your guide comes by for a full briefing: the route, the altitude plan, what goes in your 10 kg porter bag and what stays behind in the hotel store. We check your boots, down jacket and sleeping bag, and sort anything missing in Thamel the same evening. If Lukla flights are running from Ramechhap that week, we also explain the early start and the drive.", "meals": "Dinner"},
+    {"day": 2, "title": "Fly to Lukla, walk to Phakding", "place": "lukla", "overnight": "Phakding", "alt_m": 2610, "move": "≈ 35 min flight · 3–4 h walk · −250 m", "text": "An early flight drops you onto the short, uphill runway at Lukla, 2,860 m. Over tea your guide meets the porters and the bags are weighed. The walk to Phakding is gentle and mostly downhill: through Chheplung, past carved mani stones and the first long suspension bridges over the milky Dudh Koshi. Phakding is a string of lodges on both banks. Tonight is lower than Lukla on purpose, a soft first night for your body before the climb to Namche.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Phakding to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "alt_m": 3440, "move": "≈ 6 h walk · +830 m", "text": "The valley narrows past Benkar and Monjo, where Sagarmatha National Park permits are checked at the gate. After Jorsalle you cross the river for the last time on the high Hillary suspension bridge and start the long, steady zigzag up to Namche. About halfway, from a gap in the pines, the top of Everest shows behind the Nuptse–Lhotse wall if the sky is clear. Namche is a horseshoe of lodges, bakeries and gear shops built into the hillside at 3,440 m.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Acclimatisation day in Namche", "place": "namche-bazaar", "overnight": "Namche Bazaar", "alt_m": 3440, "move": "≈ 4–5 h day hike · +440 m and back", "text": "Climb high, sleep low. We walk up past the Syangboche airstrip to the terrace of Hotel Everest View at 3,880 m for tea with Everest, Lhotse and Ama Dablam in front of you, then loop down through Khumjung, where the school Edmund Hillary's Himalayan Trust opened in 1961 still teaches local children. Back in Namche there is time for the Sherpa Culture Museum and the national park visitor centre on the ridge. On Saturdays the market fills the lower terraces from early morning.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Namche to Tengboche Monastery", "place": "tengboche", "overnight": "Tengboche", "alt_m": 3867, "move": "≈ 5–6 h walk · +430 m", "text": "A level traverse to Kyangjuma, with Ama Dablam ahead the whole way, then a steep drop to the river at Phunki Thenga, about 3,250 m, where prayer wheels are turned by the water. The climb to Tengboche through rhododendron and fir takes two hours. The monastery, founded in 1916, burned in 1989 and was rebuilt, sits on a saddle facing Everest. If you arrive by 3 pm you can sit at the back of the prayer hall during the afternoon puja; take off your shoes and hat.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Tengboche to Dingboche", "place": "dingboche", "overnight": "Dingboche", "alt_m": 4410, "move": "≈ 5–6 h walk · +540 m", "text": "Down through the forest to Deboche, across the gorge and up to Pangboche, the highest year-round village in the valley and home to its oldest gompa. Above the village the trees end. The trail follows the Imja Khola past Somare to Dingboche, a patchwork of stone-walled barley and potato fields that Sherpa families farm in summer. Tonight is the first above 4,000 m. Walk slowly, drink three to four litres through the day and tell your guide about any headache.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Acclimatisation hike above Dingboche", "place": "dingboche", "overnight": "Dingboche", "alt_m": 4410, "move": "≈ 4 h day hike · up to ≈ 5,000 m and back", "text": "Another climb-high, sleep-low day. We take the ridge behind the village towards Nangkartshang Peak, about 5,083 m, going as high as feels comfortable. From the top you see Makalu's summit to the east, Island Peak in the Imja valley and the long south face of Lhotse. Back in the lodge the afternoon is for rest, cards, laundry in a bucket and an early dinner. Your guide checks pulse and oxygen readings morning and evening from here on.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Dingboche to Lobuche", "place": "", "overnight": "Lobuche", "alt_m": 4940, "move": "≈ 5 h walk · +530 m", "text": "An easy rise across the open Pheriche valley to Thukla, a pair of lodges where we stop for lunch, then a hard hour up the moraine of the Khumbu Glacier. At the top of the climb the Thukla pass is crowded with stone memorials and prayer flags for climbers and Sherpas who died on Everest. Read a few of the names. The trail then eases along the glacier to Lobuche, a small group of lodges under Lobuche East and Nuptse. Evenings are cold; the stove is lit at dinner.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 9, "title": "Gorak Shep and Everest Base Camp", "place": "everest-base-camp", "overnight": "Gorak Shep", "alt_m": 5164, "move": "≈ 7–8 h walk · +420 m to base camp", "text": "We leave Lobuche early and follow the lateral moraine to Gorak Shep, the last lodges, built on a frozen sand lake at 5,164 m. After lunch we walk two to three hours across the rubble to base camp at 5,364 m. In April and May the expedition tents spread over the glacier; in autumn it is quiet, a few prayer flags and the marker stone. The Khumbu Icefall rises above you. We walk back to Gorak Shep for the night, the highest you will sleep.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 10, "title": "Kala Patthar sunrise, down to Pheriche", "place": "everest-base-camp", "overnight": "Pheriche", "alt_m": 4371, "move": "≈ 2 h up · ≈ 6 h down · −790 m overnight", "text": "Head torches at about 4.30 am for the climb up Kala Patthar. It is a steady, sandy path, and the cold is the hard part. At the viewpoint, about 5,545 m, the sun reaches Everest's summit first, then Nuptse, then the Khumbu Glacier below you. Back at Gorak Shep for breakfast, then the long walk down past Lobuche and Thukla to Pheriche. The Himalayan Rescue Association runs an aid post here in the trekking seasons. You will sleep deeply in the thicker air.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 11, "title": "Pheriche to Namche Bazaar", "place": "namche-bazaar", "overnight": "Namche Bazaar", "alt_m": 3440, "move": "≈ 7 h walk · −930 m", "text": "A long but easy day that undoes the week. Past Pangboche you are back in juniper and birch; after the climb to Tengboche you drop through the forest to the river and work back along the Kyangjuma traverse to Namche. Many trekkers find their appetite returns here all at once. Namche has real coffee, apple pie at the bakeries and hot showers that actually stay hot. If any of your group want to buy souvenirs, this is the evening.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 12, "title": "Namche to Lukla", "place": "lukla", "overnight": "Lukla", "alt_m": 2860, "move": "≈ 7 h walk · −580 m", "text": "Down the zigzag to the Hillary bridge, past Monjo's park gate and along the river through Phakding, then a last climb of about an hour from Chheplung up to Lukla. It is the porters' day to finish, and tonight is the usual dinner with your crew; tipping is customary and your guide can tell you what is normal. Your guide reconfirms the morning flight and tells you the check-in time. Lodges in Lukla have hot showers and quiet rooms.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 13, "title": "Fly Lukla to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 35 min flight, or 20 min to Ramechhap and ≈ 4–5 h drive", "text": "Morning flights leave Lukla in batches as the cloud allows. Depending on the season you land in Kathmandu or at Ramechhap, from where we drive you back to the city in about four to five hours. The rest of the day is yours: a long shower, laundry service and a meal that is not dal bhat. If cloud holds the flights, we wait in Lukla and use tomorrow's spare day, which is exactly why it is in the plan.", "meals": "Breakfast"},
+    {"day": 14, "title": "Spare day in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400, "move": "", "text": "If your flight came through on time, today is free. We suggest an evening walk around the stupa at Boudhanath, where many Sherpa families from Solukhumbu now live, and butter lamps are lit along the circuit after dark. Your guide or a city guide can take you, or you can go alone by taxi in about 30 minutes from Thamel. If weather in Lukla used this day, we keep your hotel booking flexible and move you straight in.", "meals": "Breakfast"},
+    {"day": 15, "title": "Departure from Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 30 min transfer", "text": "We drive you to Tribhuvan International Airport about three hours before your international flight. If you are staying on in Nepal, this is a good point to add Chitwan, Pokhara or a few days of the old towns of the Kathmandu Valley; your legs will be strong and the warm air feels good after two weeks at altitude. Please leave any borrowed sleeping bag or down jacket at the hotel desk for us to collect.", "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-shanker-kathmandu"],
+  "includes": [
+    "Airport transfers and 3 nights at Hotel Shanker, Kathmandu, twin sharing with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "Licensed English-speaking trekking guide, and one porter for every two trekkers (10 kg each)",
+    "11 nights in teahouses, twin rooms, with breakfast, lunch and dinner on trek",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Guide and porter wages, insurance, food and lodging",
+    "Pulse oximeter checks and a basic first-aid kit carried by the guide"
+  ],
+  "excludes": [
+    "International flights and Nepal visa (USD 30 for 15 days, USD 50 for 30 days on arrival)",
+    "Travel insurance covering trekking to 6,000 m and helicopter evacuation (required)",
+    "Hot showers, battery charging, Wi-Fi cards and bottled or boiled water in teahouses",
+    "Drinks, snacks and lunches and dinners in Kathmandu",
+    "Tips for guide and porters",
+    "Helicopter evacuation or extra nights caused by weather"
+  ],
+  "good_to_know": [
+    "Since April 2023 Nepal requires foreign trekkers in national parks to walk with a licensed guide; enforcement in Khumbu has been uneven. Check current status before you travel.",
+    "In April–May and October–November most Lukla flights leave from Ramechhap (Manthali), about 4–5 hours' drive from Kathmandu, with a 1–2 am start.",
+    "The Lukla flight baggage limit is usually 15 kg per person including hand luggage; extra weight is charged per kilo.",
+    "Nights at Gorak Shep in November can fall to about −15 °C indoors; bring a sleeping bag rated to around −15 °C or rent one in Kathmandu.",
+    "Teahouse rooms are plywood twins with a shared toilet above Namche; attached bathrooms are rare after Tengboche.",
+    "Budget about USD 20–30 a day for showers, charging, drinks and snacks on trek."
+  ],
+  "faqs": [
+    {"q": "How hard is the Everest Base Camp trek?", "a": "It is a challenging trek but not a technical one. You walk 5 to 7 hours most days on rocky, well-used trails, and the difficulty is the altitude, not the terrain. Anyone who can hike 15 km with 600 m of climbing on consecutive days at home can do it with training. Start walking hills with a day pack two to three months before you come."},
+    {"q": "How much does the Everest Base Camp trek cost?", "a": "This 14-night trip starts from USD 1,650 per person, twin sharing, including Lukla flights, a licensed guide, a porter between two, park and municipality permits, teahouse rooms with three meals a day on trek and three Kathmandu hotel nights. Add about USD 300–400 for extras on trek, plus visa, insurance and tips."},
+    {"q": "Do I need a guide for the Everest Base Camp trek?", "a": "Under the rule Nepal introduced in April 2023, foreign trekkers in national parks should walk with a licensed guide. The Khumbu municipality has applied it unevenly, and some independent trekkers still go. We include a licensed guide because altitude decisions are easier with someone who has read the signs many times. Check current status before you travel."},
+    {"q": "When is the best time to trek to Everest Base Camp?", "a": "October and November give the clearest skies and steady weather, with cold nights. March to mid-May is the second season, warmer, with rhododendrons lower down and expedition tents at base camp. December to February is possible but very cold above 4,500 m. June to September is monsoon: cloud, rain lower down and frequent Lukla flight cancellations."},
+    {"q": "Can I see Everest from Everest Base Camp?", "a": "Barely. From base camp itself the summit is hidden behind the Nuptse ridge, though you see the Khumbu Icefall close up. The full view of Everest comes from Kala Patthar, the hill above Gorak Shep, where at about 5,545 m you see the summit pyramid, the South Col and the Lhotse face. That is why we climb it at sunrise."},
+    {"q": "What happens if Lukla flights are cancelled?", "a": "Cloud in Lukla or Kathmandu cancels flights several times a season. On the way in we simply start a day later and use the spare day. On the way out we wait in Lukla, and if delays run beyond the spare day you can share a helicopter, usually several hundred US dollars per seat, at your own cost or claimed on insurance."},
+    {"q": "What is altitude sickness and how do you manage it?", "a": "Acute mountain sickness is the body struggling with less oxygen above about 2,500 m: headache, nausea, poor sleep. We prevent it with slow ascent, two acclimatisation days and lots of water. Your guide checks oxygen saturation daily. Mild symptoms mean we rest; worsening symptoms mean we descend, which always works. Talk to your doctor about acetazolamide before you travel."},
+    {"q": "Are there toilets, showers and Wi-Fi on the trek?", "a": "Every teahouse has a toilet, usually a squat toilet in a shared block above Namche. Hot showers are available to Dingboche for about NPR 500–800, solar or gas heated. Wi-Fi in the Khumbu runs on prepaid Everest Link cards that work across most villages, plus some 4G signal lower down. Charging costs extra above Namche."},
+    {"q": "How fit do I need to be and is there an age limit?", "a": "There is no age limit; we have walked this route with teenagers and with people in their seventies. What matters is steady hill fitness and a doctor's check if you have heart or lung conditions. If you can climb stairs for an hour without stopping, you have a base. Train with a loaded day pack on consecutive days."}
+  ]
+}

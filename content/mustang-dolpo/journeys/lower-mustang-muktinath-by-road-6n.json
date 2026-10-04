@@ -1,0 +1,204 @@
+{
+  "slug": "lower-mustang-muktinath-by-road-6n",
+  "title": "Lower Mustang and Muktinath by road",
+  "region": "mustang-dolpo",
+  "kind": "overland",
+  "nights": 6,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "villages-and-homestays",
+    "food-and-festivals",
+    "family-trips"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 2
+    },
+    {
+      "place": "marpha",
+      "nights": 1
+    },
+    {
+      "place": "kagbeni",
+      "nights": 1
+    },
+    {
+      "place": "muktinath",
+      "nights": 1
+    },
+    {
+      "place": "tukuche",
+      "nights": 1
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 1100,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 3710,
+  "meta_description": "Lower Mustang by road, 6 nights from Pokhara: Kali Gandaki gorge, Marpha, Kagbeni, Muktinath temple and Tukuche by private jeep with a licensed guide.",
+  "summary": "Six nights by private jeep from Pokhara up the Kali Gandaki, the deep gorge between Dhaulagiri and Annapurna, to the apple village of Marpha, medieval Kagbeni and the temple of Muktinath, then back by the old salt-trade town of Tukuche. No restricted permit and no flights to depend on.",
+  "intro": [
+    "The road from Pokhara to Jomsom and Muktinath follows one of the oldest trade routes in the Himalaya, the line along which salt and wool came south from Tibet and grain went north. Today it is a rough but busy jeep road. Driving it gives you the whole change in one journey: rice terraces and banana trees near Beni, pine forest at Ghasa, then the dry, windy world of the Thakali villages and the desert beyond.",
+    "This trip suits families, pilgrims who prefer not to depend on mountain flights, and anyone who wants Mustang's villages at an easy pace. Lower Mustang lies inside the Annapurna Conservation Area, so you need its permit and, under current rules, a licensed guide, but not the restricted-area permit of Upper Mustang. Everything travels in one private jeep, with your luggage on the roof and a driver who knows every bend."
+  ],
+  "story": "You leave Pokhara among rice fields and arrive that evening in a village of flat roofs and apple orchards, having driven through the deepest stretch of the Kali Gandaki gorge, with Dhaulagiri on one side and the Annapurnas on the other. Next morning Marpha's whitewashed lanes smell of woodsmoke and drying apples. At Kagbeni you watch pilgrims offer rice balls for their ancestors at the river confluence, and at Muktinath you stand where Hindus and Buddhists have prayed side by side for centuries. On the way back, Tukuche's old trading houses tell how the Thakali grew rich on salt. By the time you reach Pokhara again, you have crossed from the monsoon to the high desert and back.",
+  "highlights": [
+    "Muktinath at dawn, holy to Hindus as Mukti Kshetra and to Buddhists as Chumig Gyatsa",
+    "Marpha's stone lanes, apple orchards and distillery",
+    "Kagbeni, a fortified village at the confluence of the Jhong and Kali Gandaki rivers",
+    "The Kali Gandaki gorge between Dhaulagiri and Annapurna I",
+    "Tukuche's old salt-trade houses and Thakali cooking"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "",
+      "text": "Meet your guide and driver in Pokhara. We go through the plan, collect copies of your passport for the conservation area permit, and agree on an early start. Pokhara sits at about 820 m, so pack warm layers for Muktinath at 3,700 m, where even in April the mornings are near freezing. Spend the evening by Phewa Lake. If you arrive early, a boat to the Tal Barahi temple on its island is a pleasant hour.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Pokhara to Marpha through the gorge",
+      "place": "marpha",
+      "overnight": "Marpha",
+      "alt_m": 2670,
+      "move": "≈ 155 km · 8–9 h by jeep with stops",
+      "text": "A long but varied day. We drive west to Beni, where the Myagdi and Kali Gandaki rivers meet, then north on the Kali Gandaki road. Lunch is at Tatopani, where you can soak in the hot springs beside the river. Above Ghasa the forest turns to pine and the valley narrows into the gorge between Dhaulagiri and Annapurna. By Kalopani and Lete the land is drier, and by evening we reach Marpha, a Thakali village of stone lanes and apple trees.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Marpha to Kagbeni",
+      "place": "kagbeni",
+      "overnight": "Kagbeni",
+      "alt_m": 2810,
+      "move": "≈ 1 h by jeep",
+      "text": "Take the morning slowly in Marpha. Walk the flagstoned main lane between whitewashed houses, climb the steps to the monastery above the village, and visit an orchard or the distillery where apples become brandy and cider. After lunch we drive past Jomsom to Kagbeni. Explore the village's tunnels and lanes, Kag Chode monastery, and the ghats at the confluence, where Hindu families perform shraddha rites for their ancestors. In the evening, eat at a lodge in Kagbeni and watch the light fade on Nilgiri.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kagbeni to Muktinath",
+      "place": "muktinath",
+      "overnight": "Ranipauwa, Muktinath",
+      "alt_m": 3700,
+      "move": "≈ 1 h by jeep, or ≈ 4 h walk",
+      "text": "The road climbs out of the Kali Gandaki into the Jhong valley, past the old fortress village of Jharkot. Walkers can do the climb on foot, about four hours. We check into a lodge in Ranipauwa, below the temple, and visit Muktinath in the afternoon: the Vishnu shrine with its 108 water spouts, the Jwala Mai temple where a natural gas flame burns beside a spring, and the Buddhist gompas in the compound. Rest well; altitude is the main thing to manage today.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Dawn darshan and down to Tukuche",
+      "place": "tukuche",
+      "overnight": "Tukuche",
+      "alt_m": 2590,
+      "move": "≈ 2.5 h by jeep",
+      "text": "Return to the temple at sunrise, when the priests and nuns begin the day's worship and the crowds are thin. Pilgrims bathe under the 108 spouts in icy water. After breakfast we drive down through Jomsom to Tukuche, once the main market of the salt trade. Its large old houses, with carved wooden windows and inner courtyards, belonged to Thakali trading families. Dinner is a Thakali set meal, the dal bhat that made this valley's kitchens famous.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tukuche to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 150 km · 7–8 h by jeep",
+      "text": "In the morning light, Dhaulagiri's icefall looks almost close enough to touch from Tukuche. We drive south down the gorge, stopping at a viewpoint near Rupse waterfall and for lunch on the way, and reach Pokhara in the late afternoon. Evening free for a lakeside dinner and a long shower. If you prefer to walk part of the way, the forest trail below Ghasa makes a good two-hour stretch, with the jeep waiting further down. Allow for a late lunch at Tatopani or Beni.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 7,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 820,
+      "move": "",
+      "text": "The trip ends after breakfast. You can fly to Kathmandu in 25 minutes, drive the 200 km in 6 to 8 hours, or stay on for Sarangkot sunrise, a paraglide or a few days at Begnas Lake. We are happy to arrange onward transport and hotels. If you are flying home from Kathmandu, give yourself at least one spare night there, because domestic flights and road travel in Nepal can both be delayed by weather.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "oms-home-jomsom",
+    "red-house-lodge-kagbeni",
+    "temple-tree-resort"
+  ],
+  "includes": [
+    "Private 4WD jeep with driver for the whole trip",
+    "Licensed English-speaking guide",
+    "Annapurna Conservation Area permit and TIMS card where required",
+    "Two nights in Pokhara with breakfast, four nights in the best available lodges in Mustang with breakfast and dinner",
+    "Lunches on driving days"
+  ],
+  "excludes": [
+    "Flights to and from Pokhara",
+    "Travel insurance",
+    "Temple offerings and puja fees",
+    "Drinks, hot springs entry and tips"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers and visitors to conservation areas are expected to travel with a licensed guide; check current status before you travel.",
+    "The Annapurna Conservation Area permit costs NPR 3,000 for foreigners and NPR 1,000 for SAARC nationals, including Indians; check current status before you travel.",
+    "The Beni–Jomsom road is rough and can close for a day or more after monsoon landslides, mainly June to September.",
+    "Muktinath is at about 3,710 m; walk slowly, drink water and avoid alcohol on the first night.",
+    "If you are short of time, you can fly back from Jomsom to Pokhara instead of driving on day 6."
+  ],
+  "faqs": [
+    {
+      "q": "Can you drive from Pokhara to Muktinath?",
+      "a": "Yes. A jeep road runs from Pokhara via Beni, Tatopani and Jomsom to Muktinath, about 180 km. In a private jeep it takes 9 to 11 hours, which is why we break it with nights in Marpha and Kagbeni. Public buses and shared jeeps also run, with changes at Beni and Jomsom, but they are slower and less comfortable."
+    },
+    {
+      "q": "Do I need a permit for Muktinath?",
+      "a": "Yes. Muktinath and Lower Mustang lie inside the Annapurna Conservation Area, and foreign visitors need its permit, NPR 3,000, or NPR 1,000 for SAARC nationals including Indians. A TIMS card may also be checked. You do not need the Upper Mustang restricted-area permit for Muktinath, Kagbeni, Jomsom or Marpha. Check current status before you travel."
+    },
+    {
+      "q": "Is the road to Jomsom safe?",
+      "a": "It is a narrow mountain road, unpaved in many places, with steep drops above the Kali Gandaki. Experienced local drivers handle it every day, and in the dry season it is generally fine. In the monsoon, landslides close sections, sometimes for days. We avoid night driving and watch the forecast closely, and we change plans rather than take risks."
+    },
+    {
+      "q": "Will I get altitude sickness at Muktinath?",
+      "a": "Some people feel mild symptoms, such as a headache or breathlessness, at Muktinath's 3,700 m, especially if they rush up from Pokhara in one or two days. This trip sleeps at 2,670 m and 2,810 m first, which helps a lot. Walk slowly, drink plenty of water and tell your guide if you feel unwell. Serious altitude sickness is rare at this height on this schedule."
+    },
+    {
+      "q": "Is this trip suitable for children and older people?",
+      "a": "Yes, with care. The driving days are long and bumpy, so bring snacks and motion sickness tablets for children. The altitude is moderate, and we sleep lower before Muktinath. Older pilgrims often ride a pony from Ranipauwa to the temple gate. Talk to your doctor if you have heart or lung conditions before travelling above 3,000 m."
+    },
+    {
+      "q": "What is the best time for a Lower Mustang road trip?",
+      "a": "March to May and October to November are best, with clear skies and dry roads. December to February is cold but usually clear, and the road stays open, though Muktinath can have snow. June to September is the hardest time, not because of rain in Mustang itself, but because landslides close the lower road through Myagdi."
+    },
+    {
+      "q": "What does Kagbeni have to do with ancestors?",
+      "a": "Kagbeni stands at the confluence of the Kali Gandaki and Jhong rivers, and many Hindu families come here to perform shraddha, rites in which rice balls are offered for the souls of ancestors. It is considered especially auspicious on the way to or from Muktinath. You will often see priests and families at the riverbank in the early morning."
+    },
+    {
+      "q": "What food will I eat in Lower Mustang?",
+      "a": "This is Thakali country, and the Thakali set meal, with rice or buckwheat dhido, black lentil dal, greens, pickles and often mutton or chicken, is the dish to try. Marpha is famous for apples, so expect apple pie, apple crumble, juice and brandy on every menu in autumn. Momos, thukpa and Tibetan bread are everywhere too."
+    },
+    {
+      "q": "Can I fly one way to save time?",
+      "a": "Yes. Many guests drive up and fly back from Jomsom to Pokhara, a 20-minute flight in the morning. It saves a long driving day, but flights are cancelled when wind or cloud closes the gorge, so keep a spare day. Flying up and driving back is also possible, but driving up suits acclimatisation better."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "lumbini-pilgrimage-2n",
+  "title": "Lumbini Pilgrimage: Two Nights at the Birthplace",
+  "region": "lumbini",
+  "kind": "pilgrimage",
+  "nights": 2,
+  "themes": ["spiritual-and-pilgrimage", "heritage-and-temples", "slow-and-wellness"],
+  "grade": "Easy",
+  "stops": [{"place": "lumbini", "nights": 2}],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 550,
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Unhurried",
+  "max_altitude_m": 1400,
+  "meta_description": "Lumbini pilgrimage, 2 nights: fly to Bhairahawa, Maya Devi Temple, the Ashoka pillar, the monastic zone at dawn and dusk, with a licensed guide.",
+  "summary": "Two nights at the birthplace of the Buddha. Fly 35 minutes from Kathmandu to Bhairahawa, walk the Sacred Garden at the hours when monks chant, cycle the monastic zone, and stand before the pillar Emperor Ashoka raised here in the third century BCE. Short, quiet and easy on the body.",
+  "intro": [
+    "Lumbini is flat, green and quiet in a way Kathmandu never is. The Sacred Garden sits at the southern end of a planned zone about 4.8 km long, laid out to a master plan by the Japanese architect Kenzo Tange, with a long canal running north to the World Peace Pagoda. Monasteries built by Buddhist communities from more than a dozen countries line both sides of that canal. Two nights is the right length for a first visit: one afternoon and one dawn in the Sacred Garden, and one full day for the monasteries.",
+    "We keep this trip slow. The early-morning flight from Kathmandu lands at Gautam Buddha International Airport near Bhairahawa, and you are in Lumbini before lunch. Your guide knows the chanting times, the quiet corners under the bodhi tree, and which monastery serves tea to visitors. We build in time to sit, not just to see. Families, seniors and first-time visitors to Nepal all manage this easily."
+  ],
+  "story": "You leave Kathmandu in cool valley air and land 35 minutes later on the plains, where the heat rises off rice fields and the horizon is a straight line. The road to Lumbini passes villages of Tharu and Madhesi farmers, buffalo carts and roadside tea stalls. By afternoon you are barefoot inside the Maya Devi Temple, looking down at a marker stone in the excavated brickwork. The next day is about the monastic zone: Thai marble, a Chinese pagoda roof, a Korean temple hall, the gold spires of Myanmar. On the last morning you come back to the garden at first light, when pilgrims from Sri Lanka in white circle the pond and the prayer flags are wet with dew.",
+  "highlights": [
+    "Barefoot inside the Maya Devi Temple, over the brick remains that mark the birth spot",
+    "The Ashoka pillar of 249 BCE, whose inscription names Lumbini as the Buddha's birthplace",
+    "A full day by bicycle or e-rickshaw through the East and West monastic zones",
+    "Sunset at the World Peace Pagoda built by the Japanese order Nipponzan Myohoji",
+    "Dawn in the Sacred Garden with chanting under the bodhi tree beside the Puskarini pond"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bhairahawa, the Sacred Garden", "place": "lumbini", "overnight": "Lumbini", "alt_m": 110,
+     "move": "≈ 35 min flight · then ≈ 22 km · 40 min drive",
+     "text": "Take the morning flight from Kathmandu to Gautam Buddha International Airport at Bhairahawa. Your guide meets you and drives you to your hotel in Lumbini. After lunch and a rest through the hottest hours, walk into the Sacred Garden. Leave shoes at the Maya Devi Temple and follow the raised walkway over the excavated brick foundations to the marker stone. Outside, read the Brahmi inscription on the Ashoka pillar, then sit by the Puskarini pond, where tradition says Maya Devi bathed before giving birth. Stay for the evening butter lamps.",
+     "meals": "Breakfast"},
+    {"day": 2, "title": "The monastic zones and the Peace Pagoda", "place": "lumbini", "overnight": "Lumbini", "alt_m": 110,
+     "move": "≈ 10 km by bicycle or e-rickshaw",
+     "text": "Start early, before the heat. Cross into the East Monastic Zone, home to the Theravada traditions: the white Royal Thai Monastery and the gilded pagodas of Myanmar. Cross the canal to the West Monastic Zone for the Mahayana and Vajrayana temples, among them the Chinese monastery with its curved roofs and the Great Drigung Kagyud Lotus Stupa with its painted dome. After lunch, visit the Lumbini Museum, look for sarus cranes near the crane sanctuary, and end the day at the World Peace Pagoda as the light drops.",
+     "meals": "Breakfast"},
+    {"day": 3, "title": "Dawn in the garden, fly to Kathmandu", "place": "lumbini", "overnight": "Kathmandu", "alt_m": 1400,
+     "move": "≈ 22 km · 40 min drive · then ≈ 35 min flight",
+     "text": "Walk into the Sacred Garden at first light, when pilgrim groups chant under the bodhi tree and the grounds are cool and nearly empty. This is the hour many visitors remember most. Return for breakfast, then drive to the airport for the flight back to Kathmandu. If you are continuing to India rather than flying back, we can instead drive you to the Belahiya–Sunauli border, about 30 km away; tell us when you book.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["buddha-maya-garden-hotel"],
+  "includes": [
+    "Return economy flights Kathmandu–Bhairahawa",
+    "2 nights at Buddha Maya Garden Hotel, twin sharing, with breakfast",
+    "Airport transfers and a private car with driver in Lumbini",
+    "Licensed English-speaking guide for both days in Lumbini",
+    "Sacred Garden entry ticket",
+    "Bicycle or e-rickshaw for the monastic zone day"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Lunches and dinners",
+    "Donations at monasteries and tips for guide and driver",
+    "Travel insurance",
+    "Transfers in Kathmandu unless added"
+  ],
+  "good_to_know": [
+    "Shoes come off at the Maya Devi Temple; carry socks if the floor is hot or cold.",
+    "Photography is not allowed inside the Maya Devi Temple itself; it is fine in the garden and most monasteries.",
+    "From April to June afternoons reach 38–42 °C, so we plan sightseeing for early morning and late afternoon.",
+    "Winter fog in December and January can delay morning flights; we keep the schedule flexible.",
+    "Monasteries keep their own opening hours and some close at midday; your guide plans the route around them."
+  ],
+  "faqs": [
+    {"q": "Is two nights enough for Lumbini?", "a": "Two nights is enough for the Sacred Garden and the main monasteries, with time to sit quietly. You get one afternoon and one dawn in the garden plus a full day in the monastic zone. If you also want Tilaurakot and the Kapilavastu sites, Ramagrama or Devdaha, add one or two nights; each is a half-day or full-day trip from Lumbini."},
+    {"q": "How do I get from Kathmandu to Lumbini?", "a": "The quickest way is a 35-minute domestic flight from Kathmandu to Gautam Buddha International Airport at Bhairahawa, then about 22 km by road to Lumbini. By road the drive is around 280 km and takes 8–10 hours via Mugling, Narayangarh and Butwal. We use the flight on this trip and can quote a road version for a lower price."},
+    {"q": "What is inside the Maya Devi Temple?", "a": "The temple is a protective structure built over excavated brick foundations of earlier shrines. A walkway leads you round the ruins to a marker stone that excavators identified in the 1990s as the spot tradition gives for the birth, and to a worn stone relief of Maya Devi holding a branch. Shoes come off, voices stay low and photography inside is not allowed."},
+    {"q": "When is the best time to visit Lumbini?", "a": "October to March is the most comfortable, with dry days of 20–28 °C. December and January bring cold, foggy mornings that can delay flights but clear by midday. April to June is very hot, often above 38 °C. Buddha Jayanti, the Buddha's birthday on the full moon of Baisakh in April or May, is crowded and moving, though warm."},
+    {"q": "What should I wear in Lumbini?", "a": "Wear loose clothes that cover shoulders and knees, and shoes you can slip off quickly, since you remove them at the temple and in many monasteries. A hat, sunglasses and a refillable water bottle matter more here than anywhere else in Nepal. In December and January bring a warm layer for mornings, which can drop to 7–8 °C."},
+    {"q": "Can I cycle around the monastic zone?", "a": "Yes. The zone is flat and the paths are wide, so cycling is the easiest way to cover the distance between monasteries and the Peace Pagoda. Bicycles can be hired near the main gate and through hotels; e-rickshaws are the alternative for anyone who does not want to pedal in the heat. We include one or the other in the price."},
+    {"q": "Is this trip suitable for older travellers?", "a": "Yes. There are no hills and no long walks, the flight is short and the hotel is close to the Sacred Garden. The main effort is heat and the distances within the monastic zone, which we cover by e-rickshaw for anyone who prefers. Tell us about mobility needs when you book and we will plan rest breaks into each day."},
+    {"q": "Can I meditate or join a puja in Lumbini?", "a": "You can sit quietly in the Sacred Garden under the bodhi tree at any time it is open, and many monasteries welcome visitors to their morning and evening chanting. Your guide will ask on the day. For a structured practice with a teacher, look at our five-night Lumbini meditation retreat, which builds daily sits into the programme."},
+    {"q": "Can I continue from Lumbini to India?", "a": "Yes. The Belahiya–Sunauli border crossing is about 30 km from Lumbini, roughly 45 minutes by road. Foreign nationals need an Indian visa arranged in advance, and the rules for crossing land borders on an Indian e-visa change from time to time, so check current status before you travel. Indian citizens need valid photo ID."}
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "slug": "ridi",
+  "name": "Ridi",
+  "name_ne": "रिडी",
+  "local_name": "Ruru Kshetra (Sanskrit, sacred name)",
+  "region": "lumbini",
+  "kind": "pilgrimage site",
+  "wiki": "Ruru Kshetra",
+  "image_query": "Ridi Bazaar Rishikesh temple Kali Gandaki",
+  "lat": 27.948,
+  "lng": 83.437,
+  "altitude_m": 500,
+  "tagline": "A temple town where the Ridi Khola meets the sacred Kali Gandaki",
+  "meta_description": "Ridi (Ruru Kshetra): the Rishikesh temple, shaligram stones, an old bazaar and the three-day Maghe Sankranti mela at the Kali Gandaki confluence. Plan your visit.",
+  "summary": "Ridi, also called Ruru Kshetra, is a Hindu temple town at the confluence of the Ridi Khola and the Kali Gandaki, where Gulmi, Palpa and Syangja districts meet. It is known for the Rishikesh temple, shaligram stones on the riverbank, an old bazaar and a three-day bathing fair at Maghe Sankranti in mid-January.",
+  "intro": [
+    "Ridi sits low in a fold of the hills, where the Ridi Khola runs into the Kali Gandaki. A short line of old brick and timber houses, the bazaar, faces the river, and above it stands the Rishikesh temple, dedicated to Vishnu. Pilgrims come to bathe, to worship and, for many families of the western hills, to cremate their dead on the ghats.",
+    "Hindus count Ruru Kshetra among the most sacred places in Nepal. The Kali Gandaki here carries shaligram, black fossil stones worshipped as forms of Vishnu, and pilgrims search the shingle for them. The Rishikesh temple complex has been on UNESCO's tentative World Heritage list since 2008.",
+    "Ridi is quiet most of the year and packed for three days in mid-January, when Maghe Sankranti brings a great fair and dawn bathing. Visit as a day trip from Tansen or as a stop on the road west to Tamghas and Resunga."
+  ],
+  "story": {
+    "title": "The temple a king found in the river",
+    "paras": [
+      "Ridi's story is tied to Palpa's Sen kings. Tradition says that King Mukunda Sen, bathing in the Kali Gandaki at the confluence, found an image of Vishnu in the water. He set it up in a temple on the bank and named the god Rishikesh, a name of Vishnu as lord of the senses. Palpa's rulers kept the place as a royal pilgrimage, and the bazaar grew around the temple.",
+      "Over the centuries Ridi became one of the great religious centres of the western hills. Its ghats became a favoured place for cremation, because dying or being cremated by the Kali Gandaki is believed to bring liberation. Female mendicants known as bhaktini ama have long lived and worshipped here. The old bazaar still keeps much of its medieval character.",
+      "In 2008 Nepal added the Rishikesh complex of Ruru Kshetra to UNESCO's tentative list. Today a road links Ridi with Tansen and Tamghas, and the old pilgrim trails are less used, but at Maghe Sankranti large crowds still come on foot, by bus and by jeep."
+    ]
+  },
+  "legend": "Local legend says a devout girl named Ruru performed long penance at this confluence, and Vishnu, pleased with her devotion, appeared to her here; the place took her name as Ruru Kshetra. Devotees also say the image of Rishikesh in the temple seems to change through the day, looking like a child in the morning, a young man at midday and an old man in the evening.",
+  "people": "Ridi's bazaar families are mostly Newar and Brahmin traders and priests, while the surrounding hills are home to Magar villages and Brahmin, Chhetri and Dalit communities. Most families farm maize, millet and rice on terraces and keep goats and buffalo. During the January fair, traders arrive from across Gulmi, Palpa, Syangja, Arghakhanchi and Baglung to sell food, cloth and household goods.",
+  "untold": [
+    {"fact": "Ridi lies at the meeting point of three districts, Gulmi, Palpa and Syangja, which is one reason it became a shared pilgrimage and market centre for the western hills.", "source": "Wikipedia: Ruru Kshetra"},
+    {"fact": "Ridi's Maghe Sankranti fair lasts three days, called Jethi, Maili and Kanchhi Sankranti, the eldest, middle and youngest. Devotees believe bathing in the Kali Gandaki on all three days and worshipping Rishikesh brings liberation.", "source": "Wikipedia: Ruru Kshetra"},
+    {"fact": "The Rishikesh complex of Ruru Kshetra was added to UNESCO's World Heritage tentative list on 30 January 2008, noted for its mix of medieval and Sen-period architecture and its living ritual traditions.", "source": "UNESCO World Heritage tentative list; Wikipedia: Rishikesh Complex of Ruru Kshetra"}
+  ],
+  "local_words": [
+    {"word": "shaligram", "script": "शालिग्राम", "lang": "Nepali", "meaning": "Black fossil stone from the Kali Gandaki, worshipped as Vishnu"},
+    {"word": "beni", "script": "बेनी", "lang": "Nepali", "meaning": "River confluence, a sacred place for bathing"},
+    {"word": "mela", "script": "मेला", "lang": "Nepali", "meaning": "Fair or festival gathering, like Ridi's January mela"}
+  ],
+  "taste": {"name": "Chaku and tarul", "text": "Chaku is hard, dark molasses toffee made with ghee and sesame; tarul is yam, boiled and eaten with salt. Together with sesame laddu they are the foods of Maghe Sankranti. At Ridi's January fair, stalls along the bazaar sell them by the kilo."},
+  "facts": [["Best months", "Oct – Mar (fair in mid-January)"], ["Days we suggest", "Day trip from Tansen"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa"], ["From Tansen", "≈ 2 h by road"], ["Altitude", "≈ 500 m"], ["Known for", "Rishikesh temple, shaligram, Maghe Sankranti mela"]],
+  "best_months": [2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Rishikesh temple", "text": "The main temple of Ruru Kshetra, dedicated to Vishnu as Rishikesh, founded by tradition by King Mukunda Sen. Pilgrims queue here after bathing, and the temple complex is on UNESCO's tentative World Heritage list."},
+    {"title": "The confluence ghats", "text": "Stone steps and landings where the Ridi Khola meets the Kali Gandaki. Pilgrims bathe here at dawn, priests perform rites for the dead, and cremations take place on the bank."},
+    {"title": "Shaligram on the shingle", "text": "Black, rounded stones carried down by the Kali Gandaki, many holding fossil ammonite spirals. They are worshipped as forms of Vishnu, and pilgrims search the riverbank for them."},
+    {"title": "The old bazaar", "text": "A short street of old brick and timber houses along the river, with carved windows, small shrines and shops selling puja goods, brass and sweets. It keeps much of the feel of a medieval pilgrim market."},
+    {"title": "Maghe Sankranti mela", "text": "For three days in mid-January Ridi fills with pilgrims, traders and families. Dawn bathing, temple queues, food stalls and bargaining go on from before sunrise until late."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Ridi is about 2 hours by road from Tansen, on the route towards Tamghas in Gulmi. Local buses run from Tansen and Butwal, and more are added for the January fair. Roads can be blocked by landslides in the monsoon, so check current status before you travel."},
+    {"mode": "Air", "text": "The nearest airport is Bhairahawa, about 4 hours away by road via Butwal and Tansen. Flights from Kathmandu take about 35 minutes."}
+  ],
+  "where_to_stay": "Ridi has only simple lodges and pilgrim rest houses, which fill completely during the Maghe Sankranti fair. Most travellers visit on a day trip from Tansen, about 2 hours away, where Hotel Srinagar and family-run hotels in the old bazaar make a comfortable base. If you want to be at the ghats for the dawn bath during the fair, arrange a lodge in Ridi well in advance through a local contact.",
+  "stays": [],
+  "tips": [
+    "For the Maghe Sankranti fair, arrive the day before or leave Tansen very early; roads jam and parking fills by dawn.",
+    "Remove shoes and leather items before entering the Rishikesh temple, and ask before photographing inside.",
+    "Keep a respectful distance from cremations on the ghats, and never photograph mourners.",
+    "If you find a shaligram, ask a local priest about it; many pilgrims buy them from sellers rather than collecting.",
+    "Do not swim in the Kali Gandaki; the current is strong even where the water looks calm."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "heritage-and-temples", "food-and-festivals", "lakes-and-rivers"],
+  "nearby": ["tansen", "resunga", "rani-mahal"],
+  "experiences": [
+    {
+      "slug": "ridi-rishikesh-temple-darshan",
+      "title": "Morning darshan at the Rishikesh temple",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Early morning, Oct–Mar",
+      "image_query": "Rishikesh temple Ridi",
+      "wiki": "Rishikesh Complex of Ruru Kshetra",
+      "summary": "Join the morning worship at Ridi's Rishikesh temple, from the bath at the confluence to the queue for darshan of Vishnu, with a guide who explains the rites, the legend of Ruru and the king who found the god in the river.",
+      "body": [
+        "We arrive early, when pilgrims are coming up from the river with wet hair and brass pots of Kali Gandaki water. At the ghats your guide explains the bath at a confluence, a beni, and why rivers that meet are especially sacred.",
+        "Then we join the line at the Rishikesh temple. Inside, devotees offer water, flowers and red powder to the image of Vishnu, ring the bells and receive tika from the priest. Non-Hindus are usually welcome to watch from the courtyard; your guide will check what is appropriate on the day.",
+        "We finish in the courtyard with the stories: Ruru's penance, Mukunda Sen's discovery in the river, and the belief that the god's face changes from child to old man as the day goes on."
+      ],
+      "good_for": ["first-timers", "seniors", "solo"],
+      "faqs": [
+        {"q": "Can non-Hindus enter the Rishikesh temple at Ridi?", "a": "Practice varies. Non-Hindus are generally welcome in the temple courtyard and to watch worship respectfully, but the inner sanctum may be restricted to Hindus. Ask the priest or follow your guide's advice on the day. Remove shoes and leather items, and dress modestly."},
+        {"q": "What is darshan?", "a": "Darshan means seeing and being seen by the deity. Devotees come before the image of the god, offer prayers, water, flowers or coins, and receive a blessing such as tika on the forehead. At Ridi, darshan of Rishikesh usually follows a bath in the Kali Gandaki."},
+        {"q": "What time should I visit the Rishikesh temple?", "a": "Early morning, from sunrise to about 9 am, is the most active and atmospheric time, when pilgrims come up from bathing. The temple is open through the day. During the Maghe Sankranti fair in mid-January, queues start before dawn and can take hours."}
+      ]
+    },
+    {
+      "slug": "ridi-shaligram-riverbank",
+      "title": "Shaligram stones on the Kali Gandaki shingle",
+      "kind": "water",
+      "duration": "1 hour",
+      "best_time": "Morning, Nov–Apr",
+      "image_query": "Shaligram ammonite fossil stone",
+      "wiki": "Shaligram",
+      "summary": "Walk the shingle banks of the Kali Gandaki at Ridi with a local who can tell a true shaligram from an ordinary black stone, and learn why these fossil ammonites, carried down from the far north, are worshipped as Vishnu.",
+      "body": [
+        "Shaligram are smooth black stones from the Kali Gandaki, many of which split to reveal the spiral of a fossil ammonite, a sea creature from around 150 million years ago. They come from rocks far upstream, towards Mustang, and the river carries them down over centuries.",
+        "For Hindus, a shaligram is not a fossil but a natural form of Vishnu, worshipped in homes and temples without needing to be consecrated. Pilgrims at Ridi search the banks for them, and priests can read the markings to say which form of Vishnu each stone shows.",
+        "We walk the shingle in the low water of winter with a local guide. You may find one; more likely you will see them in the hands of pilgrims and sellers in the bazaar."
+      ],
+      "good_for": ["families", "photographers", "solo"],
+      "faqs": [
+        {"q": "What is a shaligram stone?", "a": "A shaligram is a black stone from the Kali Gandaki river, often containing a fossil ammonite from the Jurassic period. Hindus worship it as a natural form of Vishnu. The best-known source is upstream around Mustang and Muktinath, but shaligram are found and traded all along the river, including at Ridi."},
+        {"q": "Can I take a shaligram home?", "a": "Pilgrims traditionally take shaligram home for worship, and they are sold in Ridi and elsewhere. Nepal restricts the export of some fossils and cultural objects, and rules can change, so check current status before you travel. Buy small, ordinary stones from sellers, keep a receipt, and avoid anything sold as antique."},
+        {"q": "Is it safe to walk on the Kali Gandaki riverbank?", "a": "Yes, on the wide shingle bars in the dry season from November to April, staying well back from the water. The river is fast and cold, and levels can rise. From June to September the banks are dangerous and mostly under water. Wear shoes with good grip on wet stones."}
+      ]
+    },
+    {
+      "slug": "ridi-old-bazaar-walk",
+      "title": "Ridi's old pilgrim bazaar",
+      "kind": "heritage",
+      "duration": "1 hour",
+      "best_time": "Morning or late afternoon, Oct–Mar",
+      "image_query": "Ridi Bazaar Gulmi houses",
+      "wiki": "",
+      "summary": "A slow walk through the old bazaar along the river, with its brick and timber houses, carved windows, small shrines and shops selling puja goods, brass, sweets and shaligram.",
+      "body": [
+        "Ridi's bazaar grew to serve pilgrims, and it still does. The old street runs along the river with houses of brick and timber, carved wooden windows, overhanging balconies and small shrines set into walls. Many buildings are old, and the street keeps much of its medieval character.",
+        "Shops sell what pilgrims need: incense, red powder, threads, brass lamps and water pots, sweets for offerings and, here and there, shaligram. Tea shops fill with priests, traders and travelling families.",
+        "Your guide will point out the oldest houses and the bhaktini ama, female mendicants who live by the temple. Ridi changes completely in mid-January, so on any other day you see it as a quiet, working place."
+      ],
+      "good_for": ["photographers", "couples", "first-timers"],
+      "faqs": [
+        {"q": "What can I buy in Ridi bazaar?", "a": "Ridi's shops sell puja goods such as incense, red powder, threads and brass lamps, along with water pots, sweets, everyday household goods and shaligram stones. During the January fair, traders also bring cloth, tools and food from across the western hills. Prices are low; bargain politely for larger items."},
+        {"q": "Who are the bhaktini ama of Ridi?", "a": "Bhaktini ama are female mendicants who have renounced household life to live and worship near the temple. Their tradition at Ridi is mentioned in the description of the Rishikesh complex for UNESCO's tentative list. Treat them with respect, and ask before taking photographs."},
+        {"q": "Is Ridi busy all year?", "a": "No. For most of the year Ridi is a quiet temple town with steady local pilgrims and cremations. It becomes very crowded for three days at Maghe Sankranti in mid-January, and busier on other auspicious days in the Hindu calendar."}
+      ]
+    },
+    {
+      "slug": "ridi-maghe-sankranti-dawn-bath",
+      "title": "Dawn bath at the Maghe Sankranti mela",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Mid-January, 3 days",
+      "image_query": "Ridi Mela Maghe Sankranti",
+      "wiki": "Maghe Sankranti",
+      "summary": "Be at the Kali Gandaki ghats before sunrise during Ridi's three-day Maghe Sankranti fair, when thousands bathe in the cold river, queue for the Rishikesh temple and fill the bazaar with chaku, tarul and laddu.",
+      "body": [
+        "Maghe Sankranti, on the first day of the month of Magh in mid-January, marks the sun's turn towards the north and the end of the coldest month. At Ridi it is the biggest event of the year: a three-day fair, with the days known as Jethi, Maili and Kanchhi Sankranti.",
+        "We reach the ghats before first light. Families step into the Kali Gandaki, splash water over their heads and pray towards the rising sun. Priests chant, bells ring at the temple and the queue for darshan winds up through the bazaar.",
+        "After sunrise the fair takes over: stalls of chaku, sesame laddu, yam and sweet potato, cloth and toys, and families eating together on the riverbank. It is crowded, loud and generous."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "When is the Ridi Maghe Sankranti fair?", "a": "The fair begins on Maghe Sankranti, the first day of the Nepali month of Magh, which usually falls on 14 or 15 January, and lasts three days. Exact dates follow the Nepali calendar and change slightly each year, so check current status before you travel."},
+        {"q": "Can tourists bathe in the river at Ridi?", "a": "You can join the ritual bath if you wish, entering only at the edge of the ghats where locals bathe, and never wading out. The water is very cold in January and the current strong. Most visitors watch from the steps, which is perfectly respectful. Bring a towel and warm clothes if you bathe."},
+        {"q": "How crowded is Ridi during Maghe Sankranti?", "a": "Very crowded. Thousands of pilgrims come over the three days, roads jam, lodges fill and the bazaar is packed. Keep valuables close, agree a meeting point with your group and expect delays on the roads. Arriving the day before or very early in the morning helps."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Ridi?", "a": "Ridi, also called Ruru Kshetra, is at the confluence of the Ridi Khola and the Kali Gandaki, where Gulmi, Palpa and Syangja districts meet in Lumbini and Gandaki provinces. It is about 2 hours by road from Tansen, on the way towards Tamghas in Gulmi."},
+    {"q": "Why is Ridi sacred to Hindus?", "a": "Ridi is a confluence on the Kali Gandaki, one of Nepal's holiest rivers, and the site of the Rishikesh temple of Vishnu, founded by tradition by King Mukunda Sen. Bathing, worship and cremation here are believed to help the soul towards liberation. The river also carries shaligram stones."},
+    {"q": "What is the Rishikesh temple?", "a": "The Rishikesh temple is Ridi's main temple, dedicated to Vishnu as Rishikesh. Tradition says Mukunda Sen of Palpa found its image in the river while bathing. The temple complex was added to UNESCO's World Heritage tentative list in 2008 for its architecture and living traditions."},
+    {"q": "What is the best time to visit Ridi?", "a": "October to March is best for dry roads and comfortable weather, around 20–25 °C by day. Mid-January brings the three-day Maghe Sankranti fair, the most dramatic time to visit but also the most crowded. The monsoon from June to September can block roads."},
+    {"q": "How do I get to Ridi from Tansen?", "a": "By private car or jeep, Ridi is about 2 hours from Tansen. Local buses also run on the route, with extra services during the January fair. Most travellers go as a day trip and return to Tansen, or continue to Tamghas and Resunga."},
+    {"q": "Where can I stay in Ridi?", "a": "Ridi has simple lodges and pilgrim rest houses with basic rooms and shared facilities. They fill completely during Maghe Sankranti. Most visitors stay in Tansen, about 2 hours away, which has better hotels including Hotel Srinagar, and visit Ridi on a day trip."},
+    {"q": "Can I find shaligram stones at Ridi?", "a": "Shaligram are found on the Kali Gandaki banks at Ridi and are sold in the bazaar. Finding a fine one yourself takes patience and luck; the richest sources are further upstream. Nepal has rules on exporting fossils and cultural objects, so check current status before you travel with one."},
+    {"q": "Is Ridi a cremation site?", "a": "Yes. The ghats at Ridi are an important cremation place for families from the western hills, because cremation beside the Kali Gandaki is considered especially meritorious. Visitors are welcome to be present at a respectful distance but should not photograph mourners or the pyre."},
+    {"q": "Can I combine Ridi with Rani Mahal?", "a": "Both lie on the Kali Gandaki below Tansen, but on different roads, so combining them in one day makes for a long day of 9–10 hours of driving and visiting. We usually suggest a full day for each from Tansen, or Ridi on the way west to Resunga."}
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "pokhara-family-adventure-4n",
+  "title": "Pokhara Family Adventure",
+  "region": "pokhara-annapurna",
+  "kind": "family",
+  "nights": 4,
+  "themes": [
+    "family-trips",
+    "adventure-sports",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 4
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 800,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1600,
+  "meta_description": "Pokhara with kids in 4 nights: tandem paragliding from Sarangkot, the ZipFlyer, boats on Phewa, caves, Davis Falls and the mountain museum.",
+  "summary": "Four nights in Pokhara built for families with children from about eight to sixteen: a boat to the island temple, tandem paragliding off Sarangkot for those old and heavy enough, the 1.8 km ZipFlyer, caves and waterfalls, the mountain museum and a short hike to the Peace Pagoda, all from a pool resort in Lakeside.",
+  "intro": [
+    "Pokhara is Nepal's adventure town, and most of it is close together. Paragliders take off from Sarangkot, about 1,600 m, and land beside Phewa Lake 800 m below. The ZipFlyer runs from the same hill. The caves of Gupteshwor and Mahendra, the Davis Falls sinkhole and the Seti river gorge are all within 30 minutes of Lakeside. For a family this means big days with short drives and a swimming pool at the end.",
+    "We stay at Temple Tree Resort & Spa in Lakeside, a short walk from the lake, and keep a car and guide with you every day. Every activity is optional and can be swapped: some children love the zipline and refuse the boat, some the other way round. Operators set their own age, height and weight limits, which we check when we book. Lunches are left free so you can eat where the children want."
+  ],
+  "story": "The first evening is a boat on Phewa, a doonga rowed out to the island temple of Tal Barahi, where children can ring the bell. The second morning begins in the dark at Sarangkot, watching Machhapuchhre catch the sun, and later the sky above the lake fills with coloured wings as paragliders spiral down on the thermals. Those old enough fly tandem, 20 to 30 minutes with a licensed pilot. The third day is underground and over water: the Seti river disappearing into the earth at Davis Falls, Gupteshwor cave across the road with its Shiva shrine and a waterfall inside, then the ZipFlyer's long rush down the hill. The last day slows down with a hike to the Peace Pagoda and an afternoon in the pool, before the mountain museum's peak models and old expedition gear.",
+  "highlights": [
+    "Tandem paragliding from Sarangkot to the shore of Phewa Lake",
+    "The ZipFlyer from Sarangkot, about 1.8 km long with a drop of around 600 m",
+    "Rowing to the island temple of Tal Barahi",
+    "Davis Falls and Gupteshwor Mahadev cave, where the river vanishes underground",
+    "The International Mountain Museum, with models of the 8,000 m peaks"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive, evening boat on Phewa",
+      "place": "pokhara",
+      "overnight": "Temple Tree Resort, Pokhara",
+      "alt_m": 822,
+      "move": "",
+      "text": "We meet you at Pokhara airport and drive to Temple Tree Resort in Lakeside. After a swim and a rest, walk down to the boat station and take a painted wooden doonga across Phewa Lake to Tal Barahi, the small pagoda temple on its island. The boatman rows, but older children can take an oar on the way back. Life jackets are provided. Dinner in Lakeside: the restaurants are used to children and have plenty of pasta and momos.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Sarangkot sunrise and paragliding",
+      "place": "sarangkot",
+      "overnight": "Temple Tree Resort, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 30 min drive each way",
+      "text": "An early drive to Sarangkot for sunrise over Machhapuchhre and the Annapurnas, with hot chocolate at a viewpoint tea shop. Back for breakfast. Late morning the paragliding operator collects you for a tandem flight from the Sarangkot launch, about 20 to 30 minutes in the air with a licensed pilot, landing on the lakeshore. Children who are too young or light to fly watch from the landing field, where the gliders come in one after another. Afternoon at the pool.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Caves, falls and the ZipFlyer",
+      "place": "pokhara",
+      "overnight": "Temple Tree Resort, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 1 h of short drives",
+      "text": "Morning at Davis Falls, Patale Chhango in Nepali, where the Pardi Khola drops into a deep sinkhole and vanishes underground. Across the road, steps lead down into Gupteshwor Mahadev cave, with a Shiva shrine and, deeper inside, the same water falling through the rock. In the afternoon we drive up to the ZipFlyer station near Sarangkot. The line runs about 1.8 km down the hill at up to around 120 km per hour, and riders must usually weigh between about 35 and 125 kg.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Peace Pagoda hike and mountain museum",
+      "place": "pokhara",
+      "overnight": "Temple Tree Resort, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 2 h walk · ≈ 20 min boat",
+      "text": "Cross Phewa by boat and climb a forest stair for about an hour to the World Peace Pagoda, a white stupa with gilded Buddha statues and views over the lake. Walk down the other side to Pardi and drive to the International Mountain Museum, which children enjoy for its models of the great peaks, old climbing gear and displays on the dress and homes of Himalayan peoples. Late afternoon in the pool and a farewell dinner by the lake.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "",
+      "text": "Breakfast and transfer to Pokhara airport or the bus park. Families continuing to Chitwan can drive there in about 5 hours, or we can add an easy two-night trek to Dhampus and Australian Camp, which children from about eight manage happily. If you have half a day, the Seti river gorge viewpoints at Mahendrapul in the old city show the river running in a slot only a few metres wide.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "temple-tree-resort"
+  ],
+  "includes": [
+    "4 nights at Temple Tree Resort & Spa, family or connecting rooms, with breakfast",
+    "Private car and English-speaking guide every day",
+    "Airport transfers in Pokhara",
+    "Boats on Phewa Lake with life jackets",
+    "Entry to Davis Falls, Gupteshwor cave, the World Peace Pagoda and the International Mountain Museum"
+  ],
+  "excludes": [
+    "Paragliding (about USD 90–120 per person) and ZipFlyer tickets, booked by us and paid separately",
+    "Flights to and from Pokhara",
+    "Lunches and dinners",
+    "Travel insurance covering adventure activities",
+    "Tips"
+  ],
+  "good_to_know": [
+    "Paragliding and the ZipFlyer depend on weather; we keep days flexible so a cancelled flight can move.",
+    "Operators set minimum age, height and weight limits; we confirm them when booking and they can change.",
+    "Check that your travel insurance covers paragliding and ziplining before you fly.",
+    "Afternoon thermals make paragliding best from late morning to early afternoon in dry months.",
+    "Lakeside's streets have traffic; hold hands with small children on the main road."
+  ],
+  "faqs": [
+    {
+      "q": "Can children go paragliding in Pokhara?",
+      "a": "Often yes, in tandem with a licensed pilot, if they meet the operator's minimum weight and age limits, which differ between companies. Many operators fly children from about eight to ten years old who weigh enough to launch safely. A parent must sign consent. We confirm current limits when booking and choose an operator with a good safety record."
+    },
+    {
+      "q": "How long is a tandem paragliding flight in Pokhara?",
+      "a": "A standard flight lasts about 20 to 30 minutes in the air, from the launch at Sarangkot to a landing field by Phewa Lake. Longer cross-country flights of 45 to 60 minutes cost more. The whole outing, including the drive up and briefing, takes about two to three hours. Flights run most of the year except in heavy monsoon rain."
+    },
+    {
+      "q": "What is the ZipFlyer in Pokhara?",
+      "a": "The ZipFlyer is a long zipline from a hilltop near Sarangkot down toward the Seti river valley, about 1.8 km long with a vertical drop of around 600 m. Riders reach speeds of up to about 120 km per hour, and the ride takes around two minutes. There is usually a weight range of about 35 to 125 kg."
+    },
+    {
+      "q": "Is Pokhara safe for a family holiday?",
+      "a": "Yes. Pokhara is calm and easy for families: flat lakeside streets, many child-friendly restaurants, hotels with pools, and short drives between activities. The main cautions are road traffic in Lakeside, wearing life jackets on boats, and choosing reputable operators for paragliding and ziplining. Medical care is available at private hospitals in the city."
+    },
+    {
+      "q": "What else can kids do in Pokhara?",
+      "a": "Beyond flying and boating, families enjoy the bat cave and Mahendra cave north of the city, cycling along the lake, short rafting on the Seti river in season, and the Gurkha Memorial Museum. A two-night trek to Dhampus and Australian Camp gives children a taste of trekking with big mountain views."
+    },
+    {
+      "q": "Which hotel is best for families in Pokhara?",
+      "a": "Families want a pool, larger rooms and a short walk to the lake. Temple Tree Resort & Spa in Lakeside has a pool and garden and is close to the boat stations, which is why we use it on this trip. For more space, resorts outside the centre are quieter but need a car for every outing."
+    },
+    {
+      "q": "When is the best time to visit Pokhara with children?",
+      "a": "October and November are ideal: clear skies, warm days around 25 °C and good flying weather. March and April are also good, with warmer, hazier days. December to February is cool and very clear. School summer holidays fall in monsoon, when rain often cancels paragliding but boats, caves and the museum still work."
+    },
+    {
+      "q": "How much does this family trip cost?",
+      "a": "Our 4-night trip starts from USD 800 per person, twin sharing, with four nights at Temple Tree Resort, a private car and guide daily, boats and entry fees. Children sharing with parents are priced on request. Paragliding at about USD 90–120 and the ZipFlyer are paid separately because not every family member flies."
+    },
+    {
+      "q": "Is there an age limit for the Pokhara ZipFlyer?",
+      "a": "The ZipFlyer works mainly on weight rather than age, with riders usually required to weigh between about 35 and 125 kg. In practice that means most children from around ten to twelve years can ride. Limits are set by the operator and can change, so we confirm them at the time of booking."
+    }
+  ]
+}

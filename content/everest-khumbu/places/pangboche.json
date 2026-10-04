@@ -1,0 +1,164 @@
+{
+  "slug": "pangboche",
+  "name": "Pangboche",
+  "name_ne": "पाङबोचे",
+  "local_name": "",
+  "region": "everest-khumbu",
+  "kind": "village",
+  "wiki": "Pangboche",
+  "image_query": "Pangboche village Ama Dablam",
+  "lat": 27.8572,
+  "lng": 86.7942,
+  "altitude_m": 3985,
+  "tagline": "Khumbu's oldest gompa and the story of the stolen yeti hand",
+  "meta_description": "Pangboche, 3,985 m: Khumbu's oldest gompa, the yeti hand story, Ama Dablam base camp hike, Upper Pangboche's junipers and the comfortable Everest Summit Lodge.",
+  "summary": "Pangboche is a Sherpa village at about 3,985 m in the Imja valley, one of the highest in Khumbu where families live all year. Upper Pangboche holds the region's oldest gompa, once famous for a 'yeti hand' stolen in 1991, and the village is the base for Ama Dablam.",
+  "intro": [
+    "Pangboche spreads across a sunny slope above the Imja Khola, about two hours beyond Tengboche, in two parts. The lower village sits along the main Everest trail with its lodges and shops; Upper Pangboche, a short climb above, is an older cluster of stone houses, walled fields and ancient juniper trees around the gompa. Across the valley Ama Dablam fills the sky.",
+    "The gompa in Upper Pangboche is regarded as the oldest in Khumbu, attributed to Lama Sangwa Dorje, the teacher credited with founding Sherpa Buddhism in the valley. It was famous among Western explorers for its relics: a 'yeti scalp' and a mummified 'yeti hand'. The hand was stolen in 1991, and the story of how pieces of it travelled the world is one of Khumbu's oddest.",
+    "For trekkers Pangboche is a sensible step between Tengboche and Dingboche, and a welcome night on the way down from Base Camp. Climbers know it as their last village before Ama Dablam. We like it for Upper Pangboche at dusk, when the junipers darken and the butter lamps come on in the gompa, and for the Everest Summit Lodge's terrace in the morning."
+  ],
+  "story": {
+    "title": "The oldest gompa and the hand that went missing",
+    "paras": [
+      "Sherpa tradition credits Lama Sangwa Dorje with bringing a settled Buddhist practice to Khumbu, perhaps 350 years ago, and with founding the gompa at Pangboche, the oldest in the valley, as well as hermitages around it. Monastery accounts at Tengboche treat him as the spiritual ancestor of their own foundation in 1916. The Pangboche gompa is small, dark and very old, its walls painted, its juniper grove said to be sacred.",
+      "From the 1950s the gompa's relics drew Western expeditions hunting the yeti. One was a conical scalp; the other a withered, mummified hand. In 1959 a member of an American-funded expedition secretly took a finger from the hand, and the finger was smuggled out of India, according to the story, in the luggage of the film actor James Stewart. Decades later, in 2011, DNA tests on that finger, kept in a London collection, showed it was human.",
+      "In 1991 the hand itself was stolen from the gompa and has not been recovered. Pangboche's people felt the loss deeply; the relic belonged to the monastery's history, whatever its origin. A replica was later given to the gompa. The village meanwhile kept producing climbers: Sungdare Sherpa of Pangboche reached Everest's summit five times by 1989, a record at the time, and the school Hillary's Trust built here in 1963 still teaches its children."
+    ]
+  },
+  "legend": "Local legend says that Lama Sangwa Dorje, founder of the Pangboche gompa, scattered hairs from his head on the hillside, and that they grew into the great juniper trees that still surround the temple. For this reason the trees are sacred, never cut, and their needles are burned as incense offering. Villagers also tell that the lama left a footprint on a rock at Tengboche, foretelling the monastery that would later stand there.",
+  "people": "Pangboche is a Sherpa village of farmers, yak herders, lodge keepers and mountaineers. Families grow potatoes and buckwheat in walled fields, take yaks and nak to summer pastures higher in the Imja valley, and many men work as climbing Sherpas on Ama Dablam and Everest. The gompa is cared for by a lama and the village. Sherpa is the home language; children learn Nepali and English at the Hillary school.",
+  "untold": [
+    {"fact": "Pangboche's gompa was famous for a purported yeti scalp and mummified hand. The hand was stolen in 1991. DNA tests in 2011 on a finger taken from it in 1959 showed the finger was human.", "source": "Wikipedia: Pangboche Hand"},
+    {"fact": "Sungdare Sherpa, a native of Pangboche, held the record in 1989 for the most Everest summits, having reached the top five times.", "source": "Wikipedia: Pangboche"},
+    {"fact": "The Pangboche school was built by Edmund Hillary's Himalayan Trust in 1963, two years after the first Trust school at Khumjung.", "source": "Wikipedia: Pangboche"}
+  ],
+  "local_words": [
+    {"word": "shukpa", "script": "ཤུག་པ", "lang": "Sherpa", "meaning": "Juniper; its smoke is burned as incense offering at gompas and passes"},
+    {"word": "yeti", "script": "", "lang": "Sherpa", "meaning": "Legendary wild creature of the high valleys; also migoi in Sherpa"},
+    {"word": "chorten", "script": "མཆོད་རྟེན", "lang": "Sherpa", "meaning": "Stupa; a reliquary shrine walked around clockwise"}
+  ],
+  "taste": {"name": "Rildok (potato dumpling soup)", "text": "Rildok is a Sherpa soup of soft dumplings made from boiled, pounded potato, cooked in a light broth with greens and chilli. It is warming, filling and easy on an altitude-dulled appetite. Ask in Pangboche lodges or a Sherpa home the evening before."},
+  "facts": [["Best months", "Oct – Nov, Mar – May"], ["Days we suggest", "1–2 nights"], ["Nearest airport", "Lukla (LUA)"], ["From Kathmandu", "Flight to Lukla + 4–5 days on foot"], ["Altitude", "3,985 m"], ["Known for", "Oldest gompa in Khumbu, Ama Dablam, yeti relics"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Khumbu's oldest gompa", "text": "In Upper Pangboche, 20–30 minutes above the main trail, the small, dark gompa attributed to Lama Sangwa Dorje is the oldest in Khumbu. Old murals, butter lamps and the sacred juniper grove around it make a quiet, powerful visit."},
+    {"title": "The yeti hand story", "text": "The gompa once kept a mummified 'yeti hand'. A finger taken in 1959 was later found by DNA testing to be human; the hand itself was stolen in 1991. Ask the caretaker about the replica and the relic's history."},
+    {"title": "Ama Dablam base camp", "text": "A day hike from Pangboche climbs to Ama Dablam's base camp meadow at about 4,600 m, under the mountain's south-west ridge. It is good acclimatisation and, in season, a glimpse of an expedition camp."},
+    {"title": "Upper Pangboche at dusk", "text": "The old upper village, with walled fields, stone houses and juniper trees, is at its best in late afternoon when smoke rises from kitchen fires and Ama Dablam glows across the valley."},
+    {"title": "A soft bed going down", "text": "After nights at Lobuche and Gorak Shep, Pangboche at about 3,985 m means better sleep and appetite. The Everest Summit Lodge here has rooms with attached bathrooms and a terrace facing Ama Dablam."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Tengboche, about 1.5–2 hours via Deboche, crossing the Imja Khola on a bridge and climbing gently to the village. From Pangboche, Dingboche is about 3–4 hours further via Somare and Orsho."},
+    {"mode": "Air", "text": "The nearest airport is Lukla, four to five walking days away. Helicopters land nearby for rescues and charters."}
+  ],
+  "where_to_stay": "Lower Pangboche, along the main trail, has a row of teahouses with simple rooms and warm dining rooms, plus the Everest Summit Lodge, with about ten rooms with attached bathrooms and hot showers and a terrace facing Ama Dablam. Upper Pangboche has a couple of family lodges, quieter and closer to the gompa. On the way down from Base Camp, a night here is a real treat after the high lodges.",
+  "stays": ["everest-summit-lodge-pangboche"],
+  "tips": [
+    "Climb to Upper Pangboche in the late afternoon for the gompa and the light on Ama Dablam.",
+    "Leave a donation at the gompa and ask before photographing the interior.",
+    "Use Pangboche as an extra acclimatisation night if Tengboche to Dingboche feels too big a jump.",
+    "On the way down from Base Camp, push on to Pangboche rather than stopping in Pheriche if you want comfort.",
+    "Carry cash: there is no ATM above Namche."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "villages-and-homestays", "high-altitude", "treks-and-trails"],
+  "nearby": ["tengboche", "dingboche", "chhukung"],
+  "experiences": [
+    {
+      "slug": "pangboche-old-gompa-juniper-grove",
+      "title": "Khumbu's oldest gompa and its juniper grove",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, all season",
+      "image_query": "Pangboche monastery juniper",
+      "wiki": "",
+      "summary": "Climb to Upper Pangboche to visit the small, ancient gompa attributed to Lama Sangwa Dorje, said to be the oldest in Khumbu, ringed by juniper trees that legend says grew from his hair. Once home to the famous 'yeti hand'.",
+      "body": [
+        "From the lodges on the main trail a path climbs 20–30 minutes past chortens and mani walls to Upper Pangboche. The gompa is a low, square building of stone and timber, its wooden eaves painted in faded reds and greens, set in a grove of huge, gnarled juniper trees. Inside, the light is dim; butter lamps flicker before statues and walls darkened by centuries of smoke.",
+        "Sherpa tradition credits Lama Sangwa Dorje with founding it, making it the oldest monastery in Khumbu, the place from which Sherpa Buddhist practice spread to Tengboche and beyond. Legend says the junipers grew from hairs he scattered on the hillside. They are sacred, never cut, and their needles are burned as offering. Ask the caretaker to show the old texts and murals.",
+        "The gompa was long known for its relics, a 'yeti scalp' and a mummified 'yeti hand', which drew expeditions in the 1950s. The hand was stolen in 1991; a finger taken in 1959 was shown by DNA tests in 2011 to be human. A replica has since been given to the gompa. Visit with respect: remove shoes and hat, walk clockwise and leave a donation."
+      ],
+      "good_for": ["solo", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Is Pangboche monastery the oldest in Khumbu?", "a": "It is widely regarded as the oldest, attributed by Sherpa tradition to Lama Sangwa Dorje, who is said to have brought Buddhist practice to Khumbu roughly 350 years ago. Tengboche, founded in 1916, traces its spiritual lineage back to him. The Pangboche gompa is small and old, with dark, smoke-stained murals."},
+        {"q": "What happened to the Pangboche yeti hand?", "a": "The mummified hand, revered as a yeti relic, was stolen from the gompa in 1991 and never recovered. A finger taken from it in 1959 had been smuggled abroad; in 2011 DNA tests on that finger showed it was human. A replica was later given to the gompa. The story is told in the village with sadness rather than humour."},
+        {"q": "How do I get to Upper Pangboche?", "a": "From the lodges on the main trail in lower Pangboche, follow the path uphill for about 20–30 minutes to the cluster of old houses and junipers around the gompa. It is also possible to follow an upper trail from Tengboche direction. Your guide will find the caretaker if the gompa is locked."}
+      ]
+    },
+    {
+      "slug": "pangboche-ama-dablam-base-camp-hike",
+      "title": "Day hike to Ama Dablam base camp",
+      "kind": "trek",
+      "duration": "5–6 hours",
+      "best_time": "Morning start, Oct–Nov and Apr–May",
+      "image_query": "Ama Dablam base camp meadow",
+      "wiki": "Ama Dablam",
+      "summary": "From Pangboche, cross the Imja Khola and climb about 600 m to the meadow below Ama Dablam's south-west ridge, the base camp for the mountain's normal route at roughly 4,600 m. A rewarding acclimatisation day with the 6,812 m peak overhead.",
+      "body": [
+        "Ama Dablam is the mountain of the Everest trail: you see it from Namche, it dominates Tengboche, and at Pangboche you stand almost at its foot. The base camp for its popular south-west ridge route lies on a broad meadow at about 4,600 m, reached from Pangboche by crossing the Imja Khola on a bridge and climbing a steady trail through yak pastures.",
+        "The walk takes about 3 hours up and 2 down, gaining roughly 600 m. In autumn the meadow may hold an expedition camp of yellow tents, with climbers preparing for the ridge above. In spring it is quieter. The view of the mountain's face, with its hanging glacier, the dablam of its name, is close and huge, and on the way back Tengboche, Everest and Lhotse fill the horizon.",
+        "This is an excellent acclimatisation day before Dingboche: climb high, return to sleep in Pangboche. Carry water, lunch and warm layers, as there are no teahouses on the route in most seasons. Turn back if you feel unwell. Respect expedition camps; ask before entering and do not photograph climbers' kit without permission."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How high is Ama Dablam base camp?", "a": "Ama Dablam base camp, on the meadow below the south-west ridge, is at about 4,600 m. From Pangboche, at about 3,985 m, the climb is roughly 600 m and takes 3 hours or so, with about 2 hours to return. It is non-technical walking on yak trails, but altitude makes it a real effort."},
+        {"q": "Is the Ama Dablam base camp hike worth it?", "a": "Yes, if you have a spare day. It gives superb views of Ama Dablam, a sense of an expedition base camp and excellent acclimatisation for higher stages. Many travellers find it quieter and more personal than the main trail. It fits well as a rest day in Pangboche before going on to Dingboche."},
+        {"q": "Do I need a permit to visit Ama Dablam base camp?", "a": "Trekkers need only the usual Sagarmatha National Park entry and Khumbu Pasanglhamu municipality permits to walk to the base camp. Climbing Ama Dablam itself requires a separate expedition permit and a licensed team. Since April 2023 trekkers are meant to walk with a licensed guide; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "pangboche-upper-village-yak-pastures",
+      "title": "Upper Pangboche and the yak pastures",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Sep–Nov and Mar–May",
+      "image_query": "yak pasture Pangboche Imja valley",
+      "wiki": "Yak",
+      "summary": "Wander the old upper village of Pangboche and the walled pastures above it, where yaks, nak and dzo graze below Ama Dablam. Learn the Sherpa names for each animal and how herding still shapes life at 4,000 m.",
+      "body": [
+        "Above the gompa the paths of Upper Pangboche lead out between stone walls into pasture. Here you meet the animals that make Khumbu work. Yaks are the long-haired bulls and bullocks that carry loads to Base Camp; nak are the females, milked for butter and the cheese sold as yak cheese; dzo, the hybrids of yak and lowland cattle, work lower down and rarely come this high.",
+        "Families move their herds through the year: up to summer grazing at hamlets such as Dingboche, Pheriche and the Imja valley pastures in the monsoon, down to village fields in winter, where the animals eat potato stubble and dried grass stored in the upper floor of the house. Yak dung, dried in neat cakes on walls, is the main fuel above the tree line.",
+        "Walk in the late afternoon, when herders bring animals in and the light on Ama Dablam turns gold. Keep a respectful distance; yaks are usually calm but have sharp horns and dislike being crowded, especially mothers with calves. Always pass loaded animals on the uphill side of the trail. Ask your guide to introduce you to a herding family if they are willing."
+      ],
+      "good_for": ["families", "photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "What is the difference between a yak, a nak and a dzo?", "a": "A yak is the male of the long-haired high-altitude bovine; a nak is the female. Strictly there is no yak milk or yak cheese, only nak milk and cheese. A dzo is a male crossbreed of yak and lowland cattle, and a dzomo is the female. Dzo work lower down, roughly Lukla to Namche; yaks work higher."},
+        {"q": "Are yaks dangerous?", "a": "Usually not, but they are large, horned and easily startled. Give them room, never stand on the downhill side of a trail when a caravan passes, and keep away from mothers with calves. Most injuries happen when trekkers get pushed off narrow paths. Step to the mountain side and wait until the animals pass."},
+        {"q": "Why is yak dung drying on walls in Pangboche?", "a": "Above the tree line, firewood is scarce and cutting it is restricted in the national park. Families collect yak and nak dung, shape it into cakes and dry it on walls and rocks. Once dry it burns cleanly and heats lodge stoves. It is a key fuel above about 4,000 m."}
+      ]
+    },
+    {
+      "slug": "pangboche-sherpa-kitchen-tea",
+      "title": "Butter tea in a Pangboche Sherpa kitchen",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Afternoon or evening, all season",
+      "image_query": "Sherpa house kitchen butter tea",
+      "wiki": "Butter tea",
+      "summary": "Spend an hour with a Pangboche family in the kitchen of a traditional stone house, watching butter tea churned and potatoes boiled on a clay stove, and learn the etiquette of Sherpa hospitality. Arranged through your guide with families who welcome visitors.",
+      "body": [
+        "The traditional Sherpa house is built on two floors: animals, fodder and stores below; above, one long room that is kitchen, living room and often bedroom. The stove sits at its heart, a clay or iron hearth with a pot always on. Shelves along one wall hold polished copper and brass vessels, a family's wealth on display. A small altar with butter lamps and photos of lamas sits in the corner.",
+        "Your host will make tea. Black tea boiled with salt is churned with butter in a tall wooden cylinder, poured into a kettle and served in small cups. You drink a little and the cup is filled again. Etiquette is simple: accept with both hands or the right hand, sip before setting it down, and leave it full when you have had enough. Potatoes, tsampa or rildok soup may follow.",
+        "Such visits work only when they are genuine, so we arrange them through our guides with families who like having guests, and pay them fairly. Remove your shoes at the door, do not sit with your feet towards the hearth or altar, and ask before photographing anyone. Bring a small gift of fruit or biscuits from Namche. Conversation, with your guide translating, is the point."
+      ],
+      "good_for": ["families", "solo", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Can I visit a Sherpa home in Pangboche?", "a": "Yes, through your guide, who can arrange a visit with a family that welcomes guests. We pay families fairly for their time. Remove shoes at the door, accept the tea offered, ask before photographing, and bring a small gift such as fruit or biscuits. Arrive with curiosity rather than a camera first."},
+        {"q": "How is Sherpa butter tea made?", "a": "Black tea is boiled for a long time, then poured into a tall wooden churn with salt and butter, traditionally from nak milk. It is churned until smooth and served hot in small cups. The result is salty and rich. Many Sherpas drink a dozen cups a day, especially in cold months."},
+        {"q": "What should I say to thank a Sherpa host?", "a": "Thuche is the Sherpa word for thank you, from the Tibetan thuk je che. Tashi delek is the greeting for good fortune. Most Sherpas also use the Nepali dhanyabad and the greeting namaste. A smile, a slight bow and accepting what is offered go further than any phrase."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Pangboche?", "a": "Pangboche lies at about 3,985 m in the Imja Khola valley, roughly 120 m above Tengboche. It is one of the highest villages in Khumbu where families live year-round. Above it, settlements such as Dingboche and Pheriche were traditionally used as seasonal herding places, though lodges now operate there through the trekking seasons."},
+    {"q": "Is Pangboche on the Everest Base Camp route?", "a": "Yes. The main trail from Tengboche to Dingboche passes through lower Pangboche, about 1.5–2 hours beyond Tengboche. Most trekkers stop for tea; some sleep here as an extra acclimatisation step. On the way down, many walk from Lobuche or Dingboche to Pangboche in a day for better sleep at lower altitude."},
+    {"q": "How old is the Pangboche monastery?", "a": "It is regarded as the oldest gompa in Khumbu, attributed to Lama Sangwa Dorje, who is believed to have brought Buddhist practice to the valley around 350 years ago. Exact dates are not firmly documented, so we do not quote one. The gompa stands in Upper Pangboche among ancient juniper trees."},
+    {"q": "Can I still see the yeti relics at Pangboche?", "a": "The original mummified hand was stolen in 1991, and a replica was later given to the gompa. The gompa's 'yeti scalp' has also been part of its story. Ask the caretaker what is on show; displays change. For a relic you can reliably see, Khumjung's gompa keeps its yeti scalp in a case."},
+    {"q": "Where should I stay in Pangboche?", "a": "Lower Pangboche has several teahouses along the trail and the Everest Summit Lodge, with rooms with attached bathrooms and a terrace facing Ama Dablam. Upper Pangboche has a couple of quieter family lodges near the gompa. In peak season we book ahead, especially at the Everest Summit Lodge."},
+    {"q": "How long is the walk from Pangboche to Dingboche?", "a": "About 3–4 hours, climbing roughly 430 m from about 3,985 m to about 4,410 m via Somare and Orsho, then crossing the Imja Khola into Dingboche. The trail is gradual but the altitude makes it tiring, so take it slowly. The landscape changes from shrubs to open, high pasture."},
+    {"q": "Is Pangboche a good place to acclimatise?", "a": "Yes. It sits between Tengboche and Dingboche, which helps break the climb into smaller steps. A night here, plus a day hike to Ama Dablam base camp at about 4,600 m, follows the climb-high, sleep-low principle. It suits slower walkers and anyone who struggled with altitude in Namche."},
+    {"q": "What is Pangboche known for?", "a": "Its gompa, regarded as the oldest in Khumbu; the story of its stolen 'yeti hand'; its role as the base for Ama Dablam climbs; and its climbers, including Sungdare Sherpa, who held the Everest summit record in 1989. It also has the Hillary school founded in 1963."},
+    {"q": "Is Ama Dablam visible from Pangboche?", "a": "Yes, magnificently. Ama Dablam rises directly across the Imja valley from Pangboche, closer and larger than from Tengboche. Everest and Lhotse are also visible up the valley. Mornings from October to December are clearest; spring afternoons are often cloudy."}
+  ]
+}

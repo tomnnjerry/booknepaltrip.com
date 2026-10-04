@@ -1,0 +1,11 @@
+{% load yatra %}<a class="card" href="{{ j.url }}" data-land="{{ j.region }}" data-item data-region="{{ j.region }}" data-themes="{{ j.themes|join:' ' }}" data-length="{% if j.nights <= 7 %}short{% elif j.nights <= 13 %}mid{% else %}long{% endif %}" data-height="{% if j.max_altitude_m < 2500 %}low{% elif j.max_altitude_m < 4000 %}mid{% else %}high{% endif %}" data-kind="{{ j.kind }}">
+  <div class="card__img">{% with i=j|first_img %}{% if i %}<img src="{{ i|src:500 }}" srcset="{{ i|srcset }}" sizes="(max-width: 760px) 100vw, 33vw" alt="" loading="lazy">{% else %}<div class="noimg">{% icon j.region_obj.icon %}</div>{% endif %}{% endwith %}
+    <span class="card__tag">{% icon j.region_obj.icon %}{{ j.region_obj.name }}</span><span class="card__alt">max {{ j.max_altitude_m|num }} m</span></div>
+  <div class="card__body">
+    <div class="card__meta"><b>{{ j.nights }} nights</b><span><i class="blaze"></i>{{ j.grade }}</span><span>{{ j.kind }}</span></div>
+    <h3>{{ j.title }}</h3>
+    {% if j.profile %}<svg class="spark" viewBox="0 0 600 160" preserveAspectRatio="none" aria-hidden="true"><path class="a" d="{{ j.profile.area }}"/><path class="l" d="{{ j.profile.line }}"/></svg>{% endif %}
+    <p>{{ j.summary|truncatewords:22 }}</p>
+    <div class="card__foot"><span class="card__price">from<b>{{ j.price_from_usd|usd }}</b></span><span class="link-arrow">See the days {% icon "arrow" %}</span></div>
+  </div>
+</a>

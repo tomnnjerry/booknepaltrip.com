@@ -1,0 +1,346 @@
+{
+  "slug": "pathibhara",
+  "name": "Pathibhara",
+  "name_ne": "पाथीभरा",
+  "local_name": "Mukkumlung (Limbu)",
+  "region": "eastern-nepal",
+  "kind": "pilgrimage site",
+  "wiki": "Pathibhara Devi Temple",
+  "image_query": "Pathibhara Devi temple Taplejung",
+  "lat": 27.43,
+  "lng": 87.77,
+  "altitude_m": 3794,
+  "tagline": "The goddess on the hilltop above Taplejung, at 3,794 m",
+  "meta_description": "Pathibhara Devi (Mukkumlung) temple, 3,794 m above Taplejung: the climb, seasons, rules, Kanchenjunga views and how to get there from Kathmandu.",
+  "summary": "Pathibhara Devi, known in Limbu as Mukkumlung, is a hilltop shrine at 3,794 m north-east of Phungling, the bazaar of Taplejung district. It is one of the most visited pilgrimage sites in eastern Nepal, reached by a steep walk of a few hours from the road head, with views to the Kanchenjunga range on clear mornings.",
+  "intro": [
+    "Taplejung is Nepal's far north-eastern district, home of the Kanchenjunga region. Above its bazaar town of Phungling rises a long forested ridge, and on its highest knoll sits the shrine of Pathibhara Devi. Pilgrims from across Nepal, Sikkim, Darjeeling and further into India climb here to ask the goddess for a wish, and come back to thank her when it is granted. Some come every year; many come once in a lifetime.",
+    "The shrine itself is small: an open stone sanctum on the summit, ringed by bells, tridents, flags and offerings. What makes the trip is the climb through rhododendron forest, the crowd of pilgrims on festival days, and on a clear morning the view across to Kanchenjunga, Jannu and the snow peaks of the north. The mix of devotion, effort and mountain scenery makes it unlike any temple visit in the Kathmandu Valley.",
+    "For trekkers, Pathibhara is a natural first stop on the way into the Kanchenjunga region, or a short pilgrimage on its own from Taplejung. We plan it as a two or three day trip with a night near the road head, so you can climb early and be on the top before cloud comes up. Add a night in Phungling for the bazaar and a Limbu village visit, and you have a rounded short trip to the far east."
+  ],
+  "story": {
+    "title": "Mukkumlung, the hill of two faiths",
+    "paras": [
+      "Pathibhara is a meeting place of two traditions. For Hindus, the goddess here is a form of Shakti, and the temple is counted among the important Shakti shrines of Nepal. For the Limbu (Yakthung) people, whose homeland this is, the hill has its own name, Mukkumlung, and its own place in their sacred geography. Many Limbu families treat the hill as a site of their own Kirat worship, and the relationship between the two traditions is part of local identity.",
+      "The temple has long drawn pilgrims from the plains and from Darjeeling and Sikkim. Devotees bring flowers, coins, red cloth, bells and, in some cases, animals for sacrifice. Families from the former royal household of Nepal were among its well-known visitors. Pilgrims usually spend a night at the foot of the hill, climb before dawn, make their offerings and walk down by midday. Over the years the trail has been improved with steps, shelters and tea shops, run by families from the villages below.",
+      "In recent years a planned cable car to the summit has been strongly contested in Taplejung, with Limbu organisations among those objecting that development would harm a sacred site. Supporters argue that it would make the shrine easier to reach for older pilgrims and bring business; opponents say the hill should be climbed, not ridden. The debate continues, and it says much about what the hill means to the people who live beneath it. Check current status before you travel."
+    ]
+  },
+  "legend": "Local legend says that shepherds once grazed their flocks on this hilltop, and one day hundreds of their sheep vanished without trace. That night the goddess appeared in a dream to one of the shepherds and asked for an offering and a shrine on the summit. When the shepherds made the offering, the tradition of worship began. Pilgrims still say the goddess of Pathibhara grants the wishes of those who climb with a sincere heart.",
+  "people": "Taplejung is the heart of Limbuwan, the homeland of the Limbu (Yakthung), who speak the Limbu language and follow the Mundhum, their oral scripture. Brahmin, Chhetri, Rai, Gurung, Tamang, Sherpa and Newar families also live in the district. Around Pathibhara, families farm potatoes, maize and cardamom, keep cattle and run the tea shops, lodges and stalls that serve pilgrims along the trail.",
+  "untold": [
+    {
+      "fact": "The temple is known by two names: Pathibhara Devi to Hindu pilgrims and Mukkumlung to the Limbu people, for whom the hill is a sacred place in their own tradition.",
+      "source": "Wikipedia: Pathibhara Devi Temple"
+    },
+    {
+      "fact": "Taplejung Airport at Suketar, the nearest airstrip to Pathibhara, opened in October 1976 and restarted scheduled service in 2016 after its runway was blacktopped. Services remain irregular.",
+      "source": "Wikipedia: Taplejung Airport"
+    },
+    {
+      "fact": "Phungling, the bazaar town below Pathibhara and the headquarters of Taplejung district, became a municipality in May 2014 by merging the former village areas of Phungling and Dokhu.",
+      "source": "Wikipedia: Phungling Municipality"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "bhakal",
+      "script": "भाकल",
+      "lang": "Nepali",
+      "meaning": "A vow made to a deity, repaid with an offering when a wish is granted"
+    },
+    {
+      "word": "prasad",
+      "script": "प्रसाद",
+      "lang": "Nepali",
+      "meaning": "Blessed food or offering shared after worship"
+    },
+    {
+      "word": "Mukkumlung",
+      "script": "मुक्कुमलुङ",
+      "lang": "Limbu",
+      "meaning": "The Limbu name for the Pathibhara hill"
+    }
+  ],
+  "taste": {
+    "name": "Sel roti and milk tea",
+    "text": "Ring-shaped fried rice-flour bread, eaten with sweet milk tea at the stalls by the trailhead before the dawn climb. Pilgrims buy it hot from tea shops at the road head and along the path. Down in Phungling, look for kinema, the Limbu fermented soybean dish."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Nov, Mar – May"
+    ],
+    [
+      "Days we suggest",
+      "2–3 from Taplejung"
+    ],
+    [
+      "Nearest airport",
+      "Taplejung (Suketar); Bhadrapur"
+    ],
+    [
+      "From Kathmandu",
+      "Flight + long day by road, or 1–2 days by road"
+    ],
+    [
+      "Altitude",
+      "3,794 m"
+    ],
+    [
+      "Known for",
+      "Pathibhara Devi shrine, pilgrim climb, Kanchenjunga views"
+    ]
+  ],
+  "best_months": [
+    0,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "2–3",
+  "highlights": [
+    {
+      "title": "The pre-dawn climb with pilgrims",
+      "text": "Most pilgrims start in the dark and climb steeply through forest for a few hours to reach the shrine at sunrise. Walking with them, bells ringing and torches bobbing up the hill, is the heart of the trip."
+    },
+    {
+      "title": "The summit shrine at 3,794 m",
+      "text": "An open stone sanctum on the hilltop, ringed by bells, tridents, prayer flags and red cloth. Join the queue, watch the offerings, and give space to families completing their bhakal, a vow made to the goddess."
+    },
+    {
+      "title": "Kanchenjunga from the top",
+      "text": "On clear mornings, mostly October to December, the Kanchenjunga range and Jannu (Kumbhakarna) stand to the north and east of the summit, with lesser snow peaks between. Cloud often rises by mid-morning, so arrive early."
+    },
+    {
+      "title": "Rhododendron forest in spring",
+      "text": "The trail climbs through rhododendron, oak and fir. From late March to early May the gurans bloom red along the path, and spring, with Chaite Dashain, is one of the two busy pilgrim seasons."
+    },
+    {
+      "title": "Phungling bazaar",
+      "text": "Taplejung's hill bazaar has the district's shops, offices and simple hotels. Walk its streets in the evening, eat kinema and dal bhat, and stock up on cash and supplies before Pathibhara or the Kanchenjunga trek."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Phungling (Taplejung bazaar) is reached by the Mechi Highway north through Ilam and Panchthar, a long day of driving from Birtamod or Bhadrapur in Jhapa. From Phungling a road climbs toward the foot of the hill, and the last section is on foot. Road conditions change, especially in the monsoon; check current status before you travel."
+    },
+    {
+      "mode": "Air",
+      "text": "Taplejung Airport at Suketar has had flights from Biratnagar and at times from Kathmandu, but services are irregular and often suspended. Most travellers fly Kathmandu–Bhadrapur instead and drive. Check current status before you travel."
+    },
+    {
+      "mode": "On foot",
+      "text": "From the road head below the temple, a steep stepped trail climbs roughly 3–4 hours to the summit through forest, with tea shops on the way. The descent takes about 2–3 hours."
+    }
+  ],
+  "where_to_stay": "Phungling bazaar has simple hotels and lodges used by pilgrims, officials and Kanchenjunga trekkers, with private rooms and plain restaurants. Closer to the hill, basic pilgrim lodges and tea-house rooms near the road head let you start the climb before dawn; facilities are simple, with shared toilets and thick blankets. On festival days these fill quickly, so we book ahead or plan the climb from Phungling with an early drive.",
+  "stays": [],
+  "tips": [
+    "Start the climb before dawn: views are clearest early and cloud often closes in by late morning.",
+    "Avoid the biggest festival days if you dislike crowds; queues at the shrine can last hours during Dashain and Chaite Dashain.",
+    "Remove shoes and leather where asked, and do not photograph inside the sanctum or during sacrifices without permission.",
+    "Take the altitude seriously: 3,794 m is high enough for headaches, so climb slowly and drink water.",
+    "Bring a warm jacket, hat and gloves; the summit is often windy and near freezing at dawn."
+  ],
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "treks-and-trails",
+    "high-altitude",
+    "photography"
+  ],
+  "nearby": [
+    "ghunsa",
+    "ilam",
+    "sandakpur"
+  ],
+  "experiences": [
+    {
+      "slug": "pathibhara-dawn-pilgrim-climb",
+      "title": "Dawn climb to Pathibhara Devi with pilgrims",
+      "kind": "spiritual",
+      "duration": "6–7 hours",
+      "best_time": "Pre-dawn, Oct–Nov and Mar–Apr",
+      "image_query": "Pathibhara temple pilgrims bells",
+      "wiki": "",
+      "summary": "Climb through the dark forest with pilgrims to the summit shrine of Pathibhara Devi at 3,794 m, arriving for sunrise and morning worship, with a guide who explains the rituals and the Hindu and Limbu traditions of the hill.",
+      "body": [
+        "We start from the lodge near the road head in the early hours, with head torches and warm layers. The trail is steep and stepped, climbing through rhododendron and oak, with the lights of Phungling below. Pilgrims of every age are on the path with you, some barefoot, many carrying offerings, and the bells of the tea shops ring out as groups pass. Our guide sets a slow, even pace and stops often, because the altitude is felt by everyone.",
+        "At the top, the shrine is an open sanctum on the bare summit. Our guide explains how to queue, what pilgrims offer and why, and the meaning of the bhakal vows that bring people back year after year. We also talk about Mukkumlung, the Limbu name for the hill, and what it means in Kirat tradition. If you would like to make an offering, our guide shows you how; if not, you are welcome simply to watch.",
+        "After worship and the view, we walk down slowly, stopping for tea and sel roti at the shops on the trail, and reach the road head around midday. The descent is hard on the knees, so walking poles help. In the afternoon we drive back to Phungling, or continue north toward the Kanchenjunga trail if Pathibhara is part of a longer trek. The climb also works well as an acclimatisation day before going higher."
+      ],
+      "good_for": [
+        "trekkers",
+        "solo",
+        "photographers",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the walk to Pathibhara temple?",
+          "a": "From the road head below the temple, the climb usually takes about 3–4 hours up and 2–3 hours down on a steep stepped trail. Fit walkers can be faster. Start before dawn to reach the top for sunrise and clear views."
+        },
+        {
+          "q": "Can non-Hindus visit Pathibhara temple?",
+          "a": "Yes, visitors of any faith can climb the hill and visit the shrine area respectfully. Follow the queue, remove shoes where asked, do not touch offerings, and ask before photographing people at worship or any sacrifice. Our guide explains what is expected at each step."
+        },
+        {
+          "q": "Is the Pathibhara climb suitable for older pilgrims?",
+          "a": "Many older pilgrims do it, slowly. The trail is steep and reaches 3,794 m, so heart or lung conditions need medical advice first. We allow extra time, use walking poles on the descent and set a slow pace with frequent rests."
+        }
+      ]
+    },
+    {
+      "slug": "pathibhara-kanchenjunga-summit-view",
+      "title": "Kanchenjunga views from the Pathibhara summit",
+      "kind": "nature",
+      "duration": "1–2 hours on top",
+      "best_time": "Sunrise, Oct–Dec",
+      "image_query": "Kanchenjunga view from Pathibhara",
+      "wiki": "",
+      "summary": "Time on the summit after worship to take in the mountain panorama: on clear mornings the Kanchenjunga range and Jannu to the north-east, the long ridges of Taplejung below, and the valleys of the Tamor river system.",
+      "body": [
+        "Pathibhara's summit is one of the best viewpoints in Taplejung. On a clear autumn morning the Kanchenjunga massif and the sharp form of Jannu, called Kumbhakarna in Nepal, rise to the north-east, with lesser snow peaks in between. To the south and west, the ridges of Taplejung and Panchthar fold away in layers toward the plains, with villages and terraces on every slope and the valley of the Tamor river cutting through them.",
+        "Our guide points out the valleys you would walk into on the Kanchenjunga trek, and the villages of Taplejung spread along the ridges below. We find a sheltered spot away from the queue, out of the wind, with tea from a flask. This is the moment to sit still: the bells, the flags snapping in the wind, the murmur of prayers and the white line of the mountains together make the climb worthwhile.",
+        "Cloud tends to rise by mid-morning, so we time the climb to be on top early. Spring mornings can be clear too, though haze is more common, and in winter the views are often sharp but the cold and wind are severe. If the summit is in cloud when you arrive, it is worth waiting half an hour; gaps often open briefly. Photographers should bring a telephoto lens for Jannu and Kanchenjunga."
+      ],
+      "good_for": [
+        "photographers",
+        "trekkers",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Can you see Kanchenjunga from Pathibhara?",
+          "a": "Yes, on clear mornings the Kanchenjunga range and Jannu (Kumbhakarna) are visible from the summit. October to December gives the best chance. In spring and summer cloud and haze often hide the peaks after early morning, so start the climb in the dark."
+        },
+        {
+          "q": "How cold is it on top of Pathibhara?",
+          "a": "At 3,794 m, dawn temperatures are often near or below freezing, colder in winter, with strong wind on the exposed summit. Bring a down jacket, hat, gloves and a warm drink. It warms up quickly once the sun is high, so dress in layers."
+        },
+        {
+          "q": "Is there anywhere to stay on the Pathibhara summit?",
+          "a": "No. Pilgrims do not sleep at the shrine, and there is no accommodation on the summit. Basic lodges and tea houses are found lower down near the road head and along the trail, and more choice in Phungling bazaar, a drive away."
+        }
+      ]
+    },
+    {
+      "slug": "pathibhara-phungling-bazaar-evening",
+      "title": "An evening in Phungling bazaar",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Evening, any season",
+      "image_query": "Phungling Taplejung bazaar",
+      "wiki": "",
+      "summary": "A walk through Phungling, Taplejung's hill-top district town, to eat local food including kinema, the Limbu fermented soybean dish, and see the bazaar where pilgrims, traders, officials and Kanchenjunga trekkers all pass through.",
+      "body": [
+        "Phungling is the district headquarters of Taplejung, a ridge-top town of offices, shops and lodges, formed as a municipality in 2014. It is where pilgrims arrive before Pathibhara and where trekkers buy last supplies for the Kanchenjunga region: batteries, snacks, cash and the odd forgotten glove. In the evening, when offices close and the day's buses and jeeps have arrived, the bazaar is at its liveliest.",
+        "We walk the main streets with our guide and stop at small kitchens. Kinema, made from fermented soybeans and cooked as a curry or pickle, is a Limbu food you rarely find outside the east, with a strong smell and a rich, savoury taste. With luck you will also find tongba, the warm millet brew sipped through a bamboo straw, and seasonal vegetables from the hill farms around town.",
+        "It is a simple, unplanned evening rather than a show. It gives you a feel for a working hill town that most visitors to Nepal never see, where shopkeepers, students, soldiers on leave and farmers in town for the day all share the same few streets. Our guide translates and helps you order, and the evening usually ends early, since the next morning starts before dawn on the trail to Pathibhara."
+      ],
+      "good_for": [
+        "solo",
+        "trekkers",
+        "first-timers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is kinema?",
+          "a": "Kinema is a traditional food of the Limbu people, made from soybeans that are boiled, wrapped and left to ferment for a few days. It has a strong smell and savoury taste, and is cooked as a curry or pickle with rice. It is now made by other Kirat communities too."
+        },
+        {
+          "q": "Are there hotels in Phungling?",
+          "a": "Yes, Phungling has simple hotels and lodges used by pilgrims, officials and trekkers, with private rooms and basic bathrooms. Expect clean but plain rooms and simple restaurants. They fill up around big festivals such as Dashain, so book ahead."
+        },
+        {
+          "q": "Are there ATMs in Taplejung?",
+          "a": "Phungling has banks and ATMs, but they can run out of cash or go offline. Bring enough Nepali rupees from the Terai or Kathmandu, especially if you continue into the Kanchenjunga region, where there are no ATMs at all."
+        }
+      ]
+    },
+    {
+      "slug": "pathibhara-limbu-village-visit",
+      "title": "A Limbu village afternoon near Taplejung",
+      "kind": "heritage",
+      "duration": "Half day",
+      "best_time": "Oct–Dec and Mar–May",
+      "image_query": "Limbu village Taplejung house",
+      "wiki": "Limbu people",
+      "summary": "An unhurried visit to a Limbu farming village near Phungling with a local guide: the house, the fields, the language and script, and, where a family is willing, a conversation about the Mundhum and Kirat ways of worship.",
+      "body": [
+        "Taplejung is the heart of Limbuwan, the traditional homeland of the Limbu, who call themselves Yakthung. We visit a village with a guide from the community, walk the terraces of maize, millet and cardamom, and sit with a family who have agreed to host us. Houses here are often built of stone and timber, with a kitchen fire at the centre and a shelf for the household's ritual objects.",
+        "Conversation turns to what you want to know: the Limbu language and its own script, named Sirijanga after the 18th-century scholar who revived it; the Mundhum, the oral scripture recited by Limbu priests; and festivals such as Chasok Tangnam, the offering of the first harvest. If there is a dhaka loom in the house, you may see the patterned cloth being woven, and hear how designs are passed down within families.",
+        "We ask that you treat this as a visit to someone's home, not a performance. We pay the family directly for their time and any food, and keep groups small. Tea, and perhaps a snack of roasted soybeans or corn, is usually offered; accept with your right hand. The visit lasts as long as the conversation flows, often two or three hours, and leaves you with a far better sense of the hills than any museum."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "families",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Who are the Limbu people?",
+          "a": "The Limbu, who call themselves Yakthung, are one of the Kirat peoples indigenous to eastern Nepal, with their traditional homeland, Limbuwan, east of the Arun river. They speak the Limbu language, have their own script, and follow the Mundhum, their oral scripture and code of ritual and custom."
+        },
+        {
+          "q": "What is the Limbu script?",
+          "a": "Limbu has its own script, often called Sirijanga after Te-ongsi Sirijunga, an 18th-century Limbu scholar who revived and taught it. You will see it on signs, school books and religious texts in Limbu areas such as Taplejung, alongside Devanagari, and it is taught in some local schools."
+        },
+        {
+          "q": "Is it respectful to visit a Limbu village?",
+          "a": "Yes, when it is arranged with the community and families are paid fairly for their time. Ask before photographing people or shrines, dress modestly, and follow your host's lead in the house, for example removing shoes where they do. We do not arrange staged performances."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Pathibhara temple?",
+      "a": "Pathibhara Devi temple stands at 3,794 m on a hilltop north-east of Phungling, the headquarters of Taplejung district in Koshi Province, far eastern Nepal. It is reached by road to the foot of the hill and then a steep walk of about 3–4 hours."
+    },
+    {
+      "q": "How do I get to Pathibhara from Kathmandu?",
+      "a": "Fly from Kathmandu to Bhadrapur (about 45–50 minutes), then drive north via Ilam and Panchthar on the Mechi Highway to Phungling, a long day. Flights to Taplejung's own airstrip at Suketar are irregular. Allow at least four days from Kathmandu and back. Check current status before you travel."
+    },
+    {
+      "q": "When is the best time to visit Pathibhara?",
+      "a": "October and November give clear skies and mountain views, and March to May brings rhododendrons and milder weather. The temple is busiest around Dashain in autumn and Chaite Dashain in spring. December to February is cold with possible snow on top; June to September is wet and cloudy."
+    },
+    {
+      "q": "Is Pathibhara open all year?",
+      "a": "Pilgrims visit throughout the year, but winter snow and monsoon rain make the climb harder and sometimes unsafe. Heavy snow can close the upper trail for days, and the monsoon brings slippery steps and cloud. Check current status before you travel, especially from December to February."
+    },
+    {
+      "q": "Do I need a permit for Pathibhara?",
+      "a": "No special trekking permit is needed for Pathibhara itself. If you continue north into the Kanchenjunga region you need the Kanchenjunga Conservation Area permit and a restricted area permit, and must trek with a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "Is Pathibhara part of the Kanchenjunga trek?",
+      "a": "It can be. Some Kanchenjunga itineraries add Pathibhara as a first acclimatisation day from Taplejung, since it climbs to 3,794 m and returns lower to sleep. It is also visited as a pilgrimage on its own, in two or three days from the road head."
+    },
+    {
+      "q": "What should I offer at Pathibhara temple?",
+      "a": "Pilgrims commonly offer flowers, incense, red cloth, coins and bells, and some make vows (bhakal) to return with an offering when a wish is granted. Visitors are not expected to make offerings, but a small donation is welcome. Ask our guide if you would like to take part."
+    },
+    {
+      "q": "Is altitude sickness a risk at Pathibhara?",
+      "a": "Yes, mildly. At 3,794 m, headaches and breathlessness are common if you climb fast from a lower town. Go slowly, drink water, and turn back if you feel very unwell. Serious altitude sickness is uncommon on a same-day climb and descent but possible."
+    },
+    {
+      "q": "Are animal sacrifices made at Pathibhara?",
+      "a": "Some pilgrims offer animals, especially on festival days, as is the custom at several goddess shrines in Nepal. If you would rather not see this, ask our guide which times are quieter and keep a distance from the sacrifice area."
+    }
+  ]
+}

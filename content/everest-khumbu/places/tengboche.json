@@ -1,0 +1,164 @@
+{
+  "slug": "tengboche",
+  "name": "Tengboche",
+  "name_ne": "तेङबोचे",
+  "local_name": "Thyangboche; monastery: Dawa Choling Gompa",
+  "region": "everest-khumbu",
+  "kind": "monastery",
+  "wiki": "Tengboche",
+  "image_query": "Tengboche Monastery Ama Dablam",
+  "lat": 27.8361,
+  "lng": 86.7642,
+  "altitude_m": 3867,
+  "tagline": "Khumbu's great monastery, founded 1916, rebuilt twice",
+  "meta_description": "Tengboche, 3,867 m: the monastery founded in 1916, rebuilt after the 1934 earthquake and 1989 fire, Mani Rimdu, Ama Dablam views and the Deboche nunnery.",
+  "summary": "Tengboche is a ridge-top monastery village at about 3,867 m on the Everest trail, home to the largest gompa in Khumbu. Founded in 1916, it was destroyed by the 1934 earthquake and again by fire in 1989, and rebuilt both times. Its autumn Mani Rimdu and its view of Ama Dablam draw every trekker.",
+  "intro": [
+    "After the long descent from Namche to the river at Phunki Tenga and a two-hour climb through rhododendron and fir, the trail tops out on a broad, grassy saddle. Here stands Tengboche: the red and white monastery with its gilded roof, a few lodges, a bakery, and a view that takes in Everest, Lhotse, Nuptse, Ama Dablam, Taboche and Thamserku in one turn of the head.",
+    "The monastery, properly Dawa Choling Gompa, is the largest in Khumbu and the spiritual centre of Sherpa Buddhism in the valley. Dozens of monks live and study here, and the prayer hall is open to visitors at the afternoon puja. In October or November, the masked dances of Mani Rimdu fill the courtyard with Sherpa families from all over Khumbu.",
+    "Most itineraries spend one night at Tengboche or in nearby Deboche, ten minutes downhill through the forest. We like to arrive early enough to walk the ridge before sunset, sit in on the evening chanting, and wake for the first light on Ama Dablam. The walk on to Pangboche the next morning, through birch and rhododendron, is one of the gentlest of the trek."
+  ],
+  "story": {
+    "title": "Founded in 1916, shaken in 1934, burned in 1989",
+    "paras": [
+      "Buddhism reached Khumbu some 350 years ago, and the valley's oldest gompa, at Pangboche, is attributed to Lama Sangwa Dorje. But Tengboche is younger. In the early 20th century Ngawang Tenzin Norbu, the abbot of Rongbuk Monastery on the Tibetan side of Everest, was revered by Khumbu Sherpas. He blessed a Khumbu lama, Chatang Chotar, known as Lama Gulu, to found a monastery on this ridge. With funds from three wealthy Sherpa patrons, it was built in 1916, the first celibate Nyingma monastery in Khumbu.",
+      "In 1934 a great earthquake destroyed the buildings, and Lama Gulu died soon after. His successor, Umze Gelden, rebuilt with support from Rongbuk, helped by local Sherpas and a carpenter from Lhasa. Tengboche grew into the heart of Khumbu's religious life. Tenzing Norgay was sent here as a boy to be a monk, though he did not stay. The 1953 Everest expedition camped near the monastery on its way in.",
+      "In January 1989 a fire, reportedly started by an electrical fault, destroyed the main temple with many of its scriptures and paintings. The rebuilding took years and drew help from Sherpa families, volunteers and international donors, among them Hillary's Himalayan Trust. The new temple was consecrated in the early 1990s. Today the monastery runs a school for young monks and a small cultural centre."
+    ]
+  },
+  "legend": "Monastery accounts say that long before Tengboche was built, Lama Sangwa Dorje, founder of Pangboche's gompa, meditated on this ridge and left the print of his foot on a rock. Through his clairvoyant vision he foretold that a monastery would one day stand here. When Ngawang Tenzin Norbu, regarded as Sangwa Dorje's fifth incarnation, blessed Lama Gulu to found Tengboche in 1916, the prophecy was said to be fulfilled.",
+  "people": "Tengboche is a monastic community rather than a village: dozens of monks, many of them boys and young men from Sherpa families across Khumbu and Solu, studying ritual, scripture and Tibetan. A few lay families run lodges and a bakery. Deboche, ten minutes below, has a small Buddhist nunnery. Sherpa and Tibetan are the languages of the gompa; Nepali and English are spoken in the lodges.",
+  "untold": [
+    {"fact": "Tengboche was founded in 1916 by Lama Gulu with strong links to Rongbuk Monastery in Tibet, and was the first celibate monastery of the Nyingma school in Khumbu.", "source": "Wikipedia: Tengboche Monastery"},
+    {"fact": "The monastery has been destroyed twice: by an earthquake in 1934 and by fire in 1989. Both times it was rebuilt, the second time with volunteers and international assistance.", "source": "Wikipedia: Tengboche Monastery"},
+    {"fact": "Tenzing Norgay was sent to Tengboche as a boy to become a monk. He left the monastic life and later reached Everest's summit with Edmund Hillary in 1953.", "source": "Wikipedia: Tengboche"}
+  ],
+  "local_words": [
+    {"word": "rinpoche", "script": "རིན་པོ་ཆེ", "lang": "Tibetan", "meaning": "'Precious one', title of a recognised reincarnate lama"},
+    {"word": "puja", "script": "पूजा", "lang": "Nepali", "meaning": "Prayer ritual; Tengboche's afternoon puja is open to visitors"},
+    {"word": "om mani padme hum", "script": "ཨོཾ་མ་ཎི་པདྨེ་ཧཱུྃ", "lang": "Tibetan", "meaning": "Mantra of compassion carved on mani stones along the trail"}
+  ],
+  "taste": {"name": "Garlic soup", "text": "Every lodge menu from Tengboche upward offers garlic soup, and guides swear by it against altitude. There is no strong medical evidence that it helps, but it is hot, salty and encourages you to drink, which does. Order a bowl after the climb from Phunki Tenga."},
+  "facts": [["Best months", "Oct – Nov, Mar – May"], ["Days we suggest", "1 night"], ["Nearest airport", "Lukla (LUA)"], ["From Kathmandu", "Flight to Lukla + 4 days on foot"], ["Altitude", "3,867 m"], ["Known for", "Largest gompa in Khumbu, Mani Rimdu, Ama Dablam view"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "Afternoon puja in the prayer hall", "text": "Visitors may sit in on the monks' afternoon prayers, usually around 3 pm, with chanting, horns and drums under painted walls. Remove shoes, sit along the side, keep silent and do not photograph during the ritual."},
+    {"title": "Mani Rimdu in autumn", "text": "In October or November the monastery's courtyard hosts Mani Rimdu, three public days of blessings, masked cham dances and a fire ceremony at the end of a 19-day ritual. Rooms fill months ahead, so book early."},
+    {"title": "Ama Dablam from the meadow", "text": "From the grassy saddle in front of the monastery, Ama Dablam's 6,812 m spire rises across the Imja valley, with Everest's summit peeking above the Nuptse–Lhotse wall. Sunset and sunrise give the best light."},
+    {"title": "The forest walk to Deboche", "text": "Ten minutes down through rhododendron, birch and fir, Deboche has quiet lodges and a small nunnery. In April the rhododendrons flower red and pink; in autumn the birch turns gold."},
+    {"title": "Wildlife on the climb", "text": "The forest on the climb from Phunki Tenga holds Himalayan monal, blood pheasant and musk deer. Walk quietly in the early morning for the best chance of seeing them."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Namche Bazaar, about 5–6 hours: a contouring trail to Kyangjuma and Sanasa, a descent to the Dudh Koshi at Phunki Tenga, then a steady 2-hour climb of about 600 m through forest to the saddle."},
+    {"mode": "Air", "text": "The nearest airport is Lukla, four walking days away. Helicopters land near Tengboche for emergencies and charters only."}
+  ],
+  "where_to_stay": "Tengboche has a few lodges on the saddle in front of the monastery, simple and often full in October and November, especially during Mani Rimdu. Deboche, about ten minutes downhill through the forest, has several more lodges, some with attached bathrooms, and is quieter. For more comfort, Everest Summit Lodge in Pangboche is about 1.5–2 hours further on. We book Tengboche itself when the timing of puja or festival matters, and Deboche otherwise.",
+  "stays": [],
+  "tips": [
+    "Arrive by early afternoon to catch the monks' puja, usually around 3 pm.",
+    "Book rooms months ahead if you want to be here for Mani Rimdu.",
+    "Pace the climb from Phunki Tenga slowly; it gains about 600 m.",
+    "Do not photograph inside the prayer hall during rituals.",
+    "Get up for sunrise on Ama Dablam, and wear every warm layer you have."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "heritage-and-temples", "food-and-festivals", "photography"],
+  "nearby": ["pangboche", "namche-bazaar", "khumjung", "dingboche"],
+  "experiences": [
+    {
+      "slug": "tengboche-afternoon-puja",
+      "title": "Sit in on Tengboche's afternoon puja",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Around 3 pm, all season",
+      "image_query": "Tengboche monastery interior monks",
+      "wiki": "Tengboche Monastery",
+      "summary": "Join the monks of Khumbu's largest monastery for their afternoon prayers: deep chanting, long horns, drums and butter lamps beneath walls painted with the Buddha, Guru Rinpoche and Khumbu's protector deities. Visitors are welcome if quiet and respectful.",
+      "body": [
+        "The main prayer hall at Tengboche is reached through a stone courtyard with a carved gateway. Inside, rows of low benches face a great gilded Buddha, flanked by statues and murals rebuilt after the 1989 fire. In the afternoon the monks gather, from boys of ten to elderly lamas, and the chanting begins, with the drone of long horns, the clash of cymbals and the steady beat of the drum.",
+        "Visitors sit along the side walls or at the back. Remove shoes at the door, take off your hat, keep your feet tucked rather than pointing at the altar, and stay silent. Photography is not allowed during the ritual. The puja usually lasts about an hour; you may leave quietly between sections. A donation in the box at the entrance helps support the monastery school.",
+        "Ask your guide beforehand to identify the figures you will see: Shakyamuni Buddha at the centre, Guru Rinpoche who brought Buddhism to the Himalaya, and the protector deities, including, in many Khumbu gompas, Khumbu Yul Lha on his white horse. Understanding what you are seeing turns an hour of sound into an hour of meaning."
+      ],
+      "good_for": ["solo", "couples", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "What time is the puja at Tengboche Monastery?", "a": "The monks' afternoon puja usually begins around 3 pm and lasts about an hour, though timing can change with the ritual calendar and the season. Arrive a few minutes early and ask at the gate. Morning prayers also take place but start very early. Check with your lodge on arrival for that day's times."},
+        {"q": "Can I take photos inside Tengboche Monastery?", "a": "Not during the puja, and generally not inside the prayer hall without permission. You may photograph the courtyard and the outside of the monastery freely. If you want an interior photo, ask a monk outside ritual times; sometimes it is allowed for a donation, sometimes not. Respect a no."},
+        {"q": "Is there an entrance fee at Tengboche Monastery?", "a": "There is no fixed ticket for attending the puja, but visitors are expected to leave a donation, and the monastery may charge a small fee for its cultural centre or for photography. Donations support the monks' school and upkeep. Carry small rupee notes, as there is no ATM above Namche."}
+      ]
+    },
+    {
+      "slug": "tengboche-mani-rimdu-dances",
+      "title": "Mani Rimdu masked dances at Tengboche",
+      "kind": "heritage",
+      "duration": "1–3 days",
+      "best_time": "October or November, lunar dates",
+      "image_query": "Mani Rimdu Tengboche cham dance",
+      "wiki": "Mani Rimdu",
+      "summary": "Time your trek for Mani Rimdu, when the monks of Tengboche end a 19-day ritual with three public days: a long-life blessing, a day of masked cham dances in the courtyard, and a closing fire ceremony. The whole of Khumbu comes to watch.",
+      "body": [
+        "Mani Rimdu came to Tengboche from Rongbuk Monastery in Tibet, whose abbot Ngawang Tenzin Norbu began it in the early 1900s using rituals from the great Nyingma monastery of Mindroling. For most of its 19 days the festival is private: the monks build a sand mandala, chant and consecrate mani rilbu, small blessed pills. Then the gates open.",
+        "On the first public day lamas give the wang, a long-life empowerment, and pass out the pills. The second day is the one everyone waits for: in the courtyard, monks in brocade robes and painted masks perform the cham dances, slow and stately, then fierce, as protector deities subdue the enemies of the dharma. Between the serious dances come clowning interludes that make the Sherpa crowd roar with laughter.",
+        "The last day brings the fire puja and the dissolving of the mandala. For visitors the dance day is the highlight. Book rooms in Tengboche or Deboche months ahead, bring a down jacket and a cushion, and come early for a place on the courtyard steps. Dates follow the Tibetan lunar calendar; check current status before you travel."
+      ],
+      "good_for": ["photographers", "couples", "solo", "trekkers"],
+      "faqs": [
+        {"q": "When is Mani Rimdu at Tengboche in 2026 and 2027?", "a": "Mani Rimdu at Tengboche falls in October or November, set by the Tibetan lunar calendar, so Western dates shift each year. The monastery announces them in advance, and we confirm them when you book. The three public days come at the end of a 19-day ritual. Check current status before you travel and plan a spare day."},
+        {"q": "How long should I stay at Tengboche for Mani Rimdu?", "a": "Two nights lets you see the dance day properly; three covers all three public days. If rooms in Tengboche are full, stay in Deboche, ten minutes down, or Pangboche, about 1.5–2 hours on. Many trekkers fit the festival into an Everest Base Camp itinerary by adjusting acclimatisation days."},
+        {"q": "Are Mani Rimdu dances crowded?", "a": "Yes, by Khumbu standards. Sherpa families come from every village and many trekkers time their walk for it, so the courtyard fills on the dance day. Arrive early, sit where the monks direct you, and do not step into the dance area to take photographs. The crowd is good-humoured, and the atmosphere is part of the experience."}
+      ]
+    },
+    {
+      "slug": "tengboche-sunrise-ama-dablam",
+      "title": "Sunrise on Ama Dablam from Tengboche",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Dawn, Oct–Dec and Mar–Apr",
+      "image_query": "Ama Dablam sunrise Tengboche",
+      "wiki": "Ama Dablam",
+      "summary": "Wake before dawn and stand on the meadow in front of Tengboche Monastery as the first sun lights Ama Dablam, Everest and Lhotse. It is one of the classic sights of the Everest trail, and costs nothing but warm clothes and an early alarm.",
+      "body": [
+        "Ama Dablam, at 6,812 m, is not the highest mountain in view from Tengboche, but it is the one people remember. Its name is usually explained as 'mother's necklace': the long ridges are the mother's arms and the hanging glacier on its face is the dablam, the charm box Sherpa women wear. From Tengboche its spire stands alone across the Imja valley.",
+        "At dawn the sequence is precise. First the summit of Everest, peeking over the Nuptse–Lhotse wall to the north, turns pink; then Lhotse; then Ama Dablam's tip catches gold and the light slides down its face. Behind you the monastery's roof glints, prayer flags crack in the wind and monks begin to stir. Twenty minutes later it is full day.",
+        "Go out 20–30 minutes before sunrise, roughly 5:30 to 6:30 am depending on the season. In November temperatures at this hour are well below freezing, so wear your down jacket, hat and gloves, and carry tea from the lodge. October to December give the clearest mornings; spring is often hazier but brings the rhododendron in the forest below."
+      ],
+      "good_for": ["photographers", "couples", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "What does Ama Dablam mean?", "a": "Ama means mother and dablam is the charm box Sherpa women wear on a necklace. The long ridges on either side of the summit are seen as a mother's arms, and the hanging glacier on the face as the dablam. The name is usually translated as mother's necklace. The mountain is 6,812 m high."},
+        {"q": "Can you see Everest from Tengboche?", "a": "Yes. Everest's summit appears above the long Nuptse–Lhotse ridge to the north, partly hidden but unmistakable on clear days. Lhotse is more prominent, and Ama Dablam dominates the view to the east. Sunrise and sunset light are best, with October to December mornings the clearest."},
+        {"q": "How cold is Tengboche at sunrise?", "a": "In October, around minus 2 to minus 5 °C at dawn; in November and December, often minus 8 to minus 12 °C, with wind chill on the meadow. Spring mornings are milder. Wear a down jacket, warm hat, gloves and insulated boots. Sun warms the meadow quickly once it clears the ridges."}
+      ]
+    },
+    {
+      "slug": "tengboche-deboche-forest-nunnery-walk",
+      "title": "Forest walk to Deboche and its nunnery",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Afternoon; rhododendron in Apr, gold birch in Oct",
+      "image_query": "Deboche rhododendron forest Khumbu",
+      "wiki": "",
+      "summary": "Drop ten minutes from Tengboche through a forest of rhododendron, birch and fir to Deboche, visit its small Buddhist nunnery, and look for Himalayan monal and musk deer along the way. A gentle, shaded walk at about 3,800 m.",
+      "body": [
+        "Tengboche's saddle is open and windswept, but just below it the trail plunges into one of the finest forests in Khumbu. Tall rhododendron trees, some of them several metres high, grow with silver birch and fir, draped in lichen. In April and early May they flower red, pink and white; in October the birch turns gold. The forest is protected within Sagarmatha National Park and is rich in birds.",
+        "Walk slowly and quietly. Himalayan monal, the iridescent national bird of Nepal, and the smaller blood pheasant feed on the forest floor, especially early and late in the day. Musk deer, small and shy, live here too, and Himalayan tahr come down to the edges. Your guide will know where they are usually seen.",
+        "Deboche is a small settlement of lodges and a nunnery, home to a small community of Buddhist nuns. If the nuns are at prayer, visitors may sit quietly; otherwise you may see the courtyard. A donation is welcome. Return to Tengboche for sunset, or stay the night in Deboche, which is quieter and often warmer than the exposed saddle above."
+      ],
+      "good_for": ["families", "seniors", "photographers", "couples"],
+      "faqs": [
+        {"q": "How far is Deboche from Tengboche?", "a": "About ten minutes downhill on foot, and about 15–20 minutes back up. Deboche sits at roughly 3,800 m in the forest on the trail towards Pangboche. It has several lodges, some quieter and more comfortable than those on the Tengboche saddle, and a small nunnery."},
+        {"q": "Can I visit the Deboche nunnery?", "a": "Usually yes, with respect. The nunnery is home to a small community of Buddhist nuns. Visitors may see the courtyard and, if invited, sit quietly during prayers. Remove shoes and hats inside, ask before photographing, and leave a donation. Visits depend on the nuns' schedule, so ask your guide to check."},
+        {"q": "When do rhododendrons flower near Tengboche?", "a": "From about mid-March to early May, depending on altitude and the year, with the forests between Phunki Tenga, Tengboche and Deboche usually best in April. Lower down, around Lukla and Phakding, blooms start earlier. Spring treks combine the flowers with longer days, though mountain views are often hazier than in autumn."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Tengboche?", "a": "Tengboche monastery stands at about 3,867 m on a ridge between the Dudh Koshi and Imja Khola valleys. It is roughly 430 m higher than Namche Bazaar, though the walk involves descending to the river at Phunki Tenga, about 3,250 m, and then climbing about 600 m to the saddle."},
+    {"q": "How long is the walk from Namche to Tengboche?", "a": "About 5–6 hours. The trail contours above the Dudh Koshi to Kyangjuma and Sanasa, descends to Phunki Tenga at the river, and climbs steadily through forest for about two hours to Tengboche. It is a rewarding day with Ama Dablam ahead much of the way."},
+    {"q": "When was Tengboche Monastery built?", "a": "It was founded in 1916 by Lama Gulu, with the blessing of the abbot of Rongbuk Monastery in Tibet. An earthquake destroyed it in 1934, and it was rebuilt. A fire destroyed the main temple in 1989, and it was rebuilt again with help from volunteers and international donors, reconsecrated in the early 1990s."},
+    {"q": "Can I stay overnight at Tengboche?", "a": "Yes. There are a few lodges on the saddle in front of the monastery and more in Deboche, ten minutes down through the forest. Tengboche rooms fill early in October and November, especially at Mani Rimdu. Nights are cold, often well below freezing. Book ahead for festival dates."},
+    {"q": "Is Tengboche or Deboche better for an overnight stay?", "a": "Tengboche puts you beside the monastery for the afternoon puja, sunset and sunrise. Deboche is ten minutes down, sheltered by forest, quieter and usually a little warmer, with some lodges offering attached bathrooms. We pick Tengboche for festival or puja timing and Deboche when comfort and quiet matter more."},
+    {"q": "Why is Tengboche Monastery important?", "a": "It is the largest gompa in Khumbu and was the first celibate Nyingma monastery in the region, the spiritual centre for Sherpa Buddhism. It trains young monks, stages Mani Rimdu and is visited by Sherpas from every village, as well as by climbers seeking blessings before expeditions."},
+    {"q": "Can I see Everest from Tengboche?", "a": "Yes. On clear days Everest's summit shows above the Nuptse–Lhotse wall, with Lhotse, Ama Dablam, Taboche, Kangtega and Thamserku all around. The view from the meadow in front of the monastery is one of the most photographed on the trek, especially at sunrise and sunset."},
+    {"q": "What is the best time to visit Tengboche?", "a": "October and November bring clear skies and Mani Rimdu. March to May bring flowering rhododendrons in the forest below and milder temperatures. December to February are cold but clear and quiet. June to September is monsoon, often cloudy, with fewer trekkers and some lodges closed."},
+    {"q": "Is there a bakery in Tengboche?", "a": "Yes, Tengboche has a small bakery serving coffee, cakes and apple pie, a famous treat at almost 3,900 m. Opening depends on the season. Supplies are carried up by porters and animals, so prices are higher than in Namche. It is a welcome stop after the climb from Phunki Tenga."}
+  ]
+}

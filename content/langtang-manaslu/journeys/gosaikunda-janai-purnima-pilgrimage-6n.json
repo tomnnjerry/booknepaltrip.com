@@ -1,0 +1,81 @@
+{
+  "slug": "gosaikunda-janai-purnima-pilgrimage-6n",
+  "title": "Gosaikunda Janai Purnima pilgrimage trek",
+  "region": "langtang-manaslu",
+  "kind": "pilgrimage",
+  "nights": 6,
+  "themes": ["spiritual-and-pilgrimage", "food-and-festivals", "high-altitude", "lakes-and-rivers"],
+  "grade": "Challenging",
+  "stops": [
+    {"place": "gosaikunda", "nights": 6}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 650,
+  "best_months": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0],
+  "pace": "Balanced",
+  "max_altitude_m": 4380,
+  "meta_description": "Gosaikunda Janai Purnima pilgrimage, 6 nights: walk from Dhunche with thousands of pilgrims and shamans to the sacred lake for the August full moon.",
+  "summary": "Six nights timed to Janai Purnima, the full moon of Shrawan, when thousands of Hindu pilgrims and Tamang shamans climb to Gosaikunda at 4,380 m to bathe in the sacred lake. You walk from Dhunche via Sing Gompa and Laurebina, sleep at the lake on the festival night and come down slowly in monsoon green.",
+  "intro": [
+    "Once a year, on the full moon of the Nepali month of Shrawan, the quiet trail from Dhunche to Gosaikunda fills with people. Brahmin and Chhetri men come to change their sacred thread, the janai. Families come to bathe in the lake that Hindu tradition says Shiva made with his trident. Jhankris, the shamans of the Tamang and other hill peoples, come in white skirts and feathered headdresses, beating drums through the night. It is one of the great pilgrimages of the Nepal Himalaya, and one of the few that reaches 4,380 m.",
+    "It is also a monsoon trek. The festival falls in July or August, so expect rain, cloud, leeches in the forest and landslides on the road. Lodges are packed, which is why we carry tents as a backup and add a night at Laurebina to help with the altitude that catches many pilgrims out. The lake lies in Langtang National Park, so a licensed guide comes with you; check current status before you travel."
+  ],
+  "story": "The road to Dhunche is already busy with buses and trucks of pilgrims, sacred threads in their pockets and rice for offerings in their bags. Through the forest above, the trail becomes a slow, singing procession: old women with sticks, young men in sandals, sadhus with tridents, and the jhankris with their drums. At Laurebina the cloud opens now and then onto the ridges, and at Gosaikunda the shore is lined with shelters, stalls and fires. Through the night the drums do not stop. At dawn on the full moon, people step into the freezing water, priests tie protective threads on wrists, and the lake, for once, is loud. Then everyone turns and walks down into the rain together.",
+  "highlights": [
+    "Janai Purnima at Gosaikunda (4,380 m), one of Nepal's highest pilgrimages",
+    "Jhankri shamans drumming and dancing through the festival night",
+    "Ritual bathing at dawn on the full moon and the changing of the janai thread",
+    "Monsoon forest, mist and wildflowers on the trail from Dhunche",
+    "A Laurebina night to give your body a fair chance with the altitude"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive from Kathmandu to Dhunche", "place": "", "overnight": "Dhunche", "alt_m": 1960,
+     "move": "≈ 115 km · 6–8 h drive", "text": "We leave Kathmandu early by private jeep, crossing the Kakani ridge to Trishuli Bazaar and climbing the Pasang Lhamu Highway to Dhunche. In festival week the road carries buses of pilgrims, and monsoon landslides can cause long waits, so patience is part of the journey. Dhunche, the headquarters of Rasuwa district, will be full of people preparing to walk. Your guide settles you into a lodge, checks your rain gear and explains how the next days will run.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "With the pilgrims to Sing Gompa", "place": "", "overnight": "Sing Gompa (Chandanbari)", "alt_m": 3330,
+     "move": "≈ 6 h walk · +1,370 m", "text": "Join the stream of pilgrims climbing from Dhunche through wet forest of pine, oak and rhododendron to Deurali and on to Sing Gompa. Tea stalls appear along the trail for the festival, and some groups sing devotional songs as they walk. Leeches are common in the lower forest in monsoon, so wear long socks and keep salt or repellent handy. This is a big height gain for one day, so walk slowly and drink plenty. Lodges here will be crowded; we use tents if needed.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Up the ridge to Laurebina", "place": "", "overnight": "Laurebina", "alt_m": 3910,
+     "move": "≈ 3 h walk · +580 m", "text": "A short climb out of the forest onto the open ridge to Laurebina. Many pilgrims push straight on to the lake from Sing Gompa, and some suffer badly from altitude sickness; we stop here instead, giving your body a night to adjust. In monsoon the ridge is often in cloud, but breaks in the weather reveal deep green valleys and wildflowers on the slopes. Rest, watch the procession go past, and talk with pilgrims about why they have come.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "To Gosaikunda for the festival night", "place": "gosaikunda", "overnight": "Gosaikunda", "alt_m": 4380,
+     "move": "≈ 3 h walk · +470 m", "text": "Walk the traverse past Saraswati Kunda and Bhairab Kunda to Gosaikunda, now lined with shelters, food stalls and fires. We time the trip so you sleep at the lake on the festival night. As darkness falls, jhankri shamans in white robes and feathered headdresses drum and dance around the shore, sometimes going into trance, and the drumming continues until morning. Sleep comes in pieces. Stay warm, stay with your guide and remember that you are a guest at someone else's prayer.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Full moon bathing and down to Sing Gompa", "place": "", "overnight": "Sing Gompa (Chandanbari)", "alt_m": 3330,
+     "move": "≈ 4 h walk · −1,050 m", "text": "Rise before dawn to watch the ritual bathing as pilgrims step into the icy lake, pour water over themselves and make offerings at the Shiva shrine. Priests change the janai of Brahmin and Chhetri men and tie protective doro threads on the wrists of anyone who asks; your guide can help you receive one respectfully. After breakfast, walk down with the crowd past Laurebina to Sing Gompa. The descent helps any altitude headache disappear quickly.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Down through the forest to Dhunche", "place": "", "overnight": "Dhunche", "alt_m": 1960,
+     "move": "≈ 4 h walk · −1,370 m", "text": "A steady descent through dripping forest back to Dhunche, where the trail meets the road. With the festival over, the trail is a stream of people going home, and the mood is relaxed and cheerful. Afternoon in Dhunche is free for a hot shower, drying clothes and a good dinner. In monsoon, your guide will check the road news tonight; if there is a landslide ahead, we may leave very early or wait for the road to clear.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "≈ 115 km · 6–8 h drive", "text": "Drive back down the Pasang Lhamu Highway to Trishuli and over the Kakani ridge to Kathmandu, where the trip ends at your hotel. Many pilgrims make a final stop at Kumbheshwar temple in Patan, where devotees believe the pond is fed by Gosaikunda's water and a fair is held on Janai Purnima; if your timing allows, it makes a fitting end. In Kathmandu's Newar homes, this full moon is also the day for kwati, a soup of nine sprouted beans.", "meals": "Breakfast, Lunch"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep Kathmandu–Dhunche–Kathmandu",
+    "Licensed trekking guide and one porter for every two trekkers, with their wages, food, insurance and lodging",
+    "Langtang National Park entry permit and TIMS card",
+    "Six nights in lodges, with tents and a camp cook as backup when lodges are full, twin sharing, with three meals a day",
+    "First-aid kit and pulse oximeter carried by your guide"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before and after the trek",
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking to 4,500 m and helicopter evacuation",
+    "Offerings, drinks and snacks",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Janai Purnima falls on the full moon of Shrawan, usually in August and occasionally late July; confirm the date with us each year.",
+    "This is a monsoon trek: rain, leeches, slippery trails and landslides on the road are normal.",
+    "Many pilgrims climb too fast and suffer altitude sickness; follow your guide's pace, not the crowd's.",
+    "Foreign trekkers in national parks must trek with a licensed guide under rules in force since April 2023; check current status before you travel.",
+    "Photograph jhankris and bathers only with permission, and never use flash during rituals."
+  ],
+  "faqs": [
+    {"q": "When is Janai Purnima at Gosaikunda?", "a": "Janai Purnima falls on the full moon of the Nepali month of Shrawan, which usually lands in August and sometimes in late July. The exact date changes every year with the lunar calendar. Pilgrims arrive at the lake over the days before, with the biggest crowds on the festival night and the full moon morning. Ask us for this year's date."},
+    {"q": "What happens at Gosaikunda during Janai Purnima?", "a": "Thousands of Hindu pilgrims climb to bathe in the sacred lake and worship Shiva. Brahmin and Chhetri men change their janai, the sacred thread worn across the chest, and priests tie protective threads on wrists. Jhankri shamans drum and dance through the night by the lake. Stalls and shelters line the shore for a few days."},
+    {"q": "Is it safe to trek to Gosaikunda in the monsoon?", "a": "It can be done safely with care, but it is harder than in autumn. Expect rain most days, slippery trails, leeches below about 3,000 m and landslides on the road. Altitude sickness is common among pilgrims who climb fast. With a licensed guide, a slower schedule, good rain gear and flexible plans, most fit walkers manage well."},
+    {"q": "Can foreigners take part in the Janai Purnima rituals?", "a": "Visitors are welcome to watch and, if they wish, receive a protective thread from a priest for a small offering. The janai ceremony itself is for Hindu men who wear the sacred thread. Bathing in the lake is a devotional act for Hindus, not a tourist activity. Follow your guide's lead and ask before photographing people."},
+    {"q": "Who are the jhankris at Gosaikunda?", "a": "Jhankris are traditional shamans of several hill communities, including the Tamang. Many make the journey to Gosaikunda at Janai Purnima, dressed in white with feathered headdresses and bead necklaces, beating dhyangro drums and dancing, sometimes in trance. For them the lake is a place of power and renewal. Watching their night-long drumming is a highlight of the festival."},
+    {"q": "Where do people sleep at Gosaikunda during the festival?", "a": "Lodges at the lake and at Laurebina fill completely, and many pilgrims sleep in temporary shelters, tents or crowded dining rooms. We book lodge rooms where possible and carry tents, sleeping mats and a cook as a backup, so you always have a dry place to sleep. Expect noise and little sleep on the festival night."},
+    {"q": "How hard is the trek to Gosaikunda?", "a": "It is challenging mainly because of the quick climb. Dhunche is at 1,960 m and the lake at 4,380 m, so you gain more than 2,400 m in three days. We add a night at Laurebina to help. Walking days are 3 to 6 hours on a steep but clear trail, slippery in the monsoon. You need good fitness."},
+    {"q": "What should I pack for a monsoon pilgrimage to Gosaikunda?", "a": "A good waterproof jacket and trousers, a pack cover and dry bags, quick-drying clothes, a warm down layer for the lake, hat and gloves, long socks and leech repellent or salt, a headtorch and a sleeping bag rated to about −5 °C. Waterproof boots with good grip are essential on wet stone steps."},
+    {"q": "Why is Gosaikunda sacred?", "a": "Hindu tradition says that after the gods churned the cosmic ocean, Shiva swallowed the poison that emerged to save the world, and came to the Himalaya to cool his burning throat. He struck the mountain with his trident and water burst out, forming the lake; the Trishuli River is named after the trident. Buddhists also regard the lake as sacred."}
+  ]
+}

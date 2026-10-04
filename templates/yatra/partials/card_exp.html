@@ -1,0 +1,8 @@
+{% load yatra %}<a class="card card--flag" href="{{ e.url }}" data-land="{{ e.region }}" data-flag="{{ e.flag }}" style="--flag: {{ LUNGTA|get:e.flag }}" data-item data-region="{{ e.region }}" data-kind="{{ e.kind }}">
+  <div class="card__img">{% with i=e|first_img %}{% if i %}<img src="{{ i|src:500 }}" alt="" loading="lazy">{% else %}<div class="noimg">{% icon e.kind %}</div>{% endif %}{% endwith %}<span class="card__tag">{% icon e.kind %}{{ e.kind|kind_name }}</span></div>
+  <div class="card__body">
+    <div class="card__meta"><span>{{ e.place_obj.name }}</span><b>{{ e.duration }}</b></div>
+    <h3>{{ e.title }}</h3>
+    <p>{{ e.summary|truncatewords:20 }}</p>
+  </div>
+</a>

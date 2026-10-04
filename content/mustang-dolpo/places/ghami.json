@@ -1,0 +1,341 @@
+{
+  "slug": "ghami",
+  "name": "Ghami",
+  "name_ne": "",
+  "local_name": "Ghemi (common local spelling)",
+  "region": "mustang-dolpo",
+  "kind": "trek stop",
+  "wiki": "",
+  "image_query": "Ghami mani wall Upper Mustang",
+  "lat": 29.058,
+  "lng": 83.885,
+  "altitude_m": 3520,
+  "tagline": "Barley fields, red cliffs and the longest mani wall in Lo",
+  "meta_description": "Ghami in Upper Mustang at 3,520 m: the long mani wall, the red cliffs of Dhakmar, Lo Gekar gompa and the legend of Guru Rinpoche and the demon.",
+  "summary": "Ghami is one of the largest villages of Upper Mustang, at about 3,520 m, a whitewashed cluster among barley fields a day's walk south of Tsarang. Just beyond it runs one of the longest mani walls in Nepal, around 300 m of carved prayer stones, and nearby rise the red cliffs of Dhakmar.",
+  "intro": [
+    "Ghami appears suddenly after the long climb over the passes from Syangboche: a spread of whitewashed houses with red-trimmed roofs, poplar and willow trees, and a patchwork of green or golden barley fields depending on the season. Behind the village, eroded cliffs in grey and ochre rise towards the plateau. It is one of the larger villages of Lo, and for trekkers it is usually the third or fourth night out from Kagbeni on the way to Lo Manthang.",
+    "Most people come for what lies just beyond the village. Crossing the river below Ghami on the way to Tsarang, the trail runs beside a mani wall around 300 m long, often called the longest in Nepal, its stones carved with prayers and painted in bands of colour. A little further on, the red cliffs of Dhakmar glow in the late sun. The legend that links them is one of the best-known stories in Upper Mustang.",
+    "Ghami also makes a good base for the old gompa of Lo Gekar, one of the most revered places in Mustang, reached on a side route through Dhakmar that rejoins the main trail near Lo Manthang. We suggest one night in Ghami, taking the slower route north via Dhakmar and Lo Gekar on the way to Lo Manthang or on the return. The jeep road also passes through, so it is easy to reach by vehicle."
+  ],
+  "story": {
+    "title": "A farming village on the road to the walled city",
+    "paras": [
+      "Ghami grew where water and flat land allowed farming at 3,500 m. Irrigation channels lead off the streams that come down from the hills, and the village's barley, buckwheat and mustard fields spread out on the terraces below the houses. For centuries Ghami sat on the main route between Lo Manthang and the south, and the passing caravans of salt and grain, and later the pilgrims and travellers going to the capital, brought it trade and news. Water, more than anything, decided where people could live in Lo.",
+      "Like the rest of Lo, Ghami belonged to the kingdom founded by Ame Pal in the late 14th century, ruled from Lo Manthang. Its gompa and chortens follow the Sakya tradition favoured by the rulers of Lo, and its families shared in the ritual life of the kingdom, including the festivals held in the capital. When Upper Mustang was opened to foreign trekkers in 1992, Ghami became one of the regular overnight stops, and families began turning rooms into lodges.",
+      "In the past two decades, the jeep road has transformed daily life. Supplies arrive by truck instead of mule train, and young people travel easily to Jomsom, Pokhara and Kathmandu, often for school or work abroad. Many houses are empty for part of the year. Yet the fields are still planted each spring, the mani wall is still repaired, and in the evening older villagers still walk around the chortens turning their prayer wheels. The village is changing, but it has not emptied."
+    ]
+  },
+  "legend": "Local legend says that when Guru Rinpoche, Padmasambhava, came through Lo on his way to Tibet, a demon tried to stop him and the building of the great monastery of Samye. Guru Rinpoche fought and killed the demon here. The demon's blood stained the cliffs of Dhakmar red, and its intestines were laid out as the long mani wall near Ghami. The gompa of Lo Gekar is said to stand where the struggle was finally won. Villagers point to each landmark as part of the story.",
+  "people": "Ghami's families are Loba, the people of Lo, who speak Lo-ke, a Tibetan dialect, as well as Nepali. They farm barley, buckwheat, mustard and potatoes on irrigated terraces, keep goats, sheep, yaks and horses, and many run lodges and work in tourism and transport. Religious life follows the Sakya school. In winter some families move south to Pokhara or Kathmandu, returning in spring for planting.",
+  "untold": [
+    {
+      "fact": "Upper Mustang, which includes Ghami, was closed to outsiders until 1992, which is one reason its villages kept their Tibetan language, Sakya monasteries and traditional farming largely intact into the 21st century.",
+      "source": "Wikipedia: Upper Mustang"
+    },
+    {
+      "fact": "Upper Mustang has a cool semi-arid climate with only about 250–400 mm of rain a year, because it lies in the rain shadow of the Annapurna and Dhaulagiri ranges. Every field in Ghami depends on irrigation channels.",
+      "source": "Wikipedia: Upper Mustang"
+    },
+    {
+      "fact": "Mustang has some 10,000 man-made caves cut into its valley walls, like those in the cliffs at Dhakmar near Ghami. The oldest were used as burial chambers as early as about 1,000 BC; later they became homes and meditation cells.",
+      "source": "Wikipedia: Mustang Caves"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "mani",
+      "script": "མ་ཎི",
+      "lang": "Tibetan",
+      "meaning": "stone carved with a prayer; a mani wall is a long row of them"
+    },
+    {
+      "word": "Loba",
+      "script": "",
+      "lang": "Tibetan",
+      "meaning": "the people of Lo, Upper Mustang"
+    },
+    {
+      "word": "thukpa",
+      "script": "ཐུག་པ",
+      "lang": "Tibetan",
+      "meaning": "noodle soup with vegetables or meat, eaten everywhere in Lo"
+    }
+  ],
+  "taste": {
+    "name": "Thukpa",
+    "text": "Thukpa is a bowl of noodle soup with vegetables, sometimes yak or goat meat, flavoured with garlic, ginger and timur pepper. After a day crossing the passes into Ghami, a lodge thukpa by the stove is the best thing you will eat. Ask for it with a fried egg on top."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Apr – Jun, Sep – Oct"
+    ],
+    [
+      "Days we suggest",
+      "1"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom (JMO), ≈ 60 km by road"
+    ],
+    [
+      "From Kathmandu",
+      "Flight to Jomsom via Pokhara, then ≈ 5 h by jeep or 3–4 days on foot"
+    ],
+    [
+      "Altitude",
+      "3,520 m"
+    ],
+    [
+      "Known for",
+      "Long mani wall, Dhakmar red cliffs, route to Lo Gekar"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "nights": "1",
+  "highlights": [
+    {
+      "title": "The mani wall",
+      "text": "Below the village, across the river on the trail to Tsarang, a wall of carved and painted prayer stones runs for around 300 m beside the trail, often called the longest in Nepal. Walk past it keeping it on your right side, so that you pass clockwise, as the villagers do."
+    },
+    {
+      "title": "Dhakmar's red cliffs",
+      "text": "Between Ghami and Lo Gekar, the village of Dhakmar sits beneath tall, fluted cliffs of deep red rock, pitted with old caves. Local legend says the colour comes from the blood of a demon killed by Guru Rinpoche. Best in late-afternoon light."
+    },
+    {
+      "title": "Lo Gekar gompa",
+      "text": "Also called Ghar Gompa, this old monastery on the side route via Dhakmar is one of the most revered in Mustang and linked by tradition to Guru Rinpoche. Its walls are lined with carved and painted stones. Allow a full day via Dhakmar to Lo Manthang."
+    },
+    {
+      "title": "Barley fields in summer",
+      "text": "From June to August, Ghami's terraces turn bright green against the bare hills, and by September they are gold. Harvest is a busy community event. The contrast with the surrounding desert makes this one of the best places in Lo for landscape photography."
+    },
+    {
+      "title": "Ghami village lanes",
+      "text": "Whitewashed houses with firewood stacked on the roofs, chortens, prayer wheels and a small Sakya gompa. Walk the lanes in the early evening when animals come home from the pastures and families gather on the rooftops."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Ghami is on the jeep road from Jomsom to Lo Manthang, about 4–5 hours from Jomsom by jeep and 1.5–2 hours from Lo Manthang. The road is rough and dusty, with river crossings; landslides can close it in the monsoon. Check current status before you travel."
+    },
+    {
+      "mode": "On foot",
+      "text": "Trekkers reach Ghami on day 3 or 4 from Kagbeni, via Chele, Samar and Syangboche, crossing passes of around 3,800–4,000 m. From Ghami, Tsarang is 3–4 hours' walk north, or a full day via Dhakmar and Lo Gekar to Lo Manthang."
+    }
+  ],
+  "where_to_stay": "Ghami has several family-run lodges, simple but welcoming, with heated dining rooms, solar hot water in the better ones and twin rooms with shared or attached bathrooms. Food is good and hearty: dal-bhat, thukpa, Tibetan bread and local potatoes. There are no hotels of a higher standard in Upper Mustang outside a few newer properties in Lo Manthang, so expect lodge comfort and bring a warm sleeping bag. We book the lodges with the best kitchens and quietest rooms, away from the jeep road.",
+  "stays": [],
+  "tips": [
+    "Pass the mani wall and chortens keeping them on your right, walking clockwise, as Buddhists do.",
+    "Do not take or move mani stones; they are offerings and stealing them is deeply offensive.",
+    "Take the side route via Dhakmar and Lo Gekar at least once; it is one of the finest days in Upper Mustang.",
+    "Carry cash in Nepali rupees; there are no ATMs in Upper Mustang.",
+    "Walk early; by midday the wind on the passes and plateau can be strong and cold."
+  ],
+  "themes": [
+    "treks-and-trails",
+    "heritage-and-temples",
+    "villages-and-homestays",
+    "photography"
+  ],
+  "nearby": [
+    "tsarang",
+    "lo-manthang",
+    "kagbeni"
+  ],
+  "experiences": [
+    {
+      "slug": "ghami-mani-wall-walk",
+      "title": "Walk the long mani wall of Ghami",
+      "kind": "heritage",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Apr–Oct",
+      "image_query": "Ghami mani wall Mustang",
+      "wiki": "",
+      "summary": "A short, slow walk beside the mani wall below Ghami, around 300 m of carved and painted prayer stones often called the longest in Nepal, with a guide who can read the carvings and tell the legend of the demon whose body, it is said, became this wall.",
+      "body": [
+        "From the village we walk down and cross the river on the trail towards Tsarang, and the mani wall begins beside the trail. It runs for around 300 m, a low, broad wall built of stones carved with prayers, most often Om mani padme hum, the mantra of Avalokiteshvara. Some stones are carved with images of deities or chortens. Bands of red, white and grey paint run along its length, and small chortens rise from it at intervals.",
+        "Walk beside it keeping the wall on your right, so that you pass clockwise, as Buddhists do. Your guide will point out the different carvings and explain why families add stones: to make merit, to remember the dead or to ask for protection. Some stones are very old and worn smooth, others freshly carved. The wall is regularly repaired by the village, which is part of the devotion. Older villagers often walk it at dusk.",
+        "Then comes the story. Local legend says that Guru Rinpoche killed a demon in this area, that its blood stained the cliffs of Dhakmar red and that its intestines became this wall. In the late afternoon, with low light along the stones and the red cliffs glowing in the distance, the legend feels close. Never move, take or sit on mani stones. Allow time to sit and look; it rewards patience."
+      ],
+      "good_for": [
+        "photographers",
+        "first-timers",
+        "seniors",
+        "trekkers"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the mani wall at Ghami?",
+          "a": "It is around 300 m long, and it is often described as the longest mani wall in Nepal, though measurements vary between sources. It runs beside the trail just below Ghami village, across the river on the way to Tsarang. You can walk its full length in 10–15 minutes, but most people take longer to look at the carvings."
+        },
+        {
+          "q": "Which side of a mani wall should I walk on?",
+          "a": "Keep the mani wall on your right, so that you pass it in a clockwise direction, as Tibetan Buddhists do. The same applies to chortens and prayer wheels. In the Bon village of Lubra the direction is reversed. If you are unsure, follow the path that local people use or ask your guide."
+        },
+        {
+          "q": "Can I buy a mani stone in Upper Mustang?",
+          "a": "Do not take stones from mani walls or chortens; they are religious offerings, and removing them is deeply offensive and considered theft. Some craftspeople carve small mani stones for sale; if you buy one, make sure it is newly made for sale, not taken from a wall, and ask your guide to confirm."
+        }
+      ]
+    },
+    {
+      "slug": "ghami-dhakmar-red-cliffs",
+      "title": "The red cliffs and caves of Dhakmar",
+      "kind": "nature",
+      "duration": "3 hours",
+      "best_time": "Afternoon, Apr–Oct",
+      "image_query": "Dhakmar red cliffs Mustang",
+      "wiki": "",
+      "summary": "Walk from Ghami to Dhakmar, a small village under towering fluted cliffs of deep red rock, pitted with old cave dwellings. A short, beautiful walk at the heart of the legend of Guru Rinpoche and the demon, best in the late-afternoon light.",
+      "body": [
+        "Dhakmar lies about 1.5 hours' walk from Ghami, on the side route north towards Lo Gekar and Lo Manthang. The trail leaves the main route and climbs gently across open slopes. As you come over the rise, the cliffs appear: tall walls of deep red rock, sculpted by wind and water into fluted columns and towers, with a small village of whitewashed houses at their foot. It is one of the most striking sights in Lo.",
+        "Look closely at the cliff face and you will see dark openings high above the ground. These are man-made caves, part of the thousands found across Mustang, once used as homes, storerooms, burial sites and meditation cells. Most are impossible to reach without climbing equipment, and you should not try. Your guide can explain what has been found in similar caves elsewhere in Lo. Binoculars help to see the openings clearly.",
+        "The colour is the start of the legend: local tradition says it is the blood of the demon killed by Guru Rinpoche. In the late afternoon, the sun turns the cliffs almost crimson. You can return to Ghami for the night, or stay in Dhakmar's simple lodge and continue next day via Lo Gekar to Lo Manthang, one of the finest walking days in Upper Mustang. Bring a warm layer for the walk back."
+      ],
+      "good_for": [
+        "photographers",
+        "trekkers",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Why are the cliffs at Dhakmar red?",
+          "a": "Geologically, the red colour comes from iron-rich sedimentary rock, eroded by wind and water into fluted shapes. Local legend tells a different story: that the cliffs were stained by the blood of a demon killed by Guru Rinpoche, whose intestines became the long mani wall near Ghami. Both explanations are worth hearing."
+        },
+        {
+          "q": "Can I go inside the caves at Dhakmar?",
+          "a": "No, not safely. Most of the caves in the Dhakmar cliffs are high on sheer rock faces and can only be reached with climbing equipment. The rock is soft and crumbly. For an accessible cave complex, visit the Jhong cave at Chhoser, north-east of Lo Manthang, which has ladders and passageways for visitors."
+        },
+        {
+          "q": "Is there accommodation in Dhakmar?",
+          "a": "Dhakmar has a small number of very simple lodges or homestay-style rooms. Most trekkers walk through on the way between Ghami and Lo Gekar, or visit from Ghami and return. If you want to break the day to Lo Manthang, a night here is possible; we arrange it in advance."
+        }
+      ]
+    },
+    {
+      "slug": "ghami-lo-gekar-gompa",
+      "title": "Lo Gekar, the old gompa of Guru Rinpoche",
+      "kind": "spiritual",
+      "duration": "Full day to Lo Manthang",
+      "best_time": "Early start, Apr–Oct",
+      "image_query": "Lo Gekar Ghar Gompa Mustang",
+      "wiki": "",
+      "summary": "A full-day walk from Ghami via Dhakmar over a high ridge to Lo Gekar, also called Ghar Gompa, an old monastery linked by tradition to Guru Rinpoche, then on to the walled city of Lo Manthang. The finest side route in Upper Mustang.",
+      "body": [
+        "From Ghami we walk to Dhakmar and climb above the red cliffs onto a high, open ridge, with wide views over the eroded landscape of Lo and the snow peaks to the south. The path is clear but the altitude, close to 4,000 m at the high point, makes it slow. We take rests often, and the guide sets a steady pace that everyone in the group can keep. The views are worth every stop.",
+        "Lo Gekar stands alone in a small valley. Its name is often linked to the tradition that Guru Rinpoche founded it, or that it stands where his struggle with the demons of Lo ended. Inside, the walls are lined with hundreds of small stones carved and painted with deities and prayers, giving the hall a feeling unlike any other gompa in Mustang. A caretaker lama keeps it and will show you round.",
+        "From Lo Gekar the trail continues north, crossing another ridge and descending to the walled city of Lo Manthang, which you see from above as you approach. It is a long day, about 7–8 hours of walking in total, but it gives you the landscape, the legend and the arrival in Lo Manthang in one. Carry lunch, plenty of water and warm layers. Luggage can go ahead by jeep or pony."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "What is Lo Gekar or Ghar Gompa?",
+          "a": "Lo Gekar, also called Ghar Gompa, is an old monastery in Upper Mustang between Dhakmar and Lo Manthang, linked by local tradition to Guru Rinpoche and the subduing of demons in Lo. It is known for its walls lined with carved and painted stones. It is one of the most revered sites in the region."
+        },
+        {
+          "q": "How long is the walk from Ghami to Lo Manthang via Lo Gekar?",
+          "a": "Allow 7–8 hours of walking, crossing ridges up to about 4,000 m. The route goes from Ghami to Dhakmar, over the ridge to Lo Gekar, and on to Lo Manthang. It is longer and harder than the main route via Tsarang, but quieter and more varied. Start early and carry lunch."
+        },
+        {
+          "q": "Can I reach Lo Gekar by jeep?",
+          "a": "A rough track does reach the area, and jeeps can be arranged from Lo Manthang for a visit, though conditions vary. Many travellers who arrive by road visit Lo Gekar as a half-day trip from Lo Manthang. Walking the full route from Ghami is the best way to understand the landscape and the legend. Check current road status locally."
+        }
+      ]
+    },
+    {
+      "slug": "ghami-trek-in-over-the-passes",
+      "title": "Trek in from Syangboche over the passes",
+      "kind": "trek",
+      "duration": "5–6 hours",
+      "best_time": "Morning start, Apr–Oct",
+      "image_query": "Upper Mustang trail Syangboche Ghami",
+      "wiki": "Upper Mustang",
+      "summary": "The classic day on the Upper Mustang trek: from Syangboche over high passes of around 4,000 m, past chortens and prayer flags, with the first wide views of Lo, before descending to the barley fields and whitewashed houses of Ghami.",
+      "body": [
+        "The day starts in Syangboche, a small village of lodges on the trail north from Kagbeni and Samar. We climb steadily to the first pass, marked by a chorten and prayer flags, then traverse high open slopes to a second pass at around 4,000 m. The ground is bare and stony, the sky vast, and the snow peaks of the Annapurna and Dhaulagiri ranges stand behind you to the south.",
+        "Between the passes the trail goes by old chortens, stone shelters and herders' camps used in summer. This is where the landscape of Lo opens up: badlands of eroded cliffs in grey, ochre and red, cut by deep gullies, with distant villages marked by small green patches of fields. Light changes fast here, and the wind builds after midday. Keep a windproof jacket close at hand, and stop for photographs while the light is still soft.",
+        "From the last pass the trail drops into the Ghami valley, a long descent with the village and its fields in view below. You reach Ghami in the early afternoon, after 5–6 hours of walking, with time to rest and visit the mani wall before dark. Take it slowly: this is a high day, and the altitude matters more than the distance. Rest well that evening; Tsarang is next. Drink plenty of water."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "How high are the passes before Ghami?",
+          "a": "The passes between Syangboche and Ghami are around 3,800–4,000 m, marked by chortens and prayer flags. They are not technical, but the altitude makes the climbs slow. Most trekkers have already slept at 3,500–3,800 m by this stage, which helps. Carry water and warm layers, as the wind on the passes is cold."
+        },
+        {
+          "q": "How hard is the Upper Mustang trek?",
+          "a": "It is moderate: daily walks of 5–7 hours at 3,000–4,000 m, with several passes and a rough, dusty trail shared in places with the jeep road. There are no technical sections. Fitness and acclimatisation matter more than experience. Many people now combine walking with jeep sections to shorten the trek."
+        },
+        {
+          "q": "Do I need a restricted area permit for Ghami?",
+          "a": "Yes. Ghami is within the Upper Mustang restricted area, which starts north of Kagbeni. Foreigners need the special permit through a registered agency, for at least two people with a licensed guide, plus ACAP. Since a November 2025 decision the fee is reported as USD 50 per day. Check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Ghami in Upper Mustang?",
+      "a": "Ghami is in Upper Mustang, about 3,520 m, on the trail and jeep road between Syangboche and Tsarang, roughly a day's walk south of Lo Manthang. It is usually the third or fourth night on a trek from Kagbeni. By jeep it is about 4–5 hours from Jomsom and 1.5–2 hours from Lo Manthang."
+    },
+    {
+      "q": "What is Ghami famous for?",
+      "a": "Ghami is famous for its long mani wall, around 300 m of carved prayer stones often called the longest in Nepal, and for its location near the red cliffs of Dhakmar and the old gompa of Lo Gekar. It is also one of the largest and most attractive farming villages in Upper Mustang."
+    },
+    {
+      "q": "How do I get a permit for Ghami?",
+      "a": "Ghami is inside the Upper Mustang restricted area. A registered trekking agency must apply for your restricted area permit; you need at least two travellers and a licensed guide, plus an ACAP permit. Since a November 2025 decision the fee is reported as USD 50 per person per day. Check current status before you travel."
+    },
+    {
+      "q": "Are there lodges in Ghami?",
+      "a": "Yes, Ghami has several family-run lodges with simple twin rooms, heated dining rooms and hearty food. Some have attached bathrooms and solar hot water. Standards are basic compared with Jomsom, so bring a warm sleeping bag. In peak months, around Tiji in May and in October, lodges fill up and should be booked ahead."
+    },
+    {
+      "q": "What is the best time to visit Ghami?",
+      "a": "April to June and September to October are best. Mustang is in the rain shadow, so even the monsoon months are mostly dry here, though roads from the south can be cut. Winter is very cold, with nights well below −10 °C, and many families move south from December to February."
+    },
+    {
+      "q": "Is Ghami on the Upper Mustang jeep route?",
+      "a": "Yes. The road from Jomsom to Lo Manthang passes through Ghami, and jeeps often stop here for lunch. Arriving by road is quicker but you miss the passes and views of the trekking route. Many travellers drive one way and trek the other, or mix the two to save days."
+    },
+    {
+      "q": "Can I walk to Dhakmar and Lo Gekar from Ghami?",
+      "a": "Yes. Dhakmar is about 1.5 hours' walk from Ghami, and the full route via Dhakmar and Lo Gekar to Lo Manthang takes 7–8 hours, crossing ridges near 4,000 m. It is longer than the main route via Tsarang, but quieter and more beautiful. Many trekkers take it on the return from Lo Manthang."
+    },
+    {
+      "q": "What language is spoken in Ghami?",
+      "a": "People in Ghami speak Lo-ke, the Tibetan dialect of Lo, at home, and most also speak Nepali. Younger people often speak some English. A few words of Tibetan, such as tashi delek for hello and thuk-je-che for thank you, are always appreciated. Your guide will translate in lodges and homes."
+    },
+    {
+      "q": "How cold is Ghami at night?",
+      "a": "In May and October, nights in Ghami fall to around −5 to 0 °C, with days of 12–18 °C. In summer, nights are milder. From November to March temperatures drop well below −10 °C at night, and the wind makes it feel colder. Bring a four-season sleeping bag, a down jacket and a warm hat."
+    }
+  ]
+}

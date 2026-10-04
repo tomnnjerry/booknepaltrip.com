@@ -1,0 +1,184 @@
+{
+  "slug": "kyanjin-gompa",
+  "name": "Kyanjin Gompa",
+  "name_ne": "",
+  "local_name": "",
+  "region": "langtang-manaslu",
+  "kind": "monastery",
+  "wiki": "",
+  "image_query": "Kyanjin Gompa Langtang monastery",
+  "lat": 28.211,
+  "lng": 85.563,
+  "altitude_m": 3870,
+  "tagline": "Monastery, cheese factory and glaciers at the head of Langtang",
+  "meta_description": "Kyanjin Gompa at 3,870 m: the monastery, the cheese factory started with Swiss help in the 1950s, Kyanjin Ri and Tserko Ri hikes, permits and how to get there.",
+  "summary": "Kyanjin Gompa, at about 3,870 m, is the last village and turnaround point of the Langtang Valley trek, three days above Syabrubesi. It has a small monastery, a cheese factory begun with Swiss help in the 1950s, and day climbs to Kyanjin Ri and Tserko Ri for close views of Langtang Lirung.",
+  "intro": [
+    "Kyanjin Gompa sits on a broad glacial terrace at the upper end of the Langtang Valley, at about 3,870 m. The village takes its name from its small Buddhist monastery, and it is where almost every Langtang trek turns around. Beyond it the valley continues east toward Langshisa and the glaciers that feed the Langtang Khola, but lodges stop here. Ice falls and moraine walls surround the village on three sides.",
+    "Most trekkers spend two nights here: one to arrive and rest, one after a dawn climb to Kyanjin Ri (about 4,600 m to the lower summit) or the longer climb to Tserko Ri, near 5,000 m. Both give views straight across to Langtang Lirung, over 7,200 m, and the glaciers on its flank. The village itself has lodges, bakeries, a monastery and a cheese factory with a history most visitors do not know.",
+    "Kyanjin was shaken by the 2015 earthquake but escaped the avalanche that destroyed Langtang village down the valley. Its lodges recovered quickly and now form the busiest cluster on the trail. The flood of 26 August 2026 did not come down the Langtang Khola, but it cut road access to Syabrubesi; check current status before you travel."
+  ],
+  "story": {
+    "title": "Cheese, yaks and a Swiss idea in the 1950s",
+    "paras": [
+      "In the 1950s Nepal had only just opened to the outside world, and Swiss development workers were looking for ways to help mountain herders earn more from their animals. In Langtang, Werner Schulthess introduced Swiss-style cheese-making, using the milk of yaks and nak and of yak-cow crossbreeds. The idea was simple: milk spoils, but hard cheese keeps and can be carried down to Kathmandu.",
+      "The cheese factory at Kyanjin is the best-known result. Herders bring milk from the summer pastures, and the cheese is pressed and aged in a simple building in the village. The work has continued for decades, under Nepali management, and Langtang cheese, a firm, mild yellow cheese, became something of a brand in Kathmandu shops and bakeries. Production is seasonal and depends on the herds and pastures.",
+      "Kyanjin's other life is religious. The small gompa, rebuilt after earthquake damage, is a village monastery of the Tibetan Buddhist tradition followed by the Langtangpa. Pilgrims and herders circle it, prayer flags run from its roof to the ridges, and on festival days the village gathers here. For trekkers, it is the quiet place to sit at the end of the valley before turning back."
+    ]
+  },
+  "legend": "The Langtangpa regard Langtang Lirung, the great mountain above Kyanjin, as their yul-lha, the local god who protects the valley and its herds. Offerings of juniper smoke and prayer flags on the ridges around Kyanjin are made to keep the mountain god content. In Langtang tradition the whole valley is also a beyul, a hidden land blessed by Guru Padmasambhava.",
+  "people": "Kyanjin's residents are Langtangpa, Tibetan-speaking Buddhist herders whose families graze yaks and nak on the high pastures and have run lodges here since trekking began in the 1970s. Many spend winter lower in the valley or in Kathmandu and return for the seasons. Staff in lodges and the cheese factory come from Langtang villages and wider Rasuwa.",
+  "untold": [
+    {
+      "fact": "Swiss-style cheese-making was introduced to Langtang in the 1950s by Werner Schulthess, and cheese is still produced in the valley today, making it one of Nepal's oldest mountain dairy projects.",
+      "source": "Wikipedia: Langtang"
+    },
+    {
+      "fact": "Around 2000, with support from the United Nations Development Programme, some Langtang teahouses were fitted with solar panels so trekkers could have hot showers without burning more firewood.",
+      "source": "Wikipedia: Langtang"
+    },
+    {
+      "fact": "The Tsergo Ri landslide, near the peak trekkers climb from Kyanjin, is one of the largest known mass movements on Earth. It is prehistoric and its debris shapes much of the upper valley.",
+      "source": "Wikipedia: Tsergo Ri"
+    }
+  ],
+  "local_words": [
+    {"word": "dri", "script": "འབྲི་", "lang": "Tibetan", "meaning": "Female yak, called nak in English; the yak is the male. Milk comes from the dri"},
+    {"word": "chhurpi", "script": "छुर्पी", "lang": "Nepali", "meaning": "Hard dried cheese chewed for hours, made from yak or cow milk"},
+    {"word": "kharka", "script": "खर्क", "lang": "Nepali", "meaning": "High summer pasture with herders' huts"}
+  ],
+  "taste": {
+    "name": "Langtang yak cheese",
+    "text": "Firm, mild yellow cheese made at the Kyanjin factory from yak and nak milk. Buy a small block at the factory or in lodges, eat it on Tibetan bread or a yak cheese pizza at one of Kyanjin's bakeries, and carry some down for the trail. It keeps well in the cold."
+  },
+  "facts": [
+    ["Best months", "Mar – May, Oct – Nov"],
+    ["Days we suggest", "2 nights"],
+    ["Nearest airport", "Kathmandu (KTM)"],
+    ["From Kathmandu", "≈ 120 km to Syabrubesi + 3 days on foot"],
+    ["Altitude", "≈ 3,870 m"],
+    ["Known for", "Monastery, cheese factory, Kyanjin Ri and Tserko Ri"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Kyanjin Ri at sunrise", "text": "A steep 2 to 3 hour climb to the lower summit of Kyanjin Ri, about 4,600 m, gives a full view of Langtang Lirung, its glaciers and the upper valley. Go early before cloud builds; come down for a late breakfast."},
+    {"title": "Tserko Ri", "text": "The bigger day: a long climb to around 4,980 m on Tserko Ri, with views east to the Tibetan border peaks and south across the valley. It takes 7 to 9 hours return and needs good acclimatisation and settled weather."},
+    {"title": "The cheese factory", "text": "Visit the small cheese factory started with Swiss help in the 1950s, see the presses and ageing rooms when they are working, and buy a block of firm yak cheese to carry down."},
+    {"title": "Kyanjin monastery", "text": "The village gompa is small and simple, with prayer flags strung to the ridges and a view straight up the valley. Visit with your guide, walk clockwise and leave a small donation for the butter lamps."},
+    {"title": "Upper valley walk to Langshisa", "text": "A long day hike east along the valley floor toward Langshisa Kharka, about 4,100 m, past moraine and yak pastures with glaciers spilling off the peaks. Few trekkers go this far."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "Three days from Syabrubesi via Lama Hotel and Langtang village, about 32 km and 2,400 m of ascent. Two days down."},
+    {"mode": "Air", "text": "Charter helicopters land at Kyanjin, used for returns, rescues and short on time trips. Flying straight in from Kathmandu without acclimatisation is not advised."},
+    {"mode": "Road", "text": "Nearest road is at Syabrubesi, about 120 km from Kathmandu, badly damaged by the 26 August 2026 flood. Check current status before you travel."}
+  ],
+  "where_to_stay": "Kyanjin Gompa has the largest group of lodges in the Langtang Valley, family-run by Langtangpa households: twin rooms, some with attached bathrooms, solar hot showers, stove-heated dining rooms and bakeries. Rooms are basic and cold at night, so bring a sleeping bag rated to minus 10 °C between October and April. Lodges near the monastery have the best morning views. We confirm which lodges are open each season.",
+  "stays": [],
+  "tips": [
+    "Spend two nights here and climb Kyanjin Ri on the second morning, not the afternoon you arrive.",
+    "Start Kyanjin Ri by 5.30 am in autumn; clouds often close in by 10 am.",
+    "Charge devices in lodges for a small fee; power can be weak in cloudy weeks.",
+    "Turn back on Tserko Ri if you have a headache or the weather changes; it is a long way above the village.",
+    "Carry cheese and snacks from Kyanjin for the walk down, as lunch stops are spaced out."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "spiritual-and-pilgrimage", "photography", "food-and-festivals"],
+  "nearby": ["langtang-village", "syabrubesi", "gosaikunda"],
+  "experiences": [
+    {
+      "slug": "kyanjin-ri-sunrise-climb",
+      "title": "Sunrise climb to Kyanjin Ri",
+      "kind": "trek",
+      "duration": "4–5 hours return",
+      "best_time": "Dawn, Oct–Nov and Mar–May",
+      "image_query": "Kyanjin Ri view Langtang Lirung",
+      "wiki": "",
+      "summary": "A steep pre-dawn climb from Kyanjin Gompa to the prayer-flag summit of Kyanjin Ri, about 4,600 m, for a close view of Langtang Lirung and the glaciers of the upper valley as the sun reaches them.",
+      "body": [
+        "We leave the lodge with headlamps before first light. The trail climbs directly behind the village on a grassy, then rocky slope, gaining about 700 m to the lower summit. It is steep and you will stop often to breathe, but it has no technical sections. Prayer flags mark the top.",
+        "From the summit Langtang Lirung fills the view to the north-west, with the Lirung glacier pouring down its flank. Across the valley stand the peaks of the Langtang Himal and, further east, the snow ridges near the Tibetan border. Below you, Kyanjin's roofs and the moraines look tiny.",
+        "Stronger walkers can continue along the ridge to the higher summit of Kyanjin Ri, adding an hour. Come down the same way for a late breakfast and a rest day afternoon in the village. This climb is the best acclimatisation you can do before heading for Tserko Ri or crossing toward Gosaikunda."
+      ],
+      "good_for": ["trekkers", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "How hard is Kyanjin Ri?", "a": "It is a short but steep hike: about 700 m of ascent from Kyanjin Gompa to the lower summit at roughly 4,600 m, taking 2 to 3 hours up and 1 to 1.5 hours down. No climbing skills are needed, but the altitude makes it tiring. Go slowly, carry water and warm layers, and turn back if you feel unwell."},
+        {"q": "What is the difference between Kyanjin Ri and Tserko Ri?", "a": "Kyanjin Ri is the shorter hike from the village, about 4,600 m at its lower summit and 4 to 5 hours return. Tserko Ri is higher, around 4,980 m, and takes 7 to 9 hours return. Tserko Ri has wider views but needs good acclimatisation, fitness and settled weather. Most trekkers do Kyanjin Ri."},
+        {"q": "When is the best time of day to climb Kyanjin Ri?", "a": "At dawn. In autumn and spring, cloud often builds over the peaks by mid-morning, and the wind picks up. Leave at about 5 to 5.30 am to reach the top for sunrise or soon after. Temperatures at the top can be minus 10 °C before the sun, so bring gloves, a hat and a down jacket."}
+      ]
+    },
+    {
+      "slug": "kyanjin-cheese-factory-visit",
+      "title": "Visit the Kyanjin cheese factory",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Afternoon, Apr–Nov",
+      "image_query": "Langtang cheese factory Kyanjin",
+      "wiki": "",
+      "summary": "See where Langtang's yak and nak milk becomes firm yellow cheese, at a small dairy founded on Swiss methods introduced in the 1950s, and buy a block to carry down the valley.",
+      "body": [
+        "The cheese factory sits at the edge of the village, a plain building that is easy to miss. In the main season, herders bring milk down from the kharka in metal cans, and it is heated, set with rennet, cut, pressed into moulds and left to age. The method follows the Swiss techniques introduced to Langtang in the 1950s by Werner Schulthess.",
+        "If staff are working when you visit, you may see the copper vats and presses and the wooden shelves of ageing wheels. If not, the shop still sells cheese by weight. Langtang cheese is mild and firm, a little like a young mountain cheese, and keeps well at altitude.",
+        "Back in the village, bakeries use it on pizza, in sandwiches and in apple pie variations. It is one of the few foods on the trail made entirely in the valley, from the grass on the pastures to the finished block."
+      ],
+      "good_for": ["trekkers", "families", "first-timers"],
+      "faqs": [
+        {"q": "Who started the Langtang cheese factory?", "a": "Swiss cheese-making was introduced to Langtang in the 1950s by Werner Schulthess, as part of early Swiss support for Nepal's mountain dairies. The cheese has been made in the valley ever since, now under Nepali management. Langtang cheese became known in Kathmandu bakeries and shops."},
+        {"q": "Is the Kyanjin cheese factory always open?", "a": "Production is seasonal and depends on milk from the summer herds, so the factory is most active from about late spring to autumn. Opening hours are informal. Even when cheese is not being made, you can often buy it in the village. Ask your lodge owner who has the key that day."},
+        {"q": "Is yak cheese made from yak milk?", "a": "Strictly, it comes from the nak, the female yak, and from yak-cow crossbreeds such as the dzomo, since the yak is the male animal. In the Himalaya, yak cheese is the common name. It is firm, mild and slightly nutty, quite different from chhurpi, the very hard dried cheese chewed as a snack."}
+      ]
+    },
+    {
+      "slug": "kyanjin-tserko-ri-summit",
+      "title": "Tserko Ri, the big day above Kyanjin",
+      "kind": "adventure",
+      "duration": "7–9 hours return",
+      "best_time": "Early start, Oct–Nov and Apr–May",
+      "image_query": "Tserko Ri Langtang prayer flags",
+      "wiki": "Tsergo Ri",
+      "summary": "A long, high trekking peak climb from Kyanjin Gompa to Tserko Ri at about 4,980 m, with panoramic views of Langtang Lirung, the upper valley and the border peaks. For acclimatised, fit walkers only.",
+      "body": [
+        "Tserko Ri, also spelled Tsergo Ri, rises east of Kyanjin above the yak pastures of the upper valley. The route crosses the Langtang Khola, climbs past summer huts at Yala kharka and then slogs up scree and rock to a summit hung with prayer flags at close to 5,000 m. It is a trekking climb, not a technical one, but it is long.",
+        "The reward is the widest view in Langtang: Langtang Lirung and its glaciers, the white wall of peaks along the Tibetan border, and the long valley curving back toward Syabrubesi. The hill itself sits on the scar of an enormous prehistoric landslide, one of the largest known on Earth.",
+        "We only attempt Tserko Ri after at least one acclimatisation day at Kyanjin, usually after Kyanjin Ri, and with a clear forecast. Your guide sets a turnaround time and will stop the climb if anyone shows signs of altitude sickness or the weather changes."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "Do I need a climbing permit for Tserko Ri?", "a": "Tserko Ri is treated as a trekking summit reached on foot, and trekkers normally climb it with only the Langtang National Park permit and a licensed guide. Rules for peaks change, so check current status before you travel. It should not be confused with Yala Peak nearby, which is a permitted climbing peak."},
+        {"q": "How fit do I need to be for Tserko Ri?", "a": "You need to be comfortable walking 7 to 9 hours with about 1,100 m of ascent and descent at altitudes between 3,870 and around 4,980 m. Regular hill walking or running in training helps. Acclimatisation matters more than fitness: do Kyanjin Ri first, and do not climb with a headache."},
+        {"q": "Can I see Everest from Tserko Ri?", "a": "No. Everest is far to the east and is not part of the Tserko Ri view. What you see is the Langtang region: Langtang Lirung, the peaks along the Tibetan border and the long Langtang Valley. On very clear days distant snow ranges appear to the south and east, but do not expect Everest."}
+      ]
+    },
+    {
+      "slug": "kyanjin-gompa-morning-prayers",
+      "title": "Morning at the Kyanjin monastery",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Early morning, all trekking seasons",
+      "image_query": "Kyanjin monastery prayer flags Langtang",
+      "wiki": "",
+      "summary": "A quiet visit to the small village monastery that gives Kyanjin its name: butter lamps, prayer wheels and, on some mornings, a resident lama or caretaker at prayer, with the glaciers of the upper valley behind.",
+      "body": [
+        "The gompa stands on a rise above the lodges, a modest building with a painted entrance, prayer wheels along the wall and long lines of prayer flags strung to the slopes. It is a village temple rather than a large monastery, cared for by local families, and was repaired after damage in the 2015 earthquake.",
+        "In the morning a caretaker or lama may light butter lamps and chant. Visitors are welcome to enter quietly if the door is open: take off shoes and hats, walk clockwise, do not point your feet toward the altar, and ask before taking photographs inside.",
+        "Your guide explains the images on the altar, usually Guru Padmasambhava, the Buddha and protector deities, and the role of the gompa in village life: festivals, funerals, blessings for herds before they go to the high pastures. Leave a small donation for the butter lamps."
+      ],
+      "good_for": ["trekkers", "seniors", "solo", "couples"],
+      "faqs": [
+        {"q": "Can visitors enter Kyanjin Gompa?", "a": "Yes, when the door is open and a caretaker is present. Remove shoes and hat, walk clockwise around the interior, keep your voice down and do not touch images or offerings. Ask before photographing. If the gompa is locked, ask your lodge owner; someone in the village usually holds the key."},
+        {"q": "Which Buddhist tradition is Kyanjin Gompa?", "a": "It is a village temple of the Tibetan Buddhist tradition followed by the Langtangpa, with Guru Padmasambhava prominent in its imagery, as is common in Himalayan villages. It is not a large teaching monastery with a big community of monks, but it is central to village rituals and festivals."},
+        {"q": "Should I give a donation at the monastery?", "a": "A small donation, NPR 100 to 500, placed in the donation box or given to the caretaker is a welcome gesture and helps pay for butter lamps and repairs. It is not required. Do not hand money to children around the monastery; give to the box or the caretaker instead."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Kyanjin Gompa?", "a": "About 3,870 m. It is the highest point most Langtang Valley trekkers sleep, so watch for altitude sickness: headache, nausea, poor sleep and loss of appetite. Spend two nights, climb Kyanjin Ri on your rest day and descend if symptoms get worse. Day climbs from here reach about 4,600 m (Kyanjin Ri) and near 5,000 m (Tserko Ri)."},
+    {"q": "How many days does it take to reach Kyanjin Gompa?", "a": "Three days on foot from Syabrubesi, via Lama Hotel and Langtang village, and two days back down. Most Langtang Valley treks take 7 to 8 days from Kathmandu to Kathmandu, including the two long drives and a rest day at Kyanjin. Check current road status to Syabrubesi before you travel."},
+    {"q": "What is there to do at Kyanjin Gompa?", "a": "Climb Kyanjin Ri at sunrise, attempt Tserko Ri if acclimatised, visit the monastery and the cheese factory, walk up the valley toward Langshisa Kharka, or simply rest in the sun with yak cheese and coffee from the bakeries. Two nights gives time for one big hike and one quiet morning."},
+    {"q": "Is there internet at Kyanjin Gompa?", "a": "Most lodges offer paid Wi-Fi, and mobile data sometimes works in parts of the village, but signal is unreliable and slows in bad weather. After the August 2026 flood, mobile networks in Rasuwa were disrupted and largely restored by September. Treat Kyanjin as an offline stop and let people at home know."},
+    {"q": "Can I fly back from Kyanjin Gompa by helicopter?", "a": "Yes. Charter helicopters can land at Kyanjin and fly to Kathmandu in well under an hour, weather permitting. Prices are per aircraft, so sharing lowers the cost. Many trekkers walk up and fly down to save two days. When road access to Syabrubesi is closed, flying out may be the practical option."},
+    {"q": "What is the Langtang cheese factory?", "a": "It is a small dairy at Kyanjin that makes firm yellow cheese from yak and nak milk, using Swiss methods introduced to Langtang in the 1950s by Werner Schulthess. Production is seasonal. You can buy cheese at the factory or in lodges, and bakeries in the village serve it on bread and pizza."},
+    {"q": "Can I continue beyond Kyanjin Gompa?", "a": "There are no lodges beyond Kyanjin, but day walks go east to Langshisa Kharka at about 4,100 m. Experienced parties with camping gear and permits sometimes cross high passes to other valleys, but these are serious expeditions. For most trekkers Kyanjin is the turnaround point; Gosaikunda is reached by a separate route."},
+    {"q": "How cold is Kyanjin Gompa?", "a": "In October and November nights drop to about minus 5 to minus 10 °C, with sunny days around 10 to 15 °C. December to February nights can fall below minus 15 °C. April and May are milder. Lodges have quilts but no room heating; bring a warm sleeping bag, down jacket, gloves and hat."},
+    {"q": "Do I need a guide to reach Kyanjin Gompa?", "a": "Under the rule in force since April 2023, foreign trekkers in Nepal's national parks and conservation areas must trek with a licensed guide, and Kyanjin is inside Langtang National Park. Enforcement has varied, so check current status before you travel. A local guide also knows which lodges have reopened after recent disruptions."}
+  ]
+}

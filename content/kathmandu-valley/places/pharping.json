@@ -1,0 +1,341 @@
+{
+  "slug": "pharping",
+  "name": "Pharping",
+  "name_ne": "फर्पिङ",
+  "local_name": "",
+  "region": "kathmandu-valley",
+  "kind": "pilgrimage site",
+  "wiki": "Pharping",
+  "image_query": "Pharping Asura cave monastery prayer flags",
+  "lat": 27.615,
+  "lng": 85.265,
+  "altitude_m": 1450,
+  "tagline": "Guru Rinpoche's caves and the gorge of Dakshinkali on the southern rim",
+  "meta_description": "Pharping with locals: Guru Rinpoche's Asura and Yanglesho caves, Dakshinkali, Shesh Narayan, Nepal's first hydropower plant and the Champadevi hike.",
+  "summary": "Pharping is a small Newar town on the valley's southern rim, about 20 km from Kathmandu, holy to both Tibetan Buddhists and Hindus. Guru Rinpoche meditated in its caves, and the Kali temple of Dakshinkali lies in a gorge below. Allow half a day, or a full day with the Champadevi hike.",
+  "intro": [
+    "The road south from Kathmandu past Chobhar and Taudaha climbs out of the valley through forest and rice terraces to Pharping, perched on a hillside at the southern edge. It looks like an ordinary Newar market town, but for Tibetan Buddhists it is one of the most sacred places in the Himalaya: Padmasambhava, Guru Rinpoche, is said to have reached enlightenment in its caves.",
+    "Around the town, a ring of Tibetan monasteries has grown over the last decades, and prayer flags cross the hillside above the Asura Cave. Below, at Shesh Narayan, the Yanglesho cave sits beside ponds and Licchavi carvings sacred to Vishnu. Hindu and Buddhist pilgrims share the same paths, sometimes the same shrines.",
+    "A kilometre south, in a forested gorge, stands the temple of Dakshinkali, where devotees offer animal sacrifices to the goddess Kali on Tuesdays and Saturdays. It is intense, crowded and not for everyone, but it is one of the most important Hindu sites in the valley. Pharping is also home to Nepal's first hydropower plant, built in 1911."
+  ],
+  "story": {
+    "title": "Where Guru Rinpoche meditated on the valley rim",
+    "paras": [
+      "Pharping is an old Newar settlement on the trade route from the valley south towards the plains. Its Vajrayogini temple and Licchavi-era sculptures at Shesh Narayan show it has been sacred for well over a thousand years. Long before Tibetan monasteries arrived, Newar Buddhists and Hindus worshipped here.",
+      "Tibetan tradition holds that in the 8th century Padmasambhava, the great teacher known as Guru Rinpoche, meditated in the caves of Pharping and attained realisation here before going on to Tibet. That made the town a major pilgrimage site for Tibetan Buddhists. After 1959, and especially from the 1970s, monasteries and retreat centres of several Tibetan schools were built on the hillside.",
+      "In 1911 the Rana prime minister Chandra Shumsher built a small hydroelectric plant at Pharping, the first in Nepal, to light the palaces of Kathmandu. Its old powerhouse still stands. Today Pharping lives on pilgrims: Tibetans circling the caves, Hindu families heading to Dakshinkali with goats and chickens, and visitors walking up to Champadevi for views of the mountains."
+    ]
+  },
+  "legend": "Tibetan tradition says that while Guru Rinpoche meditated at Yanglesho, powerful spirits caused drought, famine and disease across the land, blocking his practice. He sent to India for the teachings of Vajrakilaya. As soon as the texts arrived, the rains returned, the sickness ended and the obstacles cleared. Pilgrims point to a handprint in the rock of the Asura Cave above, said to be his.",
+  "people": "Pharping's town is Newar, with merchants, farmers and families who serve the temples. Tibetan monks, nuns and lay families live around the monasteries and retreat centres on the hill, and Tamang and Brahmin-Chhetri villages farm the surrounding slopes. Pilgrims from Bhutan, Sikkim, Ladakh and Tibetan communities around the world come and go, so you hear many languages in its lanes.",
+  "untold": [
+    {
+      "fact": "The Pharping hydropower station, built in 1911 under Rana prime minister Chandra Shumsher, was the first hydroelectric plant in Nepal. It supplied electricity to Kathmandu's palaces, and its old building still stands near the town.",
+      "source": "Wikipedia: Pharping Hydropower Station"
+    },
+    {
+      "fact": "Tibetan Buddhists hold that Padmasambhava attained realisation in the caves at Pharping, especially Yanglesho, beside the Shesh Narayan temple, making the town one of the most important pilgrimage sites linked to him outside Tibet.",
+      "source": "Wikipedia: Pharping"
+    },
+    {
+      "fact": "At Dakshinkali, south of Pharping, devotees sacrifice male animals, usually goats and roosters, to the goddess Kali, especially on Tuesdays and Saturdays. The crowds are biggest during Dashain, in September or October.",
+      "source": "Wikipedia: Dakshinkali Temple"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Guru Rinpoche",
+      "script": "གུ་རུ་རིན་པོ་ཆེ",
+      "lang": "Tibetan",
+      "meaning": "Precious teacher, the Tibetan name for Padmasambhava"
+    },
+    {
+      "word": "Bali",
+      "script": "बलि",
+      "lang": "Nepali",
+      "meaning": "Sacrifice or offering to a deity"
+    },
+    {
+      "word": "Gupha",
+      "script": "गुफा",
+      "lang": "Nepali",
+      "meaning": "Cave"
+    }
+  ],
+  "taste": {
+    "name": "Goat curry at Dakshinkali",
+    "text": "After a sacrifice, Nepali families often cook the goat on the spot, in picnic shelters and fields round Dakshinkali, as khasi ko masu, a rich curry with rice and pickles. Visitors are not invited by default, but small eateries in Pharping serve the same curry, plus Tibetan thukpa near the monasteries."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "Half day – 1"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 25 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 20 km · 1 h"
+    ],
+    [
+      "Altitude",
+      "≈ 1,450 m"
+    ],
+    [
+      "Known for",
+      "Guru Rinpoche caves, Dakshinkali, Shesh Narayan"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0–1",
+  "highlights": [
+    {
+      "title": "Asura Cave",
+      "text": "A small cave on the hillside above the town, now enclosed in a shrine and surrounded by prayer flags, where Guru Rinpoche is said to have meditated. Pilgrims touch a handprint in the rock. Remove shoes and enter quietly."
+    },
+    {
+      "title": "Yanglesho and Shesh Narayan",
+      "text": "Below the town, a cliff with the Yanglesho cave, ponds and Licchavi carvings of Vishnu, sacred to both Buddhists and Hindus. A calm, shaded spot with fish in the pools."
+    },
+    {
+      "title": "Dakshinkali",
+      "text": "The temple of Kali in a forested gorge a kilometre south, where animal sacrifices are made on Tuesdays and Saturdays. Busy, loud and intense. Visit with a guide and watch from the edge."
+    },
+    {
+      "title": "The monastery hillside",
+      "text": "A cluster of Tibetan monasteries and retreat centres on the hill around the caves, with prayer flags, stupas and chanting halls. Walk a kora with Tibetan pilgrims in the morning."
+    },
+    {
+      "title": "Champadevi hike",
+      "text": "A day hike up to Champadevi, a summit on the valley's southern rim, through forest with views of the Himalaya on clear days. A quieter alternative to Nagarkot."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Pharping is about 20 km south of central Kathmandu. A car or taxi takes about an hour via Balkhu, Chobhar and Taudaha on a winding road that climbs out of the valley. Local buses run from Ratnapark to Pharping and Dakshinkali, taking 1.5 to 2 hours. A private car makes it easier to combine stops."
+    },
+    {
+      "mode": "On foot",
+      "text": "From the Pharping area, trails climb to Champadevi in about 3 hours. Shesh Narayan, the town and the caves are linked by short walks, and Dakshinkali is a 20-minute walk downhill from the town."
+    }
+  ],
+  "where_to_stay": "Most visitors come from Kathmandu or Patan for a day; Patan's old town, about 50 minutes away, is a convenient base. Pharping has a few simple guesthouses, and some monasteries offer basic rooms to pilgrims and retreat students, usually by arrangement. A small resort on the forested ridge at Hattiban, above the road, offers a quieter stay with valley views.",
+  "stays": [],
+  "tips": [
+    "Visit Dakshinkali on a Tuesday or Saturday only if you are prepared to see animal sacrifices; other days are calmer.",
+    "Walk clockwise round all caves, stupas and monasteries, and remove shoes at shrines.",
+    "Combine Pharping with Chobhar gorge and Taudaha lake on the way back to Kathmandu.",
+    "Carry water and a warm layer; Pharping is cooler than the valley floor.",
+    "Do not photograph sacrifices closely or without permission from the families involved."
+  ],
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "treks-and-trails",
+    "photography"
+  ],
+  "nearby": [
+    "kirtipur",
+    "bungamati",
+    "patan"
+  ],
+  "experiences": [
+    {
+      "slug": "pharping-guru-rinpoche-caves",
+      "title": "Guru Rinpoche's caves with Tibetan pilgrims",
+      "kind": "spiritual",
+      "duration": "3 hours",
+      "best_time": "Morning, all year",
+      "image_query": "Pharping Asura cave shrine prayer flags",
+      "wiki": "",
+      "summary": "A morning visiting the caves where Padmasambhava is said to have meditated: the Asura Cave on the hillside above Pharping and Yanglesho beside Shesh Narayan, with stops at monasteries and the Vajrayogini temple on the way. Walk with pilgrims and learn why this town matters to Tibetan Buddhists.",
+      "body": [
+        "We start at the top of Pharping, where a stone stairway climbs past the Vajrayogini temple, an old Newar shrine to the tantric goddess, to the Asura Cave. The cave is small and now enclosed in a shrine room hung with offerings. Pilgrims bend low to enter, light butter lamps and touch a handprint in the rock said to be Guru Rinpoche's.",
+        "Around the cave, prayer flags cover the hillside and Tibetan pilgrims walk a kora past chortens and prayer wheels. We join them, then visit one of the monasteries below, where monks may be chanting. Your guide explains who Padmasambhava was and why the Vajrakilaya teachings are linked to this place.",
+        "Then we drive or walk down to Shesh Narayan, where a cliff shelters the Yanglesho cave, ponds with fish and Licchavi carvings of Vishnu. Buddhists and Hindus both worship here. We end beside the ponds, a calm place to sit before lunch in town or the drive back."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "seniors",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is the Asura Cave in Pharping?",
+          "a": "The Asura Cave is a small cave on the hillside above Pharping where Tibetan tradition says Guru Rinpoche, Padmasambhava, meditated in the 8th century. It is now enclosed in a shrine. Pilgrims enter to make offerings and touch a handprint in the rock. Visitors are welcome if they are quiet and respectful."
+        },
+        {
+          "q": "Can non-Buddhists visit Pharping's caves?",
+          "a": "Yes. The caves and most monasteries welcome respectful visitors. Remove shoes before entering shrines, walk clockwise, do not touch offerings, and ask before photographing inside. The caves are small, so wait your turn if pilgrims are inside. Small donations are welcome."
+        },
+        {
+          "q": "How long do I need for the Pharping caves?",
+          "a": "Two to three hours covers the Asura Cave, a monastery, the Vajrayogini temple and Shesh Narayan with Yanglesho. Add an hour for Dakshinkali and lunch. A full day lets you combine Pharping with Chobhar and Taudaha or the Champadevi hike."
+        }
+      ]
+    },
+    {
+      "slug": "pharping-dakshinkali-temple",
+      "title": "Dakshinkali, the Kali temple in the gorge",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Tue or Sat mornings for rituals, Oct–Apr",
+      "image_query": "Dakshinkali temple gorge Nepal",
+      "wiki": "Dakshinkali Temple",
+      "summary": "Walk down into the forested gorge where the goddess Kali is worshipped at Dakshinkali. On Tuesdays and Saturdays, families bring goats and roosters for sacrifice. With a guide, watch from the edge and understand the ritual and why it matters to many Nepalis.",
+      "body": [
+        "Dakshinkali lies about a kilometre south of Pharping, at the bottom of a wooded gorge where two streams meet. From the car park a path lined with stalls selling flowers, coconuts, red cloth and offerings leads down to the temple. On Tuesdays and Saturdays, queues of families wait with goats and roosters.",
+        "The shrine itself is an open enclosure, not a tall pagoda. Kali's image sits under a gilded canopy, and only Hindus may enter the inner area. Sacrifices are made by butchers at the shrine, and the blood is offered to the goddess. Families then take the meat away to cook, often at picnic spots nearby.",
+        "Watching from the steps above the enclosure, your guide explains the beliefs behind the offerings, the role of Kali in Nepali Hinduism, and how sacrifice is debated in Nepal today. It is a strong experience, and some visitors prefer to visit on a quieter day or to skip it. We respect either choice."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "When are animal sacrifices held at Dakshinkali?",
+          "a": "Mainly on Tuesdays and Saturdays, and in very large numbers during Dashain, usually in September or October. On other days the temple is calmer, with flower and food offerings. Arrive in the morning for the main rituals. Check current status before you travel, as practices and rules can change."
+        },
+        {
+          "q": "Can tourists visit Dakshinkali temple?",
+          "a": "Yes. Visitors can walk to the temple and watch from the steps and terraces around the enclosure. Only Hindus may enter the inner shrine area. Dress modestly, stay out of the way of families and butchers, and do not photograph sacrifices closely without permission."
+        },
+        {
+          "q": "Is Dakshinkali suitable for children?",
+          "a": "Animal sacrifices are graphic, with blood and slaughter in plain view, and many children find them upsetting. Consider visiting on a non-sacrifice day, or skipping Dakshinkali in favour of the Pharping caves and Shesh Narayan. Parents know their children best."
+        }
+      ]
+    },
+    {
+      "slug": "pharping-shesh-narayan-and-hydropower",
+      "title": "Shesh Narayan's ponds and Nepal's first power plant",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Shesh Narayan temple Pharping ponds",
+      "wiki": "Pharping Hydropower Station",
+      "summary": "Explore the lower slopes of Pharping: the cliff-side Shesh Narayan temple with its ponds and Licchavi carvings, and the old Pharping hydropower station of 1911, the first in Nepal. Two layers of history in one easy walk.",
+      "body": [
+        "Shesh Narayan sits at the foot of a cliff on the road below Pharping, where springs feed a series of stone ponds full of fish. A temple to Vishnu, resting on the serpent Shesha, stands beside them, and old Licchavi-era carvings decorate the rock. Above, a shallow cave, Yanglesho, is sacred to Tibetan Buddhists.",
+        "We spend time at the ponds, watching families feed fish and make offerings, and your guide explains the carvings and the shared Hindu and Buddhist worship of the site. Then we walk a short distance to the old hydropower station built in 1911 by Chandra Shumsher Rana, Nepal's first.",
+        "The powerhouse is a modest brick building, but it marks the moment electricity reached Nepal, first lighting the Rana palaces in Kathmandu. Access to the interior varies; even from outside, it is a good place to talk about how Nepal, now a hydropower exporter in good monsoon years, got its start here."
+      ],
+      "good_for": [
+        "families",
+        "seniors",
+        "photographers",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is Shesh Narayan temple?",
+          "a": "Shesh Narayan is a Vishnu temple at the foot of a cliff below Pharping, beside spring-fed ponds and Licchavi-era rock carvings. It is sacred to Hindus, and the Yanglesho cave above is important to Tibetan Buddhists as a place where Guru Rinpoche meditated. It is quiet and shaded."
+        },
+        {
+          "q": "When was Nepal's first hydropower plant built?",
+          "a": "The Pharping hydropower station was built in 1911 under Rana prime minister Chandra Shumsher, with a capacity of about 500 kW. It supplied electricity to Kathmandu's palaces. The old building still stands near Pharping and is a heritage site."
+        },
+        {
+          "q": "Can I visit the Pharping hydropower station?",
+          "a": "You can see the old powerhouse from outside, and interior access has been possible on some occasions. Rules vary, so ask your guide or check current status before you travel. It is a short walk from Shesh Narayan and easy to include in a Pharping visit."
+        }
+      ]
+    },
+    {
+      "slug": "pharping-champadevi-hike",
+      "title": "Champadevi hike on the valley's southern rim",
+      "kind": "trek",
+      "duration": "6 hours",
+      "best_time": "Oct–Apr, early start",
+      "image_query": "Champadevi hill hike Kathmandu",
+      "wiki": "",
+      "summary": "A day hike from the Pharping road up through forest to the summit of Champadevi, one of the high points on the valley's southern rim, with a small shrine on top and Himalayan views on clear days. Roughly 600 to 800 m of ascent depending on the start; steady and rewarding.",
+      "body": [
+        "We start near Hattiban, on the forested ridge above the Pharping road, and climb steadily through oak, pine and rhododendron forest. The path is well used by locals, with stone steps in places and earth trail in others. Birds are plentiful, and in spring rhododendrons flower red among the trees.",
+        "After about 3 hours we reach the summit of Champadevi, with a small shrine to the goddess and lines of prayer flags. On clear days from October to February, the Himalaya stretches across the northern horizon above the Kathmandu Valley, and to the south the hills fold away towards the Terai.",
+        "We have a packed lunch at the top, then descend by the same route or a loop, about 2 to 3 hours. The hike suits fit walkers who are comfortable with sustained climbs. It is a good warm-up before a trek and a quiet alternative to the busier viewpoints."
+      ],
+      "good_for": [
+        "trekkers",
+        "couples",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How hard is the Champadevi hike?",
+          "a": "It is moderate to strenuous: about 6 hours round trip with roughly 600 to 800 m of ascent and descent on forest trails and steps. Fit walkers manage it well. Good shoes, water and snacks are essential. It is a good test of fitness before a longer Himalayan trek."
+        },
+        {
+          "q": "Can you see the Himalaya from Champadevi?",
+          "a": "Yes, on clear days, especially from October to February, the summit gives a wide view of the Himalaya beyond the Kathmandu Valley. Haze builds from March, and monsoon cloud usually hides the peaks from June to September. Start early for the best chance."
+        },
+        {
+          "q": "Do I need a guide for Champadevi?",
+          "a": "A guide is recommended, as the forest has several paths and unsigned junctions. Walking with a local guide also adds context about the forest, birds and the shrine. Start early to be back down well before dusk. Carry a torch just in case."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is Pharping from Kathmandu?",
+      "a": "About 20 km south of central Kathmandu, roughly 1 hour by car via Chobhar and Taudaha. Local buses from Ratnapark take 1.5 to 2 hours. Dakshinkali is a further 1 km south. Many visitors combine Pharping with Chobhar gorge and Kirtipur."
+    },
+    {
+      "q": "Why is Pharping important to Buddhists?",
+      "a": "Tibetan tradition holds that Padmasambhava, Guru Rinpoche, attained realisation in caves at Pharping in the 8th century before going to Tibet. The Asura Cave and Yanglesho are major pilgrimage sites, and many Tibetan monasteries and retreat centres have been built around the town."
+    },
+    {
+      "q": "Is Pharping worth visiting?",
+      "a": "Yes, if you are interested in Buddhism, Hinduism or quiet hill towns. Pharping combines Guru Rinpoche's caves, Tibetan monasteries, Shesh Narayan's ponds, Dakshinkali and Nepal's first power station within a short distance. It sees far fewer visitors than the city stupas."
+    },
+    {
+      "q": "Is there an entry fee for Pharping?",
+      "a": "At the time of writing there is no general entry fee for Pharping town, and caves and monasteries accept donations. Small fees for parking or specific sites may apply. Check current status before you travel, and carry small notes for offerings."
+    },
+    {
+      "q": "What is Dakshinkali?",
+      "a": "Dakshinkali is a temple to the goddess Kali in a forested gorge just south of Pharping. It is one of the main Hindu temples in the valley, known for animal sacrifices on Tuesdays and Saturdays and during Dashain. Non-Hindus can watch from outside the inner enclosure."
+    },
+    {
+      "q": "Can I stay overnight in Pharping?",
+      "a": "Yes. There are a few simple guesthouses, and some monasteries and retreat centres host visitors by arrangement. Staying lets you join morning prayers and walk the caves before day-trippers arrive. Most visitors, though, come for a day from Kathmandu or Patan."
+    },
+    {
+      "q": "When is the best time to visit Pharping?",
+      "a": "October to April is best, with dry weather and clear views from the hills. Visit Dakshinkali on a Tuesday or Saturday for the main rituals, or other days for calm. During Dashain the temple is extremely crowded. Monsoon months make roads and trails slippery."
+    },
+    {
+      "q": "What should I wear to Pharping?",
+      "a": "Modest clothing that covers shoulders and knees, shoes you can slip off easily at shrines, and a warm layer, as Pharping is cooler than Kathmandu. Comfortable walking shoes help on stairways to the caves and for the Champadevi hike."
+    },
+    {
+      "q": "Can I combine Pharping with other sites?",
+      "a": "Yes. A good day plan is Kirtipur in the morning, Chobhar gorge and Taudaha lake, then Pharping's caves, Shesh Narayan and Dakshinkali in the afternoon. Or pair Pharping with Bungamati and Khokana for a southern valley day. Start by 8 am to fit it all in."
+    }
+  ]
+}

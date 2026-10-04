@@ -1,0 +1,204 @@
+{
+  "slug": "humla-kailash-trail-simikot-hilsa-8n",
+  "title": "Humla: the Kailash Trail to Hilsa",
+  "region": "far-west",
+  "kind": "pilgrimage",
+  "nights": 8,
+  "themes": [
+    "treks-and-trails",
+    "spiritual-and-pilgrimage",
+    "high-altitude",
+    "villages-and-homestays"
+  ],
+  "grade": "Challenging",
+  "stops": [
+    {
+      "place": "simikot",
+      "nights": 8
+    }
+  ],
+  "start": "Nepalgunj Airport (KEP), morning flight to Simikot",
+  "end": "Nepalgunj, by air from Simikot",
+  "price_from_usd": 1950,
+  "best_months": [
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "pace": "Active",
+  "max_altitude_m": 4560,
+  "meta_description": "Humla Kailash trail, 8 nights: walk the old pilgrim and salt route from Simikot up the Karnali to Hilsa on the Tibet border, over the Nara La.",
+  "summary": "Eight nights on the old pilgrim and trade route of upper Humla, the way Hindu and Buddhist pilgrims walked toward Mount Kailash. From Simikot up the Karnali through Kermi, Yalbang and Yari, over the Nara La at about 4,560 m to Hilsa on the Tibet border, then back to Simikot by road. All within Nepal, on a restricted area permit.",
+  "intro": [
+    "For centuries this was one of the main routes from the Indian plains to Mount Kailash and Lake Manasarovar in western Tibet. Sadhus, Buddhist pilgrims and traders with sheep and goats loaded with salt, wool and grain followed the Karnali north from Humla to the border at Hilsa. Today most Kailash pilgrims fly by helicopter from Simikot to Hilsa, but the trail still runs through the villages, and walking it shows you how the world changes from Hindu hill farms to Tibetan Buddhist valleys in a week.",
+    "This trip stays inside Nepal. You walk to the border village and look across the river to Tibet, then return to Simikot by jeep on the new Karnali Corridor road. If you plan to continue to Kailash, we can arrange the Tibet side through a partner agency; that needs a Chinese group visa and its own planning. Upper Humla is a restricted area, so you need a permit and a licensed guide."
+  ],
+  "story": "You land on Simikot's ridge, among stone houses and mule bells, and walk down to the Karnali, which here is still a fast green river. The first villages are Thakuri and Chhetri, with temples to the hill gods and terraces of barley. At Kermi the first prayer flags appear; at Yalbang a large monastery fills the hillside with chanting. Each day the valley grows drier, the houses flatter, the faces more Tibetan. At Yari you are in high desert. The Nara La takes you up to the wind and prayer flags, and below lies Hilsa: a cluster of buildings, a bridge, and on the far bank, Tibet. Pilgrims have stood here with the same feeling for a very long time.",
+  "highlights": [
+    "The old pilgrim route to Kailash, walked through the villages of the upper Karnali",
+    "The Nara La at about 4,560 m, with the first views into Tibet",
+    "Hilsa, the border village on the Karnali opposite the Chinese crossing",
+    "Namkha Khyung Dzong monastery at Yalbang and the hot springs at Kermi",
+    "The change from Hindu hill villages to Tibetan Buddhist culture in a single week"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly Nepalgunj to Simikot",
+      "place": "simikot",
+      "overnight": "Simikot",
+      "alt_m": 2910,
+      "move": "≈ 45 min flight",
+      "text": "The early flight from Nepalgunj crosses the deep valleys of the Karnali hills and lands on Simikot's ridge-top airstrip at about 2,910 m. Simikot is the headquarters of Humla district, a town of stone houses, small shops and government offices. We complete the permit check, meet the crew and spend the afternoon acclimatising with a walk up to the viewpoint above the town. Kailash pilgrims pass through here in summer, and you will see some of them preparing for helicopter flights north.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Down to Dharapuri",
+      "place": "",
+      "overnight": "Dharapuri",
+      "alt_m": 2300,
+      "move": "≈ 5 h walk · −610 m net",
+      "text": "We climb over the ridge behind Simikot and descend through pine forest toward the Karnali. The trail passes villages where families grow barley, wheat and buckwheat, and mule trains carry rice and kerosene north. Women at work in the fields will ask where you are going; Hilsa is a word everyone here understands. Dharapuri, at about 2,300 m, sits above the river among walnut trees. Camp in a field by the village.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dharapuri to Kermi and its hot springs",
+      "place": "",
+      "overnight": "Kermi",
+      "alt_m": 2670,
+      "move": "≈ 5 h walk · +370 m",
+      "text": "An easy day upriver to Kermi, where the first prayer flags and mani walls show you are entering a Buddhist area. The village's hot springs lie about half an hour from camp, two simple pools where trekkers and villagers soak in the evening. Pilgrims on the old route often rested here before the long climb north. Camp near the village at about 2,670 m. In the evening the crew may buy potatoes and buckwheat from the village for dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kermi to Yalbang",
+      "place": "",
+      "overnight": "Yalbang",
+      "alt_m": 3020,
+      "move": "≈ 5 h walk · +350 m",
+      "text": "We cross a small pass with views down into the Karnali gorge, walk through pine forest and barley fields and reach Yalbang. Above the village stands Namkha Khyung Dzong, one of the largest monasteries in Humla, home to Nyingma monks. If the monks are gathered for afternoon prayers, we sit quietly at the back of the hall. The monastery is a good place to talk with your guide about how Buddhist and Hindu pilgrims shared this route to Kailash.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Yalbang to Tumkot",
+      "place": "",
+      "overnight": "Tumkot",
+      "alt_m": 3080,
+      "move": "≈ 5 h walk",
+      "text": "The trail follows the Karnali upstream, cut into the cliffs in places, and passes Muchu, a village of flat-roofed stone houses stacked with firewood. North of here the land dries quickly as you enter the rain shadow of the main range. The new Karnali Corridor road runs close to the old trail in parts; we keep to the footpath wherever it survives. Tumkot sits above the river with a small monastery on the hillside. Camp near the village.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tumkot to Yari",
+      "place": "",
+      "overnight": "Yari",
+      "alt_m": 3663,
+      "move": "≈ 6 h walk · +580 m",
+      "text": "A steady climb into high desert: bare brown slopes, juniper, mani walls and long views back down the valley. Yari, at about 3,663 m, is the last village before the pass, a resting place for pilgrims and traders for generations. Yaks and goats graze around the houses. We arrive in time for a rest, a cup of salt butter tea if a family offers one, and an early night before the crossing.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Over the Nara La to Hilsa",
+      "place": "",
+      "overnight": "Hilsa",
+      "alt_m": 3647,
+      "move": "≈ 6–7 h walk · +900 m, −920 m",
+      "text": "We start early for the climb to the Nara La, about 4,560 m, hung with prayer flags and topped by cairns that pilgrims add to as they pass. On a clear morning you look north across the Karnali into Tibet. The descent is steep and long to Hilsa, the border village at about 3,647 m. Across the bridge is the Chinese side, and beyond, out of sight, Kailash and Manasarovar. We camp at Hilsa and spend the evening watching the traffic of a border town.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "By road back to Simikot",
+      "place": "simikot",
+      "overnight": "Simikot",
+      "alt_m": 2910,
+      "move": "Long jeep day on a rough road · 8–10 h",
+      "text": "Today we return to Simikot by jeep on the Karnali Corridor road, which crosses the Nara La and follows the valley you have walked. The road is rough and can be blocked by landslides or snow, so timings vary. If the road is closed we arrange a charter helicopter, shared with pilgrims where possible, at extra cost. Evening in a Simikot lodge, a hot meal and a farewell to the crew.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Fly Simikot to Nepalgunj",
+      "place": "",
+      "overnight": "Nepalgunj or Kathmandu",
+      "alt_m": 165,
+      "move": "≈ 45 min flight",
+      "text": "The morning flight takes you back to Nepalgunj in about forty-five minutes. From there you can connect to an afternoon flight to Kathmandu, or rest a night on the plain and continue to Bardia National Park. Simikot flights are often delayed by weather, so keep a spare day before international departures. If you plan to go to Kailash next year, you now know the country it begins in. Your guide handles the permit return and the crew tips.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Nepalgunj–Simikot–Nepalgunj flights (economy)",
+    "Upper Humla restricted area permit",
+    "Licensed guide, cook, kitchen crew and porters or pack animals",
+    "Full camping equipment, all meals on trek and lodge nights in Simikot",
+    "Jeep from Hilsa to Simikot"
+  ],
+  "excludes": [
+    "Kathmandu–Nepalgunj flights and hotels in Nepalgunj or Kathmandu",
+    "Helicopter from Hilsa if the road is closed",
+    "Tibet visa, permits and any travel beyond Hilsa",
+    "International flights, travel insurance with rescue cover, sleeping bag, drinks and tips"
+  ],
+  "good_to_know": [
+    "Upper Humla is a restricted area. At the time of writing the permit costs USD 50 per person for the first 7 days and USD 10 per day after that, for groups of two or more with a licensed guide through a licensed agency. Check current status before you travel.",
+    "The Karnali Corridor road now reaches Simikot and Hilsa, and jeeps use it in season; parts of the walking trail run close to it. Road conditions change, so check current status before you travel.",
+    "The Nara La can hold snow from December to April.",
+    "Upper Humla is in the rain shadow and walkable in the monsoon, but Simikot flights are less reliable from June to September.",
+    "Crossing into Tibet at Hilsa needs a Chinese group visa and permits arranged in advance; the border has opened and closed at different times."
+  ],
+  "faqs": [
+    {
+      "q": "Can I walk to Mount Kailash from Nepal?",
+      "a": "You can walk the Nepal side, from Simikot to the border at Hilsa, as this trip does. Crossing into Tibet and continuing to Kailash requires a Chinese group visa and Tibet permits arranged through an agency, and on the Tibet side you travel by vehicle. The border's status has changed several times in recent years, so check current status before you travel."
+    },
+    {
+      "q": "How long is the trek from Simikot to Hilsa?",
+      "a": "Six days on foot is a comfortable pace, via Dharapuri, Kermi, Yalbang, Tumkot and Yari, crossing the Nara La at about 4,560 m on the last day. Strong walkers can do it in five. Most Kailash pilgrims skip it and fly from Simikot to Hilsa by helicopter in under half an hour."
+    },
+    {
+      "q": "Do I need a permit to trek in Humla?",
+      "a": "Yes. The Simikot to Hilsa trail is in the Upper Humla restricted area. At the time of writing the permit costs USD 50 per person for the first seven days and USD 10 per day after that. You must trek with a licensed guide, in a group of two or more, arranged by a licensed agency. Check current status before you travel."
+    },
+    {
+      "q": "How hard is the Humla trek to Hilsa?",
+      "a": "Challenging rather than extreme. Days are five to seven hours, the trail is rough in places, and the Nara La at about 4,560 m is the only pass. You gain altitude slowly up the valley, which helps acclimatisation. Camping and remoteness add to the effort. Previous trekking experience is strongly recommended."
+    },
+    {
+      "q": "What is the best season for the Humla trail?",
+      "a": "May to June and September to October are best. Upper Humla lies in the rain shadow, so July and August are walkable too, but flights from Nepalgunj to Simikot are more often cancelled in the monsoon. From December to April snow can close the Nara La and nights are very cold."
+    },
+    {
+      "q": "Is there a road from Simikot to Hilsa?",
+      "a": "Yes. The Karnali Corridor road now links Simikot with Hilsa over the Nara La, and jeeps run on it when it is open. It is rough and often blocked by landslides in the rains or snow in winter. Parts of the old footpath have been lost to the road, but long sections survive."
+    },
+    {
+      "q": "Who lives along the Simikot to Hilsa trail?",
+      "a": "Around Simikot and the lower Karnali most people are Thakuri and Chhetri Hindus who speak Nepali. From Kermi northward the villages are Tibetan-speaking Buddhists, farming barley and buckwheat and herding yaks, goats and sheep. Trade with Tibet through Hilsa has shaped their lives for centuries."
+    },
+    {
+      "q": "Where do I sleep on the Humla trail?",
+      "a": "In Simikot there are simple lodges. On the trail some villages have basic guesthouses built for pilgrims and road workers, but quality varies and they can be full in the Kailash season. We camp with our own tents, kitchen and crew so that every night is comfortable and predictable."
+    },
+    {
+      "q": "What if the flight to Simikot is cancelled?",
+      "a": "You wait in Nepalgunj for the next flight, usually the following morning, and we shift the itinerary by a day. Flights are most reliable from April to June and in October. We recommend at least one spare day at the end of the trip before any international flight."
+    }
+  ]
+}

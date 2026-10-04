@@ -1,0 +1,196 @@
+{
+  "slug": "kathmandu-chitwan-family-wildlife-6n",
+  "title": "Kathmandu and Chitwan Family Wildlife Trip",
+  "region": "chitwan-terai",
+  "kind": "family",
+  "nights": 6,
+  "themes": [
+    "family-trips",
+    "wildlife-and-jungle",
+    "heritage-and-temples",
+    "villages-and-homestays"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "bandipur",
+      "nights": 1
+    },
+    {
+      "place": "sauraha",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1050,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Nepal family trip, 6 nights: two days of Kathmandu temples and monkeys, a night in hilltop Bandipur, then three nights of rhino, canoes and jeeps in Chitwan.",
+  "summary": "Six nights for families with children of about six and up. Two nights in Kathmandu for Swayambhunath's monkeys, Bhaktapur's potters and the stupa at Boudha, one night in car-free Bandipur on its ridge, then three nights in Sauraha for canoe trips, jeep safaris, elephants at the breeding centre and a Tharu village dance. Fly home from Bharatpur.",
+  "intro": [
+    "Children remember Nepal through animals and hands-on moments: a monkey stealing a banana at Swayambhunath, clay spinning on a potter's wheel in Bhaktapur, a rhino crossing the river while they eat dinner. We built this trip around those moments, with short drives, early nights and comfortable, family-friendly hotels. Every guide on this trip is used to travelling with children, and every activity can be shortened if young legs or attention spans run out. Grandparents travelling with grandchildren are very welcome too.",
+    "The road from Kathmandu to Chitwan is long for children in one go, so we break it at Bandipur, an old Newar trading town on a ridge above the highway, where cars stay outside the bazaar and the children can run along the stone-paved street. In Chitwan, three nights in Sauraha give enough time for every activity without a single rushed morning, and a flight back from Bharatpur saves the long drive at the end."
+  ],
+  "story": "It begins with temples and monkeys. In Kathmandu the children count the 365 steps up to Swayambhunath, if they can, while monkeys slide down the handrails. In Bhaktapur they sit at a potter's wheel in the square and come away with clay to the elbows. Then the city falls behind, the road follows a green river, and Bandipur appears on its ridge, quiet and stone-paved, with the Annapurnas on the horizon at dawn. The last part is warm and wild. In Sauraha the river is the boundary of the park. From the canoe the children spot crocodiles; from the jeep, a rhino with a calf. In the evening Tharu boys whirl sticks in a dance, and everyone falls asleep early to frogs and crickets.",
+  "highlights": [
+    "Swayambhunath's monkeys and Bhaktapur's potters' square, made for curious children",
+    "A night in Bandipur, a car-free hill bazaar with mountain views at dawn",
+    "A dugout canoe ride past mugger crocodiles on the Rapti River",
+    "Jeep safaris for one-horned rhino, deer and monkeys in Chitwan National Park",
+    "Baby elephants at the Khorsor breeding centre and a Tharu stick dance in the evening"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "We meet your family at Tribhuvan International Airport and drive to your hotel, about 30 minutes depending on traffic. Rest after the flight. If everyone has energy in the late afternoon, take a short walk with your guide to Boudhanath, the great white stupa, where families walk clockwise around the dome at dusk, children spin prayer wheels and pigeons rise in clouds. Dinner is free tonight, and an early night helps beat the jet lag.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Monkeys, stupas and potters",
+      "place": "bhaktapur",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 13 km · 45 min to Bhaktapur",
+      "text": "Morning at Swayambhunath, the hilltop stupa that many visitors call the monkey temple, for the troops of rhesus macaques and wide views of the valley. Keep snacks out of sight. After lunch we drive to Bhaktapur, where the children try a potter's wheel in Pottery Square, see the five-roofed Nyatapola temple and taste juju dhau, the king of curds, served in a clay bowl. Back to Kathmandu in the late afternoon.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 3,
+      "title": "Drive to Bandipur on its ridge",
+      "place": "bandipur",
+      "overnight": "Bandipur",
+      "alt_m": 1030,
+      "move": "≈ 145 km · 5–6 h drive",
+      "text": "We drive out of the valley and down the Trishuli gorge, watching the rafts on the river, with stops for snacks and stretches. At Dumre we turn uphill for the last 8 km to Bandipur, an old Newar trading town where the bazaar is closed to cars. The children can run along the flagstone street, visit the small Khadga Devi and Bindabasini temples, and walk out to Tundikhel, the old parade ground, for sunset. We stay at The Old Inn, a restored Newar townhouse.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Down to the jungle at Sauraha",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 90 km · 2.5–3 h drive",
+      "text": "If the morning is clear, step out early for the view of the Annapurnas and Manaslu from the ridge. Then we drive down to Mugling and along the Narayani to Chitwan, arriving at Green Park Chitwan in Sauraha in time for lunch and a rest. In the late afternoon your nature guide walks with you to the Rapti riverbank for sunset. Rhino often cross here at dusk, and many children see their first one before dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Canoe, elephants and a jeep safari",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "",
+      "text": "Early morning, a dugout canoe ride on the Rapti, about an hour, past mugger crocodiles sunning on the banks and kingfishers on the branches. Then a short guided walk back. After breakfast we visit the elephant breeding centre at Khorsor, where young elephants stay near their mothers. In the afternoon, a half-day jeep safari into the park for rhino, deer, monkeys, peacocks and, with luck, a sloth bear. Evening at the lodge.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tharu village and a stick dance",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "",
+      "text": "A slower day. In the morning a guided bicycle ride or walk through a Tharu village near Sauraha, with mud-walled houses, grain stores, ducks and children who will want to play. Your guide explains how Tharu families have lived with the jungle for generations. Lunch and a rest in the heat of the day. In the late afternoon a visit to the Bird Education Society, or a second jeep drive, then a Tharu stick dance in the evening.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly from Bharatpur to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min drive + 25 min flight",
+      "text": "A last breakfast by the river, then the short drive to Bharatpur airport for the flight back to Kathmandu, about 25 minutes. We transfer you to your hotel or to the international airport if you are flying out the same day. Families with more time often add three nights in Pokhara, about 5 hours by road from Chitwan, for boating on Phewa Lake and gentle walks with mountain views. Ask your guide for a list of the animals you saw.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu",
+    "the-old-inn-bandipur",
+    "green-park-chitwan"
+  ],
+  "includes": [
+    "2 nights at Hotel Shanker, Kathmandu, 1 night at The Old Inn, Bandipur, 3 nights at Green Park Chitwan",
+    "Meals as listed; full board in Chitwan",
+    "Private car with driver Kathmandu–Bandipur–Chitwan; flight Bharatpur–Kathmandu",
+    "English-speaking family guide in Kathmandu; licensed nature guides in Chitwan",
+    "Entry fees for Swayambhunath, Bhaktapur and Chitwan National Park",
+    "Canoe trip, jeep safari, elephant breeding centre visit, Tharu village and cultural dance"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Meals not listed, drinks and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Child prices are lower than adult prices; we quote each family separately.",
+    "Some activities have age limits: jungle walks are usually for 12 and over.",
+    "Bring hats, sunscreen, insect repellent and long light clothes; Chitwan is hot from March.",
+    "Park entry fees are charged per day; children's fees differ; check current status before you travel.",
+    "Swimming pool hours and child policies vary by hotel; we confirm in advance."
+  ],
+  "faqs": [
+    {
+      "q": "Is Nepal good for a family holiday?",
+      "a": "Yes. Nepal is safe and welcoming for families, and children usually love the animals, temples and boat rides. Kathmandu and Chitwan suit children of six and up best; younger children may find long drives tiring. Our family trips keep drives short, choose hotels with gardens or pools and build in rest time every day."
+    },
+    {
+      "q": "What age is right for a Chitwan safari?",
+      "a": "Children of about six and older get the most from it. Jeep safaris, canoe rides, the elephant breeding centre and Tharu village visits all work for this age. Jungle walks inside the park usually require children to be 12 or older, and some lodges set their own limits. Toddlers can join village walks and riverbank time."
+    },
+    {
+      "q": "How long is the drive from Kathmandu to Chitwan with children?",
+      "a": "About 5 to 7 hours in one go, which is long for small children. That is why we break it with a night in Bandipur, making two shorter drives of 5 to 6 hours and about 2.5 to 3 hours. We fly back from Bharatpur, a 25-minute flight, to save the second long drive."
+    },
+    {
+      "q": "Is Chitwan safe for children?",
+      "a": "Yes, with sensible rules. Children stay with an adult and the guide on every activity, never go near wild animals, and sit still in canoes and jeeps. Rhino and elephants can be dangerous, so walks are kept to safe areas for younger children. Use insect repellent and nets for mosquitoes, especially after dark."
+    },
+    {
+      "q": "What should children pack for Nepal?",
+      "a": "Sunhats, sunscreen, light long sleeves and trousers for the jungle, a warm fleece for Kathmandu and Bandipur mornings in winter, comfortable walking shoes, sandals, insect repellent, a water bottle, a small torch and binoculars. A sketchbook and a list of animals to tick off make the jungle days even better."
+    },
+    {
+      "q": "Will my children see a rhino?",
+      "a": "Very likely. On a three-night stay most families see several one-horned rhino, often from the canoe or the riverbank in Sauraha. Chitwan holds most of Nepal's rhino, about 694 of 752 in the 2021 count. Tigers are much harder to see and should be treated as a rare bonus."
+    },
+    {
+      "q": "Are there swimming pools in Chitwan hotels?",
+      "a": "Several Sauraha hotels have pools, which children love after a hot morning in the jungle, and we can pick one for your family. In Kathmandu, many 4-star hotels have pools too, though some are unheated and cold in winter. We confirm pool opening hours and any age rules before booking."
+    },
+    {
+      "q": "What food can children eat in Nepal?",
+      "a": "Plenty. Hotel menus offer pasta, pizza, pancakes and simple curries, and most children love momos, Nepali dumplings, and dal bhat, rice with lentils. Fruit is good in season. Drink bottled or filtered water only, and avoid raw salads at street stalls. Bring rehydration salts as a precaution."
+    },
+    {
+      "q": "Can we add Pokhara to this family trip?",
+      "a": "Yes, easily. Pokhara is about 5 hours by road from Chitwan, and three nights there add boating on Phewa Lake, the World Peace Pagoda, paragliding for older children and teenagers and gentle hill walks. Fly back to Kathmandu from Pokhara in about 25 minutes."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "slug": "kathmandu-to-bardia",
+    "from": "kathmandu",
+    "to": "bardia",
+    "distance_km": 500,
+    "summary": "Most travellers fly Kathmandu to Nepalgunj in about an hour and drive two hours to Thakurdwara, the village at the gate of Bardia National Park. By road the whole way it is about 500 km and 12–14 hours, best broken in Chitwan or Lumbini.",
+    "options": [
+      {"mode": "Flight + private car", "time": "≈ 1 h flight + 2 h drive", "text": "Several airlines fly Kathmandu to Nepalgunj daily, taking about an hour. From Nepalgunj airport a private car or jeep, usually arranged by your lodge, covers the roughly 95 km to Thakurdwara in about two hours, via Kohalpur, the East-West Highway to Ambassa and a 13 km local road north to the park. Morning flights let you reach Bardia by lunch and start safaris the same afternoon."},
+      {"mode": "Private car", "time": "12–14 h", "text": "Kathmandu to Thakurdwara is about 500 km by road via Mugling, Narayanghat, Butwal and the East-West Highway west through Kohalpur. It is a very long day, so we split it with a night in Chitwan or Lumbini, which turns the drive into part of the trip. Roads are mostly paved but busy with trucks, and the Mugling section can be slow."},
+      {"mode": "Bus", "time": "14–16 h", "text": "Day and night buses run from Kathmandu's Gongabu bus park to Nepalgunj and some go on towards Ambassa or Thakurdwara. Night buses are cheap but tiring, and road safety is a concern. If you take one, choose a reputable company, sit near the front and carry your valuables with you. From Ambassa, local jeeps or lodge pick-ups go on to Thakurdwara."}
+    ],
+    "stops_on_way": ["Mugling on the Trishuli river", "Narayanghat and Chitwan", "Butwal", "Lumbini, the Buddha's birthplace (detour)", "Kohalpur junction"],
+    "tip": "Fly in the morning and drive to Bardia the same day; afternoon flights into Nepalgunj often arrive too late for a comfortable transfer.",
+    "faqs": [
+      {"q": "What is the fastest way from Kathmandu to Bardia?", "a": "Fly Kathmandu to Nepalgunj in about one hour and take a private transfer of about two hours to Thakurdwara. With a morning flight you can be in Bardia by lunchtime. Your lodge can arrange the pick-up to meet your flight."},
+      {"q": "How long is the drive from Kathmandu to Bardia?", "a": "About 500 km and 12–14 hours via Mugling, Narayanghat, Butwal and Kohalpur. It is too long for one comfortable day, so most travellers stop overnight in Chitwan or Lumbini. Traffic and roadworks around Mugling can add time."},
+      {"q": "Is there a direct bus from Kathmandu to Bardia?", "a": "Some buses run from Kathmandu towards Thakurdwara or Ambassa, but most go to Nepalgunj, from where you change. Night buses take 14–16 hours. They are cheap but tiring, and we recommend flying or a private car with a night's stop instead."},
+      {"q": "Can I combine Kathmandu to Bardia with Chitwan and Lumbini?", "a": "Yes, and it is a classic route. Drive from Kathmandu to Chitwan for two or three nights, continue to Lumbini for a night, then drive on to Bardia in about five to six hours. Fly back to Kathmandu from Nepalgunj at the end."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-rara-lake",
+    "from": "kathmandu",
+    "to": "rara-lake",
+    "distance_km": 530,
+    "summary": "There is no direct way to Rara. Fly Kathmandu to Nepalgunj, overnight, then take a small plane to Talcha (Rara Airport) and walk 2–3 hours to the lake. Alternatively fly to Jumla and trek three to four days, or travel two days by rough road via Surkhet to Mugu.",
+    "options": [
+      {"mode": "Flights via Nepalgunj and Talcha", "time": "2 days", "text": "Fly Kathmandu to Nepalgunj in about an hour and stay the night. Next morning take a small-plane flight to Talcha, Rara Airport in Mugu, then walk two to three hours through forest to the lakeshore. Talcha flights are weather-dependent and not daily in every season, so build in spare days. Baggage limits on the small planes are strict, often 10–15 kg."},
+      {"mode": "Fly to Jumla and trek", "time": "4–5 days", "text": "Fly Kathmandu to Nepalgunj and Nepalgunj to Jumla, then trek three to four days to Rara through Khas villages and pine forest, crossing passes over 3,500 m. This is the classic approach and the most rewarding. You need a licensed guide for the national park and usually porters or a mixed teahouse and camping crew."},
+      {"mode": "Road via Surkhet", "time": "2–3 days from Nepalgunj", "text": "Jeeps and buses run from Nepalgunj and Surkhet up the Karnali Highway and on to Gamgadhi, the Mugu headquarters, from where it is a few hours to the lake. The road is long, narrow and partly unpaved, with landslides common in the monsoon. It suits travellers with time who want to see the Karnali hills; check current status before you travel."}
+    ],
+    "stops_on_way": ["Nepalgunj", "Jumla and the Chandannath temple", "Sinja valley (trek variant)", "Gamgadhi, Mugu headquarters (road route)"],
+    "tip": "Always keep at least one spare day at each end of a Rara trip; mountain flights in Karnali are cancelled often by cloud and wind.",
+    "faqs": [
+      {"q": "How long does it take to get from Kathmandu to Rara Lake?", "a": "With flights via Nepalgunj and Talcha, usually two days, as the Talcha flight leaves in the morning. Flying to Jumla and trekking takes four to five days. By road via Surkhet, allow three to four days from Kathmandu. Flight delays can add days to any plan."},
+      {"q": "Are there direct flights to Rara Lake?", "a": "No. You must fly Kathmandu to Nepalgunj first, then take a small plane to Talcha, Rara Airport, in Mugu. Flights to Talcha are weather-dependent and may not run every day; schedules change by season, so check current status before you travel."},
+      {"q": "Can I drive to Rara Lake?", "a": "A rough road reaches Gamgadhi, the Mugu headquarters, via the Karnali Highway, and from there it is a few hours to the lake. It takes two to three days from Nepalgunj on difficult roads. In the monsoon, landslides often close the route."},
+      {"q": "What is the best way to reach Rara for a first visit?", "a": "For most people, fly to Jumla, trek three to four days to Rara, spend two nights at the lake and fly out from Talcha. You see the Karnali hills on foot and avoid backtracking. If time is short, fly in and out of Talcha."}
+    ]
+  },
+  {
+    "slug": "bardia-to-shuklaphanta",
+    "from": "bardia",
+    "to": "shuklaphanta",
+    "distance_km": 180,
+    "summary": "From Thakurdwara in Bardia to Mahendranagar, the gateway to Shuklaphanta, is about 180 km and 4–5 hours west on the East-West Highway, crossing the Karnali at Chisapani and passing Ghodaghodi Tal, a good stop for birds and a meal.",
+    "options": [
+      {"mode": "Private car", "time": "4–5 h", "text": "Drive south from Thakurdwara to Ambassa on the East-West Highway and head west, crossing the Karnali on the cable-stayed bridge at Chisapani. The highway runs through forest and farmland past Ghodaghodi Tal and Attariya to Mahendranagar, about 180 km in total. With a two-hour stop at Ghodaghodi, the drive makes a relaxed day."},
+      {"mode": "Local bus", "time": "6–7 h", "text": "Buses run west along the East-West Highway from Ambassa or Kohalpur to Attariya, Dhangadhi and Mahendranagar. They are cheap and frequent but slow and crowded, with many stops, and you may need to change at Attariya. Take a morning bus and keep your luggage with you."}
+    ],
+    "stops_on_way": ["Chisapani and the Karnali Bridge", "Ghodaghodi Tal", "Attariya junction", "Dhangadhi (short detour)"],
+    "tip": "Leave Bardia after breakfast and stop at Ghodaghodi Tal around midday, so you reach Mahendranagar in time for an afternoon at Rani Tal.",
+    "faqs": [
+      {"q": "How far is Shuklaphanta from Bardia?", "a": "About 180 km by road from Thakurdwara to Mahendranagar, taking 4–5 hours by private car on the East-West Highway. Local buses take 6–7 hours with changes. The park headquarters is on the edge of Mahendranagar."},
+      {"q": "Is it worth stopping at Ghodaghodi Tal on the way?", "a": "Yes. Ghodaghodi Tal, a Ramsar-listed lake system, lies right beside the highway near Sukhad, roughly halfway. A two-hour stop gives a forest walk, waterbirds and often basking mugger crocodiles, and you can eat in Sukhad bazaar."},
+      {"q": "Can I fly between Bardia and Shuklaphanta?", "a": "There are no flights between them; they are too close. The nearest airports are Nepalgunj for Bardia and Dhangadhi for Shuklaphanta, both linked to Kathmandu. Driving along the highway is the only practical option."},
+      {"q": "Is the road from Bardia to Shuklaphanta good?", "a": "It is the East-West Highway, mostly paved and in reasonable condition, though some sections have potholes and roadworks. Watch for buses, trucks and animals on the road. In the monsoon, river crossings can occasionally cause delays; check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "kathmandu-to-simikot",
+    "from": "kathmandu",
+    "to": "simikot",
+    "distance_km": 575,
+    "summary": "Simikot, the headquarters of Humla, is reached by two flights: Kathmandu to Nepalgunj (about 1 hour), then Nepalgunj to Simikot (about 50 minutes) in a small plane. Allow two days and spare time for weather. A rough road now links Simikot south, but the journey is very long.",
+    "options": [
+      {"mode": "Flights via Nepalgunj", "time": "2 days", "text": "Fly Kathmandu to Nepalgunj in about an hour and stay overnight. Next morning, take a Twin Otter or similar small plane to Simikot, about 50 minutes, landing on a 549 m runway at nearly 2,800 m. Flights only operate in good visibility and are often delayed, especially in the monsoon. Baggage limits are tight, often 15 kg or less including hand luggage."},
+      {"mode": "Helicopter charter", "time": "≈ 1–1.5 h from Nepalgunj", "text": "Helicopters can be chartered from Nepalgunj to Simikot, and are widely used in the Kailash season to fly pilgrims on to Hilsa. They are expensive but can fly when fixed-wing schedules are full or cancelled, subject to weather. Charter prices vary with fuel and demand; book through an agency and check current status before you travel."},
+      {"mode": "Road via the Karnali corridor", "time": "Several days", "text": "In July 2025 a Bailey bridge over the Chuwa Khola completed Simikot's link to Nepal's road network along the Karnali corridor from Surkhet. The road is rough, largely unpaved and prone to landslides, and journeys take several days by jeep. It is an adventure in itself, not a practical shortcut; check current status before you travel."}
+    ],
+    "stops_on_way": ["Nepalgunj", "Surkhet (Birendranagar) on the road route", "Humla Karnali gorge"],
+    "tip": "Book the first morning flight from Nepalgunj to Simikot and keep at least two spare days; afternoon winds and cloud often stop flights.",
+    "faqs": [
+      {"q": "How do I get from Kathmandu to Simikot?", "a": "Fly Kathmandu to Nepalgunj, about one hour, then take a morning small-plane flight to Simikot of about 50 minutes. Most travellers stay overnight in Nepalgunj between the two. Helicopter charters and a rough new road are alternatives."},
+      {"q": "Are flights to Simikot reliable?", "a": "They are weather-dependent. Simikot's short mountain runway needs good visibility, so cloud, wind or rain can delay flights for a day or more, especially from June to September. Always keep two spare days and fly early in the morning."},
+      {"q": "What is the baggage limit on the Simikot flight?", "a": "Small planes to Simikot usually allow around 15 kg per person including hand luggage, sometimes less, with fees for excess weight and no guarantee it flies on the same plane. Pack light and confirm the limit with your airline; check current status before you travel."},
+      {"q": "Can I drive from Kathmandu to Simikot?", "a": "Since July 2025 a road technically connects Simikot to the Karnali corridor from Surkhet, but it is rough, mostly unpaved and often blocked. The journey takes several days by jeep. For most visitors, flying via Nepalgunj remains the realistic option."}
+    ]
+  }
+]

@@ -1,0 +1,264 @@
+{
+  "slug": "tengboche-mani-rimdu-festival-trek-11n",
+  "title": "Tengboche Mani Rimdu Festival Trek",
+  "region": "everest-khumbu",
+  "kind": "culture",
+  "nights": 11,
+  "themes": [
+    "food-and-festivals",
+    "spiritual-and-pilgrimage",
+    "treks-and-trails",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 2
+    },
+    {
+      "place": "tengboche",
+      "nights": 3
+    },
+    {
+      "place": "khumjung",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 2
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1550,
+  "best_months": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    0
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 3867,
+  "meta_description": "Mani Rimdu festival trek in 11 nights: empowerment, masked dances and fire puja at Tengboche Monastery, with Namche and Khumjung. From USD 1,550.",
+  "summary": "Time your Everest trek to the Mani Rimdu festival at Tengboche Monastery, held each October or November by the Tibetan calendar. Eleven nights, three of them at Tengboche for the empowerment, the masked dances and the fire ceremony, with Namche Bazaar and Khumjung on the way. Never above 3,900 m.",
+  "intro": [
+    "Mani Rimdu is the great festival of the Sherpa monasteries. The monks spend weeks in private rituals, building a sand mandala and blessing small red pills, the rilbu, then open the courtyard to everyone for three days. At Tengboche, under Ama Dablam and with Everest behind the Nuptse ridge, Sherpa families walk in from every village of the Khumbu in their best chuba robes and turquoise, and the courtyard fills from early morning.",
+    "This trip is built around those three days. We walk up at an easy pace, with two nights in Namche to acclimatise, and then stay three nights at Tengboche so you see the whole sequence: the Wang empowerment, the masked Chham dances and the closing fire puja. Lodges at Tengboche are few and fill quickly at festival time, so we book months ahead and use Deboche, ten minutes below, if needed."
+  ],
+  "story": "The trail up is the familiar one: bridges, pine forest, the long climb to Namche. But in festival week you share it with Sherpa families, children in new clothes, grandmothers with prayer wheels, monks from other monasteries. At Tengboche the courtyard is hung with banners and the giant horns, dungchen, sound from the roof. On the first public day the Rinpoche gives the long-life empowerment and the blessed pills. On the second the dancers come out in painted masks as protector deities, comic figures and the black-hatted ngakpa, and the old story of Buddhism subduing hostile spirits plays out for hours. On the third the monks burn offerings in a fire puja to clear obstacles for the year. Then you walk on to Khumjung, the crowds dispersing up and down the valley.",
+  "highlights": [
+    "Three days of Mani Rimdu at Tengboche Monastery: Wang, Chham dances and fire puja",
+    "Sherpa families from across the Khumbu in festival dress",
+    "Namche Bazaar, Hotel Everest View ridge and the Sherpa Culture Museum",
+    "Khumjung village, its monastery and the school founded by Hillary",
+    "An easy-paced Everest trek that never sleeps above 3,900 m"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at the airport and drive you to Hotel Shanker, a former Rana palace in Lazimpat. In the afternoon your guide explains the trek and the festival: when each day happens, what you can and cannot photograph, and how to behave in the courtyard. Bring warm clothes for sitting outside for hours in the shade. If you would like a chuba or a festival scarf to wear, we can find one in Boudhanath.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Lukla, walk to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 35 min flight · 3–4 h walk · −250 m",
+      "text": "An early flight to Lukla, 2,860 m, on its short uphill runway. In festival season the flights are busy, and in peak months many leave from Ramechhap, which means a drive at 1–2 am. After tea we walk down through Chheplung to Phakding beside the Dudh Koshi, crossing the first suspension bridges. Phakding is lower than Lukla, an easy first night for your body. Your guide sets a slow pace from the first hour, and the evening is for rest.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phakding to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 6 h walk · +830 m",
+      "text": "Through Benkar and Monjo, where Sagarmatha National Park permits are checked, to Jorsalle and the high Hillary bridge. The two-to-three-hour climb to Namche goes steadily through pine. Halfway up, look for the first glimpse of Everest. Namche spreads in tiers across a steep bowl, with lodges, bakeries and shops. In festival weeks you may see monks from Thame and Tengboche passing through town on the way to the celebrations. Ask for an upper-floor room for the morning view.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Acclimatisation day in Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4–5 h day hike · +440 m and back",
+      "text": "Walk up to Syangboche and Hotel Everest View, about 3,880 m, for views of Everest, Lhotse and Ama Dablam, then loop down through Khumjung. In the afternoon visit the Sherpa Culture Museum, where photographs and a traditional house explain Sherpa life and the monastery calendar. Your guide can introduce some of the Sherpa words and greetings you will hear at the festival: tashi delek for hello, and thuche che for thank you.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Namche to Tengboche",
+      "place": "tengboche",
+      "overnight": "Tengboche",
+      "alt_m": 3867,
+      "move": "≈ 5–6 h walk · +430 m",
+      "text": "Along the level path to Kyangjuma with Ama Dablam ahead, down to the river at Phunki Thenga and up through rhododendron and fir to Tengboche. The monastery, founded in 1916 and rebuilt twice, after the 1934 earthquake and the 1989 fire, is already busy with preparations: banners on the walls, thrones in the courtyard and Sherpa families arriving from every direction. Settle into your lodge and walk around the monastery in the evening light.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Mani Rimdu: the Wang empowerment",
+      "place": "tengboche",
+      "overnight": "Tengboche",
+      "alt_m": 3867,
+      "move": "Festival day at Tengboche",
+      "text": "The first public day. In the morning the Rinpoche of Tengboche or a senior lama performs the Wang, a long-life empowerment, for the gathered crowd. People queue to receive a blessing and the small red pills, rilbu, made during the weeks of private ritual before the festival. Sit with the Sherpa families in the courtyard and follow your guide's lead. It is an act of faith, not a show; stay quiet and respectful.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Mani Rimdu: the masked dances",
+      "place": "tengboche",
+      "overnight": "Tengboche",
+      "alt_m": 3867,
+      "move": "Festival day at Tengboche",
+      "text": "The day most visitors come for. Monks in painted masks and brocade robes dance the Chham in the courtyard, accompanied by long horns, drums and cymbals. Each dance tells part of the story of how Guru Rinpoche, Padmasambhava, subdued hostile spirits and established Buddhism. There are wrathful protector deities, black-hatted ngakpa, and comic interludes that make the crowd roar with laughter. Dances run from late morning to afternoon; bring a cushion.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Fire puja, then to Khumjung",
+      "place": "khumjung",
+      "overnight": "Khumjung",
+      "alt_m": 3780,
+      "move": "≈ 4–5 h walk · −87 m net",
+      "text": "On the final day the monks perform the Jinsek, a fire ceremony in which offerings are burned to clear obstacles and negative forces for the coming year, often followed by the destruction of the sand mandala. Timings vary, so your guide checks with the monastery. Later we walk down through the forest to Phunki Thenga, up to Kyangjuma and on to Khumjung, a broad Sherpa village of stone houses and potato fields.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Khumjung to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 6 h walk · −1,170 m",
+      "text": "A morning visit to Khumjung's monastery and the school opened by Edmund Hillary's Himalayan Trust in 1961. Then we walk over the ridge to Namche for tea and down the zigzag to the Hillary bridge, following the Dudh Koshi back through Monjo to Phakding. It is a long descent; trekking poles help your knees. In festival season many Sherpa families are on the move with you, heading home. Lunch is in Namche.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Phakding to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 3–4 h walk · +250 m",
+      "text": "A short morning walk along the river and up through Chheplung to Lukla. The afternoon is free. Watch the planes landing from beside the airport fence, visit the small Lukla gompa or relax in a lodge garden. Tonight is the time to thank your guide and porters, who may have their own festival stories to share. Your guide reconfirms the morning flight and the check-in time. Lukla has hot showers and quiet rooms.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Fly Lukla to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "The morning flight returns you to Kathmandu, or to Ramechhap with a road transfer of about four to five hours. Afternoon free in the city. If you would like to see where many Sherpa families now live, visit Boudhanath in the evening, where Sherpa monasteries ring the great stupa. If cloud delays your Lukla flight, we wait and rebook; keep a spare day before your onward flight if possible. Dinner tonight is your own.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 12,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We drive you to Tribhuvan International Airport about three hours before your international flight. If you want more festivals, October and November in Nepal often also bring Dashain and Tihar, the biggest Hindu festivals of the year, depending on the lunar calendar. We can add a few days in Bhaktapur or Patan to see how the valley celebrates. Leave any rented gear at the hotel reception. Safe travels home, tashi delek.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu"
+  ],
+  "includes": [
+    "Airport transfers and 2 nights at Hotel Shanker, Kathmandu, twin sharing with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "Licensed trekking guide who knows the festival, and one porter for every two trekkers",
+    "9 nights in teahouses, twin rooms, with three meals a day on trek (Tengboche or Deboche at festival time)",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Guide and porter wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking and helicopter evacuation (required)",
+    "Donations to the monastery (customary, at your discretion)",
+    "Hot showers, charging, Wi-Fi and drinking water on trek",
+    "Drinks, snacks and Kathmandu lunches and dinners",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "Mani Rimdu dates follow the Tibetan calendar and change every year; the Tengboche festival usually falls in October or November. We confirm dates with the monastery before you book.",
+    "Since April 2023 foreign trekkers in national parks must walk with a licensed guide; enforcement in Khumbu has varied. Check current status before you travel.",
+    "Photography of the dances is usually allowed from the crowd, but not with flash and never inside the prayer hall; follow the monks' instructions.",
+    "Tengboche has few lodges and they fill at festival time; we book months ahead and may use Deboche, 10 minutes below.",
+    "Mani Rimdu is also held at Chiwong Monastery in Solu in autumn and at Thame in spring; we can plan trips around those too.",
+    "Sitting in the courtyard is cold in the shade; bring a down jacket and a sit mat."
+  ],
+  "faqs": [
+    {
+      "q": "When is Mani Rimdu at Tengboche?",
+      "a": "It follows the Tibetan lunar calendar and usually falls in October or November, in the tenth Tibetan month. Exact dates change every year and are announced by the monastery. We confirm them before you book and set the trek around the three public days. Check current status before you travel."
+    },
+    {
+      "q": "What happens during Mani Rimdu?",
+      "a": "After weeks of private rituals and the making of a sand mandala, the monastery opens for three public days. On the first, the Wang, a lama gives a long-life empowerment and blessed pills. On the second, monks perform the masked Chham dances. On the third, the Jinsek fire puja burns away obstacles for the year."
+    },
+    {
+      "q": "Can tourists attend Mani Rimdu?",
+      "a": "Yes. The public days are open to everyone, and Sherpa families welcome respectful visitors. Sit where your guide suggests, keep your voice low, do not walk across the dance area, and do not use flash. A small donation to the monastery is customary. Dress warmly and modestly, with shoulders and legs covered."
+    },
+    {
+      "q": "How much does the Mani Rimdu trek cost?",
+      "a": "This 11-night trip starts from USD 1,550 per person, twin sharing, with Lukla flights, a licensed guide and porter, permits, nine teahouse nights with meals and two nights at Hotel Shanker. Because Tengboche lodges fill at festival time, early booking matters more than on any other Everest trek. Insurance, visa and tips are extra."
+    },
+    {
+      "q": "How hard is the Mani Rimdu trek?",
+      "a": "It is moderate. Walking days are 3 to 6 hours, and the highest night is at Tengboche, about 3,867 m. With two nights in Namche first, most healthy adults adjust well. The festival days involve sitting for hours rather than walking, so warm clothing matters more than fitness on those days."
+    },
+    {
+      "q": "Can I see Mani Rimdu and go to Everest Base Camp?",
+      "a": "Yes. Many trekkers watch the festival and then continue to Dingboche, Lobuche and base camp, adding about four to five days. The festival days at Tengboche also make good acclimatisation. If you want both, ask for our 16- or 17-night combined plan built around the year's dates."
+    },
+    {
+      "q": "Is Mani Rimdu held anywhere else?",
+      "a": "Yes. Chiwong Monastery near Phaplu in Solu celebrates it in autumn, and Thame Monastery in the Khumbu holds its own Mani Rimdu in spring, usually in May. The rituals are similar, but each has its own atmosphere. Thame was damaged by a flood in 2024, so check current status before you travel."
+    },
+    {
+      "q": "Where do we stay at Tengboche during the festival?",
+      "a": "Tengboche has only a few lodges on the saddle beside the monastery, and they fill quickly at festival time. We book as early as possible; if they are full, we stay at Deboche, about ten minutes' walk below through the forest, which has more choice. Rooms are simple twin teahouse rooms."
+    },
+    {
+      "q": "Can I photograph the masked dances?",
+      "a": "Usually yes, from the crowd and without flash. Do not step into the dance space, use drones or climb onto walls for a better angle. Inside the prayer hall photography is not allowed. If a monk or steward asks you to stop, stop at once. Ask before taking close portraits of Sherpa families."
+    }
+  ]
+}

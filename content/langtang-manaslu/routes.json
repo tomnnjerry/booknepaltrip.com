@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "kathmandu-to-syabrubesi",
+    "from": "kathmandu",
+    "to": "syabrubesi",
+    "distance_km": 120,
+    "summary": "Syabrubesi is about 120 km north of Kathmandu by the Pasang Lhamu Highway through Kakani, Trishuli and Dhunche. In normal years it is a 7 to 9 hour drive. After the flood of 26 August 2026 the lower approach was badly damaged; check current status before you travel.",
+    "options": [
+      {
+        "mode": "Private jeep",
+        "time": "7–9 h in normal conditions",
+        "text": "Our usual choice. A private jeep with a driver who knows the road leaves Kathmandu early, climbs over the Kakani ridge, drops to Bidur (Trishuli Bazaar), follows the Trishuli north to Betrawati and then climbs to Dhunche, the district headquarters at about 2,030 m, before descending to Syabrubesi. The jeep stops when you want, which matters on a road of hairpins and dust. After the August 2026 flood, sections near the river were destroyed and routing may go only as far as Dhunche; check current status before you travel."
+      },
+      {
+        "mode": "Local bus",
+        "time": "8–10 h in normal conditions",
+        "text": "Public buses leave from Machhapokhari and the Ring Road area of Kathmandu early in the morning. They are cheap, crowded and slow, with long tea stops and a roof full of sacks and gas cylinders. Seats near the front are easier on the stomach. Services were suspended or rerouted after the flood of 26 August 2026, so ask your hotel or guide the day before and check current status before you travel."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "≈ 40 min flying",
+        "text": "Charter helicopters can fly from Kathmandu to the Langtang area in well under an hour, weather permitting, and were used heavily for rescue and relief after the flood. For travellers this is an expensive option, priced per aircraft rather than per seat, and it skips the acclimatisation of a gradual road approach. We only suggest it when road access is closed and time is short."
+      }
+    ],
+    "stops_on_way": ["Kakani ridge viewpoint", "Bidur (Trishuli Bazaar)", "Betrawati", "Dhunche, Langtang National Park headquarters"],
+    "tip": "Show your Langtang National Park permit at the Dhunche checkpoint and keep it handy until you leave the park.",
+    "faqs": [
+      {
+        "q": "How long is the drive from Kathmandu to Syabrubesi?",
+        "a": "The road distance is about 120 km. In normal years a private jeep takes 7 to 9 hours and a local bus 8 to 10 hours, because of the climbs, hairpins and broken sections. After the 26 August 2026 flood, which destroyed roads and bridges along the Trishuli and in Syabrubesi itself, times and routes are uncertain; check current status before you travel."
+      },
+      {
+        "q": "Is the road to Syabrubesi open after the 2026 flood?",
+        "a": "In September 2026 trekking operators reported that the road through Trishuli Bazaar to Syabrubesi was cut and that Syabrubesi had serious structural damage, with access possible only by detours such as the higher road to Dhunche. Repairs were under way. This changes week to week, so check current status before you travel; we confirm the route with our drivers before every departure."
+      },
+      {
+        "q": "Do I need a permit on the way to Syabrubesi?",
+        "a": "Yes. The road enters Langtang National Park before Dhunche, and foreign visitors need the park entry permit, checked at the Dhunche post. Since April 2023 foreign trekkers in national parks are also required to go with a licensed guide. Fees and rules change, so check current status before you travel; we arrange permits as part of every Langtang trip."
+      },
+      {
+        "q": "Should I take the bus or a private jeep to Syabrubesi?",
+        "a": "If budget is the main concern, the bus is fine and a real slice of local life. If you get carsick, travel with children, or want to stop at Dhunche and the viewpoints, take a private jeep. A jeep also lets you leave and arrive at sensible hours. In the post-flood period a jeep with an experienced local driver is the safer choice."
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu-to-nuwakot",
+    "from": "kathmandu",
+    "to": "nuwakot",
+    "distance_km": 75,
+    "summary": "Nuwakot is about 75 km north-west of Kathmandu over the Kakani ridge and down to Bidur, then up to the palace hill. Expect 3 to 3.5 hours by private car in normal conditions. The Trishuli valley floor was hit by the August 2026 flood; check current status before you travel.",
+    "options": [
+      {
+        "mode": "Private car",
+        "time": "3–3.5 h",
+        "text": "The easiest way. The road leaves the Kathmandu Valley at Balaju, climbs through pine forest to Kakani at about 2,000 m, where there are views of Ganesh Himal and Langtang on clear mornings, then winds down to Bidur in the Trishuli valley. From Bidur a smaller road climbs about 7 km to the Nuwakot ridge. A private car lets you stop at Kakani and reach Nuwakot for lunch."
+      },
+      {
+        "mode": "Local bus and taxi",
+        "time": "4–5 h",
+        "text": "Buses to Trishuli (Bidur) leave Kathmandu from Machhapokhari through the day. From Bidur, local jeeps or a taxi cover the last stretch up to Nuwakot. This is cheap but slow, and buses are crowded. Trishuli Bazaar lost a bridge and many buildings in the 26 August 2026 flood, so check current status before you travel and ask your guesthouse in Nuwakot about the last leg."
+      }
+    ],
+    "stops_on_way": ["Kakani ridge and its Himalayan viewpoint", "Ranipauwa", "Bidur (Trishuli Bazaar)", "Devighat confluence"],
+    "tip": "Leave Kathmandu by 7 am to clear city traffic and catch the mountain view at Kakani before cloud builds.",
+    "faqs": [
+      {
+        "q": "Can Nuwakot be visited as a day trip from Kathmandu?",
+        "a": "It can, but it is a long day: 6 to 7 hours of driving for 2 to 3 hours on the ridge. We prefer one night, so you see the palace in the soft evening light, walk the village lanes and wake to the Trishuli valley below. If you must do a day trip, leave Kathmandu by 7 am and combine it with Kakani on the way."
+      },
+      {
+        "q": "Was Nuwakot damaged by the 2026 flood?",
+        "a": "The historic palace and old bazaar stand on a ridge high above the river. The flood of 26 August 2026 hit settlements on the Trishuli valley floor, including Trishuli Bazaar in Bidur and Devighat downstream, damaging buildings, a bridge and water supplies. Road access through Bidur may involve detours; check current status before you travel."
+      },
+      {
+        "q": "How far is Nuwakot palace from Bidur?",
+        "a": "The palace hill is about 7 km from Bidur (Trishuli Bazaar) by a winding road, around 20 to 30 minutes by car. You can also walk up by the old trail in about 1.5 to 2 hours, climbing through terraced farmland. Taxis and local jeeps wait in Bidur, but agree the fare before you get in."
+      },
+      {
+        "q": "What is there to see on the way to Nuwakot?",
+        "a": "Kakani, at about 2,000 m on the north rim of the Kathmandu Valley, has a viewpoint over Ganesh Himal and the Langtang range, a memorial to the 1992 Thai Airways crash and a small strawberry-growing area. Further on, the road drops through Ranipauwa to the Trishuli river at Bidur. The confluence at Devighat is a Hindu cremation and pilgrimage site."
+      }
+    ]
+  },
+  {
+    "slug": "syabrubesi-to-kyanjin-gompa",
+    "from": "syabrubesi",
+    "to": "kyanjin-gompa",
+    "distance_km": 32,
+    "summary": "From Syabrubesi (≈ 1,460 m) the Langtang trail climbs about 32 km up the Langtang Khola to Kyanjin Gompa (3,870 m). Most people take 3 days up, with nights at Lama Hotel and Langtang village, and 2 days down.",
+    "options": [
+      {
+        "mode": "On foot",
+        "time": "3 days up · 2 days down",
+        "text": "Day one follows the Langtang Khola through subtropical forest, past bamboo groves and langur monkeys, to Lama Hotel at about 2,470 m (6 to 7 hours). Day two climbs out of the forest past Ghora Tabela into open yak pasture to the rebuilt Langtang village at about 3,430 m (5 to 6 hours). Day three is a short walk of 3 hours past mani walls and chortens to Kyanjin Gompa. Coming down, most people reach Lama Hotel in one day and Syabrubesi the next."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "≈ 20 min one way",
+        "text": "Charter helicopters can land at Kyanjin Gompa, and some trekkers walk up and fly out to save two days. Flying in directly is not wise: you would arrive at 3,870 m without acclimatisation and risk altitude sickness. Prices are per aircraft and depend on fuel and demand. Use it for the return, for emergencies, or when the road below is closed."
+      }
+    ],
+    "stops_on_way": ["Bamboo", "Lama Hotel", "Ghora Tabela", "Langtang village and the 2015 memorial", "Mundu"],
+    "tip": "Sleep at Langtang village before Kyanjin; going straight from Lama Hotel to 3,870 m is a common cause of headaches.",
+    "faqs": [
+      {
+        "q": "How many days does it take to walk from Syabrubesi to Kyanjin Gompa?",
+        "a": "Three days is the standard: Syabrubesi to Lama Hotel, Lama Hotel to Langtang village, Langtang village to Kyanjin Gompa. Fit, acclimatised walkers sometimes do it in two, but the third night at Langtang village helps with the altitude gain of about 2,400 m. Allow at least one full day at Kyanjin for Kyanjin Ri, then two days to walk down."
+      },
+      {
+        "q": "Was the Langtang trail damaged in the August 2026 flood?",
+        "a": "The flood of 26 August 2026 came down the Bhote Koshi and Trishuli, not the Langtang Khola, and trekking operators reported in September that the trail above Syabrubesi was not directly damaged. Syabrubesi itself and the road to it were badly hit, and trekking was suspended for a period. Check current status before you travel; we will not run the trek until access is safe."
+      },
+      {
+        "q": "Do I need a guide for the Langtang Valley trek?",
+        "a": "Under the rule in force since April 2023, foreign trekkers in Nepal's national parks and conservation areas must trek with a licensed guide, and the trail lies inside Langtang National Park. Enforcement has varied, so check current status before you travel. A local guide also knows which lodges have reopened and where the trail has shifted since 2015."
+      },
+      {
+        "q": "How hard is the walk to Kyanjin Gompa?",
+        "a": "It is a moderate trek with no technical sections, but it is steady uphill for three days and ends at 3,870 m, where altitude sickness is possible. Days are 3 to 7 hours of walking on rough stone trail. Anyone who walks regularly can manage it with a sensible pace. Train with long hill walks and drink plenty of water on the way."
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu-to-chisapani",
+    "from": "kathmandu",
+    "to": "chisapani",
+    "distance_km": 25,
+    "summary": "Chisapani (≈ 2,200 m) is the first night of the Helambu trail and the closest trekking village to Kathmandu. Drive about 15 km to Sundarijal, then walk 4 to 5 hours up through Shivapuri Nagarjun National Park. Rough jeep tracks also reach the ridge.",
+    "options": [
+      {
+        "mode": "Car and on foot",
+        "time": "45 min drive + 4–5 h walk",
+        "text": "The classic way. A car or taxi takes you from Thamel through Chabahil and Jorpati to Sundarijal, about 15 km. From the end of the road you climb stone steps beside the big water pipe, cross the reservoir dam, and continue through oak forest to the Tamang village of Mulkharka. The trail then rises to the pass at Borlang Bhanjyang, about 2,400 m, on the rim of the valley, and drops a little to Chisapani."
+      },
+      {
+        "mode": "Jeep",
+        "time": "3–4 h",
+        "text": "Unpaved roads now link Chisapani with the Kathmandu Valley, and four-wheel-drive jeeps can reach the village in dry weather. The ride is bumpy and dusty, and the roads become muddy or blocked in the monsoon. It is useful for families with small children, older travellers or anyone short of time who wants the sunrise view without the climb. Check road status in the rainy season."
+      }
+    ],
+    "stops_on_way": ["Sundarijal reservoir and dam", "Mulkharka", "Shivapuri Nagarjun National Park gate", "Borlang Bhanjyang pass"],
+    "tip": "Pay the Shivapuri Nagarjun National Park fee at the Sundarijal gate and keep the receipt, as it is checked on the trail.",
+    "faqs": [
+      {
+        "q": "How long is the hike from Sundarijal to Chisapani?",
+        "a": "Most people take 4 to 5 hours from Sundarijal (about 1,390 m) to Chisapani (about 2,200 m), with a climb of roughly 1,000 m including the pass at Borlang Bhanjyang. The first hour is a steep staircase beside the water pipe. After Mulkharka the trail eases through oak and rhododendron forest. Start by 9 am to arrive well before dark."
+      },
+      {
+        "q": "Do I need a permit to hike to Chisapani?",
+        "a": "Yes. The trail runs through Shivapuri Nagarjun National Park, which charges an entry fee to foreign visitors, paid at the park gate near Sundarijal. Further on into Helambu you enter Langtang National Park and need its permit too. Since April 2023 foreign trekkers in national parks are required to go with a licensed guide; check current status before you travel."
+      },
+      {
+        "q": "Can I do Chisapani as an overnight trip from Kathmandu?",
+        "a": "Yes, and it is one of the best short walks near the city. Walk up from Sundarijal on day one, sleep in a Chisapani lodge, watch the sunrise over Langtang, Jugal and Ganesh Himal, then walk down to Nagarkot or back to Sundarijal on day two. It suits travellers with two spare days who want a taste of trekking."
+      },
+      {
+        "q": "What is the best season to walk to Chisapani?",
+        "a": "October to December gives the clearest mountain views. March and April are warmer and the rhododendrons are in bloom on the ridge, though haze often hides the high peaks by midday. From June to September the trail is muddy, leeches are common and clouds usually block the view. January nights at Chisapani can drop below freezing."
+      }
+    ]
+  }
+]

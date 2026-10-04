@@ -1,0 +1,342 @@
+{
+  "slug": "dhankuta",
+  "name": "Dhankuta",
+  "name_ne": "धनकुटा",
+  "local_name": "",
+  "region": "eastern-nepal",
+  "kind": "hill town",
+  "wiki": "Dhankuta",
+  "image_query": "Dhankuta bazaar Nepal",
+  "lat": 26.983,
+  "lng": 87.333,
+  "altitude_m": 1192,
+  "tagline": "A tidy ridge town of oranges, tea and Athpahariya Rai villages",
+  "meta_description": "Dhankuta, eastern Nepal: ridge-top hill town at about 1,190 m, known for oranges, tea estates and Kirat culture. How to reach, what to do, where to stay.",
+  "summary": "Dhankuta is the headquarters of Dhankuta district, a hill town on a ridge at about 1,190 m above Dharan, on the Koshi Highway. It was long the administrative centre of eastern Nepal. Come for the old bazaar, winter oranges, tea gardens toward Hile and the culture of the Athpahariya Rai and other Kirat communities.",
+  "intro": [
+    "The road from Dharan climbs in long loops through Bhedetar and over the ridge, then drops to the Tamor river at Mulghat before rising again to Dhankuta. The town stretches along its own ridge, a calm place of schools, offices, bazaar lanes and houses with orange trees in the garden. It is cooler than the plains and far quieter than Dharan, and in the early morning the valleys below are often filled with mist.",
+    "For decades Dhankuta was the seat of government for the whole eastern hills, and it still has the feel of an orderly district town, with its offices, colleges and neat lanes. Its bazaar lanes are lined with old shop-houses, and the hills around are farmed for maize, millet, oranges and, increasingly, tea. Many families here have a member who served in the Gurkha regiments, and their stories are part of the town's history.",
+    "Dhankuta suits travellers who like ordinary hill life more than sights. Spend a night, walk the bazaar in the morning, visit a tea estate or orchard, and continue to Hile and the road north toward Tumlingtar. In winter, come for the oranges; in spring and late autumn, try to coincide with Sakela, when Rai families gather to dance. Either way, the pace is slow, the people friendly and the views wide."
+  ],
+  "story": {
+    "title": "The old capital of the eastern hills",
+    "paras": [
+      "Dhankuta grew as a hill bazaar on the trade routes between the plains and the Koshi hills, where porters rested and traders bought and sold hill produce. It became the headquarters of the district and, under the development regions created in the 1970s, the administrative centre of the whole Eastern Development Region, a role it held until the regions were replaced by provinces after the 2015 constitution. Offices, schools and colleges gave the town a settled, educated character that it still keeps.",
+      "For most of the 20th century the hills around Dhankuta lived on farming, the sale of produce such as tangerines and potatoes, and money sent home by Gurkha soldiers serving in the British and Indian armies. Dhankuta's first five American Peace Corps volunteers arrived in the autumn of 1962 to teach in the town's two high schools, an early sign of its place as an educational centre. Many people in the district still remember the teachers and projects of that era.",
+      "The road from Dharan opened in the early 1980s and brought trucks, buses and new trade, though it also moved much of the commerce down to Dharan. Later, when the development regions were abolished and Biratnagar became the provincial capital, Dhankuta lost more of its official role. Today it is a quiet district town with colleges and offices, and a growing tea industry on the ridges toward Hile, where specialty gardens now sell tea far beyond Nepal."
+    ]
+  },
+  "legend": "",
+  "people": "Dhankuta is home to many communities. The Athpahariya Rai, a Kirat group native to the hills around the town, speak their own Athpare language; the 2011 census found it spoken by about one in seven people in the municipality. Tamang, Magar, Newar, Limbu, Brahmin, Chhetri and other families live here too. Many are farmers, teachers, government workers and traders, and many families have members abroad.",
+  "untold": [
+    {
+      "fact": "A first group of five American Peace Corps volunteers arrived in Dhankuta bazaar in autumn 1962 to teach in the town's two high schools.",
+      "source": "Wikipedia: Dhankuta"
+    },
+    {
+      "fact": "In the 2011 census, about 14.6 percent of Dhankuta municipality's residents spoke Athpare, the language of the Athpahariya Rai, making it the most spoken language after Nepali.",
+      "source": "Wikipedia: Dhankuta"
+    },
+    {
+      "fact": "Before the road age, Dhankuta's hill economy relied on selling tangerines and potatoes and on money sent home by Gorkha soldiers serving in the British and Indian armies.",
+      "source": "Wikipedia: Dhankuta"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "suntala",
+      "script": "सुन्तला",
+      "lang": "Nepali",
+      "meaning": "Orange or tangerine, Dhankuta's winter fruit"
+    },
+    {
+      "word": "bazaar",
+      "script": "बजार",
+      "lang": "Nepali",
+      "meaning": "Market town or main shopping street"
+    },
+    {
+      "word": "lahure",
+      "script": "लाहुरे",
+      "lang": "Nepali",
+      "meaning": "Soldier serving abroad, especially in the Gurkha regiments"
+    }
+  ],
+  "taste": {
+    "name": "Dhankuta suntala",
+    "text": "Small, sweet hill tangerines, picked from about November to January from orchards around the town. In season they are piled on stalls in the bazaar and along the highway. Buy a bag in the morning and eat them in the sun on the ridge."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "1–2"
+    ],
+    [
+      "Nearest airport",
+      "Biratnagar (BIR), ≈ 3 h"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 40 min flight to Biratnagar + ≈ 3 h drive"
+    ],
+    [
+      "Altitude",
+      "≈ 1,190 m"
+    ],
+    [
+      "Known for",
+      "Oranges, tea estates, Athpahariya Rai culture, former regional capital"
+    ]
+  ],
+  "best_months": [
+    2,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "The bazaar on the ridge",
+      "text": "Walk Dhankuta's old bazaar in the morning, with shop-houses, tea stalls, tailors and offices along the ridge. It is calm and easy to explore, and gives a feel for an orderly hill district town."
+    },
+    {
+      "title": "Orange season",
+      "text": "From about November to January the orchards around Dhankuta are heavy with tangerines, and stalls in the bazaar pile them high. A short walk out of town takes you into the orchards."
+    },
+    {
+      "title": "Tea estates toward Hile",
+      "text": "The ridges between Dhankuta and Hile hold tea gardens such as Guranse and Jun Chiyabari, which make specialty orthodox tea at high elevation. Visits need arranging in advance, ideally in spring or autumn during plucking."
+    },
+    {
+      "title": "Sakela in Dhankuta",
+      "text": "Dhankuta is one of the main places for the Sakela dance of the Kirat Rai at Ubhauli in spring and Udhauli in late autumn, with drums, cymbals and large circles of dancers."
+    },
+    {
+      "title": "A stop on the Koshi Highway",
+      "text": "Dhankuta sits on the road from Dharan to Hile, Basantapur and Khandbari. A night here breaks the long drive north toward Tumlingtar and the Makalu region, and adds a calm day of hill-town life."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Dhankuta is roughly 50 km from Dharan on the Koshi Highway, about 1.5–2 hours by car through Bhedetar. From Biratnagar it is about 3 hours. Buses and jeeps run often from Dharan and Itahari. Monsoon landslides can cause delays; check current status before you travel."
+    },
+    {
+      "mode": "Air",
+      "text": "The nearest airport is Biratnagar, with frequent flights of about 40 minutes from Kathmandu. From the airport, drive via Itahari and Dharan up to Dhankuta."
+    }
+  ],
+  "where_to_stay": "Dhankuta has a handful of simple hotels and guesthouses in and near the bazaar, used by officials, students' families and travellers; rooms are clean and basic. Homestays operate in some villages around the town. Hile, 13 km further up the road, has more lodges and cooler nights, and Dharan has the widest choice of hotels. We pick based on your route north or south.",
+  "stays": [],
+  "tips": [
+    "Come in November–January for oranges, or March–April for rhododendrons on the higher ridges toward Hile.",
+    "Tea estate visits around Dhankuta and Hile need advance booking; they are working gardens, not drop-in sights.",
+    "Avoid driving the Dharan–Dhankuta road at night; it is steep, winding and busy with trucks.",
+    "Saturdays and holidays are quiet in town, with many offices and some shops closed.",
+    "If you are here for Sakela, ask locally where the main gatherings are held that year; they move between sites."
+  ],
+  "themes": [
+    "villages-and-homestays",
+    "food-and-festivals",
+    "slow-and-wellness",
+    "heritage-and-temples"
+  ],
+  "nearby": [
+    "hile",
+    "bhedetar",
+    "tumlingtar"
+  ],
+  "experiences": [
+    {
+      "slug": "dhankuta-bazaar-morning-walk",
+      "title": "Morning walk through Dhankuta bazaar",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "7–10 am, Oct–Apr",
+      "image_query": "Dhankuta town street",
+      "wiki": "",
+      "summary": "A slow morning walk along Dhankuta's ridge-top bazaar with a local guide, past shop-houses, tea stalls and temples, telling the story of the town that ran the eastern hills for decades, and the people who live there now.",
+      "body": [
+        "We start early, when shopkeepers are opening up and students in uniform are heading to school. The bazaar follows the ridge, with old shop-houses, newer concrete buildings, small temples and tea stalls. Our guide grew up in the area and points out what has changed and what has not: the old trading houses, the offices that once ran the whole eastern region, and the schools and colleges that still draw students from the surrounding hills.",
+        "Along the way we talk about Dhankuta's role as the administrative centre of eastern Nepal, the Peace Corps teachers of the 1960s, the Gurkha families whose pensions built many houses, and the arrival of the road from Dharan. We stop at shops selling local produce, such as oranges in season, tea from nearby gardens and hill vegetables, and our guide introduces you to people he knows along the way.",
+        "We stop for tea and a snack at a local stall and finish at a viewpoint on the ridge, with the hills of the Tamor and Arun watersheds folding away to the north. On clear winter mornings, distant snow peaks may show above the ridges. The walk takes about two hours at an easy pace, and leaves the rest of the day free for an orchard walk, a tea garden visit or the short drive to Hile."
+      ],
+      "good_for": [
+        "first-timers",
+        "seniors",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is Dhankuta worth a stop?",
+          "a": "Yes, for travellers who enjoy calm hill towns rather than big sights. Dhankuta has an old bazaar, orange orchards, nearby tea estates and Kirat culture, and it breaks the drive between Dharan and Hile or Tumlingtar."
+        },
+        {
+          "q": "Is the bazaar walk suitable for older travellers?",
+          "a": "Yes. The walk follows the ridge with some gentle slopes and steps, at about 1,190 m, so altitude is not a concern. We go at a slow pace with tea stops and benches along the way, and the car can meet you at the end."
+        },
+        {
+          "q": "What is the best time of day to visit Dhankuta bazaar?",
+          "a": "Early morning, from about 7 to 10 am, when shops open and the town is busy but cool, and the light is soft. Afternoons are quieter and sometimes misty. On Saturdays many offices and some shops are closed, so weekdays are livelier."
+        }
+      ]
+    },
+    {
+      "slug": "dhankuta-orange-orchard-walk",
+      "title": "Orange orchards around Dhankuta",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Nov–Jan",
+      "image_query": "Nepal orange orchard hills",
+      "wiki": "",
+      "summary": "A winter walk through farm villages and tangerine orchards around Dhankuta, meeting growers, tasting fruit straight from the tree and learning how hill families sell their harvest to the markets of the plains.",
+      "body": [
+        "From about November to January, the hills around Dhankuta turn orange. Families grow tangerines on terraces around their houses, often alongside maize, millet and vegetables, and the harvest is picked by hand, packed in bamboo baskets and sent down the road to Dharan, Biratnagar and beyond. Traders drive up from the plains to buy, and in good years the roadside is lined with crates waiting for trucks.",
+        "We walk out of town with our guide on farm paths to an orchard where a family is picking. They show you how the trees are pruned and tended, explain how prices are set by traders and how weather and disease can change a year's income, and share fruit straight from the tree. Most growers also farm maize, millet and vegetables, and some have now planted tea on part of their land.",
+        "It is an easy, sunny walk on the best winter days, when the air is clear and the light is golden. We stop for tea at a farmhouse if invited and walk back to town by a different path through the terraces. You come back with a bag of fruit, bought directly from the family at a fair price, and a better sense of how hill farms here earn their living."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "When is orange season in Dhankuta?",
+          "a": "Tangerines are usually harvested from about November to January, depending on altitude and the year, with lower orchards ripening first. December is often the peak. Outside these months you will see the trees but not the harvest."
+        },
+        {
+          "q": "Can I buy oranges from the farmers?",
+          "a": "Yes, families often sell fruit directly, and the bazaar has stalls full of oranges in season. Prices are low compared with Kathmandu, and the fruit is fresher. Our guide can help with a fair price if you buy in bulk."
+        },
+        {
+          "q": "How long is the orchard walk?",
+          "a": "About 3 hours return with stops, on farm paths with some ups and downs through the terraces. Wear comfortable shoes and bring sun protection and water; winter days are bright though mornings can be cool."
+        }
+      ]
+    },
+    {
+      "slug": "dhankuta-hill-tea-estate",
+      "title": "High tea garden visit between Dhankuta and Hile",
+      "kind": "food",
+      "duration": "Half day",
+      "best_time": "Mar–May and Oct–Nov",
+      "image_query": "Jun Chiyabari tea garden Hile",
+      "wiki": "",
+      "summary": "A booked visit to a specialty tea garden on the ridges between Dhankuta and Hile, where orthodox tea is grown at high elevation, with a walk in the rows, a look at processing and a tasting.",
+      "body": [
+        "Dhankuta district is a newer tea area than Ilam, but some of Nepal's most respected specialty teas now come from gardens on the ridges between Dhankuta and Hile, including Guranse and Jun Chiyabari. They grow orthodox tea at high elevation, in cool air and mist, and process it in small batches. Their teas are sold in specialist shops abroad as well as in Nepal, and the gardens are a source of local jobs.",
+        "We arrange the visit in advance. Depending on the season and the garden, you walk the rows with a staff member, see leaf being withered, rolled and dried, and taste several teas side by side, from light spring teas to darker, fuller autumn ones. You learn how altitude, weather and processing change the taste. The best times are spring and autumn, during plucking, when the factory is working.",
+        "Visits are at the gardens' discretion and not always possible, so we confirm before your trip and plan an alternative, such as a walk among smallholder tea plots, if needed. When it works, it is one of the best tea experiences in Nepal. You can usually buy tea directly from the garden, and it combines well with a night in Hile, just up the road."
+      ],
+      "good_for": [
+        "couples",
+        "seniors",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I visit tea estates near Dhankuta?",
+          "a": "Some estates near Dhankuta and Hile accept visitors by arrangement, but they are working gardens and not open to drop-in visits. We contact them in advance and confirm what is possible for your dates, including tastings and factory visits."
+        },
+        {
+          "q": "How is Dhankuta tea different from Ilam tea?",
+          "a": "Both make orthodox tea, but several Dhankuta and Hile gardens grow at higher elevation and focus on small-batch specialty teas. Ilam has the longer history and a much larger area under tea. Taste both and decide."
+        },
+        {
+          "q": "When is plucking season near Hile?",
+          "a": "Plucking generally runs from spring to late autumn, with the first flush from about late March and autumn teas in October and November. In winter the bushes rest and are pruned, and factories are usually quiet."
+        }
+      ]
+    },
+    {
+      "slug": "dhankuta-sakela-circle-dance",
+      "title": "Sakela circle dance with Kirat Rai families",
+      "kind": "heritage",
+      "duration": "Half day",
+      "best_time": "Ubhauli (Apr–May) and Udhauli (Nov–Dec) full moons",
+      "image_query": "Sakela dance Kirat Rai",
+      "wiki": "Sakela",
+      "summary": "Join a community Sakela gathering in or near Dhankuta at the Ubhauli or Udhauli full moon, when Kirat Rai families dance in large circles to drums and cymbals, giving thanks to nature and ancestors.",
+      "body": [
+        "Sakela is the main festival of the Kirat Rai, held twice a year: Ubhauli at the Baisakh full moon in spring, marking the move upward and the start of planting, and Udhauli at the Mangsir full moon in late autumn, after the harvest. Dhankuta is one of the main places it is celebrated. Gatherings are held at community grounds and sacred sites around the district, and families travel back from towns to join.",
+        "At a Sakela gathering, families in traditional dress dance in a large circle around a shrine or ritual site, following the beat of the dhol drum and cymbals. Each step, called a sili, imitates the movements of birds, animals or farm work such as sowing and reaping. A Rai priest performs rituals before the dancing, with offerings to nature and ancestors. The circle grows through the afternoon as more people join.",
+        "Visitors are usually welcome to watch, and sometimes to join the outer circle when invited. Our guide explains the meaning of the steps and the rituals, and makes sure we behave as guests: dressing modestly, keeping out of the centre, and asking before taking photographs. Food stalls and family picnics surround the dance, and you may be offered snacks or millet beer. It is a joyful, community day."
+      ],
+      "good_for": [
+        "photographers",
+        "families",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "When is Sakela celebrated?",
+          "a": "Sakela is celebrated twice a year: Ubhauli at the Baisakh full moon (usually late April or May) and Udhauli at the Mangsir full moon (usually late November or December). Exact dates follow the lunar calendar; check current dates before you travel."
+        },
+        {
+          "q": "Can tourists join the Sakela dance?",
+          "a": "Visitors are usually welcome to watch, and the circle is sometimes opened to guests when the dancers invite them. Follow the lead of the community, dress modestly, and ask before photographing rituals or individuals, especially the priest."
+        },
+        {
+          "q": "What does Sakela celebrate?",
+          "a": "Sakela gives thanks to nature and ancestors for the farming year. Ubhauli in spring marks the move to higher ground and the start of planting; Udhauli in late autumn marks the harvest and the move down. The festival is described in the Mundhum."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Dhankuta?",
+      "a": "Dhankuta is a hill town and district headquarters in Koshi Province, eastern Nepal, at about 1,190 m on the Koshi Highway north of Dharan. Hile lies about 13 km further north along the road, and Biratnagar airport is about 3 hours away."
+    },
+    {
+      "q": "How do I get to Dhankuta from Kathmandu?",
+      "a": "Fly to Biratnagar (about 40 minutes), then drive about 3 hours via Itahari and Dharan. By road from Kathmandu it is a long day or two. Buses run from Kathmandu to Dharan and on to Dhankuta. Check current status of roads before you travel."
+    },
+    {
+      "q": "What is Dhankuta known for?",
+      "a": "Dhankuta is known for its winter oranges, its calm ridge-top bazaar, tea gardens toward Hile, Kirat culture including the Athpahariya Rai and the Sakela festival, and its past as the administrative centre of eastern Nepal."
+    },
+    {
+      "q": "When is the best time to visit Dhankuta?",
+      "a": "October to April is dry and pleasant, with oranges from November to January and rhododendrons on higher ridges in March and April. June to September is monsoon, with rain, mist and road delays on the Koshi Highway."
+    },
+    {
+      "q": "How far is Dhankuta from Dharan?",
+      "a": "About 50 km, roughly 1.5–2 hours by car up the Koshi Highway through Bhedetar and down across the Tamor river at Mulghat. Buses and shared jeeps run often between the two towns during the day."
+    },
+    {
+      "q": "Where should I stay in Dhankuta?",
+      "a": "Dhankuta has simple hotels and guesthouses in and near the bazaar. For more lodges and cooler air, stay in Hile, 13 km north; for the widest choice, stay in Dharan and visit on a day trip."
+    },
+    {
+      "q": "Who are the Athpahariya Rai?",
+      "a": "The Athpahariya are a Kirat Rai group native to the hills around Dhankuta, with their own Athpare language. In the 2011 census, about one in seven people in Dhankuta municipality spoke it. Like other Rai, they celebrate Sakela."
+    },
+    {
+      "q": "Can I see Sakela in Dhankuta?",
+      "a": "Yes, if you visit around the Baisakh full moon (Ubhauli, usually late April or May) or the Mangsir full moon (Udhauli, usually late November or December). Gatherings are held in several places around the district; we find out the year's sites in advance."
+    },
+    {
+      "q": "How many days do I need in Dhankuta?",
+      "a": "One night is enough for the bazaar and a walk in the orchards or a tea garden. Two nights, or one in Dhankuta and one in Hile, give a relaxed stop on the way north to Tumlingtar or south to Dharan."
+    }
+  ]
+}

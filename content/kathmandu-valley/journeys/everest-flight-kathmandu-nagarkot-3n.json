@@ -1,0 +1,162 @@
+{
+  "slug": "everest-flight-kathmandu-nagarkot-3n",
+  "title": "Everest by air, Kathmandu and Nagarkot",
+  "region": "kathmandu-valley",
+  "kind": "tour",
+  "nights": 3,
+  "themes": [
+    "photography",
+    "heritage-and-temples",
+    "high-altitude"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "nagarkot",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 750,
+  "best_months": [
+    1,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 2175,
+  "meta_description": "3 nights in Nepal without trekking: a dawn mountain flight past Everest, the temples of Kathmandu, Patan and Bhaktapur, and sunrise from Nagarkot.",
+  "summary": "Three nights to see Everest without walking to it. A one-hour dawn mountain flight runs along the Himalaya to the Everest massif and back. Around it: Kathmandu Durbar Square, Pashupatinath, Boudhanath, Patan and Bhaktapur, and a night on the Nagarkot ridge for sunset and sunrise over the nearer ranges.",
+  "intro": [
+    "Not everyone has two weeks and strong knees for the trek to Everest Base Camp. The mountain flight from Kathmandu is the short answer: about an hour in the air at dawn, flying east along the Himalaya past Langtang, Gaurishankar and Cho Oyu to Everest, Lhotse and Makalu, with every passenger at a window and a turn at the cockpit door. It is the easiest way for older travellers, families with small children and anyone short of time to see the highest mountain on earth with their own eyes.",
+    "We wrap the flight in three nights that show the best of the Kathmandu Valley. Two nights at Hotel Yak & Yeti on Durbar Marg cover the old city, the great stupa at Boudha and Pashupatinath. The third night is at Club Himalaya on the Nagarkot ridge, about 2,175 m, for a slow evening and a sunrise of your own over the Langtang and Jugal ranges. If the weather closes in on your flight morning, the plan has two spare dawns to try again."
+  ],
+  "story": "The trip begins on the ground, in the brick and timber squares of old Kathmandu, where the city's kings built temples to gods that came from India and Tibet. Next morning, before the city wakes, you climb into a small plane and fly towards the highest ground on earth. The valley drops away, the foothills fold into green ridges and then the snow begins: a white wall that runs east for a hundred kilometres to the dark pyramid of Everest, with a plume of cloud blowing off its summit. You land in time for breakfast and spend the day among pilgrims at Pashupatinath and Boudha. The last afternoon takes you through Patan and Bhaktapur up to Nagarkot, where you watch the same mountains turn pink at dawn from far away.",
+  "highlights": [
+    "The one-hour dawn mountain flight to Everest, with a window seat",
+    "Kathmandu Durbar Square and the old market lanes of Asan",
+    "Pashupatinath and the evening kora at Boudhanath",
+    "Patan's Durbar Square and the Nyatapola temple in Bhaktapur",
+    "Sunset and sunrise from the Nagarkot ridge"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive, the old city by afternoon light",
+      "place": "kathmandu",
+      "overnight": "Hotel Yak & Yeti, Durbar Marg",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 30 min from the airport",
+      "text": "We meet you at the airport and drive to Hotel Yak & Yeti on Durbar Marg, part of which occupies a wing of the old Lal Durbar palace. After lunch your guide takes you on foot through Asan's market crossroads and Indra Chowk to Kathmandu Durbar Square. See the Taleju temple, Kal Bhairav, the rebuilt Kasthamandap and the courtyard of the Kumari, the living goddess. Stay for the late light on the pagoda roofs, then return to the hotel for an early night, as the mountain flight leaves at dawn.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Everest flight at dawn, Pashupati and Boudha",
+      "place": "boudhanath",
+      "overnight": "Hotel Yak & Yeti, Durbar Marg",
+      "alt_m": 1400,
+      "move": "≈ 1 h flight; ≈ 15 km of city driving",
+      "text": "Leave the hotel around 5.30 am for the domestic terminal. The mountain flight lasts about an hour, flying east along the Himalaya past Langtang, Dorje Lakpa, Gaurishankar and Cho Oyu to Everest, Lhotse and Makalu, then turning back so both sides of the plane see the range. After breakfast at the hotel, visit Pashupatinath, Nepal's holiest Shiva temple, and watch the riverside rites from the east bank. In the late afternoon walk the kora at Boudhanath among Tibetan families, and light butter lamps before dinner.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Patan, Bhaktapur and up to Nagarkot",
+      "place": "nagarkot",
+      "overnight": "Club Himalaya, Nagarkot",
+      "alt_m": 2175,
+      "move": "≈ 6 km to Patan; ≈ 18 km to Bhaktapur; ≈ 20 km · 1 h to Nagarkot",
+      "text": "Check out and drive to Patan for its Durbar Square, the stone Krishna Mandir and the Golden Temple. Continue east to Bhaktapur for lunch and an afternoon among its squares: the five-roofed Nyatapola, the 55-window palace and the potters drying pots in the sun. Eat a bowl of juju dhau before driving up the winding road to Nagarkot. Check in to Club Himalaya, built on the ridge facing north, in time to watch the light fade on the Himalaya from the terrace.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Nagarkot sunrise, Changu Narayan, fly",
+      "place": "changunarayan",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 35 km · 1.5 h with a stop",
+      "text": "Wake before dawn for sunrise over the Langtang, Jugal and Gaurishankar ranges, which turn from grey to pink to white in about twenty minutes. On very clear mornings you can pick out the small distant summit of Everest far to the east, which you flew past two days earlier. After breakfast drive down, stopping at Changu Narayan, the valley's oldest temple, with its inscription from 464 CE. Continue to Tribhuvan International Airport for your flight or to a Kathmandu hotel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-yak-and-yeti",
+    "club-himalaya-nagarkot"
+  ],
+  "includes": [
+    "2 nights at Hotel Yak & Yeti and 1 night at Club Himalaya, Nagarkot, twin sharing",
+    "Breakfast daily and dinner at Nagarkot",
+    "Everest mountain flight ticket and airport tax",
+    "Licensed English-speaking guide for all sightseeing",
+    "Private car for airport transfers, sightseeing and Nagarkot",
+    "Entry fees at all heritage sites visited"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee",
+    "Lunches and dinners not listed",
+    "Tips for guide and driver",
+    "Travel insurance",
+    "Helicopter upgrades to Everest Base Camp"
+  ],
+  "good_to_know": [
+    "Mountain flights depend on clear weather; if the flight is cancelled we rebook it for day 3 or 4 at dawn, or refund the flight cost.",
+    "Visibility is best from October to December and in February–March; flights rarely operate well from June to August.",
+    "Domestic airlines such as Buddha Air run the mountain flights; prices change, so check current status before you travel.",
+    "Wear layers on the flight; the cabin is warm but the domestic terminal at 5.30 am is cold in winter.",
+    "Nagarkot nights from December to February can approach 0 °C."
+  ],
+  "faqs": [
+    {
+      "q": "What is the Everest mountain flight from Kathmandu?",
+      "a": "It is a sightseeing flight of about one hour that leaves Kathmandu at dawn and flies east along the Himalaya to the Everest region, without landing, then returns. Passengers see peaks such as Langtang, Gaurishankar, Cho Oyu, Everest, Lhotse and Makalu. Each passenger has a window seat and is usually invited to look from the cockpit. Several domestic airlines operate it."
+    },
+    {
+      "q": "How much does the Everest mountain flight cost?",
+      "a": "Prices for foreign visitors are usually around USD 230–260 per person, including taxes, depending on airline and season. Indian and Nepali nationals pay different fares. The flight is included in this journey's price. Fares change, so check current status before you travel. Helicopter tours that land near Everest cost much more, often USD 1,000 or more per person."
+    },
+    {
+      "q": "Is the Everest flight worth it?",
+      "a": "If you are not trekking in the Everest region, yes. In about an hour you see the main Himalayan range from close range, including the summit of Everest, which you cannot see properly from Kathmandu. It is weather-dependent, so plan a spare morning. Photographers should note that window glass can cause some reflection, so shoot close to the window."
+    },
+    {
+      "q": "What happens if the mountain flight is cancelled?",
+      "a": "Flights are cancelled when cloud covers the range, most often in monsoon and sometimes in winter fog. Airlines rebook you on the next available morning or refund the fare. This journey has two backup mornings, days 3 and 4, before you leave. If none works, we refund the flight cost. We watch the forecast and decide each evening."
+    },
+    {
+      "q": "Can I see Everest from Nagarkot?",
+      "a": "On very clear mornings, usually in autumn and winter, a small summit far to the east can be identified as Everest, but it is tiny. Nagarkot's real view is of the nearer ranges: Langtang, Jugal, Dorje Lakpa and Gaurishankar, which fill the northern horizon. For a close view of Everest, the mountain flight is the easy way."
+    },
+    {
+      "q": "Is this trip suitable for older travellers?",
+      "a": "Yes. There is no trekking and no high altitude on the ground: Kathmandu is about 1,400 m and Nagarkot about 2,175 m. The mountain flight is pressurised. Walking is on paved squares and temple steps, and the car can get close to most sites. We can slow the pace and add rests as needed."
+    },
+    {
+      "q": "Which side of the plane is better on the Everest flight?",
+      "a": "It does not matter much. Mountain flights fly east with the Himalaya on one side and return with them on the other, so every passenger gets a view. Seats are all window seats, and the cabin crew usually invite each passenger to the cockpit for a few moments to see straight ahead."
+    },
+    {
+      "q": "What time does the Everest flight leave?",
+      "a": "Mountain flights usually depart between about 6 am and 7.30 am, when the air is clearest. You need to be at the domestic terminal about an hour before. We collect you from your hotel around 5.30 am. Several flights may leave in sequence, and timings move with weather, so keep the whole morning free."
+    },
+    {
+      "q": "Can I add a night in Pokhara to this trip?",
+      "a": "Yes. A popular extension adds two nights in Pokhara, a 25-minute flight from Kathmandu, for Phewa Lake and the dawn view of the Annapurnas from Sarangkot. This makes a five-night trip with two very different Himalayan views. We can also add Chitwan for wildlife."
+    }
+  ]
+}

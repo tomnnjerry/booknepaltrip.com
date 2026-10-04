@@ -1,0 +1,338 @@
+{
+  "slug": "parsa-national-park",
+  "name": "Parsa National Park",
+  "name_ne": "पर्सा राष्ट्रिय निकुञ्ज",
+  "local_name": "",
+  "region": "chitwan-terai",
+  "kind": "national park",
+  "wiki": "Parsa National Park",
+  "image_query": "Parsa National Park sal forest Nepal",
+  "lat": 27.3,
+  "lng": 84.9,
+  "altitude_m": 450,
+  "tagline": "Sal forest and Churia hills on Chitwan's eastern flank",
+  "meta_description": "Parsa National Park: 627 km² of sal forest and Churia hills east of Chitwan, with a growing tiger population, gaur, wild elephants and very few visitors.",
+  "summary": "Parsa National Park protects about 627 square kilometres of sal forest and Churia hills directly east of Chitwan, in Parsa, Bara and Makwanpur districts. Once a hunting reserve, it became a national park in 2017. Tigers have increased sharply, gaur and wild elephants roam, and visitors are few. Best for experienced wildlife travellers, November to April.",
+  "intro": [
+    "East of Chitwan National Park, the forest does not stop at the boundary. It continues into Parsa National Park, a long band of sal woodland climbing from about 435 metres into the Churia hills, the youngest and most fragile range of the Himalaya. The East Rapti and the hills form its northern edge, and the Hetauda–Birgunj highway runs along the east. Few roads cross it, and much of it is rarely visited.",
+    "Parsa was declared a wildlife reserve in 1984 and upgraded to a national park in 2017. Together with Chitwan and India's Valmiki National Park it forms one of the largest blocks of tiger habitat in South Asia. Camera traps recorded only four adult tigers in 2008 and 19 in 2017, a rise that shows how well the forest recovers when it is protected. That recovery is one of Nepal's quieter conservation successes.",
+    "This is not a place for easy safaris. Sal forest covers about 90 per cent of the park, there is less open grassland than Chitwan, and visitor facilities are basic. But for travellers who have seen Chitwan and want somewhere wilder and emptier, a day or two with a good naturalist in Parsa is rewarding. Plan at least one full day, travel with a specialist operator, and come between November and April, when tracks are dry and open."
+  ],
+  "story": {
+    "title": "From private hunting ground to tiger refuge",
+    "paras": [
+      "Before it was protected, the forest of Parsa was a private game reserve and hunting ground for the elite of Nepal and British India. The Churia hills and their sal forests were full of tigers, elephants and gaur, and hunting parties came in winter as they did in Chitwan. Villages along its edges grazed cattle and collected wood and grass, and the forest stayed thick largely because few people lived inside it.",
+      "In 1984 the government set up Parsa Wildlife Reserve, mainly to protect wild Asian elephants and their habitat. A buffer zone followed in 2005, and in 2015 the protected area was enlarged. In 2017 it was upgraded to a national park, recognising its role as the eastern half of the Chitwan–Parsa forest block. The park headquarters is at Aadhabhar, on the highway between Hetauda and Birgunj.",
+      "Protection has paid off. Tiger numbers rose from about four adults in 2008 to 19 detected in 2017, and gaur herds use the hills. A few rhinos have moved in from Chitwan. Challenges remain: the park's edges meet busy highways, industry around Birgunj and farmland where elephants raid crops. Park managers work with buffer zone communities on fences, compensation and community forests to reduce conflict, though the work is far from finished."
+    ]
+  },
+  "legend": "",
+  "people": "Villages around Parsa are home to Tharu families, Madhesi communities who speak Bhojpuri and Maithili, and hill groups such as Tamang and Magar who settled in Makwanpur and the Churia foothills. People farm rice, wheat and sugarcane, and many work in Birgunj, Simara and Hetauda's factories. Buffer zone user groups manage community forests around the park.",
+  "untold": [
+    {
+      "fact": "Parsa covers about 627 square kilometres and ranges from about 435 to 950 metres in the Siwalik (Churia) hills; sal forest makes up about 90 per cent of the park.",
+      "source": "Wikipedia: Parsa National Park"
+    },
+    {
+      "fact": "Camera trapping in early 2017 detected 19 Bengal tigers in Parsa, compared with an estimated four resident adults in 2008, showing a sharp recovery.",
+      "source": "Wikipedia: Parsa National Park"
+    },
+    {
+      "fact": "Parsa was a wildlife reserve from 1984 and became a national park in 2017. Together with Chitwan and India's Valmiki it forms a protected forest block of about 2,075 square kilometres.",
+      "source": "Wikipedia: Parsa National Park; Wikipedia: Chitwan National Park"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "sal",
+      "script": "साल",
+      "lang": "Nepali",
+      "meaning": "Shorea robusta, the tall hardwood tree that dominates Terai forests"
+    },
+    {
+      "word": "jangali hatti",
+      "script": "जङ्गली हात्ती",
+      "lang": "Nepali",
+      "meaning": "Wild elephant"
+    },
+    {
+      "word": "bagh",
+      "script": "बाघ",
+      "lang": "Nepali",
+      "meaning": "Tiger"
+    }
+  ],
+  "taste": {
+    "name": "Litti chokha",
+    "text": "Litti are balls of wheat dough stuffed with spiced roasted gram flour, baked over coals, then dipped in ghee and served with chokha, a smoky mash of aubergine, potato and tomato. It is everyday Bhojpuri food in Birgunj, Simara and the villages around Parsa."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Nov – Apr"
+    ],
+    [
+      "Days we suggest",
+      "1 – 2"
+    ],
+    [
+      "Nearest airport",
+      "Simara (SIF)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 25 min by air to Simara; 5–7 h by road"
+    ],
+    [
+      "Altitude",
+      "435 – 950 m"
+    ],
+    [
+      "Known for",
+      "Sal forest, tigers, gaur, wild elephants"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "Empty forest tracks",
+      "text": "Parsa sees only a small fraction of Chitwan's visitors. Jeep drives through sal forest and along dry riverbeds often pass without meeting another vehicle, which makes every sighting feel earned. Bring patience and binoculars."
+    },
+    {
+      "title": "Tiger recovery country",
+      "text": "Tiger numbers here have risen sharply since 2008. You are unlikely to see one, but fresh pugmarks on sandy tracks are common, and guides read them closely. Your guide will show you how to judge how fresh they are."
+    },
+    {
+      "title": "Gaur in the Churia hills",
+      "text": "Herds of gaur, the world's largest wild cattle, live in the hills and move between Parsa and Chitwan. Spring, when new grass appears after fires, is the best time to see them. Keep a safe distance."
+    },
+    {
+      "title": "Wild elephants",
+      "text": "Parsa was first protected for its wild Asian elephants, which roam between the park, Chitwan and India. Signs of their passage, broken branches and dung, are everywhere. Your guide keeps well back from any herd."
+    },
+    {
+      "title": "Birds of the sal forest",
+      "text": "The sal forest holds hornbills, woodpeckers, minivets, drongos and many raptors. Parsa is an Important Bird Area, and early mornings are full of calls. Early mornings are best for calls and activity."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Air",
+      "text": "Fly Kathmandu to Simara (SIF), about 20 to 25 minutes, then drive to the park headquarters at Aadhabhar on the highway. Check current status before you travel, as schedules change."
+    },
+    {
+      "mode": "Road",
+      "text": "From Kathmandu, the shortest route runs over the hills via Hetauda, about 5 to 6 hours; the longer route via Mugling and Narayangadh takes 6 to 7 hours. From Sauraha, drive east via Hetauda, about 3 to 4 hours."
+    }
+  ],
+  "where_to_stay": "Accommodation near Parsa is limited. A few simple lodges and camps operate near the park edges and the headquarters at Aadhabhar; standards vary and some open only in season. Hetauda, Simara and Birgunj have business hotels within an hour or two. Many travellers visit Parsa on a day trip from Hetauda or as an extension from Chitwan with a specialist naturalist who arranges camping or lodge stays.",
+  "stays": [],
+  "tips": [
+    "Go with an experienced naturalist; sightings in dense sal forest depend on reading signs and calls.",
+    "Bring all your own supplies for long days; there are few shops or cafes inside or near the park.",
+    "Check current park entry fees and rules at the headquarters or with your operator before you travel.",
+    "Avoid the monsoon; tracks become impassable and leeches are everywhere.",
+    "Combine Parsa with Simraungadh and Birgunj for a trip into the Bhojpuri-speaking Terai."
+  ],
+  "themes": [
+    "wildlife-and-jungle",
+    "photography",
+    "treks-and-trails"
+  ],
+  "nearby": [
+    "simraungadh",
+    "sauraha",
+    "kasara"
+  ],
+  "experiences": [
+    {
+      "slug": "parsa-sal-forest-jeep-safari",
+      "title": "Jeep safari through Parsa's sal forest",
+      "kind": "wildlife",
+      "duration": "4–6 hours",
+      "best_time": "Dawn, Feb–Apr",
+      "image_query": "Parsa National Park jeep track forest",
+      "wiki": "Parsa National Park",
+      "summary": "A long morning on forest tracks and dry riverbeds in Parsa with a naturalist, searching for tigers, gaur, wild elephants, sloth bears and deer in a forest that sees very few visitors. Patience is essential.",
+      "body": [
+        "Drives start at first light from the headquarters area. Tracks lead into tall sal forest, where the canopy closes overhead, and along dry stream beds that cut into the Churia hills. Sandy riverbeds are the best places to read tracks: tigers, leopards, elephants and bears all use them as paths. The forest is dense, so sightings are often brief.",
+        "Expect spotted deer, barking deer, wild boar and langurs; with patience, gaur, sambar and sloth bear. Tigers are present in good numbers but very hard to see in dense forest, and a fresh set of pugmarks is a more realistic hope. Wild elephants pass through but are unpredictable; your guide keeps a safe distance. Expect long quiet stretches between sightings.",
+        "Because the park is quiet, you can stop and listen for alarm calls, which often give away a predator. Bring water, snacks, binoculars and a scarf for dust. Arrange your jeep and guide in advance through a specialist operator. A full morning lasts four to six hours. Dust is heavy in the dry season, so protect cameras and wear a scarf."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Can I see tigers in Parsa National Park?",
+          "a": "Parsa has a growing tiger population, with 19 detected by camera traps in 2017, but sightings are rare because the forest is dense. Fresh tracks are common. Chitwan offers better odds for most visitors; Parsa is for those who value solitude and the experience of an empty forest."
+        },
+        {
+          "q": "Are jeep safaris available in Parsa?",
+          "a": "Yes, but they are not as organised as in Chitwan. Arrange a jeep and licensed guide through a specialist operator or the lodge you stay at, and confirm park permits in advance. Tracks may close in the monsoon. Check current status before you travel."
+        },
+        {
+          "q": "Is Parsa better than Chitwan?",
+          "a": "Not better, but different. Chitwan has more open grassland, more rhinos and easier sightings. Parsa is hillier, more forested and far quieter. For a first visit choose Chitwan; for a second trip or a wilder add-on, Parsa is worth a day or two."
+        }
+      ]
+    },
+    {
+      "slug": "parsa-churia-hills-guided-walk",
+      "title": "Guided walk in the Churia foothills",
+      "kind": "adventure",
+      "duration": "3–5 hours",
+      "best_time": "Morning, Nov–Mar",
+      "image_query": "Churia hills Siwalik forest Nepal",
+      "wiki": "",
+      "summary": "Walk with licensed guides along dry streambeds and forest trails into the Churia hills, reading tracks, looking for gaur and birds, and seeing the young, crumbling geology of Nepal's lowest Himalayan range. Start at dawn.",
+      "body": [
+        "The Churia hills, also called the Siwalik, are the outermost and youngest range of the Himalaya, made of soft sandstone and gravel. Streams cut deep, narrow gullies through them, and in the dry season these become walking routes into the forest. They erode easily, and in the monsoon streams carry huge loads of gravel down to the plains.",
+        "With two licensed guides you follow a streambed uphill, stopping to read pugmarks, elephant dung and claw marks on trees. Sal gives way to mixed forest and chir pine on the ridges. Gaur and sambar use the hills, and the birdlife changes as you climb. Guides carry bamboo sticks and brief you on what to do if you meet an elephant, bear or tiger.",
+        "Walks are moderate but hot by late morning, so start early. Wear sturdy shoes and long trousers, carry plenty of water, and follow your guides closely. Walking is only allowed with permission and licensed guides; arrange it in advance. Walks last three to five hours. Bring two litres of water per person, snacks, a hat and a small first-aid kit."
+      ],
+      "good_for": [
+        "trekkers",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is it safe to walk in Parsa National Park?",
+          "a": "Walking carries real risk because of tigers, elephants and sloth bears, which is why it is only allowed with licensed guides and permission. Experienced guides read signs and choose routes carefully. Follow instructions, stay in a small group and never walk alone or at dusk."
+        },
+        {
+          "q": "What are the Churia hills?",
+          "a": "The Churia, also called the Siwalik hills, are the southernmost and youngest range of the Himalaya, rising just north of the Terai plains. They are made of soft sedimentary rock that erodes easily, cut by gullies and covered in sal and pine forest. They form much of Parsa National Park."
+        },
+        {
+          "q": "How fit do I need to be for a walk in Parsa?",
+          "a": "A moderate level of fitness is enough. Walks follow streambeds and forest trails with some short climbs, usually for three to five hours. Heat is the main challenge, especially from March, so start at dawn and carry at least two litres of water."
+        }
+      ]
+    },
+    {
+      "slug": "parsa-sal-forest-birding",
+      "title": "Birding in Parsa's sal forest",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "Early morning, Nov–Apr",
+      "image_query": "hornbill sal forest Nepal",
+      "wiki": "",
+      "summary": "Early mornings in Parsa's sal forest bring hornbills, woodpeckers, minivets, drongos, barbets and raptors. A slow morning with a bird guide on quiet tracks gives a different list from Chitwan's grasslands and rivers. Bring binoculars.",
+      "body": [
+        "Sal forest is busy at dawn. Mixed flocks of minivets, drongos, flycatchers and woodpeckers move through the canopy together, and hornbills fly over with loud wingbeats. Parsa is listed as an Important Bird Area, and its quiet tracks make it easy to stop and listen. Sound carries far in the still morning air.",
+        "Your guide works by sound first, picking out calls of barbets, cuckoos and woodpeckers, then finding the birds. Raptors such as crested serpent eagles circle above clearings. In spring, breeding birds sing loudest and colours are brightest. Hornbills are easiest to see as they fly between fruiting trees.",
+        "Bring binoculars, a field guide and patience. The forest is shaded, so a fast lens helps photographers. Combine birding with a jeep drive for mammals, or with a walk into the Churia hills for hill species. A morning session lasts three to four hours. Start at first light, carry water and wear neutral clothes."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Is Parsa good for birdwatching?",
+          "a": "Yes, especially for forest birds. Parsa is an Important Bird Area, with hornbills, woodpeckers, minivets, drongos, barbets and raptors in its sal forest. It complements Chitwan, where grassland and wetland birds are easier to see. Early mornings from November to April are best."
+        },
+        {
+          "q": "Which hornbills are found in Parsa?",
+          "a": "Hornbills, including the great hornbill, have been recorded in the forests of Parsa and Chitwan. They depend on large old trees for nesting. Sightings are not guaranteed; listen for their loud wingbeats and calls in the early morning and ask your guide about recent sightings."
+        },
+        {
+          "q": "When is the best time for birding in Parsa?",
+          "a": "November to April. Winter brings some migrant species and cool mornings, and spring brings song and breeding colours. From May the heat makes long mornings hard, and the monsoon closes many tracks. Monsoon visits are not recommended because of leeches and closed tracks."
+        }
+      ]
+    },
+    {
+      "slug": "parsa-litti-chokha-simara",
+      "title": "Litti chokha in the Bhojpuri Terai",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Lunch or evening, all year",
+      "image_query": "litti chokha food",
+      "wiki": "",
+      "summary": "After a morning in the park, eat like a local in Simara, Birgunj or a highway town: litti baked over coals and dipped in ghee, with smoky chokha of aubergine, potato and tomato, and a glass of sweet tea.",
+      "body": [
+        "The villages and towns around Parsa are Bhojpuri-speaking, and their food is closer to Bihar than to Kathmandu. The star is litti chokha. Litti are balls of wheat dough stuffed with sattu, roasted gram flour mixed with garlic, ginger, chilli, mustard oil and pickle spices, then baked over cow-dung or charcoal fires. Every family and stall has its own spice mix.",
+        "Chokha is a mash of fire-roasted aubergine, boiled potato and tomato, with raw onion, garlic, green chilli and mustard oil. The litti are cracked open, dipped in ghee and eaten with the chokha and a little pickle. It is filling, smoky and cheap. Some stalls add a tomato chutney or pickle on the side.",
+        "Ask your guide for a busy roadside stall in Simara or Birgunj. Pair it with sweet milky tea or, in summer, a glass of sattu sharbat. Vegetarians will eat very well in this part of the Terai. Prices are low and portions filling, so one plate is usually enough for lunch."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "families",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is litti chokha?",
+          "a": "Litti chokha is a Bhojpuri dish of baked wheat dough balls stuffed with spiced roasted gram flour, served with chokha, a smoky mash of roasted aubergine, potato and tomato. It is everyday food across the Bhojpuri-speaking Terai and Bihar, often dipped in ghee."
+        },
+        {
+          "q": "Where can I eat litti chokha near Parsa?",
+          "a": "Roadside stalls and small restaurants in Simara, Birgunj, Kalaiya and highway towns near the park serve it, often baked fresh over coals in the evening. Ask your guide or driver for a busy, clean stall. It is cheap and filling."
+        },
+        {
+          "q": "Is litti chokha vegetarian?",
+          "a": "Yes. Litti chokha is traditionally vegetarian. It uses ghee, so vegans should ask for it without. Some places serve it with mutton or chicken curry, but the classic version is entirely plant-based apart from the ghee. Ask the cook if you are unsure."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Parsa National Park?",
+      "a": "Parsa National Park lies in south-central Nepal, directly east of Chitwan National Park, in Parsa, Bara and Makwanpur districts. Its eastern edge follows the Hetauda–Birgunj highway. The nearest airport is Simara, about 20 to 25 minutes by air from Kathmandu."
+    },
+    {
+      "q": "How big is Parsa National Park?",
+      "a": "Parsa covers about 627 square kilometres, with a buffer zone of about 285 square kilometres. It ranges from about 435 to 950 metres in the Churia hills. Together with Chitwan and India's Valmiki National Park it forms a protected forest block of about 2,075 square kilometres."
+    },
+    {
+      "q": "What animals live in Parsa National Park?",
+      "a": "Bengal tigers, leopards, wild Asian elephants, gaur, sloth bears, sambar, spotted and barking deer, wild boar and langurs, plus a few rhinos that have moved in from Chitwan. Reptiles include mugger crocodiles, king cobras and pythons. Birdlife is rich, especially in the sal forest."
+    },
+    {
+      "q": "When did Parsa become a national park?",
+      "a": "Parsa was established as a wildlife reserve in 1984 and upgraded to national park status in 2017. A buffer zone was added in 2005, and the protected area was extended in 2015. Before that, the forest was a private hunting reserve for the elite."
+    },
+    {
+      "q": "Is Parsa worth visiting if I have been to Chitwan?",
+      "a": "Yes, for wildlife enthusiasts who want a quieter, wilder forest. Sightings are harder than in Chitwan, facilities are basic, and you need a good naturalist. In return you get empty tracks, a recovering tiger landscape and the feeling of real wilderness."
+    },
+    {
+      "q": "How do I get to Parsa National Park from Kathmandu?",
+      "a": "Fly to Simara in about 20 to 25 minutes, then drive to the headquarters at Aadhabhar. By road, take the hill route via Hetauda, about 5 to 6 hours, or the longer route via Narayangadh. From Chitwan, drive east via Hetauda in 3 to 4 hours."
+    },
+    {
+      "q": "Where can I stay near Parsa National Park?",
+      "a": "Options are limited: a few simple lodges and camps near the park edges, and business hotels in Hetauda, Simara and Birgunj. Specialist operators can arrange camping or lodge stays with naturalists. Book well ahead, and expect basic comforts. Check facilities carefully before booking."
+    },
+    {
+      "q": "What is the best time to visit Parsa?",
+      "a": "November to April, with February to April best for wildlife as the forest dries and animals gather near water. The monsoon, from June to September, makes tracks impassable and brings leeches. Mornings in December and January can be foggy and cold."
+    },
+    {
+      "q": "Do I need a guide in Parsa National Park?",
+      "a": "Yes. Activities inside the park require a licensed guide and a valid permit. Nepal's April 2023 rule requiring foreign trekkers in national parks to use licensed guides also applies. Arrange both through your operator or at the headquarters, and check current status before you travel."
+    }
+  ]
+}

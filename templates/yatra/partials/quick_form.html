@@ -1,0 +1,15 @@
+{% load yatra %}<form class="quick" method="post" action="{% url 'plan' %}" data-cta-form="quick-{{ qf_source|default:'page' }}"{% if land %} data-land="{{ land }}"{% endif %}>
+  {% csrf_token %}{% contours qf_source|default:"quick" 7 %}
+  <p class="eyebrow foil-text">Quick question</p>
+  <h3 class="h-s">{{ qf_title|default:"Ask a planner about this" }}</h3>
+  <p>Leave your email and a line. A planner answers within one working day.</p>
+  <div class="form">
+    <input type="hidden" name="kind" value="quick"><input type="hidden" name="source_page" value="{{ request.path }}">
+    {% if land %}<input type="hidden" name="lands" value="{{ land }}">{% endif %}
+    <input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <label class="sr-only" for="qf-name-{{ qf_source }}">Your name</label><input id="qf-name-{{ qf_source }}" type="text" name="name" required placeholder="Your name">
+    <label class="sr-only" for="qf-email-{{ qf_source }}">Email</label><input id="qf-email-{{ qf_source }}" type="email" name="email" required placeholder="Email">
+    <label class="sr-only" for="qf-msg-{{ qf_source }}">Message</label><textarea id="qf-msg-{{ qf_source }}" name="message" rows="3" placeholder="{{ qf_placeholder|default:'Dates, group size, anything we should know' }}"></textarea>
+    <button class="btn btn--foil" type="submit">Send to a planner</button>
+  </div>
+</form>

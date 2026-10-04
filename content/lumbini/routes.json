@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "kathmandu-to-lumbini",
+    "from": "kathmandu",
+    "to": "lumbini",
+    "distance_km": 280,
+    "summary": "Kathmandu to Lumbini is about 280 km by road, 8–9 hours by private car via Mugling, Narayanghat and Butwal. The quicker way is a 35-minute flight to Bhairahawa followed by a 30–40 minute drive of about 18 km to Lumbini.",
+    "options": [
+      {"mode": "Flight + taxi", "time": "≈ 2 h door to door", "text": "Several domestic airlines fly Kathmandu to Bhairahawa (Gautam Buddha International Airport) daily, in about 35 minutes. From the airport a taxi or pre-booked car takes 30–40 minutes to Lumbini, about 18 km. Morning flights are most reliable; in December and January fog at Bhairahawa can delay them. Check current schedules before you travel."},
+      {"mode": "Private car", "time": "8–9 h", "text": "The road leaves Kathmandu over the rim of the valley, drops to the Trishuli river and follows it to Mugling, then runs down to Narayanghat and west along the East-West Highway through Butwal to Bhairahawa and Lumbini. It is about 280 km. Traffic near Kathmandu and road works can add hours, so leave early. Check current status before you travel."},
+      {"mode": "Tourist bus", "time": "9–10 h", "text": "Tourist buses leave Kathmandu early in the morning for Bhairahawa, with stops for breakfast and lunch on the way. From Bhairahawa, local buses, taxis and e-rickshaws cover the last 22 km to Lumbini. It is the cheapest comfortable option, but a long day in the seat."}
+    ],
+    "stops_on_way": ["Kurintar, for the Manakamana cable car", "Mugling, at the Trishuli–Marsyangdi confluence", "Narayanghat, gateway to Chitwan", "Butwal, at the foot of the hills"],
+    "tip": "If you are driving, break the journey with two nights in Chitwan, which sits roughly halfway.",
+    "faqs": [
+      {"q": "How long does it take from Kathmandu to Lumbini?", "a": "By air it takes about 35 minutes to Bhairahawa plus 30–40 minutes by car, around 2 hours door to door with check-in. By road it is about 280 km and 8–9 hours by private car, or 9–10 hours by tourist bus to Bhairahawa plus a short local transfer."},
+      {"q": "What is the nearest airport to Lumbini?", "a": "Gautam Buddha International Airport at Bhairahawa (Siddharthanagar), about 18 km from Lumbini. It has daily domestic flights from Kathmandu and has handled some international flights since opening as an international airport in 2022. Check current routes before you travel."},
+      {"q": "Is there a direct bus from Kathmandu to Lumbini?", "a": "Some buses run from Kathmandu to Lumbini, but most tourist and long-distance buses go to Bhairahawa, from where local buses and taxis cover the last 22 km. Schedules change, so ask your hotel or check current status before you travel. A private car is easier with luggage."},
+      {"q": "Can I stop in Chitwan between Kathmandu and Lumbini?", "a": "Yes, and we recommend it. Chitwan lies near Narayanghat, roughly halfway along the road route. Spending two nights in Sauraha or near the park breaks the long drive and adds a jungle safari. From Chitwan to Lumbini is about 4–5 hours by car."}
+    ]
+  },
+  {
+    "slug": "pokhara-to-tansen",
+    "from": "pokhara",
+    "to": "tansen",
+    "distance_km": 125,
+    "summary": "Pokhara to Tansen is about 125 km south on the Siddhartha Highway, 5–6 hours by car or bus, through the hills of Syangja and across the Kali Gandaki at Ramdi. It is the natural way to link Pokhara with Lumbini in two easy days.",
+    "options": [
+      {"mode": "Private car", "time": "5–6 h", "text": "The Siddhartha Highway runs south from Pokhara through Syangja and Waling, winding along ridges and valleys, then drops to cross the Kali Gandaki at Ramdi before climbing to Tansen. The road is narrow and has many curves, with occasional landslides in the monsoon. A private car lets you stop for views and lunch. Check current status before you travel."},
+      {"mode": "Local bus", "time": "6–7 h", "text": "Buses for Butwal and Bhairahawa leave Pokhara through the morning and pass Tansen; ask to be dropped at the Tansen bus park. They stop often and can be crowded, but they are cheap and give a real picture of hill travel. Keep luggage light."}
+    ],
+    "stops_on_way": ["Syangja", "Waling", "Ramdi, for fried fish at the Kali Gandaki bridge"],
+    "tip": "Leave Pokhara early to reach Tansen in time for sunset from Srinagar Danda.",
+    "faqs": [
+      {"q": "How far is Tansen from Pokhara?", "a": "Tansen is about 125 km south of Pokhara on the Siddhartha Highway. The drive takes 5–6 hours by private car and 6–7 hours by local bus, depending on traffic, road works and stops. The road is winding, so allow extra time and take motion-sickness tablets if needed."},
+      {"q": "Is there a tourist bus from Pokhara to Tansen?", "a": "Tourist buses from Pokhara mostly run to Kathmandu, Chitwan and Lumbini rather than Tansen. Local buses towards Butwal stop at Tansen. A private car is the most comfortable option, especially if you want to stop at Ramdi or continue to Lumbini the next day."},
+      {"q": "What is there to see on the road from Pokhara to Tansen?", "a": "The road passes through the hill towns of Syangja and Waling, terraced farmland, orange and coffee country, and crosses the Kali Gandaki at Ramdi, known for its riverside fried fish stalls. On clear mornings the Annapurna range is visible behind you as you leave Pokhara."},
+      {"q": "Can I go from Pokhara to Lumbini in one day?", "a": "Yes, it is about 210 km and 7–8 hours by car via Tansen and Butwal. But a night in Tansen breaks the drive into two halves of 5–6 and 3 hours and adds one of Nepal's best-preserved hill towns, so we usually recommend stopping."}
+    ]
+  },
+  {
+    "slug": "lumbini-to-tilaurakot",
+    "from": "lumbini",
+    "to": "tilaurakot",
+    "distance_km": 27,
+    "summary": "Tilaurakot is about 27 km west of Lumbini across the flat Kapilvastu plain, an hour by car on village roads. Most visitors make it a day trip that also takes in Niglihawa, Kudan and Gotihawa, returning to Lumbini by evening.",
+    "options": [
+      {"mode": "Private car", "time": "≈ 1 h", "text": "A private car or taxi from Lumbini reaches Tilaurakot in about an hour on paved village roads through rice and sugarcane fields. Hiring a car for the full day is best, because the other Kapilvastu sites, Niglihawa, Kudan and Gotihawa, are spread out and poorly served by public transport. Your driver waits at each site."},
+      {"mode": "Local bus + e-rickshaw", "time": "1.5–2.5 h", "text": "Local buses run between Bhairahawa and Taulihawa, the Kapilvastu district headquarters, and can be picked up on the way from Lumbini with a change. From Taulihawa e-rickshaws cover the 3–4 km to Tilaurakot. It is cheap but slow, and visiting several sites this way takes a full day."},
+      {"mode": "Bicycle", "time": "2–2.5 h", "text": "The route is flat and about 27 km each way, so a fit cyclist can ride it in 2–2.5 hours, ideally in the cool of early morning between November and February. Traffic is light but includes tractors and buses. Carry water, and consider a car back if the afternoon is hot."}
+    ],
+    "stops_on_way": ["Niglihawa (Nigali Sagar) Ashoka pillar", "Taulihawa bazaar", "Kudan stupas"],
+    "tip": "Start at Niglihawa early, reach Tilaurakot by mid-morning, and save Kudan and Gotihawa for the softer afternoon light.",
+    "faqs": [
+      {"q": "How far is Tilaurakot from Lumbini?", "a": "Tilaurakot is about 27 km west of Lumbini by road, roughly one hour by car on village roads through Kapilvastu district. It lies 3–4 km north of Taulihawa town on the bank of the Banganga river."},
+      {"q": "Can I visit Tilaurakot and return to Lumbini in a day?", "a": "Yes. Most visitors leave Lumbini in the morning, see Tilaurakot, the Kapilvastu Museum, Niglihawa, Kudan and Gotihawa, have lunch in Taulihawa and return by late afternoon. The total day is 6–7 hours with about 60–70 km of driving."},
+      {"q": "How much does a taxi from Lumbini to Tilaurakot cost?", "a": "Prices for a full-day car from Lumbini covering the Kapilvastu sites vary with season, fuel prices and vehicle type. Agree the price, the list of sites and the waiting time before you set off. If you book with us, the car and driver are included in your itinerary."},
+      {"q": "Is it safe to cycle from Lumbini to Tilaurakot?", "a": "Yes, for confident cyclists. The road is flat and traffic is light, though you share it with tractors, motorbikes and buses. Ride early in the day, wear a helmet and bright clothing, carry plenty of water and avoid April to June, when midday heat passes 38 °C."}
+    ]
+  },
+  {
+    "slug": "tansen-to-rani-mahal",
+    "from": "tansen",
+    "to": "rani-mahal",
+    "distance_km": 20,
+    "summary": "Rani Mahal lies on the Kali Gandaki below Tansen. The usual way is a 1–2 hour jeep ride on a partly rough road; the alternative is to drive 13 km to Kailash Nagar near Batase Danda and walk down 2–3 hours through forest and villages.",
+    "options": [
+      {"mode": "Jeep", "time": "1–2 h", "text": "A private jeep from Tansen takes the road down towards the Kali Gandaki and Rani Mahal. Parts are steep, narrow and rough, and conditions change with the season and roadworks, so the time varies. A local driver who knows the road is essential. After heavy rain sections may close, so check current status before you travel."},
+      {"mode": "Jeep + hike", "time": "3–4 h", "text": "Drive about 13 km from Tansen to Kailash Nagar near Batase Danda, then follow the walking trail down through Magar villages and the Rani Ban forest to the palace, about 2–3 hours. Arrange for the jeep to meet you at Rani Mahal for the return, to avoid the long climb back up."}
+    ],
+    "stops_on_way": ["Batase Danda viewpoint", "Kailash Nagar", "Rani Ban forest"],
+    "tip": "Go in the dry season, October to April, and leave early; the gorge is much hotter than Tansen by midday.",
+    "faqs": [
+      {"q": "How long does it take from Tansen to Rani Mahal?", "a": "By jeep, about 1–2 hours each way depending on road conditions. If you drive to Kailash Nagar near Batase Danda and hike down, allow 3–4 hours to reach the palace. A full visit from Tansen, including time at the palace and river, takes most of a day."},
+      {"q": "Can I walk from Tansen to Rani Mahal?", "a": "Yes, partly. A walking trail leads down to Rani Mahal from Kailash Nagar near Batase Danda, about 13 km by road from Tansen. The descent takes 2–3 hours. Walking all the way from Tansen is possible with a guide but long, and the return climb is hard, so most walkers use a jeep back."},
+      {"q": "Is the road to Rani Mahal safe?", "a": "With an experienced local driver and a suitable jeep, yes, in the dry season. The road is narrow and steep in places, and landslides can affect it from June to September. Do not attempt it in a small car, and check current status before you travel, especially after rain."},
+      {"q": "Can I visit Rani Mahal from Pokhara or Lumbini?", "a": "Not comfortably in a day. Rani Mahal is best reached from Tansen, which is about 3 hours from Lumbini and 5–6 hours from Pokhara. Plan at least two nights in Tansen to see the town and make the Rani Mahal trip without rushing."}
+    ]
+  }
+]

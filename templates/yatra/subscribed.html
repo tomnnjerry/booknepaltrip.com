@@ -1,0 +1,5 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}The Lokta Letter · Book Nepal Trip{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">The Lokta Letter</p><h1 class="h-xl">{% if ok %}You are on the list{% else %}That did not work{% endif %}</h1><p class="lede">{% if ok %}One email a month. Unsubscribe from any of them with one click.{% else %}Please check the email address and try again.{% endif %}</p><p style="margin-top:20px"><a class="btn" href="{% url 'home' %}">Back to the home page</a></p></div></header>
+{% endblock %}

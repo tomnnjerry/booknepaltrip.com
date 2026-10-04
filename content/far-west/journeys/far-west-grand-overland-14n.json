@@ -1,0 +1,282 @@
+{
+  "slug": "far-west-grand-overland-14n",
+  "title": "Far West Grand Overland",
+  "region": "far-west",
+  "kind": "overland",
+  "nights": 14,
+  "themes": [
+    "wildlife-and-jungle",
+    "heritage-and-temples",
+    "lakes-and-rivers",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "shuklaphanta",
+      "nights": 2
+    },
+    {
+      "place": "bardia",
+      "nights": 3
+    },
+    {
+      "place": "dullu",
+      "nights": 3
+    },
+    {
+      "place": "jumla",
+      "nights": 2
+    },
+    {
+      "place": "rara-lake",
+      "nights": 4
+    }
+  ],
+  "start": "Dhangadhi Airport (DHI)",
+  "end": "Nepalgunj, by air from Talcha",
+  "price_from_usd": 2950,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    0
+  ],
+  "pace": "Active",
+  "max_altitude_m": 3700,
+  "meta_description": "Far West grand overland, 14 nights: Shuklaphanta, Ghodaghodi and Bardia, Surkhet and Dullu, the Karnali Highway to Jumla and the road to Rara Lake.",
+  "summary": "Fourteen nights by private jeep from the grasslands of the far western Terai to Nepal's largest lake. Swamp deer at Shuklaphanta, the lakes of Ghodaghodi, tigers and river safaris in Bardia, the Khasa heritage of Surkhet and Dullu, the Karnali Highway to Jumla, and four nights at Rara before flying out from Talcha.",
+  "intro": [
+    "This is the far west end to end, from 150 m to almost 3,000 m, by road. It begins on the plain where the Mahakali river marks the border with India, crosses two national parks of the Terai, then turns north into the hills and follows the Karnali into some of the least visited country in Nepal. Every few days the language, the food and the houses change: Rana Tharu, Dangaura Tharu, Doteli and Khas hill farmers, the red-rice growers of Jumla.",
+    "The roads are part of the experience, and some of them are hard: long days on mountain highways that are still being built. We use a sturdy four-wheel-drive jeep with an experienced driver who knows Karnali roads, and we keep the longest days balanced by slow ones. Rooms in the hills are simple. The reward is a picture of western Nepal that no flight-based trip can give. Good boots, patience and a sense of humour matter more here than fitness."
+  ],
+  "story": "You start in the flat heat of Dhangadhi among sugarcane and mango orchards, watching swamp deer on a grassland the size of a small country town. The road east runs past lakes full of lotus to Bardia's forests, where you spend three days learning the jungle. Then the hills begin. Surkhet's warm valley, the stone temple of Kakrebihar, the gas flames of Dullu and the pillar of a Khasa king. The Karnali Highway takes you up the gorge in a long day of dust and drop-offs into Jumla, cold and clear at 2,540 m, where rice grows red. One more road, through pine forest, ends at Rara: still water, high air, and a small plane waiting to take you home.",
+  "highlights": [
+    "Swamp deer herds at Shuklaphanta and the Ramsar lakes of Ghodaghodi Tal",
+    "Three nights in Bardia for jeep, walking and river safaris",
+    "Kakrebihar, the Dullu flames and the 14th-century pillar of Prithvi Malla",
+    "The Karnali Highway into Jumla, with its red rice terraces and Chandannath temple",
+    "Four nights at Rara Lake, including the lakeshore circuit and Murma Top"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Dhangadhi to Shuklaphanta",
+      "place": "shuklaphanta",
+      "overnight": "Shuklaphanta, near Mahendranagar",
+      "alt_m": 200,
+      "move": "≈ 60 km · 1.5 h drive",
+      "text": "We meet you at Dhangadhi Airport, or your hotel if you flew in the night before, and drive west along the highway through Rana Tharu villages to Mahendranagar and the edge of Shuklaphanta National Park. After lunch, a first evening drive onto the grassland, where swamp deer, hog deer and wild boar come out as the heat fades. Your naturalist explains how the park's phanta grasslands are kept open by cutting and burning each winter. Dinner and an early night.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "The Sukila Phanta and Rani Tal",
+      "place": "shuklaphanta",
+      "overnight": "Shuklaphanta, near Mahendranagar",
+      "alt_m": 200,
+      "move": "≈ 6 h by jeep in two drives",
+      "text": "A dawn jeep drive to the Sukila Phanta, the great grassland that gives the park its name, where swamp deer feed in herds, sometimes hundreds together. Mid-morning we stop at Rani Tal, a forest lake with a watchtower, where local belief places the palace of a Tharu king. In the afternoon we visit a Rana Tharu family; the women's embroidered skirts and silver ornaments are unlike anything else in Nepal. A second drive at dusk.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Ghodaghodi Tal and on to Bardia",
+      "place": "ghodaghodi-tal",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 220 km · 5–6 h drive with stops",
+      "text": "East along the highway through Attariya to Ghodaghodi Tal, a chain of lakes and marshes in Kailali listed as a Ramsar wetland. We walk the shore past the temple of the goddess Ghodaghodi, looking for waterbirds, turtles and lotus. Lunch at a roadside dhaba, then on across the Karnali at Chisapani, where the river leaves the hills under a long single-tower bridge, and into Bardia. Evening in Thakurdwara, the Tharu village at the park gate.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Full-day jeep safari in Bardia",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 8–9 h in an open jeep",
+      "text": "We leave at first light in an open jeep with a licensed naturalist, through sal forest and phanta grassland to the Karnali river country in the west of the park. Here we sit quietly on a high bank above a channel where tigers come to drink in the heat. Lunch is packed, eaten on the sand. Rhinos, wild elephants, spotted deer and langur monkeys are all possible on the way back, as the light softens over the grass.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "On foot and on the Geruwa",
+      "place": "bardia",
+      "overnight": "Thakurdwara, Bardia",
+      "alt_m": 150,
+      "move": "≈ 4 h on foot · ≈ 2 h by raft",
+      "text": "A walking safari with two licensed guides along river beds and game trails, reading pugmarks and listening for alarm calls. After lunch we drift down the Geruwa channel of the Karnali in an inflatable raft, looking for mugger crocodiles, ospreys and, with luck, the brief roll of a Gangetic dolphin. Evening visit to the crocodile breeding centre at park headquarters, and dinner with a Dangaura Tharu family in the village.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Bardia to Surkhet and Kakrebihar",
+      "place": "",
+      "overnight": "Birendranagar, Surkhet",
+      "alt_m": 720,
+      "move": "≈ 160 km · 4–5 h drive",
+      "text": "We drive east to Kohalpur and turn north through the Siwalik hills into the Surkhet valley, the capital of Karnali Province, at about 720 m. In the afternoon we visit Kakrebihar, the ruined base of a stone temple on a wooded hill above Birendranagar, with hundreds of carved blocks of Buddhist and Hindu figures. It is widely attributed to the Khasa king Ashoka Challa in the 13th century. A comfortable town hotel tonight, the last for some days.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Surkhet to Dullu",
+      "place": "dullu",
+      "overnight": "Dullu",
+      "alt_m": 1400,
+      "move": "≈ 100 km · 4–5 h drive",
+      "text": "Into the hills of Dailekh on a winding road through terraced villages, and on to Dullu, described in local histories as the winter capital of the Sinja kings and later the seat of its own small kingdom until 1962. We arrive in time for an afternoon walk through the bazaar with a local guide, who introduces the families who look after the town's shrines. Night in a simple lodge or homestay.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "The flames and pillar of Dullu",
+      "place": "dullu",
+      "overnight": "Dullu",
+      "alt_m": 1400,
+      "move": "≈ 5 h by jeep and on foot",
+      "text": "Dullu is famous for its jwala, small flames of natural gas that burn at temple shrines. We visit Shirsthan and Nabhisthan, two of the five sites of the local Panchkoshi pilgrimage; local legend links them to the head and navel of a divine body. Then the kirti stambha of Prithvi Malla, a stone pillar from the 1350s whose inscription is among the earliest records of the Nepali language. An unhurried day before the long road north.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "The Karnali Highway to Jumla",
+      "place": "jumla",
+      "overnight": "Jumla (Khalanga)",
+      "alt_m": 2540,
+      "move": "Long jeep day · ≈ 9–11 h",
+      "text": "The longest day. We join the Karnali Highway and follow it north up the gorge of the Karnali and its tributaries through Kalikot, past villages clinging to steep slopes and long stretches of road cut into cliffs. The road climbs from warm valleys into pine forest and finally over a ridge into the broad Jumla valley at about 2,540 m. Roads here change with every monsoon, so timings are approximate. Arrive in Jumla tired and hungry; hot dal bhat with red rice awaits.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Jumla: temples and red rice",
+      "place": "jumla",
+      "overnight": "Jumla (Khalanga)",
+      "alt_m": 2540,
+      "move": "≈ 4 h on foot",
+      "text": "A slow day to recover and acclimatise. We visit the Chandannath temple, Jumla's guardian shrine, and the Bhairav shrine beside it, then walk out through the terraces where marshi, the red rice of Jumla, grows at heights where rice is rarely farmed. In autumn the orchards are full of apples. Lunch in a Jumli home, and an afternoon in the bazaar buying dried apples, walnuts and beans. Sinja, the old Khasa capital, is an optional extra day from here.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "By road to Rara Lake",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 7–9 h by jeep · short walk",
+      "text": "We drive back down the highway to Nagma, where the road to Mugu branches north, and climb to Gamgadhi, the district headquarters, then on toward Rara National Park. The last part is through pine forest, and from the road-end it is a short walk to the lake. Roads in this section are rough and can be blocked after rain. Arriving at Rara in the afternoon light, after nine days of road, is one of the best moments of the trip. Night in a simple lodge.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Round the lake on foot",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 13 km · 5–6 h walk",
+      "text": "No vehicles today. We walk the 13 km circuit of Rara, an almost level path through blue pine and spruce that opens onto the water every half hour. The lake covers 10.8 km² and reaches a depth of about 167 m. On the south shore your guide shows you where the villages of Rara and Chapru stood before their families were moved to the Terai when the park was founded in 1976. Picnic lunch on a beach.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Murma Top",
+      "place": "rara-lake",
+      "overnight": "Rara Lake",
+      "alt_m": 2990,
+      "move": "≈ 4–5 h walk · ≈ +700 m and back",
+      "text": "A morning climb to Murma Top, about 3,700 m, for the view of the whole lake below and, on clear mornings, the snow ranges of Mugu and Humla to the north. Start early, before cloud builds. The afternoon is for rest: a boat on the lake if the park is running them, a visit to the small Thakur Baba shrine, or a chair on the shore and a long look at the water.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 14,
+      "title": "Walk to Talcha airstrip",
+      "place": "rara-lake",
+      "overnight": "Talcha",
+      "alt_m": 2720,
+      "move": "≈ 3 h walk · −270 m",
+      "text": "We say goodbye to the driver, who takes the jeep back south, and walk out of the park through forest and fields to Talcha, the airstrip of Mugu district, at about 2,720 m. Staying close to the strip lets us catch the early flight, before the wind rises. The afternoon is free in the village. Your guide confirms seats for the morning and checks the weather in Nepalgunj. Your bags go with a porter.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 15,
+      "title": "Fly Talcha to Nepalgunj",
+      "place": "",
+      "overnight": "Nepalgunj or Kathmandu",
+      "alt_m": 165,
+      "move": "≈ 45 min flight",
+      "text": "In about forty-five minutes the plane carries you back over all the country you crossed by road, the Karnali gorges and the hills of Kalikot and Dailekh, to the plain at Nepalgunj. From here you can connect to an afternoon flight to Kathmandu. If cloud cancels the Talcha flight, we wait for the next one, so keep a spare day before any international departure. The trip ends here, at the edge of the plain where it began.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "tiger-tops-karnali-lodge"
+  ],
+  "includes": [
+    "Private four-wheel-drive jeep with experienced driver, days 1–11",
+    "Talcha–Nepalgunj flight (economy)",
+    "14 nights in the best available hotels, lodges and homestays, with 3 nights at Tiger Tops Karnali Lodge or similar in Bardia; all meals",
+    "Licensed guide throughout; licensed nature guides in the parks; local heritage guides at Dullu and Jumla",
+    "National park entry fees for Shuklaphanta, Bardia and Rara"
+  ],
+  "excludes": [
+    "Kathmandu–Dhangadhi flight and any hotel in Dhangadhi",
+    "International flights, visa and travel insurance",
+    "Drinks, tips, laundry and boat rides at Rara",
+    "Extra nights caused by road closures or flight cancellations"
+  ],
+  "good_to_know": [
+    "Roads in Karnali, especially the Karnali Highway and the Jumla–Mugu road, are rough and can close after rain or landslides. Check current status before you travel.",
+    "Park fees and the April 2023 rule that foreign visitors in national parks go with a licensed guide apply in Shuklaphanta, Bardia and Rara. Check current status before you travel.",
+    "Hotels in Surkhet are comfortable; from Dullu to Rara rooms are simple, often with shared bathrooms.",
+    "The trip runs best in October–November and March–April; the monsoon closes roads and the Terai is very hot in May.",
+    "Day 9 on the Karnali Highway is long; bring motion sickness tablets if you need them."
+  ],
+  "faqs": [
+    {
+      "q": "Is it possible to drive from the Terai to Rara Lake?",
+      "a": "Yes. The Karnali Highway runs from Surkhet to Jumla, and a road branches from it at Nagma and runs through Gamgadhi in Mugu toward Rara National Park. The full drive from the plain takes two to three long days and the roads are rough. This trip breaks it with stops at Dullu and two nights in Jumla."
+    },
+    {
+      "q": "How long is the drive on the Karnali Highway?",
+      "a": "From Surkhet to Jumla is roughly 230 km, which takes 10 to 12 hours by jeep in good conditions. Starting from Dullu, as this trip does, is a similarly long day. The road follows river gorges and has unpaved and narrow sections. Landslides can close it in the monsoon, so we travel in the dry seasons."
+    },
+    {
+      "q": "Why not fly to Rara instead?",
+      "a": "You can, and our four-night Rara by Air trip does exactly that. The overland route is for travellers who want the whole far west: Terai parks, Tharu villages, Khasa heritage and the mountain roads that connect them. You understand how remote Rara is when you have driven to it, and the views along the way are part of the trip."
+    },
+    {
+      "q": "What vehicle do you use?",
+      "a": "A private four-wheel-drive jeep, usually a Mahindra Scorpio or similar, with a driver who has worked Karnali roads for years. It carries up to four guests with luggage. On mountain roads we drive only in daylight. On the Terai sections we can switch to an air-conditioned car for comfort if you prefer."
+    },
+    {
+      "q": "Is this trip suitable for older travellers?",
+      "a": "For active older travellers who accept long road days and simple rooms, yes. There is little hard walking; Murma Top is optional. The challenges are the 9–11 hour Karnali Highway day, nights at 2,500–3,000 m in Jumla and Rara, and basic bathrooms in the hills. Consult your doctor about altitude if you have heart or lung conditions."
+    },
+    {
+      "q": "When is the best time for a far west overland trip?",
+      "a": "October and November are best: dry roads, clear mountain views and pleasant Terai weather for the parks. March and April are also good, with rhododendron in the hills and good wildlife viewing in the Terai, though Rara can still be cold. Avoid June to September, when monsoon rain closes roads and parks."
+    },
+    {
+      "q": "Can I add Khaptad or Ramaroshan to this route?",
+      "a": "Yes, with extra days. Khaptad's Jhigrana gate is reached from Dhangadhi via Silgadhi in about seven and a half hours by road and jeep, and the trek needs five to seven nights. Ramaroshan lies in Achham, between Doti and Dailekh, and can be added on the way from the Terai to Dullu with two or three extra nights."
+    },
+    {
+      "q": "Where does the trip start and end?",
+      "a": "It starts at Dhangadhi Airport, with direct flights from Kathmandu of about 1 hour 15 minutes, and ends with the flight from Talcha to Nepalgunj, where you can connect to Kathmandu the same afternoon. The Kathmandu–Dhangadhi flight is not included, so you can arrive a day early if you prefer."
+    },
+    {
+      "q": "Is the food safe on a far west road trip?",
+      "a": "Generally yes. We eat at places we know, and dal bhat, cooked fresh and served hot, is the safest meal in rural Nepal. Bring a filter bottle or purification tablets rather than buying plastic water. In Jumla and Rara meals are simple; tell us about dietary needs so we can carry extras."
+    }
+  ]
+}

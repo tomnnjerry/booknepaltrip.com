@@ -1,0 +1,344 @@
+{
+  "slug": "nagarkot",
+  "name": "Nagarkot",
+  "name_ne": "नगरकोट",
+  "local_name": "",
+  "region": "kathmandu-valley",
+  "kind": "viewpoint",
+  "wiki": "Nagarkot",
+  "image_query": "Nagarkot sunrise Himalaya view",
+  "lat": 27.7154,
+  "lng": 85.5204,
+  "altitude_m": 2175,
+  "tagline": "The valley's eastern rim, for Himalayan sunrise and pine ridge walks",
+  "meta_description": "Nagarkot with locals: Himalayan sunrise, the view tower, Tamang villages, ridge hikes to Changunarayan, Dhulikhel and Sankhu, best months and stays.",
+  "summary": "Nagarkot is a ridge-top village on the north-east rim of the Kathmandu Valley at about 2,175 m, 32 km from the city. On clear mornings the Himalaya stretches across the northern horizon, from Langtang towards Everest. Stay one night for sunset and sunrise, then walk down through villages to Changunarayan or Bhaktapur.",
+  "intro": [
+    "Nagarkot is where Kathmandu people go to breathe. An hour and a half's drive from the city through Bhaktapur, the road climbs through pine forest and terraced hillsides to a long ridge, cooler and quieter than the valley floor. Hotels and lodges are scattered along it, each facing north, because everyone comes here for one thing: the view of the Himalaya at dawn.",
+    "On a clear morning between October and February, the mountains appear at first light in a long white line: Ganesh Himal and Langtang to the north-west, Dorje Lakpa and the Jugal range due north, Gaurishankar and the Rolwaling peaks to the north-east, and on very clear days a small point near Everest far to the east. Below, the valleys fill with mist that burns off as the sun climbs.",
+    "Beyond the view, Nagarkot is a good base for walking. Trails lead along the ridge and down to Changunarayan, Bhaktapur, Sankhu and Dhulikhel through Tamang and Brahmin-Chhetri villages and forest. It is a gentle way to stretch your legs before a trek, or to spend a slow day after the city."
+  ],
+  "story": {
+    "title": "A rim village that became the valley's viewpoint",
+    "paras": [
+      "For most of its history, Nagarkot was a farming area on the edge of the valley, its ridge covered in forest and scattered with small settlements of Tamang and Brahmin-Chhetri families. Its position above the old trade route through Sankhu, the valley's north-eastern gate towards Tibet, gave it strategic value, and the name itself is often read as the fort of the city.",
+      "Its modern story began with the view. As tourism grew from the 1970s, travellers and Kathmandu residents came up to see sunrise over the Himalaya. In the 1990s the first resort hotels opened, among them Club Himalaya, set on what is now called Windy Hill. Lodges, guesthouses and restaurants followed along the ridge, and Nagarkot became a standard stop for first-time visitors to Nepal.",
+      "The 2015 earthquake damaged many houses in the villages around Nagarkot. Rebuilding has gone on since, and the ridge has also seen new hotels and roads. Away from the main road, though, the farmland, forest and village paths remain much as they were, and the morning view is unchanged, still the reason people make the climb."
+    ]
+  },
+  "legend": "",
+  "people": "The villages on Nagarkot's slopes are home mainly to Tamang families, a Tibeto-Burman people with their own language and Buddhist traditions, and to Brahmin and Chhetri farmers. Many families farm terraces of maize, millet, potatoes and vegetables, sold in Bhaktapur's markets. Others work in Nagarkot's hotels, restaurants and shops, or as drivers and guides. Newar communities live in the towns below, such as Sankhu and Bhaktapur.",
+  "untold": [
+    {
+      "fact": "Dorje Lakpa, at 6,966 m, is one of the most recognisable peaks from Nagarkot: a broad, snowy mountain due north in the Jugal range, easy to pick out at sunrise because of its distinctive shape.",
+      "source": "Wikipedia: Dorje Lakpa"
+    },
+    {
+      "fact": "Sankhu, a Newar town at the foot of the Nagarkot ridge, was a stage on the old trade route from the valley to Tibet. On a forested hill above it stands the temple of Bajrayogini, an important tantric goddess.",
+      "source": "Wikipedia: Sankhu"
+    },
+    {
+      "fact": "Nagarkot sits on the north-eastern rim of the Kathmandu Valley but lies within Bhaktapur district, so many of its supplies, schools and markets are tied to Bhaktapur town, about 20 km below.",
+      "source": "Wikipedia: Nagarkot"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Himal",
+      "script": "हिमाल",
+      "lang": "Nepali",
+      "meaning": "Snow mountain or range of snow peaks"
+    },
+    {
+      "word": "Bhanjyang",
+      "script": "भञ्ज्याङ",
+      "lang": "Nepali",
+      "meaning": "Pass or saddle on a ridge, often with a tea shop"
+    },
+    {
+      "word": "Danda",
+      "script": "डाँडा",
+      "lang": "Nepali",
+      "meaning": "Hill or ridge"
+    }
+  ],
+  "taste": {
+    "name": "Dhido",
+    "text": "A thick porridge of millet, buckwheat or maize flour stirred into boiling water until smooth and heavy, eaten by hand with lentil soup, greens, pickle and sometimes chicken curry. It is everyday food in hill villages. Ask your lodge or a village home near Nagarkot to make it."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Feb"
+    ],
+    [
+      "Days we suggest",
+      "1 night"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 28 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 32 km · 1.5 h"
+    ],
+    [
+      "Altitude",
+      "≈ 2,175 m"
+    ],
+    [
+      "Known for",
+      "Himalayan sunrise, ridge walks, Tamang villages"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1",
+  "highlights": [
+    {
+      "title": "Sunrise over the Himalaya",
+      "text": "From your hotel terrace or the view tower, watch the peaks turn pink and gold at first light. From October to February the chance of clear views is best. Be outside by 6 am, with a warm jacket."
+    },
+    {
+      "title": "The view tower",
+      "text": "At the top of the ridge, a short walk or drive from most hotels, a viewing tower gives a wide panorama of the range and the valleys below. Arrive before sunrise for the best light."
+    },
+    {
+      "title": "Pine forest walks",
+      "text": "Trails run along the ridge and into pine forest, with the scent of resin and sunlight through the trees. Easy, quiet walking of an hour or two, with views opening at clearings."
+    },
+    {
+      "title": "Down to Changunarayan",
+      "text": "A classic half-day hike leads west via Telkot down to the Licchavi temple of Changunarayan, and on to Bhaktapur. Mostly downhill, through villages and fields."
+    },
+    {
+      "title": "Sunset from the ridge",
+      "text": "On clear evenings, the light turns the peaks and the valley gold. Find a terrace with a view, order a hot drink and watch the colour fade from the snow before dinner."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Nagarkot is about 32 km east of central Kathmandu. By car or taxi, the drive via Bhaktapur takes about 1.5 hours, with the last 20 km climbing through hairpin bends. Local buses run from Bhaktapur to Nagarkot, taking about an hour. Most travellers use a private car with driver."
+    },
+    {
+      "mode": "On foot",
+      "text": "Walk up from Bhaktapur via Changunarayan and Telkot, or from Sankhu, in about 5 to 6 hours of steady climbing. Most visitors walk down rather than up, after a night on the ridge."
+    }
+  ],
+  "where_to_stay": "Hotels spread along the Nagarkot ridge, mostly facing north to the mountains. Club Himalaya, on Windy Hill, was the first resort here, with balcony rooms and an indoor pool. Smaller lodges and guesthouses sit near the view tower and along the road, with simple to mid-range rooms. Choose a room with a north-facing view, and check that heating is available from November to February, when nights drop close to freezing.",
+  "stays": [
+    "club-himalaya-nagarkot"
+  ],
+  "tips": [
+    "Book a north-facing room; the mountain view from bed is half the point of coming.",
+    "Bring a warm jacket, hat and gloves; sunrise temperatures are close to freezing from November to February.",
+    "Check the weather forecast; if the valley is in cloud, sunrise views may be lost.",
+    "Plan Nagarkot for the end of a trip if you are unsure of weather, so you can move it.",
+    "Walk down to Changunarayan or Bhaktapur the next day rather than driving straight back."
+  ],
+  "themes": [
+    "photography",
+    "treks-and-trails",
+    "honeymoons",
+    "slow-and-wellness"
+  ],
+  "nearby": [
+    "bhaktapur",
+    "changunarayan",
+    "dhulikhel"
+  ],
+  "experiences": [
+    {
+      "slug": "nagarkot-sunrise-view-tower",
+      "title": "Sunrise over the Himalaya from Nagarkot",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "image_query": "Nagarkot view tower sunrise mountains",
+      "wiki": "",
+      "summary": "Rise before dawn, walk or drive to the view tower or a ridge viewpoint, and watch the Himalaya appear in the first light from Ganesh Himal to the Rolwaling peaks. Your guide names each peak as it turns pink, then gold.",
+      "body": [
+        "We meet in the hotel lobby around 5.30 am in autumn and winter, earlier in spring. Wrapped in warm layers, we walk or drive a short way to the view tower at the top of the ridge, or to a quieter viewpoint nearby. Hot tea from a flask helps against the cold.",
+        "As the sky lightens in the east, the mountains appear in the north as faint shapes, then sharpen. The first peaks to catch the sun glow pink, then gold. Your guide names them as they appear: Ganesh Himal, Langtang Lirung, the broad snowy bulk of Dorje Lakpa, Gaurishankar, and on very clear days the far peaks towards Everest.",
+        "Below, the valleys are often filled with mist that slowly burns away. We stay until the light flattens, around an hour after sunrise, then return for breakfast. If the weather is cloudy, we try again the next day, or at sunset, when views can also clear."
+      ],
+      "good_for": [
+        "couples",
+        "photographers",
+        "families",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Can you see Everest from Nagarkot?",
+          "a": "On very clear days, Everest can be seen far to the east as a small point among other peaks, but it is hard to pick out and often hidden by haze. The clearest close views from Nagarkot are of Langtang, Dorje Lakpa, Gaurishankar and the Rolwaling peaks. October to February mornings are best."
+        },
+        {
+          "q": "What time is sunrise at Nagarkot?",
+          "a": "Sunrise ranges from about 5.15 am in June to about 6.50 am in January. Be at the viewpoint 20 to 30 minutes before, when the peaks start to show colour. Your hotel can give you the exact time for your date."
+        },
+        {
+          "q": "What is the best month for Nagarkot views?",
+          "a": "October and November are best, with clear, dry air after the monsoon. December to February are also good, though colder, with frost at dawn. From March, haze builds, and from June to September monsoon cloud usually hides the mountains."
+        }
+      ]
+    },
+    {
+      "slug": "nagarkot-tamang-village-forest-walk",
+      "title": "Pine forest and Tamang villages on the ridge",
+      "kind": "nature",
+      "duration": "3 hours",
+      "best_time": "Morning or afternoon, Oct–May",
+      "image_query": "Nagarkot pine forest trail",
+      "wiki": "",
+      "summary": "A gentle walk along the Nagarkot ridge through pine forest and into Tamang and Brahmin-Chhetri villages, with stops at a farmhouse for tea and a chat about farming and village life. Easy paths, wide views, no rush.",
+      "body": [
+        "From the hotel area, we follow a path into pine forest on the ridge, soft with needles underfoot. Birds call from the trees, and clearings open to views over the valleys on either side. The walking is easy, with gentle ups and downs, and suitable for most fitness levels.",
+        "After about an hour we come down into a Tamang village of scattered houses and terraced fields. Families grow maize, millet, potatoes and vegetables, and keep goats, chickens and buffalo. With your guide's help, we stop at a farmhouse for tea, and talk about how farming, schooling and work have changed.",
+        "We continue through fields and another small settlement, then loop back up to the ridge through forest. In spring, rhododendrons flower in patches; in autumn, the terraces are golden with ripening millet. We return to the hotel in time for lunch or sunset."
+      ],
+      "good_for": [
+        "families",
+        "couples",
+        "seniors",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Are there easy walks around Nagarkot?",
+          "a": "Yes. Many gentle trails run along the ridge through pine forest and down to nearby villages, from one to three hours. Paths are mostly earth and stone with gentle gradients. A guide helps you find the best loops and introduces you to villagers."
+        },
+        {
+          "q": "Who are the Tamang people?",
+          "a": "The Tamang are one of Nepal's larger ethnic groups, a Tibeto-Burman people who live mainly in the hills around the Kathmandu Valley. They have their own language and are mostly Buddhist. Around Nagarkot, many are farmers, and others work in tourism, transport and construction."
+        },
+        {
+          "q": "Can I visit a village home near Nagarkot?",
+          "a": "Yes, with a guide who knows the families. We stop for tea in a farmhouse where hosts are happy to receive visitors. Be polite, remove shoes if asked, accept tea with your right hand, and ask before taking photographs of people or their homes."
+        }
+      ]
+    },
+    {
+      "slug": "nagarkot-to-dhulikhel-ridge-trek",
+      "title": "Nagarkot to Dhulikhel along the rim",
+      "kind": "trek",
+      "duration": "5–6 hours",
+      "best_time": "Oct–Apr, early start",
+      "image_query": "trail Nagarkot Dhulikhel hills",
+      "wiki": "",
+      "summary": "A full-day hike from Nagarkot south-east along ridges and down through villages and terraced fields to Dhulikhel, with mountain views on clear mornings. Around 15 km, mostly downhill, ending in a Newar hill town for the night.",
+      "body": [
+        "We set off after an early breakfast, following the ridge south-east from Nagarkot. The first part runs through forest and along the top of the hill, with the Himalaya to the north if the morning is clear. The path then drops through small villages and terraced farmland, with long views over the hills of Kavre.",
+        "Midway, we stop at a village tea shop or a small bhanjyang, a saddle on the ridge, for tea and snacks. The route continues along farm tracks and paths, sometimes on rough roads, past schools, temples and fields of maize and vegetables. Village life carries on around us.",
+        "In the afternoon we reach Dhulikhel, an old Newar town on the Araniko Highway, for the night. Dhulikhel's own views of the Himalaya are excellent, and the next day you can continue to Namobuddha and Panauti or return to Kathmandu. Total distance is about 15 km."
+      ],
+      "good_for": [
+        "trekkers",
+        "couples",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the Nagarkot to Dhulikhel hike?",
+          "a": "About 15 km and 5 to 6 hours with stops, mostly downhill or level, from around 2,100 m to about 1,550 m. It suits walkers of average fitness. Parts follow dirt roads. A guide is recommended, as the route has many junctions."
+        },
+        {
+          "q": "Can I send my luggage ahead from Nagarkot to Dhulikhel?",
+          "a": "Yes. Most travellers send main bags by car to their Dhulikhel hotel and walk with a light daypack. We arrange this as part of the hike. Carry water, snacks, sun protection and a warm layer for the morning chill."
+        },
+        {
+          "q": "Is the Nagarkot to Dhulikhel trek suitable for beginners?",
+          "a": "Yes, for active beginners. There are no high altitudes or technical sections, but the full day on foot and some steep, loose descents need reasonable fitness and good shoes. It makes a good warm-up for a Himalayan trek."
+        }
+      ]
+    },
+    {
+      "slug": "nagarkot-sankhu-bajrayogini-descent",
+      "title": "Walk down to Sankhu and Bajrayogini",
+      "kind": "spiritual",
+      "duration": "4 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Bajrayogini temple Sankhu",
+      "wiki": "Sankhu",
+      "summary": "Walk north-west from Nagarkot down through forest and villages to Sankhu, an old Newar town on the trade route to Tibet, and climb to the hilltop temple of Bajrayogini. A quieter alternative to the classic routes, with a rich Newar town at the end.",
+      "body": [
+        "From the Nagarkot ridge, a path drops north-west through pine forest and Tamang settlements towards the valley floor. The descent takes about 2 to 3 hours on paths and tracks, with views across the north-eastern corner of the valley to the hills of Shivapuri.",
+        "We reach Sankhu, a Newar town that was once a stage on the trade route to Tibet. Its old core has brick houses, squares and temples, and many buildings rebuilt after 2015. Above the town, a stone stairway climbs through forest to the temple of Bajrayogini, a powerful tantric goddess revered by both Hindus and Buddhists.",
+        "At the temple complex, we see the pagoda shrines and the forest setting, and talk about the goddess and the town's festivals. If you visit during the month of Magh, you may see the Swasthani fast observed by women at the Salinadi river below. A car meets us in Sankhu for the drive back to Kathmandu."
+      ],
+      "good_for": [
+        "trekkers",
+        "solo",
+        "couples",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Where is Sankhu?",
+          "a": "Sankhu is an old Newar town at the north-eastern edge of the Kathmandu Valley, about 20 km from central Kathmandu and below the Nagarkot ridge. It was a stage on the trade route to Tibet. It is known for the hilltop Bajrayogini temple and its old town."
+        },
+        {
+          "q": "Who is Bajrayogini?",
+          "a": "Bajrayogini, or Vajrayogini, is a tantric goddess worshipped by both Newar Buddhists and Hindus. Her temple above Sankhu sits in forest on a hillside, reached by a stone stairway. Rules on entering inner shrines vary, so follow your guide's advice and any signs."
+        },
+        {
+          "q": "How long is the walk from Nagarkot to Sankhu?",
+          "a": "About 2 to 3 hours downhill on forest paths and village tracks, plus an hour for the climb to Bajrayogini temple and back. The route is not well signed, so a guide is useful. Arrange a car to meet you in Sankhu for the return."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Nagarkot worth visiting?",
+      "a": "Yes, if the weather is clear. A night at Nagarkot gives you a Himalayan sunrise without trekking, plus easy walks through forest and villages. If mountain views are your main goal and skies are cloudy, consider moving the night or choosing Dhulikhel, which can be clearer on some days."
+    },
+    {
+      "q": "How far is Nagarkot from Kathmandu?",
+      "a": "About 32 km east of central Kathmandu, a 1.5 hour drive via Bhaktapur, longer in traffic. Local buses from Bhaktapur take about an hour. Most travellers use a private car, often visiting Bhaktapur on the way up or down."
+    },
+    {
+      "q": "How many nights should I spend in Nagarkot?",
+      "a": "One night is usually enough: arrive in the afternoon for sunset, see sunrise, walk in the morning and leave after lunch. Two nights gives a second chance at a clear sunrise and time for a long hike. It pairs well with a night in Bhaktapur."
+    },
+    {
+      "q": "Is Nagarkot cold?",
+      "a": "Yes, compared with Kathmandu. At around 2,175 m, nights from November to February drop close to or below freezing, and mornings are cold. Days are pleasant in sunshine. Bring a warm jacket, hat and gloves, and check your room has heating in winter."
+    },
+    {
+      "q": "Can I do a day trip to Nagarkot?",
+      "a": "You can, but you will miss sunrise, the main reason to go. Midday views are often hazy. A day trip combined with Bhaktapur or Changunarayan works if you cannot stay overnight. For the mountains, stay the night. Sunset is the best substitute for sunrise."
+    },
+    {
+      "q": "Which mountains can you see from Nagarkot?",
+      "a": "On clear days, Ganesh Himal and Langtang to the north-west, Dorje Lakpa and the Jugal range due north, Gaurishankar and the Rolwaling peaks to the north-east, and distant peaks towards Everest on very clear mornings. Your hotel staff or guide can point them out."
+    },
+    {
+      "q": "Is Nagarkot good for a honeymoon?",
+      "a": "Yes. Quiet hotels with mountain-facing rooms, sunrise and sunset views, forest walks and cool air make it a good romantic break near Kathmandu. Choose a room with a balcony and heating, and pair it with a night at Dhulikhel or Bhaktapur."
+    },
+    {
+      "q": "What else is there to do in Nagarkot?",
+      "a": "Beyond the view, Nagarkot offers forest and village walks, longer hikes down to Changunarayan, Bhaktapur, Sankhu or Dhulikhel, mountain biking on ridge tracks, and quiet afternoons on a hotel terrace. There is little nightlife; most hotels have their own restaurants."
+    },
+    {
+      "q": "When should I avoid Nagarkot?",
+      "a": "June to August, the monsoon months, usually bring cloud, rain and few mountain views, though the forest is green. Late March to May can be hazy with occasional storms. If views matter, aim for October to February. Monsoon rates, though, are lower."
+    }
+  ]
+}

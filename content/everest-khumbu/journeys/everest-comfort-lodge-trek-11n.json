@@ -1,0 +1,273 @@
+{
+  "slug": "everest-comfort-lodge-trek-11n",
+  "title": "Everest Comfort Lodge Trek",
+  "region": "everest-khumbu",
+  "kind": "trek",
+  "nights": 11,
+  "themes": [
+    "treks-and-trails",
+    "slow-and-wellness",
+    "honeymoons",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 2
+    },
+    {
+      "place": "pangboche",
+      "nights": 2
+    },
+    {
+      "place": "khumjung",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "kathmandu",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 3150,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 4570,
+  "meta_description": "Everest comfort lodge trek in 11 nights: Yeti Mountain Home, Everest Summit Lodge Pangboche, Hotel Everest View, Tengboche and Dwarika's. From USD 3,150.",
+  "summary": "The Khumbu in comfort. Eleven nights pairing Dwarika's in Kathmandu with the best lodges on the trail: Yeti Mountain Home in Namche and Lukla, Everest Summit Lodge in Pangboche and Hotel Everest View above Khumjung. You walk to Tengboche, Pangboche and Ama Dablam base camp, with short days and private guiding.",
+  "intro": [
+    "Some travellers want the Everest trail but not plywood walls, shared squat toilets and a sleeping bag at minus ten. This trek uses the small group of comfort lodges built in the Khumbu over the last twenty years: stone buildings with proper beds, many rooms with their own bathroom, warm dining rooms and kitchens that cook more than dal bhat. The walking is still real walking, four to six hours most days.",
+    "We stop short of base camp and go no higher than Ama Dablam base camp, about 4,570 m, on a day hike, sleeping no higher than Pangboche at about 3,985 m. That keeps altitude risk lower while still putting you face to face with Ama Dablam, Everest and Lhotse. Kathmandu nights are at Dwarika's, a hotel built around the carved Newar windows its founder rescued from demolished houses. Its restaurants are among the best in the city."
+  ],
+  "story": "You walk the same river and bridges as every Everest trekker, but you arrive each afternoon to a warm dining room and a proper bed. Namche gives you its market and bakeries; then the long walk through the forest to Tengboche, where you lunch near the monastery before going on to Pangboche, the oldest Sherpa village in the upper valley. From there a day hike climbs to the meadows below Ama Dablam, where climbing teams camp in season. The return takes the high balcony trail via Phortse, a farming village that trains Sherpa climbers, to Khumjung and a night at Hotel Everest View. You end with Kathmandu: a guided morning in Patan and an evening at Boudhanath, where many Sherpa families from Solukhumbu now live.",
+  "highlights": [
+    "Comfort lodges with real beds: Yeti Mountain Home, Everest Summit Lodge and Hotel Everest View",
+    "Lunch at Tengboche Monastery and two nights in Pangboche below Ama Dablam",
+    "A day hike to Ama Dablam base camp at about 4,570 m",
+    "The high trail via Phortse, one of the quietest paths in the Khumbu",
+    "Two nights at Dwarika's Hotel with a guided morning in Patan"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu, Dwarika's",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at the airport and drive you to Dwarika's Hotel, a short distance away in Battisputali. The hotel's courtyards are built around centuries-old carved windows and doors that its founder collected from Kathmandu houses being torn down. In the afternoon your guide meets you for a relaxed briefing and kit check; on this trek you need less than usual, since lodges provide good bedding, though a light sleeping bag liner is still useful.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Lukla, walk to Monjo",
+      "place": "lukla",
+      "overnight": "Monjo",
+      "alt_m": 2835,
+      "move": "≈ 35 min flight · 5–6 h walk · +225 m net",
+      "text": "An early flight to Lukla, then a walk down to Phakding beside the Dudh Koshi and on along the river through Benkar to Monjo, where we stay at a comfort lodge just below the national park gate. Lunch is in Phakding. The first day is the longest of the trip but gentle, with pine forest, prayer wheels and suspension bridges. Tonight is at roughly the same height as Lukla, a soft start for your body.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Monjo to Namche, Yeti Mountain Home",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 3–4 h walk · +605 m",
+      "text": "Through the park gate at Monjo, down to Jorsalle and across the high Hillary suspension bridge, then the long, steady climb to Namche, taken slowly with tea breaks. From a gap in the trees halfway up, Everest's summit appears behind the Nuptse ridge if the sky is clear. You arrive at Yeti Mountain Home in time for lunch, with the afternoon free to rest, read or wander the lanes of the town.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Acclimatisation day in Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 3–4 h walk · +300 m and back",
+      "text": "We walk up to the national park visitor centre on the ridge and on along the ridge towards Syangboche for views of Everest, Lhotse, Ama Dablam and Thamserku. Back down, visit the Sherpa Culture Museum, set in a traditional house, to understand the people whose valley you are walking through. If it is Saturday, the weekly market is worth an hour. The afternoon is for coffee, books and an early dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Via Tengboche to Pangboche",
+      "place": "pangboche",
+      "overnight": "Pangboche",
+      "alt_m": 3985,
+      "move": "≈ 6–7 h walk · +545 m",
+      "text": "The level traverse to Kyangjuma, a drop to the river at Phunki Thenga and the two-hour climb through the forest to Tengboche, where we stop for lunch beside the monastery. If timing allows, visit the prayer hall. Then down through Deboche's rhododendrons, across the gorge and up to Pangboche and Everest Summit Lodge, facing Ama Dablam across the valley. This is the longest climbing day; take it slowly and drink often.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Day hike to Ama Dablam base camp",
+      "place": "pangboche",
+      "overnight": "Pangboche",
+      "alt_m": 3985,
+      "move": "≈ 5–6 h day hike · up to ≈ 4,570 m and back",
+      "text": "A climb-high, sleep-low day. We cross the river below Pangboche and climb through yak pastures to the meadow below Ama Dablam, about 4,570 m, where expeditions set up base camp in spring and autumn. The mountain's name means mother's amulet box, after the hanging glacier on its face. Back in Pangboche, visit the old gompa above the village, said to be the oldest in the Khumbu. Its walls hold old paintings of the Nyingma lineage; a small donation is welcome.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "High trail via Phortse to Everest View",
+      "place": "khumjung",
+      "overnight": "Hotel Everest View",
+      "alt_m": 3880,
+      "move": "≈ 6 h walk · −105 m net",
+      "text": "We take the quiet upper path from Pangboche across the hillside to Phortse, a farming village of stone-walled fields known for its climbing school that trains Sherpa mountain workers. Then down to the river, up to Mong La's chorten and along to Khumjung, where we visit the monastery and Hillary's school. The day ends at Hotel Everest View, on the ridge above, with sunset on Everest from the terrace. It is a long day but never steep for long, with tea stops in Phortse.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Khumjung and Khumde, down to Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 2–3 h walk · −440 m",
+      "text": "Sunrise from your room or the terrace, then a slow morning: a walk through Khumde to see the hospital Hillary's trust opened in 1966, and through Khumjung's potato fields and stone lanes. In the afternoon we drop past Syangboche back to Yeti Mountain Home in Namche. Free time for shopping, perhaps a singing bowl, a yak-wool shawl or a bag of Sherpa tea, and a celebratory dinner with your guide.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Namche to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 6–7 h walk · −580 m",
+      "text": "Down the zigzag to the Hillary bridge and along the Dudh Koshi through Monjo and Phakding, with lunch on a riverside terrace, then the hour's climb from Chheplung to Lukla. Tonight is at Yeti Mountain Home in Lukla, a short walk from the airstrip. Your guide reconfirms the morning flight. The porters finish here, and this is the evening to thank them; your guide can suggest what tip is normal.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Fly back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "Morning flight to Kathmandu, or in peak months to Ramechhap and a drive of four to five hours. Back at Dwarika's, the afternoon is for the pool, the spa or simply a long sleep. If cloud delays the flight we wait in Lukla in comfort, and tomorrow's Kathmandu day gives us room to absorb a delay without touching your international flight. Laundry from the trek can go to the hotel service the same evening, and dinner tonight is your own choice in the city.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 11,
+      "title": "Patan and Boudhanath",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 4–5 h guided city day",
+      "text": "A guided morning in Patan, the old city of craftsmen across the Bagmati, with the Durbar Square, the Golden Temple and the Patan Museum, one of the best small museums in Asia. In the late afternoon we drive to Boudhanath, the great stupa where many Sherpa families from Solukhumbu have settled, and walk the circuit as butter lamps are lit. It closes the circle of the trip neatly. Dinner tonight is free for you to choose; we can suggest places near the stupa.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 12,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 20 min transfer",
+      "text": "We drive you to the airport about three hours before your international flight. If you can stay longer, we suggest a few nights at Dwarika's Resort in Dhulikhel for views of the Himalaya from the rim of the valley, or a jungle lodge in Chitwan. Whatever you choose, the warm air and green fields feel very different after a week among the high peaks of the Khumbu. Leave any rented gear at reception for us to collect.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "dwarikas-hotel-kathmandu",
+    "yeti-mountain-home-namche",
+    "everest-summit-lodge-pangboche",
+    "hotel-everest-view",
+    "yeti-mountain-home-lukla"
+  ],
+  "includes": [
+    "Airport transfers and 3 nights at Dwarika's Hotel, Kathmandu, with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "8 nights in comfort lodges as named, or similar, with all meals on trek",
+    "Private licensed trekking guide and porters (one for every two guests)",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Guided morning in Patan with entrance fees, and Boudhanath visit",
+    "Guide and porter wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking and helicopter evacuation (required)",
+    "Drinks, laundry and spa treatments",
+    "Kathmandu lunches and dinners",
+    "Helicopter upgrades or extra nights caused by weather",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "Comfort lodges have limited rooms and fill early for October, November and April; we suggest booking four to six months ahead.",
+    "Since April 2023 foreign trekkers in national parks must walk with a licensed guide; enforcement in Khumbu has varied. Check current status before you travel.",
+    "If a named lodge is full, we use the nearest comparable lodge and tell you before you book.",
+    "Lukla flights carry a 15 kg baggage limit per person including hand luggage; extra kilos are charged.",
+    "A helicopter return from Pangboche or Namche to Kathmandu can be added on request, weather permitting.",
+    "Even at under 4,000 m, mild altitude symptoms are common; tell your guide early."
+  ],
+  "faqs": [
+    {
+      "q": "What is a comfort lodge on the Everest trek?",
+      "a": "It is a lodge built to a higher standard than a teahouse: proper beds, better-insulated rooms, many with attached bathrooms, warm dining rooms and more varied menus. In the Khumbu there are only a handful, run by groups such as Yeti Mountain Home and Everest Summit Lodges. They still have mountain limits: power cuts happen and rooms are simple."
+    },
+    {
+      "q": "How much does the Everest comfort lodge trek cost?",
+      "a": "This 11-night trip starts from USD 3,150 per person, twin sharing, with three Dwarika's nights, eight lodge nights with meals, Lukla flights, private guide, porters, permits and a guided Patan morning. Single rooms add about 25–35 percent, because lodges price per room. Visa, insurance, drinks and tips are extra."
+    },
+    {
+      "q": "Can I reach Everest Base Camp on a lodge trek?",
+      "a": "Comfort lodges reach only to about Pangboche and, in one chain, a few higher points; above that every trekker uses ordinary teahouses. We can extend this trip to base camp with four to five teahouse nights, or add a helicopter flight from Pangboche to land near Kala Patthar for a short visit. Ask us for the details and costs."
+    },
+    {
+      "q": "How difficult is this trek?",
+      "a": "It is moderate. Days are 3 to 7 hours, on good but rocky trails with long climbs, such as Namche and Tengboche. The highest night is about 3,985 m at Pangboche, with a day hike to about 4,570 m. Anyone who walks regularly at home and is in good health should manage it with the slow pace we set."
+    },
+    {
+      "q": "Is this a good trek for a honeymoon?",
+      "a": "Yes. Private guiding, rooms with attached bathrooms, sunsets at Hotel Everest View and the quiet of Pangboche make it one of the more romantic ways to see Everest. Pair it with a few nights in Pokhara or Chitwan, or at Dwarika's Resort in Dhulikhel, for a two-week trip that balances effort and rest."
+    },
+    {
+      "q": "When is the best time for an Everest lodge trek?",
+      "a": "October and November give the clearest views. March and April bring rhododendrons in the forests below Tengboche and warmer days. December is quiet and often clear; the comfort lodges are particularly welcome then. January and February are cold but possible. We avoid June to August, when cloud hides the mountains and flights are unreliable."
+    },
+    {
+      "q": "Do the lodges have heating and hot showers?",
+      "a": "Dining rooms are warmed, usually by a stove, and the comfort lodges offer far better bedding and insulation than ordinary teahouses. Most rooms we book have attached bathrooms with hot water, but power and hot water can still fail at altitude. Ask us about each lodge's current room types when you book; facilities change and we confirm them in writing."
+    },
+    {
+      "q": "Do I still need permits and a guide?",
+      "a": "Yes. You need the Sagarmatha National Park entry permit and the Khumbu Pasang Lhamu Rural Municipality permit, which we arrange. Nepal's 2023 rule requires a licensed guide for foreign trekkers in national parks, though Khumbu has applied it unevenly; on this trip a private guide is included anyway. Check current status before you travel."
+    },
+    {
+      "q": "Can I shorten the walk with a helicopter?",
+      "a": "Yes. Many guests fly out by helicopter from Namche or Syangboche instead of walking back to Lukla, saving a day and the long descent. Prices depend on fuel, season and how many seats are shared. Helicopters fly only in good visibility, so this is weather-dependent; ask us for a current quote."
+    }
+  ]
+}

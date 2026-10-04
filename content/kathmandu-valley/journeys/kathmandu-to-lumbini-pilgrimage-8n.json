@@ -1,0 +1,221 @@
+{
+  "slug": "kathmandu-to-lumbini-pilgrimage-8n",
+  "title": "Kathmandu to Lumbini: the Buddha's path",
+  "region": "kathmandu-valley",
+  "kind": "pilgrimage",
+  "nights": 8,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "slow-and-wellness"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 3
+    },
+    {
+      "place": "lumbini",
+      "nights": 3
+    },
+    {
+      "place": "tansen",
+      "nights": 1
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 1250,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1750,
+  "meta_description": "8 nights on a Buddhist pilgrimage from Kathmandu's stupas and Namobuddha to Lumbini, the Buddha's birthplace, ancient Kapilavastu and the hill town of Tansen.",
+  "summary": "An eight-night Buddhist pilgrimage that starts at the great stupas of the Kathmandu Valley and the hilltop shrine of Namobuddha, flies down to Lumbini for three nights at the Buddha's birthplace and the ruins of Kapilavastu, and climbs to Tansen in the Palpa hills before flying back. Easy days, good hotels and a guide who knows the texts.",
+  "intro": [
+    "The Buddha was born in what is now Nepal, in the garden of Lumbini on the plains near the Indian border, and grew up as a prince of the Shakya clan at Kapilavastu nearby. Centuries later, his teachings returned to the Himalaya by way of India and Tibet and took root in the Kathmandu Valley. This journey follows that thread in reverse, from the living Buddhism of Boudha and Swayambhu to the place where the story began.",
+    "You spend three nights near Boudhanath, with a day out to Namobuddha, then fly 35 minutes to Bhairahawa for Lumbini. There are three nights at the Buddha Maya Garden Hotel, close to the Sacred Garden, with a full day for the ancient Shakya sites of Tilaurakot, Kudan, Niglihawa and Gotihawa. Then the road climbs to Tansen for a night of cool air and Himalayan views before you fly back to Kathmandu."
+  ],
+  "story": "It begins in the circle of pilgrims around Boudhanath and on the wooded hill of Swayambhu, where the valley's Buddhist story starts with a lotus on a lake. A day at Namobuddha adds one of the Jataka tales, of a prince who gave his body to a tigress. Then the plane drops off the edge of the hills to the hot flat Terai. In Lumbini, inside the brick Maya Devi temple, a marker stone shows the spot where tradition places the birth, and outside stands the pillar that the emperor Ashoka raised when he came here as a pilgrim. A day west, among the ruined walls of Tilaurakot, you stand where many believe the young Siddhartha lived before he left home. The journey ends in the hills of Palpa, with Dhaulagiri on the horizon.",
+  "highlights": [
+    "Dawn kora at Boudhanath and the hilltop stupa of Swayambhunath",
+    "Namobuddha and the Jataka story of the prince and the tigress",
+    "The Maya Devi temple, the marker stone and the Ashoka pillar in Lumbini",
+    "The ruins of Tilaurakot, identified by many as ancient Kapilavastu",
+    "Sunrise over Dhaulagiri and the Annapurnas from Tansen's Srinagar hill"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive at Boudha, evening kora",
+      "place": "boudhanath",
+      "overnight": "Hyatt Regency Kathmandu, Boudha",
+      "alt_m": 1370,
+      "move": "≈ 4 km · 20 min from the airport",
+      "text": "We meet you at Tribhuvan International Airport and drive to the Hyatt Regency, a short walk from Boudhanath. After a rest, your guide walks you to the stupa for the evening kora. Join the stream of Tibetan families, monks and elderly pilgrims walking clockwise around the dome, spinning the prayer wheels set into the wall. Your guide explains the stupa's form, from the square base to the thirteen steps of the spire, as a map of the path to awakening. Light butter lamps before dinner.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Swayambhu and the courtyards of Patan",
+      "place": "swayambhunath",
+      "overnight": "Hyatt Regency Kathmandu, Boudha",
+      "alt_m": 1370,
+      "move": "≈ 30 km of city driving",
+      "text": "Drive early to Swayambhunath, on its hill west of the city. Walk the circuit of prayer wheels and shrines while your guide tells the Swayambhu Purana story of a lotus that bloomed on the lake that once filled the valley, and of Manjushri, who cut the hills to drain it. In the afternoon visit Patan's Newar Buddhist monasteries, the bahals, where Bajracharya and Shakya families have kept their shrines for centuries. See Kwa Bahal, the Golden Temple, and the terracotta Mahaboudha, then return to Boudha.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "A day at Namobuddha",
+      "place": "dhulikhel",
+      "overnight": "Hyatt Regency Kathmandu, Boudha",
+      "alt_m": 1370,
+      "move": "≈ 40 km · 1.5–2 h each way",
+      "text": "Drive east out of the valley through Banepa and up a hill road to Namobuddha, at about 1,750 m. Walk around the stupa where, the Jataka says, Prince Mahasattva gave his body to feed a starving tigress and her cubs, then climb to the stone tablet that shows the scene and to the Thrangu Tashi Yangtse monastery above. If prayers are on, sit at the back of the hall. Eat lunch with views of the Himalaya on clear days, and stop in the old Newar town of Dhulikhel on the way back.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 4,
+      "title": "Fly to Lumbini, the birthplace",
+      "place": "lumbini",
+      "overnight": "Buddha Maya Garden Hotel, Lumbini",
+      "alt_m": 100,
+      "move": "≈ 35 min flight to Bhairahawa; ≈ 22 km · 40 min drive",
+      "text": "Fly from Kathmandu to Bhairahawa, about 35 minutes, and drive to Lumbini. After lunch enter the Sacred Garden. Inside the Maya Devi temple, raised over the excavated brick foundations of older shrines, a stone marks the spot where tradition says Queen Maya Devi gave birth to Siddhartha Gautama. Outside stands the pillar raised by the emperor Ashoka, whose inscription records his visit to the Buddha's birthplace. Sit by the Puskarini pond, where the queen is said to have bathed, under prayer flags strung between the trees.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "The monastic zone of Lumbini",
+      "place": "lumbini",
+      "overnight": "Buddha Maya Garden Hotel, Lumbini",
+      "alt_m": 100,
+      "move": "By bicycle, rickshaw or car",
+      "text": "Return to the Sacred Garden at dawn, when monks and pilgrims chant beside the temple. After breakfast explore the monastic zone, laid out to a master plan by the Japanese architect Kenzo Tange, with monasteries built by Buddhist communities from many countries along a long central canal. Visit a handful of them, from Myanmar's golden pagoda to the German and Chinese temples, see the eternal peace flame and the Lumbini Museum, and end at the white World Peace Pagoda. In the evening watch for sarus cranes in the fields nearby.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Kapilavastu: Tilaurakot and Kudan",
+      "place": "tilaurakot",
+      "overnight": "Buddha Maya Garden Hotel, Lumbini",
+      "alt_m": 100,
+      "move": "≈ 30 km · 1 h each way, with short hops between sites",
+      "text": "Drive west to the sites of the Shakya kingdom. At Tilaurakot, brick walls, a moat and gateways lie under old trees; many archaeologists identify it with Kapilavastu, where Siddhartha grew up. Visit the small Kapilavastu Museum nearby. At Kudan, tradition says the Buddha met his father, King Suddhodana, after his enlightenment. At Niglihawa and Gotihawa, Ashoka pillars honour two earlier Buddhas of Buddhist tradition, Kanakamuni and Krakuchhanda. Return to Lumbini for an evening of quiet at the Sacred Garden.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Up into the hills to Tansen",
+      "place": "tansen",
+      "overnight": "Hotel Srinagar, Tansen",
+      "alt_m": 1350,
+      "move": "≈ 75 km · 3 h drive",
+      "text": "Leave the plains after breakfast and drive through Butwal, where the Siddhartha Highway begins to climb into the Mahabharat hills. The air cools and forest closes in. Tansen, the old capital of Palpa, sits on a ridge at about 1,350 m. Walk through its steep brick lanes with your guide to the Amar Narayan temple, built by the Gorkhali general Amar Singh Thapa, and the weavers who make Palpali dhaka cloth on hand looms. Check in to Hotel Srinagar on the hill above town, facing the Himalaya.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Dhaulagiri at dawn, fly to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Hyatt Regency Kathmandu, Boudha",
+      "alt_m": 1370,
+      "move": "≈ 65 km · 2.5 h to Bhairahawa; ≈ 35 min flight",
+      "text": "Walk up Srinagar hill at sunrise for a long view of the Himalaya, from Dhaulagiri in the west across the Annapurna range. After breakfast drive down to Bhairahawa for the afternoon flight back to Kathmandu. Return to Boudha for a last evening kora, when you may find the stupa and the circles of pilgrims look different after the days at Lumbini. Farewell dinner on a rooftop facing the dome. Pack light for the flight; domestic baggage allowances are lower than international ones.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Fly home",
+      "place": "boudhanath",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 4 km · 20 min to the airport",
+      "text": "If your flight allows, walk once more around Boudhanath at dawn, then visit Kopan Monastery on its hill to the north, or one of the thangka painting schools in the lanes around the stupa. The airport is only about 20 minutes away by car, so even an early afternoon flight leaves time for a slow morning. Your driver takes you to Tribhuvan International Airport. Allow extra time on busy festival weeks, when the airport road fills early.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hyatt-regency-kathmandu",
+    "buddha-maya-garden-hotel",
+    "hotel-srinagar-tansen"
+  ],
+  "includes": [
+    "4 nights at Hyatt Regency Kathmandu, 3 nights at Buddha Maya Garden Hotel and 1 night at Hotel Srinagar, twin sharing",
+    "Breakfast daily and the meals listed",
+    "Flights Kathmandu–Bhairahawa–Kathmandu",
+    "Licensed English-speaking guide in Kathmandu and a local guide in Lumbini and Kapilavastu",
+    "Private car for all transfers and sightseeing",
+    "Entry fees at heritage sites, Lumbini and the Kapilavastu sites"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fee",
+    "Lunches and dinners not listed",
+    "Donations at monasteries",
+    "Tips for guides and drivers",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Lumbini is hot from April to June, often above 35 °C; from December to January, mornings can be foggy and cold.",
+    "Shoes are removed inside the Maya Devi temple, and photography is restricted near the marker stone.",
+    "Bhairahawa's airport is Gautam Buddha International Airport; domestic flights to Kathmandu take about 35 minutes.",
+    "Buddha Jayanti, the full moon of Baisakh in April or May, draws large crowds of pilgrims to Lumbini.",
+    "Ramagrama and Devdaha, two more Buddhist sites east of Lumbini, can be added with an extra night."
+  ],
+  "faqs": [
+    {
+      "q": "Where was the Buddha born?",
+      "a": "Buddhist tradition, and the Ashoka pillar inscription found on site, place the Buddha's birth at Lumbini, in the Rupandehi district of southern Nepal, about 22 km from Bhairahawa and near the Indian border. The Maya Devi temple marks the birthplace inside the Sacred Garden. UNESCO listed Lumbini as a World Heritage Site in 1997."
+    },
+    {
+      "q": "How do I get from Kathmandu to Lumbini?",
+      "a": "The easiest way is to fly from Kathmandu to Bhairahawa, about 35 minutes, then drive 22 km to Lumbini, about 40 minutes. By road, Kathmandu to Lumbini is about 280 km and takes 8–10 hours. Tourist buses run daily. On this journey we fly both ways and use the road only between Lumbini and Tansen."
+    },
+    {
+      "q": "How many days do I need in Lumbini?",
+      "a": "Two full days is a good minimum: one for the Sacred Garden, the Maya Devi temple and the monastic zone, one for the Kapilavastu sites of Tilaurakot, Kudan, Niglihawa and Gotihawa. Add a day for Ramagrama and Devdaha, or for meditation in one of the monasteries. Three nights, as on this journey, allows a calm pace."
+    },
+    {
+      "q": "What is Tilaurakot?",
+      "a": "Tilaurakot is an archaeological site about 27 km west of Lumbini, with the brick foundations of a walled city, gateways and a moat. Many archaeologists identify it with Kapilavastu, the capital of the Shakya kingdom, where Siddhartha Gautama lived as a prince before leaving home. Excavations are still under way, and a small museum nearby shows finds from the area."
+    },
+    {
+      "q": "When is the best time to visit Lumbini?",
+      "a": "October to March is the most comfortable, with warm days and cool nights. December and January can bring thick morning fog and cold. April to June is very hot, often above 35 °C, and July to September is the monsoon. Buddha Jayanti, in April or May, is crowded but special for pilgrims who want to see the celebrations."
+    },
+    {
+      "q": "Can I meditate in Lumbini?",
+      "a": "Yes. Several monasteries in the monastic zone welcome visitors to sit during prayers, and some run meditation sessions or retreats, including Vipassana courses at a centre in the zone. Sessions and courses must be arranged in advance and follow their own schedules. We can leave a free morning or extend your stay for a retreat."
+    },
+    {
+      "q": "What is the dress code at the Maya Devi temple?",
+      "a": "Dress modestly, covering shoulders and knees, and remove shoes and hats before entering. Inside, walk quietly along the raised walkway, keep your voice low and follow signs about photography near the marker stone. Light colours are comfortable in the heat. Pilgrims often bring flowers or incense to offer, which you are welcome to do."
+    },
+    {
+      "q": "Why include Tansen on a Lumbini pilgrimage?",
+      "a": "Tansen breaks the heat of the plains with a night in the hills at about 1,350 m, and it is only about three hours from Lumbini. The old town has Newar houses, temples and dhaka weavers, and Srinagar hill above it gives a sunrise view of Dhaulagiri and the Annapurnas. It also makes a natural link if you want to continue to Pokhara."
+    },
+    {
+      "q": "Is this pilgrimage suitable for older travellers?",
+      "a": "Yes. The walking is easy and flat at Lumbini and Kapilavastu, with bicycle-rickshaws or cars available between monasteries. The highest point, Namobuddha at about 1,750 m, has a short stepped path. We use good hotels, plan rest in the hottest hours and keep the domestic flights early or mid-morning when weather is most reliable."
+    }
+  ]
+}

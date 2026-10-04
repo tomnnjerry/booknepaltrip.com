@@ -1,0 +1,172 @@
+{
+  "slug": "limi-valley",
+  "name": "Limi Valley",
+  "name_ne": "लिमी उपत्यका",
+  "local_name": "",
+  "region": "far-west",
+  "kind": "valley",
+  "wiki": "Limi",
+  "image_query": "Halji monastery Limi valley Humla",
+  "lat": 30.26,
+  "lng": 81.5,
+  "altitude_m": 3700,
+  "tagline": "Three Tibetan villages and an 11th-century monastery on the border",
+  "meta_description": "Limi valley guide: Halji's Rinchenling monastery, the villages of Til and Jang, the Nyalu La at 4,995 m, Kailash views from Lapcha La, permits and the Humla loop.",
+  "summary": "The Limi valley is the northernmost corner of Humla, on the border with Tibet's Purang county. Its three villages, Til, Halji and Jang, sit between 3,700 and 4,100 m, follow Drikung Kagyu Buddhism and keep the Rinchenling monastery at Halji, linked to the 11th-century translator Rinchen Zangpo. It is reached by a restricted-area trek from Simikot.",
+  "intro": [
+    "Few valleys in Nepal feel as far away as Limi. To reach it you fly to Simikot and then walk for days, either over the Nyalu La at almost 5,000 m or round by Hilsa on the Tibetan border. When you arrive, the landscape is Tibetan: bare brown hills, fields of barley watered by stone channels, flat-roofed villages under monasteries, and the great massif of Gurla Mandhata to the north.",
+    "The valley has only three settlements: Til at about 4,100 m, Halji at 3,700 m and Jang, also written Dzang, at 3,920 m. Fewer than a thousand people live here. Each village has its own gonpa, and the people, called Limi-pa, follow the Drikung Kagyu school of Tibetan Buddhism, farming, herding yaks and sheep and trading across the border, as they always have.",
+    "The great treasure is the Rinchenling monastery at Halji, believed to have been founded by Rinchen Zangpo, the 11th-century scholar who helped bring Buddhism back to western Tibet. From the Lapcha La on the border, on clear days, you can see Lake Manasarovar and Mount Kailash. This is a trek for experienced walkers with time, patience and a restricted area permit."
+  ],
+  "story": {
+    "title": "A Tibetan valley on Nepal's side of the line",
+    "paras": [
+      "Limi has always faced north. Its people share language, faith and family ties with western Tibet, and for centuries they traded and grazed across what is now the border with Purang. Halji's Rinchenling monastery is believed to have been built by Lotsawa Rinchen Zangpo, the great translator of the 11th century, and scholars note narrative and physical evidence placing its oldest parts in that period. It closely resembles the Tabo monastery in Spiti, India, also linked to Rinchen Zangpo.",
+      "When the modern border hardened after the 1950s, Limi found itself on the Nepali side, far from Kathmandu and closer to Taklakot than to Simikot. The valley's economy, built on barley, yaks, sheep and trade, had to adapt. In recent years a rough road has been built from the border near the Lapcha La to the Salli Khola, giving Jang a road link to Taklakot in Tibet, while the trails south to Simikot remain long and hard.",
+      "Today Limi faces new pressures. Since 2004 a series of glacial lake outburst floods have destroyed parts of Halji village and come close to the monastery, which scientists link to climate change. Young people leave for school and work in Kathmandu and India. Yet the villages keep their festivals, their gonpas and their fields, and visitors who make the journey are received with great hospitality."
+    ]
+  },
+  "legend": "Tradition in Limi holds that Rinchen Zangpo, travelling through the western Himalaya to found temples, built Rinchenling at Halji as one of a chain of monasteries across Ngari, Ladakh and Spiti. Villagers say the old images and wall paintings inside date from his time, and treat the monastery as the spiritual heart of the whole valley.",
+  "people": "The Limi-pa are a Tibetan-speaking Buddhist community of fewer than a thousand people in three villages. They farm barley, buckwheat and peas in irrigated fields, keep yaks, sheep, goats and horses, and trade with Purang across the border. Each village has a gonpa and lamas of the Drikung Kagyu school. Many families spend winters lower down or in Kathmandu, returning for the farming season.",
+  "untold": [
+    {"fact": "The Limi valley has just three settlements: Til at about 4,100 m, Halji at 3,700 m and Jang (Dzang) at 3,920 m. Its population was 988 in 1991 and 904 in the 2011 census.", "source": "Wikipedia: Limi"},
+    {"fact": "Halji's Rinchenling monastery is believed to have been built by the 11th-century translator Rinchen Zangpo, and it bears strong historical and artistic resemblances to the Tabo monastery in Spiti, India.", "source": "Wikipedia: Limi"},
+    {"fact": "A wild yak, thought to have been extinct in Nepal for about five decades, was reported in the Limi valley in 2014. Snow leopard, kiang, Tibetan gazelle and argali have also been recorded there.", "source": "Wikipedia: Limi; Humla District"}
+  ],
+  "local_words": [
+    {"word": "Gonpa", "script": "དགོན་པ།", "lang": "Tibetan", "meaning": "Monastery; each Limi village has one"},
+    {"word": "Chorten", "script": "མཆོད་རྟེན།", "lang": "Tibetan", "meaning": "Stupa or reliquary monument, walked around clockwise"},
+    {"word": "La", "script": "ལ།", "lang": "Tibetan", "meaning": "Mountain pass, as in Nyalu La and Lapcha La"}
+  ],
+  "taste": {"name": "Tsampa with butter tea", "text": "Roasted barley flour mixed by hand into a dough with salty butter tea, eaten for breakfast and on the trail. Barley is the main crop of Limi's irrigated fields. Your host family in Til, Halji or Jang will offer it, along with thukpa noodle soup in the evening."},
+  "facts": [
+    ["Best months", "May – Jun, Sep – Oct"],
+    ["Days we suggest", "3–4 in the valley (14–18 day trek)"],
+    ["Nearest airport", "Simikot (IMK)"],
+    ["From Kathmandu", "Fly via Nepalgunj to Simikot, then 4–7 days on foot"],
+    ["Altitude", "3,700 – 4,100 m (Nyalu La 4,995 m)"],
+    ["Known for", "Rinchenling monastery, Kailash views, Tibetan villages"]
+  ],
+  "best_months": [0, 0, 0, 0, 2, 2, 1, 1, 2, 2, 0, 0],
+  "nights": "3–4",
+  "highlights": [
+    {"title": "Rinchenling monastery at Halji", "text": "The gonpa at Halji is believed to date in part from the 11th century and to have been founded by Rinchen Zangpo. Its old images and paintings make it one of the most important early Buddhist sites in Nepal. Ask the lama for permission to enter."},
+    {"title": "Kailash from the Lapcha La", "text": "From the Lapcha La on the Tibetan border, on a clear day, you look across to Lake Manasarovar and the distant dome of Mount Kailash. For many trekkers it is the emotional high point of the Humla loop."},
+    {"title": "Crossing the Nyalu La", "text": "The southern route into Limi crosses the Nyalu La at about 4,995 m, a long, high day over scree and snow with views across the Humla ranges, before descending to the Talung valley and Limi."},
+    {"title": "Til, Halji and Jang", "text": "Each of Limi's three villages has its own character: Til high on its terrace, Halji under its great monastery, Jang at the eastern end with its fields. Stay in local homes and watch the farming year at close quarters."},
+    {"title": "Wildlife of the high valleys", "text": "Limi's pastures and cliffs hold blue sheep, Himalayan wolf, Tibetan fox, kiang, Tibetan gazelle and snow leopard, and a wild yak was reported here in 2014. Sightings need luck and time on the upper slopes."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu to Nepalgunj (about 1 hour) and Nepalgunj to Simikot (about 50 minutes). Simikot is the start of all treks to Limi. Weather delays are common; allow spare days in both directions."},
+    {"mode": "On foot", "text": "From Simikot, either follow the Humla Karnali upstream and turn north at the Salli Khola confluence, crossing the Nyalu La at about 4,995 m into the Talung valley and on to Limi near Jang (4–5 days), or walk via Hilsa and climb east into Limi near Til (5–7 days). Most treks combine both as a loop."},
+    {"mode": "Road", "text": "A rough road now runs from the Tibetan border near the Lapcha La to the Salli Khola, linking Jang by road to Taklakot in Tibet. It is used by locals and supply vehicles; it does not replace the trek for visitors. Check current status before you travel."}
+  ],
+  "where_to_stay": "There are no hotels in the Limi valley. Trekkers stay in family homes in Til, Halji and Jang, arranged by their guide, or camp near the villages with a supported crew. Homes are warm and welcoming, with simple bedding and meals of tsampa, potatoes and thukpa; toilets are basic. On the approach routes, camping is usually necessary, especially around the Nyalu La. Come fully equipped.",
+  "stays": [],
+  "tips": [
+    "Acclimatise carefully before the Nyalu La at about 4,995 m; add rest days and turn back if symptoms of altitude sickness appear.",
+    "Bring a four-season sleeping bag and down jacket; nights in Limi fall well below freezing even in summer.",
+    "Ask before entering a gonpa or photographing inside, and walk clockwise around chortens and mani walls.",
+    "Carry gifts such as fruit, tea or school supplies for host families rather than handing out sweets to children.",
+    "Limi needs the Humla restricted area permit, a licensed agency and guide, and at least two trekkers; check current status before you travel."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "spiritual-and-pilgrimage", "villages-and-homestays"],
+  "nearby": ["simikot"],
+  "experiences": [
+    {
+      "slug": "limi-halji-rinchenling-gonpa",
+      "title": "Inside Halji's Rinchenling monastery",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning, May–Oct",
+      "image_query": "Rinchenling gompa Halji",
+      "wiki": "",
+      "summary": "Visit the Rinchenling gonpa at Halji, believed to have been founded by the 11th-century translator Rinchen Zangpo, with a lama of the Drikung Kagyu school, and see one of the oldest Buddhist monasteries in Nepal.",
+      "body": [
+        "Rinchenling stands at the heart of Halji village at about 3,700 m. It is believed to have been founded by Lotsawa Rinchen Zangpo, the scholar and translator who travelled western Tibet and the Himalaya in the 11th century founding temples. Narrative and physical evidence places its oldest parts in that period.",
+        "With a lama's permission you can enter the assembly hall and chapels, where old statues, painted walls and texts are kept. The monastery is often compared with Tabo in Spiti, India, which is also linked to Rinchen Zangpo. It is the spiritual centre of the whole valley, and villagers gather here for festivals and prayers.",
+        "Photography inside is often not allowed; ask first and respect the answer. Leave a donation for the upkeep of the gonpa. Glacial floods since 2004 have damaged parts of Halji and threatened the monastery, so support for its care matters."
+      ],
+      "good_for": ["trekkers", "photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "How old is the Halji monastery?", "a": "Rinchenling at Halji is believed to have been founded by Rinchen Zangpo in the 11th century, and scholars cite narrative and physical evidence placing its oldest parts in that period. It has been repaired and expanded over the centuries."},
+        {"q": "Can visitors enter Rinchenling gonpa?", "a": "Usually yes, with the permission of the lama or caretaker, who will open the hall for you. Remove your shoes, walk clockwise, do not touch images and ask before taking photos. A donation for the monastery is expected and appreciated."},
+        {"q": "Which school of Buddhism is followed in Limi?", "a": "The people of Limi follow the Drikung Kagyu school of Tibetan Buddhism. Each of the three villages, Til, Halji and Jang, has its own small gonpa, with Rinchenling at Halji the most important."}
+      ]
+    },
+    {
+      "slug": "limi-lapcha-la-kailash-view",
+      "title": "Kailash and Manasarovar from the Lapcha La",
+      "kind": "trek",
+      "duration": "Full day from Jang",
+      "best_time": "Clear mornings, May–Jun and Sep–Oct",
+      "image_query": "Lapcha La Kailash view Humla",
+      "wiki": "Mount Kailash",
+      "summary": "Climb to the Lapcha La on the Tibetan border above the Limi valley, where on a clear day the view opens across to Lake Manasarovar and the snow dome of Mount Kailash, the holy mountain of four faiths.",
+      "body": [
+        "The Lapcha La lies on the Nepal–Tibet border at the eastern end of the Limi valley. It is reached by a long day's walk or ride from Jang, gaining height over open, dry slopes. Nearby, a rough road crosses the border towards Taklakot.",
+        "From the pass, on a clear day, the land drops away into the Tibetan plateau and Lake Manasarovar shines in the distance, with the dome of Mount Kailash beyond. For Hindus, Buddhists, Jains and Bon followers Kailash is the most sacred mountain on earth, and many trekkers find the view deeply moving.",
+        "Start early, as cloud often builds by midday. Carry warm and windproof clothing, water and lunch. Stay on the Nepali side of the border at all times, and follow your guide's instructions near border posts."
+      ],
+      "good_for": ["trekkers", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Can you really see Kailash from Nepal?", "a": "Yes. From the Lapcha La on the border at the end of the Limi valley, on a clear day, you can see Lake Manasarovar and the distant dome of Mount Kailash. The view depends on weather, so allow a spare day in Jang."},
+        {"q": "Can I cross into Tibet at the Lapcha La?", "a": "No. Foreign visitors cannot cross the border at the Lapcha La on a Limi trek. The official crossing for Kailash tours is at Hilsa, with a Chinese group visa and Tibet permits arranged by an authorised agency."},
+        {"q": "How high is the Lapcha La?", "a": "It is a high border pass, well above the villages of the Limi valley, and published heights vary. Your guide will plan the climb with acclimatisation in mind. Expect cold wind and thin air, and turn back if anyone feels unwell."}
+      ]
+    },
+    {
+      "slug": "limi-nyalu-la-crossing",
+      "title": "Over the Nyalu La into Limi",
+      "kind": "trek",
+      "duration": "1 long day (part of a 4–5 day approach)",
+      "best_time": "Jun–Oct",
+      "image_query": "Nyalu La pass Humla trek",
+      "wiki": "Great Himalaya Trail",
+      "summary": "Cross the Nyalu La at about 4,995 m, the high pass on the southern approach to the Limi valley, then descend through the Talung valley to the first view of Limi near Jang.",
+      "body": [
+        "The southern route to Limi leaves the Humla Karnali at its confluence with the Salli Khola and climbs north through remote valleys to the Nyalu La, at about 4,995 m. It is the highest point of the Limi loop and one of the toughest days on any trek in the far west.",
+        "The climb goes over scree and often snow, with wide views back over the Humla ranges. On the far side you descend to the Talung valley, used for summer grazing, and after another day's walk enter the Limi valley near Takche, east of Jang.",
+        "Cross only with good acclimatisation, an experienced guide and a supported crew, as there are no lodges. Start before dawn, carry plenty of water and warm clothing, and be ready to turn back in bad weather. Many trekkers do the loop in the other direction, entering via Hilsa and leaving over the Nyalu La."
+      ],
+      "good_for": ["trekkers"],
+      "faqs": [
+        {"q": "How hard is the Nyalu La crossing?", "a": "It is demanding: a long day climbing to about 4,995 m over scree and sometimes snow, with no shelter on the pass. You need good fitness, previous high-altitude experience, proper acclimatisation and a supported crew with tents."},
+        {"q": "Which direction is best for the Limi loop?", "a": "Many groups go clockwise, walking to Hilsa first and entering Limi via Til, then leaving over the Nyalu La, which allows gradual acclimatisation. Others reverse it. Your guide will choose based on conditions, permits and group fitness."},
+        {"q": "Is the Nyalu La part of the Great Himalaya Trail?", "a": "The far western section of the Great Himalaya Trail ends in Humla at Hilsa, and some long-distance itineraries finish with the Limi valley and the Nyalu La. You can walk it as a stand-alone trek or as the final stage of a longer traverse."}
+      ]
+    },
+    {
+      "slug": "limi-til-jang-wildlife-pastures",
+      "title": "Blue sheep and kiang on the upper pastures",
+      "kind": "wildlife",
+      "duration": "Half day to full day",
+      "best_time": "Early morning, May–Oct",
+      "image_query": "Bharal blue sheep Humla",
+      "wiki": "",
+      "summary": "Spend a day scanning the high pastures above Til and Jang with a local herder or guide, looking for blue sheep, kiang, Tibetan gazelle and, with great luck, wolf or snow leopard in one of Nepal's least disturbed corners.",
+      "body": [
+        "Above Limi's villages the land rises into wide pastures and cliffs, grazed by yaks and sheep in summer and home to wild animals rarely seen elsewhere in Nepal. Blue sheep are the most common, often in herds on rocky slopes. Kiang, the Tibetan wild ass, and Tibetan gazelle have been recorded nearer the border.",
+        "Predators are here too: Himalayan wolf, Tibetan fox, Himalayan brown bear and snow leopard have all been reported in Limi. In 2014 a wild yak, a species thought lost from Nepal for half a century, was seen in the valley. Upper Humla is also rich in birds, including large raptors that ride the thermals above the cliffs.",
+        "Go with a local herder or guide who knows where animals graze this season, start at first light and bring binoculars or a spotting scope. Keep a respectful distance from herding camps and their mastiff dogs, which guard flocks fiercely."
+      ],
+      "good_for": ["photographers", "trekkers", "solo"],
+      "faqs": [
+        {"q": "Can I see snow leopards in Limi?", "a": "Snow leopards have been reported in Limi, but sightings by trekkers are rare and a matter of luck. Blue sheep, their main prey, are seen often. Scan cliffs at dawn and dusk with binoculars and a local guide for the best chance."},
+        {"q": "Are there wild yaks in Limi?", "a": "A wild yak was reported in the Limi valley in 2014, the first record in Nepal for about five decades. Wild yaks remain extremely rare here. The yaks you see grazing near villages are domestic animals."},
+        {"q": "Are herding dogs dangerous in Limi?", "a": "They can be. Tibetan mastiffs guard flocks and camps and may attack strangers. Never approach a herding camp without your guide, carry a trekking pole, and wait for the owner to secure the dogs before going near."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is the Limi valley?", "a": "Limi is the northernmost part of Humla district in Karnali Province, north-western Nepal, bordering Purang county in Tibet. It is a ward of Namkha rural municipality, with three villages: Til, Halji and Jang."},
+    {"q": "How do I get to the Limi valley?", "a": "Fly Kathmandu to Nepalgunj and Nepalgunj to Simikot, then trek four to seven days, either over the Nyalu La at about 4,995 m or via Hilsa on the Tibetan border. Most trekkers walk a loop using both routes, taking 14–18 days from Kathmandu."},
+    {"q": "Do I need a permit for Limi?", "a": "Yes. Limi lies in the Humla restricted area. You need a special permit arranged by a licensed trekking agency, a group of at least two trekkers and a licensed guide, with fees charged per week. Check current status before you travel."},
+    {"q": "What is the best time to trek to Limi?", "a": "May to June and September to October. Limi lies in a rain shadow, so July and August are also possible, with green fields and fewer clouds than elsewhere. From November to April snow closes the passes and many villagers move lower."},
+    {"q": "How difficult is the Limi valley trek?", "a": "It is a challenging trek: remote, long, with a pass at about 4,995 m, long days and few facilities. It suits fit trekkers with previous high-altitude experience, travelling with a supported crew and plenty of spare days."},
+    {"q": "Is there accommodation in Limi?", "a": "There are no hotels. Trekkers stay in family homes in Til, Halji and Jang, arranged by their guide, or camp near the villages. On the approach routes, especially around the Nyalu La, camping is necessary."},
+    {"q": "Why is the Halji monastery important?", "a": "Rinchenling at Halji is believed to have been founded by Rinchen Zangpo in the 11th century, making it one of the oldest Buddhist monasteries in Nepal. It resembles Tabo in Spiti and is the spiritual centre of the Limi valley."},
+    {"q": "Can I see Mount Kailash from Limi?", "a": "Yes, on a clear day from the Lapcha La on the border at the eastern end of the valley, you can see Lake Manasarovar and Mount Kailash. Allow time in Jang for good weather; cloud often builds by midday."},
+    {"q": "Is Limi affected by climate change?", "a": "Yes. Since 2004 a series of glacial lake outburst floods have destroyed parts of Halji village and come close to the Rinchenling monastery. Scientists link these floods to warming in the high Himalaya."}
+  ]
+}

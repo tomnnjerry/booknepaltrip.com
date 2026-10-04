@@ -1,0 +1,43 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ e.title }} · {{ p.name }}, {{ r.name }} · Book Nepal Trip{% endblock %}
+{% block description %}{{ e.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block crumbs %}{% endblock %}
+{% block content %}
+<header class="phead phead--paper">
+  {% contours e.slug 9 %}
+  <div class="wrap">{% include "yatra/partials/crumbs.html" %}
+    <div class="phead__grid">
+      <div>
+        <p class="eyebrow"><span>{{ e.kind|kind_name }} · {{ p.name }}</span></p>
+        <h1 class="h-xl">{{ e.title }}</h1>
+        <p class="lede">{{ e.summary }}</p>
+        <div class="readouts">
+          <div><span class="mono">{% icon "clock" %}Takes</span><b>{{ e.duration }}</b></div>
+          <div><span class="mono">{% icon "calendar" %}Best time</span><b style="font-size:.9rem">{{ e.best_time }}</b></div>
+          <div><span class="mono">{% icon "altitude" %}Height</span><b>{{ p.altitude_m|num }} m</b></div>
+        </div>
+        <div class="btn-row"><a class="btn btn--lg btn--sweep" href="{% url 'plan' %}?land={{ r.slug }}&journey={{ e.title|urlencode }}&from={{ request.path|urlencode }}" data-cta="exp-plan">Add this to my trip</a></div>
+      </div>
+      <div>{% photo e.images|first e.title "photo--43" "(max-width: 1020px) 100vw, 45vw" True %}</div>
+    </div>
+  </div>
+</header>
+<div class="dhaka dhaka--land"></div>
+<section class="sec">
+  <div class="wrap split">
+    <div>
+      <div class="read prose">{% for para in e.body %}<p{% if forloop.first %} class="drop"{% endif %}>{{ para }}</p>{% endfor %}</div>
+      {% if e.good_for %}<p class="eyebrow" style="margin-top:20px">Good for</p><div class="chips">{% for g in e.good_for %}<span class="chip">{{ g|capfirst }}</span>{% endfor %}</div>{% endif %}
+      <h2 class="h-m" style="margin-top:1.6em">Questions</h2>{% include "yatra/partials/faq.html" with faqs=e.faqs %}
+    </div>
+    <aside class="split__aside">
+      <a class="card" href="{{ p.url }}" style="text-decoration:none"><div class="card__img">{% with i=p|first_img %}{% if i %}<img src="{{ i|src:500 }}" alt="" loading="lazy">{% endif %}{% endwith %}</div><div class="card__body"><div class="card__meta"><span>The place</span><b>{{ p.altitude_m|num }} m</b></div><h3>{{ p.name }}</h3><p>{{ p.tagline }}</p></div></a>
+      {% include "yatra/partials/quick_form.html" with land=r.slug qf_source="exp" qf_title="Ask about this experience" %}
+    </aside>
+  </div>
+</section>
+<section class="sec sec--paper2 sec--tight"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Also in {{ p.name }}</p><h2 class="h-m">More ways to spend the day</h2></div></div><div class="grid grid--3">{% for e in siblings %}{% include "yatra/partials/card_exp.html" %}{% endfor %}</div></div></section>
+{% endblock %}
+{% block cta %}{% include "yatra/partials/cta.html" with land=r.slug %}{% endblock %}

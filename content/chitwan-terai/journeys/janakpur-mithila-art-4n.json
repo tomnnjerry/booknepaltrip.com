@@ -1,0 +1,69 @@
+{
+  "slug": "janakpur-mithila-art-4n",
+  "title": "Janakpur and Mithila Art",
+  "region": "chitwan-terai",
+  "kind": "culture",
+  "nights": 4,
+  "themes": ["crafts-and-makers", "heritage-and-temples", "spiritual-and-pilgrimage", "food-and-festivals"],
+  "grade": "Easy",
+  "stops": [{"place": "kathmandu", "nights": 1}, {"place": "janakpur", "nights": 3}],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 850,
+  "best_months": [1, 2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Unhurried",
+  "max_altitude_m": 1400,
+  "meta_description": "Janakpur and Mithila art tour, 4 nights: Janaki Mandir, the city of ponds, a painting day with Maithil women artists, Dhanusha Dham and the Janakpur railway.",
+  "summary": "Four nights for the Mithila culture of Nepal's south-east: one in Kathmandu, three in Janakpur. The white-domed Janaki Mandir, the sacred ponds, a full day painting with Maithil women artists, the pilgrimage site of Dhanusha Dham and a short ride on the Janakpur–Jaynagar railway.",
+  "intro": [
+    "Janakpur is the old heart of Mithila, the land the Ramayana calls Videha, ruled by King Janak, whose daughter Sita married Ram. For Hindus across South Asia it is one of the holiest towns in Nepal, and for everyone else it is the best place in the country to meet Maithil culture: its language, the second most spoken in Nepal, its food and the painting tradition women have kept on the walls of their homes for centuries.",
+    "We built this trip around that art. Mithila painting began as a household ritual, drawn on mud walls for weddings and festivals and on floors in rice paste, and is still made by Maithil women today, now also on paper, cloth and pottery. You spend a full day with artists, see the painted houses of the villages, and have time for the temples, ponds and lanes of a town most foreign visitors pass by."
+  ],
+  "story": "The flight from Kathmandu is half an hour, but the change is total. You leave a mountain city and land in a plain of rice fields, mango groves and ponds, where the language is Maithili, the women wear bright saris and the rickshaws ring their bells around the white domes of Janaki Mandir. At dusk the temple fills with bells and conch shells and families sit on the steps of Ganga Sagar. The next day the colours are on paper. In a courtyard south of town, women who learned from their mothers sketch fish, peacocks and elephants in firm black lines and fill them with red, yellow and green. On the last morning, at Dhanusha Dham, pilgrims touch a stone they say is part of Shiva's broken bow. Mithila is a living place, and you feel it.",
+  "highlights": [
+    "Evening aarti at Janaki Mandir, the 1910 temple that marks Sita's birthplace in Hindu tradition",
+    "A full day with Maithil women artists, learning the lines and symbols of Mithila painting",
+    "Village walks among houses painted for weddings and festivals",
+    "Dhanusha Dham, where tradition says a piece of Shiva's bow fell when Ram broke it",
+    "A short ride on the Janakpur–Jaynagar railway, reopened for passengers in 2022"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu", "place": "kathmandu", "overnight": "Kathmandu", "alt_m": 1400, "move": "", "text": "We meet you at Tribhuvan International Airport and drive you to your hotel. If you arrive early, a short walk to Patan Durbar Square or the Patan Museum makes a good introduction to the temple arts of Nepal, which you can compare with the very different style of the Terai. In the evening your guide briefs you on Janakpur, Mithila etiquette, temple dress and what to expect in the heat or cool of the plains, depending on the season.", "meals": ""},
+    {"day": 2, "title": "Fly to Janakpur, Janaki Mandir at dusk", "place": "janakpur", "overnight": "Janakpur", "alt_m": 74, "move": "≈ 30 min flight", "text": "A morning flight south-east to Janakpur, with views of the Mahabharat range and then the open plain. After check-in and lunch, rest through the heat of the day. In the late afternoon we walk to Janaki Mandir, built in 1910 by Queen Vrisha Bhanu of Tikamgarh and known locally as Nau Lakha Mandir after its cost of nine lakh rupees. Stay for the evening aarti, when bells, lamps and singing fill the courtyard, then walk to the Vivah Mandap and the ghats of Ganga Sagar.", "meals": "Breakfast, Dinner"},
+    {"day": 3, "title": "A day with Mithila artists", "place": "janakpur", "overnight": "Janakpur", "alt_m": 74, "move": "≈ 15–30 min by rickshaw or car", "text": "Today is for Mithila painting. We visit the Janakpur Women's Development Centre in Kuwa, just south of town, where Maithil women have worked as painters, potters and textile artists since the late 1980s. An artist walks you through the symbols: fish for fertility, bamboo for family, the sun and moon for long life. After lunch you paint your own piece with natural and modern colours. Late afternoon, a village walk to see aripan floor designs and walls painted for a recent wedding.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Dhanusha Dham and the railway", "place": "dhanusha-dham", "overnight": "Janakpur", "alt_m": 74, "move": "≈ 18 km · 45 min each way", "text": "Morning drive north-east to Dhanusha Dham, a pilgrimage site where tradition says a fragment of Shiva's great bow fell after Ram broke it to win Sita's hand. Pilgrims come to touch the stone pieces kept in the shrine. Back in Janakpur, we take a short ride on the Janakpur–Jaynagar railway, which reopened for passengers in 2022, to a nearby station inside Nepal and return by car. The evening is free to wander the ponds and the sweet shops of the bazaar.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Fly back to Kathmandu", "place": "", "overnight": "Kathmandu", "alt_m": 1400, "move": "≈ 30 min flight", "text": "A last morning in Janakpur: an early walk to the ponds when families come to bathe and pray, and time to buy paintings, ceramics or block-printed cloth directly from the artists. Then the flight back to Kathmandu, where we transfer you to your hotel or the international airport. If you want more of the Terai, Chitwan is about 6 to 7 hours by road from Janakpur and makes a good add-on of two or three nights.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Return flights Kathmandu–Janakpur and all airport transfers",
+    "1 night Kathmandu and 3 nights in a good hotel in Janakpur, twin sharing",
+    "Meals as listed",
+    "English-speaking guide in Janakpur and local Maithili-speaking guide for village visits",
+    "Mithila painting workshop with materials",
+    "Private car for Dhanusha Dham and village visits; railway tickets"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Paintings and crafts you buy, temple donations, drinks and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Janakpur hotels are simple to mid-range; we choose clean, well-run places close to the temple.",
+    "Dress modestly for temples: shoulders and knees covered; shoes off inside temple grounds.",
+    "Vivah Panchami, the re-enactment of Ram and Sita's wedding, falls in November or December and fills the town; book early.",
+    "Railway timetables and border rules for the Janakpur–Jaynagar line change; check current status before you travel.",
+    "From April to June daytime temperatures in Janakpur often pass 38 °C."
+  ],
+  "faqs": [
+    {"q": "Why is Janakpur important?", "a": "Hindu tradition holds that Janakpur was the capital of King Janak of Videha, and that his daughter Sita was born and married here. It is a major pilgrimage town for Hindus from Nepal and India, especially during Vivah Panchami and Ram Navami. It is also the cultural centre of Nepal's Maithil community and of Mithila painting."},
+    {"q": "What is Mithila painting?", "a": "A folk art of the Mithila region, painted mainly by women. It began on the mud walls and floors of homes for weddings, festivals and rituals, with bold black outlines, bright colours and symbols such as fish, peacocks, bamboo and the sun. Today it is also painted on paper, canvas, pottery and cloth, and sold across the world."},
+    {"q": "How do I get to Janakpur from Kathmandu?", "a": "By air, about 30 minutes on a daily flight. By road, about 225 km via the BP Highway through Sindhuli, which takes 6 to 8 hours. From Chitwan, Janakpur is about 6 to 7 hours by road along the East-West Highway. Flight schedules change, so check current status before you travel."},
+    {"q": "When is the best time to visit Janakpur?", "a": "October to March. Late autumn brings Chhath, when families make offerings to the setting and rising sun at the ponds, and Vivah Panchami, the re-enactment of Ram and Sita's wedding, usually in November or December. Winter days are mild with cool, sometimes foggy mornings. From April the plains get very hot."},
+    {"q": "Can I buy Mithila paintings directly from artists?", "a": "Yes. The Janakpur Women's Development Centre sells work by its members, and artists in villages around town also sell from home. Prices depend on size and detail, from small pieces at a few hundred rupees to larger works at many thousands. Buying direct means more money goes to the painter."},
+    {"q": "Is Janakpur safe for foreign travellers?", "a": "Yes. Janakpur is a friendly pilgrimage town that sees few foreign tourists, so expect curiosity rather than hassle. Political strikes, called bandh, have sometimes closed roads in the Terai, so keep plans flexible. Use common sense at night, carry small change and dress modestly. Our guide stays with you on all visits."},
+    {"q": "What is Dhanusha Dham?", "a": "A pilgrimage site about 18 km north-east of Janakpur, where tradition says a piece of Shiva's bow fell when Ram broke it while stringing it to win Sita's hand. Pilgrims come to see and touch stone fragments believed to be part of the bow. It is busiest at Makar Sankranti in January and during Vivah Panchami."},
+    {"q": "What food should I try in Janakpur?", "a": "Try dahi chura, beaten rice with thick curd and sugar, a Maithil staple; fresh fish from the ponds; makhana, the fox nut grown in the ponds of Mithila; and seasonal sweets from the bazaar. Many Maithil Brahmin households are vegetarian, while fish is central to others. Street samosas and jalebi are everywhere."},
+    {"q": "Can I combine Janakpur with Chitwan?", "a": "Yes, easily. Drive from Janakpur to Chitwan in 6 to 7 hours, spend two or three nights in Sauraha or Meghauli, then fly or drive back to Kathmandu. Our Ramayana trail journey links Janakpur, Dhanusha Dham and Devghat with a night in Chitwan for this reason."}
+  ]
+}

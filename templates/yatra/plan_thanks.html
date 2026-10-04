@@ -1,0 +1,7 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Thank you · Book Nepal Trip{% endblock %}
+{% block cta %}{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Dhanyabad · धन्यवाद</p><h1 class="h-xl">Your note is with a planner</h1><p class="lede">We reply within one working day, from Nepal time (UTC+5:45). If you asked for WhatsApp or a call, we will use that.</p><div class="btn-row" style="margin-top:20px"><a class="btn" href="{% url 'journal' %}">Read a story while you wait</a><a class="btn btn--ghost" href="{% url 'home' %}">Back to the home page</a></div></div></header>
+<script>window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"generate_lead"});</script>
+{% endblock %}

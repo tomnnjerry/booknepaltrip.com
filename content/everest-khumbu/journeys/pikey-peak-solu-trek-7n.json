@@ -1,0 +1,212 @@
+{
+  "slug": "pikey-peak-solu-trek-7n",
+  "title": "Pikey Peak and Junbesi Trek in Solu",
+  "region": "everest-khumbu",
+  "kind": "trek",
+  "nights": 7,
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "spiritual-and-pilgrimage",
+    "photography"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "phaplu",
+      "nights": 1
+    },
+    {
+      "place": "junbesi",
+      "nights": 4
+    },
+    {
+      "place": "phaplu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 950,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 4065,
+  "meta_description": "Pikey Peak trek in 7 nights: Phaplu, the Sherpa village of Junbesi, Thupten Chholing monastery and sunrise on Everest from Pikey at 4,065 m. From USD 950.",
+  "summary": "A short, quiet trek in Solu, the lower half of Solukhumbu. Drive to Phaplu, walk to the Sherpa village of Junbesi and the monastery of Thupten Chholing, then climb Pikey Peak, 4,065 m, for sunrise on a long line of Himalaya with Everest in the middle. No Lukla flight, few trekkers, seven nights.",
+  "intro": [
+    "Before the Lukla airstrip, every Everest expedition walked across Solu. Today most trekkers fly over it, which leaves its Sherpa villages, apple orchards and rhododendron ridges to the people who live there and the few walkers who come. Pikey Peak, a grassy summit at 4,065 m south-west of Junbesi, gives one of the widest Himalayan panoramas in the region, from the Rolwaling peaks to Everest, Lhotse and Makalu. The trail sees few foreigners.",
+    "This trek reaches the top without going high enough for serious altitude trouble, and it uses roads at both ends, so you are not hostage to Lukla's weather. Junbesi is the heart of the trip: an old Sherpa village with a gompa, stone houses and fields along a clear river, and two hours up the valley the large monastery of Thupten Chholing, home to many monks and nuns. We stay two nights there."
+  ],
+  "story": "The drive out of Kathmandu runs for hours along river valleys and over ridges into Solu, the Sherpas' Shorong, where the hills are greener and lower than the Khumbu and the villages mix Sherpa, Rai, Tamang and Chhetri families. From Phaplu the trail climbs through pine and rhododendron to Junbesi, a village of whitewashed houses and prayer flags around its gompa. Up the valley, Thupten Chholing grew from a refuge founded by Trulshik Rinpoche after he left Tibet in 1959 into one of the largest Buddhist communities in Solukhumbu. Then the climb onto the ridge to Pikey, through forest into high pasture with yak herders' huts. From the summit at sunrise, the whole eastern Himalaya lines up, Everest a small, sharp pyramid among them.",
+  "highlights": [
+    "Sunrise from Pikey Peak, 4,065 m, with Everest, Lhotse, Makalu and the Rolwaling peaks",
+    "Junbesi, an old Sherpa village with its gompa and stone lanes",
+    "A visit to Thupten Chholing monastery, home to many monks and nuns",
+    "No Lukla flight, road access at both ends, few other trekkers",
+    "Rhododendron forests in March and April"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at the airport and take you to your hotel. In the afternoon your guide explains the trek, the long drive tomorrow and what to pack. This route is lower and warmer than the Khumbu, but Pikey's summit is cold at dawn, so bring a warm jacket, gloves and a hat. Teahouses here are simpler than on the Everest trail, so a sleeping bag is essential in every season.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Drive to Phaplu",
+      "place": "phaplu",
+      "overnight": "Phaplu",
+      "alt_m": 2413,
+      "move": "≈ 260 km · 9–11 h by jeep, or flight when operating",
+      "text": "An early start in a private jeep, east out of the valley and along river valleys and over ridges into Solukhumbu. The road is paved in parts and rough in others, with tea stops in roadside bazaars. Phaplu sits in a wide valley with a small airstrip and a hospital, a few minutes from Salleri, the district headquarters. Flights from Kathmandu to Phaplu run only on some days; we use them when they operate.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phaplu to Junbesi",
+      "place": "junbesi",
+      "overnight": "Junbesi",
+      "alt_m": 2675,
+      "move": "≈ 5 h walk · +260 m net",
+      "text": "We walk north out of Phaplu through pine forest, villages and terraced fields, climbing to a ridge with chortens and prayer flags and then down into the Junbesi valley. Junbesi, at about 2,675 m, is an old Sherpa village of whitewashed stone houses with carved wooden windows, gathered round its gompa beside a clear river. In autumn the orchards are heavy with apples. Visit the gompa in the late afternoon light.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Day walk to Thupten Chholing",
+      "place": "junbesi",
+      "overnight": "Junbesi",
+      "alt_m": 2675,
+      "move": "≈ 4–5 h round walk · +300 m and back",
+      "text": "A gentle walk up the valley through forest and fields to Thupten Chholing, the monastery founded by Trulshik Rinpoche, a senior Nyingma lama, after he left Tibet in 1959. It grew into a large community of monks and nuns, with small houses for retreatants spread across the hillside. If prayers are on, you may sit quietly at the back of the hall. Dress modestly, walk clockwise and ask before photographing anyone.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Junbesi to Pikey Base Camp",
+      "place": "junbesi",
+      "overnight": "Pikey Base Camp",
+      "alt_m": 3640,
+      "move": "≈ 6–7 h walk · +965 m",
+      "text": "The longest climb of the trek. From Junbesi we go up through rhododendron, oak and fir forest onto the long ridge that leads to Pikey, with views opening north to the snow peaks. Higher up the forest gives way to open pasture and yak herders' stone huts. A few simple lodges at Pikey Base Camp, about 3,640 m, are tonight's stop. Rest, drink plenty and go to bed early for the dawn climb.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Pikey Peak sunrise, back to Junbesi",
+      "place": "junbesi",
+      "overnight": "Junbesi",
+      "alt_m": 2675,
+      "move": "≈ 1.5 h up · ≈ 6 h down · −965 m overnight",
+      "text": "We start in the dark for the summit at 4,065 m, hung with prayer flags. As the sun rises it lights a long line of peaks from Gauri Shankar and Numbur in the west to Everest, Lhotse and Makalu in the east, with the green hills of Solu folding away below. After tea and photographs we walk back to base camp for breakfast and then all the way down to Junbesi for a warm night.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Junbesi to Phaplu",
+      "place": "phaplu",
+      "overnight": "Phaplu",
+      "alt_m": 2413,
+      "move": "≈ 5 h walk · −260 m net",
+      "text": "We retrace the trail over the ridge and down through pine forest and farming villages to Phaplu. If there is time in the afternoon, and energy, you can visit Chiwong Monastery, founded in 1923 on a cliff above the valley, where the Mani Rimdu masked dances are held each autumn. In the evening a last dinner with your guide and porter, who usually come from villages close by. Phaplu has a few shops for snacks.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Return to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 9–11 h by jeep, or flight when operating",
+      "text": "We drive back to Kathmandu, or fly if a Phaplu flight is operating that day. The road gives a long last look at Solu's ridges and river valleys. The trip ends on arrival at your Kathmandu hotel in the evening. If you have time to stay on, we can add nights in Bhaktapur or Patan, or a few days in Pokhara or Chitwan, for an easy finish to the trip.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "kathmandu-guest-house"
+  ],
+  "includes": [
+    "Airport transfer and 1 night at Kathmandu Guest House, twin sharing with breakfast",
+    "Private jeep Kathmandu–Phaplu–Kathmandu",
+    "Licensed trekking guide and one porter for every two trekkers",
+    "6 nights in local teahouses, twin rooms, with three meals a day on trek",
+    "Trekking permits and local fees where required",
+    "Guide, porter and driver wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking and evacuation (required)",
+    "Kathmandu–Phaplu flights (supplement, when operating)",
+    "Hot showers, charging and drinks on trek",
+    "Kathmandu lunches and dinners",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Pikey is outside Sagarmatha National Park, so no park fee applies; local and trekking permit rules change, so check current status before you travel.",
+    "Since April 2023 Nepal requires foreign trekkers in protected areas to use a licensed guide; on this route a guide is in any case essential, as trails are less marked.",
+    "The road to Phaplu is long and can be slow after rain; travel times are a guide only.",
+    "Teahouses at Pikey Base Camp are basic: shared toilets, no showers, simple rooms.",
+    "December and January are clear and quiet here, with frost at night and few other trekkers.",
+    "Spring brings rhododendron forest in flower, but more afternoon haze over the peaks."
+  ],
+  "faqs": [
+    {
+      "q": "Can you see Everest from Pikey Peak?",
+      "a": "Yes. On a clear morning Everest appears as a sharp pyramid in a long line of peaks, with Lhotse and Makalu to its right and the Rolwaling peaks to the west. It is far away, so it looks smaller than from Kala Patthar, but the width of the panorama, from Gauri Shankar in the west to Makalu in the east, is the reward."
+    },
+    {
+      "q": "How difficult is the Pikey Peak trek?",
+      "a": "It is moderate. Most days are 5 to 7 hours of walking on village trails and forest paths, with one long climb from Junbesi to base camp and an early summit. The highest point, 4,065 m, is low enough that serious altitude sickness is rare, though mild headaches are possible at base camp."
+    },
+    {
+      "q": "How much does the Pikey Peak trek cost?",
+      "a": "This 7-night trip starts from USD 950 per person, twin sharing, including a private jeep to Phaplu and back, a licensed guide and porter, six nights in local teahouses with three meals a day and one Kathmandu hotel night. Flights to Phaplu, when operating, cost extra. Insurance, visa, drinks and tips are not included."
+    },
+    {
+      "q": "Do I need a permit for Pikey Peak?",
+      "a": "Pikey lies outside Sagarmatha National Park, so no park fee applies. Rules on trekking permits and local fees in Solu have changed over the years, and the national guide requirement from 2023 also applies to trekkers in protected areas. We arrange whatever is current. Check current status before you travel."
+    },
+    {
+      "q": "What is the best time to trek to Pikey Peak?",
+      "a": "October to December gives the clearest mountain views and stable weather. March and April bring rhododendrons in flower through the forests above Junbesi, with more haze in the afternoons. January and February are cold but clear. The monsoon months, June to August, bring cloud, rain and leeches, and the road can be blocked."
+    },
+    {
+      "q": "What is Thupten Chholing?",
+      "a": "It is a large Tibetan Buddhist monastery and retreat community in the valley above Junbesi, founded by Trulshik Rinpoche after he came from Tibet in 1959. Many monks and nuns live there, in small houses spread across the hillside. Visitors are welcome to walk around quietly; ask before photographing anyone and dress modestly."
+    },
+    {
+      "q": "Is the Pikey Peak trek good for beginners?",
+      "a": "Yes, for beginners with reasonable fitness. It introduces Himalayan trekking without the altitude, crowds or flight risks of the Everest trail. Teahouses are simpler, so expect basic rooms and shared toilets. Families with teenagers, and walkers who want a quiet first trek with a big view, often choose it."
+    },
+    {
+      "q": "How long is the drive from Kathmandu to Phaplu?",
+      "a": "About 9 to 11 hours by private jeep, covering roughly 260 km of mixed paved and rough road. Breakdowns, landslides and roadworks can add time, especially in and after the monsoon. Flights from Kathmandu to Phaplu take about 30 minutes but run only on some days; we book them when they operate."
+    },
+    {
+      "q": "Can I combine Pikey Peak with the Everest trek?",
+      "a": "Yes. From Junbesi you can continue east on the old trail through Ringmo, Nunthala and Kharikhola to Lukla and on to Namche, reaching Lukla on foot in about four days. It makes an excellent acclimatisation build-up for base camp. Ask about our Solu–Khumbu walk-in trip."
+    }
+  ]
+}

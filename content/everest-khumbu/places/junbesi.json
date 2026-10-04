@@ -1,0 +1,165 @@
+{
+  "slug": "junbesi",
+  "name": "Junbesi",
+  "name_ne": "जुनबेसी",
+  "local_name": "",
+  "region": "everest-khumbu",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Junbesi village Solukhumbu",
+  "lat": 27.563,
+  "lng": 86.54,
+  "altitude_m": 2675,
+  "tagline": "Solu's monastery village on the old walking road to Everest",
+  "meta_description": "Junbesi, about 2,675 m: Thubten Chholing nunnery and monastery, the Lamjura La rhododendrons, Ringmo apples and the old Jiri route to Everest. A quiet Sherpa village.",
+  "summary": "Junbesi is a Sherpa village at about 2,675 m in a wide Solu valley below Numbur, on the old walking route from Jiri to Everest. An hour or so above it stands Thubten Chholing, founded in 1968 by Trulshik Rinpoche after he fled Tibet, one of the largest Buddhist nunneries in the Himalaya.",
+  "intro": [
+    "Junbesi lies in a bowl of fields and pine forest beside the Junbesi Khola, its whitewashed Sherpa houses gathered around an old village gompa and a big chorten, with the snows of Numbur at the head of the valley. Trekkers coming over the Lamjura La from the west drop into it after a long day, and many say it is the prettiest village on the old route to Everest.",
+    "Before Lukla's airstrip opened in 1964, expeditions walked this way, and Junbesi was a regular halt. Today far fewer trekkers pass, which makes it a rewarding place to linger. The village has a long-established school, family lodges, apple and potato fields, and the Serlo Gompa with its monastic school.",
+    "North of the village, a trail climbs to Thubten Chholing, founded in 1968 by Trulshik Rinpoche, the Rongbuk lama who crossed into Nepal in 1959 with monks and nuns. It is now one of the largest Tibetan Buddhist nunneries in the Himalaya, home to hundreds of monastics. A morning there, among the chanting and the prayer wheels, is the reason many come to Junbesi."
+  ],
+  "story": {
+    "title": "Refugee lamas and the road the expeditions walked",
+    "paras": [
+      "Junbesi is an old Sherpa settlement of Solu, the lower valleys the Sherpas call Shorong. Its families farmed potatoes, barley and wheat on the valley floor, herded yaks on the high pastures under Numbur and traded along the trail that linked the Kathmandu Valley with Khumbu. Before 1964 that trail, through Jiri, the Lamjura La, Junbesi and Ringmo, was the only way to Everest, and early expeditions marched along it.",
+      "In 1959, as Chinese control tightened over Tibet, Trulshik Rinpoche, a senior lama of Rongbuk Monastery on the north side of Everest, fled over the passes into Khumbu with a large group of monks and nuns. After some years in Khumbu he was given land near Junbesi, and in 1968 he built Thubten Chholing. It grew into one of the largest Nyingma communities in Nepal, especially of nuns, and Trulshik Rinpoche became one of the most respected teachers of his tradition, teacher to the Dalai Lama among others, until his death in 2011.",
+      "Today Junbesi is a quiet village where trekkers are welcome but not dominant. Roads now reach nearby, and fewer people walk the whole Jiri route, but the trail still links Junbesi with Ringmo, the Taksindu La and the Dudh Koshi. In spring the Lamjura La above the village blazes with rhododendron; in autumn the potato harvest and clear skies over Numbur make it glow."
+    ]
+  },
+  "legend": "",
+  "people": "Junbesi is a Sherpa village of farmers, lodge keepers and families with relatives working in Kathmandu and abroad. Above it, Thubten Chholing's monks and nuns, many from Solu and Khumbu and some of Tibetan origin, form a large monastic community. Serlo Gompa runs a monastic school. Sherpa is the home language, Tibetan the language of the monasteries, and Nepali the common tongue.",
+  "untold": [
+    {"fact": "Trulshik Rinpoche fled Rongbuk Monastery in Tibet in 1959 with many monks and nuns, and built Thubten Chholing near Junbesi in 1968. It became one of the largest Tibetan Buddhist nunneries in the Himalaya.", "source": "Wikipedia: Trulshik Rinpoche"},
+    {"fact": "Trulshik Rinpoche, the founder of Thubten Chholing, was one of the teachers of the 14th Dalai Lama and became head of the Nyingma school in 2010, a year before his death in 2011.", "source": "Wikipedia: Trulshik Rinpoche"},
+    {"fact": "Before the Lukla airstrip opened in 1964, the walking route through Jiri, the Lamjura La and Junbesi was the main approach to Khumbu and Everest from the Kathmandu Valley.", "source": "Wikipedia: Jiri"}
+  ],
+  "local_words": [
+    {"word": "ani", "script": "ཨ་ནི", "lang": "Tibetan", "meaning": "Buddhist nun; Thubten Chholing has a large community"},
+    {"word": "lama", "script": "བླ་མ", "lang": "Tibetan", "meaning": "Teacher or monk; in Sherpa villages also a married householder priest"},
+    {"word": "mani", "script": "མ་ཎི", "lang": "Sherpa", "meaning": "Prayer stone or wall carved with om mani padme hum"}
+  ],
+  "taste": {"name": "Apple pie and apple rakshi", "text": "Junbesi and neighbouring Ringmo sit among Solu's apple orchards, and in autumn lodges bake apple pie in wood-fired ovens, press juice and distil apple rakshi, a clear spirit served warm. Try a slice in Junbesi and the rakshi only if you are not climbing higher the next day."},
+  "facts": [["Best months", "Oct – Nov, Mar – Apr"], ["Days we suggest", "1–2 nights"], ["Nearest airport", "Phaplu (PPL), about 4–5 h on foot"], ["From Kathmandu", "Jeep or flight to Phaplu + 1 day on foot"], ["Altitude", "≈ 2,675 m"], ["Known for", "Thubten Chholing, Lamjura La rhododendrons, old Everest route"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Thubten Chholing", "text": "About an hour above Junbesi, Thubten Chholing was founded in 1968 by Trulshik Rinpoche and is home to hundreds of monks and nuns. Morning prayers, rows of prayer wheels and the nuns' quarters spread across the hillside make a quiet, powerful visit."},
+    {"title": "Junbesi's village gompa and chorten", "text": "At the heart of the village, the old gompa and big whitewashed chorten anchor daily life. Walk the kora in the late afternoon with older villagers turning prayer wheels."},
+    {"title": "Lamjura La rhododendrons", "text": "West of Junbesi, the Lamjura La at about 3,530 m crosses forests of rhododendron, magnolia and fir that bloom red, pink and white in March and April. It is the highest point on the old Jiri–Everest trail."},
+    {"title": "Ringmo apples and the Taksindu La", "text": "East of Junbesi, Ringmo's orchards supply apple pie and juice in autumn, and the trail climbs on to the Taksindu La and Taksindu monastery with views of Numbur and the Khumbu peaks."},
+    {"title": "Serlo Gompa and its school", "text": "In the village, Serlo Gompa trains young monks in a monastic school. Visitors may see the prayer hall and, with permission, the classes at work."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Phaplu, about 4–5 hours via Salleri and the forest trail north. From the west, the old route over the Lamjura La, about 3,530 m, from Sete or the roadheads beyond Jiri. East to Ringmo, about 2–3 hours."},
+    {"mode": "Road", "text": "Jeeps from Kathmandu reach Phaplu and Salleri in 10–12 hours; rough roads now approach Junbesi too, but conditions change after every monsoon. Check current status before you travel."},
+    {"mode": "Air", "text": "The nearest airstrip is Phaplu, about 30–35 minutes by air from Kathmandu, then a 4–5 hour walk."}
+  ],
+  "where_to_stay": "Junbesi has several family-run lodges with simple rooms, some with attached bathrooms, warm dining rooms and good home cooking, often with vegetables and apples from their own gardens. The village is quiet and rooms are rarely full except in October and April. Ringmo, 2–3 hours east, has a few more lodges among the orchards. There is no upmarket hotel here; we pick lodges by recent visits.",
+  "stays": [],
+  "tips": [
+    "Visit Thubten Chholing in the early morning for prayers, and dress modestly.",
+    "Ask permission before photographing monks or nuns, especially the young ones.",
+    "Walk the Lamjura La in March or April for the rhododendron bloom.",
+    "Carry cash; there are no ATMs in Junbesi.",
+    "Combine Junbesi with Phaplu and Chiwong for a gentle Solu loop of 4–6 days."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "villages-and-homestays", "treks-and-trails", "slow-and-wellness"],
+  "nearby": ["phaplu", "lukla"],
+  "experiences": [
+    {
+      "slug": "junbesi-thubten-chholing-morning",
+      "title": "Morning prayers at Thubten Chholing",
+      "kind": "spiritual",
+      "duration": "3 hours",
+      "best_time": "Early morning, all year",
+      "image_query": "Thubten Choling monastery Junbesi nuns",
+      "wiki": "Trulshik Rinpoche",
+      "summary": "Walk an hour above Junbesi to Thubten Chholing, the monastic community Trulshik Rinpoche founded in 1968 after fleeing Tibet. Join the morning chanting, walk the lines of prayer wheels and see one of the largest Buddhist nunneries in the Himalaya.",
+      "body": [
+        "The trail climbs north from Junbesi through pine and along the valley side for about an hour. Then the hillside opens into a settlement of its own: a large main temple, a ring of prayer wheels, and dozens of small whitewashed houses where monks and nuns live, many of them built by the residents themselves. Prayer flags run between the roofs.",
+        "Thubten Chholing was founded in 1968 by Trulshik Rinpoche, a lama of Rongbuk Monastery on the north side of Everest who crossed into Nepal in 1959. It belongs to the Nyingma school and is especially known for its large community of nuns, among the largest in the Himalaya. Its practice continues the ritual traditions of Rongbuk.",
+        "Arrive for the morning puja and sit quietly at the back of the hall as the chanting rises. Afterwards walk the kora around the temple, turning the wheels clockwise. Remove shoes and hats inside, dress modestly, ask before photographing anyone, and leave a donation. Many visitors find this the most peaceful morning of their time in Nepal."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Who founded Thubten Chholing?", "a": "Trulshik Rinpoche, a senior Nyingma lama from Rongbuk Monastery in Tibet, who fled to Nepal in 1959 with many monks and nuns. He built Thubten Chholing near Junbesi in 1968. He was one of the teachers of the 14th Dalai Lama and became head of the Nyingma school in 2010. He died in 2011."},
+        {"q": "How far is Thubten Chholing from Junbesi?", "a": "About an hour's walk north of Junbesi, climbing gently through forest. Allow about three hours for the round trip, including time for prayers and the kora. The monastery stands at roughly 3,000 m, so the walk is easy, with no real altitude concerns for most visitors."},
+        {"q": "Can visitors attend prayers at Thubten Chholing?", "a": "Usually yes, if quiet and respectful. Come in the early morning, remove shoes and hats, sit at the back and avoid flash or photography during rituals. Dress modestly with shoulders and knees covered. Leave a donation. Ask your guide to confirm visiting times on the day."}
+      ]
+    },
+    {
+      "slug": "junbesi-village-gompa-kora",
+      "title": "Junbesi's old gompa and evening kora",
+      "kind": "heritage",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, all year",
+      "image_query": "Junbesi monastery chorten",
+      "wiki": "",
+      "summary": "Spend a late afternoon in Junbesi's centre, at the old village gompa and the large chorten, walking the kora with older villagers and visiting Serlo Gompa's monastic school. A slow introduction to Sherpa village religion in Solu.",
+      "body": [
+        "Junbesi's centre is a small square of whitewashed houses around a big chorten and the village gompa, with prayer flags strung from rooftops. Late afternoon is when the village comes out: older women and men walk the kora around the chorten and gompa, spinning hand prayer wheels and murmuring mantras, while children play and lodge keepers chat in doorways.",
+        "The village gompa, older than Thubten Chholing, serves Junbesi's lay community. Its lamas, some of them married householders as is common in Sherpa villages, lead rituals for births, deaths, harvests and festivals such as Dumji. Ask the caretaker to open the prayer hall if it is closed; inside are painted walls and statues of Guru Rinpoche and the Buddha.",
+        "A short walk away, Serlo Gompa runs a monastic school for young monks. With permission you may see the classes or the prayer hall. Keep a respectful distance during lessons. Walk clockwise around every sacred structure, leave small donations, and if you are invited for tea in a house, accept. This is Junbesi at its most itself."
+      ],
+      "good_for": ["families", "seniors", "solo", "couples"],
+      "faqs": [
+        {"q": "What is there to see in Junbesi village?", "a": "The old village gompa and its large chorten, the Serlo Gompa monastic school, traditional Sherpa houses and fields, and views of Numbur at the head of the valley. Thubten Chholing is an hour's walk north. Late afternoon is the best time, when villagers walk the kora around the chorten."},
+        {"q": "Are Sherpa village lamas monks?", "a": "Not always. In many Sherpa villages, the lamas who serve the village gompa are householders who marry and farm, performing rituals for the community. Celibate monks and nuns live in monasteries such as Tengboche, Thubten Chholing and Serlo. Both traditions are part of the Nyingma school."},
+        {"q": "Can I visit Serlo Gompa in Junbesi?", "a": "Usually yes, with permission. It runs a monastic school for young monks, so be quiet and avoid disturbing classes. The prayer hall can often be opened by a caretaker. Ask your guide to arrange it, remove shoes and hats inside, and leave a small donation."}
+      ]
+    },
+    {
+      "slug": "junbesi-lamjura-la-rhododendron-walk",
+      "title": "Rhododendron forests of the Lamjura La",
+      "kind": "nature",
+      "duration": "5–7 hours",
+      "best_time": "March–April for bloom; Oct–Nov for clear skies",
+      "image_query": "Lamjura pass rhododendron forest",
+      "wiki": "Rhododendron arboreum",
+      "summary": "Walk west from Junbesi up to the Lamjura La, about 3,530 m, the highest point on the old Jiri–Everest trail, through forests of rhododendron, magnolia, fir and hemlock that blaze red, pink and white in March and April.",
+      "body": [
+        "The Lamjura La is a broad forested pass on the ridge west of Junbesi. Coming from Junbesi, the trail climbs about 850 m through fields and then dense forest: tall rhododendron trees, magnolia, silver fir and hemlock, hung with moss and old-man's-beard lichen. In March and April the rhododendrons, including Nepal's national flower, Rhododendron arboreum, flower in red, pink and white.",
+        "Birdlife is rich. Look and listen for laughingthrushes, sunbirds, minivets and, with luck, the Himalayan monal on the higher slopes. At the pass, prayer flags and a few teahouses mark the crossing, with views back towards Numbur on clear days. On the far side the old trail drops towards Sete and Jiri.",
+        "You can walk to the pass and back to Junbesi in a long day, or cross it as part of a longer Solu trek. Snow can lie on the pass in winter and early spring. Carry warm layers, rain gear and lunch. In spring, flower season overlaps with afternoon showers, so start early and enjoy the forest before cloud settles in."
+      ],
+      "good_for": ["photographers", "trekkers", "couples", "seniors"],
+      "faqs": [
+        {"q": "How high is the Lamjura La?", "a": "About 3,530 m, the highest point on the old Jiri–Everest trekking route. From Junbesi, at about 2,675 m, the climb is roughly 850 m through forest. It takes 3–4 hours up and 2–3 down. Altitude is moderate, but the climb is steady and long."},
+        {"q": "When do rhododendrons bloom on the Lamjura La?", "a": "Usually from mid-March to late April, depending on altitude and the year. Lower forests flower first, and the bloom moves uphill. Red Rhododendron arboreum, Nepal's national flower, is joined by pink and white species higher up. Spring brings flowers but more haze and afternoon showers."},
+        {"q": "Is the Lamjura La part of the Everest trek?", "a": "It is part of the old walking route from Jiri to Everest, used before the Lukla airstrip opened in 1964 and still walked by trekkers who want the slow approach. From Junbesi the route continues east via Ringmo and the Taksindu La to the Dudh Koshi and Lukla."}
+      ]
+    },
+    {
+      "slug": "junbesi-taksindu-la-monastery-walk",
+      "title": "Over the Taksindu La to Taksindu monastery",
+      "kind": "trek",
+      "duration": "6–7 hours",
+      "best_time": "Oct–Nov and Mar–Apr",
+      "image_query": "Taksindu monastery Solukhumbu",
+      "wiki": "",
+      "summary": "Walk east from Junbesi through Ringmo's apple orchards and up to the Taksindu La, about 3,070 m, to the Taksindu monastery just beyond, with views of Numbur and the Khumbu peaks. A classic stage of the old route to Everest.",
+      "body": [
+        "This stage follows the old Everest walk-in eastward. From Junbesi the trail climbs gently to a ridge with the first distant views of Everest on clear mornings, then drops into a side valley and climbs again to Ringmo, a village of apple orchards. In autumn the lodges here serve apple pie and juice; it is a natural place for lunch.",
+        "From Ringmo the trail climbs through rhododendron and fir to the Taksindu La, a forested pass of about 3,070 m marked by a chorten and prayer flags. Just below on the far side stands Taksindu monastery, a small Sherpa gompa with a peaceful courtyard and views over the Dudh Koshi valley towards the Khumbu. Visitors are welcome with the usual courtesies.",
+        "Most walkers continue down to Nunthala to sleep, a steep descent of about 800 m. From there the route drops to the Dudh Koshi and climbs through Rai and Sherpa villages to the main Everest trail below Lukla. Carry water and snacks, and expect a long, varied day. In spring the rhododendrons below the pass are spectacular."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How long does it take from Junbesi to the Taksindu La?", "a": "About 5–6 hours via Ringmo, including a lunch stop among the orchards. From the pass, Taksindu monastery is a few minutes down, and Nunthala, where most walkers sleep, is another 1.5–2 hours. The full Junbesi to Nunthala stage takes about 7–8 hours."},
+        {"q": "Can I see Everest from the trail near Junbesi?", "a": "Yes, on clear mornings. A ridge east of Junbesi, on the way towards Ringmo, gives a distant view of Everest's summit among the Khumbu peaks. It is far away and small, but many trekkers on the old route treasure this first sight. Views from the Taksindu La are mainly of Numbur and nearer peaks."},
+        {"q": "Is Taksindu monastery open to visitors?", "a": "Usually yes. It is a small Sherpa gompa just below the Taksindu La, with a quiet courtyard and views over the Dudh Koshi valley. Remove shoes and hats inside, walk clockwise and leave a donation. If the prayer hall is closed, the caretaker may open it on request."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Junbesi?", "a": "Junbesi is a Sherpa village in Solu, the lower part of Solukhumbu District, at about 2,675 m in the valley of the Junbesi Khola below Numbur. It lies on the old walking route from Jiri to Everest, about 4–5 hours north of Phaplu on foot. Thubten Chholing monastery is an hour above."},
+    {"q": "How do I get to Junbesi?", "a": "Fly or drive from Kathmandu to Phaplu, then walk about 4–5 hours north. Or walk the old route from the roadheads beyond Jiri over the Lamjura La. Rough roads now approach Junbesi, but conditions vary after each monsoon. Check current status before you travel."},
+    {"q": "What is Junbesi known for?", "a": "Thubten Chholing, one of the largest Buddhist nunneries in the Himalaya, founded in 1968 by Trulshik Rinpoche; the old village gompa and Serlo Gompa; the rhododendron forests of the Lamjura La; nearby Ringmo's apple orchards; and its place on the historic walking route to Everest."},
+    {"q": "Is Junbesi on the way to Everest Base Camp?", "a": "It is on the old walking route, used before the Lukla airstrip opened in 1964 and still walked by trekkers who prefer a slow approach. From Junbesi it takes about 3–4 more days via Ringmo, the Taksindu La and Nunthala to reach the main trail below Lukla, then a further week to Base Camp."},
+    {"q": "How long should I stay in Junbesi?", "a": "One or two nights. One night allows a walk around the village and a morning at Thubten Chholing; two nights let you add the Lamjura La forests or a slower day. Junbesi suits trekkers on a Solu loop and travellers walking the old route to Khumbu."},
+    {"q": "Are there lodges in Junbesi?", "a": "Yes, several family-run lodges with simple rooms, some with attached bathrooms, and good home cooking. They rarely fill except in October and April. Ringmo, 2–3 hours east, has more lodges among the orchards. There is no upmarket hotel; comfort is modest but genuine."},
+    {"q": "Do I need a permit for Junbesi?", "a": "No national park or Khumbu municipality permit is needed for Junbesi, which lies outside Sagarmatha National Park. If you continue into Khumbu, you will need the Khumbu Pasanglhamu municipality permit and the Sagarmatha National Park entry permit, and a licensed guide under the April 2023 rule. Check current status before you travel."},
+    {"q": "What is the best time to visit Junbesi?", "a": "October and November for clear skies and the potato and apple harvest. March and April for rhododendrons on the Lamjura La. December to February are cold but clear and quiet. June to September is monsoon, with rain, leeches and difficult roads."},
+    {"q": "Can I visit Thubten Chholing from Junbesi in a day?", "a": "Yes, easily. It is about an hour's walk north. A round trip with time for morning prayers and the kora takes about three hours. Go early to catch the chanting. Dress modestly, remove shoes and hats inside and ask before taking photographs."}
+  ]
+}

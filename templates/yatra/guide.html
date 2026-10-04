@@ -1,0 +1,34 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ g.title }} · Book Nepal Trip{% endblock %}
+{% block description %}{{ g.meta_description }}{% endblock %}
+{% block og_image %}{% with i=g|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block content %}
+<header class="phead phead--paper">{% contours g.slug 9 %}<div class="wrap phead__grid">
+  <div><div class="chips" style="margin-bottom:14px"><a class="chip" href="{{ r.url }}">{% icon r.icon %}{{ r.name }}</a><span class="chip">{{ g.category|capfirst }}</span><span class="chip">{{ g.read_min }} min read</span></div>
+  <h1 class="h-xl">{{ g.title }}</h1><p class="small muted">By {{ SITE.byline }}</p><p class="lede">{{ g.summary }}</p></div>
+  <div>{% photo g.images|first g.title "photo--32" "(max-width: 1020px) 100vw, 45vw" True %}</div></div></header>
+<div class="dhaka dhaka--land"></div>
+
+<section class="sec--tight"><div class="wrap split">
+  <article>
+    {% for s in g.sections %}<section id="{{ s.anchor }}" style="scroll-margin-top:100px;margin-bottom:34px">
+      <h2 class="h-m">{{ s.heading }}</h2>
+      <div class="prose read">{% for para in s.paras %}<p{% if forloop.parentloop.first and forloop.first %} class="drop"{% endif %}>{{ para }}</p>{% endfor %}{% if s.list %}<ul>{% for x in s.list %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}</div>
+      {% if s.table %}<div class="table-wrap"><table><thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead><tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
+      {% if s.link_objs %}<div class="chips">{% for l in s.link_objs %}<a class="chip" href="{{ l.url }}">{% icon "arrow" %}{{ l.title }}</a>{% endfor %}</div>{% endif %}
+      {% if forloop.counter == 3 %}<div class="mid-cta"><span class="pennant pennant--sm">{% icon "pennant" %}</span><div><b>{% if g.cta.title %}{{ g.cta.title }}{% else %}Turn this into a plan{% endif %}</b><p>{% if g.cta.text %}{{ g.cta.text }}{% else %}A planner can turn what you are reading into days, nights and a price.{% endif %}</p></div><a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if r.slug %}&land={{ r.slug }}{% endif %}" data-cta="article-mid">Ask a planner</a></div>{% endif %}
+    </section>{% endfor %}
+    <section id="faq-h"><h2 class="h-m">Questions</h2>{% include "yatra/partials/faq.html" with faqs=g.faqs %}</section>
+  </article>
+  <aside class="split__aside">
+    <nav class="panel" aria-label="Contents"><p class="eyebrow">In this piece</p><div class="toc-side">{% for s in g.sections %}<a href="#{{ s.anchor }}">{{ s.heading }}</a>{% endfor %}<a href="#faq-h">Questions</a></div></nav>
+    {% if g.related_objs %}<div class="panel"><p class="eyebrow">Places in this guide</p><div class="rows">{% for p in g.related_objs %}<a class="row" href="{{ p.url }}" style="grid-template-columns:70px 1fr"><span class="row__alt">{{ p.altitude_m|num }} m</span><span><b style="font-size:1.05rem">{{ p.name }}</b><small>{{ p.best_label }}</small></span></a>{% endfor %}</div></div>{% endif %}
+    {% include "yatra/partials/quick_form.html" with land=r.slug qf_source="guide" qf_title="Ask about "|add:r.name %}
+  </aside>
+</div></section>
+
+{% if more %}<section class="sec sec--paper2"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Keep reading</p><h2 class="h-l">More on {{ r.name }}</h2></div></div><div class="grid grid--3">{% for g in more %}{% include "yatra/partials/card_guide.html" %}{% endfor %}</div></div></section>{% endif %}
+{% include "yatra/partials/nudge.html" %}
+{% endblock %}
+{% block cta %}{% include "yatra/partials/cta.html" with land=r.slug %}{% endblock %}

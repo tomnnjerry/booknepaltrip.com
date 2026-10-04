@@ -1,0 +1,206 @@
+{
+  "slug": "honeymoon-kathmandu-dhulikhel-pokhara-7n",
+  "title": "Honeymoon: Kathmandu, Dhulikhel and Pokhara",
+  "region": "kathmandu-valley",
+  "kind": "tour",
+  "nights": 7,
+  "themes": [
+    "honeymoons",
+    "slow-and-wellness",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "dhulikhel",
+      "nights": 2
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 2100,
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1750,
+  "meta_description": "7 nights for honeymooners in Nepal: Dwarika's in Kathmandu, a mountain-view resort in Dhulikhel and a ridge-top lodge above Pokhara, with private guides.",
+  "summary": "A seven-night honeymoon that moves from the temples of Kathmandu to the quiet hills of Dhulikhel and the lake and mountains of Pokhara. Three stays chosen for privacy and views: Dwarika's Hotel, Dwarika's Resort Dhulikhel and Tiger Mountain Pokhara Lodge. Late breakfasts, short sightseeing, sunrise over the Himalaya and time to do nothing.",
+  "intro": [
+    "Most Nepal honeymoons try to fit in too much. This one has a single rule: one activity a day, chosen by you, and the rest of the time for the two of you. Kathmandu gets two nights for the temples and the evening aarti on the Bagmati. Dhulikhel, an hour east on the valley rim, gets two nights for mountain views, spa time and an optional walk to the Namobuddha stupa. Distances are short, so you never spend more than about 90 minutes on the road in one go.",
+    "Then you fly to Pokhara and drive up to Tiger Mountain Pokhara Lodge, a group of stone cottages on a ridge above the valley, facing Machhapuchhre and the Annapurnas. From there a boat on Phewa Lake, a walk through farming villages or a tandem paraglide are all close. Private car and guide throughout, with every transfer handled so you never wait in a queue. If you would rather sleep by the water, Fish Tail Lodge on the lakeshore is an easy swap."
+  ],
+  "story": "The honeymoon begins among carved windows at Dwarika's, a hotel built from the woodwork of old Kathmandu houses, and the first evening ends with oil lamps swinging over the Bagmati at Pashupatinath. Next day the old cities of Patan and Boudha show you how people here mark marriage, birth and death in public, with music and offerings. On the third day the road climbs out of the valley to Dhulikhel, and the noise falls away. Mornings start with the Himalaya on the northern skyline. In Pokhara the land opens up again: a lake, paddy fields and the fishtail peak of Machhapuchhre so close it fills the window. You leave having seen a lot of Nepal and rushed none of it.",
+  "highlights": [
+    "Two nights at Dwarika's Hotel, built around salvaged Newar woodwork",
+    "The evening aarti on the Bagmati at Pashupatinath",
+    "Himalayan sunrise from Dwarika's Resort Dhulikhel, with time for the spa",
+    "Three nights at Tiger Mountain Pokhara Lodge facing Machhapuchhre",
+    "A private boat on Phewa Lake to the island temple of Tal Barahi"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive at Dwarika's, aarti on the Bagmati",
+      "place": "kathmandu",
+      "overnight": "Dwarika's Hotel, Battisputali",
+      "alt_m": 1400,
+      "move": "≈ 5 km · 20 min from the airport",
+      "text": "A private car meets you at the airport and drives you to Dwarika's Hotel, where the courtyards, windows and doorways are made from carved timber saved from old Kathmandu houses over many decades. Rest by the pool. At dusk your guide takes you to Pashupatinath, ten minutes away, for the evening aarti, when priests on the steps of the Bagmati swing oil lamps to bells and singing. Watch from the east bank among local families. Dinner back at the hotel, under the lamps of the courtyard.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Patan in the morning, Boudha at dusk",
+      "place": "patan",
+      "overnight": "Dwarika's Hotel, Battisputali",
+      "alt_m": 1400,
+      "move": "≈ 20 km of city driving",
+      "text": "A late breakfast, then drive to Patan. Walk the Durbar Square and its palace courtyards with your guide, see the stone Krishna Mandir and the Golden Temple, and stop in the lanes where metal workers polish bronze statues. Lunch on a rooftop above the square. After an afternoon rest, drive to Boudhanath as the light softens and walk the kora with Tibetan families. Light butter lamps together at one of the lamp houses, which many couples here do for luck and long life, and eat dinner on a terrace facing the stupa.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Bhaktapur, then up to Dhulikhel",
+      "place": "dhulikhel",
+      "overnight": "Dwarika's Resort Dhulikhel",
+      "alt_m": 1550,
+      "move": "≈ 15 km to Bhaktapur; ≈ 20 km · 45 min on to Dhulikhel",
+      "text": "Drive east to Bhaktapur for a morning in its squares: the five-roofed Nyatapola, the 55-window palace, the potters at work and a bowl of juju dhau. Then continue up the Araniko Highway to Dhulikhel on the eastern rim of the valley. Dwarika's Resort spreads across a hillside facing the Himalaya, built from local brick and stone, with a strong focus on wellness: spa treatments, yoga and quiet terraces. Spend the afternoon at the spa or on your balcony. On clear evenings the snow peaks catch the last light.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Sunrise, Namobuddha or nothing at all",
+      "place": "dhulikhel",
+      "overnight": "Dwarika's Resort Dhulikhel",
+      "alt_m": 1550,
+      "move": "Optional ≈ 15 km · 40 min drive each way",
+      "text": "Wake for sunrise over the Himalaya, which on clear mornings stretches from Langtang to Gaurishankar. After breakfast choose your day. You can drive with your guide to Namobuddha at about 1,750 m, a hilltop stupa and monastery tied to the legend of a prince who gave his life to a starving tigress, and walk part of the way back through fields. Or stay at the resort for a yoga session, a long lunch and a couples' spa treatment. Dinner at the resort.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Fly to Pokhara, up to Tiger Mountain",
+      "place": "pokhara",
+      "overnight": "Tiger Mountain Pokhara Lodge",
+      "alt_m": 1000,
+      "move": "≈ 30 km · 1.5 h to the airport; ≈ 25 min flight; ≈ 45 min drive",
+      "text": "Drive back across the valley to the domestic terminal for the 25-minute flight to Pokhara, with the Himalaya off the right-hand windows on clear mornings. A car takes you up to Tiger Mountain Pokhara Lodge, a group of stone cottages on a ridge above the valley. From the lodge terrace and pool the view runs along the Annapurna range, with Machhapuchhre, the fishtail mountain, straight ahead. The afternoon is yours: sit, swim, or walk with the lodge's guide through the villages below.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Phewa Lake and the Peace Pagoda",
+      "place": "pokhara",
+      "overnight": "Tiger Mountain Pokhara Lodge",
+      "alt_m": 1000,
+      "move": "≈ 15 km · 45 min to Lakeside",
+      "text": "Drive down to Lakeside after breakfast. A private wooden boat takes you across Phewa Lake to the island temple of Tal Barahi, then on to the far shore, where a forest path climbs about 45 minutes to the white World Peace Pagoda on the southern ridge. The view takes in the whole lake, the city and the mountains. Walk or boat back down for a late lunch in Lakeside, browse the shops and cafes, and return to the lodge before sunset.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "A free day above Pokhara",
+      "place": "pokhara",
+      "overnight": "Tiger Mountain Pokhara Lodge",
+      "alt_m": 1000,
+      "move": "",
+      "text": "Keep this day open. Many couples spend it at the lodge, reading by the pool and watching eagles ride the thermals. If you want more, we can arrange a dawn drive to Sarangkot for sunrise over the whole Annapurna range, tandem paragliding from Sarangkot down to the lakeshore, or a half-day walk through Gurung and Brahmin villages with lunch in a farmhouse. Your last dinner is a private table on the terrace, with the mountains fading into the dark.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Fly back to Kathmandu and home",
+      "place": "kathmandu",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 45 min drive; ≈ 25 min flight",
+      "text": "A last breakfast with the mountains, then drive down to Pokhara airport for the morning flight to Kathmandu. We schedule the domestic flight to leave plenty of time before your international departure, as weather can cause delays. In Kathmandu your car meets you at the domestic terminal and, if there are spare hours, takes you to the Garden of Dreams for lunch before the short transfer to the international terminal.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "dwarikas-hotel-kathmandu",
+    "dwarikas-resort-dhulikhel",
+    "tiger-mountain-pokhara-lodge"
+  ],
+  "includes": [
+    "2 nights at Dwarika's Hotel, 2 nights at Dwarika's Resort Dhulikhel and 3 nights at Tiger Mountain Pokhara Lodge, double room",
+    "Breakfast daily, full board at Tiger Mountain Pokhara Lodge and the meals listed",
+    "Flights Kathmandu–Pokhara–Kathmandu",
+    "Private car and licensed guide for all sightseeing and transfers",
+    "Heritage site fees and a private boat on Phewa Lake"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Spa treatments, paragliding and optional activities",
+    "Drinks and meals not listed",
+    "Tips for guides, drivers and hotel staff",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Tell us it is your honeymoon when booking; hotels often arrange a small welcome touch.",
+    "Domestic flights carry 15–20 kg of checked baggage per person, so leave heavy luggage in Kathmandu if needed.",
+    "Mountain views are clearest from October to early December and least likely from June to August.",
+    "Public displays of affection beyond holding hands draw stares in temples and villages; keep them for the lodge.",
+    "If the Pokhara flight is cancelled for weather, we drive instead, about 6–7 hours, and adjust the next day."
+  ],
+  "faqs": [
+    {
+      "q": "Is Nepal good for a honeymoon?",
+      "a": "Yes, for couples who like culture and landscape more than beaches. Nepal pairs temple cities and great stupas with mountain views, lakes and quiet hill resorts, and the country has a good range of boutique and luxury stays. Days can be as active or slow as you like. It is also affordable compared with many honeymoon destinations, and Nepalis are warm hosts."
+    },
+    {
+      "q": "What is the best month for a honeymoon in Nepal?",
+      "a": "October and November give the clearest mountain views and dry weather. December to February are also clear, with cold mornings and fewer visitors, good for cosy lodges. March and April bring warmth and rhododendrons but more haze. We avoid June to August for this trip, as monsoon cloud usually hides the mountains."
+    },
+    {
+      "q": "Which are the most romantic hotels in Nepal?",
+      "a": "Our favourites for couples include Dwarika's Hotel in Kathmandu for its courtyards and carved woodwork, Dwarika's Resort Dhulikhel for its spa and mountain views, Tiger Mountain Pokhara Lodge for its ridge-top cottages, and Fish Tail Lodge in Pokhara, reached by a short ferry across Phewa Lake. In Chitwan, Meghauli Serai and Barahi Jungle Lodge suit couples who want wildlife."
+    },
+    {
+      "q": "Can we add Chitwan to this honeymoon?",
+      "a": "Yes. Add two or three nights in Chitwan after Pokhara for canoe rides, jungle walks and jeep safaris in rhino country. Pokhara to Chitwan is about 5–6 hours by road, and you can fly back to Kathmandu from Bharatpur in about 20 minutes. A 10-night version with Chitwan is one of our most requested honeymoon plans."
+    },
+    {
+      "q": "How much does a Nepal honeymoon cost?",
+      "a": "This seven-night honeymoon starts from about USD 2,100 per person, twin sharing, with the three hotels named, breakfast daily, full board at Tiger Mountain, both domestic flights, private car, guide and site fees. A mid-range version with four-star hotels costs about half that. Peak season and suite upgrades cost more."
+    },
+    {
+      "q": "Do we need to dress conservatively in Nepal?",
+      "a": "At temples, monasteries and in villages, yes: cover shoulders and knees, and remove shoes where asked. In resorts and Pokhara's Lakeside, normal holiday clothes are fine. Bring a shawl or scarf, which is useful for temples and for cold evenings. Holding hands is fine everywhere, but more intimate affection in public is frowned upon."
+    },
+    {
+      "q": "Is paragliding in Pokhara safe?",
+      "a": "Tandem paragliding from Sarangkot is well established, with licensed operators and pilots flying daily in good weather. Flights last about 20–30 minutes and land beside Phewa Lake. Choose an operator with a good safety record, which we do for you. Flights are cancelled in bad weather, and some insurers exclude paragliding, so check your policy."
+    },
+    {
+      "q": "Can we see Everest on this trip?",
+      "a": "Not from the ground on this route, but you can add the one-hour Everest mountain flight from Kathmandu on the morning of day 2 or day 3. It flies along the Himalaya at close range, with each passenger given a window. Flights depend on weather and leave at dawn. It costs extra, usually around USD 230–260 per person; check current prices."
+    },
+    {
+      "q": "Are the domestic flights in Nepal reliable?",
+      "a": "Kathmandu–Pokhara is one of the busiest routes in the country, with many flights a day. Delays are common in the morning fog of December and January and during monsoon cloud. We book early flights where possible and always leave a buffer before your international departure. If weather cancels a flight, we drive instead."
+    }
+  ]
+}

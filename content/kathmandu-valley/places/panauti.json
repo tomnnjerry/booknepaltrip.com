@@ -1,0 +1,342 @@
+{
+  "slug": "panauti",
+  "name": "Panauti",
+  "name_ne": "पनौती",
+  "local_name": "",
+  "region": "kathmandu-valley",
+  "kind": "old town",
+  "wiki": "Panauti",
+  "image_query": "Indreshwar Mahadev temple Panauti",
+  "lat": 27.5845,
+  "lng": 85.521,
+  "altitude_m": 1442,
+  "tagline": "A Newar river town where three rivers meet, one of them unseen",
+  "meta_description": "Panauti with locals: the triveni ghat, Indreshwar Mahadev of 1294, community homestays, yomari, the Makar Mela held every 12 years, and walks to Balthali.",
+  "summary": "Panauti is a small Newar town 32 km south-east of Kathmandu at the meeting of the Roshi and Punyamati rivers and, by belief, a third unseen river. Its Indreshwar Mahadev temple dates to 1294. Stay a night with a family in its community homestays to see Newar town life at a slow pace.",
+  "intro": [
+    "Panauti lies in a small valley of its own, beyond the eastern rim of the Kathmandu Valley in Kavrepalanchok district. Its old core sits on a tongue of land between two rivers, the Roshi and the Punyamati, and at their meeting point stands a group of riverside ghats and temples. Believers say a third river, the Rudrawati, joins them unseen, making this a triveni, a sacred three-river confluence.",
+    "The town was a stop on the old trade route between Tibet and India, and its brick lanes, carved windows and squares show that wealth. Its centrepiece is Indreshwar Mahadev, a three-roofed Shiva temple built in 1294 and often called one of the oldest surviving temples in Nepal. It survived the 2015 earthquake. Around it, the town is quiet, with far fewer visitors than Bhaktapur.",
+    "Panauti is a pioneer of community homestays in Nepal. Local women run a network that places guests in family homes in the old town, where you eat with the family, help in the kitchen and join daily life. It is one of the best ways in the valley to learn Newar cooking, festivals and manners from the people who live them."
+  ],
+  "story": {
+    "title": "A salt-road town at a holy confluence",
+    "paras": [
+      "Panauti grew as a market and pilgrimage town where rivers met and trade passed. Goods moving between the plains and Tibet, salt among them, came this way, and merchants paid for temples, rest houses and ghats. In 1294 the temple of Indreshwar Mahadev was built here, and its carved struts, with figures of deities and couples, are among the finest early woodwork in Nepal.",
+      "Under the Malla kings and later the Shah state, Panauti remained a Newar town with its own festivals, the most famous being the Makar Mela. Every twelve years, in the month of Magh, pilgrims come from across Nepal and India to bathe at the triveni ghat for a whole month. In other years, the confluence still draws crowds on Maghe Sankranti, the first day of Magh.",
+      "In 1996 the medieval town was placed on Nepal's tentative list for UNESCO World Heritage status. Indreshwar Mahadev survived the 2015 earthquake, though many houses did not. In recent decades, local women's groups set up a community homestay network, which has brought visitors into family homes and given the town a new income without changing its character."
+    ]
+  },
+  "legend": "Local tradition links Panauti's great temple to Indra, king of the gods. Cursed for his misdeeds, Indra is said to have come to this confluence to do penance and worship Shiva, who appeared to him here, and so the temple is Indreshwar, Shiva as lord of Indra. A Newar legend of yomari, too, is often set in Panauti: a couple named Suchandra and Krita made the first yomari from a new harvest of rice.",
+  "people": "Panauti's old core is Newar, with farming Jyapu families, merchant households and priests who serve the ghats. The surrounding hills are home to Tamang, Brahmin and Chhetri villages, and the town's market draws them in for trade. Many Newar women here run homestays, small shops and cooperatives. Nepal Bhasa is spoken in the old town, and Nepali is shared by all.",
+  "untold": [
+    {
+      "fact": "Indreshwar Mahadev in Panauti was built in 1294 and is often described as one of the oldest surviving temples in Nepal. It survived the 2015 earthquake that badly damaged many houses in the town.",
+      "source": "Wikipedia: Panauti"
+    },
+    {
+      "fact": "Panauti's Makar Mela is held only once every twelve years, for the whole month of Magh, when pilgrims bathe at the triveni ghat where the Punyamati, Roshi and the unseen Rudrawati rivers are said to meet.",
+      "source": "Wikipedia: Makar Mela"
+    },
+    {
+      "fact": "Panauti's medieval town was placed on Nepal's tentative list for UNESCO World Heritage status in 1996, for its architecture and its place on the old trade route between Tibet and India.",
+      "source": "Wikipedia: Panauti"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Triveni",
+      "script": "त्रिवेणी",
+      "lang": "Nepali",
+      "meaning": "Sacred confluence of three rivers"
+    },
+    {
+      "word": "Yomari",
+      "script": "योमरि",
+      "lang": "Nepal Bhasa",
+      "meaning": "Steamed rice-flour dumpling filled with molasses and sesame"
+    },
+    {
+      "word": "Mela",
+      "script": "मेला",
+      "lang": "Nepali",
+      "meaning": "Religious fair or gathering"
+    }
+  ],
+  "taste": {
+    "name": "Yomari",
+    "text": "A steamed dumpling of new-harvest rice flour shaped like a fig or fish, filled with chaku (molasses) and sesame, or sometimes sweet khuwa. Families make them for Yomari Punhi, the December full moon. Homestay hosts in Panauti often teach guests to shape them, which is harder than it looks."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "1 – 2"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 30 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 32 km · 1.5 h"
+    ],
+    [
+      "Altitude",
+      "1,442 m"
+    ],
+    [
+      "Known for",
+      "Indreshwar Mahadev, triveni ghat, homestays, Makar Mela"
+    ]
+  ],
+  "best_months": [
+    2,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    1,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "Indreshwar Mahadev",
+      "text": "A three-roofed Shiva temple of 1294 in the middle of the old town, with carved struts showing deities and couples. One of the oldest surviving temples in Nepal and still in daily use."
+    },
+    {
+      "title": "The triveni ghat",
+      "text": "At the town's edge, where the rivers meet, stone ghats, small temples and rest houses line the bank. Pilgrims bathe on festival days, and cremations take place here. Quiet and beautiful at dawn."
+    },
+    {
+      "title": "Community homestays",
+      "text": "Stay with a Newar family in the old town through the women-run homestay network. Eat home-cooked meals, help in the kitchen and join family rituals. Simple rooms, warm hosts."
+    },
+    {
+      "title": "Old town lanes",
+      "text": "Brick houses with carved windows, small squares, water spouts and shrines, with few cars and far fewer visitors than Bhaktapur. Walk at dawn or dusk to see daily life."
+    },
+    {
+      "title": "Walks to Balthali and Namobuddha",
+      "text": "From Panauti, trails climb through terraced farmland to the village of Balthali and to the Buddhist pilgrimage site of Namobuddha, with views of the Himalaya on clear days."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Panauti is about 32 km south-east of Kathmandu. Drive along the Araniko Highway to Banepa, then turn south for about 7 km; the trip takes about 1.5 hours by car, longer in traffic. Local buses run from Kathmandu's Ratnapark or Bhaktapur to Banepa, with connections to Panauti."
+    },
+    {
+      "mode": "On foot",
+      "text": "A popular day hike links Dhulikhel, Namobuddha and Panauti, about 6 to 7 hours in total over terraced hills and forest. From Panauti, Balthali village is about 2 to 3 hours' walk uphill."
+    }
+  ],
+  "where_to_stay": "Most visitors stay in Panauti's community homestays, arranged through the local women's network: simple, clean rooms in family homes in the old town, with meals included. A few small hotels and guesthouses sit near the bus park and the main road. For more comfort, stay at Dwarika's Resort Dhulikhel, about 30 minutes by car, and visit Panauti for the day.",
+  "stays": [],
+  "tips": [
+    "Book homestays at least a few days ahead, especially around festivals.",
+    "Ask before photographing at the triveni ghat, where cremations take place.",
+    "A small heritage fee may be collected from foreign visitors in the old town; carry rupees.",
+    "Visit Indreshwar Mahadev in the morning, when locals come for puja.",
+    "Combine Panauti with Dhulikhel and Namobuddha for a two-day loop east of the valley."
+  ],
+  "themes": [
+    "villages-and-homestays",
+    "heritage-and-temples",
+    "food-and-festivals",
+    "slow-and-wellness"
+  ],
+  "nearby": [
+    "dhulikhel",
+    "bhaktapur",
+    "nagarkot"
+  ],
+  "experiences": [
+    {
+      "slug": "panauti-triveni-and-indreshwar-walk",
+      "title": "Indreshwar Mahadev and the triveni ghat",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Panauti triveni ghat temples river",
+      "wiki": "",
+      "summary": "A guided walk from Indreshwar Mahadev, built in 1294, through Panauti's old lanes to the triveni ghat where the rivers meet. We read the temple's carved struts, visit riverside shrines and rest houses, and talk about the Makar Mela held every twelve years.",
+      "body": [
+        "We begin at Indreshwar Mahadev in the town centre. The three-roofed temple stands in a courtyard with smaller shrines, and its carved roof struts show gods, goddesses and couples. Your guide explains the legend of Indra's penance, how the temple survived earthquakes, and how it is cared for by local guthis.",
+        "From the temple, we walk through brick lanes with carved windows and water spouts to the edge of town, where the Roshi and Punyamati rivers meet. Here, at the triveni ghat, stone steps lead down to the water, and small temples and rest houses line the bank. Cremations take place on the ghats, so we keep a respectful distance.",
+        "We look at the Brahmayani temple across the river and discuss the Makar Mela, held once every twelve years in the month of Magh, when pilgrims bathe here for a whole month. The walk ends in the old town square for tea and a plate of local snacks."
+      ],
+      "good_for": [
+        "first-timers",
+        "couples",
+        "seniors",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How old is Indreshwar Mahadev temple?",
+          "a": "It was built in 1294, which makes it one of the oldest surviving temples in Nepal. It is a three-roofed pagoda dedicated to Shiva, with finely carved roof struts, and it survived the 2015 earthquake. It is still in daily use by local worshippers."
+        },
+        {
+          "q": "What is the triveni in Panauti?",
+          "a": "Triveni means a confluence of three rivers. At Panauti, the Roshi and Punyamati rivers meet, and a third river, the Rudrawati, is believed to join them unseen. The ghats here are used for bathing, rituals and cremations, and host the Makar Mela every twelve years."
+        },
+        {
+          "q": "Is there an entry fee for Panauti?",
+          "a": "Foreign visitors may be asked to pay a small heritage fee in the old town; homestay guests usually have it arranged. Fees support conservation. Rules change, so check current status before you travel and carry some rupees in cash."
+        }
+      ]
+    },
+    {
+      "slug": "panauti-homestay-yomari-cooking",
+      "title": "Shape yomari with a Panauti homestay family",
+      "kind": "food",
+      "duration": "Overnight",
+      "best_time": "All year; Yomari Punhi in December",
+      "image_query": "yomari Newari dumpling",
+      "wiki": "Yomari",
+      "summary": "Stay a night with a Newar family through Panauti's community homestay network. Help cook dinner, learn to shape yomari dumplings, eat on the floor with the family and join morning puja. Simple rooms and real hospitality.",
+      "body": [
+        "Panauti's homestays are run by local women, who share the bookings among their families and train each other as hosts. You stay in a traditional Newar house in the old town, in a simple private room. Bathrooms are basic but clean. Hosts speak some English, and your guide helps with the rest.",
+        "In the afternoon, your host takes you to the market and then into her kitchen. Together you prepare dal bhat, seasonal vegetables, achar and, if you ask, yomari: dumplings of rice flour shaped by hand around a filling of chaku and sesame, then steamed. Shaping the pointed tail takes practice, and most first attempts are lumpy.",
+        "Dinner is eaten with the family, often sitting on mats. In the morning you can join the household's puja, walk with your host to the temple or ghat, and help with breakfast before setting off. Many guests say this night is the most memorable of their trip to Nepal."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "solo",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "What is a homestay in Panauti like?",
+          "a": "You stay with a Newar family in their house in the old town, in a simple private room, and share home-cooked meals. Bathrooms may be shared and basic. Hosts are local women trained through the community network. It is about connection and daily life, not hotel comfort."
+        },
+        {
+          "q": "What is yomari?",
+          "a": "Yomari is a Newar sweet dumpling made from new-harvest rice flour, shaped by hand and filled with chaku (molasses) and sesame or sweet milk solids, then steamed. It is made especially for Yomari Punhi, the full moon in December, but homestay hosts can show you at other times."
+        },
+        {
+          "q": "How much does a Panauti homestay cost?",
+          "a": "A night with dinner and breakfast costs roughly USD 20 to 40 per person, depending on the season and activities such as cooking lessons. Most of the money goes to the host family and the community network. Prices change, so check current status before you travel."
+        }
+      ]
+    },
+    {
+      "slug": "panauti-balthali-village-hike",
+      "title": "Hike from Panauti to Balthali village",
+      "kind": "trek",
+      "duration": "4–5 hours",
+      "best_time": "Oct–Apr, morning start",
+      "image_query": "Balthali village terraces Kavre",
+      "wiki": "",
+      "summary": "A half-day hike from Panauti through terraced farmland and small villages to Balthali, a ridge village at about 1,700 m with views of the Himalaya on clear days. Mixed Tamang and Brahmin-Chhetri communities, rice and millet terraces, and quiet trails.",
+      "body": [
+        "We leave Panauti early, crossing the river and climbing gently through fields towards the southern hills. The path passes through small villages where families farm rice, millet, maize and vegetables on terraces cut into the hillsides. In autumn, the fields are gold with ripening rice; in spring, green with wheat.",
+        "The climb is steady, about 300 m over 2 to 3 hours, and the views open up as we go. Balthali sits on a ridge, with Tamang and Brahmin-Chhetri homes scattered among the terraces. On clear mornings from October to February, the Himalaya appears to the north, from Langtang across to the peaks near Everest.",
+        "We stop for tea and lunch in Balthali, then either return to Panauti, take a car back, or continue towards Namobuddha. A night in a Balthali lodge is a peaceful option, with a sunrise view over the hills. The hike suits anyone with average fitness."
+      ],
+      "good_for": [
+        "trekkers",
+        "couples",
+        "families",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How hard is the hike from Panauti to Balthali?",
+          "a": "It is easy to moderate: about 2 to 3 hours of steady uphill on village paths and farm tracks, gaining around 300 m. Reasonably fit walkers manage it well. The return is downhill, or you can arrange a car. Wear good shoes, as paths are dusty or muddy depending on the season."
+        },
+        {
+          "q": "Can I see the Himalaya from Balthali?",
+          "a": "On clear days, especially October to February mornings, you can see a long stretch of the Himalaya to the north. Haze often hides the peaks from March onwards, and monsoon cloud from June to September. A night at Balthali gives the best chance of a clear sunrise."
+        },
+        {
+          "q": "Can I combine Balthali with Namobuddha?",
+          "a": "Yes. Trails link Panauti, Balthali and Namobuddha, making a good two-day loop with a night at Balthali or Namobuddha. The route crosses terraced hills and forest. A guide is useful, as junctions are not well signed. Luggage can go ahead by car."
+        }
+      ]
+    },
+    {
+      "slug": "panauti-maghe-sankranti-bathing",
+      "title": "Maghe Sankranti bathing at Panauti's triveni",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Mid-January, on Maghe Sankranti",
+      "image_query": "Panauti Makar Mela pilgrims river",
+      "wiki": "Makar Mela",
+      "summary": "On Maghe Sankranti, the first day of Magh in mid-January, pilgrims come to bathe at Panauti's triveni ghat, and families eat sesame laddu, chaku and sweet potato. In the twelfth year, it opens the month-long Makar Mela. We go early and watch from the ghats.",
+      "body": [
+        "Maghe Sankranti marks the sun's move into Capricorn and the end of the coldest month, and across Nepal people bathe in holy rivers and eat warming foods. At Panauti, the triveni ghat fills from early morning with families coming to bathe, make offerings and visit the temples along the bank.",
+        "We arrive early to watch from the ghats as pilgrims step into the cold water, light lamps and make offerings. Your guide explains the rituals and the foods of the day: sesame laddu, chaku (molasses), ghee, yam and sweet potato, which families share with relatives and neighbours.",
+        "In the twelfth year, Maghe Sankranti opens Panauti's Makar Mela, when crowds come from across Nepal and India to bathe throughout the month of Magh. In other years the day is local and calm. We finish with a family meal of festival foods in a homestay or local eatery."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "solo",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "When is Maghe Sankranti?",
+          "a": "Maghe Sankranti falls on the first day of the Nepali month of Magh, usually around 14 or 15 January. It is a public holiday in Nepal, marked by river bathing and special foods. Dates can shift by a day, so check current status before you travel."
+        },
+        {
+          "q": "When is the next Panauti Makar Mela?",
+          "a": "Makar Mela is held once every twelve years in the month of Magh, usually from mid-January to mid-February, when astrological conditions are met. Dates are announced by local authorities and priests. Check current status before you travel if you want to plan around it."
+        },
+        {
+          "q": "Can tourists bathe at Panauti's triveni ghat?",
+          "a": "The ghats are open to all, and visitors who wish to bathe respectfully are usually welcome. Most watch from the steps. Wear modest clothing if you enter the water, keep away from cremation areas, and ask before photographing pilgrims."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Panauti?",
+      "a": "Panauti is a Newar town in Kavrepalanchok district, about 32 km south-east of Kathmandu and 7 km south of Banepa. It lies in a small valley of its own beyond the eastern rim of the Kathmandu Valley. The drive takes about 1.5 hours."
+    },
+    {
+      "q": "Is Panauti worth visiting?",
+      "a": "Yes, if you want a quieter Newar town with real heritage and few tourists. Its 1294 temple, the triveni ghat and old lanes are lovely, and its community homestays offer a rare chance to live with a Newar family. It pairs well with Dhulikhel and Namobuddha."
+    },
+    {
+      "q": "How do I get from Kathmandu to Panauti?",
+      "a": "By car, take the Araniko Highway east to Banepa, then the road south to Panauti, about 1.5 hours in total. By public transport, take a bus from Kathmandu or Bhaktapur to Banepa and change for Panauti. Private transfers are easiest with luggage."
+    },
+    {
+      "q": "How long should I stay in Panauti?",
+      "a": "One night in a homestay is ideal: arrive in the afternoon, cook with your host, see the town at dawn and leave after breakfast. Two nights lets you add a hike to Balthali or Namobuddha. A day trip covers the main temple and ghats."
+    },
+    {
+      "q": "What is Panauti famous for?",
+      "a": "Panauti is known for Indreshwar Mahadev, built in 1294, the triveni ghat at its holy river confluence, the Makar Mela held every twelve years, and its community homestays run by local women. It is also often linked to the origin legend of yomari."
+    },
+    {
+      "q": "Is Panauti a UNESCO World Heritage Site?",
+      "a": "No, but its medieval town was placed on Nepal's tentative list for UNESCO World Heritage status in 1996. It is not part of the Kathmandu Valley World Heritage Site, which has seven separate monument zones. That keeps it quiet and unhurried."
+    },
+    {
+      "q": "Are Panauti homestays safe for solo women?",
+      "a": "Yes. Panauti's homestays are run by women and hosted in family homes, which many solo women travellers appreciate. As anywhere, use normal precautions. Book through the official network or a trusted operator, and tell your host your plans for the day."
+    },
+    {
+      "q": "What festivals take place in Panauti?",
+      "a": "Panauti celebrates Maghe Sankranti at its triveni ghat every January, the Makar Mela every twelve years, and its own chariot festival, Panauti Jatra, in early summer. It also marks Dashain, Tihar and Yomari Punhi. Dates follow the lunar calendar, so check current status before you travel."
+    },
+    {
+      "q": "Can I combine Panauti with Dhulikhel and Namobuddha?",
+      "a": "Yes, they form a natural loop. Stay a night in Dhulikhel for mountain views, hike to Namobuddha the next day and down to Panauti for a homestay night, then drive back to Kathmandu. This gives two to three relaxed days east of the valley."
+    }
+  ]
+}

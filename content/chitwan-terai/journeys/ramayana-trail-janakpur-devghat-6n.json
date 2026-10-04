@@ -1,0 +1,199 @@
+{
+  "slug": "ramayana-trail-janakpur-devghat-6n",
+  "title": "Ramayana Trail: Janakpur to Devghat",
+  "region": "chitwan-terai",
+  "kind": "pilgrimage",
+  "nights": 6,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "food-and-festivals",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "janakpur",
+      "nights": 3
+    },
+    {
+      "place": "devghat",
+      "nights": 1
+    },
+    {
+      "place": "sauraha",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1050,
+  "best_months": [
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Ramayana pilgrimage in Nepal, 6 nights: Sita's Janakpur, Dhanusha Dham, the sacred confluence at Devghat and a last night by the jungle at Sauraha.",
+  "summary": "Six nights on the Nepal side of the Ramayana. Three nights in Janakpur, Sita's city in Hindu tradition, for Janaki Mandir, the Vivah Mandap and the sacred ponds; a day at Dhanusha Dham, where Ram's broken bow is remembered; then west to Devghat, the holy confluence of the Kali Gandaki and Trishuli, and a final night at Sauraha.",
+  "intro": [
+    "The Ramayana is not only an Indian story. For millions of Hindus, Sita was born in Mithila, and her father's city of Janakpur lies in Nepal, a few hours' drive from the Indian border. Pilgrims come here from Ayodhya, Varanasi and all over Nepal to see where she grew up, where Ram broke Shiva's bow to win her and where the two were married. The temple that marks her birthplace, Janaki Mandir, was built in 1910 and is one of the largest in Nepal.",
+    "This journey follows that thread through the Terai at a pilgrim's pace, with a guide who knows the stories and the rituals. From Janakpur and Dhanusha Dham we drive west to Devghat, a sacred confluence where the Kali Gandaki meets the Trishuli to form the Narayani, and where elderly Hindus come to spend their last years by the river. We end with a quiet night by Chitwan's jungle before flying back to Kathmandu."
+  ],
+  "story": "In Janakpur the day starts with bells. Pilgrims in saffron and yellow walk barefoot to Janaki Mandir before sunrise, women carry brass pots to Ganga Sagar, and the loudspeakers play bhajans about Sita and Ram. At Dhanusha Dham the story becomes stone: worshippers touch a fragment they believe broke from Shiva's bow. Then the Terai opens out as you drive west, rice and sugarcane giving way to the forest of the Siwaliks, and at Devghat the land narrows to two rivers meeting under a suspension bridge. Here old men and women, some of whom have come to live out their final years, wash in the confluence each morning. It is a quiet end to a loud, joyful pilgrimage, and the jungle at Sauraha is a good place to sit with it.",
+  "highlights": [
+    "Morning and evening aarti at Janaki Mandir, Sita's temple in Janakpur",
+    "The Vivah Mandap, Ram Mandir and the sacred ponds of Ganga Sagar and Dhanush Sagar",
+    "Dhanusha Dham, where tradition places a fragment of Shiva's bow broken by Ram",
+    "Dawn at Devghat, where the Kali Gandaki and Trishuli meet to form the Narayani",
+    "A final evening by the Rapti at Sauraha, on the edge of Chitwan National Park"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "",
+      "text": "We meet you at Tribhuvan International Airport and transfer you to your hotel. If you land in time, visit Pashupatinath on the Bagmati, Nepal's most sacred Shiva temple, for the evening aarti on the riverbank; non-Hindus watch from the east bank. In the evening your guide introduces the journey: the stories of Janak, Sita and Ram as told in Mithila, the main festivals and what to wear and bring for temple visits.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Fly to Janakpur, evening aarti",
+      "place": "janakpur",
+      "overnight": "Janakpur",
+      "alt_m": 74,
+      "move": "≈ 30 min flight",
+      "text": "A morning flight to Janakpur and a rest through the heat of the day. In the late afternoon we walk to Janaki Mandir, built by Queen Vrisha Bhanu of Tikamgarh and completed in 1910, with its white domes and carved arches. Tradition says it stands where an image of Sita was found. Stay for the evening aarti, then walk to the Vivah Mandap next door, where the wedding of Ram and Sita is remembered, and on to the lamps on Ganga Sagar.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Temples and ponds of Janakpur",
+      "place": "janakpur",
+      "overnight": "Janakpur",
+      "alt_m": 74,
+      "move": "",
+      "text": "An early start to watch pilgrims at Janaki Mandir in the morning light. Then by rickshaw around the old town: the pagoda-roofed Ram Mandir, Dhanush Sagar and Ganga Sagar, and smaller shrines tucked among homes and shops. Janakpur is called a city of ponds, and each has its own story and ritual use. After lunch and a rest, visit the Janakpur Women's Development Centre to see how Mithila painting carries the same stories of Sita and Ram on walls and paper.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Dhanusha Dham and village shrines",
+      "place": "dhanusha-dham",
+      "overnight": "Janakpur",
+      "alt_m": 74,
+      "move": "≈ 18 km · 45 min each way",
+      "text": "Morning drive to Dhanusha Dham, north-east of Janakpur. In the Ramayana, King Janak promised Sita to whoever could string Shiva's great bow; Ram lifted it and it broke. Local tradition holds that a piece fell here, and pilgrims touch stone fragments believed to be part of it. Back in Janakpur after lunch, the afternoon is free for the bazaar or a short ride on the Janakpur–Jaynagar railway. In the evening, a final aarti and a Maithil dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Drive west to Devghat",
+      "place": "devghat",
+      "overnight": "Bharatpur (8 km from Devghat)",
+      "alt_m": 200,
+      "move": "≈ 290 km · 7–8 h drive",
+      "text": "A long day on the road, west along the East-West Highway through Bardibas, Pathlaiya and Hetauda, then down to Bharatpur. If you are interested in Maithil history, we can detour to Simraungadh, the capital of the Karnat kings of Mithila until the early 14th century, which adds two to three hours. We reach Devghat in the late afternoon, in time to see the sunset over the confluence from the suspension bridge, and stay in Bharatpur nearby.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Dawn at Devghat, on to Sauraha",
+      "place": "sauraha",
+      "overnight": "Sauraha",
+      "alt_m": 150,
+      "move": "≈ 30 km · 1 h drive",
+      "text": "Back to Devghat before sunrise, when pilgrims bathe at the ghats where the Kali Gandaki and Trishuli join to form the Narayani. Many elderly Hindus live in the ashrams here, as dying at a sacred confluence is believed to bring liberation. Walk the temples on both banks with your guide. Then drive to Sauraha on the edge of Chitwan National Park for lunch, a quiet afternoon and a sunset walk on the Rapti riverbank, where rhino often graze.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly from Bharatpur to Kathmandu",
+      "place": "",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min drive + 25 min flight",
+      "text": "An optional early canoe trip on the Rapti, then the short drive to Bharatpur for the flight to Kathmandu. We transfer you to your hotel or the international airport. To extend the pilgrimage, add Lumbini, about 4 to 5 hours west of Chitwan by road, or Valmiki Ashram near Tribeni, where tradition says Sita raised her sons Lava and Kusha, which needs an extra day. Both add-ons can be booked when you confirm the main trip.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "green-park-chitwan"
+  ],
+  "includes": [
+    "Flights Kathmandu–Janakpur and Bharatpur–Kathmandu, with airport transfers",
+    "Private car with driver from Janakpur to Devghat and Sauraha",
+    "1 night Kathmandu, 3 nights Janakpur, 1 night Bharatpur and 1 night at Green Park Chitwan, twin sharing",
+    "Meals as listed",
+    "English-speaking guide with knowledge of the Ramayana and Mithila traditions",
+    "Temple and site entry fees where charged"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Puja offerings and temple donations",
+    "Chitwan activities beyond the riverbank walk",
+    "Drinks, tips and travel insurance"
+  ],
+  "good_to_know": [
+    "Vivah Panchami, in November or December, and Ram Navami, in March or April, are the busiest and most colourful times in Janakpur; book early.",
+    "Non-Hindus may enter Janaki Mandir; some inner shrines may be restricted. Your guide will advise.",
+    "Remove shoes and leather items at temples, and dress modestly.",
+    "Devghat accommodation is simple; we stay in Bharatpur, 8 km away, for comfort.",
+    "Road conditions on the East-West Highway change with road works and monsoon damage; check current status before you travel."
+  ],
+  "faqs": [
+    {
+      "q": "Where is Sita's birthplace in Nepal?",
+      "a": "Hindu tradition places Sita's birth and childhood in Janakpur, the capital of King Janak's Videha kingdom, in Nepal's Madhesh Province. Janaki Mandir, built in 1910, marks the spot where tradition says her image was found. Sitamarhi, just across the border in India, also claims a link to her birth, and pilgrims often visit both."
+    },
+    {
+      "q": "What is Vivah Panchami?",
+      "a": "The festival that celebrates the wedding of Ram and Sita, held on the fifth day of the bright half of the month of Mangsir, usually in late November or December. Janakpur hosts a re-enactment with processions, music and a wedding ceremony, and pilgrims arrive from across Nepal and India. Hotels fill fast."
+    },
+    {
+      "q": "Do non-Hindus have access to Janakpur temples?",
+      "a": "Yes. Visitors of any faith may enter Janaki Mandir and its courtyard, the Vivah Mandap and most other temples in Janakpur. Some inner sanctums may be reserved for Hindus or for priests, so follow your guide. Remove shoes, cover shoulders and knees, and ask before photographing people at prayer."
+    },
+    {
+      "q": "What is the significance of Devghat?",
+      "a": "Devghat is the confluence of the Kali Gandaki and Trishuli rivers, which join to form the Narayani. Hindus consider river confluences especially sacred, and many elderly people move to Devghat's ashrams to spend their last years there, believing that dying at such a place brings liberation. It is crowded during the Makar Sankranti fair in January."
+    },
+    {
+      "q": "Is there a Ramayana circuit between Nepal and India?",
+      "a": "Yes. India and Nepal have both promoted Ramayana circuits, and since 2018 Ayodhya and Janakpur have been linked by a direct bus service. Indian Railways' Ramayana tourist trains have also included Janakpur, reached by road from the Indian side. Our journey covers the Nepal side in depth and can connect to Indian sites with a cross-border extension."
+    },
+    {
+      "q": "How long should I spend in Janakpur?",
+      "a": "Two to three nights. That gives time for Janaki Mandir at both morning and evening aarti, the ponds and smaller temples, Dhanusha Dham and some Mithila art. During Vivah Panchami or Ram Navami, consider an extra night to take part in the festival processions and rituals without rushing."
+    },
+    {
+      "q": "What is Valmiki Ashram?",
+      "a": "A hermitage in the west of Chitwan National Park near Tribeni, on the Indian border, linked by tradition to the sage Valmiki, author of the Ramayana. It is believed to be where Sita lived in exile and gave birth to Lava and Kusha. Reaching it from Chitwan takes most of a day, so we offer it as an extension."
+    },
+    {
+      "q": "Is this pilgrimage suitable for older travellers?",
+      "a": "Yes. Walking is light, mostly on flat paved ground, and the pace is unhurried with rests in the heat of the day. The one long day is the drive from Janakpur to Devghat, about 7 to 8 hours with stops. We use comfortable private cars and can add a night en route if you prefer shorter drives."
+    },
+    {
+      "q": "What should I wear for temple visits in Janakpur?",
+      "a": "Light, loose clothes that cover shoulders and knees, and shoes that slip off easily, as you will remove them often. A scarf is useful for women and for covering the head in some shrines. Avoid leather belts and bags inside temples. In winter, bring a warm layer for early morning aarti."
+    }
+  ]
+}

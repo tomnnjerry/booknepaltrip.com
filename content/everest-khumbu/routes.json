@@ -1,0 +1,191 @@
+[
+  {
+    "slug": "kathmandu-to-lukla",
+    "from": "kathmandu",
+    "to": "lukla",
+    "distance_km": 140,
+    "summary": "Lukla is reached by a 35-minute flight from Kathmandu, or, in the busy seasons, by a 4–5 hour pre-dawn drive to Ramechhap (Manthali) airport and a 20-minute flight from there. There is no road to Lukla; the alternative is several days on foot from the roadhead.",
+    "options": [
+      {
+        "mode": "Flight from Kathmandu",
+        "time": "35 min",
+        "text": "Small twin-engine aircraft fly from the domestic terminal of Tribhuvan International Airport to Tenzing-Hillary Airport at Lukla, about 2,860 m. Flights leave in the early morning, when the air is calmest, and are delayed or cancelled whenever cloud closes the Dudh Koshi gorge. Sit on the left going up for the mountains. Baggage allowance is tight, usually around 15 kg including hand luggage; check current status before you travel."
+      },
+      {
+        "mode": "Drive to Ramechhap, then fly",
+        "time": "4–5 h drive + 20 min flight",
+        "text": "Since 2019, to ease congestion at Kathmandu airport, most Lukla flights in the peak months, roughly March to May and October to November, have operated from Ramechhap airport at Manthali, about 130 km from Kathmandu. That means leaving Kathmandu around 1–2 am by car to make the first flights. Some years the shift is partial or announced late, so check current status before you travel."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "≈ 45–60 min",
+        "text": "Charter or shared helicopters fly Kathmandu to Lukla and can sometimes operate when fixed-wing flights cannot, because they need less visibility and can wait out cloud lower down. A shared seat costs several times a plane fare. We mostly use helicopters for the return when weather has stranded people in Lukla and an international flight is close."
+      },
+      {
+        "mode": "Jeep and trek",
+        "time": "1–2 days drive + 3–6 days walk",
+        "text": "Before the airstrip, everyone walked, and the 1953 Everest expedition marched in from the Kathmandu Valley. Today jeeps reach far beyond Jiri and Salleri, and you can drive to the roadhead and walk up through Solu's Sherpa and Rai villages to join the main trail below Lukla. It is the best acclimatisation there is, and the quietest way in."
+      }
+    ],
+    "stops_on_way": [
+      "Manthali (Ramechhap airport, peak seasons)",
+      "Phaplu and Salleri (road and trek option)",
+      "Junbesi (road and trek option)"
+    ],
+    "tip": "Book the first flight of the day and keep at least one spare day at the end of your trip for Lukla weather.",
+    "faqs": [
+      {
+        "q": "Do Lukla flights leave from Kathmandu or Ramechhap?",
+        "a": "Both, depending on the season. Since 2019, during the busiest months, roughly March to May and October to November, most Lukla flights have been moved to Ramechhap airport at Manthali, a 4–5 hour drive from Kathmandu, to relieve congestion at Tribhuvan airport. In quieter months flights usually leave from Kathmandu. Airlines confirm only a few weeks ahead, so check current status before you travel."
+      },
+      {
+        "q": "Why are Lukla flights delayed so often?",
+        "a": "Lukla's runway is short, sloped and boxed in by mountains, so pilots fly only by sight in clear weather. Cloud in the Dudh Koshi gorge, wind or poor visibility at either end stops flights. Mornings are usually best, which is why the first flights are most reliable. In the monsoon, June to September, cancellations can run for days. Always keep a spare day."
+      },
+      {
+        "q": "How much luggage can I take on the Lukla flight?",
+        "a": "Airlines usually allow about 15 kg per person, often split as 10 kg checked and 5 kg hand luggage, and charge for excess weight when there is space. Leave city clothes in a Kathmandu hotel's storage. Your porter carries a duffel on the trail, usually up to around 10–12 kg per trekker. Check current status before you travel, as limits differ by airline."
+      },
+      {
+        "q": "Can I get to Lukla without flying?",
+        "a": "Yes. There is no road to Lukla itself, but jeeps now reach the Solu hills around Salleri and Phaplu and roadheads beyond Jiri. From there it is several days on foot through Sherpa and Rai villages to the main Everest trail. It takes longer but gives better acclimatisation and avoids flight delays. We plan these routes with a guide and porter."
+      }
+    ]
+  },
+  {
+    "slug": "lukla-to-namche-bazaar",
+    "from": "lukla",
+    "to": "namche-bazaar",
+    "distance_km": 19,
+    "summary": "From Lukla to Namche Bazaar is about 19 km on foot, normally walked over two days with a night in Phakding or Monjo. The trail follows the Dudh Koshi, crosses it several times on suspension bridges, enters Sagarmatha National Park at Monjo and ends with a 600 m climb to Namche.",
+    "options": [
+      {
+        "mode": "On foot over two days",
+        "time": "≈ 3–4 h + 5–6 h",
+        "text": "Day one drops gently from Lukla at about 2,860 m to Phakding at about 2,610 m, through Chheplung and past mani walls and farm terraces. Day two crosses back and forth over the Dudh Koshi on suspension bridges to Monjo, where you show permits at the national park gate, then climbs from the high Hillary bridge to Namche at about 3,440 m. The first view of Everest comes on this climb, weather permitting."
+      },
+      {
+        "mode": "On foot with an extra night",
+        "time": "3 days",
+        "text": "Travellers who want an easier start, or who come from sea level, can split the walk into three short days with nights in Phakding and Monjo. The altitude gain stays small each day, which helps the body settle before the climb to Namche. It also leaves time for side visits such as the Rimishung gompa near Phakding and the old village paths above Monjo."
+      }
+    ],
+    "stops_on_way": [
+      "Chheplung",
+      "Phakding",
+      "Benkar",
+      "Monjo (Sagarmatha National Park entry)",
+      "Jorsalle",
+      "Hillary suspension bridge"
+    ],
+    "tip": "Walk slowly on the climb to Namche, drink plenty of water, and step to the mountain side whenever a yak or dzo caravan passes.",
+    "faqs": [
+      {
+        "q": "How long does it take to walk from Lukla to Namche Bazaar?",
+        "a": "Most people take two days: about 3–4 hours from Lukla to Phakding, then 5–6 hours from Phakding to Namche, including the steep final climb of roughly 600 m. Fit walkers sometimes do it in one long day, but we do not recommend that, because it gains too much height too fast for the body coming straight from Kathmandu."
+      },
+      {
+        "q": "Where do I pay the Everest park and municipality fees?",
+        "a": "The Khumbu Pasanglhamu Rural Municipality permit, about NPR 2,000 per person, is collected at Lukla or on the trail just beyond, and the Sagarmatha National Park entry fee, about NPR 3,000 for foreigners, at the park gate in Monjo. Carry passport copies and cash in rupees. Fees change, and since April 2023 a licensed guide rule has applied; check current status before you travel."
+      },
+      {
+        "q": "Is the trail from Lukla to Namche difficult?",
+        "a": "The first day is easy, mostly level or downhill. The second day is harder: many ups and downs along the river, then a sustained climb of about 600 m to Namche that takes two to three hours at a steady pace. Nothing is technical. The main challenges are altitude, dust and pack-animal traffic, so walk slowly and stand on the uphill side when animals pass."
+      },
+      {
+        "q": "Can I see Everest on the way to Namche?",
+        "a": "Usually yes, briefly. On the climb above the Hillary bridge there is a viewpoint, often called Top Danda, where Everest's summit shows above the Nuptse–Lhotse ridge on a clear day. It is a distant view, and cloud often hides it after mid-morning. Far better views come from the hill above Namche and from Syangboche the next day."
+      }
+    ]
+  },
+  {
+    "slug": "namche-bazaar-to-gokyo",
+    "from": "namche-bazaar",
+    "to": "gokyo",
+    "distance_km": 24,
+    "summary": "From Namche Bazaar to Gokyo is about 24 km and 1,350 m of climbing, walked over three to four days via Mong La, Dole and Machhermo. The trail climbs the Dudh Koshi valley west of the Everest route to the Gokyo lakes at about 4,790 m.",
+    "options": [
+      {
+        "mode": "On foot via Dole and Machhermo",
+        "time": "3–4 days",
+        "text": "The classic route leaves Namche along the high traverse to Kyangjuma, climbs to the Mong La ridge at about 3,975 m, drops to the river at Phortse Thanga and climbs again to Dole at about 4,040 m. The next day reaches Machhermo at about 4,470 m, where most people rest a night. The last day passes the first two lakes to Gokyo village beside the third lake."
+      },
+      {
+        "mode": "On foot via the Phortse east-bank trail",
+        "time": "4–5 days",
+        "text": "A quieter variant crosses to Phortse, a Sherpa village of stone-walled fields, and follows the east bank of the Dudh Koshi north through summer pasture hamlets to rejoin the main trail near the lakes. It sees far fewer trekkers and gives good acclimatisation. Lodges are fewer and simpler, so we plan it with a guide who knows which ones are open."
+      }
+    ],
+    "stops_on_way": [
+      "Kyangjuma",
+      "Mong La",
+      "Phortse Thanga",
+      "Dole",
+      "Luza",
+      "Machhermo",
+      "First and second Gokyo lakes"
+    ],
+    "tip": "Do not climb more than about 500 m of sleeping altitude per night above 3,000 m, and take the rest day at Machhermo.",
+    "faqs": [
+      {
+        "q": "How many days from Namche to Gokyo?",
+        "a": "Three to four days going up. A typical plan is Namche to Dole on day one, Dole to Machhermo on day two, a rest or short acclimatisation hike at Machhermo, and Machhermo to Gokyo on day three or four. Going faster raises the risk of altitude sickness, because sleeping altitude climbs from about 3,440 m to about 4,790 m."
+      },
+      {
+        "q": "Is the Gokyo trek harder than Everest Base Camp?",
+        "a": "It is similar in difficulty but quieter. Gokyo village at about 4,790 m is lower than Gorak Shep, and the climb up Gokyo Ri at about 5,357 m is shorter than Kala Patthar. Days are moderate, with steep sections out of Namche and above Phortse Thanga. Crossing the Cho La or Renjo La passes adds glacier and scree sections that are much harder."
+      },
+      {
+        "q": "Are there lodges on the way from Namche to Gokyo?",
+        "a": "Yes. Teahouses operate at Kyangjuma, Mong La, Phortse Thanga, Dole, Luza, Machhermo and Gokyo, with basic rooms, shared toilets and a heated dining room. In peak weeks of October and April rooms fill early, so guides often phone ahead. In winter, December to February, some higher lodges close; check current status before you travel."
+      },
+      {
+        "q": "What should I do if I feel ill on the way to Gokyo?",
+        "a": "Stop climbing and tell your guide. A mild headache that eases with rest, water and food is common, but headache with vomiting, confusion, clumsiness or breathlessness at rest are warning signs of serious altitude illness. The cure is descent, even a few hundred metres, to Dole or Phortse Thanga. Helicopter evacuation is possible in clear weather; make sure your insurance covers it above 4,000 m."
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu-to-phaplu",
+    "from": "kathmandu",
+    "to": "phaplu",
+    "distance_km": 260,
+    "summary": "Phaplu, in the Solu hills, is reached by a short flight from Kathmandu or by jeep in about 10–12 hours over roughly 260 km of highway and hill road via Okhaldhunga. It is the gateway for Junbesi, Chiwong and walking routes into Khumbu.",
+    "options": [
+      {
+        "mode": "Flight",
+        "time": "≈ 30–35 min",
+        "text": "Small aircraft fly from Kathmandu's domestic terminal to Phaplu's airstrip at about 2,413 m. Services are fewer than to Lukla and schedules change by season and airline, sometimes running only a few days a week. Like Lukla, flights depend on clear morning weather. When they run, this is the quickest way into Solu, so check current status before you travel."
+      },
+      {
+        "mode": "Jeep",
+        "time": "10–12 h",
+        "text": "Shared and private jeeps run from Kathmandu east through Dhulikhel and down the Sindhuli highway, then climb north via Ghurmi and Okhaldhunga to Salleri, the Solukhumbu district headquarters, and on to Phaplu. The last stretch is narrow mountain road, rough after rain. Monsoon landslides can close it for days. Start early and break the journey if you prefer daylight driving."
+      }
+    ],
+    "stops_on_way": [
+      "Dhulikhel",
+      "Okhaldhunga",
+      "Salleri"
+    ],
+    "tip": "If you drive, plan your first night in Phaplu or Salleri rather than pushing on, because the road day is long.",
+    "faqs": [
+      {
+        "q": "How do I get from Kathmandu to Phaplu?",
+        "a": "Fly or drive. Flights take about 30–35 minutes to Phaplu's airstrip but run less often than Lukla flights and depend on morning weather. Jeeps take 10–12 hours via Okhaldhunga and Salleri on roughly 260 km of highway and hill road. Both are affected by monsoon weather from June to September. Check current status before you travel."
+      },
+      {
+        "q": "Can I trek from Phaplu to Everest?",
+        "a": "Yes. From Phaplu or Salleri you can walk north and east through Ringmo, the Taksindu La and Nunthala to join the main Everest trail below Lukla in about four to five days. It is a classic lower-hills approach through Sherpa and Rai villages, with gentler acclimatisation than flying straight to Lukla. Many walkers combine it with Junbesi."
+      },
+      {
+        "q": "Is the road to Phaplu safe?",
+        "a": "It is a working mountain road used daily by jeeps and buses, with narrow sections and steep drops above Okhaldhunga. Dry-season travel, October to May, is reasonable with an experienced driver. In the monsoon, landslides and mud make it slow and sometimes blocked. We use private jeeps with drivers who know the road and avoid driving after dark."
+      },
+      {
+        "q": "What is there to see near Phaplu?",
+        "a": "Chiwong Gompa on its cliff above the town, which stages its own Mani Rimdu, the district bazaar of Salleri a short walk away, and Ringmo's apple orchards and Junbesi's monasteries a day's walk north. The Pikey Peak viewpoint, at about 4,065 m, lies to the west for a short trek with long Himalayan views."
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+{
+  "slug": "tumlingtar",
+  "name": "Tumlingtar",
+  "name_ne": "तुम्लिङटार",
+  "local_name": "",
+  "region": "eastern-nepal",
+  "kind": "valley",
+  "wiki": "Tumlingtar",
+  "image_query": "Tumlingtar Arun valley Sankhuwasabha",
+  "lat": 27.315,
+  "lng": 87.193,
+  "altitude_m": 518,
+  "tagline": "A broad river terrace above the Arun, gateway to Makalu",
+  "meta_description": "Tumlingtar, Sankhuwasabha: airstrip town on a wide tar above the Arun river, gateway to Makalu Barun, Khandbari and Chainpur. Flights, roads, what to do.",
+  "summary": "Tumlingtar is a small airstrip town on a wide, flat river terrace (tar) between the Arun and Sabha rivers in Sankhuwasabha district, at about 500 m. It is the gateway for the Makalu Base Camp trek and the hill towns of Khandbari and Chainpur. Most travellers pass through in a few hours, but it rewards a slower day.",
+  "intro": [
+    "Fly into Tumlingtar and the first surprise is the heat. The plane lands on a long, level terrace high above the Arun river, among fields, mango trees and scattered houses, with forested hills rising on every side. It feels more like the edge of the plains than the gateway to an eight-thousand-metre peak. Yet Makalu, the fifth highest mountain on earth, stands only a few days' walk to the north, hidden behind the ridges.",
+    "The town is spread along the road from the airstrip. There are lodges, tea shops, jeep counters for Khandbari and Num, and offices tied to the hydroelectric projects being built on the Arun. Trekkers usually land in the morning and drive off toward Makalu the same day, and the town sees them only for an hour or two. On the way back, tired and happy, many wish they had planned an extra night here.",
+    "If you have time, stay a night. Walk to the edge of the tar for the view down to the Arun, eat a proper Rai meal, and drive up to Khandbari or across to Chainpur, the old bazaar of brass and bronze casters. In winter, when the hills are cold, Tumlingtar's mild days and warm evenings make it a pleasant base, and the light over the river in the late afternoon is lovely."
+  ],
+  "story": {
+    "title": "A tar between two rivers",
+    "paras": [
+      "In Nepali, a tar is a raised, flat terrace above a river, made of old river gravel, and Tumlingtar is one of the largest in the country. Its flat land and warm climate made it good farmland for rice, maize and fruit. In Nepal's Fourth Plan of the early 1970s it was chosen as the site of an airstrip to serve the far-off districts of the Koshi hills, which had no roads and could be reached only on foot over many days.",
+      "For decades the airstrip was the only quick way in or out of Sankhuwasabha. Porters carried goods from the planes up to Khandbari, Chainpur and the villages toward Makalu, and the trails out of town were busy with loads of rice, salt, kerosene and cloth. Roads from Hile and the south arrived later and changed the town again, with jeeps and trucks taking over much of the carrying, and Tumlingtar became a road junction as well as an airport town.",
+      "Tumlingtar's newest chapter is water. The Arun is one of the great rivers of Nepal, rising in Tibet and cutting through the Himalaya, and hydroelectric schemes have been planned and built along it for years. In the 1990s an earlier Arun III scheme became the first case brought to the World Bank's new Inspection Panel, and the Bank later withdrew. A 900 MW Arun III plant has since been under construction by India's state-owned SJVN under an agreement with Nepal."
+    ]
+  },
+  "legend": "",
+  "people": "Tumlingtar and the surrounding Arun valley are home to Rai families of several Kirat groups, alongside Brahmin, Chhetri, Newar, Gurung, Tamang, Sherpa and other communities. Farming of rice, maize, millet and fruit is the main living, along with shops, transport, government work and jobs on the hydro projects. Many households have members working in the Gulf or Malaysia.",
+  "untold": [
+    {
+      "fact": "Tumlingtar Airport sits at about 518 m on the flat terrace between the Arun and Sabha rivers, and was first conceived in Nepal's Fourth Plan to serve inaccessible areas of the eastern hills.",
+      "source": "Wikipedia: Tumlingtar Airport"
+    },
+    {
+      "fact": "The earlier Arun III hydropower plan was the first case submitted to the World Bank's Inspection Panel in 1994, and the Bank withdrew from the project in 1995.",
+      "source": "World Bank Inspection Panel, case 1: Nepal Arun III"
+    },
+    {
+      "fact": "The Arun river rises in Tibet and cuts south through the main Himalayan range before joining the Sapta Koshi, making it one of the rivers older than the mountains it crosses.",
+      "source": "Wikipedia: Arun River (China–Nepal)"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "tar",
+      "script": "टार",
+      "lang": "Nepali",
+      "meaning": "Raised flat river terrace, as in Tumlingtar"
+    },
+    {
+      "word": "besi",
+      "script": "बेसी",
+      "lang": "Nepali",
+      "meaning": "Warm lowland valley floor by a river"
+    },
+    {
+      "word": "bhariya",
+      "script": "भरिया",
+      "lang": "Nepali",
+      "meaning": "Porter who carries loads on the back with a head strap"
+    }
+  ],
+  "taste": {
+    "name": "Wachipa",
+    "text": "A Kirat Rai dish of rice cooked with minced chicken and a powder of burnt chicken feathers, which gives it a smoky, bitter taste. It is made for special occasions rather than daily meals. We ask a Rai family or lodge kitchen near Tumlingtar to prepare it with notice."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Mar"
+    ],
+    [
+      "Days we suggest",
+      "1"
+    ],
+    [
+      "Nearest airport",
+      "Tumlingtar (TMI)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 45 min flight; ≈ 2 days by road"
+    ],
+    [
+      "Altitude",
+      "≈ 518 m"
+    ],
+    [
+      "Known for",
+      "Gateway to Makalu, Arun valley, river terrace"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "0–1",
+  "highlights": [
+    {
+      "title": "The edge of the tar",
+      "text": "Walk 20–30 minutes from the airstrip to the edge of the terrace for the view down to the Arun river, wide and grey-green in winter, brown in the monsoon, with forested ridges rising beyond."
+    },
+    {
+      "title": "Gateway to Makalu",
+      "text": "Tumlingtar is where the Makalu Base Camp trek begins for most trekkers. Jeeps leave from here for Khandbari and on toward Num and Seduwa, a long day on rough road through the hills of Sankhuwasabha."
+    },
+    {
+      "title": "Khandbari bazaar",
+      "text": "The district headquarters of Sankhuwasabha sits on the ridge above Tumlingtar, about an hour by road. Its bazaar serves the whole district and is a good place to stock up before the trek."
+    },
+    {
+      "title": "Day trip to Chainpur",
+      "text": "The old bazaar town of Chainpur, known for its karuwa water jugs and brass and bronze casting, is a drive of a couple of hours from Tumlingtar, with stone-paved lanes and old Newar houses."
+    },
+    {
+      "title": "Warm winter days",
+      "text": "At around 500 m Tumlingtar is warm when the hills are cold. From November to February days are mild and sunny, a pleasant contrast to the high country, and a good place to rest after Makalu."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Air",
+      "text": "Flights from Kathmandu to Tumlingtar take about 45 minutes. Schedules vary by season and are often delayed or cancelled by cloud, especially in the monsoon; check current status before you travel."
+    },
+    {
+      "mode": "Road",
+      "text": "From the Terai, the road climbs from Itahari through Dharan, Dhankuta and Hile to Khandbari and Tumlingtar, about 10–14 hours by jeep or bus. From Kathmandu, allow two days by road."
+    }
+  ],
+  "where_to_stay": "Tumlingtar has simple lodges and small hotels near the airstrip, used by trekkers, officials and hydro workers; expect clean rooms, fans and basic bathrooms, and simple restaurants serving dal bhat and noodles. Khandbari, about an hour uphill, has more choice and cooler nights. For trekkers heading to Makalu, we usually drive straight on toward Num or Seduwa, or spend the first night in Khandbari.",
+  "stays": [],
+  "tips": [
+    "Fly in the morning; cloud often builds over the hills in the afternoon and flights can be cancelled.",
+    "Expect heat from April to September; carry water and sun protection on the tar.",
+    "Book jeeps through us or your lodge; seats to Num and beyond fill up fast in October.",
+    "Stock up on cash in Khandbari or Kathmandu before the Makalu trek; ATMs are limited and can be offline.",
+    "Keep a spare day in any itinerary that depends on Tumlingtar flights."
+  ],
+  "themes": [
+    "lakes-and-rivers",
+    "treks-and-trails",
+    "villages-and-homestays",
+    "food-and-festivals"
+  ],
+  "nearby": [
+    "chainpur",
+    "makalu-base-camp",
+    "hile"
+  ],
+  "experiences": [
+    {
+      "slug": "tumlingtar-arun-river-walk",
+      "title": "Walk down to the Arun river",
+      "kind": "water",
+      "duration": "3 hours",
+      "best_time": "Morning or late afternoon, Oct–Mar",
+      "image_query": "Arun river Sankhuwasabha",
+      "wiki": "Arun River (China–Nepal)",
+      "summary": "A walk from the airstrip terrace down to the banks of the Arun, one of the rivers that cut right through the Himalaya, with views back up to the tar and talk of the hydro projects changing the valley.",
+      "body": [
+        "We walk from town across the fields to the edge of the tar, where the land drops toward the Arun. From the edge there is a wide view of the river and the forested ridges beyond. A path leads down past farms and bamboo groves to the river, which in winter runs clear grey-green between gravel bars and sandbanks, and in the monsoon swells into a fast brown flood that fills the valley floor.",
+        "Our guide explains the river's journey: it rises in Tibet, where it is known as the Phung Chu, crosses the main Himalayan range in a deep gorge, and joins the Tamor and Sun Koshi to form the Sapta Koshi, which flows on to the Ganges. We also talk about the hydroelectric projects on the Arun and what they mean for local people, from jobs and roads to changes in the river and the land.",
+        "We spend time on the banks, watching the water and the people who use it, before starting back. The walk back up is the hard part, a steady climb of about an hour in the sun. In winter it is pleasant; from April to September, go early in the morning or late in the afternoon to avoid the heat. Carry water and a hat, and stop at a farmhouse tea shop on the way up if one is open."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Can I swim in the Arun river?",
+          "a": "We do not recommend it. The Arun is cold, fast and powerful, with strong currents even where the surface looks calm, and levels can change with upstream releases from hydro projects. Paddle at the edge only, with care."
+        },
+        {
+          "q": "How hot is Tumlingtar?",
+          "a": "At around 500 m, Tumlingtar is warm. Winter days from November to February are mild and sunny, while April to June can be hot, often above 30 °C, with humid nights. The monsoon months are humid and wet, and flights are often disrupted."
+        },
+        {
+          "q": "Where does the Arun river come from?",
+          "a": "The Arun rises in Tibet, where it is known as the Phung Chu, and flows south through a deep gorge across the Himalaya into Nepal. It later joins the Tamor and Sun Koshi to form the Sapta Koshi, which flows on to the Ganges."
+        }
+      ]
+    },
+    {
+      "slug": "tumlingtar-terrace-village-walk",
+      "title": "Village walk across the Tumlingtar terrace",
+      "kind": "heritage",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Tumlingtar village fields",
+      "wiki": "",
+      "summary": "An easy walk across the flat tar through fields, orchards and farmhouses, with a local guide who explains farming in the warm Arun valley and introduces you to families along the way.",
+      "body": [
+        "The Tumlingtar terrace is flat, which is rare in the hills of Nepal. Paths run between rice and maize fields, mango and banana trees, and farmhouses with grain drying in the yard and goats tethered by the door. It is the easiest walking you will do in eastern Nepal, and a good way to see how families live on this warm, low land between two rivers, with the hills rising all around.",
+        "Our guide introduces you to farming families, many of them Rai, and talks about the farming year here: rice in the monsoon, maize and mustard in winter, fruit and vegetables for the Khandbari market. You may be offered tea, buttermilk or fruit in season. Conversation often turns to children working abroad, the hydro projects and the changes the road has brought to prices and daily life.",
+        "It is a gentle way to spend a morning before a flight, or a quiet day after coming down from Makalu, when tired legs want flat ground. We keep the pace easy, stop wherever there is something to see, and finish back in town for lunch. In the dry season the fields are golden after harvest; in early summer they are green with young maize and the mango trees are heavy with fruit."
+      ],
+      "good_for": [
+        "families",
+        "seniors",
+        "first-timers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is the Tumlingtar village walk easy?",
+          "a": "Yes. The terrace is almost flat, and the walk is 5–7 km on farm paths and tracks, at an easy pace with stops. Bring a hat, sunscreen and water, as there is little shade at midday, and wear comfortable shoes."
+        },
+        {
+          "q": "What crops grow at Tumlingtar?",
+          "a": "Rice in the monsoon, maize, mustard and vegetables in the dry season, and fruit such as mango, banana and citrus. The warm, low terrace grows crops that do not survive in the higher hills around it."
+        },
+        {
+          "q": "Can I do this walk on arrival day?",
+          "a": "Yes. If your flight lands in the morning and you are staying the night, the walk fits well into the afternoon, ideally after 3 pm when it is cooler. It also works on the morning of a departure if your flight is in the afternoon."
+        }
+      ]
+    },
+    {
+      "slug": "tumlingtar-khandbari-bazaar",
+      "title": "Khandbari bazaar and the ridge road",
+      "kind": "heritage",
+      "duration": "Half day",
+      "best_time": "Morning, any season",
+      "image_query": "Khandbari bazaar Sankhuwasabha",
+      "wiki": "Khandbari Municipality",
+      "summary": "A drive up from Tumlingtar to Khandbari, the hill-top headquarters of Sankhuwasabha district, to walk its bazaar, see how a district town works, stock up for the Makalu trek and look back over the Arun valley.",
+      "body": [
+        "Khandbari sits on a ridge about an hour's drive above Tumlingtar. It is the district headquarters, with government offices, schools, banks and a long bazaar that serves villages across Sankhuwasabha, from the Arun valley to the Tibetan border. It is noticeably cooler than Tumlingtar, and busier, with jeeps loading for the northern villages and traders unloading goods from the south.",
+        "We walk the bazaar with our guide, stop for tea and snacks, and visit the shops where trekkers and villagers buy supplies for the hills: rice, oil, tools, blankets, phone cards and medicines. On clear days the ridge gives wide views over the Arun valley and the Tumlingtar terrace below. Our guide points out the roads leading north and explains where each one goes.",
+        "If you are trekking to Makalu, this is a good place to pick up last items and cash before the road heads north toward Num. If you are not, it is simply an interesting half day in a working district town, with a different feel from the warm valley below. We return to Tumlingtar in the afternoon or continue to Chainpur, which lies close by."
+      ],
+      "good_for": [
+        "first-timers",
+        "solo",
+        "trekkers",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "How far is Khandbari from Tumlingtar?",
+          "a": "Khandbari is roughly an hour by road uphill from Tumlingtar, depending on traffic and road works. Jeeps and local buses run regularly between the two through the day, and private cars can be arranged in either town."
+        },
+        {
+          "q": "Can I stay in Khandbari instead of Tumlingtar?",
+          "a": "Yes. Khandbari has more hotels than Tumlingtar and is cooler at night. It is a good first stop for Makalu trekkers, as jeeps for Num leave from here too, and you can shop for last supplies in the evening."
+        },
+        {
+          "q": "Are there ATMs in Khandbari?",
+          "a": "Yes, Khandbari has banks and ATMs, but they can be offline or empty, especially before festivals. Bring enough cash from Kathmandu for the Makalu trek and use Khandbari only as a backup."
+        }
+      ]
+    },
+    {
+      "slug": "tumlingtar-rai-kitchen",
+      "title": "A Rai home kitchen in the Arun valley",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "Evening, Oct–Mar",
+      "image_query": "Rai family kitchen Nepal",
+      "wiki": "Rai people",
+      "summary": "An evening meal cooked by a Rai family near Tumlingtar, with dishes such as wachipa, millet dishes and seasonal greens, and conversation about Kirat food, customs, festivals and the Sakela dance.",
+      "body": [
+        "Many Rai families live in the Arun valley around Tumlingtar. Rai food is little known outside the east, and the best way to try it is in a home. Meals are built around rice or millet, with meat on special days, greens from the garden, fermented foods and strong pickles. Some dishes, such as wachipa, are made for occasions rather than every day, and every family cooks them a little differently.",
+        "We arrange the meal in advance with a family, who cook in their own kitchen over a wood or gas stove. Depending on season and the cook, you may eat wachipa, rice with minced chicken and burnt-feather powder; millet dhido; pork or chicken curry; and greens and pickles from the garden. Millet beer is often offered as a sign of welcome; you are free to decline politely, and no one will mind.",
+        "Over the meal, our guide helps the conversation along: Kirat customs, the Sakela festival and its circle dance, the role of the Rai priest, and how the valley is changing with the roads and the dams. Families are usually as curious about your life as you are about theirs. We pay the family directly for the meal and their time, and the evening ends early, as farming days start at dawn."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "families",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is wachipa?",
+          "a": "Wachipa is a Kirat Rai dish of rice cooked with minced chicken and a powder made from burnt chicken feathers, which gives it a bitter, smoky taste. There is a vegetarian version using bitter leaves. It is made for special occasions."
+        },
+        {
+          "q": "Can vegetarians join the Rai kitchen evening?",
+          "a": "Yes. Tell us in advance and the family will cook vegetarian dishes such as dal, greens, millet dhido, pickles and the vegetarian form of wachipa where possible. Mention any allergies too, since chilli and dairy are common."
+        },
+        {
+          "q": "Is the Rai kitchen evening a staged show?",
+          "a": "No. It is a meal in a family home, arranged in advance and paid for fairly. There is no performance and no costume. Families sometimes sing or dance at festival time, but we never ask them to perform for guests."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Tumlingtar?",
+      "a": "Tumlingtar is in Sankhuwasabha district, Koshi Province, eastern Nepal, on a flat terrace between the Arun and Sabha rivers at about 500 m. It is about an hour by road below Khandbari, the district headquarters, and is the main airport for the Makalu region."
+    },
+    {
+      "q": "How do I get to Tumlingtar from Kathmandu?",
+      "a": "Fly from Kathmandu to Tumlingtar in about 45 minutes, or travel by road via the East–West Highway, Itahari, Dharan, Dhankuta and Hile in about two days. Flight schedules vary and weather delays are common; check current status before you travel."
+    },
+    {
+      "q": "Is Tumlingtar the start of the Makalu trek?",
+      "a": "Yes, for most trekkers. From Tumlingtar, jeeps drive via Khandbari toward Num and Seduwa, where the walk to Makalu Base Camp begins. Road heads are moving as roads improve, so check current status before you travel."
+    },
+    {
+      "q": "What is there to do in Tumlingtar?",
+      "a": "Walk to the edge of the terrace and down to the Arun river, explore the farm villages on the tar, eat Rai food, and take trips to Khandbari bazaar and the old casting town of Chainpur. It is a quiet place for a night."
+    },
+    {
+      "q": "What does tar mean in Tumlingtar?",
+      "a": "A tar is a raised, flat river terrace in Nepali, made of old river deposits. Tumlingtar is one of the largest in Nepal. Other places named with tar, such as Bhedetar in Dhankuta, describe similar flat land."
+    },
+    {
+      "q": "When is the best time to visit Tumlingtar?",
+      "a": "October to March is best: dry, clear and warm by day. April to June gets hot, and June to September brings monsoon rain, cloud and frequent flight cancellations. For Makalu treks, aim for October–November or April–May."
+    },
+    {
+      "q": "Are there hotels in Tumlingtar?",
+      "a": "Yes, simple lodges and small hotels near the airstrip, with basic rooms, fans and bathrooms. Khandbari, an hour uphill, has more choice and cooler nights. Neither has international chain hotels, and we book places we have checked recently."
+    },
+    {
+      "q": "How far is Chainpur from Tumlingtar?",
+      "a": "Chainpur is a drive of roughly 1.5–2.5 hours from Tumlingtar, depending on the road and route. It makes a good half-day or full-day trip, or a night stop on a slower Arun valley itinerary combined with Khandbari."
+    },
+    {
+      "q": "Is there a road from Tumlingtar to Dharan?",
+      "a": "Yes. The road runs from Tumlingtar via Khandbari, Hile, Dhankuta and Bhedetar down to Dharan and the Terai. It is paved in long sections, but landslides can cause delays in the monsoon. Check current status before you travel."
+    }
+  ]
+}

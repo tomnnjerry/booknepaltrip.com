@@ -1,0 +1,372 @@
+{
+  "slug": "far-west",
+  "name": "Far West & Karnali",
+  "name_ne": "सुदूरपश्चिम र कर्णाली",
+  "local_name": "",
+  "province": "Sudurpashchim and Karnali (Bardia sits in Lumbini Province)",
+  "tagline": "Tigers, Khasa kings and Nepal's largest lake",
+  "meta_description": "Plan a trip to Nepal's Far West and Karnali: Bardia's tigers, Shuklaphanta's swamp deer, Rara Lake, Sinja, Dullu's flames, Khaptad and Humla's Limi valley.",
+  "summary": "Nepal's Far West and Karnali run from the tiger grasslands of Bardia and Shuklaphanta, at about 150 m, to Rara Lake, the Khasa capital of Sinja and the Tibetan valleys of Humla near 5,000 m. Few travellers come, flights are small and roads are slow, but this is where the Nepali language began.",
+  "intro": [
+    "We call this the side of Nepal that most maps forget. West of the Bheri river the country tilts away from Kathmandu: the plains belong to Tharu villages and some of the best tiger forest in Asia, the middle hills speak Doteli and the older Khas dialects, and the far north of Humla looks across the border to Mount Kailash. Distances are long, and that is the point. You see more wildlife, more working temples and fewer other travellers in a week here than in a month on the main trails.",
+    "The plains come first. Bardia National Park covers 968 sq km on the east bank of the Karnali river, with tigers, wild elephants, one-horned rhino and a small population of Gangetic dolphins in the river. Further west, Shuklaphanta's open grassland holds the largest known herd of swamp deer, or barasingha, in the world. Between them, the lakes of Ghodaghodi Tal sit right beside the East-West Highway.",
+    "The hills hold the history. From the 12th to the 14th century the Khasa Malla kings ruled a Himalayan empire from the Sinja valley in Jumla, with a winter seat at Dullu in Dailekh. Their stone pillars, temples and inscriptions in early Nepali are still standing, and the natural gas flames of Dullu still burn in their shrines. Jumla grows red marshi rice at altitudes where rice should not grow at all.",
+    "Higher again are the long walks: Rara Lake, the largest lake in Nepal at 2,990 m; Khaptad's high meadows where Khaptad Baba meditated for half a century; Ramaroshan's lakes; the hilltop shrine of Badimalika; and Simikot, the airstrip town on the old pilgrim and salt route to Kailash, with the Limi valley and its 11th-century monastery beyond. Each of these needs time, a guide and an open mind about schedules, and each repays it."
+  ],
+  "story": {
+    "title": "The Khasa kings and the birth of Nepali",
+    "paras": [
+      "Long before the Shah kings of Gorkha unified Nepal, the most powerful state in the Himalaya sat in the far west. The Khasa Malla kingdom, founded by a ruler remembered as Nagaraj, grew from the Sinja valley in Jumla from the 12th century. At its height its kings held land across the western Himalaya, into parts of the Tibetan plateau and down towards the Terai. Sinja was the summer capital; Dullu, lower and warmer in Dailekh, served as the winter seat. Excavations in Sinja have found palace foundations, a network of underground water pipes and a ring of large stone columns.",
+      "The Khasa kings left their names in stone. In 1312 King Ripu Malla visited Lumbini and carved an inscription on the Ashokan pillar at Nigali Sagar, one of the last royal pilgrimages to the Buddha's birthplace before the forest closed over it. In Dullu, a 14th-century pillar of King Prithvi Malla still stands. Cliffs at the edge of the Sinja valley and stones in Dullu carry some of the earliest writing in the language the Khas people spoke, called Khas Kura, which grew into modern Nepali.",
+      "After the 14th century the empire broke apart into the Baise Rajya, the twenty-two small hill kingdoms of the west. Each had its own fort, its own goddess and its own court, and many lasted until the Gorkha conquests of the late 18th century. Dullu survived as a small principality into the 20th century. The habits of those courts linger: the dhami oracles who speak for the Masto gods, the stone dewal shrines in the fields, and Deuda, the circle song and dance said to have begun in Sinja.",
+      "The plains had a different history. Bardia, Banke, Kailali and Kanchanpur were lost to the East India Company in 1815 and returned to Nepal in 1860, which is why people still call them Naya Muluk, the new country. For centuries the malarial forest here belonged to the Tharu, who farmed clearings, fished the rivers and built mud-walled longhouses. Malaria control in the 1950s and 1960s brought hill settlers south, and today the Terai towns of Dhangadhi, Tikapur and Mahendranagar are among the fastest-growing in Nepal."
+    ]
+  },
+  "legend": "Local legend says that when the goddess Sati died and Shiva wandered the world carrying her body, parts of it fell across these hills. Pilgrims in Bajura believe her left shoulder fell on Mallagiri mountain, now Badimalika, and in Dailekh people link the flames of Shirasthan and Nabhisthan to the head and navel of a divine body, though tellings differ on whose body it was. In Jumla, tradition holds that a sage named Chandannath came from Kashmir, set up the temple in Khalanga and brought marshi rice with him.",
+  "people": "Tharu communities, Dangaura Tharu in Bardia and Kathariya and Rana Tharu in Kailali and Kanchanpur, farm and fish the plains. The middle hills are Khas country, mostly Chhetri, Thakuri, Brahmin and Dalit families speaking Doteli, Achhami, Bajhangi or Jumli forms of Nepali. In Humla and Mugu live Buddhist communities with Tibetan language and ties, including the people of Limi. Many hill families send men to seasonal work in India, a migration called going to Kalapahad.",
+  "untold": [
+    {
+      "fact": "Shuklaphanta's grasslands hold the largest known population of barasingha, or swamp deer, in the world: an estimated 1,674 animals in 2007. The main grassland, Shukla Phanta itself, covers about 16 sq km and is the largest continuous grassland patch in Nepal.",
+      "source": "Wikipedia: Shuklaphanta National Park"
+    },
+    {
+      "fact": "Rara is the largest lake in Nepal, with a surface of 10.8 sq km and a maximum depth of 167 m. Rara National Park, at 106 sq km, is the smallest national park in the country, and the lake has its own endemic fish, the Rara snowtrout.",
+      "source": "Wikipedia: Rara National Park; Rara Lake"
+    },
+    {
+      "fact": "In 1312 the Khasa king Ripu Malla, ruling from Sinja in Jumla, visited Lumbini and left a two-script inscription on the Ashokan pillar at Nigali Sagar, with a Buddhist mantra in Tibetan script above a Sanskrit blessing in Devanagari.",
+      "source": "Wikipedia: Ripu Malla"
+    },
+    {
+      "fact": "The Sinja valley, capital of the Khasa kingdom from the 12th to the 14th century, was added to UNESCO's World Heritage Tentative List in January 2008, in the cultural category.",
+      "source": "UNESCO World Heritage Centre, Tentative List: Sinja Valley"
+    },
+    {
+      "fact": "A wild yak, thought to have vanished from Nepal for about five decades, was reported in the Limi valley of upper Humla in 2014. Snow leopard, Himalayan wolf, kiang and Tibetan gazelle have also been recorded there.",
+      "source": "Wikipedia: Limi"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Deuda",
+      "script": "देउडा",
+      "lang": "Nepali",
+      "meaning": "Circle song and dance of the far west, sung in call and answer"
+    },
+    {
+      "word": "Marshi",
+      "script": "मार्सी",
+      "lang": "Nepali",
+      "meaning": "Jumla's red rice, grown in high cold valleys"
+    },
+    {
+      "word": "Dhami",
+      "script": "धामी",
+      "lang": "Nepali",
+      "meaning": "Village oracle who speaks for a local god, often Masto"
+    },
+    {
+      "word": "Phanta",
+      "script": "फाँटा",
+      "lang": "Nepali",
+      "meaning": "Open grassland in the Terai forest, as in Shuklaphanta"
+    },
+    {
+      "word": "Baise",
+      "script": "बाइसे",
+      "lang": "Nepali",
+      "meaning": "The twenty-two hill kingdoms that followed the Khasa empire"
+    }
+  ],
+  "taste": {
+    "name": "Marshi bhat with Jumli simi",
+    "text": "Red marshi rice from Jumla, cooked soft and served with the speckled local beans called Jumli simi and a spoon of ghee. It is the meal of the Karnali hills. Eat it at any bhatti (eating house) in Khalanga bazaar in Jumla, and buy a kilo of rice to carry home."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Nov, Feb – Apr"
+    ],
+    [
+      "Gateway",
+      "Nepalgunj (KEP) and Dhangadhi (DHI) airports"
+    ],
+    [
+      "Ideal length",
+      "7–16 days"
+    ],
+    [
+      "Altitude range",
+      "150 – 4,995 m"
+    ],
+    [
+      "Languages",
+      "Nepali, Doteli, Tharu, Tibetan dialects in Humla"
+    ],
+    [
+      "Permits",
+      "Park fees; restricted area permit for upper Humla"
+    ],
+    [
+      "Province",
+      "Sudurpashchim, Karnali; Bardia in Lumbini"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "altitude_min_m": 150,
+  "altitude_max_m": 4995,
+  "highlights": [
+    {
+      "title": "Tracking tigers in Bardia",
+      "text": "Bardia is Nepal's largest national park in the Terai, 968 sq km of sal forest, grassland and river islands. Jeep, walking and river safaris with naturalists give a real chance of tiger, plus wild elephant, rhino, mugger crocodile and, in the Karnali, the Gangetic dolphin."
+    },
+    {
+      "title": "Swamp deer herds of Shuklaphanta",
+      "text": "At the far western edge of Nepal, Shuklaphanta's open phanta grassland holds the world's largest known herd of barasingha. At dawn in spring hundreds can graze in view at once, with Rani Tal lake, Bengal florican and a small herd of translocated rhino nearby."
+    },
+    {
+      "title": "Rara, Nepal's largest lake",
+      "text": "At 2,990 m in Mugu, Rara stretches 5 km among blue pine and spruce, with a maximum depth of 167 m. Walk the shore in a day, climb Murma ridge for sunrise, and stay in simple lodges in a park so quiet you hear the coots on the water."
+    },
+    {
+      "title": "Sinja and the Khasa empire",
+      "text": "In the Sinja valley of Jumla stood the capital of the Khasa Malla kings, rulers of the western Himalaya from the 12th to the 14th century. See the Kanakasundari temple, stone columns and cliff inscriptions in one of the oldest forms of written Nepali."
+    },
+    {
+      "title": "Eternal flames of Dullu",
+      "text": "Around Dullu in Dailekh, natural gas seeps from the ground and burns inside shrines at Shirasthan and Nabhisthan, part of the Panchakoshi pilgrimage. The town was the Khasa winter capital, and a 14th-century inscribed pillar of King Prithvi Malla still stands."
+    },
+    {
+      "title": "Khaptad, Humla and the high west",
+      "text": "Walk the rolling meadows of Khaptad National Park where Khaptad Baba lived for some fifty years, or fly to Simikot and trek the old pilgrim route towards Kailash, with the Limi valley and the Rinchenling monastery at Halji beyond."
+    }
+  ],
+  "getting_there": "Almost every trip starts with a flight from Kathmandu to Nepalgunj (about 1 hour) or Dhangadhi (about 1 hour 15 minutes). Nepalgunj is the hub for Bardia (about 2 hours by road) and for the small Twin Otter flights to Jumla, Talcha for Rara, and Simikot. Dhangadhi serves Ghodaghodi Tal, Shuklaphanta and the road north to Doti for Khaptad. By road, Kathmandu to Nepalgunj is about 520 km and 12–14 hours. Mountain flights are weather-dependent and can be delayed for days in cloud, so build in at least one spare day for any trip into Karnali. Roads into the hills, including the Karnali Highway to Jumla, are slow, partly unpaved and often blocked by landslides in the monsoon; check current status before you travel.",
+  "permits": "Bardia, Shuklaphanta, Rara and Khaptad are national parks and charge foreign visitors an entry fee, paid at the park office or entry gate. Since April 2023 Nepal requires foreign trekkers in national parks and conservation areas to walk with a licensed guide, which affects the Rara, Khaptad and Humla treks. Upper Humla, including the route to Hilsa and the Limi valley, is a restricted area: you need a special permit arranged through a licensed trekking agency, a group of at least two, and a licensed guide. Fees and rules change; check current status before you travel.",
+  "wiki": "Karnali Province",
+  "lat": 29.2,
+  "lng": 81.6,
+  "months": [
+    {
+      "month": "January",
+      "rating": 1,
+      "weather": "Bardia 8–23 °C with thick morning fog; Jumla below freezing at night",
+      "summary": "The plains are cool and quiet. Fog often hangs over Bardia and Shuklaphanta until 10 am, so safaris start late, but afternoons are clear and pleasant for walking safaris and birding. In the hills, Rara and Khaptad are under snow and most lodges are shut. Tharu villages celebrate Maghi in mid-January, the Tharu new year, with dancing, feasts and new household decisions. A good month for a wildlife-only trip.",
+      "go": [
+        "bardia",
+        "shuklaphanta",
+        "ghodaghodi-tal"
+      ],
+      "events": [],
+      "tip": "Pack a warm fleece for open jeeps on foggy mornings in the Terai."
+    },
+    {
+      "month": "February",
+      "rating": 2,
+      "weather": "Bardia 10–27 °C, fog lifting; hills cold and clear",
+      "summary": "One of the best months for the plains. Grass cutting by local people in the parks starts to open up the phantas, which improves sightings, and migratory ducks are still on Ghodaghodi Tal and Rani Tal. Temperatures are comfortable all day. The high hills remain cold and snow lingers above about 3,000 m, so Rara, Khaptad and Humla are still best left until spring.",
+      "go": [
+        "bardia",
+        "shuklaphanta",
+        "ghodaghodi-tal"
+      ],
+      "events": [],
+      "tip": "Book Bardia lodges early for February and March, the busiest weeks of the year."
+    },
+    {
+      "month": "March",
+      "rating": 2,
+      "weather": "Bardia 13–32 °C; Jumla 3–18 °C",
+      "summary": "Swamp deer gather in big herds on the cut grasslands of Shuklaphanta and tiger sightings in Bardia improve as the grass is burnt and cut. Rhododendrons start to flower in the middle hills around Ramaroshan and Dullu. Late in the month Jumla and the lower Rara trail open up, though nights stay cold. A strong month to combine plains and hills.",
+      "go": [
+        "shuklaphanta",
+        "bardia",
+        "ramaroshan",
+        "dullu"
+      ],
+      "events": [],
+      "tip": "Carry layers: you can go from 32 °C in Bardia to frost in Jumla in a single day's flights."
+    },
+    {
+      "month": "April",
+      "rating": 2,
+      "weather": "Bardia 20–37 °C; Rara 2–17 °C",
+      "summary": "The best month for tigers in Bardia, as animals come to the rivers in the heat, but midday is hot, so safaris run early and late. In the hills spring is in full swing: Rara opens properly, Jumla's fields are being prepared and the Khaptad meadows thaw. Humla treks begin late in the month. Book mountain flights with a spare day.",
+      "go": [
+        "bardia",
+        "rara-lake",
+        "jumla",
+        "khaptad"
+      ],
+      "events": [],
+      "tip": "Start river safaris on the Karnali at first light, when dolphins are most often seen surfacing."
+    },
+    {
+      "month": "May",
+      "rating": 1,
+      "weather": "Bardia up to 40 °C; Rara 6–20 °C",
+      "summary": "The plains are very hot and many visitors stop coming by mid-May, though wildlife viewing at water holes is good for those who can take the heat. The hills are at their best for walking: Rara, Khaptad, Simikot and the Limi valley are open and green. Khaptad's Ganga Dashahara fair falls in late May or June, when pilgrims from four districts climb to Triveni.",
+      "go": [
+        "rara-lake",
+        "khaptad",
+        "simikot",
+        "limi-valley"
+      ],
+      "events": [
+        "khaptad-ganga-dashahara-mela"
+      ],
+      "tip": "Pre-monsoon cloud builds by noon, so plan mountain flights for early morning."
+    },
+    {
+      "month": "June",
+      "rating": 0,
+      "weather": "Monsoon begins mid-June; Terai 27–38 °C and humid",
+      "summary": "The monsoon arrives in the second half of June. Many lodges in Bardia close until late September, and roads into the hills start to suffer landslides. Upper Humla and Limi lie in a rain shadow and stay walkable, and Kailash pilgrims pass through Simikot in large numbers. Elsewhere, this is a month to avoid. If you must travel now, keep plans flexible and allow extra days for weather.",
+      "go": [
+        "simikot",
+        "limi-valley",
+        "khaptad"
+      ],
+      "events": [
+        "khaptad-ganga-dashahara-mela"
+      ],
+      "tip": "If you go to Humla in the monsoon, allow extra days for cancelled Nepalgunj–Simikot flights."
+    },
+    {
+      "month": "July",
+      "rating": 0,
+      "weather": "Heavy monsoon rain; leeches in mid hills",
+      "summary": "Peak monsoon. The parks are mostly closed to safaris, rivers are in flood and the Karnali Highway is often cut. Upper Humla, Limi and the drier north remain possible for experienced trekkers with flexible plans, and the high meadows are full of flowers. Most travellers should plan for another season. Leeches, swollen rivers and closed roads make the middle hills hard going until September.",
+      "go": [
+        "limi-valley",
+        "simikot"
+      ],
+      "events": [],
+      "tip": "Keep July for the rain-shadow valleys of upper Humla only."
+    },
+    {
+      "month": "August",
+      "rating": 0,
+      "weather": "Monsoon; warm and wet below 2,500 m",
+      "summary": "Still the monsoon, but the far west is busy with festivals. Pilgrims climb to Badimalika in Bajura for the Janai Purnima fair, and towards the end of the month Gaura Parva begins in many years, with women's fasts and Deuda dancing in every hill village of Sudurpashchim. Roads are risky and flights uncertain, so festival trips need patience. Lodges in the plains stay mostly closed, and the hills are green, wet and quiet.",
+      "go": [
+        "badimalika",
+        "ramaroshan",
+        "limi-valley"
+      ],
+      "events": [
+        "badimalika-mela",
+        "gaura-parva"
+      ],
+      "tip": "Festival dates follow the lunar calendar, so confirm them each year; check current status before you travel."
+    },
+    {
+      "month": "September",
+      "rating": 1,
+      "weather": "Rain easing late in the month; Jumla 10–22 °C",
+      "summary": "The monsoon weakens through September. Gaura Parva often falls in early September, and Jumla's marshi rice turns red-gold in the fields at the end of the month. Bardia lodges reopen from late September, though the grass is tall and sightings are harder. A good month for the hills if you accept some afternoon rain. By the last week the first trekkers return to Rara and Khaptad.",
+      "go": [
+        "jumla",
+        "sinja-valley",
+        "ramaroshan",
+        "simikot"
+      ],
+      "events": [
+        "gaura-parva"
+      ],
+      "tip": "Visit Jumla in late September or early October to see the marshi harvest."
+    },
+    {
+      "month": "October",
+      "rating": 2,
+      "weather": "Clear skies; Rara 3–18 °C, Bardia 18–31 °C",
+      "summary": "The best month for the hills. Skies are clear after the rains, Rara is at its deepest blue and the Jumla harvest is on. Dashain brings the yearly change of the tall lingo pole at Chandannath temple in Jumla on Ghatasthapana, the first day. In the plains, Bardia and Shuklaphanta reopen fully, though the grass is still high. Mornings are the clearest time of day for mountain flights.",
+      "go": [
+        "rara-lake",
+        "jumla",
+        "sinja-valley",
+        "khaptad"
+      ],
+      "events": [],
+      "tip": "Book Nepalgunj flights well ahead around Dashain and Tihar, when Nepalis travel home."
+    },
+    {
+      "month": "November",
+      "rating": 2,
+      "weather": "Dry and clear; Bardia 12–28 °C, Jumla −2–17 °C",
+      "summary": "Stable weather everywhere. The hills are cold at night but very clear, so it is a fine month for Rara, Khaptad and Dullu. In the plains the grass begins to be cut and wildlife viewing improves week by week. Winter waterfowl arrive on Rara and Ghodaghodi Tal. A good month to combine one hill area with Bardia. Fog has not yet settled on the Terai, so plains mornings are clear and crisp.",
+      "go": [
+        "bardia",
+        "rara-lake",
+        "dullu",
+        "ghodaghodi-tal"
+      ],
+      "events": [],
+      "tip": "Carry a down jacket for Rara in November; lodges have little heating."
+    },
+    {
+      "month": "December",
+      "rating": 1,
+      "weather": "Bardia 9–24 °C with fog; snow above 3,000 m",
+      "summary": "Winter closes the high country: Rara, Khaptad and Humla see snow and most lodges shut. The plains are pleasant by day and Bardia is quiet, though fog can slow mornings. A good month for a short Bardia and Shuklaphanta trip, with Ghodaghodi Tal on the way between them. Christmas and New Year see a few more visitors in Bardia, so book lodges ahead. Days are short, with sunset before 5.30 pm, so plan drives to finish in daylight.",
+      "go": [
+        "bardia",
+        "shuklaphanta",
+        "ghodaghodi-tal"
+      ],
+      "events": [],
+      "tip": "Plan afternoon safaris in December, when fog lifts and animals move."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the Far West of Nepal worth visiting?",
+      "a": "Yes, if you want wildlife and history without crowds. Bardia gives one of the best chances of seeing a wild tiger in Nepal, Shuklaphanta has the world's largest swamp deer herds, and the hills hold Rara Lake and the Khasa sites of Sinja and Dullu. The trade-off is time: flights are small and roads are slow, so allow more days than you would around Pokhara or Chitwan."
+    },
+    {
+      "q": "How do I get to the Far West from Kathmandu?",
+      "a": "Fly. Kathmandu to Nepalgunj takes about one hour and Kathmandu to Dhangadhi about an hour and a quarter, with several daily flights. From Nepalgunj, Bardia is about two hours by road and small planes go on to Jumla, Talcha for Rara, and Simikot. By road, Kathmandu to Nepalgunj is around 520 km and 12–14 hours."
+    },
+    {
+      "q": "When is the best time to visit Bardia and Shuklaphanta?",
+      "a": "February to April is best for wildlife, because the tall grass is cut and burnt and animals come to the rivers. October to January is cooler and pleasant, though grass is taller and foggy mornings are common in December and January. From mid-June to late September many lodges close for the monsoon."
+    },
+    {
+      "q": "Bardia or Chitwan, which is better for tigers?",
+      "a": "Both are excellent. The national tiger count released in July 2026 put Chitwan at 145 tigers and Bardia at 112, but Bardia sees far fewer visitors, so walking safaris and long quiet waits by the river are the norm and sightings feel personal. Chitwan is easier to reach and has more rhino. No guide can promise a tiger; plan three or four nights in Bardia for a fair chance."
+    },
+    {
+      "q": "Do I need a guide in the Far West?",
+      "a": "Since April 2023 foreign trekkers in Nepal's national parks and conservation areas must walk with a licensed guide, which covers Rara, Khaptad and Bardia's walking safaris. Upper Humla and Limi are restricted areas, where a licensed agency, a guide and a group of at least two are required. Away from the parks, a guide who speaks the local dialect still helps a great deal. Check current status before you travel."
+    },
+    {
+      "q": "How long should a Far West trip be?",
+      "a": "Allow 5–6 days for Bardia alone with flights from Kathmandu, 8–9 days for Bardia and Shuklaphanta together, and 8–10 days for Rara with Jumla. Humla and the Limi valley need 14–18 days. Always add one spare day for mountain flights, which are often delayed by cloud."
+    },
+    {
+      "q": "Are the mountain flights to Jumla, Rara and Simikot safe?",
+      "a": "They are short take-offs and landings on small airstrips in steep terrain, flown by Twin Otter, Dornier and similar aircraft. Operators fly only in good visibility, which is why delays are common. Fly in the morning, keep your luggage light because weight limits are strict, and choose an established operator. We always build a spare day into these routes."
+    },
+    {
+      "q": "What is the food like in the Far West?",
+      "a": "Simple and seasonal. In the Terai expect Tharu dishes such as ghonghi (river snails) and dhikri (steamed rice-flour dumplings). In the hills you will eat dal bhat with Jumla's red marshi rice, local beans, millet bread and buckwheat. Lodges outside Bardia rarely have menus; you eat what the family cooks, and it is usually very good."
+    },
+    {
+      "q": "Can I combine the Far West with Chitwan or Lumbini?",
+      "a": "Yes. Lumbini is about 4–5 hours by road from Nepalgunj, and Bardia–Lumbini–Chitwan is a classic overland line across the Terai. A common plan is to fly into Nepalgunj, spend three nights in Bardia, drive east to Lumbini and Chitwan, and fly back to Kathmandu from Bharatpur."
+    }
+  ]
+}

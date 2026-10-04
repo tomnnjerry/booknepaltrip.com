@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "yeti-mountain-home-lukla",
+    "name": "Yeti Mountain Home Lukla",
+    "place": "lukla",
+    "kind": "mountain lodge",
+    "wiki": "",
+    "image_query": "Lukla village lodge Khumbu",
+    "summary": "A comfortable lodge a short walk from the Lukla airstrip, run by the Yeti Mountain Home group (now marketed as Mountain Lodges of Nepal). It suits a first or last night in Khumbu when flights are delayed and you want a warm room and a proper bathroom.",
+    "body": [
+      "Lukla is where most Everest journeys begin and end, and it is also where weather holds people up. Flights to and from Lukla fly only in clear morning conditions, and a cloud bank in the Dudh Koshi gorge can ground every aircraft for a day or more. That is when a good room matters. Yeti Mountain Home Lukla is one of a small chain of lodges along the lower Khumbu trail, built for trekkers who want rooms with attached bathrooms and hot water rather than a shared teahouse dorm.",
+      "We use it for the night before the walk to Phakding and again on the way out, when a long hot shower after two weeks on the trail is worth a lot. The dining room serves Nepali and continental food; ask for dal bhat and you will rarely be disappointed. The lodge is a few minutes on foot from the terminal, which helps on early mornings when the first flight is called at short notice. Rates and room types change by season, so we confirm them when we book."
+    ],
+    "why": [
+      "Rooms with attached bathrooms and hot water at the start of the trail",
+      "A few minutes on foot from the Lukla terminal for early flights",
+      "A calm base if weather delays your flight in or out"
+    ],
+    "best_for": ["couples", "first-timers", "seniors", "families"],
+    "website": "",
+    "faqs": [
+      {"q": "How far is Yeti Mountain Home Lukla from the airport?", "a": "It is a short walk, roughly five minutes, from the Lukla terminal, so your porter can carry bags across while you sign in at the park and municipality counters. On departure mornings that matters: flights out of Lukla leave in the first clear hours, and being close lets you move fast when the airline calls your group. We confirm the exact walking time when we send your final notes."},
+      {"q": "Is the Lukla lodge part of the same chain as the Namche one?", "a": "Yes. Yeti Mountain Home runs a small chain of lodges in the lower Khumbu, including Lukla, Phakding, Monjo and Namche, now also listed under the name Mountain Lodges of Nepal. Using the same group on several nights keeps standards consistent: attached bathrooms, warm bedding and a heated dining room. Their Thame lodge has been closed after the 2024 flood, so check current status before you travel."},
+      {"q": "What happens if my Lukla flight is cancelled?", "a": "You stay another night and try the next morning. Cancellations are common in cloud, especially in monsoon months and on spring afternoons. We build at least one spare day into every Everest itinerary for this reason, and we rebook the room at Lukla if the weather holds you. Helicopter seats can sometimes be arranged at extra cost when fixed-wing flights cannot operate."}
+    ]
+  },
+  {
+    "slug": "yeti-mountain-home-namche",
+    "name": "Yeti Mountain Home Namche",
+    "place": "namche-bazaar",
+    "kind": "mountain lodge",
+    "wiki": "",
+    "image_query": "Namche Bazaar lodges Khumbu",
+    "summary": "A lodge in Namche Bazaar at about 3,440 m with attached bathrooms and a warm dining room, run by the Yeti Mountain Home group. It is a good place to spend the two acclimatisation nights almost every Everest itinerary needs here.",
+    "body": [
+      "Namche Bazaar is the one place on the Everest trail where almost everyone stops for two nights, because the body needs time to adjust at around 3,440 m before climbing higher. Two nights in a cold, noisy room can undo that rest, so in Namche we like a lodge with proper beds, attached bathrooms and a dining room that stays warm after sunset. Yeti Mountain Home Namche fits that brief. It sits on the slope of Namche's bowl, within walking distance of the Saturday market, the gompa and the steep path up to the park headquarters.",
+      "We use the spare day for the climb to Syangboche and the Hotel Everest View terrace, then return to sleep lower, which is how acclimatisation should work. Evenings are for the dining room, a plate of momo and a slow talk about the days ahead. Room rates in Namche rise sharply in October and April, the busiest months, so we book early. The group's lodge in Thame is closed after the 2024 flood; check current status before you travel."
+    ],
+    "why": [
+      "Attached bathrooms and warm bedding for two acclimatisation nights",
+      "An easy walk to the Saturday market and Namche gompa",
+      "Part of a small chain, so standards match the Lukla lodge"
+    ],
+    "best_for": ["couples", "first-timers", "seniors", "trekkers"],
+    "website": "",
+    "faqs": [
+      {"q": "Why do treks spend two nights in Namche Bazaar?", "a": "Because Namche, at about 3,440 m, is where altitude starts to bite. The standard advice is to add a rest day for every 1,000 m or so gained above 3,000 m, and to climb high by day and sleep low. Most itineraries walk up to Syangboche or Khumjung on the spare day and return to Namche to sleep. A warm room makes that rest day count."},
+      {"q": "Does Yeti Mountain Home Namche have heating?", "a": "Rooms have electric blankets and the dining room is heated with a closed stove, which is about as warm as Khumbu lodges get. Expect nights below freezing outside from November to March. Power comes from local hydro and can dip, so carry a warm sleeping layer anyway. We confirm current room facilities when we book because lodges upgrade between seasons."},
+      {"q": "Can I book Yeti Mountain Home Namche for just one night?", "a": "Yes, though we rarely recommend a single night in Namche going up, because the acclimatisation day matters more than almost anything else on the trek. On the way down one night is normal. In peak months, October and April, rooms sell out early, so we hold them as soon as your dates are fixed. Prices are higher than ordinary teahouses but include a private bathroom."}
+    ]
+  },
+  {
+    "slug": "hotel-everest-view",
+    "name": "Hotel Everest View",
+    "place": "khumjung",
+    "kind": "mountain lodge",
+    "wiki": "",
+    "image_query": "Hotel Everest View Syangboche",
+    "summary": "A Japanese-built hotel on the ridge above Syangboche at about 3,880 m, between Namche and Khumjung, with a terrace that looks straight up the valley to Everest, Lhotse and Ama Dablam. Most trekkers know it as the tea stop on their acclimatisation day.",
+    "body": [
+      "Hotel Everest View was built in the 1970s by the Japanese hotelier Takashi Miyahara on a ridge above the Syangboche airstrip, an hour and a half above Namche on foot. The building is low and long, stone-faced so it sits into the hill, and every guest room faces the mountains. On a clear morning the terrace shows Everest above the Nuptse–Lhotse wall, with Ama Dablam to the right and Tengboche's ridge below. It celebrated its fiftieth year in 2025.",
+      "Most visitors come for an hour, not a night: it is the usual turning point of the acclimatisation hike from Namche, and a pot of tea on the terrace is part of the ritual. Sleeping here is another matter. At about 3,880 m it is too high for a first night for anyone arriving straight from Lukla, and we only book rooms for travellers who have already spent nights in Namche or who are walking back down. Ask us about pairing it with Khumjung and Kunde, both 30 minutes away."
+    ],
+    "why": [
+      "Every room faces the Everest, Lhotse and Ama Dablam skyline",
+      "Thirty minutes on foot from Khumjung's school and gompa",
+      "A classic tea stop on the Namche acclimatisation day"
+    ],
+    "best_for": ["couples", "photographers", "seniors"],
+    "website": "",
+    "faqs": [
+      {"q": "Can you see Everest from Hotel Everest View?", "a": "Yes, on a clear day. The terrace looks up the Dudh Koshi and Imja valleys to the top of Everest above the Nuptse–Lhotse ridge, with Ama Dablam and Thamserku nearer. Mornings from October to December give the most reliable views; by midday cloud often rises from the valleys. In monsoon months, June to September, the peaks can stay hidden for days."},
+      {"q": "Is it safe to sleep at Hotel Everest View?", "a": "It is safe if you arrive acclimatised. The hotel stands at about 3,880 m, roughly 450 m above Namche, so flying into Syangboche or Lukla and sleeping here the same week carries a real risk of altitude sickness. We book it only after at least two nights in Namche, or on the way down. Tell us about any heart or lung condition beforehand."},
+      {"q": "How long is the walk from Namche to Hotel Everest View?", "a": "About 1.5 to 2 hours up and 1 hour down, climbing some 450 m on a steep zigzag path past the Syangboche airstrip. It is the standard acclimatisation walk from Namche. Many people continue to Khumjung and Kunde villages and loop back to Namche the same day, a total of five to six hours at an easy pace."}
+    ]
+  },
+  {
+    "slug": "everest-summit-lodge-pangboche",
+    "name": "Everest Summit Lodge Pangboche",
+    "place": "pangboche",
+    "kind": "mountain lodge",
+    "wiki": "",
+    "image_query": "Pangboche village Ama Dablam",
+    "summary": "A small lodge just off the main Everest trail at Pangboche, about 3,985 m, with around ten rooms with attached bathrooms and a sunny terrace facing Ama Dablam. It is one of the more comfortable beds this high in the Imja valley.",
+    "body": [
+      "Pangboche is one of the highest villages in Khumbu where Sherpa families live all year, and the Everest Summit Lodge sits right off the trail as it passes through. The lodge belongs to the Everest Summit Lodges group, which runs a handful of lodges along the route. Here the rooms, about ten of them, have attached bathrooms with hot showers, which is unusual at almost 4,000 m, and the dining room and terrace look across to Ama Dablam and up the valley towards Everest and Lhotse.",
+      "We use it two ways. Going up, it makes a gentle night between Tengboche and Dingboche for travellers who want to gain height slowly. Coming down from Everest Base Camp, it is a soft landing after nights in basic high lodges at Lobuche and Gorak Shep. Pangboche's old gompa, said to be the oldest in Khumbu, is a short climb above the upper village and worth the hour it takes."
+    ],
+    "why": [
+      "Rooms with attached bathrooms at almost 4,000 m",
+      "Terrace views of Ama Dablam, Everest and Lhotse",
+      "A short walk from Khumbu's oldest gompa in upper Pangboche"
+    ],
+    "best_for": ["couples", "seniors", "photographers", "trekkers"],
+    "website": "",
+    "faqs": [
+      {"q": "How high is Everest Summit Lodge Pangboche?", "a": "The lodge stands at about 3,985 m, the altitude usually given for Pangboche village, roughly 120 m above Tengboche. That makes it a sensible overnight between Tengboche and Dingboche, which is at about 4,410 m. Nights here are cold, often below minus 5 °C in November and December, so pack a warm sleeping layer even with good bedding."},
+      {"q": "Does the Pangboche lodge have private bathrooms?", "a": "Yes. Its rooms, around ten of them, have attached bathrooms with hot showers, which is rare at this height. Most teahouses above Namche share toilets and charge for a bucket of hot water. Facilities can change after a season, so we confirm them when we book. Water and power are limited, so short showers help everyone."},
+      {"q": "Is Pangboche a good place to stop on the way down from Base Camp?", "a": "Very good. After nights at Lobuche and Gorak Shep, above 4,900 m, dropping to Pangboche at about 3,985 m in one long day helps sleep, appetite and any lingering headache. The lodge's comfort comes as a relief, and the next day is an easy walk past Tengboche to Namche. Many of our Base Camp itineraries end their descent here."}
+    ]
+  }
+]

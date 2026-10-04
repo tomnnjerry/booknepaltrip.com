@@ -1,0 +1,172 @@
+{
+  "slug": "badimalika",
+  "name": "Badimalika",
+  "name_ne": "बडिमालिका",
+  "local_name": "Mallagiri (old name of the mountain)",
+  "region": "far-west",
+  "kind": "pilgrimage site",
+  "wiki": "Badimalika Temple",
+  "image_query": "Badimalika temple Bajura",
+  "lat": 29.37,
+  "lng": 81.45,
+  "altitude_m": 4220,
+  "tagline": "A goddess temple at 4,220 m above the meadows of Bajura",
+  "meta_description": "Badimalika guide: the Bhagwati temple at 4,220 m in Bajura, the Janai Purnima fair, Triveni Dham, Nateshwori, the trek from Martadi and when to go.",
+  "summary": "Badimalika is a temple of the goddess Bhagwati at about 4,220 m in Triveni municipality, Bajura, near where Bajura, Kalikot, Achham and Jumla meet. Pilgrims believe Sati's left shoulder fell here. The main fair is on Janai Purnima in August. Reaching it means a three-to-four-day camping trek from Martadi.",
+  "intro": [
+    "Badimalika is the great mountain goddess of Nepal's far west. Her temple sits on a high ridge at about 4,220 m, above rolling grassland and far from any road, and every year thousands of pilgrims walk for days to reach it. For people across Bajura, Achham, Kalikot and the surrounding hills, Badimalika Mai is mother, protector and the giver of rain and harvests.",
+    "The temple stands in ward 9 of Triveni municipality in Bajura district, on a mountain the old texts call Mallagiri. Below it lies Triveni Dham, where three streams meet and pilgrims bathe before the final climb. Around the shrine the land opens into wide high pastures with views across the far western ranges.",
+    "This is not an easy or comfortable trip. There are almost no lodges, the trails are long and unmarked, and the altitude is real. But for travellers who want to see a living Himalayan pilgrimage, with Deuda singing, fasting, bathing and devotion far above the tree line, Badimalika is extraordinary, especially at the Janai Purnima fair."
+  ],
+  "story": {
+    "title": "Mallagiri, the mountain of the goddess",
+    "paras": [
+      "In the far west, Badimalika is counted among the shakti pithas, places where parts of the goddess Sati's body fell to earth. Her temple on Mallagiri mountain has been the focus of pilgrimage for centuries, and the hill kingdoms of the region competed to honour her. Local tradition credits King Dipraj Chhatyal of the Chhatyal dynasty, together with the king of Jumla, with building the temple.",
+      "That shared history survives in an unusual arrangement: the temple is served by two priests, one representing Kalikot district and the other Bajura. Pilgrims arrive from all directions, from Achham and Doti in the south-west, from Kalikot and Jumla in the east, and the shrine is a meeting point for communities who otherwise rarely see each other.",
+      "The biggest gathering comes on Janai Purnima, the full moon of Shrawan, usually in August, when Malika Chaturdashi is celebrated. Temporary tea shops under tarpaulin spring up, pilgrims camp in their thousands, and Deuda songs go on through the night. In recent years a 4G mobile tower has brought phone and internet coverage to the area, which helps with safety during the pilgrimage."
+    ]
+  },
+  "legend": "According to Hindu legend, when Sati threw herself into her father Daksha's sacrificial fire and Shiva carried her body across the world, her left shoulder fell on Mallagiri, now Badimalika. Local tradition adds that King Dipraj Chhatyal, out hunting, found his bow held by an unseen force; the goddess then appeared in his dream and told him to build her temple here instead of shedding blood. Later, after he tried to discover who brought him daily feasts, she told him to build a second temple at Nateshwori, where pilgrims still worship after visiting Badimalika.",
+  "people": "The pilgrims and villagers around Badimalika are mostly Khas: Chhetri, Thakuri, Brahmin and Dalit families from Bajura, Achham, Kalikot and Jumla, speaking Bajureli, Achhami and Jumli forms of Nepali. They farm terraced fields below the pastures, graze sheep and cattle on the high meadows in summer, and collect medicinal herbs. Bajura also has small Buddhist communities in its northern valleys.",
+  "untold": [
+    {"fact": "Badimalika temple is served by two priests, one representing Kalikot district and the other representing Bajura, a reflection of the temple's shared history between the hill kingdoms of the region.", "source": "Wikipedia: Badimalika Temple"},
+    {"fact": "Badimalika Municipality in Bajura, formed in 2017, takes its name from the temple, even though the temple itself lies in neighbouring Triveni Municipality.", "source": "Wikipedia: Badimalika"},
+    {"fact": "Nepal Telecom extended 4G mobile service to the Badimalika area, at about 4,200 m, by installing a tower ahead of the Janai Purnima fair, improving communication and emergency coordination for pilgrims.", "source": "Wikipedia: Badimalika Temple"}
+  ],
+  "local_words": [
+    {"word": "Mai", "script": "माई", "lang": "Nepali", "meaning": "Mother; a respectful name for the goddess"},
+    {"word": "Mela", "script": "मेला", "lang": "Nepali", "meaning": "Religious fair, like the Janai Purnima gathering here"},
+    {"word": "Janai", "script": "जनै", "lang": "Nepali", "meaning": "Sacred thread renewed on Janai Purnima"}
+  ],
+  "taste": {"name": "Dhido with gundruk", "text": "A thick, stiff porridge of millet or buckwheat flour, eaten with gundruk, fermented dried greens cooked into a sour soup. It is the food of the hill villages on the way to Badimalika. Your trek cook or a village host on the trail from Martadi will make it."},
+  "facts": [
+    ["Best months", "Apr – Jun, Aug (fair), Sep – Oct"],
+    ["Days we suggest", "4–6 on trek from Martadi"],
+    ["Nearest airport", "Dhangadhi (DHI); small airstrips in Bajura"],
+    ["From Kathmandu", "Fly to Dhangadhi, ≈ 327 km · 12 h by road to Martadi, then 3–4 days on foot"],
+    ["Altitude", "≈ 4,220 m"],
+    ["Known for", "Bhagwati temple, Janai Purnima fair, high pastures"]
+  ],
+  "best_months": [0, 0, 0, 1, 2, 1, 1, 2, 2, 2, 1, 0],
+  "nights": "4–6",
+  "highlights": [
+    {"title": "The temple at 4,220 m", "text": "The Badimalika temple stands on a high ridge above the meadows, a simple shrine of great importance to the far west. The final climb from Triveni is steep and slow at this altitude, and the view from the top over endless ridges is the reward."},
+    {"title": "The Janai Purnima fair", "text": "On the full moon of Shrawan, usually in August, thousands of pilgrims gather at Badimalika. They fast, bathe, renew sacred threads and sing Deuda through the night, and tarpaulin tea shops appear on the pasture."},
+    {"title": "Triveni Dham", "text": "Triveni, where three streams meet near the borders of Kalikot, Achham and Bajura, is where pilgrims bathe and camp before the climb to the temple. It is a beautiful, open place of water and grass."},
+    {"title": "High pastures of Bajura", "text": "Around Badimalika the land opens into wide summer pastures, green in the monsoon and gold in autumn, grazed by sheep and cattle. Walking across them, far above the villages, gives a strong sense of space."},
+    {"title": "Nateshwori temple", "text": "Tradition says pilgrims should also worship at Nateshwori, the temple of the goddess's elder sister, in Triveni municipality. It is a long day's walk from Badimalika and completes the pilgrimage for many devotees."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Dhangadhi, drive about 327 km and 12 hours via Dipayal and Sanfebagar to Martadi, the Bajura district headquarters, usually in a long day or with a night on the way. Roads are rough and often damaged in the monsoon; check current status before you travel."},
+    {"mode": "On foot", "text": "From Martadi the trek to Badimalika takes three to four days, via villages and forest to Triveni Dham and then up to the temple. Trails are unmarked and there are few teahouses, so a guide, porters and camping equipment are essential."},
+    {"mode": "Air", "text": "Fly Kathmandu to Dhangadhi in about 1 hour 10 minutes. Small airstrips in Bajura have had irregular flights from Nepalgunj or Dhangadhi; check current status before you travel."}
+  ],
+  "where_to_stay": "There are no permanent lodges at Badimalika. Pilgrims and trekkers camp near Triveni Dham and on the pastures, and during the Janai Purnima fair temporary tea shops and shelters under tarpaulin are set up. On the trail from Martadi, simple village homes and a few teahouses may offer a floor or a room. Martadi has basic hotels for the night before and after. Come on a fully supported camping trek.",
+  "stays": [],
+  "tips": [
+    "Spend a night at Triveni or lower before climbing to 4,220 m to reduce the risk of altitude sickness.",
+    "Carry a four-season tent and sleeping bag; nights at the temple are cold in every month.",
+    "If you visit at the fair, expect crowds, noise and basic sanitation, and book your crew well ahead.",
+    "Dress modestly, remove shoes at the shrine and follow the priests' guidance about what may be photographed.",
+    "Janai Purnima dates follow the lunar calendar; check current status before you travel."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "treks-and-trails", "high-altitude", "food-and-festivals"],
+  "nearby": ["ramaroshan", "khaptad", "jumla"],
+  "experiences": [
+    {
+      "slug": "badimalika-temple-ascent",
+      "title": "The dawn climb from Triveni to the temple",
+      "kind": "trek",
+      "duration": "Half day",
+      "best_time": "Pre-dawn start, May–Oct",
+      "image_query": "Badimalika Bajura temple ridge",
+      "wiki": "",
+      "summary": "Leave Triveni Dham before dawn and climb steadily to the Badimalika temple at about 4,220 m, joining pilgrims on the final ascent and reaching the shrine as the sun lights the far western ranges.",
+      "body": [
+        "Most pilgrims camp at Triveni Dham the night before and begin the last climb in the dark. The trail rises steeply over grass and rock, and at this altitude every step is slow. Groups of villagers pass you singing, carrying offerings of flowers, coconuts and red cloth.",
+        "As you near the ridge the temple appears, small and plain, with bells and flags. Inside is the image of the goddess; the priests of Kalikot and Bajura receive offerings and give tika. From the top the view opens in every direction across the hills of Bajura, Achham, Kalikot and Jumla, with snow peaks to the north on clear mornings.",
+        "Take your time, drink water and turn back if you feel the signs of altitude sickness: severe headache, nausea or confusion. Bring warm layers, a hat and gloves. After paying your respects, descend to Triveni for a hot meal."
+      ],
+      "good_for": ["trekkers", "solo", "photographers"],
+      "faqs": [
+        {"q": "How high is Badimalika temple?", "a": "Badimalika temple stands at about 4,220 m on a ridge in Triveni municipality, Bajura. That is higher than Everest's Namche Bazaar, so altitude sickness is a real risk. Acclimatise on the way up and do not rush the final climb."},
+        {"q": "How hard is the climb to Badimalika temple?", "a": "The final ascent from Triveni is steep and takes several hours at altitude. The whole trek from Martadi takes three to four days over unmarked trails with few facilities. It is a challenging trek suitable for fit walkers with some Himalayan experience."},
+        {"q": "Can non-Hindus visit Badimalika temple?", "a": "Respectful visitors are generally welcome at the temple area. Remove your shoes, follow the priests' guidance, do not enter restricted parts and ask before photographing rituals or people. During the fair, keep out of the way of pilgrims making offerings."}
+      ]
+    },
+    {
+      "slug": "badimalika-janai-purnima-mela",
+      "title": "Janai Purnima fair on the high pastures",
+      "kind": "spiritual",
+      "duration": "2–3 days",
+      "best_time": "Janai Purnima, usually August",
+      "image_query": "Badimalika mela pilgrims",
+      "wiki": "Badimalika Temple",
+      "summary": "Join thousands of pilgrims at Badimalika for the Janai Purnima fair, with fasting, bathing at Triveni, sacred threads, offerings at the temple and Deuda songs sung through the night on the pastures.",
+      "body": [
+        "Janai Purnima is the full moon of the month of Shrawan, usually in August, when Hindu men renew their sacred thread and people across Nepal tie protective threads on their wrists. At Badimalika it is the occasion for the biggest pilgrimage of the year, with Malika Chaturdashi celebrated on the eve.",
+        "Pilgrims walk for days from Bajura, Achham, Kalikot, Jumla and further afield. They camp at Triveni and on the pastures, bathe in the streams, climb to the temple with offerings and spend the nights singing Deuda in circles of linked arms. Temporary tea shops under tarpaulin sell tea, noodles and snacks.",
+        "It falls in the monsoon, so expect rain, mud, cloud and cold nights. Bring full waterproof gear, a strong tent and plenty of patience. If you want to experience a Himalayan pilgrimage at full strength, there are few better places."
+      ],
+      "good_for": ["photographers", "solo", "trekkers"],
+      "faqs": [
+        {"q": "When is the Badimalika fair?", "a": "The main fair is held on Janai Purnima, the full moon of Shrawan, usually in August, with Malika Chaturdashi celebrated just before. Exact dates follow the lunar calendar and change each year. Check current status before you travel."},
+        {"q": "How many people attend the Badimalika fair?", "a": "Thousands of pilgrims come from across the far west and beyond, camping at Triveni Dham and on the pastures. Numbers vary by year and weather. Expect crowded trails on the days just before the full moon."},
+        {"q": "What should I bring to the Janai Purnima fair?", "a": "A good waterproof tent, four-season sleeping bag, full rain gear, warm layers, water purification, a headtorch and some food. Tea shops appear during the fair, but supplies are basic. Travel with a guide and porters booked well in advance."}
+      ]
+    },
+    {
+      "slug": "badimalika-triveni-dham",
+      "title": "Bathing and camping at Triveni Dham",
+      "kind": "spiritual",
+      "duration": "Overnight",
+      "best_time": "May–Oct",
+      "image_query": "Triveni Dham Bajura",
+      "wiki": "",
+      "summary": "Camp at Triveni Dham, where three streams meet near the borders of Kalikot, Achham and Bajura, and watch pilgrims bathe and pray before the climb to Badimalika.",
+      "body": [
+        "Triveni Dham lies where three streams, named locally as the Kshir, Benurudra and Mandakini, come together. It sits near the point where Kalikot, Achham and Bajura districts meet, and it is the last camp before the temple. Pilgrims believe that bathing here purifies them before they meet the goddess.",
+        "The site is wide and open, with grassy flats for camping, the sound of water and small shrines by the streams. In the evening pilgrims light fires, cook and sing; in the early morning they bathe in the icy water and set off up the ridge in the dark.",
+        "Camp with your crew on a flat, well-drained spot away from the streams, which can rise quickly in rain. Do not use soap or detergent in the water. A night here also helps acclimatisation before the climb to 4,220 m."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "Where is Triveni Dham at Badimalika?", "a": "Triveni Dham is the confluence of three streams near the meeting point of Kalikot, Achham and Bajura districts, below Badimalika temple. It is the usual last camp before the final climb to the temple."},
+        {"q": "Is it safe to bathe at Triveni?", "a": "The water is very cold and can run fast, especially in the monsoon. If you join pilgrims in a ritual dip, choose a calm, shallow spot, stay close to the edge and keep it brief. Never bathe after heavy rain when streams are high."},
+        {"q": "Is there accommodation at Triveni Dham?", "a": "There are no permanent lodges. Visitors camp, and during the Janai Purnima fair temporary shelters and tea shops are set up. Bring all camping equipment and food with your trek crew."}
+      ]
+    },
+    {
+      "slug": "badimalika-nateshwori-temple",
+      "title": "Completing the pilgrimage at Nateshwori",
+      "kind": "heritage",
+      "duration": "Full day walk",
+      "best_time": "May–Oct",
+      "image_query": "Nateshwori temple Bajura",
+      "wiki": "",
+      "summary": "Walk from Badimalika to Nateshwori, the temple of the goddess's elder sister in Triveni municipality, which tradition says pilgrims must visit to complete their pilgrimage.",
+      "body": [
+        "In the local legend, after King Dipraj Chhatyal angered Badimalika, the goddess told him to build a temple in the Nateshwori forest near his palace, where her elder sister, Bhagwati, would be worshipped. Pilgrims were to worship there after visiting Badimalika for their prayers to be fulfilled.",
+        "Nateshwori lies in Triveni municipality, a long day's walk from Badimalika, often around ten hours. The route descends from the high pastures through forest and villages, giving a very different view of Bajura from the bare ridges above.",
+        "Adding Nateshwori lengthens the trek by one to two days but completes the pilgrimage in the traditional way, and passes through villages that see very few outsiders. Discuss it with your guide when planning; it needs extra supplies and a fit group."
+      ],
+      "good_for": ["trekkers", "solo"],
+      "faqs": [
+        {"q": "Why do pilgrims visit Nateshwori after Badimalika?", "a": "Local tradition says Badimalika herself told King Dipraj Chhatyal to build a temple at Nateshwori for her elder sister, and that pilgrims should worship there after Badimalika for their prayers to be fulfilled. Many devotees therefore visit both."},
+        {"q": "How far is Nateshwori from Badimalika?", "a": "It is a long day's walk, often around ten hours, descending from the high pastures through forest to Triveni municipality. Most groups add one or two days to their trek to include it."},
+        {"q": "Is the Nateshwori route marked?", "a": "No. Like most trails in this area, it is unmarked and passes through forest and remote villages. A local guide who knows the route is essential, and your crew should carry enough food and fuel for the extra days."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Badimalika temple?", "a": "Badimalika temple is in ward 9 of Triveni municipality, Bajura district, Sudurpashchim Province, at about 4,220 m. It lies near where Bajura, Kalikot, Achham and Jumla meet, in the remote hills of far western Nepal."},
+    {"q": "How do I get to Badimalika from Kathmandu?", "a": "Fly Kathmandu to Dhangadhi, drive about 12 hours via Dipayal and Sanfebagar to Martadi, then trek three to four days to the temple. Plan ten to fourteen days in total from Kathmandu, including return. Check current status before you travel for roads and flights."},
+    {"q": "What is the best time for the Badimalika trek?", "a": "April to June and September to October for stable weather and clear views. August is the time of the Janai Purnima fair, with crowds and monsoon rain. Winter brings snow and makes the high trail dangerous."},
+    {"q": "How difficult is the Badimalika trek?", "a": "Challenging. Trails are long and unmarked, facilities are almost absent, and the temple is at about 4,220 m. You need good fitness, warm camping gear and a supported crew. It is not a teahouse trek."},
+    {"q": "Is there accommodation on the Badimalika trek?", "a": "Very little. A few village teahouses and homes may offer basic rooms near Martadi, but on the upper trail you must camp. During the fair, temporary tarpaulin tea shops appear at Triveni and near the temple."},
+    {"q": "Do I need a permit for Badimalika?", "a": "No national park or restricted area permit is required for Badimalika at the time of writing. Local fees may apply. A licensed guide is strongly recommended given the remote, unmarked trails. Check current status before you travel."},
+    {"q": "Is there mobile signal at Badimalika?", "a": "Nepal Telecom installed a 4G tower in the Badimalika area ahead of a recent Janai Purnima fair, so coverage is now available near the temple, though it may be patchy on the trail. Carry a satellite messenger for emergencies on remote stretches."},
+    {"q": "Is altitude sickness a risk at Badimalika?", "a": "Yes. At about 4,220 m, the temple is high enough for serious altitude sickness. Ascend gradually, sleep lower at Triveni, drink plenty of water and descend at once if you develop severe headache, vomiting or confusion."},
+    {"q": "Can I combine Badimalika with Ramaroshan or Khaptad?", "a": "Yes. Ramaroshan in Achham and Khaptad, where Bajura, Bajhang, Achham and Doti meet, are both in the same part of the far west. A longer trip could link two of them with careful planning, plenty of time and a strong support crew."}
+  ]
+}

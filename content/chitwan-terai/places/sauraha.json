@@ -1,0 +1,349 @@
+{
+  "slug": "sauraha",
+  "name": "Sauraha",
+  "name_ne": "सौराहा",
+  "local_name": "",
+  "region": "chitwan-terai",
+  "kind": "village",
+  "wiki": "Sauraha",
+  "image_query": "Sauraha Rapti river canoe Chitwan",
+  "lat": 27.578,
+  "lng": 84.496,
+  "altitude_m": 175,
+  "tagline": "The Rapti riverbank where most Chitwan safaris begin",
+  "meta_description": "Sauraha, Chitwan: canoe trips on the Rapti, jeep safaris, guided jungle walks, Tharu village visits, where to stay and how to get there from Kathmandu.",
+  "summary": "Sauraha is the main gateway to Chitwan National Park, a Tharu village turned lodge town on the north bank of the East Rapti river. From here you take dugout canoes, jeep drives and guided jungle walks into the park, and walk to Tharu villages in the evening. Stay two or three nights, October to April.",
+  "intro": [
+    "Sauraha sits on the north bank of the East Rapti, and the park begins on the far shore. In the dry season you can stand at the river's edge at sunset and watch rhinos crossing the shallows a few hundred metres away, while Tharu children wash buffaloes below the lodges. It is a village of Ratnanagar Municipality, about 6 km south of the East-West Highway at Tandi and 15 km from Bharatpur airport.",
+    "Forty years ago Sauraha was a handful of Tharu farmhouses. Today it has a main street of lodges, cafes and safari counters, but the old shape survives in the lanes behind: mud-walled houses with reed screens, rice drying on mats, and family shrines under sal trees. Most of the park's visitors start here, so it is the easiest place to arrange canoe trips, jeep drives and nature guides at short notice.",
+    "We like Sauraha for first-timers and families. It has rooms at every budget, the river and park are walkable from every lodge, and the evenings are easy: a Tharu stick dance at the cultural hall, a sunset drink by the Rapti, and dinner in a garden. Travellers who want silence and fewer jeeps often add a night or two in Meghauli or Amaltari on the park's western side. Three nights is ideal."
+  ],
+  "story": {
+    "title": "A Tharu village that learned to host the world",
+    "paras": [
+      "Before the 1950s the Tharu of Sauraha lived inside a forest few outsiders could survive. Their houses were built of reed and mud on stilted floors, their fields carved from the jungle, and malaria kept most hill people away. After DDT spraying cleared malaria and the hills poured settlers into Chitwan, the forest shrank fast and the park was created in 1973 to save what was left. Families lost access to much of the forest they had used for grass, wood and grazing.",
+      "Sauraha grew as the park's front door. The first visitors in the 1970s and 1980s slept in simple huts and walked or rode into the park with Tharu guides who knew every rhino trail. Over the following decades the village turned many of its fields into guesthouses, and Tharu families who once cut thatch in the park became nature guides, boatmen and cooks. Many of today's best guides grew up in the villages around Sauraha and learned the forest from their parents.",
+      "Conservation and community are tied together here. Since 1997 a buffer zone around the park has shared part of park revenue with local user groups, and community forests such as Baghmara near Sauraha were replanted on land that had been bare. Rhinos now wander through these forests at night, which is good news for the species and a real worry for farmers whose crops they eat. Electric fences and night watch huts are part of village life."
+    ]
+  },
+  "legend": "",
+  "people": "Chitwan Tharu families are the oldest residents of Sauraha and the villages around it, such as Bachhauli. Many still farm rice, mustard and lentils, and keep buffaloes and goats, while younger people work as nature guides, drivers, boatmen and cooks. Hill families who settled from the 1950s run many of the lodges and shops. Tharu, Nepali and some Hindi are spoken; most guides speak good English.",
+  "untold": [
+    {
+      "fact": "Chitwan National Park and the lodges around it once sat inside a forest so malarial that the Tharu were among the few people able to live there. Studies found malaria about seven times less common among Tharu than among their neighbours.",
+      "source": "Wikipedia: Tharu people"
+    },
+    {
+      "fact": "In 1997 a buffer zone of about 766 square kilometres was added around Chitwan National Park, and a share of park income is returned to communities living in it, which helped fund community forests near Sauraha.",
+      "source": "Wikipedia: Chitwan National Park"
+    },
+    {
+      "fact": "Chitwan is home to two crocodile species: the mugger, often seen on the Rapti banks near Sauraha, and the critically endangered gharial, which needs deep, clean rivers and is mostly seen on the Narayani.",
+      "source": "Wikipedia: Chitwan National Park; Wikipedia: Gharial"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "gaida",
+      "script": "गैंडा",
+      "lang": "Nepali",
+      "meaning": "Rhinoceros"
+    },
+    {
+      "word": "dunga",
+      "script": "डुङ्गा",
+      "lang": "Nepali",
+      "meaning": "Boat; on the Rapti, a dugout canoe carved from one tree trunk"
+    },
+    {
+      "word": "machan",
+      "script": "मचान",
+      "lang": "Nepali",
+      "meaning": "Raised wooden watchtower for viewing wildlife"
+    }
+  ],
+  "taste": {
+    "name": "Tharu thali",
+    "text": "A Tharu plate in Sauraha usually brings rice, lentils, greens, a pickle and, if you ask, ghonghi snail curry or river fish, with steamed dhikri on feast days. Tharu-run kitchens in the village lanes and the cultural programmes at homestays serve it more faithfully than the main-street cafes."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "2 – 3"
+    ],
+    [
+      "Nearest airport",
+      "Bharatpur (BHR), ≈ 15 km · 30 min"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 165 km · 5–7 h by road; 20–25 min by air"
+    ],
+    [
+      "Altitude",
+      "≈ 175 m"
+    ],
+    [
+      "Known for",
+      "Rhinos, canoe trips, Tharu villages"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "2–3",
+  "highlights": [
+    {
+      "title": "Sunset on the Rapti",
+      "text": "Every evening the riverbank fills with people watching the sun sink behind the park's sal forest. In the dry months rhinos often wade across the river below, and fishing eagles and kingfishers work the shallows as the light goes."
+    },
+    {
+      "title": "Dugout canoe downriver",
+      "text": "Tharu and Bote boatmen paddle long dugouts down the Rapti from Sauraha. In an hour you pass mugger crocodiles on the banks, kingfishers and storks, then walk back through the forest with your nature guides."
+    },
+    {
+      "title": "Jeep drive into the park",
+      "text": "Half-day drives explore the grasslands and lakes near Sauraha; full-day drives reach Kasara and the gharial centre. February to April is best, when cut grass and dry forest make rhinos, deer and gaur easy to see."
+    },
+    {
+      "title": "Tharu village lanes",
+      "text": "Walk or cycle through Bachhauli and the villages behind Sauraha to see mud-and-reed houses, painted walls, grain stores and fish traps. The small Tharu Cultural Museum gives context to what you see. Go in the late afternoon."
+    },
+    {
+      "title": "Tharu stick dance",
+      "text": "Evening performances at the cultural hall feature the stick dance, in which rows of young men strike sticks in tight rhythm to drums. It began as a village tradition and is now the best-known Tharu dance in Chitwan."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "From Kathmandu it is about 165 km and 5 to 7 hours via Mugling and Narayangadh, then east on the East-West Highway to Tandi and 6 km south to Sauraha. Tourist buses run daily from Kathmandu and Pokhara and stop at the Sauraha bus park, where lodges collect guests."
+    },
+    {
+      "mode": "Air",
+      "text": "Several daily flights connect Kathmandu with Bharatpur (BHR) in about 20 to 25 minutes. From Bharatpur airport to Sauraha is about 15 km, 30 minutes by car. Flights are often delayed by fog on winter mornings; check current status before you travel."
+    }
+  ],
+  "where_to_stay": "Sauraha has the widest choice of rooms in Chitwan. The riverside strip along the Rapti has lodges with views of the park, and the lanes behind hold cheaper guesthouses and family-run hotels. Green Park Chitwan is a comfortable, well-run hotel with a pool, a short walk from the river. Families like having the river, cafes and the cultural hall within walking distance. For more silence, add nights at Meghauli Serai or Barahi Jungle Lodge in Meghauli, Kasara Resort near the park headquarters, or a Tharu homestay at Barauli or Amaltari.",
+  "stays": [
+    "green-park-chitwan"
+  ],
+  "tips": [
+    "Book jeep drives through your lodge the night before so the park permit and guides are ready by dawn.",
+    "Wear green, brown or khaki clothes and leave bright colours and perfume behind for jungle walks.",
+    "Keep at least 50 metres from rhinos that wander into the village at night, and never use a flash on them.",
+    "We do not book elephant rides; jeeps, canoes and walking give better views without harming the animals.",
+    "Carry small notes in Nepali rupees; card payments are accepted at larger hotels but not by most boatmen and shops."
+  ],
+  "themes": [
+    "wildlife-and-jungle",
+    "family-trips",
+    "villages-and-homestays",
+    "lakes-and-rivers",
+    "photography"
+  ],
+  "nearby": [
+    "bishazari-tal",
+    "kasara",
+    "devghat",
+    "meghauli"
+  ],
+  "experiences": [
+    {
+      "slug": "sauraha-rapti-dugout-canoe",
+      "title": "Dugout canoe trip on the Rapti",
+      "kind": "water",
+      "duration": "1 hour on the river, 2–3 hours with the walk back",
+      "best_time": "Early morning, Oct–Apr",
+      "image_query": "dugout canoe Rapti river Chitwan",
+      "wiki": "",
+      "summary": "A quiet hour drifting down the East Rapti in a dugout canoe carved from a single tree, watching mugger crocodiles, kingfishers and storks, then walking back to Sauraha through the forest with two nature guides.",
+      "body": [
+        "Canoes leave from the riverbank at Sauraha soon after sunrise. Each long, narrow boat is cut from one kapok or similar trunk, seats about six people on low stools, and sits only a hand's width above the water. A boatman stands at the stern with a long pole and paddle and lets the current do most of the work. Talking is kept to whispers. Life jackets are provided by most operators.",
+        "In the first hour you pass mugger crocodiles basking on the sandbanks, cormorants drying their wings, and several species of kingfisher. In winter, ruddy shelducks and other migrant ducks gather in the slower water. Rhinos sometimes feed at the river's edge, and spotted deer come down to drink. Fog on winter mornings softens everything and makes the trip feel slower and stranger. Bring binoculars.",
+        "Most trips end downstream, where you climb out and walk back with your nature guides through riverine forest and grassland. Some routes finish at the elephant breeding centre at Khorsor. The walk takes one to two hours on flat ground, and it is here that guides read tracks and dung and explain what passed in the night. Bring water, a hat and insect repellent."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "first-timers",
+        "photographers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Is the canoe trip in Chitwan safe with crocodiles around?",
+          "a": "Yes, when you follow the boatman's instructions. Mugger crocodiles are wary of boats and almost always slide into the water as you approach. Sit still, keep your hands inside the canoe and do not stand up. The canoes are stable on the slow Rapti, but non-swimmers can ask for a life jacket, which most operators now carry."
+        },
+        {
+          "q": "What time should I do the canoe ride?",
+          "a": "Early morning is best, from about 7 am in winter and 6 am in spring, when birds are active and the light is soft. In December and January thick fog may hide the banks for the first hour, which is atmospheric but limits sightings. Late afternoon trips work too, especially in March and April when midday heat is strong."
+        },
+        {
+          "q": "Can children join the canoe trip?",
+          "a": "Children who can sit quietly for an hour usually enjoy it. Lodges generally set a minimum age for the jungle walk that follows, often around eight to ten years, and may suggest a jeep pick-up at the landing point for younger children instead. Ask your lodge for its rules before you book."
+        }
+      ]
+    },
+    {
+      "slug": "sauraha-chitwan-jeep-safari",
+      "title": "Jeep safari in Chitwan National Park",
+      "kind": "wildlife",
+      "duration": "4 hours half day, 8 hours full day",
+      "best_time": "Dawn or late afternoon, Feb–Apr",
+      "image_query": "Chitwan National Park jeep safari rhino",
+      "wiki": "Chitwan National Park",
+      "summary": "Open jeeps cross the Rapti and drive the park's forest tracks, grasslands and oxbow lakes with a licensed nature guide. Half-day trips stay near Sauraha; full-day trips reach Kasara and the gharial breeding centre. Book through your lodge.",
+      "body": [
+        "Jeeps from Sauraha either cross the Rapti on a ferry or enter by road through the buffer zone, depending on season and route. Each vehicle carries a driver, a nature guide and up to about eight guests. Tracks run through sal forest, along the edges of tall grasslands and past small lakes where rhinos wallow and gaur come to drink. Most drives leave at dawn or in the mid-afternoon.",
+        "On a typical half day you can expect rhinos, spotted deer, hog deer, wild boar, rhesus macaques and grey langurs, plus peafowl, hornbills and many raptors. Sloth bears, leopards and tigers are present and seen on some trips, never on demand. Watchtowers along the route let you climb above the grass and scan quietly. Good guides stop for birds as readily as for mammals.",
+        "Full-day drives continue west to Kasara, the park headquarters, where you visit the gharial breeding centre and the small museum before returning by a different track. Bring a packed lunch, water, a hat and a scarf against dust. The months after the grass is cut in January and February give the clearest views. Lodges can arrange a picnic lunch."
+      ],
+      "good_for": [
+        "families",
+        "first-timers",
+        "photographers",
+        "seniors",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Half-day or full-day jeep safari in Chitwan: which is better?",
+          "a": "A half day of about four hours suits most first-time visitors and families and covers good rhino country near Sauraha. A full day of about eight hours goes deeper into the park, includes Kasara and the gharial centre, and gives better odds for rarer animals such as sloth bears and leopards. It is long and dusty, so choose it if you love wildlife."
+        },
+        {
+          "q": "Will I see a tiger on a Chitwan jeep safari?",
+          "a": "Possibly, but do not plan around it. Chitwan has a healthy tiger population, yet they are shy and spend the day in dense cover. Sightings are most likely from March to May, when water is scarce and grass is low. Rhinos, deer, crocodiles and many birds are seen on almost every trip in the dry season."
+        },
+        {
+          "q": "Are jeep safaris shared or private?",
+          "a": "Both are available. Shared jeeps are cheaper and run on fixed times from Sauraha. A private jeep costs more but lets you set the pace, stop longer for birds and photographs, and leave earlier. We book private jeeps for most of our guests. Park entry fees and guide fees are added on top of the jeep cost."
+        }
+      ]
+    },
+    {
+      "slug": "sauraha-guided-jungle-walk",
+      "title": "Guided jungle walk with two nature guides",
+      "kind": "nature",
+      "duration": "3 hours to a full day",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Chitwan jungle walk nature guide grassland",
+      "wiki": "",
+      "summary": "On foot in the forest and grassland with two licensed guides: tracks, dung, birdsong, termite mounds and medicinal plants, and the real chance of meeting a rhino at ground level. The most intense way to feel Chitwan.",
+      "body": [
+        "A jungle walk is slower and more serious than a drive. Your two guides carry bamboo sticks, brief you at the start on what to do if a rhino, bear or elephant charges, and then lead in single file. You learn to walk quietly, watch where the grass moves and listen for alarm calls from langurs and spotted deer. It is the most intimate way to see Chitwan.",
+        "Guides read the forest constantly: tiger pugmarks in the sand, rhino middens where several animals return to dung, trees scored by sloth bear claws, and plants Tharu families still use for medicine and food. Birds are excellent on foot, and in winter you might see woodpeckers, minivets and several kinds of eagle within an hour. Your guides stop often to explain what you see.",
+        "Short walks of three to four hours suit most people. Full-day walks deep into the park include a packed lunch and often a visit to a watchtower or lake. Wear closed shoes, long trousers and neutral colours, carry water, and keep your group small. The experience is less about ticking animals and more about learning to read the land. Keep your group to six or fewer."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "photographers",
+        "trekkers"
+      ],
+      "faqs": [
+        {
+          "q": "How safe is a jungle walk in Chitwan?",
+          "a": "It carries some risk, which is why the park requires licensed guides, usually two per group. Most walks pass without incident. Rhinos and sloth bears are the main dangers; guides know their signs and how to react. Follow every instruction, stay close, keep quiet and never run toward an animal for a photograph. We keep groups small and do not walk at dusk."
+        },
+        {
+          "q": "Is there a minimum age for jungle walks in Chitwan?",
+          "a": "There is no single national rule, but most lodges and guide associations will not take children under about ten on a walk inside the park. Families with younger children usually choose a canoe trip, a jeep drive and a community forest walk in the buffer zone instead. Ask your lodge before booking."
+        },
+        {
+          "q": "What should I wear on a Chitwan jungle walk?",
+          "a": "Wear neutral colours such as green, khaki or brown, long trousers, a long-sleeved shirt and comfortable closed shoes with grip. Add a hat and sunscreen, and carry at least a litre of water. Leave perfume and bright colours behind. In the monsoon and just after it, leech socks are useful, though most walks run from October to April."
+        }
+      ]
+    },
+    {
+      "slug": "sauraha-tharu-village-and-stick-dance",
+      "title": "Tharu village walk and stick dance evening",
+      "kind": "heritage",
+      "duration": "3–4 hours",
+      "best_time": "Late afternoon and evening, Oct–Apr",
+      "image_query": "Tharu stick dance Sauraha Chitwan",
+      "wiki": "Tharu people",
+      "summary": "Walk the lanes of Bachhauli and the villages behind Sauraha with a Tharu guide, visit the small cultural museum, then watch the stick dance performed by young villagers at the cultural hall after dark. It is an easy, sociable evening.",
+      "body": [
+        "Start in the late afternoon, when farmers come in from the fields. A Tharu guide walks you through village lanes where houses are built of reed and mud plastered smooth, often painted with simple patterns. You see grain stores, kitchens where rice is steamed in clay pots, fish traps woven from bamboo, and the buffalo sheds that sit close to every home. Ask before photographing people.",
+        "The small Tharu Cultural Museum in Sauraha adds context: tools, jewellery, traditional dress and photographs of village life before tourism. Your guide can explain how families lived inside the forest before the park was created, and how relocation and land loss changed their lives after 1973. Allow 30 to 45 minutes for the museum, and ask your guide to explain the objects on display.",
+        "After dark, the cultural hall in Sauraha hosts performances by local groups. The highlight is the stick dance, in which rows of young men strike sticks in tight rhythm to the beat of a madal drum, moving faster as the song builds. Other dances follow, some performed by women. Shows last about an hour and support local dance groups. Arrive early for a good seat."
+      ],
+      "good_for": [
+        "families",
+        "first-timers",
+        "couples",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Is the Tharu cultural show in Sauraha authentic?",
+          "a": "It is a staged performance for visitors, but the dancers are local Tharu villagers and the dances come from real village traditions, especially the stick dance. To go further than a show, spend a night in a community homestay at Barauli or Amaltari, where you eat with Tharu families and see the dances in a village setting."
+        },
+        {
+          "q": "Can I visit a Tharu village on my own?",
+          "a": "You can walk through the villages near Sauraha independently, but a Tharu guide makes the visit far richer and more respectful. They explain what you see, introduce you to families and know which homes welcome visitors. Always ask before photographing people or entering a courtyard, and dress modestly."
+        },
+        {
+          "q": "How much does the Tharu stick dance show cost?",
+          "a": "Tickets for the evening shows at the Sauraha cultural hall are inexpensive, usually a few hundred Nepali rupees, and lodges often include them in packages. Prices change from season to season, so check the current rate with your lodge or at the hall. Shows run most evenings in the main season."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Sauraha and how far is it from Kathmandu?",
+      "a": "Sauraha is a village in Ratnanagar Municipality, Chitwan District, on the north bank of the East Rapti river opposite Chitwan National Park. It is about 165 km from Kathmandu, 5 to 7 hours by road, or a 20 to 25 minute flight to Bharatpur followed by a 30 minute drive. It is the most popular base for visiting the park."
+    },
+    {
+      "q": "How many nights should I stay in Sauraha?",
+      "a": "Two nights is the minimum and three is ideal. That gives you a canoe trip, a jeep safari, a jungle walk and a Tharu village visit at a comfortable pace. Arriving by road from Kathmandu or Pokhara takes most of the first day, so with only one night you see very little of the park."
+    },
+    {
+      "q": "Is Sauraha or Meghauli better for a Chitwan safari?",
+      "a": "Sauraha has more choice in rooms and food, easy access and lively evenings, which suits first-timers and families. Meghauli, on the park's western side, is quieter, with fewer jeeps and higher-end lodges, and often better wildlife on the Rapti–Narayani floodplain. Many of our guests do two nights in each."
+    },
+    {
+      "q": "Can I see rhinos from Sauraha village?",
+      "a": "Often, yes. In the dry season rhinos regularly cross the Rapti or graze on the far bank, visible from the riverside lodges at dawn and dusk. Some wander into the village at night. Keep well back, do not approach on foot and never use a flash. For guaranteed close views take a jeep or canoe trip into the park."
+    },
+    {
+      "q": "What is the best time to visit Sauraha?",
+      "a": "October to April. February and March are best for wildlife, after the grass is cut and before the heat builds. October and November are clear and green, December and January cool and foggy in the mornings. May is very hot, and from mid-June to September monsoon rains limit park activities and many lodges close."
+    },
+    {
+      "q": "Is there an ATM in Sauraha?",
+      "a": "Yes, there are ATMs on the main road in Sauraha and more in Bharatpur and Tandi. They sometimes run out of cash during busy holidays such as Dashain, so carry some Nepali rupees from Kathmandu or Pokhara. Larger hotels accept cards, while boatmen, small cafes and shops expect cash."
+    },
+    {
+      "q": "Are elephant rides still offered in Sauraha?",
+      "a": "Some private operators in the buffer zone still offer elephant rides and bathing. We do not book them, because of welfare concerns for the animals and because jeeps, canoes and guided walks give better and more natural wildlife viewing. If you visit the elephant breeding centre at Khorsor, do so as an observer."
+    },
+    {
+      "q": "Is Sauraha good for families with children?",
+      "a": "Yes. Distances are short, lodges have gardens and some have pools, and children usually love the canoe trips, jeep drives and the stick dance. Walks inside the park have age limits, often around ten years. Plan rest in the heat of the day, use mosquito repellent and pack sun hats."
+    },
+    {
+      "q": "How do I get from Sauraha to Pokhara?",
+      "a": "Tourist buses leave Sauraha each morning and take about 5 to 6 hours to Pokhara, roughly 150 km via Mugling. A private car is faster and lets you stop at Devghat or the Manakamana cable car at Kurintar. There are no direct flights from Bharatpur to Pokhara; flying means changing in Kathmandu."
+    }
+  ]
+}

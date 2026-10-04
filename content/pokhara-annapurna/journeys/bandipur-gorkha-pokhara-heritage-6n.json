@@ -1,0 +1,197 @@
+{
+  "slug": "bandipur-gorkha-pokhara-heritage-6n",
+  "title": "Gorkha, Bandipur and Pokhara Heritage",
+  "region": "pokhara-annapurna",
+  "kind": "culture",
+  "nights": 6,
+  "themes": [
+    "heritage-and-temples",
+    "villages-and-homestays",
+    "food-and-festivals",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "gorkha",
+      "nights": 1
+    },
+    {
+      "place": "bandipur",
+      "nights": 2
+    },
+    {
+      "place": "pokhara",
+      "nights": 3
+    }
+  ],
+  "start": "Kathmandu",
+  "end": "Pokhara",
+  "price_from_usd": 950,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1600,
+  "meta_description": "Kathmandu to Pokhara the slow way in 6 nights: Manakamana by cable car, Gorkha Durbar where modern Nepal began, two nights in Newar Bandipur, then Pokhara.",
+  "summary": "Six nights on the old road west: the Manakamana cable car, a night at Gorkha below the palace where Prithvi Narayan Shah set out to unify Nepal, two nights in the car-free Newar bazaar of Bandipur at The Old Inn, and three nights in Pokhara for the old bazaar, the lake and Sarangkot.",
+  "intro": [
+    "Most travellers do Kathmandu to Pokhara in one long drive or a 25-minute flight. This journey takes six nights over it and stops at the two places that explain how Nepal came to be. Gorkha is the hill town whose king, Prithvi Narayan Shah, began the conquest of the Kathmandu Valley in the 1740s. Bandipur is the Newar trading town that grew rich on the mule route between India and Tibet and was then left behind by the highway, which is why it survived.",
+    "Driving distances are short, between 2 and 5 hours a day, with time to walk. Nights are in a simple hotel in Gorkha, the restored Newar house of The Old Inn in Bandipur, and Hotel Barahi in Pokhara's Lakeside. The journey ends in Pokhara, so it links easily to a trek or to Chitwan. Your guide stays with you from Kathmandu to Pokhara, so the stories carry from one town to the next."
+  ],
+  "story": "You leave Kathmandu down the Trishuli river and at Kurintar swing up in a cable car to Manakamana, the wish-fulfilling goddess, where families queue with offerings. Then up a side valley to Gorkha, a small hill town with a palace above it. Climbing to the Gorkha Durbar at dusk you see why this ridge mattered: the view takes in the Himalaya from Manaslu to the Annapurnas, and the valleys below. Here Prithvi Narayan Shah was born in 1723, and from here his armies marched east. The next stop is Bandipur, settled by Newar traders from Bhaktapur, its main street lined with three-storey houses of brick and carved wood. When the Prithvi Highway took the trade to the valley floor in the 1970s, Bandipur emptied, then slowly came back. Then Pokhara, and the lake.",
+  "highlights": [
+    "Gorkha Durbar, the hilltop palace and temple complex of the Shah kings",
+    "The Manakamana cable car and the hilltop temple of the wish-granting goddess",
+    "Two nights in Bandipur's car-free Newar bazaar, with sunrise from Thani Mai hill",
+    "Siddha Gufa, a large limestone cave below Bandipur",
+    "Pokhara's old bazaar, the Bindhyabasini temple and Phewa Lake"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu to Manakamana and Gorkha",
+      "place": "gorkha",
+      "overnight": "Gorkha",
+      "alt_m": 1135,
+      "move": "≈ 140 km · 5–6 h drive with cable car stop",
+      "text": "We leave Kathmandu early, leave the valley at Nagdhunga and drop to the Trishuli river. At Kurintar we take the cable car, about 10 minutes, up to Manakamana temple, where devotees bring coconuts, red cloth and sometimes goats and pigeons for the goddess Bhagwati. Back down, we continue west and turn north at Abu Khaireni up the Daraudi valley to Gorkha bazaar. In late afternoon we walk up through the old town toward the palace.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Gorkha Durbar, drive to Bandipur",
+      "place": "bandipur",
+      "overnight": "The Old Inn, Bandipur",
+      "alt_m": 1030,
+      "move": "≈ 1.5 h walk · then ≈ 60 km · 2.5 h drive",
+      "text": "An early climb up stone steps to Gorkha Durbar on its ridge, about an hour from the bazaar. The complex holds the palace where Prithvi Narayan Shah was born, the Kalika temple, whose inner shrine is entered only by priests, and the Gorakhnath cave shrine of the saint the town is named after. The view takes in Manaslu, Himalchuli and Ganesh Himal. After lunch we drive back to the highway and on to Dumre, then up a winding road of 8 km to Bandipur, arriving before sunset.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Bandipur: cave, hill and bazaar",
+      "place": "bandipur",
+      "overnight": "The Old Inn, Bandipur",
+      "alt_m": 1030,
+      "move": "≈ 4 h of walking",
+      "text": "Sunrise from Thani Mai temple on the hill above town, a 30-minute climb, with the Himalaya from Dhaulagiri to Langtang on a clear morning. After breakfast walk down to Siddha Gufa, a large limestone cave with stalactites and chambers, visited with a local guide and head torches. Return in the afternoon to wander the bazaar: the Khadga Devi temple, the Bindebasini temple in the square, the old tundikhel parade ground on the ridge and the silk farm. Dinner at The Old Inn.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Ramkot walk, drive to Pokhara",
+      "place": "pokhara",
+      "overnight": "Hotel Barahi, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 3 h walk · then ≈ 75 km · 2.5 h drive",
+      "text": "A morning walk along the ridge to Ramkot, a Magar village of round, thatched houses, about 1.5 hours each way, past terraced fields and small shrines. Back to Bandipur for lunch, then down to the highway at Dumre and west along the Seti valley to Pokhara. Check in at Hotel Barahi in Lakeside and walk along the lakeshore at dusk. Ramkot's people still keep small shrines and grain stores in the old way, and a few families welcome visitors for tea.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Old Pokhara and Phewa Lake",
+      "place": "pokhara",
+      "overnight": "Hotel Barahi, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 30 min drives",
+      "text": "Morning in old Pokhara, the bazaar founded by Newar traders: the Bindhyabasini temple, where devotees offer to the goddess Durga in her form as Bhagwati, the Bhimsen temple with its carved struts, and lanes of old shopfronts. Then the Seti gorge at Mahendrapul, where the river runs in a narrow slot below the city. Afternoon on Phewa, rowing to Tal Barahi island, and an evening walk along the lake. Dinner is your choice in Lakeside, where Thakali sets and lake fish are easy to find.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Sarangkot sunrise and the Peace Pagoda",
+      "place": "sarangkot",
+      "overnight": "Hotel Barahi, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 30 min drive · ≈ 2 h walk",
+      "text": "An early drive to Sarangkot, 1,600 m, for sunrise on Machhapuchhre and the Annapurnas; the name recalls the kot, or hill fort, that once guarded this ridge. After breakfast cross the lake by boat and climb to the World Peace Pagoda for the view back over the city. Afternoon free for the International Mountain Museum or the Gurkha Memorial Museum, which tells the story of the soldiers recruited from the hills you drove through.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "",
+      "text": "The trip ends after breakfast with a transfer to Pokhara airport for a flight to Kathmandu, or onward to a trek or Chitwan. If you are flying home from Kathmandu the same day, take the morning flight and leave at least four hours for the connection, because Pokhara flights can be delayed by cloud. Bags can stay at Hotel Barahi if your flight is late in the day. We can also hold a car for a last look at the lake.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "the-old-inn-bandipur",
+    "hotel-barahi-pokhara"
+  ],
+  "includes": [
+    "Private car and driver from Kathmandu to Pokhara and for all sightseeing",
+    "English-speaking guide throughout",
+    "1 night in a simple hotel in Gorkha with breakfast and dinner",
+    "2 nights at The Old Inn, Bandipur, with breakfast and dinner",
+    "3 nights at Hotel Barahi, Pokhara, with breakfast",
+    "Manakamana cable car ticket, Gorkha Durbar and Siddha Gufa entry, boats on Phewa"
+  ],
+  "excludes": [
+    "Flight from Pokhara to Kathmandu",
+    "Lunches, and dinners in Pokhara",
+    "Temple offerings and donations",
+    "Travel insurance",
+    "Tips"
+  ],
+  "good_to_know": [
+    "Gorkha Durbar's Kalika temple is closed to non-Hindus inside; the courtyards and palace are open.",
+    "Leather items are not allowed in parts of the Gorkha temple area; your guide will advise.",
+    "The Manakamana cable car queue is long on Saturdays and festival days; we go on weekdays.",
+    "Bandipur's main bazaar is closed to cars; luggage is carried to The Old Inn.",
+    "Siddha Gufa has steep, slippery steps inside; wear shoes with grip."
+  ],
+  "faqs": [
+    {
+      "q": "Is Bandipur worth visiting?",
+      "a": "Yes, especially for travellers interested in old Nepal. Bandipur is a Newar trading town on a ridge between Kathmandu and Pokhara, with a car-free bazaar of brick and wooden houses, temples, a large cave and views of the Himalaya. Two nights give time for sunrise, a village walk and a slow evening in the square."
+    },
+    {
+      "q": "How do I get from Kathmandu to Bandipur?",
+      "a": "Drive west on the Prithvi Highway to Dumre, about 140 km and 4 to 5 hours, then take the 8 km side road up to Bandipur, about 20 minutes. Tourist buses to Pokhara stop at Dumre, where local jeeps go up the hill. From Bandipur, Pokhara is about 75 km, or 2.5 hours."
+    },
+    {
+      "q": "Why is Gorkha important in Nepal's history?",
+      "a": "Gorkha was the hill kingdom of the Shah dynasty. Prithvi Narayan Shah, born here in 1723, became king in 1743 and began the campaign that united the Kathmandu Valley and many hill states into the Kingdom of Nepal, conquering Kathmandu in 1768. The word Gurkha, used for Nepali soldiers in the British and Indian armies, comes from Gorkha."
+    },
+    {
+      "q": "Can non-Hindus enter Gorkha Durbar?",
+      "a": "Yes, the palace complex and courtyards are open to all visitors, but the inner shrine of the Kalika temple is closed to non-Hindus, and some rooms are entered only by priests. Visitors remove shoes in temple areas, and leather items may need to be left outside. Photography is restricted in parts of the complex."
+    },
+    {
+      "q": "What is the Manakamana cable car?",
+      "a": "It is a cable car from Kurintar on the Prithvi Highway to the hilltop temple of Manakamana, about 10 minutes and 2.8 km long, opened in 1998. Before it was built, pilgrims walked up a steep trail for several hours. The temple honours a form of the goddess Bhagwati, believed to grant wishes."
+    },
+    {
+      "q": "What is The Old Inn in Bandipur like?",
+      "a": "The Old Inn is a restored traditional Newar house in Bandipur's main bazaar, with wooden windows, simple but comfortable rooms and a terrace facing the Himalaya. It is one of the original guesthouses that helped revive the town. Rooms are characterful rather than luxurious, and some bathrooms are compact."
+    },
+    {
+      "q": "What is Siddha Gufa?",
+      "a": "Siddha Gufa is a large limestone cave below Bandipur, often described as one of the largest caves in Nepal, with stalactites, stalagmites and big chambers. It is reached by a steep forest trail of about 1.5 hours down from the town, or about 45 minutes up from the highway at Bimalnagar. A local guide with lights is needed inside."
+    },
+    {
+      "q": "When is the best time for this trip?",
+      "a": "October to December gives clear mountain views from Gorkha, Bandipur and Sarangkot. March and April are warm and hazier, with rhododendrons on the ridges. January and February are cold at night in Bandipur but clear. Monsoon, June to September, brings rain and landslides on the roads, and the mountains are rarely visible."
+    },
+    {
+      "q": "How much does the Gorkha–Bandipur–Pokhara trip cost?",
+      "a": "Our 6-night trip starts from USD 950 per person, twin sharing, including a private car and guide throughout, a night in Gorkha, two nights at The Old Inn, three nights at Hotel Barahi, and the main entry fees. The flight from Pokhara back to Kathmandu adds about USD 100–130 per person."
+    }
+  ]
+}

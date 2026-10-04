@@ -1,0 +1,10 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal trekking permits by region, in plain words · Book Nepal Trip{% endblock %}
+{% block description %}Which permits each region of Nepal needs: national park and conservation area permits, local permits and restricted-area permits, with the licensed-guide rule.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Trip tool</p><h1 class="h-xl">Permits, region by region</h1><p class="lede">Since April 2023 foreign trekkers in national parks and conservation areas must walk with a licensed guide. Restricted areas need a registered agency. Rules change, sometimes mid-season: check current status before you travel.</p></div></header>
+<section class="wrap wrap--narrow" style="padding:10px 0 90px">
+  <div class="faq">{% for r in regions %}<details{% if forloop.first %} open{% endif %} data-land="{{ r.slug }}"><summary><span style="display:flex;gap:12px;align-items:center"><span class="pennant pennant--sm">{% icon r.icon %}</span>{{ r.name }}</span></summary>
+    <div><p>{{ r.permits|default:"No special permits are needed for the usual routes in this region. Carry your passport and visa." }}</p><p><a href="{{ r.url }}#getting-there">Getting to {{ r.name }} →</a></p></div></details>{% endfor %}</div>
+</section>
+{% endblock %}

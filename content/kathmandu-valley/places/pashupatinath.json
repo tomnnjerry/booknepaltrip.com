@@ -1,0 +1,345 @@
+{
+  "slug": "pashupatinath",
+  "name": "Pashupatinath",
+  "name_ne": "पशुपतिनाथ",
+  "local_name": "",
+  "region": "kathmandu-valley",
+  "kind": "pilgrimage site",
+  "wiki": "Pashupatinath Temple",
+  "image_query": "Pashupatinath temple Bagmati river ghats",
+  "lat": 27.7104,
+  "lng": 85.3488,
+  "altitude_m": 1330,
+  "tagline": "Shiva's temple on the Bagmati, where Nepal comes to pray and to part",
+  "meta_description": "Pashupatinath with locals: the Shiva temple, Arya Ghat cremations, evening aarti, Mrigasthali, Guhyeshwari, Shivaratri, Teej and rules for non-Hindus.",
+  "summary": "Pashupatinath is Nepal's most sacred Hindu temple, a gilded pagoda of Shiva on the Bagmati River 5 km east of Thamel. Non-Hindus cannot enter the main courtyard but can watch from the east bank, where cremations, rituals and the evening aarti unfold. Give it two to three hours with a guide.",
+  "intro": [
+    "Pashupatinath is not a monument but a working holy place, and it can be overwhelming. On the west bank of the Bagmati stands the main temple, a two-roofed pagoda with gilded roofs and silver doors, where Shiva is worshipped as Pashupati, lord of animals. Below it, on the stone ghats along the river, families cremate their dead in the open, as Hindus in Nepal have done for centuries.",
+    "Non-Hindus cannot enter the main temple courtyard, but the east bank is open to all. From its terraces, lined with small stone shrines to Shiva, you look across at the temple roofs and the ghats. Sadhus sit in the shade, pilgrims bathe, monkeys scamper over the shrines, and the smoke of the pyres drifts over the water.",
+    "Come with respect and an open mind. Cremations are private family moments held in public, so keep your distance and your camera low. With a guide, the rituals make sense: why the body is carried three times round the pyre, why the eldest son shaves his head, why ashes go into the Bagmati, which flows on to the Ganges. Many visitors say this was the place they understood Nepal best."
+  ],
+  "story": {
+    "title": "Lord of the animals on the holy Bagmati",
+    "paras": [
+      "Worship of Shiva at Pashupati is very old. Licchavi inscriptions of the first millennium mention the god, and the site has been a destination for pilgrims from across the Indian subcontinent for well over a thousand years. The present two-tiered pagoda dates largely from the late 17th century, rebuilt on earlier foundations. Inside is a four-faced linga that only Hindus may see.",
+      "For centuries the temple's chief priests have been Bhatta Brahmins from South India, a tradition linked to the reforms of the Malla period. Their assistants, the Rajbhandaris, are local Newar families. The temple was closely linked to Nepal's kings, who worshipped here on major occasions, and the royal family was cremated at Arya Ghat. Today the Pashupati Area Development Trust manages the large complex.",
+      "In 2015 the main temple survived the earthquake with little damage, while several smaller shrines and buildings around it were hit. During the weeks after the quake, the ghats were busier than ever as families cremated their dead. The complex has since been restored, and visitor paths, a daily evening aarti and better facilities have changed the east bank, while the temple's core rituals continue as before."
+    ]
+  },
+  "legend": "Local legend says Shiva once came to the forest of Mrigasthali, on the east bank, and took the form of a deer to live there freely. The other gods came looking for him and caught him by a horn, which broke into pieces. One became the linga. It was lost for ages until a cow was seen pouring her milk onto one spot each day; people dug there, found the linga and built the first temple.",
+  "people": "Around the temple live Newar families of Deopatan, the old town on its western side, along with priests, flower and offering sellers, and staff of the trust. Sadhus from Nepal and India stay here, especially around Shivaratri. Families from all over Nepal come to cremate their dead. Next door, an elderly people's home looks after residents, some of whom chose to spend their last years near the holy river.",
+  "untold": [
+    {
+      "fact": "Only four priests may touch the linga at Pashupatinath. Daily rituals are carried out by two groups: the Bhatta priests, who perform the puja, and the Rajbhandari, Newar helpers and temple caretakers who may not touch the deity.",
+      "source": "Wikipedia: Pashupatinath Temple"
+    },
+    {
+      "fact": "Upstream of the main temple, Guhyeshwari temple is counted as one of the Shakti Peethas, places where parts of the goddess Sati's body are said to have fallen. Its main shrine is closed to non-Hindus.",
+      "source": "Wikipedia: Guhyeshwari Temple"
+    },
+    {
+      "fact": "The linga inside Pashupatinath has faces in four directions, each an aspect of Shiva: Sadyojata, Vamadeva, Tatpurusha and Aghora. A fifth aspect, Ishana, is imagined facing upwards.",
+      "source": "Wikipedia: Pashupatinath Temple"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Ghat",
+      "script": "घाट",
+      "lang": "Nepali",
+      "meaning": "Stone steps on a riverbank, used for bathing and cremation"
+    },
+    {
+      "word": "Sadhu",
+      "script": "साधु",
+      "lang": "Nepali",
+      "meaning": "Hindu ascetic who has renounced home life"
+    },
+    {
+      "word": "Aarati",
+      "script": "आरती",
+      "lang": "Nepali",
+      "meaning": "Evening worship with lamps, bells and songs"
+    }
+  ],
+  "taste": {
+    "name": "Dar for Teej",
+    "text": "The night before Teej, women gather for dar, a rich feast of sweets, fried breads, meat and curd, before fasting the next day and walking in red saris to Pashupatinath. Outside festival time, small shops in Gaushala and Deopatan serve milk tea, jeri and puri after morning puja."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "Half day"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 2 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 5 km from Thamel · 20–30 min"
+    ],
+    [
+      "Altitude",
+      "≈ 1,330 m"
+    ],
+    [
+      "Known for",
+      "Shiva temple, cremation ghats, sadhus, Shivaratri"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    1,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "The east bank terraces",
+      "text": "From the stone terraces across the river, lined with small Shiva shrines, you see the gilded temple roofs and the ghats below. This is where non-Hindus watch, and where a guide explains each ritual."
+    },
+    {
+      "title": "Arya Ghat and the cremations",
+      "text": "On the stone platforms by the river, families prepare and cremate their dead. Watch from a distance and in silence, with no photographs of faces or close-ups. It is moving and humbling."
+    },
+    {
+      "title": "Evening aarti",
+      "text": "At dusk, priests perform aarti on the riverbank with lamps, bells, conch shells and songs, and crowds gather on both banks. It begins around sunset; the time shifts with the season."
+    },
+    {
+      "title": "Mrigasthali forest",
+      "text": "Up the steps behind the east bank, a small wooded hill with monkeys, deer in an enclosure, temples and the old Gorakhnath shrine. A quieter walk above the crowds."
+    },
+    {
+      "title": "Guhyeshwari temple",
+      "text": "A short walk upstream, the temple of the goddess Guhyeshwari, one of the Shakti Peethas, stands by the river. Non-Hindus can see its courtyard roofs from outside the gates."
+    },
+    {
+      "title": "Shivaratri",
+      "text": "On the great night of Shiva, in February or March, sadhus from across Nepal and India gather, fires burn all night and huge crowds queue to worship. Expect very dense crowds and long queues; go with a guide."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Pashupatinath is about 5 km east of Thamel and 2 km from the airport. A taxi takes 20 to 30 minutes from Thamel, dropping at Gaushala on the main road, a 5 minute walk from the temple. Microbuses from Ratnapark run to Gaushala. Allow extra time on festival days, when roads close."
+    },
+    {
+      "mode": "On foot",
+      "text": "From Boudhanath, walk south-west through Chabahil and Gaushala in 30 to 40 minutes. From the east bank you can also walk upstream past Guhyeshwari and continue towards Boudha, a popular way to link the two."
+    }
+  ],
+  "where_to_stay": "Dwarika's Hotel at Battisputali is the nearest high-end stay, about 10 minutes' walk from the temple area, with Newar architecture and good gardens. Gokarna Forest Resort, 20 minutes north, is another quiet base. Boudha, 30 minutes on foot, has guesthouses and mid-range hotels. Most visitors stay in Thamel and come by taxi for a half-day visit, ideally ending with the evening aarti.",
+  "stays": [],
+  "tips": [
+    "Non-Hindus may not enter the main temple courtyard; the guards at the gate will check, so do not try.",
+    "Never photograph the faces of mourners or bodies at cremations; keep a respectful distance.",
+    "Many sadhus pose for photographs and expect a tip; agree before you shoot.",
+    "Foreign visitors pay an entry fee; keep the ticket as it is checked at several points.",
+    "Leather items are not allowed in some inner temple areas; leave belts and bags with your guide if asked."
+  ],
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "photography",
+    "food-and-festivals"
+  ],
+  "nearby": [
+    "boudhanath",
+    "kathmandu",
+    "changunarayan"
+  ],
+  "experiences": [
+    {
+      "slug": "pashupatinath-temple-and-ghats-guided",
+      "title": "Pashupatinath with a guide who explains the rites",
+      "kind": "spiritual",
+      "duration": "2.5 hours",
+      "best_time": "Morning or late afternoon, all year",
+      "image_query": "Pashupatinath east bank shrines",
+      "wiki": "",
+      "summary": "A guided visit to the Pashupati complex: the main temple seen from outside, the ghats, the east-bank shrines and Mrigasthali. Your guide explains Hindu death rites, the role of sadhus, and why this river matters so much to Nepalis.",
+      "body": [
+        "We begin at the main gate, where Hindus enter the temple courtyard and visitors look in at the great golden bull, Nandi, facing the shrine. Your guide explains the four-faced linga inside, the daily rituals, the Bhatta priests from South India and the role the temple played for Nepal's kings.",
+        "Then we cross to the east bank. From the terraces we watch the ghats: a body wrapped in orange, carried round the pyre, the eldest son with shaved head lighting the fire at the mouth. Your guide explains each step quietly, and how the ashes are given to the river. Arya Ghat, upstream, was used for royalty and important figures.",
+        "We continue up through the rows of small stone shrines to Shiva, past sadhus in saffron and ash, into the Mrigasthali woods. We visit the Gorakhnath shrine and the deer enclosure, and talk about the legend of Shiva as a deer. If you have time, we end at the evening aarti or walk on to Guhyeshwari."
+      ],
+      "good_for": [
+        "first-timers",
+        "solo",
+        "couples",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Can non-Hindus enter Pashupatinath temple?",
+          "a": "No. Only Hindus may enter the main temple courtyard; guards at the gates check visitors. Non-Hindus can see the main temple from the east bank of the Bagmati, watch rituals at the ghats, and visit Mrigasthali and the smaller shrines. A guide explains what is happening inside."
+        },
+        {
+          "q": "Is it respectful to watch cremations at Pashupatinath?",
+          "a": "Watching quietly from the east bank is accepted, and families know visitors are present. Keep a distance, do not walk among mourners, do not photograph faces or bodies, and do not laugh or talk loudly. If a family indicates they want privacy, move away."
+        },
+        {
+          "q": "How much is the Pashupatinath entry fee?",
+          "a": "Foreign visitors have paid about NPR 1,000, collected at entry points around the complex; Nepali citizens enter free and SAARC nationals pay less. The ticket covers the east bank and Mrigasthali. Fees change, so check current status before you travel."
+        }
+      ]
+    },
+    {
+      "slug": "pashupatinath-evening-aarti",
+      "title": "Evening aarti on the Bagmati at Pashupati",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Sunset, all year",
+      "image_query": "Pashupatinath evening aarti lamps",
+      "wiki": "",
+      "summary": "Join the crowds on the riverbank as priests perform the evening aarti with lamps, bells, conch shells and hymns to Shiva. Sit on the steps of the east bank with locals and watch the river glow with light as night falls.",
+      "body": [
+        "Every evening at Pashupati, as the light fades, young priests in matching robes stand on platforms by the Bagmati and perform aarti, waving brass lamps in circles before Shiva while bells ring and devotional songs play. Crowds gather on the ghats and the east bank steps, many of them families who come every week.",
+        "We arrive about 30 minutes before sunset to find a seat on the east bank. Your guide explains the songs and offerings, and the rhythm of the ritual: lamps, incense, flowers, water and conch, offered in turn. Some people join in the singing and clapping, others just sit.",
+        "On Mondays, Shiva's day, and on festival evenings, the crowd is larger and more devotional. After the aarti, we walk back past the shrines, now lit with small lamps, to the main road for a taxi. It pairs well with an afternoon visit to Boudha, 2 km away."
+      ],
+      "good_for": [
+        "couples",
+        "families",
+        "first-timers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What time is the aarti at Pashupatinath?",
+          "a": "The evening aarti starts around sunset, roughly 5.30 to 7 pm depending on the season, and lasts about an hour. Arrive 30 minutes early to find a good seat on the east bank steps. Times can shift on festival days, so check current status before you travel."
+        },
+        {
+          "q": "Can tourists attend the Pashupatinath aarti?",
+          "a": "Yes. The aarti is held on the riverbank, outside the main temple, and anyone can watch from the ghats and the east bank steps. Dress modestly, sit quietly and avoid flash photography. It is busiest on Mondays and festival evenings."
+        },
+        {
+          "q": "Is Pashupatinath safe in the evening?",
+          "a": "Yes, around the aarti it is busy and lively. Take normal care with bags and phones in the crowd, and use the main lit paths back to the road. Avoid wandering into the dark woods of Mrigasthali after the ceremony."
+        }
+      ]
+    },
+    {
+      "slug": "pashupatinath-mrigasthali-guhyeshwari-walk",
+      "title": "Mrigasthali woods to Guhyeshwari on foot",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Mrigasthali forest Pashupatinath monkeys",
+      "wiki": "Guhyeshwari Temple",
+      "summary": "A quieter walk away from the ghats: up into the Mrigasthali forest, past the Gorakhnath shrine and the deer park, then down to the river and along it to Guhyeshwari, the goddess temple upstream. You can continue on to Boudha.",
+      "body": [
+        "From the east bank terraces, stone steps climb into the Mrigasthali woods, where Shiva is said to have roamed as a deer. Monkeys sit in the trees, a small enclosure keeps deer, and old shrines and rest houses are scattered under the canopy. It is much quieter than the riverbank.",
+        "At the top stands the Gorakhnath shrine, linked to the yogi of the Nath tradition, with a tall trident and small temples round it. We walk along the ridge and then down to the Bagmati, crossing to the path upstream. Ascetics have small huts along the way.",
+        "After about 15 minutes we reach Guhyeshwari, a temple to the goddess counted among the Shakti Peethas. Non-Hindus cannot enter the shrine but can see the golden roof framework from outside. From here, you can walk another 30 minutes north to Boudha for the evening kora, or take a taxi back."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "trekkers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is Mrigasthali at Pashupatinath?",
+          "a": "Mrigasthali is the wooded hill on the east bank of the Bagmati at Pashupati, said in legend to be where Shiva roamed as a deer. It has old shrines, the Gorakhnath temple, monkeys and a small deer enclosure. Entry is covered by the Pashupati ticket."
+        },
+        {
+          "q": "Can I visit Guhyeshwari temple?",
+          "a": "Hindus can enter the shrine. Non-Hindus can walk to the temple and see it from outside the gate, but not enter. It is about 15 minutes' walk upstream from Pashupatinath along the Bagmati. Remove leather and dress modestly near the entrance."
+        },
+        {
+          "q": "How do I walk from Pashupatinath to Boudhanath?",
+          "a": "From Guhyeshwari or the main gate at Gaushala, walk north-east through Chabahil to Boudha, about 2 km and 30 to 40 minutes on busy roads and lanes. A guide helps with the route. It is a good way to end a day at the evening kora."
+        }
+      ]
+    },
+    {
+      "slug": "pashupatinath-shivaratri-night",
+      "title": "Maha Shivaratri at Pashupatinath",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Feb or Mar, on Shivaratri",
+      "image_query": "Maha Shivaratri sadhus Pashupatinath",
+      "wiki": "Maha Shivaratri",
+      "summary": "On the great night of Shiva, Pashupati fills with sadhus from Nepal and India, fires burn on the riverbank, and lines of devotees wait hours to worship. We go with a local guide early in the day, keep to the edges and leave before the peak crush.",
+      "body": [
+        "Maha Shivaratri falls on the fourteenth night of the dark half of the month of Falgun, usually in February or early March. In the days before, sadhus arrive from across Nepal and India, camping in the grounds and around Mrigasthali. Some are naked, ash-covered Naga sadhus; others wear saffron and long matted hair.",
+        "On the day itself, hundreds of thousands of devotees come to worship, with queues stretching far down the road. Fires burn all night, people sing and fast, and the government gives a public holiday. Many sadhus smoke cannabis openly as part of worship, a tradition tolerated for the day.",
+        "We visit in the morning, before the biggest crowds, with a guide who knows the grounds. We watch from the east bank and the edges of the sadhu camps, then leave by midday. For the evening atmosphere, we watch from a safe spot nearby rather than in the crush. It is intense, memorable and not for everyone."
+      ],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "When is Shivaratri at Pashupatinath?",
+          "a": "Maha Shivaratri falls in the Nepali month of Falgun, usually in February or early March, on the night before the new moon. The exact date follows the lunar calendar and changes each year, so check current status before you travel. Sadhus begin arriving several days before."
+        },
+        {
+          "q": "Is Shivaratri at Pashupatinath safe for tourists?",
+          "a": "Generally yes, but crowds are enormous and pickpocketing increases. Go with a guide, arrive early, avoid the main queues, keep valuables minimal and agree a meeting point. Families with small children and people uncomfortable in dense crowds may prefer to watch from the edges."
+        },
+        {
+          "q": "Can I photograph sadhus at Shivaratri?",
+          "a": "Many sadhus expect to be photographed and ask for a donation; agree first and pay what you agreed. Some do not want photos, so always ask. Do not photograph devotees at worship at close range without permission, and never photograph cremations."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why can't non-Hindus enter Pashupatinath?",
+      "a": "The main temple courtyard is restricted to Hindus by long tradition, to protect the sanctity of the shrine of Pashupati. Non-Hindus can visit the rest of the large complex, including the east bank, the ghats, Mrigasthali and smaller temples, and see the main temple from across the river."
+    },
+    {
+      "q": "What is the best time to visit Pashupatinath?",
+      "a": "Early morning, from about 6 to 9 am, for daily rituals, or late afternoon to stay for the evening aarti at sunset. October to April has the most pleasant weather. Shivaratri in February or March and Teej in August or September are spectacular but extremely crowded."
+    },
+    {
+      "q": "How long should I spend at Pashupatinath?",
+      "a": "Two to three hours with a guide covers the main temple from outside, the ghats, the east bank, Mrigasthali and an explanation of rituals. Add an hour for the evening aarti, or walk on to Guhyeshwari and Boudha for a half-day route."
+    },
+    {
+      "q": "Is Pashupatinath disturbing to visit?",
+      "a": "It can be. Open-air cremations are a normal part of Hindu life here and are not hidden. Some visitors find them moving, others upsetting. You can watch from a distance or avoid the ghats entirely. A guide helps by explaining the meaning of each rite."
+    },
+    {
+      "q": "What should I wear to Pashupatinath?",
+      "a": "Wear modest clothing that covers shoulders and knees, and shoes you can remove easily. Leave leather items aside if asked near inner shrines. In summer, carry water and a hat. Dress as you would for any important place of worship."
+    },
+    {
+      "q": "Are the sadhus at Pashupatinath real?",
+      "a": "Some are long-term ascetics who live around the temple; others pose in costume mainly for photos and tips. Both are part of the scene. If you photograph a sadhu, agree a donation first. At Shivaratri, many genuine sadhus travel from India and remote Nepal."
+    },
+    {
+      "q": "Can I combine Pashupatinath with Boudhanath?",
+      "a": "Yes, they are 2 km apart. A good plan is Pashupatinath in the afternoon, then the walk or a short taxi to Boudha for the evening kora, or the reverse: Boudha in the morning and the Pashupati aarti at sunset."
+    },
+    {
+      "q": "Is Pashupatinath a UNESCO site?",
+      "a": "Yes. The Pashupati monument zone is one of the seven zones that make up the Kathmandu Valley UNESCO World Heritage Site, inscribed in 1979. It covers the main temple, the ghats, the east bank shrines, Mrigasthali and surrounding temples."
+    },
+    {
+      "q": "When is Teej at Pashupatinath?",
+      "a": "Teej, the women's festival for Shiva and Parvati, falls in the month of Bhadra, usually late August or September. Women in red saris fast, sing and dance, and queue for hours to worship at Pashupati. Dates change yearly, so check current status before you travel."
+    }
+  ]
+}

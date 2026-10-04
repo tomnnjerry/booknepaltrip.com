@@ -1,0 +1,24 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ r.name }} in {{ month }}: weather, where to go, festivals · Book Nepal Trip{% endblock %}
+{% block description %}{{ md.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block crumbs %}{% endblock %}
+{% block content %}
+<header class="phead phead--dark on-dark">{% contours r.slug|add:month 12 %}<div class="wrap">{% include "yatra/partials/crumbs.html" %}
+  <div class="phead__simple"><p class="eyebrow">{{ r.name }} · {{ bs.0.0 }} – {{ bs.1.0 }} · <span class="deva" style="text-transform:none;letter-spacing:0;font-size:1rem">{{ bs.0.1 }} – {{ bs.1.1 }}</span></p>
+  <h1 class="h-xl">{{ r.name }} in {{ month }}</h1>
+  <div class="readouts" style="max-width:820px"><div><span class="mono">{% icon "calendar" %}Our rating</span><b>{% if rating == 2 %}Best{% elif rating == 1 %}Good{% else %}Avoid or closed{% endif %}</b></div><div><span class="mono">{% icon "thermo" %}Weather</span><b style="font-size:.92rem;font-family:var(--f-text)">{{ md.weather }}</b></div></div>
+  <p class="lede">{{ md.summary }}</p>
+  <div class="btn-row"><a class="btn btn--line-light btn--sm" href="{% url 'region_month' r.slug prev %}">← {{ prev_name }}</a><a class="btn btn--line-light btn--sm" href="{% url 'region_month' r.slug next %}">{{ next_name }} →</a><a class="btn btn--foil" href="{% url 'plan' %}?land={{ r.slug }}&month={{ month }}&from={{ request.path|urlencode }}" data-cta="month-plan">Plan {{ month }}</a></div></div></div></header>
+<section class="sec">
+  <div class="wrap">
+    {% if md.tip %}<div class="panel panel--leaf" style="margin-bottom:34px"><p class="mono" style="color:var(--sindoor-2)">Local tip for {{ month }}</p><p style="margin:0;font-size:1.1rem">{{ md.tip }}</p></div>{% endif %}
+    {% if go %}<h2 class="h-m">Where to go in {{ month }}</h2><div class="grid grid--3" style="margin-bottom:40px">{% for p in go %}{% include "yatra/partials/card_place.html" %}{% endfor %}</div>{% endif %}
+    {% if events %}<h2 class="h-m">Festivals around {{ month }}</h2><div class="grid grid--4" style="margin-bottom:40px">{% for f in events %}{% include "yatra/partials/card_fest.html" %}{% endfor %}</div>{% endif %}
+    {% if journeys %}<h2 class="h-m">Trips at their best in {{ month }}</h2><div class="grid grid--3" style="margin-bottom:40px">{% for j in journeys %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div>{% endif %}
+    <h2 class="h-m">Elsewhere in Nepal in {{ month }}</h2><div class="chips">{% for o in others %}<a class="chip" href="{% url 'region_month' o.r.slug month|lower %}">{{ o.r.name }} · {% if o.rating == 2 %}best{% elif o.rating == 1 %}good{% else %}avoid{% endif %}</a>{% endfor %}</div>
+    <h2 class="h-m" style="margin-top:44px">Questions</h2>{% include "yatra/partials/faq.html" with faqs=faqs %}
+  </div>
+</section>
+{% endblock %}
+{% block cta %}{% include "yatra/partials/cta.html" with land=r.slug %}{% endblock %}

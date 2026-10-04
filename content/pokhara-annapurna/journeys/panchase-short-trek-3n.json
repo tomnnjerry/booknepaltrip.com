@@ -1,0 +1,159 @@
+{
+  "slug": "panchase-short-trek-3n",
+  "title": "Panchase Hill Short Trek",
+  "region": "pokhara-annapurna",
+  "kind": "trek",
+  "nights": 3,
+  "themes": [
+    "treks-and-trails",
+    "villages-and-homestays",
+    "spiritual-and-pilgrimage",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "panchase",
+      "nights": 2
+    },
+    {
+      "place": "pokhara",
+      "nights": 1
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 400,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 2517,
+  "meta_description": "Panchase short trek in 3 nights from Pokhara: a boat across Phewa, the Peace Pagoda ridge, village homestays and sunrise from Panchase Danda at 2,517 m.",
+  "summary": "Three nights from Pokhara with no permit queues and no jeep ride to start: row across Phewa Lake, climb past the World Peace Pagoda to Bhumdi, walk the forest ridge to Panchase Bhanjyang, and catch sunrise from Panchase Danda, 2,517 m, before returning by road to Pokhara.",
+  "intro": [
+    "Panchase is the forested hill on the south-west skyline of Pokhara, the one you see behind the Peace Pagoda from the lakeshore. Its name comes from its five small ponds near the summit, and the hill is a pilgrimage place for Hindus and Buddhists, with a Barahi shrine at the top that draws a large fair of pilgrims on Janai Purnima in August. It sits in a protected forest known for orchids and birds.",
+    "This short trek begins at the water's edge in Lakeside, so you walk out of Pokhara rather than drive. Nights are in simple village lodges and homestays among Gurung, Magar and Brahmin families. It is outside the Annapurna Conservation Area, so no ACAP permit is needed, and the highest point is low enough for children and older walkers who are steady on steep forest paths. Days are short enough to leave long afternoons with the families you stay with."
+  ],
+  "story": "The trek begins with oars. A wooden doonga takes you across Phewa to the south shore, where a stone stair climbs through forest to the white World Peace Pagoda on its ridge, built by Japanese Nipponzan-Myohoji monks. Behind the pagoda the crowds vanish. The trail follows the ridge through Rani Ban, the queen's forest, past small farms, buffalo sheds and maize terraces to Bhumdi, a scattered village where families take guests into their homes. The next day you climb through rhododendron and oak to Panchase Bhanjyang, a pass with a few lodges, and at dawn on the third morning walk up to the summit shrine. From there Machhapuchhre, the Annapurnas and Dhaulagiri stand in a single line, and Phewa Lake lies far below like a dropped coin.",
+  "highlights": [
+    "Rowing across Phewa Lake to start the trek from the water",
+    "The World Peace Pagoda on its ridge above Pokhara",
+    "Sunrise from Panchase Danda, 2,517 m, from Dhaulagiri to Lamjung Himal",
+    "Orchids and birds in the Panchase protected forest",
+    "Village homestays in Bhumdi and around Panchase Bhanjyang"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Boat across Phewa, walk to Bhumdi",
+      "place": "panchase",
+      "overnight": "Bhumdi",
+      "alt_m": 1250,
+      "move": "≈ 20 min boat · then ≈ 4–5 h walk · +450 m",
+      "text": "We meet at your Lakeside hotel and walk to the boat station. A doonga crosses Phewa Lake in about 20 minutes to the south shore at Anadu, and a stone path climbs for an hour through forest to the World Peace Pagoda, with the lake and the whole Annapurna range behind you. After tea at the pagoda we follow the ridge west through Rani Ban forest and farming hamlets to Bhumdi. The night is in a village homestay or simple lodge, with dal bhat cooked over the family hearth.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Bhumdi to Panchase Bhanjyang",
+      "place": "panchase",
+      "overnight": "Panchase Bhanjyang",
+      "alt_m": 2030,
+      "move": "≈ 5 h walk · +800 m",
+      "text": "A steady climb on village paths and forest trail. The fields give way to oak, rhododendron and chestnut, and in spring the trees hold epiphytic orchids on their mossy branches. Panchase is home to many orchid species, and a good guide will point them out. We arrive at Panchase Bhanjyang, a saddle with a few lodges and tea shops, in the early afternoon. Clouds usually build by then, so rest and keep the energy for dawn.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Sunrise on Panchase Danda, back to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "≈ 1.5 h climb · then ≈ 3 h walk down · then ≈ 1.5 h drive",
+      "text": "We climb at about 5 am for an hour and a half through forest to the summit of Panchase Danda, 2,517 m, with its temple and small ponds. Sunrise lights Dhaulagiri, Annapurna South, Machhapuchhre and Annapurna II, and on very clear days Manaslu far to the east. After breakfast back at the lodge we walk down to the road at Bhadaure or Kande side, depending on the jeep track, and drive back to Pokhara by mid-afternoon.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 4,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "",
+      "text": "The trip ends after breakfast. This is an easy short trek to put at the start of a longer Nepal journey: it gets your legs used to stairs and your stomach used to dal bhat. Many guests follow it with Chitwan or a few slow days in Pokhara. We can arrange the onward bus or flight. Leave about three hours between a Pokhara flight and any connection in Kathmandu. Bags can wait at the hotel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Boat across Phewa Lake",
+    "2 nights in village lodges or homestays with three meals a day",
+    "1 night in a 3-star hotel in Pokhara Lakeside with breakfast",
+    "Licensed English-speaking guide and one porter for two trekkers",
+    "Jeep or car from the road head back to Pokhara"
+  ],
+  "excludes": [
+    "Travel to and from Pokhara",
+    "Entry donations at temples",
+    "Travel insurance",
+    "Drinks and snacks",
+    "Tips for guide and porter"
+  ],
+  "good_to_know": [
+    "Panchase lies outside the Annapurna Conservation Area, so no ACAP permit is needed.",
+    "Facilities are simple: shared toilets and bucket hot water in some homestays.",
+    "The forest trail is steep and slippery after rain; trekking poles help on the descent.",
+    "Crowds of pilgrims come for Janai Purnima, the August full moon; the date follows the lunar calendar.",
+    "Jeep tracks around Panchase change every season; your guide picks the best exit road on the day."
+  ],
+  "faqs": [
+    {
+      "q": "How hard is the Panchase trek?",
+      "a": "It is an easy to moderate short trek. Days are four to five hours, with one steep forest climb of about 800 m on day two and a long descent on day three. The highest point is 2,517 m, too low for altitude sickness. Anyone who walks regularly and is comfortable on uneven forest paths can do it."
+    },
+    {
+      "q": "Do I need a permit for Panchase?",
+      "a": "No ACAP permit is needed because Panchase is outside the Annapurna Conservation Area. It is a protected forest managed with local communities. You may be asked for a small community or temple donation at the summit. Guide rules for national parks and conservation areas do not apply here, but we include a licensed guide for route-finding and homestay arrangements."
+    },
+    {
+      "q": "What is the meaning of Panchase?",
+      "a": "Panchase means five lakes or five ponds, from the Nepali pancha, five. There are small ponds near the summit around the Panchase Barahi temple, considered sacred. Local people regard the hill as a holy place, and pilgrims climb it for festivals, especially Janai Purnima, the full moon of August, when the summit fills with families and offerings."
+    },
+    {
+      "q": "Can I see the mountains from Panchase?",
+      "a": "Yes. From the summit on a clear morning you see Dhaulagiri, the Annapurna range, Machhapuchhre, Lamjung Himal and, on the clearest days, Manaslu. You also look down on Phewa Lake and Pokhara. Mornings from October to December are clearest; spring is hazier but brings orchids and rhododendrons in the forest."
+    },
+    {
+      "q": "Is Panchase good for birdwatching?",
+      "a": "Yes. The forests of oak, rhododendron and chestnut on Panchase are known among Nepali birders, with laughingthrushes, sunbirds, barbets, minivets and occasionally kalij pheasant. Early mornings on the ridge between Bhumdi and Panchase Bhanjyang are best. Bring binoculars; your guide can arrange a local birding specialist with notice."
+    },
+    {
+      "q": "What are homestays like on the Panchase trek?",
+      "a": "Homestays are family homes with one or two simple guest rooms, clean bedding, and shared bathrooms. Meals are what the family eats: dal bhat with seasonal greens, pickles and sometimes local chicken. Hot water may come in a bucket. Staying with a family is the best part of the trek for many guests, and the income goes straight to the village."
+    },
+    {
+      "q": "Can children do the Panchase trek?",
+      "a": "Children from about seven or eight years old who are used to walking manage it well. The boat ride and the Peace Pagoda make an exciting first morning. Day two's climb is steep, so allow extra time. The altitude is low, and the route is quiet, with homestays that are usually happy to host families."
+    },
+    {
+      "q": "When is the best time for Panchase?",
+      "a": "October to December gives the clearest views, and March and April bring flowering rhododendrons and orchids. January and February are cold at night but clear. The monsoon, June to September, makes the forest trail muddy with leeches and cloud hides the peaks most days, though the forest itself is lush."
+    },
+    {
+      "q": "How much does the Panchase trek cost?",
+      "a": "Our 3-night trek starts from USD 400 per person, twin sharing, including the boat, two nights in village lodges with meals, a night in a Pokhara hotel, a licensed guide, a porter for two and the drive back. Expect to spend a little extra on drinks and temple donations."
+    }
+  ]
+}

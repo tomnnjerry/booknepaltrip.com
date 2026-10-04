@@ -1,0 +1,85 @@
+{
+  "slug": "tamang-heritage-trail-7n",
+  "title": "Tamang Heritage Trail and village homestays",
+  "region": "langtang-manaslu",
+  "kind": "culture",
+  "nights": 7,
+  "themes": ["villages-and-homestays", "treks-and-trails", "food-and-festivals", "photography"],
+  "grade": "Moderate",
+  "stops": [
+    {"place": "syabrubesi", "nights": 2},
+    {"place": "gatlang", "nights": 2},
+    {"place": "briddim", "nights": 3}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 650,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 3165,
+  "meta_description": "Tamang Heritage Trail, 7 nights: Gatlang, Tatopani hot springs, Nagthali meadow, Thuman and Briddim homestays above Syabrubesi, with a licensed guide.",
+  "summary": "Seven nights on the Tamang Heritage Trail west of the Langtang valley: stone villages, hot springs, a high meadow with views to Tibet and homestays in Gatlang and Briddim. Walking days are 3 to 6 hours below 3,200 m, and evenings are spent in family kitchens, not lodge dining rooms.",
+  "intro": [
+    "The Tamang Heritage Trail is a loop through the Tamang villages of upper Rasuwa, close to the Tibetan border at Rasuwagadhi. It was laid out as a community tourism route in the mid-2000s so that villages beside the busy Langtang trail could earn from walkers too. The paths link Gatlang, Tatopani, Thuman and Briddim, with a climb to the meadow of Nagthali at 3,165 m, and come back down to Syabrubesi, so you never retrace your steps.",
+    "This is a trek about people more than peaks. You sleep in homestays and small lodges, eat what the family eats, and may be invited to a Tamang Selo song evening with the damphu drum. The views are real too: Langtang Lirung, Ganesh Himal and the snow peaks over the border into Tibet. The trail lies in and around Langtang National Park, so you walk with a licensed guide; check current status before you travel."
+  ],
+  "story": "Start in Syabrubesi, a roadside town on the trade route to Kerung. Climb west to Gatlang, a tight village of stone and timber houses with carved windows, where Tamang women weave on back-strap looms and Parvati Kunda lies in the forest above. Next comes Tatopani, where the hot springs draw villagers who soak away the aches of a harvest. From there the trail rises to the open grass of Nagthali, where herders summer their animals and the mountains of Tibet show white to the north. Down at Thuman and Briddim, the gompas are small, the mani walls long and the welcome slow and generous. You leave having eaten in four kitchens and learned a greeting: fyafulla.",
+  "highlights": [
+    "Gatlang's stone houses, carved wooden windows and the lake of Parvati Kunda",
+    "A soak in the natural hot springs at Tatopani",
+    "Nagthali meadow (3,165 m) with views to Langtang Lirung, Ganesh Himal and Tibet",
+    "Two nights of homestay in Briddim, a Tibetan Buddhist Tamang village",
+    "Home cooking, Tamang Selo songs and the damphu drum on village evenings"
+  ],
+  "days": [
+    {"day": 1, "title": "Drive from Kathmandu to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "alt_m": 1460,
+     "move": "≈ 122 km · 7–8 h drive", "text": "A private jeep takes you north over the Kakani ridge, down to Trishuli Bazaar and up the Pasang Lhamu Highway through Betrawati and Dhunche, where your guide shows the Langtang National Park permit and TIMS card. Syabrubesi sits at the meeting of the Bhote Koshi and Langtang Khola, a town of lodges and truck stops on the road to the Rasuwagadhi border crossing. Dinner tonight is a good time to learn your first Tamang words from your guide and the lodge family.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Climb to the stone village of Gatlang", "place": "gatlang", "overnight": "Gatlang", "alt_m": 2240,
+     "move": "≈ 5–6 h walk · +780 m", "text": "The trail climbs west out of Syabrubesi through terraces and pine forest to the Goljung area, then contours along the hillside to Gatlang. The village is one of the best preserved in the region, with stone houses, carved wooden windows and narrow lanes leading to a small gompa. In the late afternoon women sit outside weaving, and children bring the animals in. Your homestay family cooks dinner over the fire. If there is time, walk up to Parvati Kunda, a small lake in the forest above.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Down to the hot springs at Tatopani", "place": "", "overnight": "Tatopani", "alt_m": 2607,
+     "move": "≈ 5–6 h walk · ups and downs", "text": "Leave Gatlang and walk down past the Chilime river and hydropower area, then up through farmland and forest to Tatopani, whose name simply means hot water. Natural hot springs feed concrete bathing spouts and pools where villagers come to soak, especially in winter. A long bath after the walk is the obvious plan, then dinner in one of the small lodges. People here, as across the trail, are Tamang, and the village gompa is worth a visit with your guide.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Nagthali meadow and down to Thuman", "place": "", "overnight": "Thuman", "alt_m": 2338,
+     "move": "≈ 6 h walk · +560 m / −830 m", "text": "Climb through forest to Nagthali, an open meadow at 3,165 m where herders graze their animals in summer and a few lodges serve tea. The view is the best on the trail: Langtang Lirung to the east, Ganesh Himal to the west and the snow peaks across the border in Tibet. After a picnic or tea, descend through forest to Thuman, a large Tamang village of stone houses above the Bhote Koshi. In the evening, ask whether the young people are singing; Tamang Selo is a local pride.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Across the valley to Briddim", "place": "briddim", "overnight": "Briddim", "alt_m": 2229,
+     "move": "≈ 6 h walk · −700 m / +600 m", "text": "Descend toward the Bhote Koshi near Timure, close to the border crossing at Rasuwagadhi, where trucks carry goods to and from Kerung in Tibet. Cross the river and climb through farmland to Briddim, a Tibetan Buddhist village with a community homestay scheme in which families take turns to host guests. Houses are built of stone, with prayer flags on the roofs and a gompa above the village. Tonight your host family will cook, and you are welcome in the kitchen.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "A day in Briddim village", "place": "briddim", "overnight": "Briddim", "alt_m": 2229,
+     "move": "Short walks", "text": "No packing today. Spend the morning at the village gompa, then help in the fields or kitchen if your hosts are happy to have you: depending on the season that might mean digging potatoes, threshing barley or rolling buckwheat dough. Your guide can arrange a short walk above the village for views up the Langtang valley. In the evening the community sometimes gathers for songs and dances for visitors, and this is a good night to try local food you have not yet tasted.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Walk down to Syabrubesi", "place": "syabrubesi", "overnight": "Syabrubesi", "alt_m": 1460,
+     "move": "≈ 3 h walk · −770 m", "text": "A short morning descent through terraces and forest brings you back to Syabrubesi by lunch. Say goodbye to your host family before you go; a small gift from home or a photograph sent later means a great deal. The afternoon is free to rest, wash clothes and settle tips with your guide and porter. If you have energy, walk to the confluence of the Bhote Koshi and Langtang Khola, the starting point for the Langtang Valley trek.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "≈ 122 km · 7–8 h drive", "text": "An early drive back along the Pasang Lhamu Highway via Dhunche and Trishuli, with tea stops on the way. Landslides and road works can slow this road in any season, so we leave a full day. We drop you at your Kathmandu hotel in the late afternoon, where the trip ends. If you are flying out, book a flight for the following day at the earliest, since a late arrival from Rasuwa is common and evening flights are a gamble.", "meals": "Breakfast, Lunch"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private jeep Kathmandu–Syabrubesi–Kathmandu",
+    "Licensed trekking guide and one porter for every two trekkers, with their wages, food, insurance and lodging",
+    "Langtang National Park entry permit and TIMS card",
+    "Seven nights in homestays and village lodges, twin sharing where possible, with three meals a day",
+    "Village contribution for the Briddim cultural evening when it is held"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before and after the trek",
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking and helicopter evacuation",
+    "Hot showers, battery charging and drinks",
+    "Tips for guide, porter, driver and host families"
+  ],
+  "good_to_know": [
+    "Foreign trekkers in national parks must trek with a licensed guide under rules in force since April 2023; check current status before you travel.",
+    "Homestay rooms are simple and sometimes shared; toilets are usually outside and squat style.",
+    "The trail is close to the Tibet border; carry your passport for checkposts.",
+    "Dress modestly in villages and ask before photographing people or the inside of a gompa.",
+    "Fees for the Langtang National Park and TIMS change; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "What is the Tamang Heritage Trail?", "a": "It is a community trekking route in Rasuwa district, west of the Langtang valley, linking Tamang villages including Gatlang, Tatopani, Thuman and Briddim. It was developed from the mid-2000s so that local families could host walkers in homestays and small lodges. The focus is village life, food and Tamang culture, with mountain views from Nagthali meadow."},
+    {"q": "How difficult is the Tamang Heritage Trail?", "a": "It is a moderate trek. Days are 3 to 6 hours with real climbs and descents, but the highest point is Nagthali at 3,165 m, so altitude sickness is rare. Trails are village paths and can be steep and stony. Anyone fit enough for a long day of hill walking at home will manage, including active older walkers."},
+    {"q": "Can the Tamang Heritage Trail be combined with Langtang Valley?", "a": "Yes, and many people do. After Briddim, instead of walking down to Syabrubesi, a forest trail from Briddim links across to the Langtang trail near Rimche and Lama Hotel, and you continue up to Kyanjin Gompa. That makes a 12 to 14 night trip. Ask us to plan the combined route."},
+    {"q": "What is a homestay like in Briddim?", "a": "You stay in a family home, usually in a simple room with two beds, blankets and a window. Toilets are separate and often squat style. Meals are cooked by the family and eaten in or near the kitchen. Families in Briddim take turns hosting under a community scheme, so the income is shared. Bring a sleeping bag liner and a small torch."},
+    {"q": "What will I eat on the Tamang Heritage Trail?", "a": "Home cooking. Expect dal bhat, buckwheat or millet dhido, potatoes in many forms, gundruk soup made from fermented greens, eggs, seasonal vegetables and Tibetan bread. In some homes you will be offered butter tea or local millet beer. Tell your guide about any dietary needs before the trek so families can plan."},
+    {"q": "Are there hot springs on the Tamang Heritage Trail?", "a": "Yes, at Tatopani, which means hot water in Nepali. Natural hot springs feed bathing spouts and pools used by villagers. Visitors are welcome to bathe; wear swimwear or a sarong, keep soap out of the pools and be respectful of local bathers. Winter evenings at the springs are especially popular with people from surrounding villages."},
+    {"q": "Do I need a permit for the Tamang Heritage Trail?", "a": "Yes. The trail is within or beside Langtang National Park and its buffer zone, so you need the park entry permit, about NPR 3,000 for foreigners, and a TIMS card. Your passport is also checked near the Tibet border. We arrange everything in Kathmandu; check current status before you travel."},
+    {"q": "Is the Tamang Heritage Trail good for families?", "a": "Yes, for active families with children of about ten or older. Altitudes are modest, days can be shortened and homestays give children a real taste of village life, from feeding animals to helping in the kitchen. The long drive from Kathmandu is the hardest part for younger children. We can add rest days."},
+    {"q": "When is the best time for the Tamang Heritage Trail?", "a": "March to April and October to November are best, with clear views and dry trails. December to February is cold but bright and quiet, and the Tatopani hot springs are at their busiest. The monsoon from June to September brings rain, leeches and frequent landslides on the road from Kathmandu, so we do not recommend it."}
+  ]
+}

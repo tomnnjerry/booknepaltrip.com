@@ -1,0 +1,176 @@
+{
+  "slug": "lumbini-meditation-retreat-5n",
+  "title": "Lumbini Meditation Retreat",
+  "region": "lumbini",
+  "kind": "pilgrimage",
+  "nights": 5,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "slow-and-wellness"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "lumbini",
+      "nights": 5
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 950,
+  "best_months": [
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1400,
+  "meta_description": "Lumbini meditation retreat, 5 nights: dawn sits in the Sacred Garden, walking meditation, monastery chanting and daily guidance from a teacher.",
+  "summary": "Five quiet nights at the birthplace of the Buddha, built around practice rather than sightseeing. Dawn sits in the Sacred Garden, walking meditation along the canal, evening chanting with resident monks, simple vegetarian food and two daily sessions with an experienced meditation teacher. Suitable for beginners and for people with an established practice.",
+  "intro": [
+    "Lumbini is one of the few places in Nepal where silence is easy to find. The planned zone is wide and green, cars are kept out of the Sacred Garden, and from before sunrise the sound is birds, bells and chanting in many languages. It is a natural place to sit. This retreat gives you five days to do just that, with structure and support but without the strict rules of a formal residential course.",
+    "Each day follows the same rhythm: a dawn sit in the Sacred Garden, breakfast, a morning session with your teacher, rest through the heat, walking meditation in the late afternoon, and evening chanting at one of the monasteries. You stay at the Lumbini Hokke Hotel, a short ride from the garden, with vegetarian breakfast and dinner. If you later want a full ten-day silent course, Lumbini has centres that offer them; we tell you how to apply."
+  ],
+  "story": "The first evening you sit under the bodhi tree beside the pond and notice how loud your own mind is against the quiet of the garden. By the second morning the routine has taken hold: up before five, a bicycle ride through the dark, a cushion on the brick path facing the Maya Devi Temple as the sky goes grey and then gold. Sri Lankan pilgrims in white chant the Pali refuges; a Tibetan monk circles the temple with his beads. Afternoons are long and still. Evenings belong to the monasteries, to a Thai monk's chanting or Tibetan horns at dusk. By the last dawn the place feels less like a monument and more like somewhere you have lived.",
+  "highlights": [
+    "Five dawn sits in the Sacred Garden, the quietest hour at the birthplace",
+    "Two sessions a day with an experienced meditation teacher, in English",
+    "Walking meditation along the central canal to the World Peace Pagoda",
+    "Evening chanting with resident monks at different monasteries",
+    "Simple vegetarian meals and time to rest, read and journal"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Lumbini, first evening sit",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 35 min flight · then ≈ 22 km · 40 min drive",
+      "text": "Fly from Kathmandu to Gautam Buddha International Airport at Bhairahawa and drive to the Lumbini Hokke Hotel. After lunch and a rest, meet your teacher for an introduction: posture, breath, how the days will run and what to do when your knees or mind complain. In the late afternoon walk into the Sacred Garden, see the Maya Devi Temple and the Ashoka pillar, and sit for 30 minutes under the bodhi tree as the light fades.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Dawn sit and breath practice",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 3 km by bicycle or e-rickshaw",
+      "text": "Rise at about 5 am and ride to the Sacred Garden for a 45-minute sit as it opens and fills with pilgrims. After breakfast, a 90-minute session with your teacher on attention to the breath, with practical questions answered. Rest, read or sleep through the heat. In the late afternoon, practise walking meditation along a quiet stretch of the central canal. Evening chanting at the Royal Thai Monastery or another Theravada temple in the East zone.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Walking practice to the Peace Pagoda",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 5 km walk, slow",
+      "text": "Dawn sit in the Sacred Garden, then breakfast. Your teacher leads a session on walking meditation and on bringing attention into ordinary movement. In the late afternoon walk, slowly and mostly in silence, along the canal from the Eternal Peace Flame to the World Peace Pagoda, about 3 km, and sit there at sunset. Return by e-rickshaw. Your guide stays nearby for practical needs but keeps conversation to a minimum.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Monasteries of the West zone",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 6 km by bicycle or e-rickshaw",
+      "text": "Dawn sit, breakfast and a morning session on loving-kindness practice, metta in Pali, which many beginners find a gentle counterpoint to breath work. In the afternoon visit some of the Mahayana and Vajrayana monasteries of the West zone, among them the Chinese monastery and the Great Drigung Kagyud Lotus Stupa, sitting quietly in each shrine room where visitors are welcome. Evening chanting at a Tibetan or Mahayana temple, depending on the day.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "A longer sit and a day of quiet",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 3 km by bicycle or e-rickshaw",
+      "text": "Today is mostly silent. After the dawn sit, your teacher leads a longer morning session of alternating sitting and walking, about three hours with breaks. The afternoon is yours to rest, journal or return to the garden. In the evening, a final conversation with your teacher about keeping a practice going at home: realistic routines, short daily sits, and where to find a teacher or a longer course in your own country.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Last dawn in the garden, fly to Kathmandu",
+      "place": "lumbini",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 22 km · 40 min drive · then ≈ 35 min flight",
+      "text": "A final dawn sit in the Sacred Garden, where you began. After breakfast, drive to Bhairahawa for the flight to Kathmandu. Many guests tell us the noise of the city comes as a shock after five days in Lumbini, so we suggest a quiet hotel and an easy evening. If you would like to continue to Boudhanath or to a Kathmandu monastery course, we can arrange it. Your teacher will give you a short daily routine to take home, and a list of sitting groups and centres you can contact.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "lumbini-hokke-hotel"
+  ],
+  "includes": [
+    "Return economy flights Kathmandu–Bhairahawa",
+    "5 nights at Lumbini Hokke Hotel, twin sharing, with vegetarian breakfast and dinner",
+    "Two guided meditation sessions a day with an experienced English-speaking teacher",
+    "Licensed local guide and bicycle or e-rickshaw for all movement in Lumbini",
+    "Airport transfers at Bhairahawa",
+    "Sacred Garden entry"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Lunches",
+    "Donations to monasteries and teacher dana, which is welcome but not expected",
+    "Tips for guide and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "This is a guided retreat, not a formal silent course; you can talk, read and use your phone, though we encourage limits.",
+    "Single rooms are available at a supplement, and many guests on this trip prefer them.",
+    "We run this retreat from October to March only; Lumbini is too hot for long outdoor sits from April to September.",
+    "Bring a light shawl for dawn sits in December and January, when it can be 7–8 °C.",
+    "Lumbini has meditation centres that run ten-day residential courses; apply directly to them and check current status before you travel."
+  ],
+  "faqs": [
+    {
+      "q": "Do I need meditation experience for this retreat?",
+      "a": "No. The first session covers posture and breath from the beginning, and the teacher adapts to the group or to you alone if you travel privately. People with an established practice also come, mainly for the place and the dawn sits. Tell us your experience when booking and we match the teacher and the length of sessions to it."
+    },
+    {
+      "q": "What tradition is the teaching from?",
+      "a": "The core practices are breath awareness, walking meditation and loving-kindness, common to the Theravada tradition and widely taught across Buddhist schools. The teacher is an experienced practitioner who teaches in English. The monastery visits introduce you to Theravada, Mahayana and Vajrayana chanting so you can feel the differences for yourself."
+    },
+    {
+      "q": "Is this a silent retreat?",
+      "a": "Not formally. You can speak and use your phone, but most of the day is quiet by design and day five is mostly silent. If you want strict silence, a fixed schedule and residential living, Lumbini has meditation centres offering ten-day residential courses; you apply directly to them, and they fill early in winter."
+    },
+    {
+      "q": "Can I meditate in the Sacred Garden?",
+      "a": "Yes. Visitors sit quietly in the garden, under the bodhi tree beside the Puskarini pond and along the brick paths, and pilgrim groups chant there daily. Sit where you do not block walkways, keep phones silent and avoid sitting with your feet pointed at the temple or at monks. The garden opens early and is quietest at dawn."
+    },
+    {
+      "q": "Where is the Lumbini Hokke Hotel?",
+      "a": "It is in the Lumbini development area, a short bicycle or e-rickshaw ride from the Sacred Garden, and was built with Japanese pilgrims in mind. Rooms are simple and quiet, which suits a retreat. We have chosen it for its calm rather than for facilities; your teacher's sessions are held in a quiet space nearby."
+    },
+    {
+      "q": "Why is the retreat only offered in winter?",
+      "a": "Because from April to September Lumbini is hot and humid, with afternoon temperatures often above 38 °C before the monsoon and heavy rain during it. Long sits outdoors are uncomfortable or impossible. From October to March the mornings are cool, the days warm and dry, and the garden is at its most pleasant."
+    },
+    {
+      "q": "What should I bring?",
+      "a": "Loose, modest clothes in light colours, a shawl or fleece for cold dawns, slip-on shoes, a small cushion or folding seat if you have a favourite, a water bottle, a hat and a notebook. Insect repellent is useful at dusk. Everything else, including mats and cushions for the sessions, we provide."
+    },
+    {
+      "q": "Is the food vegetarian?",
+      "a": "Yes. Breakfast and dinner on this trip are vegetarian, and Lumbini's monastery-area restaurants make it easy to eat vegetarian at lunch too. Dal bhat, vegetable curries and fresh fruit are the staples. We can arrange vegan or no-onion, no-garlic meals with notice; tell us about allergies and needs when you book."
+    },
+    {
+      "q": "Can I extend the retreat?",
+      "a": "Yes. You can add nights in Lumbini at the same daily rhythm, or join a formal course at one of the meditation centres afterwards if they have space. Some guests continue to Boudhanath in Kathmandu for teachings in the Tibetan tradition. Tell us what you have in mind and we will re-quote."
+    }
+  ]
+}

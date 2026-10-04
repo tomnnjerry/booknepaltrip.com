@@ -1,0 +1,35 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ d.title }} · Book Nepal Trip Stories{% endblock %}
+{% block description %}{{ d.meta_description }}{% endblock %}
+{% block og_image %}{% with i=d|first_img %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %}{% if d.land %} data-land="{{ d.land }}"{% endif %}{% endblock %}
+{% block content %}
+<header class="phead phead--paper">{% contours d.slug 10 %}<div class="wrap phead__grid">
+  <div><div class="chips" style="margin-bottom:14px"><a class="chip" href="{% url 'journal_cat' d.cat_slug %}">{{ d.category }}</a>{% for r in d.region_objs %}<a class="chip" href="{{ r.url }}">{% icon r.icon %}{{ r.name }}</a>{% endfor %}<span class="chip">{{ d.read_min }} min read</span></div>
+  <h1 class="h-xl">{{ d.title }}</h1><p class="small muted">By {{ SITE.byline }} · {{ d.date_obj|date:"j F Y" }}</p><p class="lede">{{ d.summary }}</p></div>
+  <div>{% photo d.images|first d.title "photo--32" "(max-width: 1020px) 100vw, 45vw" True %}</div></div></header>
+<div class="dhaka{% if d.land %} dhaka--land{% endif %}"></div>
+{% if d.key_takeaways %}<section class="sec--tight"><div class="wrap"><div class="panel panel--leaf"><p class="eyebrow">In short</p><ul class="tips">{% for k in d.key_takeaways %}<li>{{ k }}</li>{% endfor %}</ul></div></div></section>{% endif %}
+
+<section class="sec--tight"><div class="wrap split">
+  <article>
+    {% for s in d.sections %}<section id="{{ s.anchor }}" style="scroll-margin-top:100px;margin-bottom:34px">
+      <h2 class="h-m">{{ s.heading }}</h2>
+      <div class="prose read">{% for para in s.paras %}<p{% if forloop.parentloop.first and forloop.first %} class="drop"{% endif %}>{{ para }}</p>{% endfor %}{% if s.list %}<ul>{% for x in s.list %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}</div>
+      {% if s.table %}<div class="table-wrap"><table><thead><tr>{% for h in s.table.head %}<th scope="col">{{ h }}</th>{% endfor %}</tr></thead><tbody>{% for row in s.table.rows %}<tr>{% for c in row %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endif %}
+      {% if s.link_objs %}<div class="chips">{% for l in s.link_objs %}<a class="chip" href="{{ l.url }}">{% icon "arrow" %}{{ l.title }}</a>{% endfor %}</div>{% endif %}
+      {% if forloop.counter == 3 %}<div class="mid-cta"><span class="pennant pennant--sm">{% icon "pennant" %}</span><div><b>{% if d.cta.title %}{{ d.cta.title }}{% else %}Turn this into a plan{% endif %}</b><p>{% if d.cta.text %}{{ d.cta.text }}{% else %}A planner can turn what you are reading into days, nights and a price.{% endif %}</p></div><a class="btn btn--foil" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if d.land %}&land={{ d.land }}{% endif %}" data-cta="article-mid">Ask a planner</a></div>{% endif %}
+    </section>{% endfor %}
+    <section id="faq-h"><h2 class="h-m">Questions</h2>{% include "yatra/partials/faq.html" with faqs=d.faqs %}</section>
+  </article>
+  <aside class="split__aside">
+    <nav class="panel" aria-label="Contents"><p class="eyebrow">In this piece</p><div class="toc-side">{% for s in d.sections %}<a href="#{{ s.anchor }}">{{ s.heading }}</a>{% endfor %}<a href="#faq-h">Questions</a></div></nav>
+    {% include "yatra/partials/quick_form.html" with land=d.land qf_source="post" qf_title="Plan a trip from this story" %}
+  </aside>
+</div></section>
+
+{% if d.journey_objs %}<section class="sec sec--paper2"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Trips from this story</p><h2 class="h-l">Start from a route</h2></div></div><div class="grid grid--3">{% for j in d.journey_objs %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if d.place_objs %}<section class="sec"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Places in this story</p><h2 class="h-l">Go deeper</h2></div></div><div class="grid grid--4">{% for p in d.place_objs %}{% include "yatra/partials/card_place.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if more %}<section class="sec sec--paper2"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Keep reading</p><h2 class="h-l">More stories</h2></div><a class="link-arrow" href="{% url 'journal' %}">Every story {% icon "arrow" %}</a></div><div class="grid grid--3">{% for d in more %}{% include "yatra/partials/card_post.html" %}{% endfor %}</div></div></section>{% endif %}
+{% include "yatra/partials/nudge.html" %}
+{% endblock %}

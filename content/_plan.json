@@ -1,0 +1,31 @@
+{
+  "regions": [
+    {"slug": "kathmandu-valley", "name": "Kathmandu Valley",
+     "places": ["kathmandu", "patan", "bhaktapur", "boudhanath", "swayambhunath", "pashupatinath", "kirtipur", "bungamati", "changunarayan", "panauti", "nagarkot", "dhulikhel", "pharping"],
+     "stays": {"dwarikas-hotel-kathmandu": ["Dwarika's Hotel", "kathmandu"], "hotel-yak-and-yeti": ["Hotel Yak & Yeti", "kathmandu"], "hotel-shanker-kathmandu": ["Hotel Shanker", "kathmandu"], "kathmandu-guest-house": ["Kathmandu Guest House", "kathmandu"], "hyatt-regency-kathmandu": ["Hyatt Regency Kathmandu", "boudhanath"], "gokarna-forest-resort": ["Gokarna Forest Resort", "kathmandu"], "club-himalaya-nagarkot": ["Club Himalaya", "nagarkot"], "dwarikas-resort-dhulikhel": ["Dwarika's Resort Dhulikhel", "dhulikhel"]}},
+    {"slug": "pokhara-annapurna", "name": "Pokhara & the Annapurnas",
+     "places": ["pokhara", "sarangkot", "begnas-lake", "panchase", "dhampus", "ghandruk", "ghorepani-poon-hill", "annapurna-base-camp", "mardi-himal", "manang", "bandipur", "gorkha"],
+     "stays": {"fish-tail-lodge": ["Fish Tail Lodge", "pokhara"], "temple-tree-resort": ["Temple Tree Resort & Spa", "pokhara"], "the-pavilions-himalayas": ["The Pavilions Himalayas", "pokhara"], "tiger-mountain-pokhara-lodge": ["Tiger Mountain Pokhara Lodge", "pokhara"], "hotel-barahi-pokhara": ["Hotel Barahi", "pokhara"], "the-old-inn-bandipur": ["The Old Inn", "bandipur"]}},
+    {"slug": "everest-khumbu", "name": "Everest & Solukhumbu",
+     "places": ["lukla", "namche-bazaar", "khumjung", "thame", "tengboche", "pangboche", "dingboche", "chhukung", "everest-base-camp", "gokyo", "phaplu", "junbesi"],
+     "stays": {"yeti-mountain-home-lukla": ["Yeti Mountain Home Lukla", "lukla"], "yeti-mountain-home-namche": ["Yeti Mountain Home Namche", "namche-bazaar"], "yeti-mountain-home-thame": ["Yeti Mountain Home Thame", "thame"], "hotel-everest-view": ["Hotel Everest View", "khumjung"], "everest-summit-lodge-pangboche": ["Everest Summit Lodge Pangboche", "pangboche"]}},
+    {"slug": "chitwan-terai", "name": "Chitwan & the Terai",
+     "places": ["sauraha", "kasara", "meghauli", "barauli", "amaltari", "bishazari-tal", "devghat", "parsa-national-park", "simraungadh", "janakpur", "dhanusha-dham", "koshi-tappu"],
+     "stays": {"meghauli-serai": ["Meghauli Serai, A Taj Safari", "meghauli"], "barahi-jungle-lodge": ["Barahi Jungle Lodge", "meghauli"], "tiger-tops-tharu-lodge": ["Tiger Tops Tharu Lodge", "amaltari"], "kasara-resort": ["Kasara Resort", "kasara"], "green-park-chitwan": ["Green Park Chitwan", "sauraha"]}},
+    {"slug": "lumbini", "name": "Lumbini & the Buddha's Country",
+     "places": ["lumbini", "tilaurakot", "kudan", "gotihawa", "niglihawa", "ramagrama", "devdaha", "tansen", "rani-mahal", "ridi", "resunga", "swargadwari"],
+     "stays": {"buddha-maya-garden-hotel": ["Buddha Maya Garden Hotel", "lumbini"], "lumbini-hokke-hotel": ["Lumbini Hokke Hotel", "lumbini"], "hotel-srinagar-tansen": ["Hotel Srinagar", "tansen"]}},
+    {"slug": "mustang-dolpo", "name": "Mustang & Dolpo",
+     "places": ["jomsom", "marpha", "tukuche", "kagbeni", "muktinath", "lubra", "tsarang", "ghami", "lo-manthang", "chhoser", "shey-phoksundo", "dho-tarap"],
+     "stays": {"shinta-mani-mustang": ["Shinta Mani Mustang", "jomsom"], "oms-home-jomsom": ["Om's Home", "jomsom"], "red-house-lodge-kagbeni": ["Red House Lodge", "kagbeni"]}},
+    {"slug": "langtang-manaslu", "name": "Langtang & Manaslu",
+     "places": ["nuwakot", "syabrubesi", "langtang-village", "kyanjin-gompa", "gosaikunda", "helambu", "chisapani", "gatlang", "briddim", "samagaon", "tsum-valley", "bhimthang"],
+     "stays": {"the-famous-farm-nuwakot": ["The Famous Farm", "nuwakot"]}},
+    {"slug": "eastern-nepal", "name": "Eastern Nepal",
+     "places": ["ilam", "kanyam", "sandakpur", "pathibhara", "ghunsa", "pang-pema", "makalu-base-camp", "tumlingtar", "chainpur", "dhankuta", "hile", "bhedetar"],
+     "stays": {}},
+    {"slug": "far-west", "name": "Far West & Karnali",
+     "places": ["bardia", "shuklaphanta", "ghodaghodi-tal", "rara-lake", "jumla", "sinja-valley", "dullu", "khaptad", "ramaroshan", "badimalika", "simikot", "limi-valley"],
+     "stays": {"tiger-tops-karnali-lodge": ["Tiger Tops Karnali Lodge", "bardia"]}}
+  ]
+}

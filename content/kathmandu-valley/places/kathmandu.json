@@ -1,0 +1,353 @@
+{
+  "slug": "kathmandu",
+  "name": "Kathmandu",
+  "name_ne": "काठमाडौं",
+  "local_name": "Yen (Nepal Bhasa)",
+  "region": "kathmandu-valley",
+  "kind": "city",
+  "wiki": "Kathmandu",
+  "image_query": "Kathmandu Durbar Square temples",
+  "lat": 27.7045,
+  "lng": 85.307,
+  "altitude_m": 1400,
+  "tagline": "Yen of the Newars: a capital built round one wooden pavilion",
+  "meta_description": "Kathmandu with locals: Durbar Square, the Kumari, Asan and Indra Chowk markets, Newar food, Shivapuri hikes, where to stay and how many days to give it.",
+  "summary": "Kathmandu is Nepal's capital and the oldest of the valley's three royal cities, known to Newars as Yen. Spend two to three days: one in the Durbar Square and old bazaars, one for the stupas and Pashupatinath, and an evening eating Newar snacks in Asan and Indra Chowk.",
+  "intro": [
+    "Most people meet Kathmandu through Thamel's lanes of trekking shops. Walk fifteen minutes south and you are in the older city the Newars call Yen: brick houses leaning over narrow streets, shrines at every junction, and markets that have traded salt, spices, cloth and copper pots for centuries. The route from Thamel through Asan and Indra Chowk to the Durbar Square is the old trade road to Tibet, and it still carries porters with loads on their heads.",
+    "The Durbar Square, called Hanuman Dhoka after the Hanuman statue at the palace gate, was the seat of the Malla and then Shah kings until the 19th century. Around it stand the house of the Kumari, the living goddess, and the rebuilt Kasthamandap pavilion that gave the city its name. Many temples here fell or cracked in 2015; most are now restored, and a few still stand in props.",
+    "Modern Kathmandu sprawls far past the old core, with crowded ring roads and new concrete. But the city still keeps Newar rhythms. Its festival calendar, from Indra Jatra in September to Seto Machhindranath's chariot in spring, still closes streets. Its guthis still feed gods and maintain rest houses, and its khaja ghars still serve chhoyla and bara to office workers at four in the afternoon."
+  ],
+  "story": {
+    "title": "A trading city on the road to Lhasa",
+    "paras": [
+      "Kathmandu grew where the old trade route from India to Tibet crossed the valley. Licchavi-era settlements stood here by the first millennium CE, and in the Malla period the town known as Kantipur became one of three rival royal capitals. Newar merchants from its tols ran trading houses in Lhasa for generations, bringing back wool, salt and musk, and paying for temples, rest houses and spouts at home.",
+      "The great builder was Pratap Malla, who ruled in the mid-17th century. He added to the palace, set his multilingual inscription in its wall, built the steps and shrines at Swayambhu and dug Rani Pokhari, the Queen's Pond, in memory of a son. A century later, Jaya Prakash Malla built the Kumari Ghar in 1757. He lost his city to Prithvi Narayan Shah in 1768, during Indra Jatra, when the Gorkha king took the throne as the festival went on.",
+      "Under the Shah kings and Rana prime ministers, Kathmandu became the capital of a unified Nepal and spread east with palaces and parade grounds. Tourism arrived after 1951, with the hippie years on Freak Street and then the trekkers in Thamel. The 2015 earthquake damaged the Durbar Square heavily. Rebuilding has been slow and argued over in places, but Kasthamandap stands again, built with traditional timber and brick and community labour."
+    ]
+  },
+  "legend": "Local legend says Kasthamandap was built from a single tree. The wish-fulfilling tree, Kalpavriksha, came down in human form to watch the Rato Machhindranath chariot festival. A tantric priest recognised him and held him with mantras until he agreed to a ransom: one sal tree. From that one trunk the people built a three-storey pavilion, Kasthamandap, the wooden shelter, and the city around it came to be called Kathmandu.",
+  "people": "The old core is Newar: Shakya and Bajracharya Buddhist families around the bahals, Hindu merchant and farming families in the tols, and craft castes of metalworkers, painters and potters. Around them, Kathmandu has become home to people from every part of Nepal, Brahmin, Chhetri, Tamang, Gurung, Magar, Rai, Sherpa and Madhesi, plus Tibetan refugees and a large Indian business community. Nepali is the shared street language.",
+  "untold": [
+    {
+      "fact": "The Kumari of Kathmandu is chosen from girls of the Newar Shakya clan. While she holds the role, her feet are not supposed to touch the ground outside her house, so she is carried or travels by chariot during festivals.",
+      "source": "Wikipedia: Kumari (goddess)"
+    },
+    {
+      "fact": "At Budhanilkantha, on the northern edge of the city, a 5 m long stone Vishnu lies on a bed of coiled serpents in a pond. By tradition, Nepal's kings never went to see it, following a prophecy that a king who did would die.",
+      "source": "Wikipedia: Budhanilkantha Temple"
+    },
+    {
+      "fact": "Jhochhen tole, just south of the Durbar Square, became Freak Street in the late 1960s, when overland travellers on the hippie trail stayed in its lodges. Hashish was then sold legally in government-licensed shops, until Nepal banned cannabis in the 1970s.",
+      "source": "Wikipedia: Old Freak Street"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Yen",
+      "script": "यें",
+      "lang": "Nepal Bhasa",
+      "meaning": "Kathmandu, the Newar name for the city"
+    },
+    {
+      "word": "Bahal",
+      "script": "बहाल",
+      "lang": "Nepal Bhasa",
+      "meaning": "Buddhist monastery courtyard, often hidden behind a narrow passage"
+    },
+    {
+      "word": "Khaja ghar",
+      "script": "खाजा घर",
+      "lang": "Nepali",
+      "meaning": "Small snack house serving afternoon khaja, tea and momo"
+    }
+  ],
+  "taste": {
+    "name": "Momo",
+    "text": "Steamed dumplings of buffalo, chicken or vegetables with a tomato and sesame achar, sold in tiny shops from breakfast to late evening. Order jhol momo, served in a sour, spiced soup, at small places round Asan, Indra Chowk and New Road rather than in Thamel's restaurants."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Nov, Mar – Apr"
+    ],
+    [
+      "Days we suggest",
+      "2 – 3"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 6 km"
+    ],
+    [
+      "From Kathmandu",
+      "You are here"
+    ],
+    [
+      "Altitude",
+      "1,400 m"
+    ],
+    [
+      "Known for",
+      "Durbar Square, the Kumari, old bazaars, Newar food"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    0,
+    1,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "2–3",
+  "highlights": [
+    {
+      "title": "Hanuman Dhoka Durbar Square",
+      "text": "The old royal palace square of the Malla and Shah kings, with the Kumari Ghar, the rebuilt Kasthamandap, the tall Taleju temple and the Kal Bhairav image. Go at 7 am when locals do puja, then again in late afternoon light."
+    },
+    {
+      "title": "Asan and Indra Chowk",
+      "text": "The old Tibet trade road through the heart of the city. Spice sellers, copper pots, bead stalls and the gilded Annapurna temple at Asan, then Akash Bhairav's shrine at Indra Chowk. Busiest from 8 to 11 am."
+    },
+    {
+      "title": "Seto Machhindranath at Jana Bahal",
+      "text": "A courtyard shrine off Kel Tole where Buddhists and Hindus both worship the white Karunamaya. Pigeons, butter lamps, a steady stream of neighbours, and carved struts worth a long look."
+    },
+    {
+      "title": "Garden of Dreams",
+      "text": "A restored 1920s Rana garden at the edge of Thamel, with pavilions, pools and lawns. A quiet place to read for an hour when the traffic gets too much. A small entry fee is charged."
+    },
+    {
+      "title": "Budhanilkantha and Shivapuri",
+      "text": "On the northern edge, the 5 m sleeping Vishnu lies in a temple pond, and behind it the forest of Shivapuri Nagarjun National Park climbs to 2,732 m. Combine both in one long morning."
+    },
+    {
+      "title": "Itum Bahal and the old courtyards",
+      "text": "Behind small doorways near Kel Tole lie Buddhist courtyards like Itum Bahal, among the largest in the old city, with chaityas, children playing and elders on the steps. Walk slowly and quietly."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Air",
+      "text": "Tribhuvan International Airport (KTM) is 6 km east of Thamel and the Durbar Square. Pre-paid taxis from the arrivals hall take 20 to 45 minutes depending on traffic. Domestic flights to Pokhara, Lukla, Bharatpur and Bhairahawa leave from the domestic terminal next door."
+    },
+    {
+      "mode": "Road",
+      "text": "Tourist buses and private cars arrive from Pokhara (about 200 km, 6 to 8 hours) and Sauraha in Chitwan (about 160 km, 5 to 7 hours) via the Prithvi Highway and Naubise. The last climb into the valley at Nagdhunga is often jammed, so add an hour at busy times."
+    }
+  ],
+  "where_to_stay": "Thamel is convenient for first-timers and treks, with Kathmandu Guest House in its centre. For old-world calm, Dwarika's Hotel at Battisputali is built from rescued Newar woodwork and is close to Pashupatinath. Hotel Yak & Yeti on Durbar Marg occupies part of a Rana palace, and Hotel Shanker in Lazimpat is another Rana-era palace with gardens. If you want forest and quiet, Gokarna Forest Resort is 30 minutes north-east. Staying in Patan is another good choice if you plan to spend most time on heritage.",
+  "stays": [
+    "dwarikas-hotel-kathmandu",
+    "hotel-yak-and-yeti",
+    "hotel-shanker-kathmandu",
+    "kathmandu-guest-house",
+    "gokarna-forest-resort"
+  ],
+  "tips": [
+    "Walk from Thamel to the Durbar Square through Asan and Indra Chowk rather than taking a taxi; it takes 25 minutes and passes a dozen shrines.",
+    "Keep your Durbar Square ticket; it is checked at several entrances and you may want to come back at sunset.",
+    "Photographing the Kumari is not allowed when she appears at her window, so keep the camera down.",
+    "Carry small notes in rupees for temples, tea and snacks, as card machines are rare in the old core.",
+    "Traffic is worst from 9 to 11 am and 4 to 7 pm; plan airport runs and day trips around those hours."
+  ],
+  "themes": [
+    "heritage-and-temples",
+    "food-and-festivals",
+    "spiritual-and-pilgrimage",
+    "photography"
+  ],
+  "nearby": [
+    "patan",
+    "swayambhunath",
+    "boudhanath",
+    "pashupatinath"
+  ],
+  "experiences": [
+    {
+      "slug": "kathmandu-durbar-square-kumari-walk",
+      "title": "Durbar Square and the Kumari's courtyard",
+      "kind": "heritage",
+      "duration": "3 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Kumari Ghar Kathmandu courtyard",
+      "wiki": "Kathmandu Durbar Square",
+      "summary": "A guided morning through Hanuman Dhoka: the palace courtyards, Kal Bhairav, the rebuilt Kasthamandap, and the Kumari Ghar, where the living goddess may appear at her carved window. We explain who built what, what fell in 2015 and how it was raised again.",
+      "body": [
+        "We start at 7.30 am at Basantapur, when the square is half empty and neighbours are ringing bells at Maru Ganesh, the small shrine beside Kasthamandap that every Kathmandu driver touches before a long trip. From there we look at Kasthamandap itself, rebuilt after the 2015 earthquake using sal timber and traditional joints, and talk about the single-tree legend that named the city.",
+        "Next is the Kumari Ghar, built in 1757. Its courtyard is open to visitors and its window carvings are among the finest in the city. If the Kumari appears at the upper window, stay quiet and do not photograph her. We then walk past the Trailokya Mohan and Shiva-Parvati temples, where carved figures of the god and goddess lean out of a window, to the black stone Kal Bhairav and the great drums and bell.",
+        "Inside the Hanuman Dhoka palace, restoration has gone on for years, and which courtyards are open varies. Where we can, we visit Nasal Chowk, where kings were crowned, and look up at the tall Basantapur tower. We finish at Pratap Malla's inscription in fifteen scripts, set into the palace wall, and then head into Indra Chowk for tea."
+      ],
+      "good_for": [
+        "first-timers",
+        "families",
+        "photographers",
+        "seniors"
+      ],
+      "faqs": [
+        {
+          "q": "Can I see the Kumari in Kathmandu?",
+          "a": "Often, yes. Visitors can stand in the Kumari Ghar courtyard, and the Kumari sometimes appears briefly at her upper window, usually in the morning or late afternoon. It is not scheduled, and her caretakers decide. Photographing her is strictly forbidden. Keep quiet, and do not call out or ask your guide to arrange an appearance with money."
+        },
+        {
+          "q": "How much is the Kathmandu Durbar Square entry fee?",
+          "a": "Foreign visitors have paid about NPR 1,000 per person, with lower rates for SAARC nationals; Nepali citizens enter free. Tickets are sold at booths around the square and checked at entrances. Keep yours for the day in case you return later. Fees change, so check current status before you travel."
+        },
+        {
+          "q": "Was Kathmandu Durbar Square destroyed in the 2015 earthquake?",
+          "a": "Parts were. Kasthamandap collapsed, along with several temples and parts of the palace, while others cracked. Since then many temples have been rebuilt or repaired using traditional materials, and Kasthamandap has been reconstructed. Some palace sections remain under restoration, so you will still see scaffolding and props in places."
+        }
+      ]
+    },
+    {
+      "slug": "kathmandu-asan-indra-chowk-bazaar-walk",
+      "title": "Asan to Indra Chowk on the old Tibet road",
+      "kind": "heritage",
+      "duration": "2.5 hours",
+      "best_time": "8–11 am, all year",
+      "image_query": "Asan Tole market Kathmandu",
+      "wiki": "",
+      "summary": "A slow walk down the diagonal trade street from Thamel to the Durbar Square through Kathmandu's oldest markets. Spice stalls, the Annapurna shrine at Asan, Seto Machhindranath's courtyard, Itum Bahal and Akash Bhairav at Indra Chowk, with stops for tea and snacks.",
+      "body": [
+        "This street runs on a diagonal across the grid of the old city because it is older than the grid: it is the route caravans took towards Tibet. We begin at Thahiti, a small square with a stupa built over an old water source, and walk south to Asan, where six roads meet. Here the gilded three-tiered temple of Annapurna Ajima, goddess of grain, is surrounded by sellers of rice, dried fish, spices and cloth.",
+        "From Asan we continue to Kel Tole and step through a narrow gateway into Jana Bahal, the courtyard of Seto Machhindranath, the white form of Karunamaya, worshipped by both Buddhists and Hindus. A few minutes further, a low passage leads into Itum Bahal, a large Buddhist courtyard where the old monastery buildings still house families and small shrines.",
+        "The walk ends at Indra Chowk, where Akash Bhairav's image looks down from a building above the market. During Indra Jatra the great Bhairav face is displayed outside for all to see. The shops round here sell pashmina, blankets and glass bead strings worn by married women. We stop for tea, a plate of bara and chhoyla, then walk the last few minutes into the Durbar Square."
+      ],
+      "good_for": [
+        "first-timers",
+        "photographers",
+        "solo",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Is Asan market worth visiting?",
+          "a": "Yes, if you want to see Kathmandu as locals use it. Asan is a daily market for spices, grain, cloth and household goods, not a souvenir bazaar. It is busiest from 8 to 11 am and again in the early evening. Combine it with Indra Chowk and the Durbar Square on one morning walk from Thamel."
+        },
+        {
+          "q": "How long is the walk from Thamel to Kathmandu Durbar Square?",
+          "a": "About 1.5 km, or 25 minutes without stopping. With stops at Thahiti, Asan, Jana Bahal, Itum Bahal and Indra Chowk, plan two to three hours. The streets are narrow and shared with motorbikes, so keep to the edges and watch for porters carrying wide loads."
+        },
+        {
+          "q": "Are the courtyards in Kathmandu's old town open to visitors?",
+          "a": "Most bahal courtyards, like Jana Bahal and Itum Bahal, are open and visitors are welcome to walk in quietly. They are also people's homes and places of worship, so do not enter shrines, remove shoes where asked, walk clockwise round stupas, and ask before photographing anyone at prayer."
+        }
+      ]
+    },
+    {
+      "slug": "kathmandu-newar-khaja-food-trail",
+      "title": "Newar khaja trail through the old town",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Late afternoon, all year",
+      "image_query": "Newari food samay baji plate",
+      "wiki": "",
+      "summary": "An afternoon of Newar snacks in small family-run khaja ghars: bara, chatamari, chhoyla, kachila, aloo tama, juju dhau and a cup of rice beer for those who want one. We eat in places with no English menu and explain each dish as it arrives.",
+      "body": [
+        "Khaja is the Nepali afternoon meal, and in the Newar quarters it means small plates eaten standing or on low benches. We start at around 3.30 pm near Indra Chowk with bara, a lentil patty fried on a flat pan, often topped with egg or minced meat. Next comes chatamari, a thin rice-flour crepe sometimes called Newar pizza, though it predates that name by centuries.",
+        "Then we sit down for a samay baji plate: beaten rice, chhoyla (spiced grilled buffalo), black soybeans, boiled egg, ginger and garlic. Brave eaters can try kachila, a raw spiced buffalo mince, or sapu mhicha, a leaf tripe stuffed with bone marrow. Vegetarians are easy to feed with bara, chatamari, aloo achar, bamboo-shoot soup and beaten rice.",
+        "We finish with juju dhau, the thick sweet curd made in clay bowls, and a glass of lassi or a small cup of thwon, the cloudy rice beer. Along the way we talk about where these dishes appear in feasts and festivals, and how families still make them at home for Yomari Punhi, Mha Puja and death anniversaries."
+      ],
+      "good_for": [
+        "couples",
+        "solo",
+        "first-timers",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is Newari food?",
+          "a": "It is the cooking of the Newar people of the Kathmandu Valley, built round beaten rice (baji), buffalo meat, lentils, soybeans, pickles and fermented drinks. Key dishes include samay baji, chhoyla, bara, chatamari, kwati and yomari. It is spicier and more varied than dal bhat, and many dishes are tied to specific festivals and rituals."
+        },
+        {
+          "q": "Can vegetarians eat Newari food?",
+          "a": "Yes. Many Newar snacks are vegetarian: bara without egg or meat, plain chatamari, aloo tama, aloo achar, kwati, beaten rice, pickles and juju dhau. Tell your guide in advance, as buffalo stock is common in soups. The food trail can be fully vegetarian with no loss of variety."
+        },
+        {
+          "q": "Is street food in Kathmandu safe to eat?",
+          "a": "Mostly yes, if you eat food cooked hot in front of you at busy places, avoid raw salads and tap water, and skip raw meat dishes like kachila if your stomach is sensitive. We choose established family shops with quick turnover. Carry hand sanitiser and drink bottled or filtered water."
+        }
+      ]
+    },
+    {
+      "slug": "kathmandu-budhanilkantha-shivapuri-hike",
+      "title": "Sleeping Vishnu and a Shivapuri forest climb",
+      "kind": "nature",
+      "duration": "6–7 hours",
+      "best_time": "Oct–Apr, start by 7 am",
+      "image_query": "Budhanilkantha sleeping Vishnu statue",
+      "wiki": "Shivapuri Nagarjun National Park",
+      "summary": "A day on the valley's northern rim: morning puja at Budhanilkantha's reclining Vishnu, then a forest climb in Shivapuri Nagarjun National Park to Nagi Gompa nunnery for valley views. About 600 m up and down, steady but not technical.",
+      "body": [
+        "We drive 45 minutes north to Budhanilkantha early, when families come with flowers and rice for the great stone Vishnu. Carved in the Licchavi period, the image lies on the coils of the serpent Ananta in a small pond. Only Hindu priests step onto the image itself; visitors can watch from the edge of the tank, and non-Hindus are welcome in the courtyard.",
+        "From the park gate just above, a stone and earth trail climbs through oak, rhododendron and pine forest. In two to three hours you reach Nagi Gompa, a nunnery at about 2,100 m where Buddhist nuns study and keep retreats. On clear mornings from October to February the Langtang and Ganesh Himal ranges appear to the north, and the whole valley lies spread out below to the south.",
+        "Fitter walkers can push on to the Shivapuri summit at 2,732 m, adding two to three hours. Most return the same way to Budhanilkantha for a late lunch. The forest has barking deer, monkeys and over 300 recorded bird species, and it is the main water catchment for the city. Park entry is payable at the gate and a licensed guide may be required."
+      ],
+      "good_for": [
+        "trekkers",
+        "couples",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How hard is the Shivapuri hike?",
+          "a": "To Nagi Gompa it is moderate: about 600 m of ascent over 2 to 3 hours on forest trail, with some uneven stone steps. Reasonably fit walkers manage it easily. The full summit at 2,732 m adds 2 to 3 hours and more climbing. It is a good warm-up for a Himalayan trek."
+        },
+        {
+          "q": "Do I need a permit for Shivapuri National Park?",
+          "a": "Foreign visitors pay an entry fee at the park gate above Budhanilkantha. Since 2023 Nepal requires foreign trekkers in national parks to walk with a licensed guide, and rangers may apply this on Shivapuri trails. Our day hike includes a licensed guide. Check current status before you travel."
+        },
+        {
+          "q": "Can non-Hindus visit Budhanilkantha temple?",
+          "a": "Yes. Non-Hindus can enter the compound and watch the puja at the pond from its edge. Only priests step onto the image itself. Remove shoes where asked, do not touch offerings, and be quiet during the morning rituals, which are busiest between 6 and 9 am."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many days should I spend in Kathmandu?",
+      "a": "Two to three days in Kathmandu itself is enough for the Durbar Square, Asan and Indra Chowk, Swayambhu, Boudha and Pashupatinath. Add a day each for Patan and Bhaktapur, which are separate cities with their own squares. If you are trekking, allow one buffer day before mountain flights in case of delays."
+    },
+    {
+      "q": "Is Thamel the best area to stay in Kathmandu?",
+      "a": "It is the easiest for first-timers: walkable to the old city, full of restaurants and trekking shops, with every price of room. It is also noisy and traffic-heavy. For calm, look at Lazimpat, Durbar Marg, Battisputali near Pashupati, Boudha, or Patan's old town. Choose Boudha if you want early kora walks."
+    },
+    {
+      "q": "What is Kathmandu famous for?",
+      "a": "Its Durbar Square and royal palace, the Kumari or living goddess, the great stupas of Swayambhu and Boudha, the Hindu temple of Pashupatinath, and an old town of Newar courtyards, markets and festivals. It is also the main starting point for treks and tours anywhere in Nepal."
+    },
+    {
+      "q": "What does the name Kathmandu mean?",
+      "a": "Kathmandu is usually traced to Kasthamandap, meaning wooden pavilion, the three-storey public shelter in the Durbar Square area that tradition says was built from a single tree. Older names include Kantipur, used under the Mallas, and Yen, still used by Newars today."
+    },
+    {
+      "q": "Is Kathmandu walkable?",
+      "a": "The old core is: Thamel, Asan, Indra Chowk and the Durbar Square are all within 2 km. Pavements are narrow or missing, motorbikes share every lane, and dust can be heavy, so walk early in the day. For Swayambhu, Boudha and Pashupatinath, take a taxi or ride-hailing car."
+    },
+    {
+      "q": "How do I get from Kathmandu airport to Thamel?",
+      "a": "Pre-paid taxis from the arrivals hall cost a fixed fare to Thamel and take 20 to 45 minutes depending on traffic. Ride-hailing apps work from just outside the terminal and are often cheaper. Many hotels offer pickups, which we arrange for every guest. Avoid unlicensed touts inside the hall."
+    },
+    {
+      "q": "What is the best time to visit Kathmandu?",
+      "a": "October and November are clear, dry and pleasant, with daytime highs around 23 to 26 °C. March and April are warm and good for walking, with spring festivals. Monsoon from mid-June to September brings afternoon rain but also Indra Jatra and Gai Jatra, and fewer visitors."
+    },
+    {
+      "q": "Can I visit the Kumari Ghar?",
+      "a": "Yes. The courtyard of the Kumari Ghar in Kathmandu Durbar Square is open to visitors during the day. The building itself is not. The Kumari sometimes looks down from her upper window; photographing her is forbidden. Your Durbar Square ticket covers the area, with no extra fee for the courtyard."
+    },
+    {
+      "q": "Is Kathmandu good for families with children?",
+      "a": "Yes, with planning. Children usually enjoy the monkeys at Swayambhu, feeding pigeons in the squares, the Garden of Dreams and watching potters in Bhaktapur. Traffic, dust and uneven streets are the challenges, so carry a sling rather than a pushchair and plan short outings with rests."
+    }
+  ]
+}

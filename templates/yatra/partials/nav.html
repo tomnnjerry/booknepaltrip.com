@@ -1,0 +1,57 @@
+{% load yatra %}<nav class="nav" aria-label="Main">
+  <div class="nav__drop"><button type="button" aria-expanded="false" aria-haspopup="true">Regions</button>
+    <div class="mega mega--regions"><div class="mega__in">
+      <div>
+        <p class="mega__h">Nine regions, each in its own colours</p>
+        <div class="rtiles">{% for r in nav_regions %}<a class="rtile" href="{{ r.url }}" data-land="{{ r.slug }}"><span class="pennant pennant--sm">{% icon r.icon %}</span><span><b>{{ r.name }}</b><small>{{ r.top_places|slice:":3"|join_names }}</small></span><span class="deva" aria-hidden="true">{{ r.name_ne }}</span></a>{% endfor %}</div>
+      </div>
+      <div class="mega__side">
+        <p class="mega__h">Nepal by height</p>
+        <div class="heights">
+          <a href="{% url 'altitude' %}#himal"><span class="mono">4,000 m +</span><b>Himal</b></a>
+          <a href="{% url 'altitude' %}#lekh"><span class="mono">2,500 m +</span><b>Lekh</b></a>
+          <a href="{% url 'altitude' %}#pahad"><span class="mono">1,000 m +</span><b>Pahad</b></a>
+          <a href="{% url 'altitude' %}#terai"><span class="mono">59 m +</span><b>Terai</b></a>
+        </div>
+        <a class="link-arrow" href="{% url 'lands' %}">Every region {% icon "arrow" %}</a>
+      </div>
+    </div></div>
+  </div>
+  <div class="nav__drop"><button type="button" aria-expanded="false" aria-haspopup="true">Trips</button>
+    <div class="mega"><div class="mega__in">
+      <div class="mega__cols">
+        <div><p class="mega__h">By style</p><ul class="mlist">{% for t in nav_themes|slice:":7" %}<li><a href="{{ t.url }}">{% icon t.icon %}{{ t.name }}</a></li>{% endfor %}</ul></div>
+        <div><p class="mega__h">And more</p><ul class="mlist">{% for t in nav_themes|slice:"7:" %}<li><a href="{{ t.url }}">{% icon t.icon %}{{ t.name }}</a></li>{% endfor %}</ul></div>
+        <div><p class="mega__h">By how high you sleep</p><ul class="mlist">
+          <li><a href="{% url 'journeys' %}?height=low">{% icon "lotus" %}Below 2,500 m</a></li>
+          <li><a href="{% url 'journeys' %}?height=mid">{% icon "trek" %}2,500 to 4,000 m</a></li>
+          <li><a href="{% url 'journeys' %}?height=high">{% icon "everest" %}Above 4,000 m</a></li>
+          <li><a href="{% url 'journeys' %}?length=short">{% icon "clock" %}A week or less</a></li>
+          <li><a href="{% url 'journeys' %}">{% icon "arrow" %}Every trip</a></li></ul></div>
+        <div class="promise" data-land="kathmandu-valley">{% contours "promise" 6 %}<p class="eyebrow foil-text">Our promise</p><h3 class="h-s">No payment to start</h3><p>Tell us roughly what you want. A planner sends a first plan, the sleeping height of every night and an itemised price within one working day.</p><a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-plan">Start planning</a></div>
+      </div>
+      <div><p class="mega__h">Planners' picks</p><div class="mega__picks">{% for j in nav_popular|slice:":3" %}<a class="mpick" href="{{ j.url }}">{% with i=j|first_img %}{% if i %}<img src="{{ i|src:500 }}" alt="" loading="lazy">{% endif %}{% endwith %}<b>{{ j.title }}</b><small>{{ j.nights }} nights · from {{ j.price_from_usd|usd }}</small></a>{% endfor %}</div></div>
+    </div></div>
+  </div>
+  <div class="nav__drop"><button type="button" aria-expanded="false" aria-haspopup="true">Experiences</button>
+    <div class="mega"><div class="mega__in">
+      <div class="mega__cols">
+        <div><p class="mega__h">Coded by prayer-flag colour</p><ul class="mlist">{% for k, n, f in nav_kinds|slice:":5" %}<li><a href="{% url 'experience_kind' k %}"><span class="chip--flag" style="--fc: {{ LUNGTA|get:f }}"></span>{% icon k %}{{ n }}</a></li>{% endfor %}</ul></div>
+        <div><p class="mega__h">&nbsp;</p><ul class="mlist">{% for k, n, f in nav_kinds|slice:"5:" %}<li><a href="{% url 'experience_kind' k %}"><span class="chip--flag" style="--fc: {{ LUNGTA|get:f }}"></span>{% icon k %}{{ n }}</a></li>{% endfor %}</ul></div>
+        <div><p class="mega__h">Where to sleep and when to go</p><ul class="mlist"><li><a href="{% url 'stays' %}">{% icon "bed" %}Stays</a></li><li><a href="{% url 'festivals' %}">{% icon "calendar" %}Festivals</a></li><li><a href="{% url 'routes' %}">{% icon "route" %}Routes</a></li><li><a href="{% url 'seasons' %}">{% icon "leaf" %}Seasons and calendar</a></li></ul></div>
+        <div><p class="mega__h">Stories</p><ul class="mlist"><li><a href="{% url 'journal' %}">{% icon "book" %}Stories</a></li><li><a href="{% url 'legends' %}">{% icon "scroll" %}Legends</a></li><li><a href="{% url 'untold' %}">{% icon "eye" %}Untold Nepal</a></li><li><a href="{% url 'words' %}">{% icon "word" %}Words you will hear</a></li><li><a href="{% url 'altitude' %}">{% icon "altitude" %}Nepal by height</a></li></ul></div>
+      </div>
+    </div></div>
+  </div>
+  <div class="nav__drop"><button type="button" aria-expanded="false" aria-haspopup="true">Plan</button>
+    <div class="mega"><div class="mega__in">
+      <div class="mega__cols">
+        <div><p class="mega__h">Trip tools</p><ul class="mlist"><li><a href="{% url 'tool_season' %}">{% icon "calendar" %}Season finder</a></li><li><a href="{% url 'tool_altitude' %}">{% icon "oxygen" %}Altitude and air</a></li><li><a href="{% url 'tool_budget' %}">{% icon "compass" %}Budget builder</a></li><li><a href="{% url 'tool_permits' %}">{% icon "shield" %}Permits</a></li></ul></div>
+        <div><p class="mega__h">Read first</p><ul class="mlist"><li><a href="{% url 'guides' %}">{% icon "book" %}Guides</a></li><li><a href="{% url 'faq' %}">{% icon "chat" %}FAQ</a></li><li><a href="{% url 'how_we_work' %}">{% icon "check" %}How we work</a></li><li><a href="{% url 'policies' %}">{% icon "shield" %}Policies</a></li></ul></div>
+        <div><p class="mega__h">Talk to us</p><ul class="mlist"><li><a href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-plan2">{% icon "pennant" %}Plan online</a></li>{% if wa_base %}<li><a href="{{ wa_base }}?text={{ wa_text }}" data-cta="mega-whatsapp">{% icon "whatsapp" %}WhatsApp</a></li>{% endif %}<li><a href="{% url 'contact' %}#callback">{% icon "phone" %}Call back</a></li><li><a href="mailto:{{ SITE.email }}">{% icon "mail" %}Email</a></li></ul></div>
+        <div class="promise" data-land="everest-khumbu">{% contours "promise2" 6 %}<p class="eyebrow foil-text">Before you book</p><h3 class="h-s">The sleeping height of every night</h3><p>Every plan we send shows where you sleep and how high, so you can see the acclimatisation before you commit.</p></div>
+      </div>
+    </div></div>
+  </div>
+  <div class="nav__item"><a href="{% url 'journal' %}">Stories</a></div>
+</nav>

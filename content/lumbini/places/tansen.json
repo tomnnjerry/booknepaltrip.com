@@ -1,0 +1,166 @@
+{
+  "slug": "tansen",
+  "name": "Tansen",
+  "name_ne": "तानसेन",
+  "local_name": "Palpa (common name for the town and district)",
+  "region": "lumbini",
+  "kind": "hill town",
+  "wiki": "Tansen, Nepal",
+  "image_query": "Tansen Palpa old town street",
+  "lat": 27.867,
+  "lng": 83.546,
+  "altitude_m": 1350,
+  "tagline": "Newar lanes, dhaka looms and brass karuwa on a Mahabharat ridge",
+  "meta_description": "Tansen, Palpa: Newar hill town of steep lanes, dhaka weaving and karuwa metalwork, old capital of the Sen kings, with Himalayan views from Srinagar Danda.",
+  "summary": "Tansen is the hill town headquarters of Palpa district, at about 1,350 m on the Mahabharat range between Butwal and Pokhara. Once the capital of the Sen kings of Palpa, it has steep lanes of Newar shophouses, dhaka weaving, brass karuwa workshops and Himalayan views from Srinagar Danda. Give it 2 nights.",
+  "intro": [
+    "Tansen hangs on the south face of a ridge above the Madi valley, its streets so steep that some are flights of stone steps. The Siddhartha Highway bypasses the old town, so the centre around Sitalpati square is still a place for walking, with the octagonal Golghar pavilion in the middle and shops selling dhaka cloth and brass under carved windows.",
+    "For two centuries before Nepal's unification, Palpa was one of the strongest hill kingdoms, ruled from here by the Sen dynasty. Later, Newar traders and craftsmen made it a market on the route between the Indian plains and the Kali Gandaki valley, and their weaving and metalwork are what the town is known for today.",
+    "Above the town, a 30-minute climb through pines leads to Srinagar Danda, where on a clear morning the Himalaya stretches from Dhaulagiri to the Annapurnas and beyond. Most travellers stop here between Lumbini and Pokhara, and wish they had stayed longer."
+  ],
+  "story": {
+    "title": "A hill kingdom that nearly took Kathmandu",
+    "paras": [
+      "Palpa was Magar country first. The name Tansen is said to come from the Magar language, meaning northern settlement, and the area was part of the Barha Magarat, the twelve Magar principalities of the western hills. In the 16th century the Sen dynasty made Palpa a power. Under King Mukunda Sen, Palpa's army marched east and came close to conquering the Kathmandu Valley.",
+      "Palpa stayed independent through most of the 18th century while the Shah kings of Gorkha unified Nepal, and it was annexed only in 1806. Its new governors built in Tansen: the Amar Narayan temple, the Bhagwati temple, raised after the fighting with the British East India Company in 1814–16, and later a Rana palace, the Tansen Durbar, now a museum after being rebuilt following an attack in the civil war.",
+      "Through the 19th and 20th centuries Tansen was a Newar trading town. Its weavers made dhaka, the patterned cloth of Nepal's topi caps, and its metalworkers made the spouted brass karuwa jugs still given at weddings. In 1954 the United Mission Hospital opened just east of town, and it still serves the hill districts."
+    ]
+  },
+  "legend": "Local tradition says that when Mukunda Sen returned to Palpa from his campaign against Kathmandu, he brought back an image of Bhairab taken from the valley. He installed it at Bhairabsthan, about 9 km from Tansen, where pilgrims still come on Tuesdays and Saturdays and during Dashain. The temple is known for a huge trident, said to be the largest in Nepal, and for rot, a spiced rice-flour bread fried in ghee and shared as blessed food.",
+  "people": "Tansen's old bazaar is largely Newar, with families running cloth, metal and grocery shops and speaking Nepal Bhasa at home. Around them live Magar communities, the oldest people of Palpa, along with Brahmin, Chhetri and Dalit families, including Kami blacksmiths. Many Magar men from Palpa have served in the British and Indian Gurkha regiments, and pension money has shaped village life in the surrounding hills.",
+  "untold": [
+    {"fact": "In the 16th century Palpa's king Mukunda Sen led an army that came close to conquering the Kathmandu Valley, long before the Shah kings of Gorkha unified Nepal.", "source": "Wikipedia: Tansen, Nepal; Wikipedia: Mukunda Sen"},
+    {"fact": "The United Mission Hospital in Tansen, opened in 1954, is the oldest project of the United Mission to Nepal and one of the main hospitals for the western hills.", "source": "Wikipedia: Tansen, Nepal"},
+    {"fact": "The Tansen Durbar, built as the residence of the Rana governors of Palpa, was badly damaged in a Maoist attack in 2006 and later rebuilt; it now houses the Palpa Durbar museum.", "source": "Wikipedia: Tansen Durbar"}
+  ],
+  "local_words": [
+    {"word": "dhaka", "script": "ढाका", "lang": "Nepali", "meaning": "Handwoven patterned cotton cloth; Palpali dhaka is the best known"},
+    {"word": "karuwa", "script": "करुवा", "lang": "Nepali", "meaning": "Spouted brass or bronze water jug, a Palpa speciality"},
+    {"word": "danda", "script": "डाँडा", "lang": "Nepali", "meaning": "Ridge or hill, as in Srinagar Danda above Tansen"}
+  ],
+  "taste": {"name": "Newari khaja set", "text": "A plate of beaten rice with spiced grilled buffalo or chicken choila, black-lentil bara, potato achar, boiled egg and soybeans, eaten as an afternoon snack. Newar eateries in the lanes around Sitalpati and Bhagwati tole serve it with tea or a glass of local raksi."},
+  "facts": [["Best months", "Oct – Apr"], ["Days we suggest", "2"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 65 km)"], ["From Kathmandu", "≈ 300 km · 9–10 h by road"], ["Altitude", "≈ 1,350 m"], ["Known for", "Dhaka weaving, karuwa metalwork, Newar lanes, Himalayan views"]],
+  "best_months": [2, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Sitalpati and the Golghar", "text": "Tansen's main square, with the octagonal Golghar pavilion at its centre. Lanes lead off it lined with old Newar shophouses, cloth stores stacked with dhaka and metal shops hung with brass karuwa."},
+    {"title": "Srinagar Danda sunrise", "text": "A pine-covered hill above town, about 30 minutes' climb from the bazaar. On clear mornings from October to March the view runs along the Himalaya from Dhaulagiri past the Annapurnas, with the Madi valley full of cloud below."},
+    {"title": "Tansen Durbar museum", "text": "The rebuilt palace of Palpa's Rana governors, now the Palpa Durbar museum. Its large gate, the Baggi Dhoka, faces the town and was built wide and tall enough for the governors' processions."},
+    {"title": "Amar Narayan and Bhagwati temples", "text": "Two temples from the period after Palpa joined Nepal: the tiered Amar Narayan temple with its carved roof struts and stone water spouts, and the Bhagwati temple, centre of the town's biggest festival, Bhagwati Jatra."},
+    {"title": "Dhaka looms and karuwa workshops", "text": "Small family workshops in and around Tansen where weavers build up dhaka patterns thread by thread on wooden looms, and metalworkers beat and polish karuwa water jugs by hand."},
+    {"title": "Day trips to Rani Mahal and Ridi", "text": "Tansen is the base for Rani Mahal, the Rana palace on the Kali Gandaki, for the temple town of Ridi and for the Bhairabsthan temple, each an easy or half-day trip by jeep."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Tansen is on the Siddhartha Highway: about 40 km and 1.5–2 hours from Butwal, about 90 km and 3 hours from Lumbini, and about 125 km and 5–6 hours from Pokhara. From Kathmandu it is about 300 km via Narayanghat and Butwal, 9–10 hours. Buses run from Butwal and Pokhara."},
+    {"mode": "Air", "text": "The nearest airport is Bhairahawa, with flights from Kathmandu in about 35 minutes. From there Tansen is about 65 km, 2–2.5 hours by car via Butwal."},
+    {"mode": "On foot", "text": "Within Tansen, walking is the only way into the old centre, whose steep stepped lanes are closed to most traffic. Srinagar Danda is a 30-minute uphill walk from Sitalpati."}
+  ],
+  "where_to_stay": "Tansen has two main options. Hotel Srinagar sits above the town on the slope of Srinagar Danda, about 4 km by road from the centre, with views to the Himalaya from its terrace on clear mornings. In the old bazaar around Sitalpati and Bank Road, small family-run hotels and guesthouses put you within walking distance of the lanes, temples and evening food. The town is quiet after dark, so wherever you stay, expect early nights and early starts.",
+  "stays": ["hotel-srinagar-tansen"],
+  "tips": [
+    "Walk up to Srinagar Danda for sunrise between October and March; the Himalaya is often hidden by haze by 9 am.",
+    "Wear shoes with good grip, as the old town's stone lanes are steep and slippery after rain.",
+    "Buy dhaka cloth from weavers' shops rather than souvenir stalls, and ask whether it is handwoven or machine-made.",
+    "Tansen is cooler than the plains; nights in December and January drop to around 5 °C.",
+    "If your dates are flexible, aim for Bhagwati Jatra in August or September, Tansen's biggest festival."
+  ],
+  "themes": ["heritage-and-temples", "crafts-and-makers", "photography", "food-and-festivals"],
+  "nearby": ["rani-mahal", "ridi", "resunga", "devdaha"],
+  "experiences": [
+    {
+      "slug": "tansen-old-bazaar-heritage-walk",
+      "title": "The old bazaar on foot",
+      "kind": "heritage",
+      "duration": "3 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Tansen Durbar Palpa",
+      "wiki": "Tansen Durbar",
+      "summary": "A morning walk through Tansen's steep Newar lanes: Sitalpati and the Golghar, the Amar Narayan temple and its stone spouts, the Bhagwati temple, the Tansen Durbar museum and the Baggi Dhoka gate, with tea stops along the way.",
+      "body": [
+        "We start at Sitalpati, the main square, where the octagonal Golghar pavilion stands among shops and the town's porters wait for work. From here the lanes drop and climb in every direction, lined with three-storey Newar houses with carved wooden windows and tiled roofs.",
+        "Down one lane is the Amar Narayan temple, a tiered temple from the early 19th century with carved roof struts and a courtyard of stone water spouts where people still fill their pots. Up another is the Bhagwati temple, raised after the war with the British East India Company in 1814–16 and centre of the town's Bhagwati Jatra.",
+        "We finish at the Tansen Durbar, the rebuilt palace of Palpa's Rana governors, with its museum and the great Baggi Dhoka gate. Then tea and sel roti in a shop on the square."
+      ],
+      "good_for": ["first-timers", "photographers", "couples"],
+      "faqs": [
+        {"q": "Is the Tansen heritage walk difficult?", "a": "It is a walk of 3–4 km over 3 hours with stops, but Tansen's lanes are very steep, with long flights of stone steps. Anyone reasonably fit can do it at a gentle pace. Wear shoes with good grip, especially after rain, and carry water."},
+        {"q": "Is the Palpa Durbar museum open every day?", "a": "Government museums in Nepal usually open on weekdays and some Sundays, from morning to late afternoon, and often close on Saturdays and public holidays. Hours change by season, so check current status before you travel. We plan the walk so the museum is open when we reach it."},
+        {"q": "When was the Bhagwati temple in Tansen built?", "a": "The Bhagwati temple is linked with the Anglo-Nepalese War of 1814–16 and was raised after fighting with the British East India Company in the Butwal area. Local accounts credit the Palpa commander Ujir Singh Thapa. Its festival, Bhagwati Jatra, still remembers that time."}
+      ]
+    },
+    {
+      "slug": "tansen-srinagar-danda-sunrise",
+      "title": "Sunrise over the Himalaya from Srinagar Danda",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Dawn, Oct–Mar",
+      "image_query": "Srinagar hill Tansen Himalaya view",
+      "wiki": "",
+      "summary": "An early climb through pine forest from Tansen to the top of Srinagar Danda to watch the sun hit the Himalaya, from Dhaulagiri across the Annapurnas, with the Madi valley under cloud below.",
+      "body": [
+        "We leave the bazaar in the dark with torches and climb about 30 minutes on a stone path through pines to the top of Srinagar Danda, at roughly 1,600 m. If you are staying at Hotel Srinagar, the walk is shorter.",
+        "As the light comes, the northern horizon fills with snow peaks. On a clear morning you see Dhaulagiri, the Annapurna range and, with good visibility, ranges further east. Below lies the Madi valley, often a sea of cloud, and beyond it the deep cut of the Kali Gandaki.",
+        "We walk down a different way, through villages on the north side of the hill, and arrive back in time for breakfast in town."
+      ],
+      "good_for": ["photographers", "couples", "families", "trekkers"],
+      "faqs": [
+        {"q": "Which mountains can you see from Tansen?", "a": "On clear days Srinagar Danda gives a long view of the Himalaya: Dhaulagiri, the Annapurna range including Machhapuchhre, and, in very good visibility, Manaslu and ranges further east. Mornings from October to February give the clearest views. From April, haze often hides the peaks."},
+        {"q": "How long is the walk to Srinagar Danda?", "a": "From Sitalpati in Tansen the climb to the top takes about 30–40 minutes on a stone path through pine forest, gaining roughly 250 metres. The walk down takes 20–30 minutes. A road also reaches near the top for those who prefer to drive."},
+        {"q": "Is it safe to walk to Srinagar Danda before dawn?", "a": "Yes, the path is well used by local walkers and joggers in the early morning. Take a torch, wear shoes with good grip and go with a guide or companion. In the monsoon the path can be slippery, and the views are usually lost in cloud."}
+      ]
+    },
+    {
+      "slug": "tansen-dhaka-weaving-workshop",
+      "title": "Watch Palpali dhaka come off the loom",
+      "kind": "craft",
+      "duration": "1.5–2 hours",
+      "best_time": "Weekday mornings, all year",
+      "image_query": "Dhaka topi weaving loom",
+      "wiki": "Dhaka topi",
+      "summary": "Visit a family weaving workshop in Tansen to see how dhaka, the geometric cloth of Nepal's topi caps and festive blouses, is built up thread by thread on a wooden loom, and buy directly from the makers.",
+      "body": [
+        "Dhaka is Nepal's best-known woven textile: cotton with bright geometric patterns inlaid by hand, row by row, using only a few colours at a time. It is cut and sewn into the dhaka topi, the cap that is part of Nepali national dress, and into shawls and blouses. Palpa's weavers are among the most famous.",
+        "We visit a family workshop where women work at wooden looms, picking out each pattern with their fingers. Your guide will ask the weavers to show how a design is planned and how long a single topi panel takes.",
+        "Afterwards there is time to buy cloth, caps or shawls directly. The price of handwoven dhaka is higher than machine copies, and once you have seen the work you will understand why."
+      ],
+      "good_for": ["couples", "photographers", "families", "solo"],
+      "faqs": [
+        {"q": "What is Palpali dhaka?", "a": "Dhaka is a handwoven cotton cloth with inlaid geometric patterns, used for Nepal's dhaka topi caps, shawls and blouses. Weavers in Palpa, around Tansen, are among the best known, and 'Palpali dhaka' is a mark of quality. Patterns and colours vary by workshop and by the weaver's own design."},
+        {"q": "How do I tell handwoven dhaka from machine-made?", "a": "Handwoven dhaka has slight irregularities in the pattern and a softer, thicker feel, and the reverse side shows the inlaid threads. Machine-made copies are more uniform and often thinner. Buying in a workshop where you watch the weaving is the surest way. Ask the seller directly; good shops are honest about it."},
+        {"q": "How much does a dhaka topi cost in Tansen?", "a": "Prices depend on the fineness of the weave and whether the cap is handwoven. Expect a few hundred to around a thousand rupees or more for a good handwoven topi, and more for shawls and lengths of cloth. Prices in Tansen workshops are usually lower than in Kathmandu tourist shops."}
+      ]
+    },
+    {
+      "slug": "tansen-karuwa-metalworkers",
+      "title": "Brass and bronze: the karuwa makers",
+      "kind": "craft",
+      "duration": "1.5 hours",
+      "best_time": "Weekday mornings, all year",
+      "image_query": "Karuwa brass water jug Nepal",
+      "wiki": "Karuwa",
+      "summary": "Meet the metalworkers who make Palpa's karuwa, the spouted brass and bronze water jug used in Nepali homes and given at weddings, and see the casting, beating and polishing done in small family workshops.",
+      "body": [
+        "The karuwa is a heavy metal water jug with a spout, used for drinking water, rituals and, traditionally, as part of a bride's dowry. Palpali karuwa, made in and around Tansen, are among the most prized in Nepal, and you will see them stacked in the bazaar's metal shops.",
+        "We visit a family workshop where the jugs are made. Depending on the stage of work you may see metal being melted and cast, shaped with hammers, joined and then polished on a wheel until it shines. The work is hot, loud and skilled.",
+        "Your guide translates as the craftspeople talk about their trade, how many karuwa they make in a month, and how demand has changed with steel and plastic. You can buy directly from the workshop or from shops in the bazaar."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "What is a Palpali karuwa?", "a": "A karuwa is a traditional Nepali water jug with a spout, made of brass or bronze, used for drinking water and in rituals. Karuwa made in Palpa, especially Tansen, are known for their weight and finish. They are often given at weddings and as gifts during family ceremonies."},
+        {"q": "How heavy is a karuwa, and can I fly with one?", "a": "Karuwa range from small pieces under 1 kg to large jugs of several kilograms. Brass and bronze are heavy, so check your airline baggage limits. Pack it in checked luggage wrapped in clothes. Antique metalwork may need clearance from Nepal's Department of Archaeology for export."},
+        {"q": "Can I visit a metal workshop without a guide?", "a": "Workshops are small family businesses in back lanes and homes, not shops set up for visitors, and most work is done in Nepali or Nepal Bhasa. A guide helps you find them, asks permission, and translates. We pay the family for their time."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Tansen?", "a": "Tansen is the headquarters of Palpa district in Lumbini Province, on the Mahabharat range at about 1,350 m. It lies on the Siddhartha Highway between Butwal, about 40 km south, and Pokhara, about 125 km north. Lumbini is about 90 km away, roughly 3 hours by road."},
+    {"q": "What is Tansen famous for?", "a": "Tansen is known for its Newar old town of steep lanes, its handwoven Palpali dhaka cloth and karuwa metalwork, the Tansen Durbar museum, its temples and festivals, and Himalayan views from Srinagar Danda. It was once the capital of the Sen kingdom of Palpa."},
+    {"q": "How many days do I need in Tansen?", "a": "Two nights is ideal: one day for the old town, workshops and Srinagar Danda, and one for Rani Mahal or Ridi. With one night you can see the town and catch a sunrise. Three nights adds Bhairabsthan, Ridi and more village walking."},
+    {"q": "How do I get from Lumbini to Tansen?", "a": "Drive north via Bhairahawa and Butwal, then up the Siddhartha Highway: about 90 km and 3 hours by private car. Public buses run from Butwal to Tansen in about 2 hours. The road climbs steeply after Butwal and has many curves."},
+    {"q": "Is Tansen worth visiting between Lumbini and Pokhara?", "a": "Yes. Tansen breaks the long drive into two shorter days and is one of the best-preserved hill towns in western Nepal, with real crafts still practised, Newar architecture and Himalayan views. It sees far fewer tourists than Bandipur or Pokhara."},
+    {"q": "What is the weather like in Tansen?", "a": "Tansen is mild for most of the year, rarely above 30 °C in summer or below freezing in winter. October to March brings clear days of 15–22 °C and cold nights. From June to September heavy monsoon rain and fog are common, and the mountain views disappear."},
+    {"q": "What is the best time to visit Tansen?", "a": "October to April is best, with the clearest Himalayan views from October to February. Bhagwati Jatra, the town's biggest festival, usually falls in August or September in the monsoon, so festival lovers may choose that time despite the rain."},
+    {"q": "Can I see the Himalaya from Tansen?", "a": "Yes, from Srinagar Danda above town, on clear mornings. Dhaulagiri and the Annapurna range are the main peaks visible. Visibility is best from October to February at sunrise and usually worsens by mid-morning as haze builds."},
+    {"q": "Who lives in Tansen?", "a": "The old bazaar is largely Newar, with families running shops and workshops and speaking Nepal Bhasa at home. Magar communities, the original people of Palpa, live in and around the town, along with Brahmin, Chhetri and Dalit families. Nepali is the common language."}
+  ]
+}

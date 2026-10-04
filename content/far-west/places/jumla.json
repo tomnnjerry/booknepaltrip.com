@@ -1,0 +1,171 @@
+{
+  "slug": "jumla",
+  "name": "Jumla",
+  "name_ne": "जुम्ला",
+  "local_name": "Khalanga (Nepali)",
+  "region": "far-west",
+  "kind": "hill town",
+  "wiki": "Jumla District",
+  "image_query": "Chandannath temple Jumla",
+  "lat": 29.275,
+  "lng": 82.18,
+  "altitude_m": 2370,
+  "tagline": "Red rice, apple orchards and the old kingdom of the Karnali",
+  "meta_description": "Jumla guide: Chandannath temple, red marshi rice fields on the Tila river, apple orchards, the gateway to Sinja and Rara, flights from Nepalgunj and the Karnali Highway.",
+  "summary": "Jumla is the main town of the upper Karnali, a bazaar called Khalanga at about 2,370 m on the Tila river. Once the seat of the powerful Kalyal kings, it is known for the Chandannath temple, red marshi rice grown at extraordinary altitude and crisp apples. It is also the starting point for Sinja and the trek to Rara.",
+  "intro": [
+    "Jumla feels like the capital of a different Nepal. The flight from Nepalgunj lands on a short runway beside the bazaar, and within minutes you are walking past stone houses with flat mud roofs, apple stalls and the tall red pole of the Chandannath temple. People here speak a Khas dialect that many Kathmandu Nepalis find hard to follow; in the 2021 census more than half of Jumla's people gave Khas as their first language.",
+    "The town proper is Khalanga, set where the Tila river widens into a flat valley of rice terraces. The valley floor is planted with marshi, a cold-hardy red rice that grows here at altitudes where rice normally fails, and the slopes above are covered in apple orchards and pine forest. In late September and October the fields turn gold and red and the whole valley is busy with harvest.",
+    "Most travellers spend one or two nights in Jumla on the way to Sinja, Rara or the high trails towards Dolpo and Humla. It is worth slowing down: visit the temples, walk the rice fields along the Tila, hike up to the meadows of Chere Chaur, and eat marshi rice with Jumli beans in a bazaar bhatti."
+  ],
+  "story": {
+    "title": "From Khasa province to the kingdom of Jumla",
+    "paras": [
+      "Jumla was part of the Khasa Malla empire, whose capital lay a day's walk away in the Sinja valley. When the empire broke up in the 14th century into the twenty-two small hill kingdoms called the Baise Rajya, Jumla emerged as the strongest of them. Around 1404 a ruler named Baliraja, who had married into the old royal line, founded the kingdom of Jumla, and his Kalyal descendants ruled the upper Karnali for nearly four centuries.",
+      "At its height Jumla's power reached from Mustang in the east to the hills of present-day Uttarakhand in the west, and in the 18th century it held Mustang itself. Jumla resisted the first Gorkhali attacks, and local tradition says Prithvi Narayan Shah was wounded in battle against it. In 1789, under the regency of Bahadur Shah, Gorkhali troops finally annexed the kingdom.",
+      "Under the new state Jumla became a remote district headquarters, reached only on foot or later by small plane. In 2007 the Karnali Highway finally connected it to Surkhet and the south, though the road is still rough and often closed in the monsoon. Today Khalanga is a busy market town of government offices, schools, hotels and apple traders, and a base for travellers heading into the hills."
+    ]
+  },
+  "legend": "Tradition says a holy man named Chandannath came from Kashmir carrying an image of Dattatreya, and that the temple in Khalanga was built where he set it down. He is also credited with bringing marshi rice to Jumla, having found the valley's seasons like those of Kashmir. Another story says a cow that would give no milk at home let it flow freely on this spot, showing villagers it was sacred.",
+  "people": "Jumla is overwhelmingly Khas: Chhetri families are an outright majority, with Thakuri, Brahmin and Khas Dalit communities such as Kami and Sarki. Most speak Khas or Jumli forms of Nepali. People farm marshi rice, wheat, barley, beans and potatoes, grow apples and walnuts, keep sheep for wool, and many travel to India for seasonal work. The dhami oracle tradition remains strong.",
+  "untold": [
+    {"fact": "In the 2021 census about 51 percent of Jumla district's people gave Khas as their first language and about 43 percent Nepali, a sign of how close Jumla stays to the older form of the language.", "source": "Wikipedia: Jumla District"},
+    {"fact": "Every year on Ghatasthapana, the first day of Dashain, devotees replace the lingo at Chandannath temple: a timber pole of more than 52 feet painted brick red and hung with a long cloth banner. People believe misfortune follows if it breaks during the change.", "source": "Wikipedia: Chandannath Temple"},
+    {"fact": "The kingdom of Jumla, founded around 1404, held Mustang from 1760 and resisted the first Gorkhali attacks. It was annexed to the Gorkha state in 1789 during the regency of Bahadur Shah.", "source": "Wikipedia: Jumla District"}
+  ],
+  "local_words": [
+    {"word": "Marshi", "script": "मार्सी", "lang": "Nepali", "meaning": "Jumla's red, cold-hardy rice"},
+    {"word": "Lingo", "script": "लिङ्गो", "lang": "Nepali", "meaning": "Tall sacred pole raised at a temple, renewed at festivals"},
+    {"word": "Dhami", "script": "धामी", "lang": "Nepali", "meaning": "Oracle through whom a local god speaks"}
+  ],
+  "taste": {"name": "Marshi bhat with Jumli simi", "text": "Red marshi rice, slightly nutty and soft, served with a stew of the speckled local beans called Jumli simi, potato curry and ghee. It is the defining meal of Jumla. Any bhatti in Khalanga bazaar will cook it; in autumn ask for the new season's rice."},
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Days we suggest", "1–2"],
+    ["Nearest airport", "Jumla (JUM), in town"],
+    ["From Kathmandu", "≈ 1 h flight to Nepalgunj + 40 min to Jumla; 2 days by road"],
+    ["Altitude", "2,370 m"],
+    ["Known for", "Chandannath temple, marshi rice, apples, gateway to Rara"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Chandannath and Bhairabnath temples", "text": "The twin temples at the heart of Khalanga bazaar are Jumla's spiritual centre. Look for the tall red lingo pole, renewed every Dashain, and visit in the evening when bells ring and families light lamps."},
+    {"title": "Marshi rice on the Tila river", "text": "Walk out of town along the Tila to terraces of red marshi rice, one of the highest-grown rice varieties in the world. The harvest in late September and October fills the valley with colour and threshing."},
+    {"title": "Apple country", "text": "Jumla's apples are famous across Nepal, grown in orchards on the slopes above the valley with very little chemical input. In August to October you can buy them by the basket in the bazaar or walk through the orchards."},
+    {"title": "Chere Chaur meadows", "text": "A steep half-day climb above town leads to the open meadows of Chere Chaur, with wide views over the Tila valley and the ranges towards Patarasi. It makes a good acclimatisation hike before Rara."},
+    {"title": "Gateway to Sinja and Rara", "text": "Jumla is the jumping-off point for the Khasa capital at Sinja and for the three-to-four-day trek to Rara Lake, as well as longer routes towards Dolpo and Humla."}
+  ],
+  "how_to_reach": [
+    {"mode": "Air", "text": "Fly Kathmandu to Nepalgunj (about 1 hour), then take a small-plane flight to Jumla of about 40 minutes, usually in the morning. The airport is at the edge of Khalanga bazaar. Flights are often delayed by cloud; keep a spare day."},
+    {"mode": "Road", "text": "Jeeps and buses run from Nepalgunj and Surkhet along the Karnali Highway via Manma to Jumla, typically in 1–2 days depending on road conditions. The road is narrow, partly unpaved and prone to landslides in the monsoon; check current status before you travel."}
+  ],
+  "where_to_stay": "Khalanga bazaar has a range of simple hotels and guesthouses near the airport and the Chandannath temple, used by government staff, NGO workers and domestic travellers. Rooms are basic, usually with attached bathrooms and solar hot water in the better places, and most have a restaurant serving dal bhat with marshi rice. There are no international-standard hotels. In the harvest and Dashain season, book ahead through your agency.",
+  "stays": [],
+  "tips": [
+    "Fly into Jumla early in the day; afternoon winds and cloud often cancel flights.",
+    "Carry cash from Nepalgunj; Jumla has a few ATMs but they can run empty or go offline.",
+    "Buy marshi rice and apples in the bazaar to take home; both travel well.",
+    "Ask before photographing at the temples, especially during rituals or when a dhami is in trance.",
+    "If you continue to Rara, arrange your licensed guide and park permit before leaving Jumla; check current status before you travel."
+  ],
+  "themes": ["heritage-and-temples", "food-and-festivals", "treks-and-trails", "villages-and-homestays"],
+  "nearby": ["sinja-valley", "rara-lake", "dullu"],
+  "experiences": [
+    {
+      "slug": "jumla-chandannath-evening-worship",
+      "title": "Evening worship at Chandannath temple",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Dusk, any season; Ghatasthapana for the lingo",
+      "image_query": "Chandannath temple Jumla lingo",
+      "wiki": "Chandannath Temple",
+      "summary": "Join the evening crowd at the Chandannath and Bhairabnath temples in Khalanga bazaar, the spiritual heart of Jumla, where the tall red lingo pole is raised anew every Dashain.",
+      "body": [
+        "The Chandannath temple stands in the middle of Khalanga bazaar, with the Bhairabnath temple beside it. It is linked in local memory to the Kalyal kings of Jumla and to Chandannath, the holy man from Kashmir who is said to have brought its image. Above the courtyard rises the lingo, a tall timber pole painted brick red and hung with a long cloth banner.",
+        "Come at dusk, when shopkeepers and families stop by on their way home, ring the bells and leave flowers and coins. You may see a dhami, a local oracle, at the temple during festivals, shaking as a god speaks through him. It is a working place of worship, not a monument, and the mood is everyday rather than solemn.",
+        "The most dramatic time is Ghatasthapana, the first day of Dashain in late September or October, when the old lingo is lowered and a new pole of more than 52 feet is raised by hundreds of hands. Ask before taking photos, remove your shoes in the inner area, and walk clockwise around the shrine."
+      ],
+      "good_for": ["first-timers", "photographers", "seniors", "couples"],
+      "faqs": [
+        {"q": "Can tourists visit Chandannath temple in Jumla?", "a": "Yes, the courtyard is open to visitors. Remove your shoes where local people do, walk clockwise, and do not touch offerings or the deity. The inner sanctum may be restricted to Hindus; follow the priest's guidance. Photography of people at prayer needs their permission."},
+        {"q": "When is the lingo changed at Chandannath?", "a": "On Ghatasthapana, the first day of Dashain, which falls in late September or October depending on the lunar calendar. The old pole is taken down and a new one of more than 52 feet is raised by devotees. Expect big crowds. Check current status before you travel for the exact date."},
+        {"q": "Who was Chandannath?", "a": "According to tradition, Chandannath was a holy man from Kashmir who brought an image of Dattatreya to Jumla, where the temple was then built. He is also credited with introducing marshi rice. There are few written records, and much of the story has been passed down orally."}
+      ]
+    },
+    {
+      "slug": "jumla-marshi-rice-fields-walk",
+      "title": "Walk the red rice terraces of the Tila valley",
+      "kind": "food",
+      "duration": "3 hours",
+      "best_time": "Late Sep–Oct for harvest; Jun–Jul for planting",
+      "image_query": "Jumla rice terraces Tila river",
+      "wiki": "",
+      "summary": "Follow field paths along the Tila river through terraces of marshi, Jumla's red rice, grown at around 2,400 m and above. Meet farmers, watch threshing in autumn and end with a meal of marshi bhat.",
+      "body": [
+        "Rice is a lowland crop, so walking through paddy fields at well over 2,000 m feels strange. Marshi is a cold-tolerant red rice, grown in the Jumla valleys for centuries, and the fields along the Tila river near Khalanga are among the highest rice fields anywhere. Some villages in the district grow it at around 3,000 m.",
+        "A guide leads you out of the bazaar on field paths between terraces, irrigation channels and stone houses. In late September and October the grain turns red-gold and families cut, stack and thresh it by hand on flat rooftops and threshing floors. In June and July you see the planting, with songs, mud and whole villages in the fields.",
+        "Marshi has a short, slightly sticky red grain and a nutty taste. Finish the walk with marshi bhat in a bazaar bhatti, and buy a few kilos to take home; it is sold all over Nepal at a premium, but cheapest and freshest here."
+      ],
+      "good_for": ["photographers", "families", "solo", "seniors"],
+      "faqs": [
+        {"q": "What is Jumla marshi rice?", "a": "Marshi is a cold-tolerant red rice grown in the high valleys of Jumla, among the highest rice-growing areas in the world. It has a short reddish grain, a nutty flavour and is prized across Nepal. Tradition credits the holy man Chandannath with bringing it from Kashmir."},
+        {"q": "When is the rice harvest in Jumla?", "a": "Usually from late September into October, depending on altitude and the year's weather. Planting happens in June and July. The harvest season coincides with clear post-monsoon weather, which makes it a good time to visit Jumla and Rara."},
+        {"q": "Can I buy marshi rice to take home?", "a": "Yes. Shops in Khalanga bazaar sell marshi by the kilo, often cheaper and fresher than in Kathmandu. It is light enough to carry in your luggage, though check the weight limit on small planes from Jumla, which can be as low as 10–15 kg."}
+      ]
+    },
+    {
+      "slug": "jumla-chere-chaur-meadow-hike",
+      "title": "Hike to the Chere Chaur meadows above Jumla",
+      "kind": "trek",
+      "duration": "5–6 hours return",
+      "best_time": "Morning, Apr–May and Sep–Nov",
+      "image_query": "Chere Chaur Jumla meadow",
+      "wiki": "",
+      "summary": "Climb steeply from Khalanga through pine forest to the open meadows of Chere Chaur, with wide views over the Tila valley. A good acclimatisation day before the Rara trek, and a quiet escape from the bazaar.",
+      "body": [
+        "Chere Chaur is a broad meadow high above Jumla, used by herders in summer and by local people for picnics. The trail climbs steadily out of town through terraces and pine forest, gaining several hundred metres, and the effort is rewarded with open grassland and a view down the whole Tila valley.",
+        "From the meadow you look over the flat valley floor with its rice terraces and the tin roofs of Khalanga, and on clear days to snow-capped ridges in the distance. In spring the slopes have wildflowers; in autumn the grass turns gold. Herders' shelters and stone walls dot the edges.",
+        "Take water, snacks and a warm layer; the wind picks up in the afternoon. Chere Chaur is also the first stage of the trek to Rara, so if you are trekking on, this hike helps your body adjust to altitude. Go with a local guide, as several paths branch through the forest."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How hard is the Chere Chaur hike from Jumla?", "a": "It is a steep but straightforward climb of several hours, gaining several hundred metres from Khalanga. Allow five to six hours return at an easy pace. Reasonable fitness is enough; take it slowly if you have just flown in from the plains."},
+        {"q": "Is Chere Chaur on the Rara trek route?", "a": "Yes, the common trek from Jumla to Rara passes Chere Chaur on its first day. If you are trekking to Rara, you will cross it anyway; if not, the day hike gives you a taste of the trail and the views."},
+        {"q": "Do I need a guide for Chere Chaur?", "a": "It is not inside a national park, but a local guide is helpful because paths branch through forest and grazing land. Your guide can also explain the herding life and village customs along the way."}
+      ]
+    },
+    {
+      "slug": "jumla-khalanga-bazaar-apples",
+      "title": "Apples, beans and wool in Khalanga bazaar",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Morning, Aug–Oct for apples",
+      "image_query": "Jumla apple market",
+      "wiki": "",
+      "summary": "Wander Jumla's main bazaar with a local guide, tasting apples, buying marshi rice and Jumli beans, and looking for the hand-woven woollen radi rugs of the Karnali hills.",
+      "body": [
+        "Khalanga bazaar is small enough to walk end to end in twenty minutes, but it holds most of what the Karnali produces. In late summer and autumn, apples arrive by the basket from orchards across the district, crisp and sweet; the town is well known in Nepal for them, and they fetch a premium in Kathmandu.",
+        "Grain shops sell sacks of marshi rice, speckled Jumli beans, buckwheat, barley and walnuts. Look also for herbs from the high pastures and for woollen goods: radi, thick hand-woven rugs, and pakhi, woollen blankets, made from sheep wool in hill villages, used on every bed in winter.",
+        "Go in the morning when the shops open and villagers arrive with produce. Your guide can translate, help with fair prices and point out the difference between local goods and those trucked in from elsewhere. Remember weight limits on small planes before you buy too much."
+      ],
+      "good_for": ["families", "first-timers", "solo", "photographers"],
+      "faqs": [
+        {"q": "Are Jumla apples really special?", "a": "They are prized across Nepal for their crisp texture and sweetness, grown at altitude in a cold, dry climate, often with few chemical inputs. The season runs roughly August to October. Eat them fresh in Jumla; they are much cheaper than in Kathmandu."},
+        {"q": "What is a radi?", "a": "A radi is a thick, hand-woven woollen rug from the hills of western Nepal, used as a mattress or blanket. Pakhi is a related woollen blanket or shawl. Both are made from local sheep wool, often in natural colours, and are very warm."},
+        {"q": "What is the luggage limit on flights from Jumla?", "a": "Small planes from Jumla to Nepalgunj usually allow around 10–15 kg of checked baggage, with charges for excess and space limited when flights are full. Rules differ by airline, so check current status before you travel and pack souvenirs accordingly."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get to Jumla from Kathmandu?", "a": "Fly Kathmandu to Nepalgunj in about an hour, then take a small-plane flight to Jumla of around 40 minutes, usually the next morning. By road it takes about two days via Nepalgunj or Surkhet and the Karnali Highway, on a rough mountain road."},
+    {"q": "What is the best time to visit Jumla?", "a": "September to November is best: clear skies, harvest colour and good trekking weather. March to May is also good, with apple blossom in spring. Winters are very cold with snow, and the June to August monsoon brings landslides on the roads."},
+    {"q": "Is Jumla worth visiting on its own?", "a": "For a night or two, yes, especially for the temples, rice terraces and bazaar. Most visitors combine it with Sinja and Rara. If you have limited time, Jumla is best seen as the start of a Rara trek rather than a stand-alone trip."},
+    {"q": "Is there altitude sickness in Jumla?", "a": "At about 2,370 m, most people feel only mild effects, such as breathlessness on stairs or a light headache the first night. Drink plenty of water and take your first day easy, especially if you flew straight from the plains."},
+    {"q": "What is the food like in Jumla?", "a": "Simple and filling. The staple is marshi rice with Jumli beans, lentils, potatoes and greens, plus buckwheat bread and apples in season. Meat is mostly goat and chicken. Vegetarians eat well. Do not expect Western dishes outside a few hotels."},
+    {"q": "Is Jumla safe for tourists?", "a": "Yes. Jumla is a peaceful district headquarters, and people are welcoming to the few foreign visitors they see. The main risks are road accidents, flight delays and weather in the hills. Travel with a licensed guide or agency for treks beyond the town."},
+    {"q": "Can I use ATMs and mobile data in Jumla?", "a": "Khalanga has a few bank ATMs and mobile coverage with 4G in town, but ATMs can be offline and signal fades quickly outside the valley. Carry enough Nepali rupees for your whole trip from Nepalgunj or Kathmandu."},
+    {"q": "How far is Sinja from Jumla?", "a": "The Sinja valley lies north-west of Khalanga, in the neighbouring rural municipality of Sinja. A rough road now connects them, and jeep times vary widely with road conditions; on foot it is one to two days. Many Rara treks pass through Sinja on the way out or back."},
+    {"q": "Why is Jumla important in Nepali history?", "a": "Jumla was the heartland of the Khasa Malla empire, whose capital was at nearby Sinja, and later the seat of the kingdom of Jumla, the strongest of the twenty-two Baise kingdoms. The Khas language spoken here is the ancestor of modern Nepali."}
+  ]
+}

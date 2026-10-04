@@ -1,0 +1,80 @@
+{
+  "slug": "arun-valley-chainpur-crafts-7n",
+  "title": "Arun Valley and Chainpur Crafts",
+  "region": "eastern-nepal",
+  "kind": "culture",
+  "nights": 7,
+  "themes": ["crafts-and-makers", "villages-and-homestays", "lakes-and-rivers", "food-and-festivals"],
+  "grade": "Easy",
+  "stops": [
+    {"place": "tumlingtar", "nights": 1},
+    {"place": "chainpur", "nights": 2},
+    {"place": "tumlingtar", "nights": 1},
+    {"place": "hile", "nights": 1},
+    {"place": "dhankuta", "nights": 1},
+    {"place": "bhedetar", "nights": 1}
+  ],
+  "start": "Kathmandu (morning flight to Tumlingtar)",
+  "end": "Kathmandu (flight from Biratnagar)",
+  "price_from_usd": 1300,
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Unhurried",
+  "max_altitude_m": 1850,
+  "meta_description": "Arun valley and Chainpur, 7 nights: Tumlingtar's river terrace, Chainpur brass workshops, then the Koshi Highway to Hile, Dhankuta and Bhedetar.",
+  "summary": "Seven nights from the Arun valley to the plains. Fly to Tumlingtar on its broad river terrace, spend two days with the metalworkers of Chainpur, walk the villages above the Arun, then follow the Koshi Highway south through Hile, Dhankuta and Bhedetar to Biratnagar. Workshops, family kitchens and quiet hill bazaars, with a licensed guide.",
+  "intro": [
+    "The Arun is one of the great rivers of the Himalaya. It rises on the Tibetan plateau, cuts straight through the main range east of Makalu, and runs south through Sankhuwasabha in a deep, warm valley before joining the Tamor and Sun Koshi to form the Sapta Koshi. On its banks and ridges live Rai, Newar, Sherpa, Gurung, Brahmin and Chhetri families, and on one ridge sits Chainpur, a small bazaar whose metalworkers have made brass and copper vessels for households across the eastern hills for generations.",
+    "This trip is about makers and places that rarely see foreign visitors. We spend time in Chainpur's workshops, walk the terraces above the Arun, and then travel south on the Koshi Highway through the cool ridge bazaars of Hile and Dhankuta to Bhedetar, ending on the plains at Biratnagar. Drives are short to medium, nights are in simple hotels and homestays, and there is time every day to sit, watch and talk."
+  ],
+  "story": "The plane lands on a flat terrace high above the Arun, where the air is warm and mango trees shade the lanes. Next day the road climbs past Khandbari to Chainpur, and you hear the bazaar before you see it: the ring of hammers on brass. In small workshops, families shape water jugs and pots by hand, as their parents and grandparents did. You walk out along the ridge to villages with views down to the river and, on clear mornings, the snow of the Makalu range. Then the road turns south, down to the Arun at Leguwa and up to Hile, where tongba is served in wooden pots, on to the cobbled lanes of Dhankuta and finally the high ridge at Bhedetar, with the plains laid out below.",
+  "highlights": [
+    "Two days with the brass and copper workers of Chainpur",
+    "Tumlingtar's broad river terrace above the Arun",
+    "Village walks above the Arun with views of the Makalu range on clear days",
+    "Tongba and Kirat food in Hile",
+    "The cobbled old bazaar of Dhankuta and sunset at Bhedetar"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Tumlingtar", "place": "tumlingtar", "overnight": "Tumlingtar", "alt_m": 410, "move": "≈ 45 min flight", "text": "A morning flight from Kathmandu to Tumlingtar, a broad flat terrace at about 410 m above the Arun river. The word tar means a raised river terrace, and this is one of the largest in Nepal's hills. After lunch, walk across the terrace with your guide through fields and villages to the edge above the river, and down to the bank if time allows. The valley is warm, green and quiet. Dinner at a simple local hotel and an early night.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Tumlingtar to Chainpur", "place": "chainpur", "overnight": "Chainpur", "alt_m": 1300, "move": "≈ 2–3 h drive", "text": "A short drive north past Khandbari, the district headquarters of Sankhuwasabha, and along the ridge to Chainpur. The bazaar has stone-paved lanes, old houses with carved windows and small temples. In the afternoon, a first walk through the bazaar with your guide to meet some of the metalworking families and learn how the craft is organised: who casts, who hammers, who polishes, and where the metal comes from. Dinner with a local family if arranged.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "A day with Chainpur's metalworkers", "place": "chainpur", "overnight": "Chainpur", "alt_m": 1300, "move": "walks", "text": "A full day in the workshops. Watch brass and copper being heated, hammered and shaped into water jugs, pots and ritual vessels, and try a few strokes of the hammer yourself if the makers agree. Your guide translates questions about the craft, its history and how it is changing as factory-made steel replaces hand-made metal in many homes. Buy directly from the makers if you like. In the late afternoon, a walk along the ridge for views over the Arun valley.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Village walk and back to Tumlingtar", "place": "tumlingtar", "overnight": "Tumlingtar", "alt_m": 410, "move": "≈ 3–4 h walk · ≈ 2 h drive", "text": "A morning walk from Chainpur along the ridge and down through terraced villages of Rai, Gurung and Chhetri families, with millet, maize and cardamom growing on the slopes. On clear mornings the snow peaks of the Makalu range show to the north. The car meets us lower down for the drive back through Khandbari to Tumlingtar. In the evening, sit at the edge of the terrace as the light fades over the river.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Down the Arun to Hile", "place": "hile", "overnight": "Hile", "alt_m": 1850, "move": "≈ 5–6 h drive", "text": "We follow the Koshi Highway south along the Arun to Leguwa, then climb out of the valley through forest and farmland to Hile, a cool bazaar on the ridge at about 1,850 m. The change in air is welcome after the warm valley. Hile is known for tongba, fermented millet served warm in a wooden pot with a bamboo straw. In the evening, your guide introduces you to a local family who make it, and you share a pot and a home-cooked meal.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Hile to Dhankuta", "place": "dhankuta", "overnight": "Dhankuta", "alt_m": 1200, "move": "≈ 13 km · 30–45 min drive · walks", "text": "A short drive down the ridge to Dhankuta, long the administrative centre of eastern Nepal. Walk the cobbled old bazaar, with Newar shopfronts, carved windows and small temples, and continue out to orange orchards and Rai villages on the slopes around town. In winter the oranges are ripe and sold by the roadside. In the afternoon, visit a family kitchen for kinema, gundruk and sel roti. Dinner in a local restaurant.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Dhankuta to Bhedetar", "place": "bhedetar", "overnight": "Bhedetar", "alt_m": 1420, "move": "≈ 35 km · 1.5–2 h drive", "text": "The Koshi Highway drops to Mulghat on the Tamor river and climbs again to Bhedetar, a ridge village high above Dharan with sweeping views over the Terai. Spend the afternoon walking the ridge paths through forest and small farms. Sunset is the reason to be here: on clear evenings the plains glitter below and the Koshi river shines in the west. Over dinner, your guide talks through the Kirat shrines of Dharan you will visit tomorrow, and an early night sets you up for sunrise.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Dharan and fly from Biratnagar", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 2 h drive · ≈ 40 min flight", "text": "Sunrise from the Bhedetar ridge, then down the hairpins to Dharan. Visit the Budha Subba shrine, a Kirat place of worship beside a bamboo grove, and walk the busy market, where you can buy kinema, dried chhurpi or sukuti to take home. Then on through Itahari to Biratnagar for the flight back to Kathmandu. Our driver meets you at the airport and takes you to your hotel or onward plans.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Tumlingtar and Biratnagar–Kathmandu flights",
+    "Private car and driver for all road transfers",
+    "Licensed English-speaking guide throughout",
+    "Seven nights in simple hotels and homestays, twin sharing",
+    "Meals as listed, workshop visits, village walks and family cooking sessions",
+    "Kathmandu airport transfers"
+  ],
+  "excludes": [
+    "International flights, Nepal visa fees and travel insurance",
+    "Hotel nights in Kathmandu",
+    "Meals not listed, drinks and craft purchases",
+    "Tips for guide and driver"
+  ],
+  "good_to_know": [
+    "Stays are simple, clean hotels and homestays; there are no luxury properties in the Arun valley.",
+    "Workshops are working places; we visit at times that suit the makers, and buying is never expected.",
+    "Tumlingtar flights can be delayed by cloud; we keep the first afternoon flexible.",
+    "The Koshi Highway can be blocked by landslides in the monsoon; check current status before you travel.",
+    "The trip can be linked to the Makalu Base Camp trek from Tumlingtar."
+  ],
+  "faqs": [
+    {"q": "What is Chainpur famous for?", "a": "Chainpur is a hill bazaar in Sankhuwasabha district known for its metalworkers, who make brass and copper water jugs, pots and ritual vessels by hand. The craft has been passed down in families for generations. The bazaar's stone-paved lanes, old houses and small temples make it pleasant to explore on foot."},
+    {"q": "How do I get to Tumlingtar?", "a": "Fly from Kathmandu to Tumlingtar in about 45 minutes. Flights can be delayed or cancelled by cloud, so we keep spare time in the plan. By road, Tumlingtar can be reached from the south along the Koshi Highway from Dharan and Hile, or from Kathmandu in a long day and a half."},
+    {"q": "Can I buy brass and copper items in Chainpur?", "a": "Yes, you can buy directly from the makers. Pieces range from small cups and bowls to large water pots and ritual vessels. Prices depend on weight and craft. Larger pieces are heavy, so think about luggage limits on domestic flights, usually around 15–20 kg. Your guide can help with fair prices and packing."},
+    {"q": "Is this trip suitable for families?", "a": "Yes. The drives are mostly short, the walks are easy and can be shortened, and the highest point is about 1,850 m. Children usually enjoy watching the metalworkers and the village visits. Stays are simple but clean, with hot water. Tell us the ages of your children and we will adjust the pace."},
+    {"q": "What is the Arun river?", "a": "The Arun rises on the Tibetan plateau and cuts through the main Himalaya east of Makalu, one of the few rivers to cross the range. In Nepal it flows south through Sankhuwasabha and joins the Tamor and Sun Koshi at Tribeni to form the Sapta Koshi. Its deep, warm valley is home to many communities and several hydropower projects."},
+    {"q": "When is the best time for the Arun valley trip?", "a": "October to March is best: dry, clear and pleasant, with mountain views on clear mornings and oranges ripe around Dhankuta in winter. Spring is warmer and hazier. The monsoon from June to August brings heavy rain, heat in the valley and landslides on the roads."},
+    {"q": "Do I need permits for Chainpur and Tumlingtar?", "a": "No special permits are needed for Tumlingtar, Chainpur, Hile, Dhankuta or Bhedetar. These areas are outside national parks and restricted zones. If you extend the trip to the Makalu Base Camp trek, you will need a Makalu-Barun National Park permit and a licensed guide, which we arrange."},
+    {"q": "What food will I try on this trip?", "a": "Expect dal bhat, kinema, gundruk, sel roti and sukuti, tongba in Hile, and Rai and Newar home cooking in Chainpur and Dhankuta. The Arun valley grows fruit such as mangoes and oranges in season. Your guide can arrange vegetarian meals."},
+    {"q": "How much does the Arun valley and Chainpur trip cost?", "a": "Our seven-night trip is from USD 1,300 per person, twin sharing. It includes the two domestic flights, a private car and driver, a licensed guide, seven nights in simple hotels and homestays, the workshop visits, village walks, cooking sessions and the meals listed. Craft purchases, drinks and tips are extra."}
+  ]
+}

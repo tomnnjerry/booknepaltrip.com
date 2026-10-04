@@ -1,0 +1,74 @@
+{
+  "slug": "nuwakot-farm-stay-palace-3n",
+  "title": "Nuwakot palace and farm stay",
+  "region": "langtang-manaslu",
+  "kind": "culture",
+  "nights": 3,
+  "themes": ["heritage-and-temples", "slow-and-wellness", "villages-and-homestays", "food-and-festivals"],
+  "grade": "Easy",
+  "stops": [
+    {"place": "nuwakot", "nights": 3}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 650,
+  "best_months": [2, 2, 2, 1, 1, 1, 1, 1, 1, 2, 2, 2],
+  "pace": "Unhurried",
+  "max_altitude_m": 2030,
+  "meta_description": "Nuwakot farm stay, 3 nights at The Famous Farm: the seven-storey Nuwakot Durbar of Prithvi Narayan Shah, village walks, Devighat and slow farm meals.",
+  "summary": "Three slow nights in Nuwakot, the hill town where Prithvi Narayan Shah began the unification of Nepal. You stay at The Famous Farm, walk to the seven-storey Nuwakot Durbar and Bhairavi temple, wander farm villages above the Trishuli valley and visit the river confluence at Devighat. Short drives, no trekking, plenty of time.",
+  "intro": [
+    "Nuwakot is a three-to-four-hour drive north-west of Kathmandu, over the Kakani ridge and down toward the Trishuli river, yet very few visitors stop here. That is a shame, because this hilltop is where modern Nepal began. In 1744 Prithvi Narayan Shah of Gorkha took Nuwakot, cutting the Kathmandu valley's route to Tibet, and built a seven-storey palace on the ridge. He used it as a base for the long campaign that ended with the conquest of the valley, and he died in Nuwakot in 1775.",
+    "Today Nuwakot is a quiet village of brick and timber houses, terraced fields and old temples, with the Trishuli valley spread below and Ganesh and Langtang Himal on clear mornings. You stay at The Famous Farm, a farmhouse lodge known for its unhurried pace and meals from local produce. Days are for walking, reading, eating and talking, with a guide to tell you the history. It is the opposite of a trek, and a good pairing with one."
+  ],
+  "story": "You leave Kathmandu's traffic for the pine forest of Kakani and the long descent to the Trishuli valley. By afternoon you are on a ridge where buffalo bells and pigeons are the main sounds. The next morning the palace appears: seven storeys of brick and carved wood, damaged in the 2015 earthquake and carefully restored, with the Taleju temple beside it and the Bhairavi temple a short walk away. Prithvi Narayan Shah watched the valley from these windows and planned the campaign that made a country. Around you, farmers still plant rice in the monsoon and harvest it in autumn, as they did in his day. Three nights here pass slowly, and that is the whole idea.",
+  "highlights": [
+    "Nuwakot Durbar, the seven-storey palace built after Prithvi Narayan Shah took Nuwakot in 1744",
+    "The Bhairavi temple and the Taleju temple beside the palace",
+    "Three nights at The Famous Farm with meals from local produce",
+    "Village walks among terraces above the Trishuli valley",
+    "Devighat, the sacred confluence of the Trishuli and Tadi rivers"
+  ],
+  "days": [
+    {"day": 1, "title": "Over Kakani to Nuwakot", "place": "nuwakot", "overnight": "Nuwakot · The Famous Farm", "alt_m": 900,
+     "move": "≈ 75 km · 3–4 h drive", "text": "We collect you in the morning and drive north out of Kathmandu over the Kakani ridge, where pine forest and, on a clear day, the white line of Ganesh Himal appear. Tea at a Kakani viewpoint, then the road winds down toward the Trishuli valley and up to Nuwakot. Check in at The Famous Farm in time for lunch. The afternoon is yours: a nap, a book, or a short walk through the village lanes with your guide as the light turns gold over the terraces.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Nuwakot Durbar and the Bhairavi temple", "place": "nuwakot", "overnight": "Nuwakot · The Famous Farm", "alt_m": 900,
+     "move": "Village walks", "text": "Spend the morning at Nuwakot Durbar, the seven-storey palace built after Prithvi Narayan Shah captured the hilltop in 1744. Your guide explains how Nuwakot controlled the trade route between Kathmandu and Tibet, and how the king used it as a base to besiege the valley. Visit the Taleju temple in the palace complex and walk to the Bhairavi temple, the town's most important shrine. Lunch back at the farm, and an afternoon in the garden or helping in the kitchen if you like.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Village walk and Devighat", "place": "nuwakot", "overnight": "Nuwakot · The Famous Farm", "alt_m": 900,
+     "move": "≈ 3 h walk · ≈ 1 h drive", "text": "A morning walk along the ridge and down through farm villages, past terraces, cattle sheds and small shrines, chatting with families as they work. Depending on the season you may see rice planting, millet harvests or oranges ripening. After lunch, drive down to Devighat, where the Tadi river meets the Trishuli, a sacred confluence where cremations and pilgrim baths take place on the ghats. Return to the farm for a last long dinner on the terrace and a slow evening under the stars.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Back to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "≈ 75 km · 3–4 h drive", "text": "A slow breakfast with a view over the valley, then a final walk to the palace for morning light if you wish. We drive back over the Kakani ridge to Kathmandu, reaching the city in time for lunch, where the trip ends at your hotel. Nuwakot pairs well with the Langtang or Tamang Heritage treks, since it lies on the same road north, and it makes a gentle rest before or after a mountain walk. Ask us to join the two.", "meals": "Breakfast"}
+  ],
+  "stays": ["the-famous-farm-nuwakot"],
+  "includes": [
+    "Private car and driver Kathmandu–Nuwakot–Kathmandu, and for the Devighat visit",
+    "Three nights at The Famous Farm, twin sharing, with meals as listed",
+    "Local guide for the palace, temples and village walks",
+    "Nuwakot Durbar entry fee"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before and after the trip",
+    "International flights and Nepal visa fees",
+    "Travel insurance",
+    "Drinks and personal spending",
+    "Tips for guide and driver"
+  ],
+  "good_to_know": [
+    "The Kakani road is winding; bring motion-sickness tablets if you need them.",
+    "Nuwakot is warm from April to September, often above 30 °C at midday in May and June.",
+    "Dress modestly at temples and ask before photographing people at Devighat, especially near cremations.",
+    "The Famous Farm is small and books up in October, November and around Nepali holidays; reserve early.",
+    "Road works north of Kathmandu can add time; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Where is Nuwakot and how do I get there?", "a": "Nuwakot is a historic hill town in Nuwakot district, north-west of Kathmandu above the Trishuli river. The usual route is over the Kakani ridge, about 75 km and 3 to 4 hours by private car. Public buses run from Kathmandu to Bidur, the district headquarters, from where local transport climbs to Nuwakot, but a private car is far easier."},
+    {"q": "What is Nuwakot Durbar?", "a": "Nuwakot Durbar is a seven-storey palace on the Nuwakot ridge, built after Prithvi Narayan Shah of Gorkha captured the town in 1744. It served as his base during the campaign that led to the conquest of the Kathmandu valley. The complex includes temples and other buildings. It was badly damaged in the 2015 earthquake and has since been restored."},
+    {"q": "Why is Nuwakot important in Nepali history?", "a": "Nuwakot controlled the trade route between the Kathmandu valley and Tibet. When Prithvi Narayan Shah took it in 1744, he cut the valley's trade and gained a base close to the Malla kingdoms. From here he campaigned until he took Kathmandu in 1768, laying the foundation of modern Nepal. He died in Nuwakot in 1775."},
+    {"q": "What is The Famous Farm in Nuwakot like?", "a": "The Famous Farm is a small farmhouse lodge in Nuwakot village, built in traditional style and known for its slow pace, garden setting and meals made from local produce. Rooms are simple and comfortable rather than luxurious, and there is no television or nightlife. It suits couples, families and anyone who wants quiet days near the palace."},
+    {"q": "Is Nuwakot good for families with children?", "a": "Yes. Drives are short, there is no trekking, and children enjoy the farm animals, fields and the palace's steep wooden stairs, with a careful eye. Village walks can be shortened, and there is space to play. Bring games and books, since evenings are quiet. Nuwakot also works as a rest stop for families on the way to Langtang."},
+    {"q": "What is the best time to visit Nuwakot?", "a": "October to March is the most comfortable, with dry, clear days and mountain views from the ridge. Spring is warm, and May and June can be hot at midday. The monsoon from June to September is green and lovely for rice planting, but roads can be slow. Most months work for a farm stay."},
+    {"q": "Can I combine Nuwakot with a trek?", "a": "Yes. Nuwakot lies near the road to Syabrubesi and Dhunche, the trailheads for the Langtang Valley, Gosaikunda and Tamang Heritage treks. A night or two at Nuwakot before a trek breaks up the long drive, and a stay after the trek is a gentle way to rest. We can arrange the transfers to join them."},
+    {"q": "What is Devighat?", "a": "Devighat is the sacred confluence of the Trishuli and Tadi rivers, near Bidur in Nuwakot district. Like other river confluences in Nepal, it is a place for ritual bathing and cremation, with temples and ghats along the bank. It is busiest on festival days, when families come to bathe and make offerings. Visitors are welcome to watch quietly."},
+    {"q": "Do I need a permit to visit Nuwakot?", "a": "No trekking permit is needed. Visitors pay a small entry fee at Nuwakot Durbar, which is included in this trip, and the temples are free, though a donation is welcome. You should carry your passport for checks on the road. Rules can change, so check current status before you travel."}
+  ]
+}

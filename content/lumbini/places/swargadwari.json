@@ -1,0 +1,164 @@
+{
+  "slug": "swargadwari",
+  "name": "Swargadwari",
+  "name_ne": "स्वर्गद्वारी",
+  "local_name": "",
+  "region": "lumbini",
+  "kind": "pilgrimage site",
+  "wiki": "Swargadwari",
+  "image_query": "Swargadwari temple Pyuthan",
+  "lat": 28.1213,
+  "lng": 82.6735,
+  "altitude_m": 2100,
+  "tagline": "The hilltop gateway to heaven, its sacred fire burning since 1895",
+  "meta_description": "Swargadwari in Pyuthan: hilltop ashram of Swami Hamsananda, a sacred yagya fire burning since 1895, hundreds of cows, caves and Himalayan views. How to visit.",
+  "summary": "Swargadwari, 'the gateway to heaven', is a Hindu pilgrimage site on a forested ridge at about 2,100 m in Pyuthan district. Founded by the yogi Swami Hamsananda, it is known for its cows and a sacred yagya fire said to have burned continuously since 1895. It is a long road trip from Lumbini or Dang.",
+  "intro": [
+    "Swargadwari stands on a high ridge in Pyuthan, in the far west of Lumbini Province, with forest falling away on every side and, on clear mornings, the Dhaulagiri and Annapurna ranges on the northern horizon. Its name means the door to heaven.",
+    "The ashram was founded by a yogi known as Swami Hamsananda, who lived on this ridge herding and milking cows. In 1895, on the full moon of Baisakh, a sacred fire was lit in the yagya kunda, the fire altar, and pilgrims say it has never gone out. Hundreds of cows are still kept here, and devotees bring ghee, grain and fodder as offerings.",
+    "Few foreign travellers reach Swargadwari, but Nepali pilgrims come in large numbers, especially on full-moon days. It suits travellers with time, an interest in living Hindu practice and no need for comfort."
+  ],
+  "story": {
+    "title": "A yogi, his cows and a fire that never goes out",
+    "paras": [
+      "Swargadwari's modern history begins with one man. Narayan Gautam, a yogi from the western hills later known as Swami Hamsananda and as Guru Maharaj, came to this ridge in the late 19th century and spent most of his life here, meditating, herding and milking cows. In Hindu belief the cow is sacred, and his care for the herd became the heart of the place.",
+      "In 1895, on the full moon of Baisakh, he lit the fire of a Vedic yagya, a sacrificial rite, in an altar at the ashram. Priests and devotees have tended it ever since, feeding it with ghee and wood. Around the fire grew temples, rest houses and cattle sheds, and a pilgrimage that now draws visitors from across Nepal and India.",
+      "The ashram has had hard years. During and after the civil war of 1996 to 2006, donations of hay and straw fell so low that the cows were at risk of starving. Roads have since been built through Pyuthan, and the pilgrimage has grown again. The site is listed in Nepal's national inventory of cultural and historic heritage."
+    ]
+  },
+  "legend": "Swargadwari means the gateway to heaven, and local tradition says the five Pandava brothers of the Mahabharata stayed on this ridge. Some pilgrims say it was here that they rested on their final journey towards heaven. Devotees also tell of Swami Hamsananda meditating in the Gaumukhi cave, near a spring shaped like a cow's mouth, and believe that worship at Swargadwari opens the door to heaven for the faithful.",
+  "people": "Pyuthan is a hill district of Magar, Chhetri, Brahmin and Dalit communities, many of whom farm maize, millet, wheat and rice on terraces and keep cows, goats and buffalo. Nepali is the common language, with Magar spoken in many villages. The ashram is run by priests and volunteers, and pilgrims come from Pyuthan, Rolpa, Dang and much further afield.",
+  "untold": [
+    {"fact": "The sacred fire in Swargadwari's yagya kunda was lit on a full moon of Baisakh in 1895, and priests and pilgrims say it has burned without going out ever since.", "source": "The Kathmandu Post, 'Gateway to heaven and beyond', January 2020"},
+    {"fact": "After Nepal's civil war of 1996–2006, donations of straw and hay to Swargadwari fell so low that the ashram's resident cattle were in danger of starving.", "source": "Wikipedia: Swargadwari"},
+    {"fact": "Swargadwari is listed in Nepal's national inventory of cultural and historic heritage sites and is counted among the country's most important Hindu pilgrimages.", "source": "Wikipedia: Swargadwari"}
+  ],
+  "local_words": [
+    {"word": "yagya", "script": "यज्ञ", "lang": "Nepali", "meaning": "Vedic fire ritual; the yagya kunda is the sacred fire altar"},
+    {"word": "gai", "script": "गाई", "lang": "Nepali", "meaning": "Cow, honoured at Swargadwari as sacred"},
+    {"word": "purnima", "script": "पूर्णिमा", "lang": "Nepali", "meaning": "Full moon; the busiest pilgrimage days"}
+  ],
+  "taste": {"name": "Khir", "text": "Rice cooked slowly in milk with sugar, cardamom and sometimes cashews or raisins, a dish of offerings and festivals across Nepal. In a place devoted to cows, milk dishes like khir and fresh curd are the natural food; ask at tea shops on the approach roads."},
+  "facts": [["Best months", "Oct – Nov, Mar – Apr"], ["Days we suggest", "1–2 nights"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 7–8 h by road)"], ["From Lumbini", "≈ 8–9 h by road"], ["Altitude", "≈ 2,100 m"], ["Known for", "Eternal yagya fire, sacred cows, Swami Hamsananda"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The yagya kunda", "text": "The fire altar at the centre of the ashram, where a sacred flame is said to have burned since the full moon of Baisakh in 1895. Pilgrims offer ghee and grain, and priests tend it day and night."},
+    {"title": "The cows of Swargadwari", "text": "Hundreds of cows live at the ashram, cared for as sacred animals in the tradition of Swami Hamsananda. Pilgrims bring fodder and offerings for them, and their milk and ghee feed the rituals."},
+    {"title": "Gaumukhi cave and spring", "text": "A cave where the founder is believed to have meditated, near a spring called Gaumukhi, the cow's mouth. It is a quiet place a short walk from the main temples."},
+    {"title": "Himalayan views", "text": "From the ridge at about 2,100 m, clear mornings show Dhaulagiri, the Annapurna range and Machhapuchhre far to the north-east, above the hills of Pyuthan and Rolpa."},
+    {"title": "Full-moon pilgrim days", "text": "On full-moon days, especially Baisakh Purnima in April or May, the ridge fills with pilgrims, chanting and offerings. It is the most intense and crowded time to visit."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From the East-West Highway, roads climb to Swargadwari via Bhalubang and Bhingri in Pyuthan, or via Ghorahi and Holeri from Dang; each is roughly half a day's drive. From Lumbini allow 8–9 hours in total. Hill roads are rough in places and can close in the monsoon, so check current status before you travel."},
+    {"mode": "On foot", "text": "Depending on current road access, the final approach may involve a walk of an hour or more on a steep trail. Pilgrims have long walked up from the valleys below; ask locally about the current state of the road."}
+  ],
+  "where_to_stay": "The ashram has pilgrim rest houses that can host several hundred people, with very simple rooms and shared facilities; a donation is expected. Small lodges and tea houses on the approach roads offer basic beds and dal bhat. There are no hotels of the kind found in Lumbini or Tansen, so come prepared for simple conditions, bring a sleeping bag liner, and expect cold nights from November to February.",
+  "stays": [],
+  "tips": [
+    "Allow at least one night at or near the ashram; the drive is too long for a comfortable day trip.",
+    "Bring warm clothes: the ridge at about 2,100 m drops close to freezing on winter nights.",
+    "Leather items are not welcome near the yagya kunda and temples; leave belts and leather bags in the car.",
+    "Visit on a non-festival day for quiet, or on Baisakh Purnima for the full crowd; book rest houses ahead for festivals.",
+    "Carry cash; there are no ATMs at the ashram and card payment is not possible."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "treks-and-trails", "photography"],
+  "nearby": ["resunga", "ridi"],
+  "experiences": [
+    {
+      "slug": "swargadwari-yagya-fire-darshan",
+      "title": "Before the sacred fire of 1895",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Early morning or evening, Oct–Apr",
+      "image_query": "Swargadwari Pyuthan yagya fire",
+      "wiki": "Swargadwari",
+      "summary": "Attend morning or evening worship at the yagya kunda of Swargadwari, where priests feed a fire said to have burned since 1895, and hear the story of Swami Hamsananda and his cows from the people who keep the ashram running.",
+      "body": [
+        "We go to the yagya kunda at the time of morning or evening worship. Priests chant Sanskrit verses and pour ghee onto the flames, and pilgrims add grain and offerings. The smoke, the smell of ghee and the sound of bells fill the courtyard.",
+        "Your guide explains what a yagya is: an ancient Vedic fire ritual, here kept going continuously as an act of devotion since the full moon of Baisakh in 1895. Non-Hindus may watch respectfully and are sometimes invited to make an offering.",
+        "Afterwards we walk through the ashram to the cattle sheds and the temples, and, where possible, sit with one of the priests or volunteers to hear about Swami Hamsananda and life on the ridge."
+      ],
+      "good_for": ["solo", "seniors", "couples"],
+      "faqs": [
+        {"q": "Has the Swargadwari fire really burned since 1895?", "a": "The ashram and its devotees say the fire lit on the full moon of Baisakh in 1895 has been tended continuously and never gone out, and this is widely reported in Nepali media. It cannot be independently verified, but the unbroken tending of the fire is central to the site's identity and to its pilgrims' faith."},
+        {"q": "Can non-Hindus visit Swargadwari?", "a": "Yes, respectful visitors are generally welcome to the ashram, temples and cattle sheds. Some inner shrines may be restricted. Dress modestly, remove shoes where asked, avoid leather near the fire, and follow your guide's lead on offerings and photography."},
+        {"q": "What should I offer at Swargadwari?", "a": "Common offerings are ghee for the fire, grain, flowers, incense and fodder for the cows, along with a cash donation to the ashram. Small amounts are fine. You can buy ghee and puja items at stalls near the ashram. Offerings are always voluntary."}
+      ]
+    },
+    {
+      "slug": "swargadwari-sacred-cows",
+      "title": "Morning with the cows of Swargadwari",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours",
+      "best_time": "Early morning, all year",
+      "image_query": "cows Hindu ashram Nepal",
+      "wiki": "",
+      "summary": "Visit the cattle sheds at dawn, when the ashram's cows are milked and fed, to see the daily work behind Swargadwari's devotion to the cow and the herd Swami Hamsananda began.",
+      "body": [
+        "Cows are the heart of Swargadwari. Swami Hamsananda spent his life herding and milking them on this ridge, and the ashram still keeps hundreds. For Hindus, caring for cows is an act of merit, and many pilgrims come specifically to feed them.",
+        "At dawn the sheds are busy: cows are milked by hand, fed and led out to graze on the slopes. The milk and ghee go to the ashram kitchen and the sacred fire. Pilgrims arrive with bundles of fodder, touch the cows' foreheads and ask for blessings.",
+        "Your guide explains the place of the cow in Hindu belief and in Nepal, where it is the national animal. It is a simple, earthy hour that shows the ashram as a working farm as well as a temple."
+      ],
+      "good_for": ["families", "solo", "photographers"],
+      "faqs": [
+        {"q": "How many cows are there at Swargadwari?", "a": "Numbers change with donations, seasons and births, but the ashram keeps several hundred cows, and recent reports have put the figure in the range of 300 to 500. Historically the herd was much larger under Swami Hamsananda. Ask the ashram staff for the current number when you visit."},
+        {"q": "Why are cows sacred in Hinduism?", "a": "In Hindu belief the cow is a symbol of motherhood, generosity and non-violence, giving milk, ghee and fuel. It is associated with gods such as Krishna. In Nepal the cow is the national animal and killing one is a crime. Caring for and feeding cows is seen as earning religious merit."},
+        {"q": "Can I help feed the cows?", "a": "Yes. Pilgrims commonly bring or buy fodder, such as hay, straw and grass, to feed the cows, and visitors are welcome to join with care. Approach calmly from the side, follow the staff's instructions, and do not walk behind the animals. Wash your hands afterwards."}
+      ]
+    },
+    {
+      "slug": "swargadwari-ridge-sunrise",
+      "title": "Sunrise over the Himalaya from the ridge",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "image_query": "Dhaulagiri sunrise view hills Nepal",
+      "wiki": "",
+      "summary": "Wake before dawn and walk to the viewpoint on the Swargadwari ridge to watch the sun light up Dhaulagiri, the Annapurnas and Machhapuchhre, with the hills of Pyuthan and Rolpa in shadow below.",
+      "body": [
+        "Staying overnight at Swargadwari has one great reward: sunrise. We walk a few minutes from the rest house to an open point on the ridge in the dark, wrapped in jackets, with tea in a flask.",
+        "As the sky lightens, the snow peaks appear far to the north-east: Dhaulagiri, then the Annapurna range and the sharp fishtail of Machhapuchhre, turning pink and gold as the sun reaches them. Below, the valleys of Pyuthan are full of mist.",
+        "Back at the ashram the morning worship is starting, and the smell of ghee from the yagya kunda drifts across the courtyard."
+      ],
+      "good_for": ["photographers", "couples", "trekkers"],
+      "faqs": [
+        {"q": "Which mountains can you see from Swargadwari?", "a": "On clear mornings the views from the ridge include Dhaulagiri, the Annapurna range and Machhapuchhre to the north-east. Clarity is best from October to February at sunrise. From April haze often hides the peaks, and in the monsoon they are usually lost in cloud."},
+        {"q": "How cold is Swargadwari at dawn?", "a": "At about 2,100 m, dawn temperatures from December to February can be close to freezing, and windy on the ridge. In October, November, March and April expect around 5–10 °C at dawn. Bring a warm jacket, hat and gloves for the sunrise walk."},
+        {"q": "Do I need to stay overnight to see the sunrise?", "a": "Yes, in practice. Swargadwari is several hours from the nearest towns with comfortable hotels, so the only way to be on the ridge at dawn is to sleep at the ashram rest houses or a nearby lodge. Book ahead if your visit falls on a festival or full-moon day."}
+      ]
+    },
+    {
+      "slug": "swargadwari-gaumukhi-cave-walk",
+      "title": "To the Gaumukhi cave and spring",
+      "kind": "trek",
+      "duration": "1–2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Swargadwari cave Pyuthan",
+      "wiki": "",
+      "summary": "A short walk from the ashram through ridge-top forest to the Gaumukhi cave, where Swami Hamsananda is believed to have meditated, and the spring named for a cow's mouth.",
+      "body": [
+        "Beyond the main temples, paths lead along the ridge through oak and rhododendron forest. One goes to the Gaumukhi cave, a rock shelter where the ashram's founder is said to have meditated, and to the spring beside it, whose shape gives it the name cow's mouth.",
+        "Pilgrims stop to drink and collect the water, light incense in the cave and sit for a few minutes. Your guide tells the stories devotees share about Swami Hamsananda's life and the Pandavas' stay on the ridge.",
+        "The walk is short but uneven, with some steep steps. It gives a quiet hour away from the crowds at the yagya kunda."
+      ],
+      "good_for": ["solo", "couples", "trekkers"],
+      "faqs": [
+        {"q": "What is the Gaumukhi cave at Swargadwari?", "a": "Gaumukhi is a cave near the Swargadwari ashram where Swami Hamsananda, the founder, is believed to have meditated. A spring nearby is called Gaumukhi, the cow's mouth. Pilgrims visit both after worshipping at the main temples."},
+        {"q": "Is the walk to the cave difficult?", "a": "It is a short walk from the ashram, usually under an hour each way, on forest paths with uneven ground and some steep steps. Anyone reasonably mobile can manage it with care. Wear shoes with good grip, especially after rain."},
+        {"q": "Is the Gaumukhi spring water safe to drink?", "a": "Pilgrims drink it as sacred water, but untreated spring water can carry bacteria. If you want to take part, a sip is a personal choice; for drinking, treat it first with tablets or a filter, or use bottled water. Collecting a small bottle to take home is common."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Swargadwari?", "a": "Swargadwari is on a forested ridge at about 2,100 m in Pyuthan district, in the west of Lumbini Province. Roads climb to it from the East-West Highway via Bhalubang and Bhingri, or from Ghorahi in Dang. From Lumbini the trip takes about 8–9 hours by road."},
+    {"q": "What does Swargadwari mean?", "a": "Swargadwari means the gateway or door to heaven, from the Nepali and Sanskrit words swarga, heaven, and dwar, door. Local tradition links the name with the Pandava brothers of the Mahabharata, said to have stayed here, and with the belief that worship here opens heaven's door."},
+    {"q": "Who founded Swargadwari?", "a": "The ashram was founded by Narayan Gautam, a yogi known as Swami Hamsananda or Guru Maharaj, who lived on the ridge from the late 19th century, herding and milking cows. He lit the sacred yagya fire in 1895 that devotees say still burns."},
+    {"q": "When is the best time to visit Swargadwari?", "a": "October to November and March to April are best, with clear views and mild days. Baisakh Purnima, the full moon of April or May, is the busiest pilgrimage day. Winter nights are close to freezing, and the monsoon from June to September brings rain and road problems."},
+    {"q": "Where can I stay at Swargadwari?", "a": "The ashram runs pilgrim rest houses with very simple rooms and shared facilities, able to host several hundred people. A donation is expected. Small lodges on the approach roads offer basic rooms. Bring warm layers and a sleeping bag liner, and book ahead for festival days."},
+    {"q": "How do I get to Swargadwari from Lumbini?", "a": "Drive west on the East-West Highway via Butwal to Bhalubang, then north into Pyuthan via Bhingri, about 8–9 hours in total. A private jeep with an experienced driver is the most practical option. Check road conditions before you travel, especially after the monsoon."},
+    {"q": "Is Swargadwari suitable for foreign tourists?", "a": "Yes, for travellers interested in living Hindu pilgrimage who are comfortable with long drives and basic facilities. There are few foreigners, little English signage and simple food and beds. Visiting with a guide who speaks Nepali makes the experience much richer."},
+    {"q": "What is the yagya at Swargadwari?", "a": "A yagya is a Vedic fire ritual in which offerings such as ghee and grain are given to the sacred fire with chanting. At Swargadwari a yagya fire lit on the full moon of Baisakh in 1895 has, devotees say, been tended continuously ever since."},
+    {"q": "Can I visit Swargadwari as a day trip?", "a": "It is possible from Dang or Pyuthan towns, but not comfortably from Lumbini or Tansen, which are 8 hours or more away. We recommend at least one night at or near the ashram, which also lets you see the sunrise and the morning worship."}
+  ]
+}

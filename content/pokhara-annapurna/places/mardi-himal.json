@@ -1,0 +1,171 @@
+{
+  "slug": "mardi-himal",
+  "name": "Mardi Himal",
+  "name_ne": "मार्दी हिमाल",
+  "local_name": "",
+  "region": "pokhara-annapurna",
+  "kind": "trek stop",
+  "wiki": "Mardi Himal",
+  "image_query": "Mardi Himal trek ridge Machhapuchhre",
+  "lat": 28.427,
+  "lng": 83.903,
+  "altitude_m": 3580,
+  "tagline": "A knife-edge ridge walk straight at Machhapuchhre",
+  "meta_description": "Mardi Himal trek with locals: Forest Camp, Low Camp, Badal Danda and High Camp at 3,580 m, the viewpoint under Machhapuchhre, best months, permits and days.",
+  "summary": "Mardi Himal is a 5,587 m peak below Machhapuchhre, and the name of a 4–6 night teahouse trek from Pokhara that follows a narrow grassy ridge to High Camp at about 3,580 m and a viewpoint near 4,500 m. It gives the closest trekking view of Machhapuchhre's fishtail, with fewer people than Annapurna Base Camp.",
+  "intro": [
+    "Look north from Pokhara and below Machhapuchhre's summit you can make out a long ridge running down towards the valley. That is the Mardi Himal ridge, and the trek walks right up it. Days one and two pass through dense rhododendron and oak forest; then the trees end and you are on a grassy crest with drops on both sides, heading straight at the fishtail with Annapurna South and Hiunchuli to the left.",
+    "The route only became a regular teahouse trek in the 2010s, and it still feels newer and quieter than Annapurna Base Camp or Poon Hill. Lodges at Forest Camp, Low Camp, Badal Danda and High Camp are small and simple. The highlight is a pre-dawn climb from High Camp to the upper viewpoint, around 4,200–4,500 m, where Machhapuchhre fills the sky and Mardi Himal's own peak stands close in front.",
+    "It is a short trek with a real altitude gain: from about 1,100 m at the start to over 4,000 m in three or four days. With jeeps at both ends it can be done in 4–5 nights from Pokhara. It suits fit walkers who want big mountain views without a long trip, and photographers who want Machhapuchhre at its most dramatic."
+  ],
+  "story": {
+    "title": "A quiet ridge under the forbidden peak",
+    "paras": [
+      "Mardi Himal is a modest mountain by local standards, 5,587 m, separated from Machhapuchhre by a col about 5,200 m high. It was first climbed in 1961 by Basil Goodfellow, a British climber, four years after the 1957 expedition that came within about 50 m of Machhapuchhre's summit and turned back by agreement with the king. Since then Machhapuchhre has stayed closed, and Mardi is the closest most people get.",
+      "For centuries the ridge itself was used by herders from the Gurung villages below, such as Siding and Lwang, who brought cattle and sheep up to summer grazing on its high meadows. Kharka, the word for a high pasture, still appears in local names, and you may pass stone herders' shelters along the crest. The forests below were sources of fodder, firewood and bamboo.",
+      "As the main Annapurna trails grew busy, local families built simple lodges up the ridge, and in the 2010s the route was promoted as a teahouse trek. It has grown steadily but remains small: lodges at the higher camps have only a few rooms each. The view, the forest and the sense of walking a narrow line into the mountains have stayed the same."
+    ]
+  },
+  "legend": "Gurung tradition holds Machhapuchhre, which towers over the Mardi Himal ridge, as a sacred mountain and a home of Shiva. On windy days a long plume of snow streams from its twin summit; in the old telling, that plume is the smoke of the god's incense. Respect for the mountain is one reason Nepal has kept it closed to climbers since 1957.",
+  "people": "No villages stand on the upper ridge; the lodges are run by families from Gurung villages below, such as Siding, Lwang and Dhampus, many of whom also farm, herd and send members abroad or to the army. Porters on the route are often from these villages too. Down at the trailheads, Brahmin, Chhetri and Gurung households share the lower slopes of the Seti and Mardi valleys.",
+  "untold": [
+    {"fact": "Mardi Himal (5,587 m) was first climbed in 1961 by Basil Goodfellow, and is separated from Machhapuchhre by a col about 5,200 m high.", "source": "Wikipedia: Mardi Himal"},
+    {"fact": "Machhapuchhre, which fills the view from Mardi's ridge, has had no climbing permits issued since a 1957 British team stopped about 46 m below its summit by agreement with King Mahendra.", "source": "Wikipedia: Machapuchare"},
+    {"fact": "The Himalayan monal, called danphe in Nepali and Nepal's national bird, lives on high forest edges and grassy slopes across the Himalaya, and the male's metallic plumage flashes green, purple, copper and blue.", "source": "Wikipedia: Himalayan monal"}
+  ],
+  "local_words": [
+    {"word": "Danphe", "script": "डाँफे", "lang": "Nepali", "meaning": "Himalayan monal, Nepal's national bird"},
+    {"word": "Badal", "script": "बादल", "lang": "Nepali", "meaning": "Cloud; Badal Danda is the cloud ridge"},
+    {"word": "Kharka", "script": "खर्क", "lang": "Nepali", "meaning": "High summer pasture used by herders"}
+  ],
+  "taste": {"name": "Garlic soup", "text": "A thin, hot soup of crushed garlic, ginger and spices that trekkers and guides swear by at altitude. Every lodge from Low Camp to High Camp makes it. It will not prevent altitude sickness, but on a cold evening on the ridge, with Machhapuchhre turning pink outside, it is exactly right."},
+  "facts": [
+    ["Best months", "Oct – Nov, Mar – Apr"],
+    ["Days we suggest", "4–6 nights from Pokhara"],
+    ["Nearest airport", "Pokhara International Airport (PHH)"],
+    ["From Kathmandu", "Via Pokhara: 200 km road or 25 min flight, then 3 days on foot"],
+    ["Altitude", "≈ 3,580 m (High Camp); peak 5,587 m"],
+    ["Known for", "Closest trekking view of Machhapuchhre, ridge walking"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The upper viewpoint at dawn", "text": "A 2–3 hour pre-dawn climb from High Camp up the ridge to a viewpoint around 4,200–4,500 m puts you face to face with Machhapuchhre's summit, with Mardi Himal close by and Annapurna South to the west."},
+    {"title": "Walking the grass ridge", "text": "Above Low Camp the trail follows a narrow crest with drops on both sides and the fishtail straight ahead. On clear mornings the Pokhara valley lies under a sea of cloud below."},
+    {"title": "Sunset at Badal Danda", "text": "The cloud ridge at about 3,200 m often sits above a layer of cloud in the evening, with the Annapurnas glowing and the valleys hidden below."},
+    {"title": "Rhododendron and moss forest", "text": "Between Pothana and Low Camp the trail climbs through tall rhododendron, oak and moss-hung forest, red with flowers in March and April."},
+    {"title": "Down through Siding", "text": "Descend by a quieter route to the Gurung village of Siding in the Mardi Khola valley, with terraces, stone houses and few trekkers."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Pokhara, drive about 45 minutes to Kande or Phedi on the Baglung road, or by jeep to Dhampus, to start. At the end, jeeps collect walkers at Siding or Lwang villages for the 2–3 hour drive back to Pokhara. Private jeeps are booked through your agency."},
+    {"mode": "On foot", "text": "Typical stages: Kande or Dhampus to Forest Camp (about 2,550 m), then Low Camp (about 2,970 m), Badal Danda (about 3,210 m) and High Camp (about 3,580 m). The viewpoint above High Camp is a dawn day trip. Descent via Low Camp to Siding takes a long day."}
+  ],
+  "where_to_stay": "Lodges on the Mardi Himal route are small family teahouses at Forest Camp, Low Camp, Badal Danda and High Camp, with twin or dormitory rooms, shared toilets, a heated dining room and simple menus. They are more basic than on the Poon Hill route, and High Camp has limited rooms, so your guide books ahead in October, November, March and April. Before and after, rest in Pokhara at The Pavilions Himalayas, Tiger Mountain Pokhara Lodge or Lakeside hotels.",
+  "stays": [],
+  "tips": [
+    "Mardi Himal is inside the Annapurna Conservation Area: carry an ACAP permit and TIMS card and trek with a licensed guide; check current status before you travel.",
+    "Do not go to the upper viewpoint in snow or high wind without your guide's agreement; the ridge is exposed.",
+    "Spend at least one night at Low Camp or Badal Danda before High Camp to help acclimatisation.",
+    "Water sources are limited on the upper ridge; buy boiled water at lodges or carry purification.",
+    "Climbing Mardi Himal's summit needs a separate peak permit and mountaineering skills; the trek goes only to the viewpoint."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "photography", "adventure-sports"],
+  "nearby": ["dhampus", "annapurna-base-camp", "ghandruk", "pokhara"],
+  "experiences": [
+    {
+      "slug": "mardi-himal-upper-viewpoint-dawn",
+      "title": "Dawn climb to the Mardi Himal upper viewpoint",
+      "kind": "trek",
+      "duration": "5–7 hours return",
+      "best_time": "Pre-dawn, Oct–Nov and Mar–Apr",
+      "image_query": "Mardi Himal viewpoint Machapuchare close",
+      "wiki": "Machapuchare",
+      "summary": "Leave High Camp around 4–5 am and climb the grass and rock ridge by headlamp to the upper viewpoint, around 4,200–4,500 m, for sunrise directly beneath Machhapuchhre's summit, then return for breakfast.",
+      "body": [
+        "This is the reason for the trek. From High Camp the ridge rises steeply in the dark, a narrow path of grass, dirt and rock with the slopes dropping away on both sides. Walk slowly with your headlamp and your guide's steps in front. As the sky lightens, Machhapuchhre appears, not a distant fishtail now but a vast wall rising above you.",
+        "The upper viewpoint, roughly 4,200–4,500 m depending on how far you go, faces Machhapuchhre's south face with Mardi Himal's summit close on the right and Annapurna South and Hiunchuli to the west. At sunrise the snow turns gold, while the Pokhara valley below lies under a sea of cloud. Some walkers continue towards Mardi Himal Base Camp, a longer and higher extension.",
+        "Turn back when your guide says: weather on the ridge changes quickly, and wind or snow make the exposed path dangerous. Descending is hard on the knees. Back at High Camp, breakfast and then the long walk down to Low Camp or Siding."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How high is the Mardi Himal viewpoint?", "a": "The upper viewpoint above High Camp is usually quoted at around 4,200–4,500 m, depending on how far up the ridge you go; signs and maps vary. Mardi Himal Base Camp is further and higher. High Camp itself is about 3,580 m. The climb from High Camp to the viewpoint takes 2–3 hours, and return about 2 hours."},
+        {"q": "Is the Mardi Himal viewpoint dangerous?", "a": "The ridge is narrow and exposed, with steep drops, and becomes dangerous in snow, ice or strong wind. In good conditions it is a steady hike without technical climbing. Walk with your guide, use poles, start early and turn back if the weather changes. Altitude above 4,000 m also needs care; descend if symptoms appear."},
+        {"q": "Can I see Machhapuchhre from Mardi Himal?", "a": "Yes, closer than from any other trekking route. From the upper viewpoint Machhapuchhre rises directly above you, showing its south face and twin summit. You also see Mardi Himal, Annapurna South and Hiunchuli. Views are best at sunrise from October to April; cloud usually builds by mid-morning."}
+      ]
+    },
+    {
+      "slug": "mardi-himal-badal-danda-sunset",
+      "title": "Sunset above the clouds at Badal Danda",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Late afternoon, Oct–Dec and Mar–Apr",
+      "image_query": "Badal Danda Mardi Himal sea of clouds",
+      "wiki": "",
+      "summary": "At Badal Danda, the cloud ridge at about 3,200 m, the evening often brings a sea of cloud filling the valleys below while the Annapurnas and Machhapuchhre catch the last light above. Sit on the ridge and watch it happen.",
+      "body": [
+        "Badal means cloud, and the ridge earns its name. In the late afternoon, warm air rising from the valleys forms a layer of cloud that often settles below the ridge, so that you sit on a grassy crest above a white sea, with peaks floating on it. The effect is strongest in autumn and spring after clear days.",
+        "From Badal Danda the view runs along the ridge to Machhapuchhre, with Annapurna South and Hiunchuli to the left and Mardi Himal ahead. As the sun drops the snow goes gold, then pink, then grey, while the cloud below turns orange. Bring a warm layer: the temperature drops fast once the sun goes.",
+        "Some itineraries sleep at Badal Danda, others pass through between Low Camp and High Camp. If you are staying at Low Camp, walk up about an hour in the afternoon for sunset and return by headlamp with your guide. Stay on the main trail; the ridge sides are steep."
+      ],
+      "good_for": ["photographers", "couples", "trekkers", "solo"],
+      "faqs": [
+        {"q": "Where is Badal Danda on the Mardi Himal trek?", "a": "Badal Danda is a section of the ridge at about 3,200 m between Low Camp (about 2,970 m) and High Camp (about 3,580 m). It has a few lodges and open grassy slopes with wide views. Some itineraries overnight here; others walk through. It is about 1–1.5 hours above Low Camp."},
+        {"q": "When can you see a sea of clouds on Mardi Himal?", "a": "A sea of clouds below the ridge is most common in the late afternoon or early morning in October, November and spring, after warm, still days. It is not guaranteed. In the monsoon the cloud usually engulfs the ridge entirely. Ask your lodge owner, who watches the patterns daily."},
+        {"q": "Is Badal Danda a good place to overnight?", "a": "Yes, if lodge space allows. Sleeping at about 3,200 m helps acclimatisation before High Camp and gives sunset and sunrise views. Lodges are small and basic, with limited rooms, so book through your guide. Some trekkers prefer Low Camp, which has more lodges and is lower and warmer."}
+      ]
+    },
+    {
+      "slug": "mardi-himal-ridge-birds-danphe",
+      "title": "Looking for the danphe on the Mardi ridge",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "Early morning, Oct–May",
+      "image_query": "Himalayan monal danphe Nepal",
+      "wiki": "Himalayan monal",
+      "summary": "Walk the forest edge and open slopes between Low Camp and High Camp at first light, looking for the Himalayan monal, Nepal's iridescent national bird, along with laughingthrushes, rosefinches and raptors riding the ridge.",
+      "body": [
+        "The Himalayan monal, danphe in Nepali, is Nepal's national bird, and the male is spectacular: plumage that flashes metallic green, purple, copper and blue in the sun. Monals live where high forest meets open slope, digging for roots and insects, which is exactly the habitat of the Mardi ridge above Low Camp.",
+        "Go out early with your guide, binoculars ready, and walk slowly along the forest edge or scan the slopes below the ridge. Monals often call before you see them, a whistling cry, and flush with a clatter when disturbed. You may also see laughingthrushes in the rhododendrons, rosefinches on the grass and lammergeiers or griffons on the wind.",
+        "Sightings are never guaranteed. Keep a respectful distance, do not chase or flush birds deliberately, and stay on the trail. Spring, when birds are more vocal, and late autumn are good times. Combine birding with the walk between camps rather than making it a separate outing."
+      ],
+      "good_for": ["photographers", "trekkers", "solo", "couples"],
+      "faqs": [
+        {"q": "Can you see the Himalayan monal on the Mardi Himal trek?", "a": "It is possible. The monal lives on high forest edges and grassy slopes in the Annapurna region, habitat found on the Mardi ridge above Low Camp. Sightings depend on luck, season and quiet walking. Early mornings in spring and late autumn give the best chance. Do not chase birds for photos."},
+        {"q": "What other wildlife lives on the Mardi Himal ridge?", "a": "The forests and slopes hold laughingthrushes, sunbirds, rosefinches and other Himalayan birds, raptors such as lammergeiers and griffon vultures, and mammals including langur monkeys lower down and Himalayan tahr on steep slopes, though these are shy. Leopards live in the region but are very rarely seen."},
+        {"q": "Do I need binoculars for birding on Mardi Himal?", "a": "Binoculars make a big difference, as many birds stay at a distance on open slopes or high in the trees. Light 8x or 10x binoculars are ideal for trekking. A zoom lens of 300 mm or more helps photographers. Your guide may know local calls and likely spots, so tell them you are interested."}
+      ]
+    },
+    {
+      "slug": "mardi-himal-siding-village-descent",
+      "title": "Descend through the Gurung village of Siding",
+      "kind": "heritage",
+      "duration": "Full day",
+      "best_time": "Morning, Oct–May",
+      "image_query": "Siding village Mardi Khola Kaski",
+      "wiki": "",
+      "summary": "Leave the ridge by the quieter eastern route, down steep forest to Siding, a Gurung village of stone houses and terraces in the Mardi Khola valley, and ride a jeep back to Pokhara the same afternoon or after a village night.",
+      "body": [
+        "Most walkers return the way they came, but the descent from Low Camp to Siding is more interesting. The trail drops steeply through forest of rhododendron and oak, with the sound of the Mardi Khola growing below, then breaks out onto terraces and the first houses. It is a big descent, so poles and patience help.",
+        "Siding is a Gurung village with stone and slate houses, buffalo sheds and terraces of millet and maize, far quieter than the trekking hubs. A few homestays and lodges offer meals and beds. Families here have long grazed animals on the Mardi ridge, and some run the lodges you stayed in above.",
+        "If you stay, walk the village lanes in the evening and eat with a family. If not, have lunch and take a jeep down the valley road towards Lwang and Pokhara, about 2–3 hours depending on the road. Tell your agency in advance so transport is waiting."
+      ],
+      "good_for": ["trekkers", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Is it better to descend Mardi Himal via Siding?", "a": "It gives a different, quieter return through a Gurung village rather than retracing the forest route to Dhampus or Kande. The descent is steep and long, hard on the knees, so it suits walkers who are comfortable going down. A jeep road reaches the valley, making the return to Pokhara straightforward."},
+        {"q": "Can I stay in Siding village?", "a": "Yes. Siding has a few simple lodges and homestays offering beds and home-cooked meals, and a night here adds a village experience to the trek. Facilities are basic, with shared bathrooms. Book through your guide, as capacity is limited. Pay in cash in Nepali rupees."},
+        {"q": "How do I get back to Pokhara from Siding?", "a": "Jeeps run on the valley road from Siding towards Lwang and on to Pokhara, about 2–3 hours depending on conditions. Private jeeps should be booked in advance through your agency. Local jeeps run less predictably. In the monsoon the road can be blocked by landslides, so keep a spare day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days is the Mardi Himal trek?", "a": "Most Mardi Himal treks take 4–6 nights from Pokhara: start at Kande, Phedi or Dhampus, sleep at Forest Camp, Low Camp or Badal Danda and High Camp, climb to the viewpoint at dawn, and descend via Low Camp to Siding or back towards Dhampus. Five nights allows a sensible acclimatisation pace."},
+    {"q": "How difficult is the Mardi Himal trek?", "a": "It is graded moderate. There is no technical climbing, but the trail is steep through forest and exposed on the upper ridge, and you gain about 3,000 m in three days. The dawn climb to the viewpoint is the hardest part. Good fitness, a steady pace and a licensed guide are needed. Snow makes it much harder."},
+    {"q": "What is the highest point of the Mardi Himal trek?", "a": "The usual high point is the upper viewpoint above High Camp, around 4,200–4,500 m depending on the source and how far you go. Mardi Himal Base Camp is a further, higher extension. High Camp, where you sleep, is about 3,580 m. Altitude symptoms are possible; climb steadily and tell your guide."},
+    {"q": "Is Mardi Himal better than Annapurna Base Camp?", "a": "It is shorter, quieter and gives a closer view of Machhapuchhre, with ridge walking above the clouds. ABC goes deeper into the mountains, to 4,130 m inside a ring of peaks under Annapurna I, and takes longer. With 5 days, choose Mardi Himal; with 8 or more, ABC or both."},
+    {"q": "Do I need a permit for Mardi Himal?", "a": "Yes. The trek is inside the Annapurna Conservation Area, so you need an ACAP permit and a TIMS card, and since April 2023 foreign trekkers must walk with a licensed guide. Climbing Mardi Himal's summit is a different matter and needs a separate peak permit. Check current status before you travel."},
+    {"q": "When is the best time for the Mardi Himal trek?", "a": "October and November give the clearest views and stable weather. March and April add rhododendron blossom in the forest, with more afternoon cloud. December to February are cold, and snow can make the upper ridge unsafe. June to September is monsoon: cloud, rain, leeches and slippery trails. Avoid it."},
+    {"q": "Are there teahouses on the Mardi Himal trek?", "a": "Yes, small family teahouses at Forest Camp, Low Camp, Badal Danda and High Camp, plus villages at the start and end. They are simpler than on the Poon Hill route, with fewer rooms and basic bathrooms, so book in peak months. Menus include dal bhat, noodles, soups and eggs. Electricity is limited higher up."},
+    {"q": "How cold is High Camp on Mardi Himal?", "a": "At about 3,580 m, High Camp drops below freezing at night from October to March, around -5 to -10 °C in December and January. Rooms are unheated; dining rooms may have a stove. Bring a four-season sleeping bag, down jacket, hat and gloves. The dawn climb to the viewpoint is the coldest part."},
+    {"q": "Can I climb Mardi Himal peak?", "a": "Mardi Himal's summit at 5,587 m is a mountaineering objective needing a peak climbing permit, a climbing guide, glacier and snow skills and equipment. It is not part of the standard trek. Some agencies offer expeditions. The trek itself goes only to the viewpoint or base camp area below the peak."}
+  ]
+}

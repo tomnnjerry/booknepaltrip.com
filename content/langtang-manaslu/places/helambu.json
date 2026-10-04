@@ -1,0 +1,183 @@
+{
+  "slug": "helambu",
+  "name": "Helambu",
+  "name_ne": "हेलम्बु",
+  "local_name": "Yolmo (Hyolmo)",
+  "region": "langtang-manaslu",
+  "kind": "valley",
+  "wiki": "Helambu",
+  "image_query": "Helambu Tarkeghyang village monastery",
+  "lat": 28.003,
+  "lng": 85.555,
+  "altitude_m": 2600,
+  "tagline": "Hyolmo villages, apple orchards and gompas a day from Kathmandu",
+  "meta_description": "Helambu, the Hyolmo homeland north of Kathmandu: Tarkeghyang, Melamchi Ghyang, monasteries, apples and a 5–8 day trek from Sundarijal. Permits and seasons.",
+  "summary": "Helambu is a region of Hyolmo highland villages about 80 km north-east of Kathmandu, between the Shivapuri ridge and Lauribina La. Known for Buddhist gompas, sweet apples and low-altitude trekking, it is reached on foot from Sundarijal in 5 to 8 days, staying mostly between 1,400 and 3,650 m.",
+  "intro": [
+    "Helambu is the hill country on either side of the Melamchi Khola, north of the Kathmandu Valley and south of the Langtang range. Its people are the Hyolmo, Buddhists whose villages sit on ridges and spurs at around 2,500 to 2,800 m: Tarkeghyang, Melamchi Ghyang, Sermathang, Nakote and others. Stone houses, whitewashed gompas, prayer flags and apple orchards mark the region, and the high trails link it to Gosaikunda and Langtang.",
+    "For trekkers, Helambu is the closest real trek to Kathmandu. You can walk out of the city at Sundarijal and be in Hyolmo country in two or three days, without flights and without going much above 3,650 m. That makes it a good choice for first-timers, families, travellers short of time, and anyone who wants village life and monasteries more than high peaks.",
+    "Helambu has had hard years. The 2015 earthquake destroyed many houses and gompas, and in June 2021 a flood on the Melamchi river devastated Melamchi Bazaar and the valley floor. The upper villages have rebuilt, and Helambu lies on a separate river system from the Bhote Koshi flood of August 2026. Some roads are still being repaired; check current status before you travel."
+  ],
+  "story": {
+    "title": "The Hyolmo and their hidden valley",
+    "paras": [
+      "The Hyolmo trace their ancestry to the Kyirong region of southern Tibet, and their language belongs to the Kyirong branch of Tibetic languages, close to Tibetan but not the same. For centuries Tibetan Buddhists called this region Yolmo, and Hyolmo lamas established gompas in its villages. Some families were hereditary lamas, and the village temples, known locally as ghyang, gave villages such as Tarkeghyang and Melamchi Ghyang their names.",
+      "Helambu was never on a great trade road the way Kerung was, but it was close to Kathmandu, and that shaped its history. Hyolmo traders and workers went to the city, and city people came up for pilgrimage and later for trekking. Outsiders sometimes called the Hyolmo the Helambu Sherpa; the Hyolmo themselves prefer their own name. Today they are one of Nepal's officially recognised indigenous nationalities, with communities also in Kathmandu, Darjeeling, Sikkim and abroad.",
+      "Modern Helambu also carries water for Kathmandu. The Melamchi Water Supply Project takes water from the Melamchi river through a long tunnel to the capital, a scheme planned for decades and opened in 2021, then damaged by the flood that June. For trekkers, the region is a chain of Hyolmo villages where you can sleep in family lodges, visit gompas, and eat apples from trees planted by people who still farm the steep slopes."
+    ]
+  },
+  "legend": "In Hyolmo and Tibetan Buddhist tradition, Yolmo is a beyul, a hidden valley blessed by Guru Padmasambhava as a place of refuge and meditation in troubled times. The name Yolmo itself is often explained as a place surrounded by high mountains under the protection of a goddess. Lamas and pilgrims have come to its caves and gompas to practise for centuries, and local stories link several sites to Guru Rinpoche's meditation.",
+  "people": "The Hyolmo, also written Yolmo, live in the villages of Helambu and nearby. They speak Hyolmo, a Tibetic language, and Nepali, and follow Tibetan Buddhism. Their numbers in these valleys are around 11,000. They farm potatoes, maize, barley and apples, keep cattle, and run lodges, while many work in Kathmandu or abroad. Tamang and Brahmin-Chhetri families live lower down the valleys.",
+  "untold": [
+    {
+      "fact": "The Hyolmo language belongs to the Kyirong branch of Tibetic languages, close to Tibetan but not fully mutually intelligible with it. Hyolmo communities trace their roots to the Kyirong region of southern Tibet.",
+      "source": "Wikipedia: Yolmo people"
+    },
+    {
+      "fact": "A popular explanation says Helambu comes from Hyolmo words for potato (he) and radish (lahbu), the region's crops. Scholars consider this etymology doubtful and see Helambu as a Nepali rendering of Yolmo.",
+      "source": "Wikipedia: Yolmo people"
+    },
+    {
+      "fact": "Helambu is known for its sweet apples and for being a Buddhist pilgrimage area, and its high point on the standard trek is only about 3,650 m, making it one of the lowest multi-day treks from Kathmandu.",
+      "source": "Wikipedia: Helambu"
+    }
+  ],
+  "local_words": [
+    {"word": "ghyang", "script": "", "lang": "Tibetan", "meaning": "Village temple or monastery in Hyolmo place names, as in Tarkeghyang"},
+    {"word": "Hyolmo", "script": "ཡོལ་མོ་", "lang": "Tibetan", "meaning": "The people and region of Helambu, also written Yolmo"},
+    {"word": "khata", "script": "ཁ་བཏགས་", "lang": "Tibetan", "meaning": "White ceremonial scarf given in welcome or blessing"}
+  ],
+  "taste": {
+    "name": "Helambu apples and apple brandy",
+    "text": "In autumn Helambu's orchards around Tarkeghyang and Sermathang are heavy with small, sweet apples. Lodges serve them fresh, in fritters and pies, and some families distil a strong apple spirit. Buy a bag from a farmer on the trail; they travel well back to Kathmandu."
+  },
+  "facts": [
+    ["Best months", "Oct – Dec, Mar – Apr"],
+    ["Days we suggest", "5–8 on foot"],
+    ["Nearest airport", "Kathmandu (KTM)"],
+    ["From Kathmandu", "≈ 15 km to Sundarijal, then on foot; or ≈ 3–6 h by jeep"],
+    ["Altitude", "≈ 2,600 m (Tarkeghyang); trek high point ≈ 3,650 m"],
+    ["Known for", "Hyolmo villages, gompas, apples, low-altitude trekking"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "5–8",
+  "highlights": [
+    {"title": "Tarkeghyang", "text": "The largest Hyolmo village, on a ridge at about 2,600 m, with stone houses packed close together, a large gompa and views east to Jugal Himal. A good place for a rest day and a walk through the lanes."},
+    {"title": "Melamchi Ghyang", "text": "A Hyolmo village facing Tarkeghyang across the Melamchi valley, with an old gompa and family lodges. The walk between the two drops to the river and climbs back, a full day of Helambu terrain."},
+    {"title": "Tharepati ridge", "text": "At about 3,650 m, Tharepati is the high point of the Helambu trek, with views of Langtang, Jugal and the Gosaikunda ridges, and the junction for the route over Lauribina La."},
+    {"title": "Apple season", "text": "In September and October Helambu's orchards fill with small, sweet apples. Trekkers eat them fresh, in pies and in fritters at lodges, and the season brings villages to life."},
+    {"title": "Gompas and chortens", "text": "Almost every Hyolmo village has its gompa, many rebuilt after 2015, with painted walls, prayer wheels and butter lamps. Visit with your guide, and ask before photographing inside."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "Walk from Sundarijal (≈ 15 km from Kathmandu) via Chisapani, Kutumsang and Tharepati into Helambu, or the reverse. The standard loop takes 5 to 8 days."},
+    {"mode": "Road", "text": "Jeeps and buses reach Melamchi Bazaar and upper villages such as Timbu and Tarkeghyang from Kathmandu, normally 3 to 6 hours depending on the destination and road condition. The Melamchi valley road was damaged by the 2021 flood; check current status before you travel."}
+  ],
+  "where_to_stay": "Helambu has family-run lodges in every main village: Chisapani, Kutumsang, Tharepati, Melamchi Ghyang, Tarkeghyang and Sermathang. Rooms are simple twins with shared bathrooms in most places, and some newer lodges have attached toilets and solar hot water. Hyolmo homestays can be arranged in Tarkeghyang and nearby villages. Food is dal bhat, noodles, potatoes and Tibetan bread, with apples in autumn.",
+  "stays": [],
+  "tips": [
+    "Start from Sundarijal early to reach Chisapani before dark on day one.",
+    "Bring warm layers: nights at Tharepati and Kutumsang fall below freezing from November to March.",
+    "Ask your guide to arrange a gompa visit when the lama is present; most temples are locked otherwise.",
+    "Buy apples directly from farmers in autumn; prices are low and it helps the household.",
+    "Check road status before taking a jeep up the Melamchi valley, as repairs after the 2021 flood continue in places."
+  ],
+  "themes": ["treks-and-trails", "villages-and-homestays", "spiritual-and-pilgrimage", "family-trips", "food-and-festivals"],
+  "nearby": ["chisapani", "gosaikunda", "nuwakot"],
+  "experiences": [
+    {
+      "slug": "helambu-tarkeghyang-hyolmo-homestay",
+      "title": "Hyolmo homestay night in Tarkeghyang",
+      "kind": "heritage",
+      "duration": "1–2 nights",
+      "best_time": "Oct–Dec, Mar–Apr",
+      "image_query": "Tarkeghyang Hyolmo village houses",
+      "wiki": "",
+      "summary": "Sleep in a Hyolmo family home in Tarkeghyang, eat at the family hearth, visit the village gompa and learn a few words of Hyolmo. A slow, personal night in the largest village of Helambu.",
+      "body": [
+        "Tarkeghyang sits on a ridge at about 2,600 m, a tight cluster of stone houses with wooden balconies around a large gompa. Many houses were rebuilt after 2015, some in the old style and some in new materials. We arrange a stay with a Hyolmo family through local contacts, with a simple private room and meals at the family hearth.",
+        "Evenings centre on the kitchen. Your hosts may cook potatoes, buckwheat or maize bread, greens and meat, with butter tea or local liquor. Your guide translates as you talk about farming, apples, family members in Kathmandu or abroad, and the gompa calendar.",
+        "In the morning, visit the gompa with a family member, walk the village lanes and watch the light come up over Jugal Himal. The stay pays a fair rate directly to the household, and you will see Helambu as a home rather than a trail."
+      ],
+      "good_for": ["families", "couples", "solo", "first-timers"],
+      "faqs": [
+        {"q": "How do I get to Tarkeghyang?", "a": "On foot, Tarkeghyang is 4 to 5 days from Sundarijal via Chisapani, Kutumsang and Tharepati, or a day from Melamchi Ghyang. By road, jeeps reach the village from Kathmandu via Melamchi Bazaar in about 4 to 6 hours in good conditions. Check current road status, as the Melamchi valley road has needed repairs."},
+        {"q": "What are the facilities in a Hyolmo homestay?", "a": "Expect a clean, simple private room with a bed and thick quilts, a shared toilet, often outside, and limited hot water. Meals are eaten with the family. Electricity is generally available but can be unreliable. It is less comfortable than a lodge, but far more personal; we pick homes our guides know."},
+        {"q": "What should I bring as a gift to a Hyolmo family?", "a": "Something small and useful: fruit or sweets from Kathmandu, notebooks and pens for children, or a white khata scarf. Avoid giving money directly to children. Your homestay fee is the main contribution, paid to the household, and your guide can advise on anything else that would be welcome."}
+      ]
+    },
+    {
+      "slug": "helambu-gompa-trail",
+      "title": "Gompa trail from Melamchi Ghyang to Tarkeghyang",
+      "kind": "spiritual",
+      "duration": "6–7 hours",
+      "best_time": "Oct–Nov, Mar–Apr",
+      "image_query": "Melamchi Ghyang gompa Helambu",
+      "wiki": "",
+      "summary": "A full trekking day between two Hyolmo villages and their gompas, dropping about 800 m to the Melamchi Khola and climbing back up, past chortens, mani walls and terraced fields.",
+      "body": [
+        "Melamchi Ghyang and Tarkeghyang face each other across the Melamchi valley, both at around 2,500 to 2,600 m, but the walk between them is long: down through forest and fields to a bridge over the Melamchi Khola, then a steady climb up the other side. It is the classic day of the Helambu loop.",
+        "Start at the gompa of Melamchi Ghyang, with its prayer wheels and painted interior, then pass mani walls and chortens on the way down. Small hamlets on the slopes grow maize, potatoes and millet, and children often walk part of the way with you. The bridge at the bottom is a good lunch stop beside the water.",
+        "The climb to Tarkeghyang takes 3 hours or more, through terraces and then forest. Arriving in the late afternoon, you can visit the large gompa before dinner. It is a day that shows how Hyolmo villages are linked by their temples and by the walking that has always connected them."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How long does it take to walk from Melamchi Ghyang to Tarkeghyang?", "a": "About 6 to 7 hours with breaks: 2 to 3 hours down to the Melamchi Khola and 3 to 4 hours up to Tarkeghyang. The descent and ascent are each around 800 m. It is a full day; start by 8 am and carry lunch or eat at a small tea stop near the bridge."},
+        {"q": "Can I visit the gompas in Helambu?", "a": "Yes, most village gompas welcome visitors when the caretaker or lama is present. Remove your shoes, walk clockwise, keep your voice down and ask before taking photographs inside. A small donation for butter lamps is appreciated. Your guide can arrange a visit in advance."},
+        {"q": "Is the Melamchi valley safe after the 2021 flood?", "a": "The June 2021 flood hit the Melamchi Bazaar area and the valley floor hardest; the upper Hyolmo villages on the ridges were not in its path. Trails and bridges have been repaired since. Monsoon landslides remain a risk, so check current status before you travel, especially from June to September."}
+      ]
+    },
+    {
+      "slug": "helambu-tharepati-sunrise",
+      "title": "Sunrise on the Tharepati ridge",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Dawn, Oct–Dec",
+      "image_query": "Tharepati Helambu Himalaya view",
+      "wiki": "",
+      "summary": "From Tharepati, the high point of the Helambu trek at about 3,650 m, watch sunrise light up the Langtang range, Jugal Himal and the ridges toward Gosaikunda.",
+      "body": [
+        "Tharepati is a small group of lodges on a ridge at about 3,650 m, where the Helambu trail meets the route from Gosaikunda over Lauribina La. It is the coldest and highest night of the standard Helambu trek, and the best for mountain views.",
+        "Before dawn, climb a few minutes above the lodges to a rise with prayer flags. As the sky lightens you see the Langtang peaks to the north, Jugal Himal and Dorje Lakpa to the north-east, and the long ridges running toward Gosaikunda. On clear days, views stretch far to the east.",
+        "Come back for hot tea and porridge before the descent toward Melamchi Ghyang. In spring, rhododendrons bloom in red and pink on the slopes below Tharepati, and the forest is noisy with birds."
+      ],
+      "good_for": ["trekkers", "photographers", "couples"],
+      "faqs": [
+        {"q": "How high is Tharepati?", "a": "About 3,650 m, the highest point of the standard Helambu trek. Some trekkers feel mild altitude effects here, such as a light headache or poor sleep. Walk at an easy pace, drink plenty of water, and descend if symptoms get worse. Most people sleep comfortably after the first hour."},
+        {"q": "Which mountains are visible from Tharepati?", "a": "On clear mornings you can see the Langtang range to the north, Jugal Himal and Dorje Lakpa to the north-east, and the ridges toward Gosaikunda. Views are clearest from October to December. In spring haze often builds by mid-morning, and in the monsoon cloud usually hides the peaks."},
+        {"q": "Is Tharepati cold?", "a": "Yes. From November to March, nights drop to around minus 5 °C or lower, and snow is possible in winter. In October and April it is milder but still near freezing. Lodges have quilts and a stove in the dining room; bring a warm sleeping bag and down jacket."}
+      ]
+    },
+    {
+      "slug": "helambu-apple-harvest-walk",
+      "title": "Apple harvest walk around Sermathang",
+      "kind": "food",
+      "duration": "Half day",
+      "best_time": "Sep–Oct",
+      "image_query": "Helambu apple orchard Nepal",
+      "wiki": "",
+      "summary": "In autumn, walk through Hyolmo orchards around Sermathang and Tarkeghyang during the apple harvest, taste fruit straight from the tree and see how families sort, store and sell their crop.",
+      "body": [
+        "Helambu's apples are small, crisp and sweet, grown on terraces between about 2,400 and 2,800 m. In September and October, families pick, sort and pack them for sale in Kathmandu, and every courtyard has baskets of fruit. Lodges serve apples fresh, in fritters, in pies, and occasionally as a home-distilled spirit.",
+        "We walk with a local guide through orchards near Sermathang, a Hyolmo village south of Tarkeghyang, stopping where farmers are working. You can help pick, learn which varieties keep best through winter, and hear how apples have become an important cash crop for the region.",
+        "The walk ends at a lodge or home for apple fritters and tea. It suits families and anyone who wants an easy half day in the middle of a trek, and it puts money into village hands through the fruit you buy."
+      ],
+      "good_for": ["families", "first-timers", "couples", "seniors"],
+      "faqs": [
+        {"q": "When is apple season in Helambu?", "a": "Apples ripen from roughly September to October, depending on altitude and the year. October is ideal because the monsoon has ended, the trails are drier and the mountains clearer. Stored apples are still on sale into early winter in Helambu villages and Kathmandu."},
+        {"q": "Can I buy Helambu apples to take home?", "a": "Yes. Farmers and lodges sell apples by the kilo, and they keep well for a week or more. Most visitors carry a small bag back to Kathmandu. If you are flying internationally, check your destination country's rules on bringing fresh fruit, as many do not allow it."},
+        {"q": "Is the apple walk suitable for children?", "a": "Yes. The walk is short, on village paths with gentle slopes, and children usually enjoy picking fruit and meeting farm animals. Bring sun protection and water. If you are not trekking the whole loop, we can arrange a jeep to Sermathang or Tarkeghyang, depending on road conditions."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Helambu?", "a": "Helambu is a hill region north and north-east of Kathmandu, mainly in Sindhupalchok district, around the Melamchi Khola. It lies between the Shivapuri ridge of the Kathmandu Valley and Lauribina La below Gosaikunda. The main villages, such as Tarkeghyang and Melamchi Ghyang, are about 80 km from Kathmandu by road."},
+    {"q": "How many days is the Helambu trek?", "a": "The standard loop from Sundarijal, via Chisapani, Kutumsang, Tharepati, Melamchi Ghyang and Tarkeghyang, takes 5 to 8 days, ending by jeep or bus from Melamchi or the upper villages. Linking with Gosaikunda and Langtang over Lauribina La makes a 10 to 14 day trek. Shorter 3 to 4 day versions are possible."},
+    {"q": "Is the Helambu trek difficult?", "a": "It is a moderate trek. The maximum altitude is about 3,650 m at Tharepati, so altitude is less of a concern than on Everest or Annapurna routes. Days involve 4 to 7 hours of walking with steep ups and downs between ridges and rivers. Reasonably fit walkers, including older children, manage it well."},
+    {"q": "Who are the Hyolmo people?", "a": "The Hyolmo, also written Yolmo, are a Buddhist people of Helambu who speak a Tibetic language related to the speech of Kyirong in Tibet. They number around 11,000 in these valleys, with communities in Kathmandu, Darjeeling, Sikkim and abroad, and are officially recognised as one of Nepal's indigenous nationalities."},
+    {"q": "Do I need a permit for the Helambu trek?", "a": "Yes. The route passes through Shivapuri Nagarjun National Park near Sundarijal and Langtang National Park higher up, and each charges foreigners an entry fee. Since April 2023, foreign trekkers in national parks must go with a licensed guide. Check current status before you travel; we arrange permits for you."},
+    {"q": "When is the best time for the Helambu trek?", "a": "October to December for clear skies and mountain views, and March to April for warmer days and rhododendrons. Helambu's lower altitude makes it a good winter trek too, though nights at Tharepati can be very cold. Avoid June to September, when rain, leeches and landslides make trails difficult."},
+    {"q": "Was Helambu affected by the 2026 flood in Rasuwa?", "a": "No, not directly. The 26 August 2026 flood came down the Bhote Koshi and Trishuli in Rasuwa and Nuwakot, a different river system. Helambu's Melamchi valley suffered its own flood in June 2021, and some roads are still being repaired. Check current status before you travel."},
+    {"q": "Can I reach Helambu by road?", "a": "Yes. Roads now reach Melamchi Bazaar and several upper villages, such as Timbu and Tarkeghyang, from Kathmandu. Jeeps take 3 to 6 hours depending on destination and road condition. Many trekkers walk in from Sundarijal and drive out from Melamchi or the upper villages to save time."},
+    {"q": "Is Helambu good for families?", "a": "Yes. Lower altitudes, short access from Kathmandu, plenty of lodges and friendly villages make Helambu one of the best family treks in Nepal. Choose a shorter route, keep walking days to 4 to 5 hours, and consider a homestay night in Tarkeghyang. Avoid the monsoon and deep winter with small children."}
+  ]
+}

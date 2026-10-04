@@ -1,0 +1,342 @@
+{
+  "slug": "tsarang",
+  "name": "Tsarang",
+  "name_ne": "चराङ",
+  "local_name": "Charang (Nepali official name)",
+  "region": "mustang-dolpo",
+  "kind": "village",
+  "wiki": "Charang, Nepal",
+  "image_query": "Tsarang dzong monastery Upper Mustang",
+  "lat": 29.104,
+  "lng": 83.947,
+  "altitude_m": 3560,
+  "tagline": "A white dzong and a red gompa on the edge of a canyon",
+  "meta_description": "Tsarang in Upper Mustang at 3,560 m: its five-storey dzong, the red Sakya gompa, Ekai Kawaguchi's year of study and the last day's walk to Lo Manthang.",
+  "summary": "Tsarang, also written Charang, is a large Loba village at about 3,560 m, a half-day's walk south of Lo Manthang. Its five-storey white dzong and red Sakya gompa stand side by side on the edge of a deep eroded canyon. In 1899 the Japanese monk Ekai Kawaguchi studied here before slipping into Tibet.",
+  "intro": [
+    "Tsarang announces itself from a distance. As you come over the last rise from Ghami, you see a long village of whitewashed houses and walled fields, and at its eastern end, right on the edge of a deep canyon, two great buildings: the white, five-storey dzong, a fortress-palace of the old rulers, and beside it the red walls of the Sakya gompa. It is one of the most striking sights on the way to Lo Manthang.",
+    "The village itself is spread along a terrace, with tall chortens painted in bands of red, white, ochre and grey, kani gates over the trail and a maze of stone walls protecting the fields from wind and animals. Willows and poplars line the irrigation channels. Most trekkers spend a night here on the way to Lo Manthang, and many people find it more atmospheric than the capital itself, as it is quieter and more spread out.",
+    "We give Tsarang a full afternoon. Visit the gompa with its caretaker, walk around the outside of the dzong, follow the lanes to the canyon edge at sunset and sleep in one of the village lodges. Next morning it is about 3–4 hours' walk, or under an hour by jeep, to Lo Manthang. Tsarang is also where Ekai Kawaguchi studied in 1899, which gives the village an unexpected link to Japan."
+  ],
+  "story": {
+    "title": "A fortress, a monastery and a Japanese monk",
+    "paras": [
+      "Tsarang's dzong and gompa date by tradition to the late 14th century, the time of Ame Pal, founder of the kingdom of Lo. The dzong was a seat of power for the rulers of Lo, a tall, white fortress-palace built on the edge of the canyon where it could command the valley. The gompa beside it belongs to the Sakya school, like the main monasteries of Lo Manthang, and became one of the largest religious communities in the kingdom, with its own library, statues and wall paintings.",
+      "In 1899 a Japanese Buddhist monk named Ekai Kawaguchi came up the Kali Gandaki looking for a way into Tibet, which was then closed to foreigners. He reached Tsarang and stayed, studying Buddhism and Tibetan with a Mongolian scholar for many months. Then he went back south to Marpha and, in 1900, crossed secretly into Tibet over a pass in the Dhaulagiri Himal. He became the first recorded Japanese traveller in Nepal and Tibet, and his book Three Years in Tibet describes the Mustang of his day.",
+      "Today Tsarang is a village of farmers, herders and lodge-keepers. The dzong is partly in ruins, its upper floors fragile, though parts are still used and cared for. The gompa remains active, with monks and novices from the area. Like other villages in Lo, Tsarang has been changed by the jeep road and by young people leaving for school and work, but the fields are still planted each spring, and the great buildings on the canyon edge still dominate the view."
+    ]
+  },
+  "legend": "",
+  "people": "Tsarang's people are Loba, who speak Lo-ke, the Tibetan dialect of Lo, as well as Nepali. Families farm barley, buckwheat, mustard and potatoes on irrigated fields walled against the wind, keep horses, goats and yaks, and run lodges for trekkers. Religious life centres on the Sakya gompa. Many younger people study or work in Pokhara, Kathmandu or abroad, and some families move south for the coldest months.",
+  "untold": [
+    {
+      "fact": "The Japanese monk Ekai Kawaguchi studied Buddhism and Tibetan rhetoric in Tsarang in 1899 under a Mongolian Buddhist scholar, before retreating to Marpha and secretly crossing into Tibet via a pass in the Dhaulagiri Himal.",
+      "source": "Embassy of Japan in Nepal: Ekai Kawaguchi"
+    },
+    {
+      "fact": "Kawaguchi was the first recorded Japanese citizen to travel to Nepal or Tibet. He made four journeys to Nepal, in 1899, 1903, 1905 and 1913, and two to Tibet.",
+      "source": "Wikipedia: Ekai Kawaguchi"
+    },
+    {
+      "fact": "Upper Mustang, including Tsarang, receives only about 250–400 mm of precipitation a year, which is why its fields are enclosed by stone walls and fed entirely by irrigation channels from streams fed by snowmelt.",
+      "source": "Wikipedia: Upper Mustang"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "dzong",
+      "script": "རྫོང",
+      "lang": "Tibetan",
+      "meaning": "fortress or fort-palace; Tsarang's stands five storeys high"
+    },
+    {
+      "word": "kani",
+      "script": "",
+      "lang": "Tibetan",
+      "meaning": "gateway chorten over a trail, painted inside with mandalas"
+    },
+    {
+      "word": "chhang",
+      "script": "ཆང",
+      "lang": "Tibetan",
+      "meaning": "home-brewed barley beer, cloudy and mild"
+    }
+  ],
+  "taste": {
+    "name": "Chhang",
+    "text": "Chhang is a mild, cloudy beer brewed at home from fermented barley, served in a bowl or cup and refilled whenever it is half empty. Families in Tsarang make it for festivals and guests. Taste a little if offered, but keep it modest at 3,560 m."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Apr – Jun, Sep – Oct"
+    ],
+    [
+      "Days we suggest",
+      "1"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom (JMO), ≈ 70 km by road"
+    ],
+    [
+      "From Kathmandu",
+      "Flight to Jomsom via Pokhara, then ≈ 5–6 h by jeep or 4 days on foot"
+    ],
+    [
+      "Altitude",
+      "3,560 m"
+    ],
+    [
+      "Known for",
+      "Five-storey dzong, Sakya gompa, canyon views, Ekai Kawaguchi"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "nights": "1",
+  "highlights": [
+    {
+      "title": "Tsarang dzong",
+      "text": "The tall white fortress-palace at the eastern end of the village, five storeys high and traditionally dated to the late 14th century. Parts are ruined and fragile, so view it from outside unless a caretaker shows you in. Best at sunset from the canyon edge."
+    },
+    {
+      "title": "Tsarang gompa",
+      "text": "The red Sakya monastery beside the dzong, with an assembly hall of old statues, wall paintings and a collection of texts. A caretaker or monk will open it for visitors. Leave a donation and do not photograph inside without permission."
+    },
+    {
+      "title": "The canyon edge",
+      "text": "Behind the dzong the land falls away into a deep, eroded canyon of ochre and grey cliffs. Walk to the edge at sunset for the light on the dzong and the view across to the hills of Lo. Keep well back from crumbling edges."
+    },
+    {
+      "title": "Painted chortens and kani gates",
+      "text": "Tsarang's large chortens are painted in vertical bands of red, white, ochre and grey, the colours of Lo. Kani gates over the trail have mandalas painted on their ceilings; look up as you pass beneath and walk through clockwise."
+    },
+    {
+      "title": "Walk on to Lo Manthang",
+      "text": "From Tsarang it is a 3–4 hour walk north over a gentle pass to the walled capital, with your first view of Lo Manthang's walls from the ridge above. The short day leaves an afternoon in the city."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Tsarang is on the jeep road between Jomsom and Lo Manthang, about 5–6 hours from Jomsom and under an hour from Lo Manthang. The road is rough, dusty and can be cut by landslides or river crossings in the monsoon. Check current status before you travel."
+    },
+    {
+      "mode": "On foot",
+      "text": "Most trekkers reach Tsarang on day 4 from Kagbeni, a 3–4 hour walk from Ghami over a low pass, or via Dhakmar on a longer route. From Tsarang to Lo Manthang is another 3–4 hours."
+    }
+  ],
+  "where_to_stay": "Tsarang has a handful of family-run lodges with simple twin rooms, heated dining rooms, shared or attached bathrooms and good home cooking. Rooms can be cold, so bring a four-season sleeping bag. There are no higher-end hotels; Lo Manthang, an hour away by jeep, has more choice. We favour lodges near the gompa and dzong, so you can walk to the canyon edge at sunset and to the gompa early in the morning without crossing the village.",
+  "stays": [],
+  "tips": [
+    "Arrange your visit to the gompa through your lodge or guide in the afternoon, so the caretaker can open it.",
+    "Do not enter the ruined parts of the dzong; floors and walls are fragile mud brick and timber.",
+    "Walk to the canyon edge at sunset, but stay well back from undercut edges.",
+    "Carry a torch for the dark interiors of the gompa and for lodge corridors at night.",
+    "Pay for lodge food and extras in Nepali rupees; there are no ATMs in Upper Mustang."
+  ],
+  "themes": [
+    "heritage-and-temples",
+    "treks-and-trails",
+    "photography",
+    "villages-and-homestays"
+  ],
+  "nearby": [
+    "lo-manthang",
+    "ghami",
+    "chhoser"
+  ],
+  "experiences": [
+    {
+      "slug": "tsarang-gompa-and-dzong",
+      "title": "Tsarang's red gompa and white dzong",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Afternoon, Apr–Oct",
+      "image_query": "Tsarang monastery Mustang",
+      "wiki": "",
+      "summary": "Visit the Sakya gompa of Tsarang with its caretaker, then walk around the five-storey dzong beside it, the old fortress-palace of the rulers of Lo, both traditionally dated to the late 14th century and set on the edge of a canyon.",
+      "body": [
+        "We walk through the village to its eastern end, where the gompa and the dzong stand side by side. The gompa's red walls and the dzong's white bulk make one of the great sights of Upper Mustang. Your guide will find the caretaker, usually a monk or a family member responsible for the keys, who will open the assembly hall for you. Shoes and hats come off at the door, and voices drop.",
+        "Inside the gompa, the light is dim, so bring a torch. Old statues of the Buddha and of Sakya masters sit behind rows of butter lamps, and the walls are covered with paintings darkened by age and smoke. Texts are stacked in wooden shelves. The caretaker may show you other rooms. Leave a donation, NPR 300–500 per person is appropriate, and ask before taking any photographs. Take your time; the details reward a slow look.",
+        "Then walk around the outside of the dzong. Traditionally linked to the time of Ame Pal, it is five storeys tall, with small windows and thick walls of mud and stone. Parts are ruined and unsafe, so do not go inside unless the caretaker invites you to a safe section. Finish at the canyon edge behind the buildings, where the late sun lights both walls. It is a fitting end to the visit."
+      ],
+      "good_for": [
+        "first-timers",
+        "photographers",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "How old are Tsarang's dzong and gompa?",
+          "a": "Both are traditionally dated to the late 14th century, the time of Ame Pal, who founded the kingdom of Lo around 1380. They have been repaired and altered over the centuries, and parts of the dzong are now in ruins. The gompa belongs to the Sakya school and is still in use today."
+        },
+        {
+          "q": "Can I go inside Tsarang dzong?",
+          "a": "Usually only to limited parts, and only with the caretaker. Much of the dzong is fragile, with weak floors and crumbling walls, and some sections are unsafe. Your guide will ask whether any part is open during your visit. Never climb onto ruined sections or roofs; it endangers you and the building."
+        },
+        {
+          "q": "Is there an entry fee at Tsarang gompa?",
+          "a": "There is often no fixed ticket, but a donation is expected; NPR 300–500 per person is appropriate, given to the caretaker or placed in the donation box. In some seasons a set fee may apply. The money goes to the upkeep of the monastery. Check current practice with your guide or lodge."
+        }
+      ]
+    },
+    {
+      "slug": "tsarang-kawaguchi-footsteps",
+      "title": "In the footsteps of Ekai Kawaguchi",
+      "kind": "heritage",
+      "duration": "1 hour",
+      "best_time": "Any time, Apr–Oct",
+      "image_query": "Tsarang village Upper Mustang",
+      "wiki": "Ekai Kawaguchi",
+      "summary": "Hear the story of the Japanese monk who came to Tsarang in 1899 to study Buddhism and Tibetan before crossing secretly into Tibet, and walk the village with his journey in mind. A short, story-led walk for anyone curious about early travellers in the Himalaya.",
+      "body": [
+        "Ekai Kawaguchi was a Japanese Buddhist monk who wanted to find original Buddhist texts in Tibet, then closed to foreigners. In 1899 he came to Nepal and travelled up the Kali Gandaki, through Tukuche and Marpha, until he reached Tsarang. Here he settled to study Buddhism and Tibetan rhetoric under a Mongolian Buddhist scholar living in the village, staying for many months. It was an extraordinary journey for its time, made alone and with very little money.",
+        "As we walk through Tsarang, your guide tells his story: how he lived among the villagers, learned their language and customs, and prepared for the dangerous crossing. In 1900 he went back to Marpha and then crossed into Tibet over a pass in the Dhaulagiri Himal, reaching Lhasa in disguise. He was the first recorded Japanese citizen to travel to Nepal or Tibet. His journey took great courage and patience.",
+        "His book, Three Years in Tibet, published in English in 1909, describes the people and places of Mustang as they were more than a century ago. Reading a few pages before your trip makes Tsarang come alive. We finish at the gompa and the canyon edge, where you can imagine the village as Kawaguchi knew it, before the road, the lodges and the trekkers. Free editions are easy to find online."
+      ],
+      "good_for": [
+        "solo",
+        "seniors",
+        "couples",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Who was Ekai Kawaguchi?",
+          "a": "Ekai Kawaguchi (1866–1945) was a Japanese Buddhist monk who travelled to Nepal four times and Tibet twice. In 1899 he studied in Tsarang, Upper Mustang, before crossing secretly into Tibet in 1900. He was the first recorded Japanese citizen to visit either country, and wrote Three Years in Tibet about his journey."
+        },
+        {
+          "q": "Where did Kawaguchi stay in Mustang?",
+          "a": "Kawaguchi travelled up the Kali Gandaki via Tukuche and Marpha to Tsarang, where he studied for months under a Mongolian Buddhist scholar. He then returned to Marpha before crossing into Tibet over a pass in the Dhaulagiri Himal in 1900. Both Tsarang and Marpha remember his stay."
+        },
+        {
+          "q": "Where can I read Three Years in Tibet?",
+          "a": "Ekai Kawaguchi's Three Years in Tibet was published in English in 1909 and is in the public domain, so free digital editions are available online, for example on Project Gutenberg. Printed reprints are also sold in Kathmandu bookshops. The chapters on Mustang make good reading before or during your trek."
+        }
+      ]
+    },
+    {
+      "slug": "tsarang-canyon-sunset",
+      "title": "Sunset on the canyon edge behind the dzong",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Sunset, Apr–Oct",
+      "image_query": "Tsarang canyon Mustang sunset",
+      "wiki": "",
+      "summary": "Walk to the edge of the eroded canyon behind Tsarang's dzong and gompa at the end of the day, when low sun turns the cliffs gold and red and lights the white walls of the dzong. A simple hour that many trekkers remember as the best of the trip.",
+      "body": [
+        "Behind the dzong and gompa at the eastern end of Tsarang, the land falls away into a deep canyon cut by wind and water into fluted cliffs and pinnacles of ochre, grey and red. It is a typical landscape of Lo, but here it is right on the village's edge, and the two great buildings stand above it like sentinels. Few places in Upper Mustang combine landscape and architecture so closely.",
+        "We walk out about an hour before sunset, after your gompa visit, and find a safe spot back from the edge. As the sun drops, the light moves across the cliffs and up the walls of the dzong, turning white to gold and then pink. Choughs wheel over the canyon, and sometimes you hear the gompa's evening horns. Then the light goes quickly and the cold arrives. It is a quiet, still moment.",
+        "Bring a down jacket, hat and gloves; temperatures fall fast after sunset, even in summer. Photographers will want a wide lens for the buildings and canyon together, and a telephoto for details of the cliffs. Keep well back from the edge, as the soft rock is undercut in places. Walk back through the village with a torch, in time for dinner in the lodge. Hot tea will be waiting. Stars follow soon after."
+      ],
+      "good_for": [
+        "photographers",
+        "couples",
+        "solo",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "Where is the best sunset spot in Tsarang?",
+          "a": "The canyon edge behind the dzong and gompa, at the eastern end of the village, is the best place. From there you see the low sun on the cliffs and the white walls of the dzong. Your guide can show you safe viewpoints. Go about an hour before sunset and bring warm clothes."
+        },
+        {
+          "q": "Is the canyon edge at Tsarang safe?",
+          "a": "It is safe if you stay well back from the edge. The rock is soft and crumbly, and parts are undercut, so never stand right at the rim or climb down. Keep children close and avoid going after dark. Your guide knows the safer viewpoints and will keep you away from unstable ground."
+        },
+        {
+          "q": "What camera lens should I bring for Upper Mustang?",
+          "a": "A wide-angle lens (around 16–24 mm full-frame equivalent) captures the big landscapes and buildings, and a short telephoto (70–200 mm) is useful for details, monasteries on cliffs and wildlife. Bring spare batteries, as cold drains them fast, and a cloth for dust, which gets into everything in the afternoon wind."
+        }
+      ]
+    },
+    {
+      "slug": "tsarang-to-lo-manthang-walk",
+      "title": "Walk from Tsarang to the walled city",
+      "kind": "trek",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Apr–Oct",
+      "image_query": "Lo Manthang walls from ridge",
+      "wiki": "",
+      "summary": "The last stage of the Upper Mustang trek: a short, gentle walk north from Tsarang over a low pass to the ridge above Lo Manthang, where the walled city appears below, and down through the fields to its single gate.",
+      "body": [
+        "We leave Tsarang after breakfast, crossing the canyon on a path that drops down and climbs out the other side, then heading north across open, rolling country. The walk is shorter and gentler than earlier days, about 3–4 hours. The trail climbs slowly to a pass marked by a chorten and prayer flags, about 3,900 m, with wide views back towards Tsarang and ahead to the hills of Lo. Take it slowly and enjoy it.",
+        "From the pass, the walled city of Lo Manthang appears below on its plain: a rectangle of high walls with houses, gompas and the palace packed inside, surrounded by fields and the small villages around it. It is the moment that the whole trek builds towards, and most people stop for a long time. Prayer flags snap in the wind around you. Take the photograph, then just look. Few arrivals anywhere compare.",
+        "We descend through fields and past chortens to the city gate, arriving before lunch. That leaves the afternoon to rest and take a first walk inside the walls. Luggage comes by pony or jeep. The day is short so that you have energy for Lo Manthang, which deserves at least two nights; many people find the arrival on foot the best part of the whole trip. Enjoy the arrival. Rest well tonight."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "couples",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "How far is Tsarang from Lo Manthang?",
+          "a": "On foot it is about 3–4 hours, crossing a low pass of about 3,900 m with views of the walled city from the ridge. By jeep it takes under an hour on the main road. Most trekkers walk this stage, as the arrival on foot is one of the highlights of Upper Mustang."
+        },
+        {
+          "q": "Is the Tsarang to Lo Manthang walk difficult?",
+          "a": "No, it is one of the easier days of the Upper Mustang trek: 3–4 hours, a gentle climb to a pass about 3,900 m and a long descent. By this point most trekkers are well acclimatised. Wind is the main challenge after midday, so start early and carry a windproof jacket."
+        },
+        {
+          "q": "How many nights should I spend in Lo Manthang?",
+          "a": "At least two nights, so you have a full day to see the walled city, its gompas and the palace exterior, and another half day for a trip to Chhoser's caves or Namgyal gompa. Three nights lets you go slowly, which is wise at 3,840 m. During Tiji in May, add an extra night."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Tsarang the same as Charang?",
+      "a": "Yes. Tsarang and Charang are two spellings of the same village in Upper Mustang. Charang is the official Nepali name used on maps and in administration; Tsarang is closer to the local Tibetan pronunciation and is common in trekking books. You may also see Charang in permit lists and road signs."
+    },
+    {
+      "q": "What is there to see in Tsarang?",
+      "a": "The main sights are the five-storey white dzong and the red Sakya gompa side by side on the edge of a canyon, traditionally dated to the late 14th century. The village also has painted chortens, kani gates and walled fields. Sunset on the canyon edge and the story of Ekai Kawaguchi complete a visit."
+    },
+    {
+      "q": "How do I get to Tsarang?",
+      "a": "Trekkers usually reach Tsarang on day 4 from Kagbeni, walking 3–4 hours from Ghami. By jeep it is about 5–6 hours from Jomsom on the road to Lo Manthang, which is under an hour further north. You need an Upper Mustang restricted area permit and a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "Do I need a permit for Tsarang?",
+      "a": "Yes. Tsarang is in the Upper Mustang restricted area, so foreigners need a restricted area permit through a registered agency, for at least two people with a licensed guide, plus an ACAP permit. Since a November 2025 decision the fee is reported as USD 50 per person per day. Check current status before you travel."
+    },
+    {
+      "q": "What is the altitude of Tsarang?",
+      "a": "Tsarang lies at about 3,560 m. By the time trekkers reach it, they have usually slept at similar heights for a few nights, so most adjust well. If you arrive directly by jeep from Jomsom (2,700 m), take it easy for the first evening and watch for signs of altitude sickness."
+    },
+    {
+      "q": "Are there lodges in Tsarang?",
+      "a": "Yes, a handful of family-run lodges with simple twin rooms, heated dining rooms and home cooking. Some have attached bathrooms and solar hot water. Rooms are cold at night, so bring a four-season sleeping bag. In May around Tiji and in October, book ahead, as lodges fill quickly."
+    },
+    {
+      "q": "What is the best time to visit Tsarang?",
+      "a": "April to June and September to October are best, with clear skies and days of 12–20 °C. July and August are mostly dry in the rain shadow, though roads from the south can be disrupted. Winter is harsh, with nights below −15 °C, and many lodges close from December to February."
+    },
+    {
+      "q": "Can I visit Tsarang as a day trip from Lo Manthang?",
+      "a": "Yes. Tsarang is under an hour by jeep or 3–4 hours on foot from Lo Manthang, so you can visit for a few hours to see the gompa and dzong. However, staying a night lets you see the canyon at sunset and the gompa without hurry, and breaks the journey nicely."
+    },
+    {
+      "q": "What religion do people follow in Tsarang?",
+      "a": "Most people in Tsarang follow Tibetan Buddhism, mainly the Sakya school, which is centred on the village gompa. Rituals, festivals and daily practices such as turning prayer wheels and walking around chortens are part of life here. Visitors are welcome at the gompa if they are respectful and leave a donation."
+    }
+  ]
+}

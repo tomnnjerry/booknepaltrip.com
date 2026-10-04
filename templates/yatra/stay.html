@@ -1,0 +1,22 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ s.name }}, {{ s.place_obj.name|default:s.region_obj.name }} · Book Nepal Trip{% endblock %}
+{% block description %}{{ s.summary|truncatechars:158 }}{% endblock %}
+{% block body_attrs %} data-land="{{ s.region }}"{% endblock %}
+{% block content %}
+<header class="phead phead--paper">{% contours s.slug 9 %}<div class="wrap phead__grid">
+  <div><p class="eyebrow">{{ s.kind }} · {{ s.place_obj.name|default:s.region_obj.name }}</p><h1 class="h-xl">{{ s.name }}</h1><p class="lede">{{ s.summary }}</p>
+  <div class="btn-row"><a class="btn btn--lg btn--sweep" href="{% url 'plan' %}?land={{ s.region }}&journey={{ s.name|urlencode }}&from={{ request.path|urlencode }}" data-cta="stay-plan">Plan a trip with this stay</a>{% if s.website %}<a class="btn btn--ghost" href="{{ s.website }}" rel="noopener">Official website</a>{% endif %}</div></div>
+  <div>{% photo s.images|first s.name "photo--43" "(max-width: 1020px) 100vw, 45vw" True %}</div></div></header>
+<div class="dhaka dhaka--land"></div>
+<section class="sec"><div class="wrap split">
+  <div><div class="read prose">{% for para in s.body %}<p{% if forloop.first %} class="drop"{% endif %}>{{ para }}</p>{% endfor %}</div>
+  <h2 class="h-m">Why we use it</h2><ul class="tips">{% for w in s.why %}<li>{{ w }}</li>{% endfor %}</ul>
+  {% if s.best_for %}<div class="chips" style="margin-top:18px">{% for b in s.best_for %}<span class="chip">{{ b|capfirst }}</span>{% endfor %}</div>{% endif %}
+  <h2 class="h-m" style="margin-top:1.4em">Questions</h2>{% include "yatra/partials/faq.html" with faqs=s.faqs %}</div>
+  <aside class="split__aside">{% if s.place_obj %}<div class="panel"><h2 class="h-s">The place</h2><p><a href="{{ s.place_obj.url }}"><b>{{ s.place_obj.name }}</b></a> · {{ s.place_obj.altitude_m|num }} m</p>{% include "yatra/partials/readouts.html" with obj=s.place_obj %}</div>{% endif %}
+  {% include "yatra/partials/quick_form.html" with land=s.region qf_source="stay" qf_title="Ask about "|add:s.name %}</aside>
+</div></section>
+{% if s.journey_objs %}<section class="sec sec--paper2"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Trips</p><h2 class="h-m">Trips that use {{ s.name }}</h2></div></div><div class="grid grid--3">{% for j in s.journey_objs|slice:":3" %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div></div></section>{% endif %}
+{% if others %}<section class="sec sec--tight"><div class="wrap"><h2 class="h-m">Other stays in {{ s.region_obj.name }}</h2><div class="grid grid--3">{% for s in others %}{% include "yatra/partials/card_stay.html" %}{% endfor %}</div></div></section>{% endif %}
+{% endblock %}
+{% block cta %}{% include "yatra/partials/cta.html" with land=s.region %}{% endblock %}

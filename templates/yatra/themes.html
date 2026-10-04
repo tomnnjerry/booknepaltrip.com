@@ -1,0 +1,7 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Ways to travel in Nepal: treks, wildlife, heritage and more · Book Nepal Trip{% endblock %}
+{% block description %}Fourteen ways to travel in Nepal, from teahouse treks and high passes to jungle safaris, festivals, homestays and slow retreats.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Travel styles</p><h1 class="h-xl">Choose how you like to travel</h1><p class="lede">Pick a style to see the places, trips, stays and experiences that suit it, across every region.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px"><div class="grid grid--3">{% for row in rows %}<a class="card" href="{{ row.t.url }}" style="padding:22px;gap:10px"><span class="badge">{% icon row.t.icon %}</span><h3>{{ row.t.name }}</h3><p>{{ row.t.summary|truncatewords:30 }}</p><span class="link-arrow" style="margin-top:auto">{{ row.t.tagline }} {% icon "arrow" %}</span></a>{% endfor %}</div></section>
+{% endblock %}

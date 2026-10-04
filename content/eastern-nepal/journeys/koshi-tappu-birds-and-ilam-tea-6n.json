@@ -1,0 +1,78 @@
+{
+  "slug": "koshi-tappu-birds-and-ilam-tea-6n",
+  "title": "Koshi Tappu Birds and Ilam Tea",
+  "region": "eastern-nepal",
+  "kind": "wildlife",
+  "nights": 6,
+  "themes": ["wildlife-and-jungle", "lakes-and-rivers", "photography", "slow-and-wellness"],
+  "grade": "Easy",
+  "stops": [
+    {"place": "koshi-tappu", "nights": 2},
+    {"place": "kanyam", "nights": 1},
+    {"place": "ilam", "nights": 3}
+  ],
+  "start": "Kathmandu (morning flight to Biratnagar)",
+  "end": "Kathmandu (flight from Bhadrapur)",
+  "price_from_usd": 1250,
+  "best_months": [2, 2, 1, 1, 0, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2100,
+  "meta_description": "Koshi Tappu and Ilam, 6 nights: wetland birds and wild water buffalo on the Sapta Koshi, then tea gardens at Kanyam and Ilam and forest birds at Mai Pokhari.",
+  "summary": "Six nights from the wetlands of Koshi Tappu, home to Nepal's last wild water buffalo and a great gathering of winter water birds, up to the tea hills of Kanyam and Ilam and the forest lake of Mai Pokhari. Boat trips, embankment walks and a naturalist guide, then slow tea days and hill birding. Best from November to March.",
+  "intro": [
+    "Koshi Tappu Wildlife Reserve sits on the floodplain of the Sapta Koshi, Nepal's largest river, just above the barrage on the Indian border. It was set aside in 1976 to protect the last wild water buffalo, the arna, in Nepal, and in 1987 it became the country's first Ramsar wetland. In winter its marshes, river channels and grasslands fill with ducks, geese, storks and waders that come down from Central Asia and Tibet, and birders come from all over the world to see them.",
+    "This trip pairs two days on the wetland with four in the tea hills, so you see two worlds a few hours apart. A naturalist guide leads boat trips on the Koshi and walks along the embankment. Then we drive east and up into the cool hills of Kanyam and Ilam for tea gardens, factory visits and a day at Mai Pokhari, where forest birds replace water birds. It suits keen birders, photographers and anyone who likes slow mornings."
+  ],
+  "story": "You land in Biratnagar and drive west across the flat, hot Terai, past jute and rice, to the eastern embankment of the Koshi. At dawn the river is silver and wide, mist lies on the channels, and the air is full of calls: whistling ducks, bar-headed geese, the deep boom of a stork's bill. From a boat you watch Gangetic dolphins surface and wild buffalo graze the grass islands. Then the trip turns east and climbs. The plains drop away as tea slopes rise at Kanyam, mist rolls up the hills at dusk, and in Ilam the mornings are cool and smell of fresh leaf. At Mai Pokhari the birdsong changes again, to laughingthrushes and minivets in the forest around a sacred lake.",
+  "highlights": [
+    "Dawn boat trips on the Sapta Koshi among winter ducks, geese and storks",
+    "Wild water buffalo, the arna, on the grass islands of Koshi Tappu",
+    "A chance of Gangetic dolphins in the deeper river channels",
+    "Tea gardens at Kanyam and Ilam, with a factory visit and tasting",
+    "Forest birding around the sacred lake of Mai Pokhari"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Biratnagar, drive to Koshi Tappu", "place": "koshi-tappu", "overnight": "Koshi Tappu", "alt_m": 80, "move": "≈ 40 min flight · ≈ 1.5–2 h drive", "text": "A morning flight from Kathmandu to Biratnagar, then a drive west across the plains to a simple tented camp or lodge near the edge of Koshi Tappu Wildlife Reserve. After lunch your naturalist guide leads a first walk along the embankment and the edge of the marshes. In winter the ponds hold ruddy shelduck, gadwall, pintail and other ducks, with herons, egrets and storks working the shallows. Sunset over the river is wide and quiet. Dinner and a briefing on tomorrow's boat trip.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Boat trip on the Koshi and grassland walk", "place": "koshi-tappu", "overnight": "Koshi Tappu", "alt_m": 80, "move": "boat and walks", "text": "We start at dawn with a boat trip along the Sapta Koshi, with views of river channels, sandbanks and grassy islands. Watch for bar-headed geese, terns, gulls and cormorants, and for wild water buffalo on the islands. Gangetic dolphins are sometimes seen surfacing in the deeper channels. After breakfast, a walk through the grasslands with your guide, looking for swamp francolin, harriers and other grassland birds. In the afternoon, rest or visit a nearby village. Evening birding on the ponds.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Koshi Tappu to Kanyam", "place": "kanyam", "overnight": "Kanyam", "alt_m": 1570, "move": "≈ 5–6 h drive", "text": "A final early walk on the embankment, then we drive east along the East–West Highway through Itahari and Birtamod to Charali and climb the Mechi Highway into the tea hills. The change is sudden: hot plains below, cool green slopes above. Kanyam is a broad slope of clipped tea at about 1,570 m. In the late afternoon walk among the rows and watch the mist rise from the plains. Look for verditer flycatchers and other hill birds along the edges of the tea.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Kanyam to Ilam bazaar", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 35 km · 1–1.5 h drive", "text": "Sunrise on the tea slopes, then a short drive along the ridge past Fikkal to Ilam bazaar. Walk into the Ilam tea estate, planted in 1863 and the oldest in Nepal, and visit a small orthodox factory where leaf is withered, rolled, oxidised and dried. In the afternoon, a tasting of first flush, second flush and autumn teas with a local tea maker. Wander the bazaar in the evening for chhurpi, round chillies and a cup of tea at a roadside stall.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Mai Pokhari forest birding", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 1.5–2 h drive each way · walks", "text": "An early start for Mai Pokhari, a sacred lake at about 2,100 m north of Ilam, ringed by forest and listed as a Ramsar wetland in 2008. Walk the path around the lake and into the forest with your guide, looking for laughingthrushes, minivets, sunbirds and other hill birds. Visit the shrine where pilgrims leave red cloth and lamps. Lunch at a homestay near the lake, then drive back to Ilam for a quiet evening.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "A slow day in the tea hills", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "walks", "text": "A free day to enjoy Ilam at your own pace. Walk through the tea gardens with a picker, learn to pluck two leaves and a bud, or join a family for a cooking session with kinema, gundruk and Akabare chilli achar. Birders can head out early to the forest edges around town. In the evening, sit on a terrace with a pot of autumn tea and watch the light fade on the hills.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Drive to Bhadrapur, fly to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 3–4 h drive · ≈ 50 min flight", "text": "After breakfast we drive down the Mechi Highway to the plains and on to Bhadrapur for the flight back to Kathmandu. On the way, stop in Birtamod or Charali to buy loose-leaf tea from local shops. Our driver meets you at Kathmandu airport and takes you to your hotel or onward plans. Winter fog can delay morning flights at Bhadrapur, so we book afternoon flights in December and January, and we keep your morning free for one last walk in the tea.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Biratnagar and Bhadrapur–Kathmandu flights",
+    "Private car and driver for all transfers",
+    "Koshi Tappu Wildlife Reserve entry fees, boat trip and naturalist guide",
+    "Licensed English-speaking guide throughout",
+    "Six nights in a tented camp or lodge, simple hotels and homestays, twin sharing",
+    "Meals as listed, tea factory visit and tasting",
+    "Kathmandu airport transfers"
+  ],
+  "excludes": [
+    "International flights, Nepal visa fees and travel insurance",
+    "Hotel nights in Kathmandu",
+    "Meals not listed and drinks",
+    "Camera fees where charged",
+    "Tips for guide, naturalist, boatmen and driver"
+  ],
+  "good_to_know": [
+    "The best birding at Koshi Tappu is from November to March, when winter migrants are present.",
+    "Camps near the reserve are simple, with tents or cottages and shared or attached bathrooms.",
+    "Reserve fees and boat rules change; check current status before you travel.",
+    "Bring binoculars, a field guide and long sleeves for the evening mosquitoes on the plains.",
+    "Winter mornings at Koshi are foggy and cold; bring a warm layer for the boat."
+  ],
+  "faqs": [
+    {"q": "When is the best time to visit Koshi Tappu?", "a": "November to March is best, when winter migrants such as ducks, geese and storks gather on the river and marshes. February and March are good for both migrants and resident birds. From April the heat builds, and from June to September the monsoon floods much of the reserve. Mornings in December and January are often foggy until mid-morning."},
+    {"q": "What wildlife lives in Koshi Tappu?", "a": "Koshi Tappu protects Nepal's last population of wild water buffalo, the arna, along with hog deer, wild boar, golden jackal and many smaller animals. Gangetic dolphins and mugger crocodiles live in the river. But most visitors come for the birds, especially winter water birds such as ducks, geese, storks, herons, terns and waders, and grassland birds like the swamp francolin."},
+    {"q": "Is Koshi Tappu good for birdwatching?", "a": "Yes, it is one of the best birding sites in Nepal. Hundreds of species have been recorded, and in winter the marshes and river channels hold large flocks of migrant ducks and geese. Two days with a good naturalist gives a fine introduction to wetland and grassland birds. Bring binoculars and a field guide, or borrow from your naturalist."},
+    {"q": "How do I get to Koshi Tappu?", "a": "Fly from Kathmandu to Biratnagar in about 40 minutes, then drive about 1.5–2 hours west to the reserve. By road from Kathmandu, it is a long day on the East–West Highway. We meet you at Biratnagar airport with a private car and take you straight to the camp."},
+    {"q": "Where do we stay at Koshi Tappu?", "a": "We use simple tented camps or lodges near the reserve, with tents or cottages, basic bathrooms and home-style food. They are run by people who know the birds well. There are no luxury lodges at Koshi Tappu. In Kanyam and Ilam, we use clean, simple hotels and homestays."},
+    {"q": "Can I see Gangetic dolphins at Koshi?", "a": "Sometimes. Gangetic dolphins live in the Sapta Koshi and are occasionally seen surfacing in deeper channels. Sightings are not guaranteed, and the dolphins only show briefly. Your boatman and guide know where they have been seen recently and will look for them on the morning trip."},
+    {"q": "Is this trip good for non-birders?", "a": "Yes. The wetlands are beautiful and peaceful even if you are not a birder, and the wild water buffalo and boat trips are enjoyable for anyone. The second half of the trip is about tea, hill walks and village food in Ilam. It suits couples, photographers and anyone who likes nature and a slow pace."},
+    {"q": "What should I bring for birding in Koshi Tappu?", "a": "Bring binoculars, a field guide or app for South Asian birds, a camera with a long lens if you have one, a hat, sunscreen, mosquito repellent and a warm layer for foggy winter mornings. Neutral-coloured clothes help. Long sleeves and trousers are useful in the evening on the plains."},
+    {"q": "How much does the Koshi Tappu and Ilam trip cost?", "a": "Our six-night trip is from USD 1,250 per person, twin sharing. It includes the two domestic flights, a private car, reserve fees, a boat trip and naturalist guide, a licensed guide throughout, six nights in a camp, simple hotels and homestays, a tea factory visit and the meals listed."}
+  ]
+}

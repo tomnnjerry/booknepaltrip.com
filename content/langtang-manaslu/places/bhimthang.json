@@ -1,0 +1,337 @@
+{
+  "slug": "bhimthang",
+  "name": "Bhimthang",
+  "name_ne": "भीमथाङ",
+  "local_name": "",
+  "region": "langtang-manaslu",
+  "kind": "trek stop",
+  "wiki": "",
+  "image_query": "Bimthang Manaslu circuit meadow",
+  "lat": 28.682,
+  "lng": 84.487,
+  "altitude_m": 3590,
+  "tagline": "The meadow at the foot of Larkya La, after the longest day",
+  "meta_description": "Bhimthang (Bimthang) at about 3,590 m: the night after Larkya La (5,106 m) on the Manaslu Circuit. Views, Ponkar Lake, the walk out to Dharapani and permits.",
+  "summary": "Bhimthang, also written Bimthang, is a high meadow with a handful of lodges at about 3,590 m on the Manang side of Larkya La (5,106 m). It is where Manaslu Circuit trekkers sleep after crossing the pass, with views of Himlung, Cheo Himal and Manaslu's north-west side, before walking down to Dharapani.",
+  "intro": [
+    "Bhimthang lies in a wide, flat ablation valley beside a great lateral moraine, below the western side of Larkya La. It is not really a village: a few lodges and stone huts used by herders, surrounded by grass, juniper and glacial debris, with snow peaks on three sides. After the long crossing of the pass from Dharamsala, it is the first place to rest, and arriving here in the late afternoon is one of the great moments of any Himalayan trek.",
+    "The setting is wide and quiet. Himlung Himal and Cheo Himal rise to the north and north-west, Kang Guru to the west, and Manaslu's north-west face to the east, seen from a side Samagaon trekkers never see. A short walk from the lodges leads up the moraine to Ponkar Lake, a glacial lake with views of the surrounding ice. Few trekkers stay long enough to see it in more than one light.",
+    "From Bhimthang the trail descends through rhododendron and pine forest along the Dudh Khola to Tilije and Dharapani on the Annapurna Circuit road, from where jeeps go to Besisahar. The Manaslu Circuit lies on rivers that were not part of the August 2026 flood, but roads back to Kathmandu run through damaged areas; check current status before you travel. Most trekkers reach Kathmandu or Pokhara two or three days after leaving Bhimthang."
+  ],
+  "story": {
+    "title": "Where the Larkya La lets you down",
+    "paras": [
+      "Larkya La is one of the longest passes in the Nepal Himalaya, a broad saddle at 5,106 m between Dharamsala, also called Larke Phedi, on the east and Bhimthang on the west. Long before trekkers, herders and traders crossed it with yaks and sheep between Nubri and Manang. The pass was hard, but it linked two valleys that are otherwise separated by many days of walking down and around. Herders still use the route in summer, and in the trekking seasons porters carry lodge supplies over it on their backs, often in trainers and with loads far heavier than any trekker's pack.",
+      "Bhimthang was the herders' meadow on the far side, a place to graze animals and rest after the crossing. Stone huts and walled enclosures still mark the old grazing grounds. When the Manaslu Circuit opened to trekking groups after the Manaslu Conservation Area was created in 1998, lodges appeared at Dharamsala and Bhimthang to serve trekkers crossing the pass, at first very simple and gradually improved. Even now there is no village here, only the lodges, a few herders' shelters and the moraine. Every sack of rice and every gas cylinder is carried in by porters or pack animals, which is why prices rise with every day you walk from the road.",
+      "Today the meadow sees most of its visitors in two short seasons, autumn and spring, when hundreds of trekkers cross the pass each week at the peak. In winter snow closes the pass and many lodges shut. The descent from Bhimthang through forest to Dharapani is a gentle end to the circuit, and the road beyond carries trekkers back toward Besisahar, Pokhara and Kathmandu. For many trekkers Bhimthang is where the effort of the whole circuit settles in. The pass is behind you, the air is thicker, and the walk down through forest feels like a slow return to green valleys, fields and villages after two weeks of rock and ice."
+    ]
+  },
+  "legend": "",
+  "people": "Bhimthang has no permanent village. Lodges are run in season by families from Manang and Nubri, and by people from lower valleys who come up for the trekking months. Gurung and Tibetan-speaking herders bring yaks and sheep to the meadows in summer. Porters and guides from across Nepal pass through daily during the trekking seasons.",
+  "untold": [
+    {
+      "fact": "Larkya La, 5,106 m, is described as one of the longest passes in the Nepal Himalaya. It lies between Dharamsala and Bimthang and is the highest point of the Manaslu Circuit trek.",
+      "source": "Wikipedia: Larkya La"
+    },
+    {
+      "fact": "The Manaslu Conservation Area, created in 1998 and covering 1,663 square km, is home to 33 mammal species including snow leopard, musk deer and Himalayan tahr, and more than 110 bird species.",
+      "source": "Wikipedia: Manaslu Conservation Area"
+    },
+    {
+      "fact": "Elevations inside the Manaslu Conservation Area range from about 1,400 m in the river gorges to the 8,000 m summit of Manaslu, spanning bioclimatic zones from subtropical forest to permanent snow.",
+      "source": "Wikipedia: Manaslu Conservation Area"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "La",
+      "script": "ལ་",
+      "lang": "Tibetan",
+      "meaning": "Mountain pass, as in Larkya La"
+    },
+    {
+      "word": "thang",
+      "script": "ཐང་",
+      "lang": "Tibetan",
+      "meaning": "Flat plain or meadow, as in Bhimthang"
+    },
+    {
+      "word": "goth",
+      "script": "गोठ",
+      "lang": "Nepali",
+      "meaning": "Herders' shelter or cattle shed on a high pasture"
+    }
+  ],
+  "taste": {
+    "name": "Hot noodle soup after the pass",
+    "text": "After 8 to 10 hours over Larkya La, the Bhimthang lodges' thukpa or rara noodle soup, with egg and vegetables, is the meal everyone remembers. Follow it with dal bhat for dinner and a pot of ginger-lemon-honey tea. Lodges stock what porters can carry, so menus are short."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Nov, Apr – May"
+    ],
+    [
+      "Days we suggest",
+      "1 night (2 with a Ponkar Lake day)"
+    ],
+    [
+      "Nearest airport",
+      "Kathmandu (KTM) or Pokhara (PKR)"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 14–16 days on the Manaslu Circuit"
+    ],
+    [
+      "Altitude",
+      "≈ 3,590 m"
+    ],
+    [
+      "Known for",
+      "Night after Larkya La, Himlung and Manaslu views"
+    ]
+  ],
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    0
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "Crossing Larkya La",
+      "text": "The longest day of the circuit: from Dharamsala at about 4,460 m up to the pass at 5,106 m and down a steep, long descent to Bhimthang, 8 to 10 hours. Prayer flags at the top, glaciers on every side."
+    },
+    {
+      "title": "Peaks around the meadow",
+      "text": "From Bhimthang, Himlung Himal, Cheo Himal and Kang Guru form a ring to the north and west, and Manaslu shows its north-west side. Evening and morning light on the ice is the reward for the pass."
+    },
+    {
+      "title": "Ponkar Lake",
+      "text": "A side hike of 3 to 4 hours return up the moraine to Ponkar Lake, a glacial lake below ice and rock walls. Worth a second night if you have time and good weather. Carry water and a warm layer."
+    },
+    {
+      "title": "Descent through forest",
+      "text": "From Bhimthang the trail drops into rhododendron, birch and pine forest along the Dudh Khola, a green, gentle change after days above the treeline. In April the rhododendrons flower red and pink. Langurs and pheasants are common along the trail."
+    },
+    {
+      "title": "Joining the Annapurna side",
+      "text": "The trail reaches Tilije and Dharapani, where it meets the Annapurna Circuit road, with Gurung villages, apple orchards and jeep connections to Besisahar. From here you can drive out to Besisahar, or, with more time and the right permits, continue walking up the Annapurna Circuit toward Manang."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "On foot",
+      "text": "From Samagaon via Samdo and Dharamsala, then over Larkya La: usually 2 days to Dharamsala and an 8 to 10 hour day over the pass to Bhimthang. From Dharapani, walk up in 2 days the other way."
+    },
+    {
+      "mode": "Road",
+      "text": "The nearest road is at Dharapani on the Manang side, 1 to 2 days below Bhimthang, with jeeps to Besisahar and buses to Kathmandu or Pokhara. Check current road status before you travel."
+    }
+  ],
+  "where_to_stay": "Bhimthang has a small group of seasonal lodges with twin rooms, shared toilets, some solar hot water and a stove in the dining room. They are simple but warm by trek standards. In peak October and early November, rooms fill with trekkers who crossed the pass that day; your agency should book ahead. Many lodges close in winter, from about December to February, when the pass is snowbound. Settle bills in cash; lodges here cannot take cards.",
+  "stays": [],
+  "tips": [
+    "Leave Dharamsala by 4 to 5 am for Larkya La; wind and cloud usually build after midday.",
+    "Use microspikes and walking poles if there is snow or ice on the descent to Bhimthang.",
+    "Carry enough snacks and water for 8 to 10 hours; there are no lodges between Dharamsala and Bhimthang.",
+    "Take a second night at Bhimthang if you can, for Ponkar Lake and recovery.",
+    "You need the Annapurna Conservation Area permit for the walk out via Dharapani; keep it with your guide."
+  ],
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "photography",
+    "adventure-sports"
+  ],
+  "nearby": [
+    "samagaon",
+    "tsum-valley"
+  ],
+  "experiences": [
+    {
+      "slug": "bhimthang-larkya-la-crossing",
+      "title": "Cross Larkya La to Bhimthang",
+      "kind": "trek",
+      "duration": "8–10 hours",
+      "best_time": "Pre-dawn start, Oct–Nov and Apr–May",
+      "image_query": "Larkya La pass prayer flags",
+      "wiki": "Larkya La",
+      "summary": "The great day of the Manaslu Circuit: start in the dark at Dharamsala, climb across moraine and snow to Larkya La at 5,106 m, then descend a long, steep trail to the meadow lodges of Bhimthang. Expect 8 to 10 hours on your feet.",
+      "body": [
+        "We leave Dharamsala, at about 4,460 m, by headlamp at 4 or 5 am. The trail climbs gradually across moraine beside the Larkya glacier, past small frozen lakes, for 3 to 5 hours. The pass is wide, with several false tops before the prayer flags and cairns of Larkya La at 5,106 m. Your guide sets a slow, steady pace from the start, with short stops every hour for water and snacks. Breathing is hard above 5,000 m, so small steps and regular rests matter more than speed. Porters usually go ahead to secure rooms at Bhimthang.",
+        "From the top you see Himlung Himal, Cheo Himal, Kang Guru and the Annapurna II region to the west, and back toward the peaks of Nubri. It is cold and windy; take your photos, drink some tea from the flask and start down. Groups usually spend 15 to 20 minutes at the top, no more, because the wind is strong and the cold bites through gloves. Keep your camera battery in an inside pocket so it does not die in the cold just when you need it.",
+        "The descent to Bhimthang is long and steep, dropping about 1,500 m on loose rock, snow or ice in places. Microspikes help in early spring and late autumn. You reach the meadow and its lodges in the afternoon, tired and happy. We do not cross in bad weather, and your guide decides on the day. If anyone in the group shows signs of altitude sickness at Dharamsala, we wait or descend rather than push on. There are no lodges between Dharamsala and Bhimthang, so the decision is made before dawn. A spare day in the itinerary removes the pressure to cross in poor weather."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "How hard is the Larkya La crossing?",
+          "a": "It is the hardest day of the Manaslu Circuit: 8 to 10 hours, climbing about 650 m to 5,106 m and descending about 1,500 m to Bhimthang. There is no technical climbing, but altitude, cold, wind and the long, steep descent make it demanding. Good acclimatisation in Samagaon and Samdo is essential."
+        },
+        {
+          "q": "Do I need crampons for Larkya La?",
+          "a": "Usually not in a dry October or November, but snow and ice are common in early spring, late autumn and after storms. We recommend carrying microspikes and using walking poles. Your guide will advise based on current conditions. Heavy snow can close the pass; check current status before you travel."
+        },
+        {
+          "q": "What time should I leave Dharamsala for Larkya La?",
+          "a": "Between 4 and 5 am. An early start gives you calm, clear weather at the pass and time for the long descent in daylight. Wind and cloud often build after midday. Eat breakfast early, carry snacks and at least 2 litres of water, and keep a warm layer accessible."
+        }
+      ]
+    },
+    {
+      "slug": "bhimthang-ponkar-lake-hike",
+      "title": "Day hike to Ponkar Lake",
+      "kind": "nature",
+      "duration": "3–4 hours return",
+      "best_time": "Morning, Oct–Nov and Apr–May",
+      "image_query": "Ponkar Lake Bimthang glacier",
+      "wiki": "",
+      "summary": "On a rest day at Bhimthang, walk up along the moraine to Ponkar Lake, a glacial lake set among ice and rock below the peaks, with few other people on the trail. It is a calm way to spend a rest day.",
+      "body": [
+        "From the Bhimthang lodges, a path follows the edge of the moraine north-east, climbing gently with views back over the meadow. After 1.5 to 2 hours you reach Ponkar Lake, a grey-green glacial lake surrounded by ice, scree and steep rock walls. The path is not marked in places, and boulders on the moraine can shift underfoot, so walk with your guide and take your time. The views back toward the Larkya La side of the valley show you the route you came down the day before.",
+        "The lake is quiet, with few trekkers: most cross the pass and continue down the next day. You may see blue sheep on the slopes, and the light on the surrounding peaks changes quickly. Bring a warm layer; the wind off the ice is cold. Sit on the moraine above the shore rather than going down to the water, where the ground is loose. Bring a flask of tea and snacks from the lodge; there is nothing to buy on the way. Clouds often roll in by midday, so leave early.",
+        "Return the same way for lunch at Bhimthang. A second night here gives your legs time to recover after Larkya La and turns the end of the circuit from a march into a pause. Many trekkers rush the last days of the circuit to reach the road. If your schedule allows, slowing down here pays off: you rest after the pass, see the valley at its quietest and walk down to Dharapani the next day with fresh legs and fewer blisters."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "How far is Ponkar Lake from Bhimthang?",
+          "a": "About 1.5 to 2 hours each way, 3 to 4 hours return, following the moraine with modest height gain. It is a moderate walk, best on a clear morning. Go with your guide, as paths on the moraine can be faint and the weather can change quickly."
+        },
+        {
+          "q": "Is Ponkar Lake worth an extra day?",
+          "a": "If you have time and good weather, yes. It is quiet, beautiful and gives your body a recovery day after Larkya La. If your schedule is tight, you can skip it and continue down to Tilije or Dharapani. We build a spare day into most Manaslu itineraries for weather."
+        },
+        {
+          "q": "Is Bhimthang high enough for altitude sickness?",
+          "a": "At about 3,590 m, Bhimthang is lower than Samdo and Dharamsala, so most people feel better here after the pass. Altitude sickness is still possible if you are unwell. Drink plenty of water, rest well, and tell your guide about any severe headache, vomiting or breathlessness."
+        }
+      ]
+    },
+    {
+      "slug": "bhimthang-sunrise-himlung",
+      "title": "Sunrise on Himlung and Manaslu",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Dawn, Oct–Nov and Apr–May",
+      "image_query": "Himlung Himal view Bimthang sunrise",
+      "wiki": "",
+      "summary": "Step out of the lodge at dawn to watch first light on Himlung Himal, Cheo Himal and the north-west side of Manaslu from the Bhimthang meadow, one of the finest mountain views of the circuit.",
+      "body": [
+        "Bhimthang's meadow is open on all sides, and on clear mornings the sunrise is spectacular. First light hits the high peaks: Himlung Himal and Cheo Himal to the north, Manaslu's north-west side to the east, and Kang Guru to the west. The snow turns pink, then gold, while the meadow stays in shadow. The colour lasts only 15 to 20 minutes, so be outside before first light. Your guide can name each peak as it lights up. Most lodges serve tea early on request; ask the night before and settle the bill so you are not held up in the morning.",
+        "Climb a little onto the lateral moraine behind the lodges for a wider view and a better angle on the glaciers. It is very cold before sunrise, often below minus 5 °C in autumn, so wear your down jacket, hat and gloves. The moraine path is a few minutes from the lodges, but in the dark the stones can be icy; use a headlamp and walking poles. Photographers should bring a spare battery kept warm inside a jacket, since cold drains batteries fast.",
+        "Come back for hot tea and breakfast, then start the walk down through the forest toward Tilije. It is the last big mountain morning of the Manaslu Circuit. From here the trail drops below the treeline within a few hours, and the high peaks slip out of sight one by one. Take a last long look before you go. After sunrise, the dining room stove is lit and breakfast is porridge, eggs or Tibetan bread, then the walk down begins."
+      ],
+      "good_for": [
+        "photographers",
+        "trekkers",
+        "couples"
+      ],
+      "faqs": [
+        {
+          "q": "Which mountains can I see from Bhimthang?",
+          "a": "On clear days you see Himlung Himal and Cheo Himal to the north, Kang Guru to the west, the north-west side of Manaslu to the east, and glaciers flowing toward the meadow. The view is best at sunrise and sunset in October, November, April and May."
+        },
+        {
+          "q": "How cold is Bhimthang at night?",
+          "a": "In October and November, nights usually drop to around minus 5 to minus 10 °C, colder in late November and early spring. Lodges have quilts and a stove in the dining room only. Bring a sleeping bag rated to minus 10 °C or lower and warm layers."
+        },
+        {
+          "q": "Is there electricity and Wi-Fi at Bhimthang?",
+          "a": "Lodges have solar or small hydro power for lights and charging, usually for a fee. Wi-Fi is limited or absent and mobile signal patchy. Bring a power bank and treat Bhimthang as an offline stop. Tell family you may be out of contact for a few days around the pass."
+        }
+      ]
+    },
+    {
+      "slug": "bhimthang-descent-to-dharapani",
+      "title": "Forest descent from Bhimthang to Dharapani",
+      "kind": "trek",
+      "duration": "1–2 days",
+      "best_time": "Oct–Nov, Apr–May",
+      "image_query": "Dudh Khola forest Manaslu circuit",
+      "wiki": "",
+      "summary": "Walk down from the high meadow through rhododendron and pine forest along the Dudh Khola to Tilije and Dharapani, where the Manaslu Circuit meets the Annapurna Circuit road. It is the gentle end to a hard circuit.",
+      "body": [
+        "After days above the treeline, the descent from Bhimthang into forest is a relief. The trail drops past the glacier's snout, crosses streams and enters forest of rhododendron, birch and pine. In April the rhododendrons bloom; in autumn the leaves turn gold and red. The walking is easy compared with the days before, mostly downhill on a good trail, but knees take a beating on the steeper sections. Walking poles help. Stop for lunch at one of the small lodges on the way and enjoy being back among trees.",
+        "Small settlements and then the larger village of Tilije have lodges and fields. As you descend, the culture shifts from the Tibetan Buddhism of Nubri toward the mixed Gurung, Tibetan and Hindu traditions of the Marsyangdi valley. Tilije is a real village again, with houses, fields and a school, after days of lodges and herders' huts. Your guide can show you how the architecture and dress change as you come down. It is a good place to sleep before the last short walk to the road.",
+        "Dharapani, at about 1,860 m, sits on the Marsyangdi river and the Annapurna Circuit road. Jeeps run down to Besisahar, and from there buses and cars to Kathmandu or Pokhara. Check current road status before you travel, as monsoon and recent flood damage can affect routes. At Dharapani your guide checks out your permits at the conservation area post and arranges the jeep. Settle tips for your guide and porters here, in rupees, before the team splits up. Many trekkers spend a night in Besisahar or Pokhara before the long drive back to Kathmandu."
+      ],
+      "good_for": [
+        "trekkers",
+        "photographers",
+        "families"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the walk from Bhimthang to Dharapani?",
+          "a": "Usually 1 to 2 days. Many trekkers walk to Tilije or Gho on the first day, 5 to 6 hours, and reach Dharapani the next morning. Strong walkers can reach Dharapani in one long day. From Dharapani, jeeps go to Besisahar in about 4 to 5 hours."
+        },
+        {
+          "q": "Do I need an Annapurna permit after Bhimthang?",
+          "a": "Yes. The trail from Bhimthang enters the Annapurna Conservation Area, so you need the ACAP permit as well as the Manaslu permits. Your agency arranges it in Kathmandu before the trek. Rules and fees change; check current status before you travel."
+        },
+        {
+          "q": "How do I get from Dharapani to Kathmandu?",
+          "a": "Take a shared or private jeep from Dharapani to Besisahar, about 4 to 5 hours on a rough road, then a bus or car to Kathmandu, about 6 to 7 hours, or to Pokhara, about 4 to 5 hours. Roads on the Prithvi Highway were affected by the August 2026 floods; check current status before you travel."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Bhimthang?",
+      "a": "Bhimthang, also written Bimthang, is a high meadow with seasonal lodges in Manang district, Gandaki Province, at about 3,590 m on the western side of Larkya La. It is the overnight stop after crossing the pass on the Manaslu Circuit, 1 to 2 days above Dharapani on the Annapurna Circuit road."
+    },
+    {
+      "q": "How high is Larkya La?",
+      "a": "Larkya La is 5,106 m, the highest point of the Manaslu Circuit trek. It lies between Dharamsala, or Larke Phedi, at about 4,460 m and Bhimthang at about 3,590 m. The crossing takes 8 to 10 hours and is one of the longest pass days in the Nepal Himalaya."
+    },
+    {
+      "q": "Is Bhimthang a village?",
+      "a": "Not really. It is a meadow with a small group of lodges and herders' huts, used mainly in the trekking seasons and summer grazing. There is no permanent village, school or shop. Lodges close in winter when snow blocks the pass, typically from about December to February."
+    },
+    {
+      "q": "When is the best time to cross Larkya La to Bhimthang?",
+      "a": "October and November, and April and May. October to mid-November usually gives the clearest skies and driest trail. Spring can still have snow on the pass. December to February often brings heavy snow and lodge closures, and the monsoon brings cloud and rain."
+    },
+    {
+      "q": "What permits do I need for Bhimthang?",
+      "a": "You need the Manaslu restricted area permit and Manaslu Conservation Area permit to reach Larkya La, plus the Annapurna Conservation Area permit for the descent to Dharapani. The restricted permit requires at least two trekkers and a licensed guide through a registered agency. Check current status before you travel."
+    },
+    {
+      "q": "Are there lodges in Bhimthang?",
+      "a": "Yes, a small group of seasonal lodges offer twin rooms, shared toilets, simple meals and a stove-heated dining room. In peak season they fill with trekkers who crossed the pass that day, so your agency should book ahead. Many close in winter."
+    },
+    {
+      "q": "Can I do the Manaslu Circuit in reverse, from Bhimthang?",
+      "a": "It is possible but rarely done. From Bhimthang the climb to Larkya La is steeper and longer, and there is no lodge between Bhimthang and the pass, making acclimatisation harder. Most trekkers go anticlockwise from the Budhi Gandaki, crossing from Dharamsala to Bhimthang."
+    },
+    {
+      "q": "Was Bhimthang affected by the 2026 flood?",
+      "a": "No. Bhimthang and the Manaslu Circuit trails are not on the Bhote Koshi and Trishuli rivers that flooded on 26 August 2026. Trekking operators reported no confirmed damage to the Manaslu trail. Roads between the trek and Kathmandu were affected in places; check current status before you travel."
+    },
+    {
+      "q": "How many days is the full Manaslu Circuit?",
+      "a": "Usually 14 to 16 days from Kathmandu to Kathmandu, including the drives, 2 acclimatisation days and the Larkya La crossing. Adding the Tsum Valley makes 20 to 24 days. Build in a spare day for weather at the pass and for road delays."
+    }
+  ]
+}

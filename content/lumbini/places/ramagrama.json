@@ -1,0 +1,164 @@
+{
+  "slug": "ramagrama",
+  "name": "Ramagrama",
+  "name_ne": "रामग्राम",
+  "local_name": "Ramgram (Nepali)",
+  "region": "lumbini",
+  "kind": "pilgrimage site",
+  "wiki": "Ramagrama stupa",
+  "image_query": "Ramagrama stupa Nawalparasi",
+  "lat": 27.4975,
+  "lng": 83.681,
+  "altitude_m": 100,
+  "tagline": "The one original relic stupa of the Buddha that was never opened",
+  "meta_description": "Ramagrama stupa in Parasi district: by tradition the only one of eight original Buddha relic stupas never opened. Story, legend and how to visit from Lumbini.",
+  "summary": "Ramagrama is a grass-covered brick stupa on the Jharahi river in Parasi district, about 65 km east of Lumbini. Buddhist tradition holds it is one of the eight stupas built over the Buddha's ashes, and Nepal's archaeologists believe it is the only one never opened. It has been on UNESCO's tentative list since 1996.",
+  "intro": [
+    "Ramagrama does not look like a great monument. It is a round, grassy mound about 7 metres high on a bank of the Jharahi river, shaded by trees and surrounded by fields, with a small monastery and prayer flags nearby. Yet for many Buddhists it is one of the most important places in Nepal.",
+    "After the Buddha died at Kushinagar, his cremated remains were divided among eight peoples who built stupas over them. One share went to the Koliyas of Ramagrama, his mother's clan. Tradition says that when Ashoka opened the other seven stupas to share the relics across his empire, he left this one untouched.",
+    "Archaeologists have surveyed but not dug into the core of the mound, which is why it is called the unopened stupa. Come early, walk around it slowly, and pair it with Devdaha, the Koliya capital."
+  ],
+  "story": {
+    "title": "The stupa Ashoka could not open",
+    "paras": [
+      "Buddhist texts tell that after the Buddha's death, his ashes were divided into eight portions to settle a dispute among the clans who claimed them. One went to the Koliyas, the people of his mother Maya Devi and his wife Yashodhara, who built a stupa at Ramagrama, one of their towns. Faxian, the Chinese pilgrim, came here in the 5th century and described the stupa beside a pond, guarded by a serpent.",
+      "Nepal's Department of Archaeology has studied the mound since the late 20th century. Its research dates the visible structure to between the Mauryan and Gupta periods. A geophysical survey found a square Kushan-era monastery buried in the field next to it, so full of brick that crops would not grow well, and farmers had long called it an unlucky field. The stupa's core, where any relics would lie, remains unexcavated.",
+      "In 1996 Nepal placed Ramagrama on UNESCO's tentative World Heritage list. In 2023 the Lumbini Development Trust signed an agreement for its conservation, and the architect Stefano Boeri presented a master plan for the site. Pilgrims from Sri Lanka, Thailand and Myanmar come in growing numbers."
+    ]
+  },
+  "legend": "The Sri Lankan chronicle Mahavamsa says that when Ashoka went to collect the relics of Ramagrama for his 84,000 new stupas, he found the stupa guarded by nagas, serpent beings who worshipped the relics, and he left them in peace. Another Theravada tradition says a flood later broke the stupa and the nagas took the relic casket into their realm, from where monks carried it to Sri Lanka for the Ruwanwelisaya stupa.",
+  "people": "Ramgram Municipality lies in the Tharu and Madhesi heartland of Parasi district. Tharu families, Bhojpuri- and Awadhi-speaking Madhesi villagers and Pahadi settlers from the hills farm rice, wheat, sugarcane and vegetables around the stupa. Parasi bazaar, a few kilometres away, is the local market town, and the stupa has become a gathering place for village fairs and Buddhist events.",
+  "untold": [
+    {"fact": "A geophysical survey at Ramagrama revealed a square Kushan-era monastery buried beside the stupa. Its dense brick foundations had stunted crops, and local farmers knew the plot as an unlucky field.", "source": "Wikipedia: Ramagrama stupa"},
+    {"fact": "Nepal's Department of Archaeology dates the visible Ramagrama stupa to between the Mauryan and Gupta periods. The mound is about 7 metres high today, while the full stupa complex measures about 10 metres high and 23.5 metres across.", "source": "Wikipedia: Ramagrama stupa; Department of Archaeology, Nepal"},
+    {"fact": "Ramagrama was added to UNESCO's tentative World Heritage list on 23 May 1996 in the cultural category, alongside Tilaurakot, the likely site of ancient Kapilavastu.", "source": "UNESCO World Heritage tentative list"}
+  ],
+  "local_words": [
+    {"word": "asthi", "script": "अस्थि", "lang": "Nepali", "meaning": "Bones or relics; asthi stupa means a relic stupa"},
+    {"word": "nag", "script": "नाग", "lang": "Nepali", "meaning": "Serpent deity; in legend the guardians of Ramagrama's relics"},
+    {"word": "dhikri", "script": "ढिकरी", "lang": "Tharu", "meaning": "Steamed rice-flour dumpling, a Tharu festival food"}
+  ],
+  "taste": {"name": "Dhikri", "text": "Tharu steamed rice-flour dough, shaped by hand into long rolls or rings and eaten with spicy tomato chutney or meat curry. It is made for festivals such as Maghi in mid-January. Ask your guide about a home meal with a Tharu family near Parasi."},
+  "facts": [["Best months", "Oct – Mar"], ["Days we suggest", "Half day"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 50 km)"], ["From Lumbini", "≈ 65 km · 2 h by road"], ["Altitude", "≈ 100 m"], ["Known for", "Unopened Buddha relic stupa, Koliya country"]],
+  "best_months": [2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The relic stupa mound", "text": "A grass-covered brick mound about 7 metres high, honoured as one of the eight original stupas over the Buddha's ashes. Pilgrims walk around it clockwise, chanting and leaving flowers and candles at its base."},
+    {"title": "The Jharahi riverbank", "text": "The stupa stands near the Jharahi river, matching the old accounts of a stupa beside water. The bank is quiet and shaded, with village children bathing buffalo in the shallows."},
+    {"title": "The buried monastery", "text": "Next to the stupa, a field hides the foundations of a Kushan-era monastery found by geophysical survey. There is little to see above ground, but knowing it is there changes how you read the landscape."},
+    {"title": "Pilgrim ceremonies", "text": "Buddhist groups from Sri Lanka, Thailand and Myanmar hold chanting and offering ceremonies here, especially in winter and around Buddha Jayanti. Joining quietly at the edge is welcome."},
+    {"title": "The Koliya country", "text": "Ramagrama, with Devdaha, belonged to the Koliyas, the clan of the Buddha's mother. Visiting both completes the family story begun at Lumbini and Tilaurakot."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini drive east via Bhairahawa and then towards Parasi, about 65 km and 2 hours by private car. From Butwal it is about 45 km. Buses run from Bhairahawa and Butwal to Parasi bazaar, where e-rickshaws cover the last few kilometres to the stupa."},
+    {"mode": "Air", "text": "The nearest airport is Bhairahawa, about 50 km and 1.5 hours away, with flights from Kathmandu in about 35 minutes."}
+  ],
+  "where_to_stay": "There are no hotels at the stupa. Most visitors come on a day trip from Lumbini, about 2 hours away, staying at Buddha Maya Gardens or the Lumbini Hokke Hotel. Parasi bazaar has a few simple local hotels. Bhairahawa and Butwal, each about 1–1.5 hours away, have a wider choice of mid-range city hotels if you are travelling on towards Tansen or Chitwan.",
+  "stays": [],
+  "tips": [
+    "Combine Ramagrama with Devdaha in one day to see both Koliya sites; start early to avoid midday heat.",
+    "Do not climb on the stupa mound; walk around it clockwise at its base.",
+    "Bring candles or flowers from Lumbini or Bhairahawa, as there are few shops at the site.",
+    "In the monsoon the Jharahi river rises and village roads can flood, so check current status before you travel.",
+    "Ask your guide about the conservation work under way; the site is changing as new plans are carried out."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "heritage-and-temples", "villages-and-homestays"],
+  "nearby": ["devdaha", "lumbini"],
+  "experiences": [
+    {
+      "slug": "ramagrama-relic-stupa-circuit",
+      "title": "Circle the unopened relic stupa",
+      "kind": "spiritual",
+      "duration": "1–1.5 hours",
+      "best_time": "Early morning, Oct–Mar",
+      "image_query": "Ramagrama stupa mound",
+      "wiki": "Ramagrama stupa",
+      "summary": "A slow, guided circuit of the Ramagrama stupa: the story of the eight shares of the Buddha's ashes, the legend of the guarding nagas, the archaeology of the mound, and quiet time to chant or sit.",
+      "body": [
+        "We arrive early, when the air over the river is still cool and the first pilgrims are lighting candles. Walking clockwise around the base, your guide tells the story of the Buddha's final days at Kushinagar and the dispute over his ashes, resolved by dividing them into eight shares.",
+        "At the riverside, the story turns to legend: the nagas who guarded the relics against Ashoka, and the flood that later broke the stupa. Then comes the archaeology: the mound's dating, the geophysical survey, and the buried monastery in the next field.",
+        "After the circuit there is time to sit. For Buddhists, this is a chance to honour relics that may still lie within the mound; for others, a quiet place on a riverbank with a remarkable story."
+      ],
+      "good_for": ["seniors", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Are there really Buddha relics inside Ramagrama stupa?", "a": "No one knows for certain, because the core of the stupa has never been excavated. Nepal's archaeologists believe it is the only one of the eight original relic stupas left intact. Theravada tradition, however, says the relics were carried to Sri Lanka after a flood. Both views are honoured at the site."},
+        {"q": "Why has Ramagrama never been excavated?", "a": "Because of its religious importance, Nepal's archaeologists have so far chosen non-invasive methods such as geophysical survey rather than digging into the stupa's core. Opening a relic stupa would be a major decision involving Buddhist communities as well as scholars. Plans for the site may change, so check current status before you travel."},
+        {"q": "What are the eight original relic stupas?", "a": "Buddhist texts list stupas built after the Buddha's cremation at Rajagaha, Vesali, Kapilavastu, Allakappa, Ramagrama, Vethadipa, Pava and Kushinagar. Several of these locations are known or proposed today. Ramagrama is the only one in Nepal identified with confidence and the only one said to remain unopened."}
+      ]
+    },
+    {
+      "slug": "ramagrama-jharahi-river-walk",
+      "title": "Morning walk on the Jharahi river",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Early morning, Nov–Feb",
+      "image_query": "Jharahi river Nawalparasi",
+      "wiki": "",
+      "summary": "An easy riverside walk beside Ramagrama on the Jharahi river, through village fields and along sandy banks, with egrets, kingfishers and the village washing ghat.",
+      "body": [
+        "The Jharahi is a small plains river that comes down from the Chure hills and runs past Ramagrama towards the Indian border. In the dry months it is shallow and clear, with sandy banks where children play and families wash clothes and cattle.",
+        "We walk about 3 km on the bank and back through the fields, with a local guide who can name the crops and the birds: egrets, kingfishers, lapwings and, in winter, wagtails on the sand. The stupa mound appears and disappears behind the trees.",
+        "Faxian described the Ramagrama stupa as standing by a pond and watched by a serpent; standing by the river you see why water is so central to the story."
+      ],
+      "good_for": ["families", "photographers", "couples"],
+      "faqs": [
+        {"q": "Is the Jharahi river walk difficult?", "a": "No. It is a flat walk of about 3 km on riverbanks and field paths, taking around an hour at a gentle pace. Parts can be sandy or muddy, so wear closed shoes. It is suitable for children and older travellers who walk comfortably."},
+        {"q": "Can I walk by the river in the monsoon?", "a": "We do not recommend it. From July to September the Jharahi can rise quickly after heavy rain, banks become slippery and paths flood. The walk is best from November to March. Check current status before you travel if you plan to visit in the shoulder months."},
+        {"q": "What will I see on the river walk at Ramagrama?", "a": "Expect village life on the banks, such as washing, bathing buffalo and children fishing, plus rice and wheat fields and birds including egrets, kingfishers and lapwings. In winter wagtails and other migrants feed on the sand. The stupa mound is visible from several points."}
+      ]
+    },
+    {
+      "slug": "ramagrama-tharu-home-lunch",
+      "title": "A Tharu home lunch near Ramgram",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Midday, Oct–Mar",
+      "image_query": "Tharu village house Nepal",
+      "wiki": "Tharu people",
+      "summary": "Lunch with a Tharu family in a village near Ramagrama: rice, lentils, seasonal greens, fish or snail curry when available, and dhikri, with time to see the mud-walled house and its painted grain stores.",
+      "body": [
+        "The Tharu are among the oldest peoples of the Terai, and Parasi district has many Tharu villages. Their traditional houses have thick mud walls, wide verandas and tall clay grain bins, often decorated with painted or raised patterns.",
+        "We arrange lunch with a family known to our guide. Depending on the season the meal may include rice, lentils, leafy greens from the yard, river fish or snail curry, and dhikri, the steamed rice-flour dough that is a Tharu speciality. You eat sitting on mats or at a low table.",
+        "There is time to talk, with your guide translating from Tharu or Nepali, about farming, festivals and how life has changed since the malaria-control years of the 1950s brought hill settlers to the plains."
+      ],
+      "good_for": ["families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Who are the Tharu people?", "a": "The Tharu are an Indigenous people of the Terai lowlands of Nepal and northern India, long resistant to the malaria that kept other groups away. They speak Tharu languages, farm rice and other crops, fish in rivers and ponds, and are known for their mud houses, stick dances and festivals such as Maghi in January."},
+        {"q": "Is the Tharu home lunch vegetarian-friendly?", "a": "Yes. Tell us in advance and the family will prepare a vegetarian meal of rice, lentils, vegetables, greens, pickles and dhikri. Fish, snail and meat dishes are common in Tharu cooking, so mention any other dietary needs or allergies when you book."},
+        {"q": "How is the family paid for the meal?", "a": "We agree a fair price with the host family beforehand and pay them directly on the day. You do not need to pay separately. If you would like to give something extra, a small gift for the household or children's school supplies is appreciated more than cash handed to children."}
+      ]
+    },
+    {
+      "slug": "ramagrama-koliya-country-day",
+      "title": "The Koliya country: Ramagrama and Devdaha",
+      "kind": "heritage",
+      "duration": "Full day",
+      "best_time": "Oct–Mar",
+      "image_query": "Devdaha Mayadevi temple",
+      "wiki": "",
+      "summary": "A full day east of Lumbini through the land of the Koliyas, the Buddha's mother's clan: the relic stupa at Ramagrama, then Devdaha's sites linked with Maya Devi, Prajapati Gautami and Yashodhara.",
+      "body": [
+        "Most pilgrims follow the Shakya side of the Buddha's family, west of Lumbini. This day goes east into the country of the Koliyas, whose daughters married into the Shakya house: his mother Maya Devi, his aunt and foster mother Prajapati Gautami, and by tradition his wife Yashodhara.",
+        "We leave Lumbini early for Ramagrama, about 2 hours, and spend the morning at the relic stupa and the river. After lunch in Parasi or on the road, we drive north to Devdaha at the foot of the Chure hills to visit the Maya Devi temple at Bhawanipur and the Kanya Mai shrine.",
+        "We end at Devdaha's great pakari tree before driving back to Lumbini, or on to Butwal if you are heading to Tansen next."
+      ],
+      "good_for": ["first-timers", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Who were the Koliyas?", "a": "The Koliyas were a clan whose territory lay east of the Shakyas, across the Rohini river. Buddhist texts say the two clans intermarried: the Buddha's mother Maya Devi and his foster mother Prajapati Gautami were Koliyan, and tradition says his wife Yashodhara was too. Devdaha and Ramagrama were Koliya towns."},
+        {"q": "How much driving is the Koliya day?", "a": "About 180 km in total: roughly 65 km from Lumbini to Ramagrama, then on to Devdaha, and back to Lumbini or Butwal. Allow 9–10 hours including stops. Roads are mostly paved highway with short stretches of village road."},
+        {"q": "Can I visit Ramagrama on the way from Lumbini to Chitwan?", "a": "Yes. Ramagrama lies a short way south of the East-West Highway, which you follow from Lumbini towards Narayanghat and Chitwan. The detour and visit add about 2 hours to a 6–7 hour drive. Adding Devdaha as well makes for a very long day, so we usually split them."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is Ramagrama?", "a": "Ramagrama is a Buddhist stupa in Ramgram Municipality, Parasi district, about 65 km east of Lumbini. Tradition says it was built by the Koliya clan over a share of the Buddha's ashes after his death, making it one of eight original relic stupas. It has been on UNESCO's tentative list since 1996."},
+    {"q": "Why is Ramagrama called the unopened stupa?", "a": "Nepal's archaeologists believe it is the only one of the eight original relic stupas that was never opened. The Mahavamsa says Ashoka left it untouched because nagas guarded the relics, and modern research has not excavated its core. It is the only original relic stupa still in its original form."},
+    {"q": "How do I get to Ramagrama from Lumbini?", "a": "The easiest way is by private car, about 65 km and 2 hours via Bhairahawa towards Parasi. Public buses run from Bhairahawa and Butwal to Parasi bazaar, from where e-rickshaws reach the stupa. Some travellers visit Ramagrama as a detour on the drive between Lumbini and Chitwan."},
+    {"q": "What can I see at Ramagrama?", "a": "The main sight is the grass-covered stupa mound, about 7 metres high, near the Jharahi river, along with prayer flags, a small monastery and the field hiding a buried monastery. It is a place for quiet visiting and ceremony rather than elaborate buildings."},
+    {"q": "Is Ramagrama worth the trip from Lumbini?", "a": "For Buddhist pilgrims, very much so: it is honoured as a relic stupa of the Buddha himself. Other travellers will find it a modest site with a striking story. It is easiest to justify combined with Devdaha or as a stop on the drive to Chitwan."},
+    {"q": "When is the best time to visit Ramagrama?", "a": "October to March brings pleasant temperatures of 20–28 °C, with fog on some December and January mornings. April to June is very hot. From July to September the monsoon can flood village roads around the Jharahi river. Buddha Jayanti in April or May brings ceremonies at the stupa."},
+    {"q": "Is there an entry fee at Ramagrama?", "a": "Ramagrama has generally been open to visitors without a formal ticket, though this may change as the Lumbini Development Trust carries out conservation and new facilities are built. Check current status before you travel. Donations at the monastery are welcome."},
+    {"q": "Who built the Ramagrama stupa?", "a": "Buddhist texts say the Koliyas of Ramagrama built the first stupa over their share of the Buddha's ashes. The structure visible today was built and rebuilt over later centuries; Nepal's Department of Archaeology dates it to between the Mauryan and Gupta periods."},
+    {"q": "Where is Ramagrama on the map?", "a": "Ramagrama is in Ramgram Municipality in Parasi district, also known as Nawalparasi West, in Lumbini Province of southern Nepal. It lies a few kilometres from Parasi bazaar, about 65 km east of Lumbini and about 45 km south-east of Butwal, close to the Indian border."}
+  ]
+}

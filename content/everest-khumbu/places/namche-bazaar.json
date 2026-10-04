@@ -1,0 +1,165 @@
+{
+  "slug": "namche-bazaar",
+  "name": "Namche Bazaar",
+  "name_ne": "नाम्चे बजार",
+  "local_name": "Nauche (Sherpa)",
+  "region": "everest-khumbu",
+  "kind": "trek stop",
+  "wiki": "Namche Bazaar",
+  "image_query": "Namche Bazaar village Kongde",
+  "lat": 27.8048,
+  "lng": 86.713,
+  "altitude_m": 3440,
+  "tagline": "Khumbu's trading town, built in a bowl at 3,440 m",
+  "meta_description": "Namche Bazaar, 3,440 m: the Saturday market, Sherpa trading history, park headquarters views of Everest, acclimatisation days, lodges and local food.",
+  "summary": "Namche Bazaar is the Sherpa trading town at about 3,440 m where every Everest trek stops for two nights to acclimatise. Its horseshoe of lodges faces Kongde Ri, its Saturday market draws traders from lower valleys, and the hill above gives the first full view of Everest.",
+  "intro": [
+    "Namche fills a steep, horseshoe-shaped bowl above the meeting of the Dudh Koshi and the Bhote Koshi, with terraced rows of blue- and green-roofed lodges looking straight across at the ice of Kongde Ri. Sherpas call it Nauche. For centuries it was the trading post of Khumbu, where salt and wool from Tibet met grain from the lower hills; today the trade is trekkers, and the town has bakeries, gear shops, banks and a health post at 3,440 m.",
+    "Almost every itinerary spends two nights here, because this is where altitude starts to matter. The spare day is spent climbing higher and returning to sleep, usually up to the national park headquarters, Syangboche and the Hotel Everest View terrace, or over to Khumjung. On Saturdays the market fills the town with porters and traders who have walked up for days from Solu and the Rai country to the south.",
+    "We like Namche for its mix: monks and mountaineers, yak caravans and espresso machines, Sherpa grandmothers spinning prayer wheels on their way to the gompa. Come with time. Walk the upper paths at dawn for the light on Thamserku, visit the small museums, eat a proper Sherpa stew, and let your body settle before the long climb towards Tengboche."
+  ],
+  "story": {
+    "title": "From salt-trade post to the town every trek passes",
+    "paras": [
+      "Before trekking, Namche lived on trade. Sherpa families from here and from Khumjung and Thame crossed the Nangpa La, a glacier pass west of Thame at about 5,700 m, to Tibet, carrying grain, paper and goods from the Nepal hills, and returning with salt, wool and Tibetan livestock. Namche's traders were among the richest families in Khumbu, and their large stone houses still stand on the bowl's lower terraces.",
+      "After 1959 the Tibetan border closed to most of that traffic, and for a few years Namche lost its purpose. Then came the mountaineers and, from the late 1960s, the trekkers. Lodges replaced trading houses. In 1976 Nepal created Sagarmatha National Park, with its headquarters on the hill above Namche at Mendalphu, and in 1979 UNESCO inscribed it as a World Heritage Site. The town became the park's market, bank and meeting place.",
+      "The Saturday haat bazaar keeps the old trading role alive. Porters and farmers walk up for two or three days from Solu, Okhaldhunga and the Rai villages below Lukla with rice, vegetables, eggs and live chickens, and Tibetan traders still bring goods across the border when it is open. They sell on the terraces from early morning, and by midday most are packing up for the walk home."
+    ]
+  },
+  "legend": "Sherpa belief holds that springs, lakes and rivers are home to lu, serpent spirits of the water and underground. Offend them by polluting a spring, cutting trees around it or disturbing the soil without ritual, and illness follows. Local elders say that is why Namche's spring at the head of the bowl, marked by prayer flags and small shrines, is kept clean, and why lamas are called to perform rituals before new houses are built.",
+  "people": "Namche's old families are Sherpa, many from clans that traded with Tibet for generations, and many now run lodges, shops and expedition companies. Rai, Tamang and other families from the lower hills work here as porters, cooks and shopkeepers, and Tibetan traders come for the market. Sherpa, Nepali and English are all heard on the main street. Monks from the town gompa and from Tengboche pass through on errands.",
+  "untold": [
+    {"fact": "Everest's Nepali name, Sagarmatha, was coined in the 1960s by the Nepali historian Baburam Acharya. Sherpas and Tibetans have long called the mountain Chomolungma.", "source": "Wikipedia: Mount Everest"},
+    {"fact": "Sagarmatha National Park was created in 1976 and inscribed on the UNESCO World Heritage List in 1979. Its headquarters and visitor centre stand on the hill at Mendalphu, directly above Namche.", "source": "UNESCO World Heritage listing: Sagarmatha National Park"},
+    {"fact": "Namche lies above the confluence of the Dudh Koshi and the Bhote Koshi. The Bhote Koshi valley leads west past Thame to the Nangpa La, the old trade pass to Tibet used by Sherpa salt traders.", "source": "Wikipedia: Nangpa La"}
+  ],
+  "local_words": [
+    {"word": "haat bazaar", "script": "हाट बजार", "lang": "Nepali", "meaning": "Weekly market; Namche's is on Saturday"},
+    {"word": "bistarai bistarai", "script": "बिस्तारै बिस्तारै", "lang": "Nepali", "meaning": "Slowly, slowly: the advice every guide gives on the climb to Namche"},
+    {"word": "Chomolungma", "script": "ཇོ་མོ་གླང་མ", "lang": "Sherpa", "meaning": "Sherpa and Tibetan name for Everest, often glossed as goddess mother of the world"}
+  ],
+  "taste": {"name": "Shyakpa (Sherpa stew)", "text": "Shyakpa is the Sherpa stew: hand-torn flat noodles cooked in a broth with potato, radish, greens and sometimes yak or nak meat. Every Namche lodge serves a version as 'Sherpa stew', and a bowl after the climb up from Monjo is the right welcome."},
+  "facts": [["Best months", "Mar – May, Oct – Nov"], ["Days we suggest", "2 nights (acclimatisation)"], ["Nearest airport", "Lukla (LUA), 2 days on foot"], ["From Kathmandu", "Flight to Lukla + ≈ 19 km on foot over 2 days"], ["Altitude", "3,440 m"], ["Known for", "Saturday market, acclimatisation, first Everest view"]],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "The Saturday haat bazaar", "text": "Every Saturday morning porters and farmers who have walked up for days from Solu and the Rai hills sell rice, vegetables, eggs and goods on Namche's terraces. Come early, before 9 am, to see the trading at its busiest and the porters resting their loads."},
+    {"title": "Everest from the park headquarters", "text": "A 20–30 minute climb above the town brings you to the Sagarmatha National Park headquarters at Mendalphu, where on a clear morning Everest, Lhotse, Ama Dablam and Thamserku stand in one line. The visitor centre explains the park's wildlife and Sherpa culture."},
+    {"title": "Acclimatisation walk to Syangboche", "text": "The classic spare-day walk climbs about 450 m to Syangboche and the Hotel Everest View terrace, then loops through Khumjung and Kunde back to Namche. Five to six hours of easy walking does more for acclimatisation than a day in bed."},
+    {"title": "Namche gompa and prayer wheels", "text": "On the edge of the town, Namche's small gompa and the line of prayer wheels around it are where older residents walk their daily kora. Morning and evening are the best times to hear chanting, and visitors are welcome if quiet and respectful."},
+    {"title": "Sherpa stew and bakeries", "text": "Namche has the last real bakeries on the trail, with apple pie, cinnamon rolls and coffee, alongside lodges that cook shyakpa, momo and dal bhat. Eat well here: appetites drop higher up, and a full stomach helps the body acclimatise."},
+    {"title": "Gear and last-minute kit", "text": "Namche's shops sell and rent down jackets, sleeping bags, gloves and trekking poles, and pharmacies stock basic medicines. Prices are higher than in Kathmandu but still fair, and it is the last place with a wide choice before Dingboche or Gokyo."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Lukla, about 19 km over two days via Phakding and Monjo, with a final climb of roughly 600 m from the Hillary suspension bridge. Most treks sleep in Phakding the first night."},
+    {"mode": "Air", "text": "Fly Kathmandu to Lukla in about 35 minutes, or via Ramechhap in peak seasons. Helicopters can land near Namche and at Syangboche, but flying straight to 3,440 m without acclimatising is risky, and we do not advise it."}
+  ],
+  "where_to_stay": "Namche has well over a hundred lodges, from simple family teahouses with shared bathrooms to comfortable lodges with attached bathrooms, heated dining rooms and good food. Yeti Mountain Home Namche is one of the better-equipped, with private bathrooms and electric blankets. For a night on the ridge after acclimatising, Hotel Everest View sits about 450 m above the town near Khumjung. In October and April book well ahead, as the best rooms fill early.",
+  "stays": ["yeti-mountain-home-namche"],
+  "tips": [
+    "Spend two nights in Namche and use the middle day to climb high and sleep low.",
+    "Visit the Saturday market early; by midday most traders are packing up for the walk home.",
+    "Buy any missing warm gear here, as choice drops sharply above Namche.",
+    "Drink 3–4 litres of water a day and go easy on alcohol until you are higher and acclimatised.",
+    "Walk the upper paths at dawn for clear views before cloud rises from the valleys."
+  ],
+  "themes": ["treks-and-trails", "high-altitude", "food-and-festivals", "photography"],
+  "nearby": ["khumjung", "thame", "tengboche", "lukla"],
+  "experiences": [
+    {
+      "slug": "namche-saturday-haat-bazaar",
+      "title": "Namche's Saturday market at first light",
+      "kind": "food",
+      "duration": "2 hours",
+      "best_time": "Saturday 6–10 am, all year",
+      "image_query": "Namche Bazaar Saturday market",
+      "wiki": "",
+      "summary": "Each Saturday porters and traders who have walked for days from Solu, Okhaldhunga and the Rai villages set out rice, vegetables, eggs and goods on Namche's terraces. Arrive early with your guide to watch the haggling, the weighing and the loads coming off backs.",
+      "body": [
+        "The haat bazaar is the oldest economy in Namche still working. Khumbu grows potatoes, barley, buckwheat and a few vegetables, but not rice, and much of what lodges and families eat is carried up on human backs. On Saturday mornings the porters who carry it arrive in numbers: men and women from Solu, Okhaldhunga, Bung and other lower valleys, many of them Rai, who have walked two or three days with 40 kg or more in a doko basket.",
+        "They lay out sacks of rice and flour, piles of greens and onions, trays of eggs, buckets of oil and sometimes live chickens. Lodge owners buy in bulk, households buy for the week, and prices are argued quietly over a hand-held spring scale. Tibetan traders, when the border allows, sell Chinese-made clothing, thermos flasks and dried meat. The talk is in Sherpa, Nepali, Rai languages and Tibetan.",
+        "By late morning the trading slows and the porters buy what they will carry home, often salt, sugar and cloth, before starting the long walk down. Watch respectfully, ask before photographing people and their goods, and buy something small, a bag of dried fruit or a few eggs for your guide's family. It is the clearest picture you will get of how Khumbu is fed."
+      ],
+      "good_for": ["photographers", "solo", "first-timers", "families"],
+      "faqs": [
+        {"q": "What day is the Namche market?", "a": "Saturday. Traders start setting up at first light and the busiest hours are roughly 6 to 10 am. By late morning many have sold out and begin the walk home. Some traders arrive on Friday evening, so the town is busy then too. Plan your acclimatisation day around a Saturday morning if your dates allow."},
+        {"q": "What is sold at the Namche Saturday market?", "a": "Mostly food carried up from lower valleys: rice, flour, lentils, vegetables, eggs, cooking oil, sugar and sometimes live chickens. There are also household goods, clothing and Tibetan or Chinese-made items when traders cross the border. It is a market for local households and lodges, not a souvenir market, which is why it is worth seeing."},
+        {"q": "Where do the market traders come from?", "a": "Many walk up from the Solu hills, Okhaldhunga and the Rai villages of the lower Dudh Koshi, two or three days below Namche, carrying loads of 30–40 kg or more. Others are lodge suppliers from Lukla and Phakding. Tibetan traders have historically come over the Nangpa La from the Tibetan side, though border rules limit this."}
+      ]
+    },
+    {
+      "slug": "namche-park-headquarters-sunrise",
+      "title": "Sunrise on Everest from Namche's park hill",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Dec and Mar–Apr",
+      "image_query": "Everest view from Namche Bazaar national park",
+      "wiki": "Sagarmatha National Park",
+      "summary": "Climb 20–30 minutes from Namche to the Sagarmatha National Park headquarters at Mendalphu for sunrise, when Everest, Lhotse, Ama Dablam and Thamserku catch the first light. The visitor centre beside it explains the park, its wildlife and Sherpa life.",
+      "body": [
+        "From inside Namche's bowl you see Kongde Ri and Thamserku, but not Everest. For that you climb the stepped path at the east side of town, past the last lodges and an army post, to the grassy ridge at Mendalphu where the park headquarters stands. On a clear morning the view runs up the valley: Everest's dark summit pyramid above the long Nuptse–Lhotse wall, Ama Dablam's sharp ridge to the right, and Thamserku close across the gorge.",
+        "Go at dawn. In October, November and December the sky is often clear early, and sunrise lights the summits gold while the valleys stay in shadow. Bring a thermos of tea and a down jacket, because frost is normal. Himalayan tahr, the shaggy wild goats, graze on the slopes below, and you may hear or see Himalayan monal, Nepal's national bird, in the scrub.",
+        "After breakfast, return to look around the visitor centre, which has displays on the park's creation in 1976, its UNESCO listing in 1979, Sherpa culture and the wildlife of Khumbu. Nearby small private museums show a traditional Sherpa house and mountaineering photographs. The walk up and back counts as a short acclimatisation outing before a bigger hike later in the day."
+      ],
+      "good_for": ["photographers", "couples", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "Can you see Everest from Namche Bazaar?", "a": "Not from the town itself, which sits in a bowl facing west. A 20–30 minute climb to the Sagarmatha National Park headquarters on the ridge above town gives a clear view of Everest, Lhotse, Ama Dablam and Thamserku on clear mornings. Syangboche and Hotel Everest View, higher up, give an even fuller view."},
+        {"q": "What time is sunrise in Namche?", "a": "Between about 5:30 and 6:30 am depending on the season: earlier in spring, later in November and December. Leave your lodge 30–40 minutes before to reach the park hill in time. Clear mornings are most likely from October to December. In monsoon months, June to September, cloud usually hides the peaks."},
+        {"q": "What wildlife can I see near Namche?", "a": "Himalayan tahr, a large wild goat, is often seen on slopes around the park headquarters and on the trail towards Tengboche. Himalayan monal, the iridescent national bird of Nepal, lives in the scrub and forest. Musk deer occur in the forests nearby, and snow leopards live in the park but are very rarely seen."}
+      ]
+    },
+    {
+      "slug": "namche-gompa-evening-kora",
+      "title": "Evening kora around Namche's gompa",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Late afternoon, all year",
+      "image_query": "Namche Bazaar monastery prayer wheels",
+      "wiki": "",
+      "summary": "Join older Namche residents on their evening kora, the clockwise walk around the town's gompa and prayer wheels, then sit quietly in the prayer hall if it is open. It is a simple, gentle way to end an acclimatisation day.",
+      "body": [
+        "Every Sherpa village has its gompa, and Namche's is a modest prayer hall with painted eaves and a row of brass prayer wheels around its walls. In the late afternoon, when the trail traffic eases, older residents come down with their hand prayer wheels and malas and walk slowly around it, clockwise, turning each wheel and murmuring om mani padme hum.",
+        "You are welcome to join, with a few courtesies. Walk clockwise, always keeping the gompa and any chorten or mani wall on your right. Turn the wheels with your right hand. Inside the hall, remove your shoes and hat, do not point your feet at the altar, and ask before taking photographs. A small donation in the box is a good gesture. If monks are chanting, sit at the back and listen.",
+        "Inside, the murals show Guru Rinpoche, the Buddha and protector deities, among them, in many Khumbu gompas, Khumbu Yul Lha, the protector of the region whose mountain home is Khumbila above Khumjung. Ask your guide to name the figures. The quiet hour, the butter lamps and the low light make it one of the most peaceful moments of the trek."
+      ],
+      "good_for": ["solo", "couples", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Can tourists enter Namche monastery?", "a": "Yes, when it is open, usually in the morning and late afternoon. Remove shoes and hats, keep voices low, do not touch altar objects and ask before photographing. A small donation is appreciated. If a ritual is in progress, wait outside or sit quietly at the back. Your guide can ask the caretaker to open the hall if it is closed."},
+        {"q": "What is a kora?", "a": "A kora is a devotional walk around a sacred site: a gompa, chorten, mani wall or even a mountain. Buddhists walk it clockwise, turning prayer wheels and reciting mantras, to gain merit. In Sherpa villages older people walk the kora daily. Visitors may join; just walk clockwise and keep the sacred object on your right."},
+        {"q": "Why do Sherpas walk clockwise around chortens?", "a": "In Tibetan Buddhism, walking clockwise around a sacred object, keeping it on your right, follows the direction of the sun and is a sign of respect. Passing mani walls and chortens on the left is considered disrespectful. Bon followers walk anticlockwise, but in Khumbu almost everyone is Buddhist, so clockwise is the rule on every trail."}
+      ]
+    },
+    {
+      "slug": "namche-syangboche-khumjung-acclimatisation-loop",
+      "title": "Acclimatisation loop via Syangboche and Khumjung",
+      "kind": "trek",
+      "duration": "5–6 hours",
+      "best_time": "Morning start, Oct–Nov and Mar–May",
+      "image_query": "Syangboche Khumjung trail Ama Dablam",
+      "wiki": "Syangboche Airport",
+      "summary": "The standard Namche rest-day walk climbs about 450 m to Syangboche and the Hotel Everest View terrace, drops to Khumjung's school and gompa, and returns to sleep in Namche. It is the best way to prepare the body for Tengboche and beyond.",
+      "body": [
+        "Acclimatisation days are not for lying in bed. The guidance used by mountain doctors is to climb higher during the day and return to sleep lower, which nudges the body to adapt. From Namche at about 3,440 m, the steep zigzag above town reaches the dirt airstrip at Syangboche, about 3,750 m, used mainly by helicopters, in an hour or so. From there a path climbs on through juniper to the Hotel Everest View at about 3,880 m.",
+        "On a clear day the hotel terrace gives the classic Khumbu panorama: Everest above the Nuptse–Lhotse ridge, Ama Dablam, Thamserku and Kangtega, with Tengboche on its wooded ridge below. Order tea and sit for half an hour. Then descend through the forest to Khumjung at about 3,790 m, a wide Sherpa village of stone houses and potato fields under the sacred peak of Khumbila.",
+        "In Khumjung visit the Hillary school, founded in 1961, and the gompa, which keeps the so-called yeti scalp. Neighbouring Kunde has the Kunde hospital, founded by the Himalayan Trust in 1966. The path back to Namche contours above the Dudh Koshi and drops into town by mid-afternoon. Walk slowly; any headache that does not ease with rest and water should be reported to your guide."
+      ],
+      "good_for": ["trekkers", "first-timers", "families", "photographers"],
+      "faqs": [
+        {"q": "What should I do on my acclimatisation day in Namche?", "a": "Walk higher and sleep low. The usual choice is the 5–6 hour loop to Syangboche, Hotel Everest View and Khumjung, gaining about 450 m and returning to Namche to sleep. A shorter option is the park headquarters hill and Syangboche only. Resting in bed all day is less helpful than gentle walking with plenty of water."},
+        {"q": "How hard is the Syangboche climb from Namche?", "a": "It is steep but short: about 300 m of zigzags to the Syangboche airstrip, then a gentler climb to the Hotel Everest View, roughly 1.5–2 hours in total at an easy pace. The path is good and non-technical. Breathing will feel hard because of the altitude, so walk slowly and stop often."},
+        {"q": "Can I see Everest on the Namche acclimatisation hike?", "a": "Yes, on a clear day. From Syangboche and especially the Hotel Everest View terrace, Everest's summit shows above the Nuptse–Lhotse ridge, with Ama Dablam and Thamserku nearer. Mornings give the best chance; cloud often builds from late morning, particularly in spring and in the monsoon months."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Namche Bazaar?", "a": "Namche Bazaar stands at about 3,440 m. It is the first place on the Everest trail where most people feel the altitude clearly: shortness of breath, a mild headache and poorer sleep are common on the first night. That is why nearly every itinerary spends two nights here and climbs higher on the middle day before sleeping in Namche again."},
+    {"q": "How many days should I stay in Namche Bazaar?", "a": "Two nights on the way up, with one acclimatisation day, is the standard and the minimum we recommend. Travellers who are slow to acclimatise or have come from sea level benefit from a third night. On the way down one night is enough, and some people pass through without stopping."},
+    {"q": "Is there an ATM in Namche Bazaar?", "a": "Yes, Namche has bank ATMs, but they can be offline or empty and charge fees. Carry enough cash from Kathmandu for the whole trek and treat Namche ATMs as a backup. Some lodges and shops accept cards with a surcharge. Above Namche, cash in Nepali rupees is essential for food, charging, showers and Wi-Fi."},
+    {"q": "When is the Namche market?", "a": "Every Saturday morning, from first light to late morning. Traders and porters walk up from Solu, Okhaldhunga and the Rai villages to sell rice, vegetables, eggs and household goods. Arrive before 9 am to see it at its busiest. Plan your acclimatisation day for a Saturday if your dates allow."},
+    {"q": "Do I need a guide to trek to Namche Bazaar?", "a": "Since April 2023 Nepal has required foreign trekkers in national parks and conservation areas to walk with a licensed guide. In Khumbu, where the local municipality runs its own permit, the rule has been applied unevenly. A good guide also helps with acclimatisation, lodges and flights. Check current status before you travel."},
+    {"q": "What is the weather like in Namche Bazaar?", "a": "In October and November, days are often clear and around 10–15 °C in the sun, with nights near or below 0 °C. December to February are colder, with nights down to around minus 10 °C. Spring warms through March to May, with more afternoon cloud. June to September is monsoon: mild, damp and often cloudy."},
+    {"q": "Can I get altitude sickness in Namche Bazaar?", "a": "Yes. Acute mountain sickness can start above about 2,500 m, and Namche at 3,440 m is high enough to cause it, especially after flying in. Symptoms include headache, nausea, fatigue and poor sleep. Rest, fluids and staying put usually help. If symptoms worsen, descend. Never climb higher with worsening symptoms."},
+    {"q": "Is there Wi-Fi and phone signal in Namche Bazaar?", "a": "Yes. Mobile data works in most of Namche on Nepal's main networks, and almost every lodge offers Wi-Fi, free or for a small charge. Speeds drop in the evenings. Above Namche, coverage becomes patchier, and many lodges use prepaid Wi-Fi cards. Buy a local SIM in Kathmandu before the flight."},
+    {"q": "What is there to do in Namche Bazaar?", "a": "Climb to the park headquarters for the Everest view, walk to Syangboche, Khumjung and Kunde, see the Saturday market, visit the gompa and small museums of Sherpa life and mountaineering, and eat well in the bakeries and lodges. Above all, rest and acclimatise: Namche's main job is to prepare you for the higher trail."}
+  ]
+}

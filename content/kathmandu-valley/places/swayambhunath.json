@@ -1,0 +1,342 @@
+{
+  "slug": "swayambhunath",
+  "name": "Swayambhunath",
+  "name_ne": "स्वयम्भूनाथ",
+  "local_name": "",
+  "region": "kathmandu-valley",
+  "kind": "pilgrimage site",
+  "wiki": "Swayambhunath",
+  "image_query": "Swayambhunath stupa eyes Kathmandu",
+  "lat": 27.7149,
+  "lng": 85.2904,
+  "altitude_m": 1420,
+  "tagline": "The self-born stupa on the hill where the valley's story begins",
+  "meta_description": "Swayambhunath (Monkey Temple) with locals: the 365 steps, the self-born stupa legend, Shantipur, Harati, the hill kora, sunset views and getting there.",
+  "summary": "Swayambhunath, often called the Monkey Temple, is a hilltop stupa about 3 km west of Thamel, sacred to Newar Buddhists, Tibetans and Hindus alike. Climb the 365 steps of the eastern stairway early, walk the hill kora, and stay for valley views at sunset. Two to three hours is enough.",
+  "intro": [
+    "In the valley's own creation story, this hill was the island in the lake where the self-born light of the Buddha first shone from a lotus. Whatever you believe, the setting explains the idea: a wooded hill rising alone from the western edge of Kathmandu, crowned by a white dome with painted eyes that look out over the whole city. On clear days you can see the Himalaya beyond the northern rim.",
+    "The top of the hill is crowded with shrines. Around the main stupa are smaller chaityas, prayer wheels, two tall shikhara temples, a Hindu temple to Harati, the goddess who protects children, a Tibetan monastery and a ring of shops and stalls. Newar Bajracharya priests perform the daily rituals, while Tibetan monks chant nearby. Monkeys, the reason for the English nickname, are everywhere.",
+    "Swayambhu was damaged in 2015, with one of the shikharas and several buildings on the hill falling or cracking, but the main stupa held. Today the site is fully open. It is busiest in the early morning, when locals climb for prayers and exercise, and at sunset. Come at those times to see it as people here use it, not just as a sight."
+  ],
+  "story": {
+    "title": "The hill that rose from the lake",
+    "paras": [
+      "Swayambhu is one of the oldest Buddhist sites in the valley. Tradition and inscriptions place a shrine here by the Licchavi period, and it has been rebuilt and regilded many times since. For Newar Buddhists it is the most sacred place in the valley, tied directly to the Swayambhu Purana, the text that tells how the valley was made habitable.",
+      "In the 17th century King Pratap Malla of Kathmandu left a strong mark here. He is credited with the long eastern stairway, the great gilded vajra at its top, and the two white shikhara temples of Pratapur and Anantapur that flank the stupa. Over the following centuries Newar merchants and Tibetan patrons kept regilding the spire and adding chaityas, so the summit became crowded with gifts of faith from many generations.",
+      "After 1959, Tibetan refugees settled at the foot of the hill and on its slopes, and monasteries grew. The 2015 earthquake damaged Pratapur and several monastery buildings, but the stupa itself survived with minor damage. Locals, Tibetans and donors worked together to repair the hill. Today Newar and Tibetan Buddhists, Hindus and visitors share the summit, often on the same morning kora."
+    ]
+  },
+  "legend": "In the Swayambhu Purana, the valley was a great lake, and on it bloomed a lotus from which a light shone: the self-born Buddha, Swayambhu. Manjushri came from the north, drained the lake by cutting the hills at Chobhar, and the lotus came to rest on this hill, where the stupa now covers it. Local legend adds that the monkeys grew from lice in Manjushri's long hair, which is why they are treated as holy.",
+  "people": "The hill and its slopes are home to Newar Buddhist families, especially Bajracharya priests who serve the stupa, and to Tibetan communities who settled after 1959 and run monasteries and shops. Many Kathmandu residents of every background climb the steps each morning for prayer or exercise. Stall keepers on the summit sell incense, butter lamps, singing bowls and tea, and many have worked there for decades.",
+  "untold": [
+    {
+      "fact": "Although Swayambhu is a Buddhist site, the long eastern stairway that most pilgrims climb was built in the 17th century by Pratap Malla, the Hindu king of Kathmandu, one of many Hindu rulers who honoured the stupa.",
+      "source": "Wikipedia: Swayambhunath"
+    },
+    {
+      "fact": "Swayambhu is shared by two Buddhist traditions: Newar Vajrayana priests perform the daily rituals at the stupa, while Tibetan monasteries on the same hill hold their own pujas. Hindus also worship here, especially at the temple of the goddess Harati.",
+      "source": "Wikipedia: Swayambhunath"
+    },
+    {
+      "fact": "According to the Swayambhu Purana, the goddess Hariti, once feared as a taker of children, heard the Buddha preach at Swayambhu and vowed to protect the stupa and children. Her temple stands beside the main stupa.",
+      "source": "Wikipedia: Swayambhunath"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Chaitya",
+      "script": "चैत्य",
+      "lang": "Nepal Bhasa",
+      "meaning": "Small stupa or shrine, often given by a family to earn merit"
+    },
+    {
+      "word": "Bajracharya",
+      "script": "बज्राचार्य",
+      "lang": "Nepal Bhasa",
+      "meaning": "Newar Buddhist priestly family who perform rituals at the stupa"
+    },
+    {
+      "word": "Bandar",
+      "script": "बाँदर",
+      "lang": "Nepali",
+      "meaning": "Monkey"
+    }
+  ],
+  "taste": {
+    "name": "Sel roti",
+    "text": "A ring of sweet rice-flour batter deep fried until crisp outside and soft within, made at home for Tihar and sold year round at tea stalls. The small shops at the foot of the eastern stairway and on the summit serve it hot with milk tea for climbers in the morning."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Apr"
+    ],
+    [
+      "Days we suggest",
+      "Half day"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 9 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 3 km from Thamel · 15–20 min"
+    ],
+    [
+      "Altitude",
+      "≈ 1,420 m"
+    ],
+    [
+      "Known for",
+      "Self-born stupa, 365 steps, monkeys, valley views"
+    ]
+  ],
+  "best_months": [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    1,
+    1,
+    2,
+    2,
+    1
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "The 365 eastern steps",
+      "text": "The old stone stairway climbs straight up the eastern face through trees and carved Buddhas, past monkeys and locals doing morning exercise. It takes 15 to 20 minutes at an easy pace and ends at the great vajra."
+    },
+    {
+      "title": "The stupa and its eyes",
+      "text": "The white dome with gilded spire and the eyes of the Buddha on all four sides. Around the base are prayer wheels and the shrines of the five Buddhas. Walk round clockwise and watch priests at work."
+    },
+    {
+      "title": "Harati and Shantipur",
+      "text": "Behind the stupa, the pagoda of Harati, protector of children, draws mothers with offerings. Nearby, the closed shrine of Shantipur has its own legend of a hidden sage and a rain-making mandala."
+    },
+    {
+      "title": "Sunset over Kathmandu",
+      "text": "From the summit terraces, the whole city spreads east towards the hills, lights coming on as the sun drops. On clear winter evenings, peaks of the Ganesh and Langtang ranges glow to the north."
+    },
+    {
+      "title": "The hill kora",
+      "text": "Locals walk a circuit round the base of the hill each morning, past rows of prayer wheels, chaityas and small monasteries. It takes about 45 minutes and shows a side of Swayambhu most visitors miss."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Swayambhu is about 3 km west of Thamel. A taxi takes 15 to 20 minutes to the eastern stairway or to the western car park, which is nearer the summit and avoids most of the steps. Ride-hailing cars also work. There is no regular bus to the summit."
+    },
+    {
+      "mode": "On foot",
+      "text": "From Thamel, walk west via Chhetrapati and the Bishnumati bridge, about 40 minutes, to the foot of the eastern stairway. From Kathmandu Durbar Square, the old route via Bijeshwari takes a similar time and passes small shrines and old houses."
+    }
+  ],
+  "where_to_stay": "Most people visit from Thamel, 15 minutes away, where Kathmandu Guest House and many other hotels are within walking distance. A few small guesthouses sit at the foot of the hill and in the lanes round Swayambhu, suitable if you want to climb at dawn. For more comfort, stay in Thamel, Lazimpat or Durbar Marg and take an early taxi to the steps.",
+  "stays": [],
+  "tips": [
+    "Do not carry food or plastic bags openly; the monkeys snatch them and can bite.",
+    "Climb the eastern steps early in the morning, and take a taxi to the western car park if steps are hard for you.",
+    "Walk clockwise round the stupa and all chaityas, and do not sit on shrines for photos.",
+    "Foreign visitors pay a small entry fee at the top of the stairway or the western gate.",
+    "Wear shoes with grip; the old stairway is steep and smooth in places."
+  ],
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "photography",
+    "family-trips"
+  ],
+  "nearby": [
+    "kathmandu",
+    "kirtipur",
+    "patan"
+  ],
+  "experiences": [
+    {
+      "slug": "swayambhunath-dawn-stairway-climb",
+      "title": "Climb the 365 steps with Kathmandu at dawn",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "6–8 am, all year",
+      "image_query": "Swayambhunath eastern stairway steps",
+      "wiki": "",
+      "summary": "Climb the old eastern stairway at first light with locals heading to prayers and exercise. Reach the summit as butter lamps burn, watch priests open the shrines, and walk the stupa clockwise as the city appears below the morning mist.",
+      "body": [
+        "We meet at the foot of the hill at about 6 am, where stone Buddhas and a gate mark the start of the eastern stairway. The steps climb through trees, with small chaityas and carved figures on either side. Monkeys leap across the rails, and people of all ages pass us: elderly women with offering plates, runners, office workers fitting in a climb before work.",
+        "At the top, the great gilded vajra, the thunderbolt, sits on its drum in front of the stupa. We walk round the dome clockwise, turning the prayer wheels, and stop to watch Newar priests make the morning offerings. Butter lamps burn in a small house beside the stupa, and Tibetan monks may be chanting in the nearby monastery.",
+        "As the mist lifts, the valley appears to the east: Kathmandu's old core, the white Dharahara tower, and on a clear morning the hills of the rim and beyond. We stop for tea at a stall, then walk down the stairway or round the hill kora before breakfast."
+      ],
+      "good_for": [
+        "first-timers",
+        "solo",
+        "couples",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How many steps are there at Swayambhunath?",
+          "a": "The eastern stairway is usually said to have 365 steps, one for each day of the year. It is steep, especially near the top, and takes 15 to 25 minutes at an easy pace. If steps are difficult, a taxi can take you to the western car park, close to the summit."
+        },
+        {
+          "q": "What is the best time to visit Swayambhunath?",
+          "a": "Early morning, from about 6 to 8 am, when locals climb for prayers and the air is clear, or late afternoon for sunset over the city. Midday is hotter, hazier and busier with tour groups. October to April has the clearest views of the valley and mountains."
+        },
+        {
+          "q": "Why is Swayambhunath called the Monkey Temple?",
+          "a": "Because hundreds of rhesus macaques live on the hill and in its trees. Local legend says they grew from lice in the hair of Manjushri, who drained the valley lake. They are considered holy, but they steal food and bags, so keep snacks hidden and do not feed them."
+        }
+      ]
+    },
+    {
+      "slug": "swayambhunath-hill-kora-and-shrines",
+      "title": "Hill kora, Harati and the Shantipur legend",
+      "kind": "heritage",
+      "duration": "2.5 hours",
+      "best_time": "Morning, all year",
+      "image_query": "Swayambhunath prayer wheels kora",
+      "wiki": "",
+      "summary": "Walk the circuit round the base of the hill past prayer wheels and monasteries, then climb to the summit's lesser-known shrines: Harati's pagoda, the closed Shantipur with its legend, and the Manjushri shrine on the western hill. A slower, deeper visit.",
+      "body": [
+        "Each morning, locals and Tibetans walk a circuit round the base of the hill, past long rows of prayer wheels, small monasteries, chaityas and water taps. We join that kora, which takes about 45 minutes, and talk about how the Tibetan community grew here after 1959 and how Newar and Tibetan practice sit side by side.",
+        "We then climb to the summit by the quieter western path. Behind the main stupa stands the pagoda of Harati, a goddess who in legend once stole children until the Buddha changed her into their protector. Mothers bring offerings here for their children's health. Nearby is Shantipur, a closed shrine linked to a sage said to meditate in a hidden chamber.",
+        "Finally, we walk to the small western hill where a shrine to Manjushri is also worshipped as Saraswati, goddess of learning, and students come before exams. From here, you look back at the main stupa through the trees. We finish with tea and a short explanation of how the Swayambhu Purana ties the hill to the whole valley."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "seniors",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is the kora around Swayambhu hill?",
+          "a": "It is a walking circuit round the base of the hill, about 45 minutes long, lined with prayer wheels, chaityas and small monasteries. Locals walk it clockwise each morning as prayer and exercise. It is free, shaded in parts and much quieter than the summit."
+        },
+        {
+          "q": "What is Shantipur at Swayambhunath?",
+          "a": "Shantipur is a small closed shrine near the top of the hill. Local legend says the sage Shantikar Acharya meditates in a secret chamber below it, and that King Pratap Malla once entered to fetch a mandala to end a drought. Visitors cannot enter, but it is an important part of the hill's story."
+        },
+        {
+          "q": "Who is Harati at Swayambhunath?",
+          "a": "Harati, or Hariti, is a goddess honoured in a pagoda temple behind the main stupa. In Buddhist legend she was a demoness who stole children until the Buddha turned her into their protector. Parents, especially mothers, bring offerings to her for their children's health."
+        }
+      ]
+    },
+    {
+      "slug": "swayambhunath-sunset-valley-view",
+      "title": "Sunset over Kathmandu from Swayambhu",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Late afternoon, Oct–Feb",
+      "image_query": "Kathmandu valley view from Swayambhunath",
+      "wiki": "",
+      "summary": "Reach the summit an hour before sunset, walk the stupa as the light turns gold, and find a spot on the eastern terrace to watch the valley glow and the city lights come on. On clear winter evenings, snow peaks catch the last light to the north.",
+      "body": [
+        "In autumn and winter the late afternoon light at Swayambhu is soft and warm, and the stupa's gilded spire glows against a deep blue sky. We arrive about an hour before sunset by the western car park, walk round the stupa once, and watch the evening lamps being lit in the shrines.",
+        "Then we find a place on the eastern terrace. The old city of Kathmandu lies below, its temples and the white Dharahara picked out in the low light, with Patan beyond and the hills of Phulchoki and Nagarkot on the far rim. On clear evenings from October to February, look north for the snow peaks catching pink light.",
+        "As the sun drops, the city's lights come on and prayer flags turn dark against the sky. Monkeys settle into the trees for the night. We walk down the eastern stairway in the dusk, with a torch for the lower steps, and take a taxi back to Thamel for dinner."
+      ],
+      "good_for": [
+        "couples",
+        "photographers",
+        "families",
+        "first-timers"
+      ],
+      "faqs": [
+        {
+          "q": "Can you see mountains from Swayambhunath?",
+          "a": "On clear days, mostly October to February, you can see snow peaks of the Ganesh Himal and Langtang ranges to the north beyond the valley rim. Haze and cloud often hide them, especially from March to September. The view over Kathmandu itself is reliable all year."
+        },
+        {
+          "q": "Is Swayambhunath open in the evening?",
+          "a": "Yes. The summit is open from early morning to evening, and sunset is a popular time. Walk down before it is fully dark, or use a torch on the eastern stairway, which is not well lit. Monkeys are more active around dusk, so keep bags closed."
+        },
+        {
+          "q": "Is Swayambhu good for photography?",
+          "a": "Very. Sunrise and sunset give warm light on the stupa, prayer flags and city. Wide lenses work for the stupa, and a zoom helps for mountains and monkeys. Drones are not permitted. Ask before close portraits of pilgrims or monks, and do not use flash in shrines."
+        }
+      ]
+    },
+    {
+      "slug": "swayambhunath-walk-to-old-kathmandu",
+      "title": "Walk from Swayambhu down to old Kathmandu",
+      "kind": "heritage",
+      "duration": "2.5 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Bishnumati river Kathmandu old town",
+      "wiki": "",
+      "summary": "After the summit, walk east down the stairway, cross the Bishnumati river and follow old lanes past Bijeshwari and small Newar neighbourhoods to the Durbar Square. A way of seeing how the sacred hill and the city connect, on foot.",
+      "body": [
+        "Most visitors take a taxi between Swayambhu and the Durbar Square. Walking instead shows how closely they are linked: the old pilgrimage route runs from the city across the Bishnumati river to the foot of the hill. We start at the summit after a visit, walk down the eastern stairway and turn towards the river.",
+        "Near the Bishnumati, the Bijeshwari temple stands above the river bank, a quiet shrine to a Buddhist and Hindu goddess, and nearby ghats are used for rituals. We cross the bridge and enter a maze of old neighbourhoods, with brick houses, water spouts, small courtyards and shrines that rarely see visitors.",
+        "The route leads east through Chhetrapati or the lanes south of it into the old city, reaching the Durbar Square from the west. The walk is about 3 km and takes 1.5 to 2 hours with stops. It ends at Kasthamandap, where you can continue straight into a Durbar Square visit."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "photographers",
+        "trekkers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I walk from Swayambhunath to Kathmandu Durbar Square?",
+          "a": "Yes. It is about 3 km and takes 1 to 2 hours depending on stops, crossing the Bishnumati river and passing through old neighbourhoods. The streets are shared with motorbikes and pavements are patchy, so walk in the morning and wear good shoes. A guide helps with the unmarked lanes."
+        },
+        {
+          "q": "How far is Swayambhunath from Thamel?",
+          "a": "About 3 km. A taxi takes 15 to 20 minutes; walking takes about 40 minutes via Chhetrapati and the Bishnumati bridge. The eastern stairway is the walker's approach; taxis can also drop at the western car park, which is closer to the summit."
+        },
+        {
+          "q": "Is the Bishnumati river walk safe?",
+          "a": "Yes, by day. The riverbanks are urban and can be dirty and dusty, but the route is used daily by locals. Keep valuables close in crowded lanes, avoid the riverside after dark, and watch for traffic at the bridge crossings."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the Swayambhunath entry fee?",
+      "a": "Foreign visitors pay a small entry fee, a few hundred rupees, at the top of the eastern stairway or the western gate. SAARC nationals pay less. The fee supports the site's upkeep. Fees change, so check current status before you travel, and carry rupees in cash."
+    },
+    {
+      "q": "How long does it take to visit Swayambhunath?",
+      "a": "One to two hours covers the climb, the stupa and the summit shrines. Add 45 minutes for the hill kora and time for sunset if you want. It fits easily into a half day, combined with Kathmandu Durbar Square or a walk back into the old city."
+    },
+    {
+      "q": "Is Swayambhunath Buddhist or Hindu?",
+      "a": "It is primarily Buddhist, sacred to both Newar and Tibetan Buddhists, but Hindus also worship here, especially at the Harati temple. This mix is typical of the Kathmandu Valley, where the two traditions share gods, festivals and holy places."
+    },
+    {
+      "q": "Are the monkeys at Swayambhunath dangerous?",
+      "a": "They are usually used to people but can grab food, bags and glasses, and occasionally bite. Do not carry food in hand, keep bags zipped, avoid eye contact and never feed them. If one grabs something, let it go. Seek medical advice after any bite or scratch."
+    },
+    {
+      "q": "Can I visit Swayambhunath without climbing the steps?",
+      "a": "Yes. Taxis can drive to a car park on the western side, from where a shorter, gentler path leads to the summit. It suits older travellers and anyone with knee problems. You still need to manage some steps and uneven ground at the top."
+    },
+    {
+      "q": "Was Swayambhunath damaged in the 2015 earthquake?",
+      "a": "Yes, some buildings on the hill were damaged, including the Pratapur shikhara and parts of monasteries and houses, but the main stupa held with minor damage. Restoration is complete on most structures, and the site is fully open to visitors."
+    },
+    {
+      "q": "What is Swayambhunath famous for?",
+      "a": "It is famous for its hilltop stupa with the painted eyes of the Buddha, the legend of the self-born light on the valley lake, the 365-step stairway, its monkeys and its views over Kathmandu. It is part of the Kathmandu Valley UNESCO World Heritage Site."
+    },
+    {
+      "q": "When is Buddha Jayanti at Swayambhunath?",
+      "a": "Buddha Jayanti, the Buddha's birthday, falls on the full moon of Baisakh, usually in May. Swayambhu is decorated, butter lamps are lit and crowds of devotees come through the day. Dates follow the lunar calendar, so check current status before you travel."
+    },
+    {
+      "q": "Is Swayambhunath worth visiting with children?",
+      "a": "Yes. Children usually enjoy the monkeys, the prayer wheels and the views, and the climb gives them something to do. Keep a close eye on them near monkeys and on the steep stairway, and carry snacks in a closed bag rather than in hand."
+    }
+  ]
+}

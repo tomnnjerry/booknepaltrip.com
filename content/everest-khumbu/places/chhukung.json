@@ -1,0 +1,164 @@
+{
+  "slug": "chhukung",
+  "name": "Chhukung",
+  "name_ne": "छुकुङ",
+  "local_name": "",
+  "region": "everest-khumbu",
+  "kind": "trek stop",
+  "wiki": "Chukhung",
+  "image_query": "Chhukung valley Lhotse south face",
+  "lat": 27.9044,
+  "lng": 86.8714,
+  "altitude_m": 4730,
+  "tagline": "Under Lhotse's south face, the road end for Island Peak",
+  "meta_description": "Chhukung, 4,730 m: Chhukung Ri, Island Peak base camp, Imja lake and the Kongma La. A high, quiet side valley off the Everest trail above Dingboche.",
+  "summary": "Chhukung is a cluster of lodges at about 4,730 m at the head of the Imja valley, 2–3 hours above Dingboche. It sits beneath Lhotse's enormous south face and is the base for Chhukung Ri, Island Peak and the Kongma La pass. Few Base Camp trekkers come, which is its charm.",
+  "intro": [
+    "Walk up the Imja valley from Dingboche and the land opens into a wide glacial trough, moraine on either side, Ama Dablam's north-east flank to the right and the immense wall of Lhotse and Nuptse closing the valley ahead. Chhukung is a small huddle of stone lodges and yak herders' huts on the valley floor, the last place to sleep before the glaciers.",
+    "Most Everest Base Camp trekkers come only as far as Dingboche. Those who continue to Chhukung come for three things: Chhukung Ri, a trekking peak of about 5,550 m with a view few people see; Island Peak, the 6,165 m climbing peak whose base camp lies an hour or two beyond; and the Kongma La, at about 5,535 m the highest of the Three Passes, leading over to Lobuche.",
+    "It is also a fine acclimatisation outing in its own right. A day trip from Dingboche to Chhukung and back gains about 300 m. An overnight with a climb of Chhukung Ri the next morning prepares you well for Base Camp and Kala Patthar. Nights here are cold and simple, but the silence and the scale of the mountains make up for it."
+  ],
+  "story": {
+    "title": "A summer pasture that became a climbers' base",
+    "paras": [
+      "Chhukung began as a kharka, a summer grazing place where Sherpa herders from lower villages brought yaks and nak in the monsoon months to feed on the high grass. Stone huts with flat roofs sheltered the herders; walls penned the animals. Nobody lived here in winter, and in a few cases that pattern still holds: some lodges close from December to February when snow and cold empty the valley.",
+      "Climbers changed Chhukung. In 1951, members of Eric Shipton's reconnaissance party saw a peak rising out of the Imja glacier and named it Island Peak, because it looked like an island in a sea of ice. In 1953 members of the British Everest expedition climbed it as training. It was renamed Imja Tse in 1983, but almost everyone still calls it Island Peak, and it became one of the most climbed trekking peaks in Nepal, with Chhukung as its last village.",
+      "Today Chhukung watches another change. Imja Tsho, the glacial lake below Island Peak, has grown fast since the 1960s as the Imja glacier melted. In 2016 the Nepal Army and partners cut an outlet channel and lowered the lake by about 3.4 m to reduce the risk of a flood that would sweep down past Dingboche. The lake is now visible from Chhukung Ri and from the trail to Island Peak base camp."
+    ]
+  },
+  "legend": "",
+  "people": "Chhukung's lodges are run by Sherpa families from Dingboche, Pangboche and other villages lower in the Imja valley, many of whom come up only for the trekking seasons. Yak herders still bring animals here in summer. Climbing guides, mostly Sherpa, lead Island Peak expeditions from the village, and porters from lower valleys carry in supplies.",
+  "untold": [
+    {"fact": "Island Peak was named in 1951 by members of Eric Shipton's party because it looks like an island in a sea of ice. It was renamed Imja Tse in 1983, though the old name stuck.", "source": "Wikipedia: Island Peak"},
+    {"fact": "In 2016 the Nepal Army lowered Imja Tsho, the glacial lake below Island Peak, by about 3.4 m through an outlet channel to reduce the risk of a glacial-lake outburst flood.", "source": "Wikipedia: Imja Tsho"},
+    {"fact": "Lhotse's south face, seen end-on from Chhukung, rises about 3.2 km in a short horizontal distance and is one of the steepest mountain faces of its size in the world.", "source": "Wikipedia: Lhotse"}
+  ],
+  "local_words": [
+    {"word": "kharka", "script": "खर्क", "lang": "Nepali", "meaning": "High summer pasture with herders' huts"},
+    {"word": "tsho", "script": "མཚོ", "lang": "Sherpa", "meaning": "Lake, as in Imja Tsho"},
+    {"word": "ri", "script": "རི", "lang": "Sherpa", "meaning": "Mountain or hill, as in Chhukung Ri, Gokyo Ri"}
+  ],
+  "taste": {"name": "Hot lemon with ginger and honey", "text": "At Chhukung most trekkers live on hot drinks, and the favourite is hot lemon: lemon powder or fresh lemon, grated ginger and honey in boiling water, served by the large pot. It keeps fluids up, which is the single best thing you can do at 4,730 m."},
+  "facts": [["Best months", "Oct – Nov, Apr – May"], ["Days we suggest", "1–2 nights, or a day trip from Dingboche"], ["Nearest airport", "Lukla (LUA)"], ["From Kathmandu", "Flight to Lukla + 6–7 days on foot"], ["Altitude", "4,730 m"], ["Known for", "Chhukung Ri, Island Peak, Kongma La, Lhotse south face"]],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Chhukung Ri summit", "text": "A trekking peak of about 5,550 m above the village, climbed in 3–4 hours. The top gives a close view of Lhotse's south face, Makalu, Island Peak, Ama Dablam and the Imja lake. The final section is scrambly; good boots and acclimatisation are essential."},
+    {"title": "Island Peak base camp", "text": "Two to three hours beyond Chhukung along the moraine, Island Peak base camp sits beneath the 6,165 m peak. Even non-climbers walk out for the view of the glacier and the climbers' route."},
+    {"title": "Imja Tsho glacial lake", "text": "The fast-growing lake below Island Peak, lowered by about 3.4 m in 2016 to reduce flood risk, is seen from Chhukung Ri and the base camp trail. It is a clear lesson in Himalayan glacier retreat."},
+    {"title": "Kongma La crossing", "text": "At about 5,535 m the Kongma La is the highest of the Three Passes. From Chhukung it is a long, tough day over the pass and across the Khumbu glacier to Lobuche, for experienced, acclimatised trekkers only."},
+    {"title": "The quiet of the upper Imja", "text": "With few trekkers and no through traffic, Chhukung is one of the quietest overnight stops in high Khumbu. Evenings are still and starry, and the walls of Lhotse and Nuptse glow pink at sunset."}
+  ],
+  "how_to_reach": [
+    {"mode": "On foot", "text": "From Dingboche, 2–3 hours up the Imja valley on a gentle trail, gaining about 320 m. From Lobuche, over the Kongma La in a long 8–10 hour day for acclimatised, experienced trekkers."},
+    {"mode": "Air", "text": "The nearest airport is Lukla, six to seven days on foot. Helicopters land for rescues; ensure insurance covers evacuation above 4,000 m."}
+  ],
+  "where_to_stay": "Chhukung has a small number of basic lodges with twin rooms, shared toilets and a dining room warmed by a yak-dung stove in the evening. Some close in the winter months. Expect simple food and cold nights, often below minus 10 °C from November. There are no comfortable or luxury lodges this high; the nearest is the Everest Summit Lodge at Pangboche. We confirm which Chhukung lodges are open before each season.",
+  "stays": [],
+  "tips": [
+    "Acclimatise in Dingboche first; do not sleep at Chhukung on the day you arrive from Pangboche.",
+    "Start Chhukung Ri early, before wind and cloud build after midday.",
+    "Carry microspikes in late autumn and spring for icy patches on the Kongma La.",
+    "Book Island Peak through a licensed agency with an experienced climbing guide.",
+    "Bring a sleeping bag rated to about minus 15 °C or colder."
+  ],
+  "themes": ["high-altitude", "adventure-sports", "treks-and-trails", "photography"],
+  "nearby": ["dingboche", "pangboche", "everest-base-camp"],
+  "experiences": [
+    {
+      "slug": "chhukung-ri-summit-climb",
+      "title": "Climb Chhukung Ri at dawn",
+      "kind": "trek",
+      "duration": "5–6 hours",
+      "best_time": "Early morning, Oct–Nov and Apr–May",
+      "image_query": "Chhukung Ri summit view Lhotse",
+      "wiki": "",
+      "summary": "Leave Chhukung before dawn for the summit of Chhukung Ri, about 5,550 m, a steep trekking peak with a close-up view of Lhotse's south face, Makalu, Island Peak, Ama Dablam and the Imja lake. A demanding but non-technical climb.",
+      "body": [
+        "Chhukung Ri rises directly above the village, a grassy then rocky ridge leading to a rounded top and a slightly higher rocky summit. The trail climbs steeply over loose ground, gaining about 800 m to the summit, and most people take 3–4 hours up. The final stretch involves easy scrambling over rocks; your guide will judge whether the true summit or the lower top is the right goal for you.",
+        "The view is the reason to go. Lhotse's south face, more than 3 km high, fills the northern sky, joined by the long ridge of Nuptse. East lie Makalu and Baruntse; south, Ama Dablam's north-east face; below, the Imja glacier, Island Peak and the grey-green Imja Tsho. Few viewpoints on the Everest trail put you this close to such a wall.",
+        "Start early, ideally before 5 am, with headlamp, water, snacks and every warm layer. Wind picks up by late morning and cloud often builds. Descend the way you came, carefully on the loose sections; trekking poles help. Climbing Chhukung Ri is superb acclimatisation for Kala Patthar and the high passes, but only if you are already well adjusted in Dingboche."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "How high is Chhukung Ri?", "a": "Chhukung Ri is about 5,550 m, roughly 800 m above Chhukung village. Many trekkers stop at a lower top on the ridge, a little below the summit, where the view is almost as good. Either way it is one of the higher non-technical viewpoints in Khumbu, higher than Kala Patthar."},
+        {"q": "Is Chhukung Ri harder than Kala Patthar?", "a": "Slightly. It is steeper, with a rocky final section involving easy scrambling, and it gains more height from the village. Kala Patthar is a steady, sandy climb from Gorak Shep. Both are non-technical but serious because of altitude. Chhukung Ri is excellent acclimatisation before Kala Patthar."},
+        {"q": "What can I see from Chhukung Ri?", "a": "Lhotse's huge south face and the Nuptse ridge to the north, Makalu and Baruntse to the east, Ama Dablam's north-east face to the south, and below you the Imja glacier, Island Peak and Imja Tsho. Everest itself is hidden behind the Lhotse–Nuptse wall from here."}
+      ]
+    },
+    {
+      "slug": "chhukung-island-peak-base-camp-walk",
+      "title": "Walk to Island Peak base camp",
+      "kind": "adventure",
+      "duration": "5 hours",
+      "best_time": "Morning, Oct–Nov and Apr–May",
+      "image_query": "Island Peak base camp Imja",
+      "wiki": "Island Peak",
+      "summary": "Follow the moraine east from Chhukung to Island Peak base camp at about 5,000 m, beneath the 6,165 m peak that Shipton's party named in 1951. Watch climbers prepare, see the Imja glacier close up, and return to Chhukung.",
+      "body": [
+        "Island Peak earned its name from Dingboche, where it looks like an island in a sea of ice. From Chhukung the trail heads east along the valley, then climbs onto the lateral moraine of the Lhotse glacier, a ridge of rubble with views down onto ice and meltwater ponds. After 2–3 hours you reach base camp, a flat area of tent platforms beneath the peak's rocky south-west ridge.",
+        "In October, November, April and May the camp is busy with teams preparing to climb: sorting crampons, practising on fixed ropes and resting before a pre-dawn summit push. The climb itself, to about 6,165 m, involves glacier travel and a steep headwall on fixed lines, and needs a climbing permit and a licensed guide. Walking to base camp needs neither, only acclimatisation.",
+        "From the moraine you also see Imja Tsho, the glacial lake that has grown rapidly since the 1960s and was lowered by about 3.4 m in 2016. Return to Chhukung by the same route. Carry lunch, water and layers, and be back before the afternoon wind. If the climb tempts you, we can plan an Island Peak expedition on a future trip."
+      ],
+      "good_for": ["trekkers", "photographers", "solo"],
+      "faqs": [
+        {"q": "Can trekkers walk to Island Peak base camp without climbing?", "a": "Yes. The walk from Chhukung to base camp, at about 5,000 m, takes 2–3 hours each way and needs only the standard trekking permits. Climbing beyond base camp requires a climbing permit, technical equipment and a licensed climbing guide. Check current status before you travel, as permit rules change."},
+        {"q": "How hard is it to climb Island Peak?", "a": "Island Peak, about 6,165 m, is a popular trekking peak but a real climb: glacier travel roped up, crevasses, and a steep snow and ice headwall on fixed ropes to the summit ridge. You need prior crampon and ice-axe skills, good acclimatisation and a licensed guide. A typical expedition takes 16–19 days including the Everest trail."},
+        {"q": "Why is it called Island Peak?", "a": "Members of Eric Shipton's party in 1951 thought it looked like an island in a sea of ice when seen from Dingboche, surrounded by the Imja and Lhotse glaciers. The Nepali government renamed it Imja Tse in 1983, but Island Peak remains the name almost everyone uses."}
+      ]
+    },
+    {
+      "slug": "chhukung-imja-lake-viewpoint",
+      "title": "See Imja Tsho, the lake they lowered",
+      "kind": "water",
+      "duration": "4–5 hours",
+      "best_time": "Morning, Oct–Nov and Apr–May",
+      "image_query": "Imja Tsho glacial lake",
+      "wiki": "Imja Tsho",
+      "summary": "Walk from Chhukung to a moraine viewpoint over Imja Tsho, a glacial lake that grew from meltwater ponds in the 1960s into one of the Everest region's largest. In 2016 engineers lowered it by about 3.4 m to protect villages downstream.",
+      "body": [
+        "Imja Tsho barely existed in the early 1960s, when aerial photos show only small ponds on the Imja glacier. As the glacier thinned and retreated, the ponds merged into a lake held behind a wall of loose moraine. By the 2000s it was one of the fastest-growing glacial lakes in the Himalaya, and scientists warned that a breach could send a flood down the Imja valley past Chhukung, Dingboche and on towards Pangboche.",
+        "In 2016 the Nepal Army, with the government and international partners, built an outlet channel with gates through the moraine and lowered the lake by about 3.4 m, reducing the volume of water that could burst out. It was one of the first such projects in Nepal. Thame's 2024 flood, in a different valley, showed how real the danger is.",
+        "The walk follows the trail towards Island Peak base camp, branching onto the moraine for the view of the lake's grey-green water and the ice cliffs at its head. Give yourself 4–5 hours return. It is a sobering, beautiful sight. Stay on the established paths, as moraine is unstable, and do not approach the outlet works."
+      ],
+      "good_for": ["photographers", "trekkers", "solo"],
+      "faqs": [
+        {"q": "Why was Imja Tsho lowered?", "a": "The lake grew rapidly as the Imja glacier melted, held back only by unstable moraine. A breach could have caused a glacial-lake outburst flood down the Imja valley. In 2016 the Nepal Army and partners built an outlet channel and lowered the water by about 3.4 m, reducing the flood risk to Dingboche and villages below."},
+        {"q": "Can I see Imja Tsho from Chhukung?", "a": "Not from the village itself. You need to walk towards Island Peak base camp and climb onto the moraine, about 2 hours from Chhukung, or climb Chhukung Ri, from whose summit the lake is clearly visible to the east. Both make good acclimatisation outings."},
+        {"q": "Is Imja Tsho dangerous to visit?", "a": "The viewpoints on the moraine are safe if you keep to established paths and stay away from the outlet works and steep moraine edges, which can collapse. The flood risk has been reduced by the 2016 lowering. Follow your guide's advice and avoid the area in bad weather or after heavy snow."}
+      ]
+    },
+    {
+      "slug": "chhukung-kongma-la-crossing",
+      "title": "Cross the Kongma La to Lobuche",
+      "kind": "adventure",
+      "duration": "8–10 hours",
+      "best_time": "Pre-dawn start, Oct–Nov and Apr–May",
+      "image_query": "Kongma La pass Khumbu",
+      "wiki": "",
+      "summary": "The highest of the Three Passes, the Kongma La at about 5,535 m, links Chhukung with Lobuche in one long, high day over rock, lakes and the Khumbu glacier. For fit, well-acclimatised trekkers with a guide.",
+      "body": [
+        "The Three Passes trek links the Kongma La, Cho La and Renjo La in a loop through the high Khumbu, and the Kongma La is the highest of them, at about 5,535 m. Most people cross it from Chhukung to Lobuche. The day starts in the dark, climbing steeply from the Imja valley over rocky slopes and past small frozen lakes below the pass.",
+        "The top is a narrow notch of stone, cairns and prayer flags, with a view back to Makalu and Island Peak and forward over the Khumbu glacier to Pumori and the peaks around Everest Base Camp. The descent is steep and loose, then comes the hardest part for many: a crossing of the rubble-covered Khumbu glacier, rough and tiring, before the trail reaches Lobuche at about 4,940 m.",
+        "This is a serious day of 8–10 hours. Attempt it only after full acclimatisation, ideally after climbing Chhukung Ri, in clear weather and with a guide who knows the route. Snow or ice can make the pass dangerous; microspikes help. Carry plenty of water, food and warm layers. If weather or health is doubtful, walk round via Dingboche instead."
+      ],
+      "good_for": ["trekkers", "solo", "photographers"],
+      "faqs": [
+        {"q": "How high is the Kongma La?", "a": "The Kongma La is about 5,535 m, the highest of the Three Passes, the others being the Cho La at about 5,420 m and the Renjo La at about 5,360 m. It links the Imja valley at Chhukung with the Khumbu valley at Lobuche. Crossing it takes 8–10 hours."},
+        {"q": "Is the Kongma La dangerous?", "a": "It is demanding rather than technical, but altitude, length, loose rock and possible snow or ice make it serious. The Khumbu glacier crossing on the Lobuche side is rough. Go only when well acclimatised, in good weather, with an experienced guide. If in doubt, take the longer, safer route via Dingboche."},
+        {"q": "Do I need to cross the Kongma La to reach Everest Base Camp?", "a": "No. The standard route goes from Dingboche to Lobuche via Dughla without any high pass. The Kongma La is an option for experienced trekkers doing the Three Passes or wanting a more adventurous route from Chhukung. It saves going back down to Dingboche but is much harder."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How high is Chhukung?", "a": "Chhukung lies at about 4,730 m at the head of the Imja valley, roughly 320 m above Dingboche. Sleep in Dingboche for at least one night, ideally two, before sleeping at Chhukung. Nights are very cold, often below minus 10 °C from November, so bring a warm sleeping bag."},
+    {"q": "Is Chhukung worth visiting on an Everest Base Camp trek?", "a": "If you have one or two spare days, yes. A day hike from Dingboche to Chhukung and back is excellent acclimatisation. An overnight with a climb of Chhukung Ri adds one of the finest viewpoints in Khumbu, beneath Lhotse's south face. It is quieter than the main Base Camp trail."},
+    {"q": "How long is the walk from Dingboche to Chhukung?", "a": "About 2–3 hours on a gentle trail up the Imja valley, gaining roughly 320 m. Many trekkers walk up as an acclimatisation day and return to Dingboche to sleep, which takes about 1.5–2 hours. The path is clear and non-technical, through pasture and moraine."},
+    {"q": "What is Chhukung known for?", "a": "It is the base for Chhukung Ri, a trekking peak of about 5,550 m; for Island Peak, the popular 6,165 m climbing peak; and for the Kongma La, the highest of the Three Passes. It also faces Lhotse's enormous south face and lies near Imja Tsho, the glacial lake lowered in 2016."},
+    {"q": "Are there lodges in Chhukung?", "a": "Yes, a small number of basic lodges with twin rooms, shared toilets and a warm dining room. Food is simple and more expensive than lower down. Some lodges close in winter, December to February. We confirm which are open before each trip. There is no luxury accommodation this high."},
+    {"q": "Can I climb Island Peak from Chhukung?", "a": "Yes, Chhukung is the last village before Island Peak base camp. Climbing the 6,165 m peak requires a climbing permit, a licensed climbing guide, technical gear and prior crampon and rope experience. Expeditions usually spend a night at Chhukung and a night at base camp before the summit day. Check current status before you travel."},
+    {"q": "Can I see Everest from Chhukung?", "a": "No. Everest is hidden behind the Lhotse–Nuptse wall from Chhukung and Chhukung Ri. You see Lhotse's south face, Nuptse, Makalu, Baruntse, Ama Dablam and Island Peak instead. For Everest views, Kala Patthar, Gokyo Ri and the hill above Namche are the classic viewpoints."},
+    {"q": "Do I need a guide to visit Chhukung?", "a": "Since April 2023 Nepal requires foreign trekkers in national parks to use a licensed guide, though in Khumbu it has been applied unevenly. Chhukung itself is easy to reach, but Chhukung Ri, the Kongma La and Island Peak all benefit from a guide's experience. Check current status before you travel."},
+    {"q": "When is the best time to visit Chhukung?", "a": "October and November bring the clearest skies and stable weather. April and May are also good, with longer days and the Island Peak climbing season. December to February are bitterly cold and some lodges close. June to September brings monsoon cloud, rain and snow at this altitude."}
+  ]
+}

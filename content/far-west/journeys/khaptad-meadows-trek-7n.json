@@ -1,0 +1,71 @@
+{
+  "slug": "khaptad-meadows-trek-7n",
+  "title": "Khaptad Meadows Trek",
+  "region": "far-west",
+  "kind": "trek",
+  "nights": 7,
+  "themes": ["treks-and-trails", "spiritual-and-pilgrimage", "slow-and-wellness", "photography"],
+  "grade": "Moderate",
+  "stops": [{"place": "khaptad", "nights": 7}],
+  "start": "Dhangadhi Airport (DHI)",
+  "end": "Dhangadhi",
+  "price_from_usd": 1150,
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "pace": "Unhurried",
+  "max_altitude_m": 3300,
+  "meta_description": "Khaptad meadows trek, 7 nights from Dhangadhi: Silgadhi, the Jhigrana gate, three days on the Khaptad plateau, Khaptad Baba's ashram and Tribeni.",
+  "summary": "Seven nights to the Khaptad plateau, a rolling upland of meadows and fir forest at about 3,000 m in the far west. Drive from Dhangadhi to Silgadhi in Doti, jeep to the Jhigrana gate, walk up to the park headquarters and spend three nights among the patans, the ashram of Khaptad Baba and the shrines of Tribeni.",
+  "intro": [
+    "Khaptad is a plateau that rises out of the middle hills where Doti, Bajhang, Bajura and Achham meet. Its top is a run of open grassy meadows called patan, separated by forests of fir, oak and rhododendron, at around 3,000 m. Khaptad National Park, 225 km², was declared in 1984, and people in the far west credit the hermit known as Khaptad Baba with persuading the government to protect it.",
+    "This is a trek for walkers who prefer flowers, birds and silence to high passes. The climb from Jhigrana is the only hard day. On the plateau we walk three to five hours a day between meadows and shrines, and there is time to sit. Facilities are minimal, so we camp with a full crew. Wildflowers peak from June to August, but we recommend spring and autumn for clear skies."
+  ],
+  "story": "The first day is a long road from the hot Terai at Dhangadhi up into the hills of Doti, following the Seti river to Silgadhi, a hill bazaar whose temple of Shaileshwari watches over the town. A jeep takes you higher to the Jhigrana gate, and from there it is all on foot, a long climb through pine and then oak and rhododendron. Near the top the forest opens without warning and you are on a meadow the size of several football fields, cows grazing, mist moving through the firs at its edge. For three days you walk from patan to patan, past the hut where a hermit lived for decades, to a small lake and the shrines at Tribeni where three streams meet.",
+  "highlights": [
+    "The patans of Khaptad, grassy upland meadows at about 3,000 m ringed by fir and rhododendron",
+    "The ashram of Khaptad Baba, the hermit who lived on the plateau for about fifty years",
+    "Tribeni, where three streams meet, with a cluster of Hindu shrines",
+    "Khaptad Daha, a small sacred lake, and the Sahasra Linga shrine on the plateau's high point",
+    "The Shaileshwari temple in Silgadhi and the hill country of Doti"
+  ],
+  "days": [
+    {"day": 1, "title": "Dhangadhi to Silgadhi in Doti", "place": "", "overnight": "Silgadhi, Doti", "alt_m": 1310, "move": "≈ 6 h drive", "text": "We meet at Dhangadhi Airport, or your hotel if you flew in the day before, and drive north out of the Terai. The road climbs through sal forest into the hills of Doti and follows the Seti river valley. Silgadhi, the district headquarters, stands on a ridge at about 1,310 m above the river town of Dipayal. In the late afternoon we walk to the temple of Shaileshwari, the town's goddess, whose shrine draws crowds during Dashain. Night in a simple hotel in the bazaar.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Jeep to the Jhigrana gate", "place": "", "overnight": "Jhigrana", "alt_m": 2300, "move": "≈ 1.5 h jeep · short acclimatisation walk", "text": "A rough jeep road climbs from Silgadhi to Jhigrana, at about 2,300 m, where the national park's entry post stands. We pay park fees, set up camp and take the afternoon slowly, walking up the trail for an hour and back down to help with the altitude gain. Jhigrana is a small settlement of Chhetri and Dalit families with fields of wheat and millet. In the evening, your cook prepares the first camp meal and the crew briefs you on the long climb ahead.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "The long climb to Khaptad", "place": "khaptad", "overnight": "Khaptad park headquarters", "alt_m": 3000, "move": "≈ 6–7 h walk · +700 m", "text": "The hardest day of the trek. The trail climbs steadily through chir pine, then oak and rhododendron, which turns red and pink in March and April. There are few houses, so we carry water and lunch. Near the top the forest thins and you come out onto the first of the patans, wide meadows where herders from the villages below bring cattle in summer. We camp near the park headquarters at about 3,000 m. Expect a cold night even in spring.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Khaptad Baba's ashram and Tribeni", "place": "khaptad", "overnight": "Khaptad park headquarters", "alt_m": 3000, "move": "≈ 4 h walk", "text": "A gentle day across the meadows to the ashram where Khaptad Baba, a hermit also known as Swami Sachchidananda, lived and taught for about fifty years until his death in 1996. His simple hut and garden are kept by caretakers, and visitors still come to sit in silence. Below it lies Tribeni, where three streams meet, with small temples to Shiva and other deities. Pilgrims bathe here during the Ganga Dashahara fair in early summer. Return across the patans for the evening light.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Khaptad Daha and Sahasra Linga", "place": "khaptad", "overnight": "Khaptad park headquarters", "alt_m": 3000, "move": "≈ 5 h walk · up to ≈ 3,300 m", "text": "We walk north across the plateau to Khaptad Daha, a small lake held sacred by people of the surrounding districts, and then climb to Sahasra Linga, a shrine on the highest part of the plateau at about 3,300 m. On a clear morning the view north runs to the Saipal Himal and other snow ranges of Bajhang and Humla. The forests here hold Himalayan monal and koklass pheasants, and the park has recorded nearly 290 bird species. Back to camp by mid-afternoon.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Down to Jhigrana", "place": "khaptad", "overnight": "Jhigrana", "alt_m": 2300, "move": "≈ 5 h walk · −700 m", "text": "A last walk across the meadows at dawn, when frost lies on the grass and the cattle bells carry a long way, then the descent through the forest to Jhigrana. Going down is quicker but hard on the knees, so we use poles and take breaks. In the afternoon there is time to visit a family in the village, where the crew may buy fresh milk and greens for our last camp dinner. Herders here sing deuda songs, the call-and-answer verses of the far west.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Jeep back to Silgadhi", "place": "", "overnight": "Silgadhi, Doti", "alt_m": 1310, "move": "≈ 1.5 h jeep", "text": "A short morning jeep ride back to Silgadhi gives you a free afternoon in the bazaar. Walk down toward Dipayal on the Seti river, the old administrative centre of the far west, or sit at a tea shop on the main street and watch the hill traffic. Doti was once the seat of its own kingdom, ruled by the Raika kings until the unification of Nepal, and the local language, Doteli, is still spoken all around you.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Drive back to Dhangadhi", "place": "", "overnight": "Dhangadhi or Kathmandu", "alt_m": 109, "move": "≈ 6 h drive · optional ≈ 1 h 15 min flight", "text": "We drive back down the Seti valley and out onto the plain at Dhangadhi, arriving by mid-afternoon. If the schedule allows, you can take an evening flight to Kathmandu, about an hour and a quarter. Otherwise we book a hotel in Dhangadhi and you fly the next morning, or continue west to Shuklaphanta National Park for swamp deer and grassland birds, about an hour and a half away by road.", "meals": "Breakfast, Lunch"}
+  ],
+  "stays": [],
+  "includes": [
+    "Private vehicle Dhangadhi–Silgadhi–Dhangadhi and jeep Silgadhi–Jhigrana–Silgadhi",
+    "2 nights in a simple hotel in Silgadhi",
+    "Licensed trekking guide, cook and porters with wages, food and insurance",
+    "Full camping equipment and all meals on trek",
+    "Khaptad National Park entry fee"
+  ],
+  "excludes": [
+    "Flights to and from Dhangadhi and any hotel in Dhangadhi",
+    "International flights, visa and travel insurance with rescue cover",
+    "Sleeping bag, personal gear, drinks and tips"
+  ],
+  "good_to_know": [
+    "Khaptad National Park charges foreigners an entry fee, NPR 1,500 at the time of writing, and requires a licensed guide since April 2023. Check current status before you travel.",
+    "There are almost no lodges on the plateau; this trip camps for five nights.",
+    "Wildflowers peak in June to August, but monsoon cloud and leeches make those months hard work.",
+    "The Ganga Dashahara fair at Tribeni in early summer brings thousands of pilgrims; it is lively but the plateau is crowded for a few days.",
+    "Mobile signal is weak on the plateau. Expect to be out of contact for three to four days."
+  ],
+  "faqs": [
+    {"q": "Where is Khaptad National Park?", "a": "Khaptad is in the Far West of Nepal, where Doti, Bajhang, Bajura and Achham districts meet, in Sudurpashchim Province. The park covers 225 km² and its core is a plateau at around 3,000 m. The usual gateway is Silgadhi in Doti, about six hours by road from Dhangadhi, then a jeep to the Jhigrana entry post."},
+    {"q": "Who was Khaptad Baba?", "a": "Khaptad Baba, also known as Swami Sachchidananda, was a hermit who lived on the Khaptad plateau for about fifty years until his death in 1996. He was respected across Nepal, including by the royal family, and is credited with encouraging the protection of Khaptad as a national park in 1984. His ashram is still kept and visited."},
+    {"q": "How hard is the Khaptad trek?", "a": "Moderate. The climb from Jhigrana to the plateau is about 700 m over six to seven hours and is the only tough day. On top the walking is gentle, three to five hours a day across meadows. The highest point is about 3,300 m. Camping and remote access make it more demanding than the numbers suggest."},
+    {"q": "When is the best time to visit Khaptad?", "a": "April and May for rhododendron and clear mornings; October and November for the clearest views and dry trails. June to August is the famous flower season, when the patans fill with blooms, but monsoon cloud, rain and leeches come with it. December to February brings snow and very cold nights on the plateau."},
+    {"q": "Do I need a permit for Khaptad?", "a": "You need the Khaptad National Park entry permit, which costs NPR 1,500 for foreigners at the time of writing and is paid at the Jhigrana post or in Kathmandu. Khaptad is not a restricted area. Since April 2023 foreign trekkers in national parks must go with a licensed guide. Check current status before you travel."},
+    {"q": "What is a patan?", "a": "A patan is an open upland meadow, the word used across far western Nepal for grassy flats among forest. Khaptad's patans are its signature: wide, rolling and green, grazed by cattle in summer and covered in flowers in the monsoon. Some are large enough that the forest edge looks far away from the middle."},
+    {"q": "Can I visit Khaptad during Ganga Dashahara?", "a": "Yes. The fair takes place at Tribeni on the plateau around the full moon of Jestha, usually late May or June, and draws pilgrims from all over the far west to bathe and worship. It is a remarkable sight, with deuda singing and dancing into the night, but camping space and water are stretched. Book early and expect company."},
+    {"q": "How do I reach Dhangadhi?", "a": "There are direct flights from Kathmandu to Dhangadhi, about 1 hour 15 minutes. By road, Dhangadhi is roughly 650–700 km from Kathmandu along the East–West Highway, a long day and a half. Most visitors fly in the afternoon before the trek and stay one night in Dhangadhi."},
+    {"q": "What wildlife lives in Khaptad?", "a": "Khaptad's forests hold leopards, Himalayan black bears, barking deer and goral, though mammals are shy. Birds are easier: the park has recorded around 287 species, including Himalayan monal, koklass and kalij pheasants. Spring is best for birdsong. Your guide can point out medicinal plants, which the park lists in their hundreds."}
+  ]
+}

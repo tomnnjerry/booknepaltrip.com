@@ -1,0 +1,244 @@
+{
+  "slug": "upper-mustang-jeep-tour-9n",
+  "title": "Upper Mustang by jeep to Lo Manthang",
+  "region": "mustang-dolpo",
+  "kind": "overland",
+  "nights": 9,
+  "themes": [
+    "heritage-and-temples",
+    "high-altitude",
+    "spiritual-and-pilgrimage",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 1
+    },
+    {
+      "place": "kagbeni",
+      "nights": 1
+    },
+    {
+      "place": "tsarang",
+      "nights": 1
+    },
+    {
+      "place": "lo-manthang",
+      "nights": 3
+    },
+    {
+      "place": "ghami",
+      "nights": 1
+    },
+    {
+      "place": "muktinath",
+      "nights": 1
+    },
+    {
+      "place": "jomsom",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 2900,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 3950,
+  "meta_description": "Upper Mustang by jeep, 9 nights: Kagbeni, Tsarang, three nights in Lo Manthang, Chhoser caves, Ghar Gompa and Muktinath, with permit and licensed guide.",
+  "summary": "Nine nights by private jeep into the old Kingdom of Lo for travellers who want Lo Manthang without two weeks of walking. Short drives, three nights inside the walled city, the caves of Chhoser, Ghar Gompa and a dawn visit to Muktinath on the way out.",
+  "intro": [
+    "Since the dirt road to Lo Manthang opened through the 2010s, Upper Mustang has become possible for people who cannot or do not want to trek for two weeks: older travellers, families, photographers with heavy kit, and anyone short of time. The road is rough, dusty and slow, but our drives are short, rarely more than six hours, and we stop often for monasteries, caves and tea. Lo Manthang is the reward either way.",
+    "The rules do not change because you arrive by jeep. You still need the restricted-area permit, a licensed guide and at least one other foreign traveller on the permit. What changes is the pace: more time in each village, gentle walks rather than long climbs, and a warm vehicle when the afternoon wind blows. Your guide also adjusts each day to how everyone in the group is feeling, adding rest where it is needed."
+  ],
+  "story": "You leave the green of Pokhara at dawn and land twenty minutes later in a dry, wind-scoured valley where the snow peaks are suddenly behind you. At Kagbeni the river splits and the road climbs north past villages that grow fewer and more Tibetan with every bend: flat roofs, prayer flags, chortens in red, white and grey. The jeep crawls across high shelves to Tsarang and its fortress, then over Lo La to the walls of Lo Manthang, where you stay long enough to learn the lanes. On the way back the red cliffs of Dhakmar, the long mani wall of Ghami and the 108 water spouts of Muktinath close the circle, from the old kingdom to one of Nepal's great shrines.",
+  "highlights": [
+    "Three nights inside Lo Manthang to see Jampa Lhakhang, Thubchen and Chode without rushing",
+    "Chhoser and the multi-storey Jhong cave near the Tibetan border",
+    "Ghar Gompa and the red cliffs of Dhakmar, linked by legend to Guru Rinpoche",
+    "Dawn at Muktinath, sacred to both Hindus and Buddhists",
+    "Drives kept to about six hours or less, with time to walk in every village"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Kathmandu to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 25 min flight",
+      "text": "We fly from Kathmandu to Pokhara and settle into a lakeside hotel. Your guide goes through the plan, checks that your permit papers are in order and makes sure you have warm layers, a dust mask or buff, and sunglasses. Upper Mustang is a high desert, sunny by day and cold at night even in May. Spend the afternoon by Phewa Lake or resting; the Jomsom flight leaves at first light and we pick you up before six.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Jomsom, drive to Kagbeni",
+      "place": "kagbeni",
+      "overnight": "Kagbeni",
+      "alt_m": 2810,
+      "move": "≈ 20 min flight · ≈ 40 min drive",
+      "text": "The flight runs up the Kali Gandaki gorge between Dhaulagiri and Annapurna, and the change on landing is immediate: thin, dry air and a wide stony riverbed. Your jeep and driver meet you at Jomsom and take you to Kagbeni, where we stop for the day to let the body adjust. Walk the tunnels and lanes of the old village, visit Kag Chode monastery, and watch pilgrims performing rites for their ancestors at the river confluence below. Early dinner at the lodge.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Kagbeni to Tsarang by road",
+      "place": "tsarang",
+      "overnight": "Tsarang",
+      "alt_m": 3560,
+      "move": "≈ 5–6 h drive with stops",
+      "text": "At the Kagbeni check post we show the permit and drive north into Upper Mustang. The road follows the Kali Gandaki to Chhusang, where cave openings dot the cliffs, then climbs through Chele and across high shelves to Syangboche and Ghami. We stop for tea, photographs and lunch, and reach Tsarang by mid-afternoon. Before dark there is time to see the red Sakya monastery and the old fortress-palace from outside, and to listen to the evening prayers if the monks are in.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tsarang to Lo Manthang",
+      "place": "lo-manthang",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "≈ 1 h drive · optional 2 h walk",
+      "text": "A short drive today, and if you feel well we walk the last stretch over Lo La at about 3,950 m, where the walled city first comes into view. The jeep meets you on the other side. We check into the lodge, have lunch and spend the afternoon on a slow walk through the lanes inside the walls, past the old palace and the prayer wheels at the gate. Sunset from a rooftop, with the hills turning purple, is the best way to end the first day.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Monasteries of the walled city",
+      "place": "lo-manthang",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "Walks inside the walls",
+      "text": "We visit the three great monasteries. Jampa Lhakhang, from the 15th century, holds a large clay Maitreya Buddha and painted mandalas. Thubchen is a tall assembly hall with wall paintings that local artists helped restore. Chode is the working monastery, where novice monks study and the Tiji festival dancers prepare each spring. Our guide arranges a lamp offering if you would like one. In the afternoon, an optional walk to the hill above town for the view over the barley fields.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Chhoser caves and the border valley",
+      "place": "chhoser",
+      "overnight": "Lo Manthang",
+      "alt_m": 3840,
+      "move": "≈ 4–5 h round trip by jeep with visits",
+      "text": "We drive north to Chhoser, where the cliffs are full of man-made caves. The Jhong cave is a warren of rooms on several levels, linked by passages and ladders. Nearby, the cliff gompa of Nyiphu sits against the rock, and Garphu monastery lies across the valley. Bring a torch. We are back in Lo Manthang by mid-afternoon, with time to visit a local family, try butter tea and tsampa, and buy a carpet or prayer flags from the small shops near the gate.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Ghar Gompa, Dhakmar and Ghami",
+      "place": "ghami",
+      "overnight": "Ghami",
+      "alt_m": 3520,
+      "move": "≈ 4 h drive with walks",
+      "text": "Leaving Lo Manthang, we take the eastern track to Ghar Gompa, also called Lo Gekar, a small monastery that tradition links to Guru Rinpoche, with carved and painted stone tablets inside. We then go down to Dhakmar under its red cliffs. Local legend says the colour is the blood of a demon Guru Rinpoche killed, and that the long mani wall at Ghami is its intestines. We end at Ghami, where you can walk the length of that wall before dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Ghami to Muktinath",
+      "place": "muktinath",
+      "overnight": "Ranipauwa, Muktinath",
+      "alt_m": 3700,
+      "move": "≈ 5–6 h drive",
+      "text": "We drive back south through Syangboche, Chele and Chhusang to Kagbeni, then climb the side valley to Ranipauwa, the village below the Muktinath temple. After the restricted area, the busy pilgrim town feels like a city: tea shops, Shaligram stalls and visitors from all over Nepal and India. Rest in the afternoon, and if you are not too tired, walk up to the temple compound to see it at dusk, when butter lamps burn in the Buddhist shrines.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Dawn at Muktinath, drive to Jomsom",
+      "place": "jomsom",
+      "overnight": "Jomsom",
+      "alt_m": 2720,
+      "move": "≈ 1.5 h drive",
+      "text": "We walk up to the temple at first light, before the crowds. Hindu pilgrims bathe under the 108 water spouts and in the two ponds in front of the Vishnu shrine; Buddhists visit the small temple where a flame burns from natural gas beside a spring. Both see the place as holy. After breakfast we drive to Jomsom by way of the lower Jhong valley. In the afternoon, visit the Mustang Eco Museum or walk to the old village of Thini.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Fly Jomsom to Pokhara and Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 20 min + 25 min flights",
+      "text": "The morning flight takes you back to Pokhara, and we connect to Kathmandu the same day where possible. The trip ends on arrival. Because the Jomsom flight depends on the weather, we strongly suggest you do not book an international departure for this day; if the flight is cancelled, we wait for the next morning or drive out to Pokhara by jeep. We can add a night in Pokhara or Kathmandu for you.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "red-house-lodge-kagbeni",
+    "oms-home-jomsom",
+    "temple-tree-resort"
+  ],
+  "includes": [
+    "Upper Mustang restricted-area permit (USD 500 for the first 10 days) and Annapurna Conservation Area permit",
+    "Licensed English-speaking guide throughout",
+    "Private 4WD jeep with driver from Jomsom and back",
+    "Flights Kathmandu–Pokhara–Jomsom and return",
+    "One night in Pokhara with breakfast and eight nights in the best available lodges with three meals a day",
+    "All airport transfers and entrance fees to monasteries"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance with helicopter evacuation cover",
+    "Drinks, hot showers and charging where lodges charge for them",
+    "Tips for guide and driver",
+    "Extra nights if flights are cancelled"
+  ],
+  "good_to_know": [
+    "The restricted-area fee is the same whether you trek or drive, and is charged for a minimum of 10 days; check current status before you travel.",
+    "At least two foreign travellers must be on the permit, with a licensed guide arranged by a registered agency; check current status before you travel.",
+    "The road is rough and dusty, with river crossings; landslides in the monsoon can close it for a day or more.",
+    "Lo Manthang sits at 3,840 m: even on a jeep trip, take altitude seriously and tell your guide about headaches.",
+    "Jomsom flights leave only in the morning, and wind or cloud cancels them often; keep a spare day."
+  ],
+  "faqs": [
+    {
+      "q": "Can you drive to Lo Manthang?",
+      "a": "Yes. A dirt road now connects Jomsom and Kagbeni with Lo Manthang, and private 4WD jeeps make the journey in about 6 to 8 hours of driving. We split it over two days with a night in Tsarang, which is gentler on the body and gives time for stops. You still need the restricted-area permit and a licensed guide, exactly as trekkers do."
+    },
+    {
+      "q": "Is the jeep tour easier than the Upper Mustang trek?",
+      "a": "Physically, yes. You walk only an hour or two on most days, mostly on flat ground in villages. The altitude is the same, though, so you still sleep at about 3,500 to 3,840 m and need to acclimatise. The road is bumpy and dusty, and some people find long hours in a jeep tiring in a different way from walking."
+    },
+    {
+      "q": "How much does an Upper Mustang jeep tour cost?",
+      "a": "Our 9-night trip starts from about USD 2,900 per person for two people sharing. That includes the USD 500 restricted-area permit, the conservation area fee, flights to and from Jomsom, a private jeep, lodges, meals in Mustang and a licensed guide. The jeep is the largest cost, so the price per person falls as the group grows, up to four in one vehicle."
+    },
+    {
+      "q": "Do I still need a permit if I go by jeep?",
+      "a": "Yes. Upper Mustang is a restricted area whichever way you travel. Each foreign visitor needs the restricted-area permit, USD 500 for the first 10 days as we understand it, plus the Annapurna Conservation Area permit. The permit requires a group of at least two foreigners and a licensed guide. Check current status before you travel, because rules and fees are reviewed from time to time."
+    },
+    {
+      "q": "Is the Upper Mustang road safe?",
+      "a": "It is a rough mountain road with drops, loose sections and river crossings, but with an experienced local driver and a good 4WD it is driven daily in season. We avoid driving in the afternoon in heavy rain and after landslides. In the monsoon, June to August, parts of the road can close for a day, so we keep the schedule flexible."
+    },
+    {
+      "q": "Is this trip suitable for older travellers?",
+      "a": "Often, yes. Many of our jeep guests are in their sixties and seventies. What matters is a doctor's view on how you handle altitude, as you sleep at up to 3,840 m. We build a night in Kagbeni at 2,810 m first, keep days short, and carry oxygen in the vehicle. Steps in monasteries are steep, so a walking pole helps."
+    },
+    {
+      "q": "What will I eat on the Upper Mustang jeep tour?",
+      "a": "Lodges serve dal bhat, thukpa noodle soup, fried rice, momos, Tibetan bread with honey or jam, and eggs and porridge for breakfast. In Lo Manthang, ask for butter tea and tsampa, the roasted barley flour that Loba families eat every day. Vegetarian food is easy. Apples and apple products from Marpha appear on every menu in autumn."
+    },
+    {
+      "q": "Can I visit Lo Manthang during Tiji by jeep?",
+      "a": "Yes, and many people do. Tiji takes place in Lo Manthang over three days, usually in May, on dates set by the Tibetan calendar. Lodges fill months ahead, so book early. We add an extra night in Lo Manthang to cover all three days. Check current status of festival dates before you travel, since they move each year."
+    },
+    {
+      "q": "How much walking is there on this trip?",
+      "a": "Expect one to three hours of easy walking each day, mostly through villages and monastery compounds. The optional walk over Lo La on day 4 is about two hours. At Chhoser you climb ladders and steep steps inside the Jhong cave, and the walk from Ranipauwa up to the Muktinath temple takes 15 to 20 minutes at a slow pace. You can skip any walk and stay with the jeep."
+    }
+  ]
+}

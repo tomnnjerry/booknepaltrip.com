@@ -1,0 +1,221 @@
+{
+  "slug": "everest-family-trek-namche-8n",
+  "title": "Everest Family Trek to Namche",
+  "region": "everest-khumbu",
+  "kind": "family",
+  "nights": 8,
+  "themes": [
+    "family-trips",
+    "treks-and-trails",
+    "villages-and-homestays"
+  ],
+  "grade": "Moderate",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 2
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 3
+    },
+    {
+      "place": "lukla",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1300,
+  "best_months": [
+    0,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 3880,
+  "meta_description": "Everest family trek in 8 nights: short walking days to Namche Bazaar, yaks, monasteries and the Everest view from Khumjung. Guide and porters, from USD 1,300.",
+  "summary": "A gentle Everest trek for families with children from about eight. Eight nights, short days of two to five hours, three nights in Namche Bazaar to adjust to altitude and a day hike to the Everest view above Khumjung. Suspension bridges, yak trains, Sherpa monasteries and bakeries at the end of each day.",
+  "intro": [
+    "Children often love the Khumbu more than adults do: the swaying bridges, the yaks with bells, the planes on Lukla's runway, the monks and prayer wheels, and the bakeries in Namche. What they find hard is long days and sudden altitude. So this trek takes four days to reach Namche instead of two, stops each day by early afternoon, and sleeps no higher than 3,440 m. Short days also leave time to play.",
+    "The day hike up to Hotel Everest View and Khumjung gives the whole family a clear look at Everest, Lhotse and Ama Dablam, and back in Namche there is time to visit the Sherpa Culture Museum and, on Saturday, the weekly market. Porters carry everyone's bags, and your guide is used to walking at the pace of the smallest legs, with games, snacks and rest stops built in. Nobody has to carry more than a day pack."
+  ],
+  "story": "The adventure starts with the plane, a small aircraft that lands uphill on a mountain runway. Then the trail: a river the colour of milk, bridges strung with prayer flags, prayer wheels that spin when you touch them and water-driven wheels that spin by themselves. Each day the forest gets taller and the mountains closer. In Monjo children can see the park gate and learn about the musk deer and Himalayan tahr that live in the forest. In Namche, the town hangs on its hillside like a theatre, and the Sherpa Culture Museum shows how a Sherpa family lives, cooks and prays. On the ridge above Khumjung, Everest appears, and every child we have walked with remembers that moment.",
+  "highlights": [
+    "Short walking days of 2–5 hours, with afternoons free",
+    "Suspension bridges, yak trains and prayer wheels along the Dudh Koshi",
+    "Three nights in Namche Bazaar, with the Sherpa Culture Museum and bakeries",
+    "Everest view from Hotel Everest View and a visit to Khumjung's school",
+    "Experienced family guide and porters carrying all bags"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 45 min transfer",
+      "text": "We meet you at the airport and drive you to Gokarna Forest Resort, set in a protected forest on the eastern edge of the valley, where children can run around on lawns and spot monkeys and deer after a long flight. In the afternoon your guide meets the family to talk through the trek, check boots and warm layers, and pack porter bags of about 10 kg per person. Early dinner and bed.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Lukla, walk to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 35 min flight · 3 h walk · −250 m",
+      "text": "The flight to Lukla is the first adventure: 35 minutes in a small plane, landing uphill on a short mountain runway at 2,860 m. Over hot chocolate, children meet the porters, who often become their favourite people on the trek. Then an easy, mostly downhill walk to Phakding, crossing suspension bridges and spinning prayer wheels. Pass mani walls on your right, as Sherpa children do. The lodge has a warm dining room for card games.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phakding to Monjo",
+      "place": "lukla",
+      "overnight": "Monjo",
+      "alt_m": 2835,
+      "move": "≈ 2–3 h walk · +225 m",
+      "text": "A short morning upstream along the river through Benkar, where a waterfall drops beside the trail, to Monjo, just below the Sagarmatha National Park gate. Lunch is at the lodge, and the afternoon is free. Your guide can take everyone up to the park gate to look at the map of the national park and talk about the animals in the forest: Himalayan tahr, musk deer, the colourful danphe pheasant, Nepal's national bird.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Monjo to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4–5 h walk · +605 m",
+      "text": "Through the park gate, across the river at Jorsalle and up to the high Hillary bridge, which children usually love and some adults do not. The climb to Namche is long, so we walk it in short stages with snack breaks and games, and stop at the viewpoint halfway where Everest's summit appears behind the Nuptse ridge if the sky is clear. Namche greets you with bakeries, shops and a lodge with a warm stove.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Namche: museum and viewpoint",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 2–3 h short walks",
+      "text": "A slow morning, then a short climb to the national park visitor centre on the ridge above town, where there are views of Thamserku and Kongde and displays about the park's animals. Next door, the Sherpa Culture Museum shows a traditional Sherpa house with its kitchen, prayer room and yak-dung stove, and photos of famous climbers. If it is Saturday, wander the weekly market. Afternoon for rest, postcards and apple pie.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Everest view and Khumjung",
+      "place": "khumjung",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4–5 h day hike · +440 m and back",
+      "text": "Today we climb past the Syangboche airstrip to Hotel Everest View, about 3,880 m, for hot chocolate on the terrace looking at Everest, Lhotse and Ama Dablam. Then down to Khumjung, where Edmund Hillary's Himalayan Trust opened a school in 1961 that still teaches Sherpa children; if school is in session, your children may see a class through the window. The monastery shows a relic villagers call the yeti scalp.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Namche to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 5 h walk · −830 m",
+      "text": "Down the zigzag to the Hillary bridge, through the park gate at Monjo and along the river to Phakding. It is a long downhill, so we take breaks often; children usually go faster downhill than their parents. In the afternoon, there is time to visit a small gompa above Phakding or simply play by the river under supervision. Dinner with stories of the trek so far, and early bed for everyone.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Phakding to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 3 h walk · +250 m",
+      "text": "A short morning walk up through Chheplung to Lukla. In the afternoon children can watch the planes landing and taking off from the viewing spots by the airport wall, which is often the highlight of the day. Tonight is a farewell dinner with your porters and guide; children sometimes give drawings or small gifts, which the crew treasure. Your guide reconfirms the morning flight. Lukla has hot showers and bakeries.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Fly back to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "The morning flight returns you to Kathmandu, or in peak months to Ramechhap and a four-to-five-hour drive to the city. The trip ends on arrival. Because Lukla flights are often delayed by cloud, please keep at least one spare night in Kathmandu before your international flight. Families often add a few days in Chitwan for elephants and rhinos, or Pokhara for boating on the lake. We can arrange both, with family rooms.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "gokarna-forest-resort"
+  ],
+  "includes": [
+    "Airport transfers and 1 night at Gokarna Forest Resort, family or twin rooms with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "Licensed trekking guide experienced with families, and porters (one for every two people)",
+    "7 nights in good teahouses, family or twin rooms, with three meals a day on trek",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Guide and porter wages, insurance, food and lodging"
+  ],
+  "excludes": [
+    "International flights and Nepal visas",
+    "Travel insurance covering trekking and helicopter evacuation for every family member (required)",
+    "Extra Kathmandu nights in case of flight delays",
+    "Hot showers, charging, Wi-Fi and drinking water on trek",
+    "Drinks, snacks and Kathmandu lunches and dinners",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "We suggest children be at least eight years old, so they can walk 3–5 hours and tell you how they feel at altitude.",
+    "Children's flight fares and park fees may differ from adults'; we quote each family individually.",
+    "Since April 2023 foreign trekkers in national parks must walk with a licensed guide; enforcement in Khumbu has varied. Check current status before you travel.",
+    "Bring a small first-aid kit with children's paracetamol and rehydration salts; discuss altitude medicine with your doctor.",
+    "Lodge food is safe and varied; children usually like pancakes, fried rice, noodle soup and Tibetan bread.",
+    "The best family months are October–November and March–April; school holidays in April and October fit well."
+  ],
+  "faqs": [
+    {
+      "q": "What age is right for an Everest family trek?",
+      "a": "We suggest eight and over. By that age most children can walk 3 to 5 hours with breaks and describe how they feel, which matters at altitude. Younger children can come if carried part of the way, but they cannot tell you about headaches or nausea clearly, so the risk is harder to manage."
+    },
+    {
+      "q": "Is altitude dangerous for children?",
+      "a": "Children get altitude sickness at similar rates to adults; it is not more dangerous if handled the same way. This trek sleeps no higher than 3,440 m and takes four days to get there. The warning signs in children are often crankiness, poor appetite and unusual tiredness; we watch for these, and descending always helps."
+    },
+    {
+      "q": "How much does the Everest family trek cost?",
+      "a": "This 8-night trip starts from USD 1,300 per person, sharing, including Lukla flights, a licensed guide and porters, permits, seven teahouse nights with three meals a day and one night at Gokarna Forest Resort. Children's rates depend on age and room sharing; we quote each family separately. Insurance, visas and tips are extra."
+    },
+    {
+      "q": "Can we see Everest on the family trek?",
+      "a": "Yes, on clear days. The first glimpse comes from a viewpoint on the climb to Namche, and the full view is from the terrace of Hotel Everest View and the ridge above Khumjung, with Everest, Lhotse and Ama Dablam lined up. Mornings in October to December are clearest."
+    },
+    {
+      "q": "What do children eat on the trek?",
+      "a": "Teahouses cook a wide menu: pancakes, porridge, eggs, fried rice, noodle soups, pasta, potatoes, momos, pizza in Namche, and dal bhat with refills. Most children find plenty they like. Bring familiar snacks from home for hard moments, and expect appetite to drop a little at altitude. Drinking water is boiled or filtered."
+    },
+    {
+      "q": "Are the suspension bridges safe for children?",
+      "a": "Yes. They are steel cable bridges with high mesh sides and are crossed by thousands of people and yak trains every season. They do sway. Your guide walks small children across, and we wait for yak trains to cross before stepping on. Some children love them; anyone nervous can hold an adult's hand."
+    },
+    {
+      "q": "What if a child gets sick or tired on the trek?",
+      "a": "Days are short with spare time built in, so we can slow down or rest. For tiredness, porters can carry a small child for a stretch. For illness, Namche has a health post and Khunde has a hospital a short walk away. For anything serious, helicopters can evacuate from most villages, which is why insurance is required."
+    },
+    {
+      "q": "Do teahouses have family rooms?",
+      "a": "Some lodges in Phakding, Monjo and Namche have triple or family rooms; others put families in adjoining twin rooms. Bathrooms are often shared, though some Namche lodges have attached rooms at extra cost. Rooms are simple and cold at night, so bring good sleeping bags for everyone."
+    },
+    {
+      "q": "Is there anything for children to do in Namche?",
+      "a": "Plenty: the Sherpa Culture Museum and the park visitor centre, yak trains in the lanes, the Saturday market, bakeries, and short walks to viewpoints. Many lodges have board games and cards. Children also enjoy learning a few Sherpa words, such as tashi delek for hello, and spinning the big prayer wheels at the town's stupa."
+    }
+  ]
+}

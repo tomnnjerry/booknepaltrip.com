@@ -1,0 +1,289 @@
+{
+  "slug": "gokyo-lakes-renjo-la-trek-13n",
+  "title": "Gokyo Lakes and Renjo La Trek",
+  "region": "everest-khumbu",
+  "kind": "trek",
+  "nights": 13,
+  "themes": [
+    "treks-and-trails",
+    "high-altitude",
+    "lakes-and-rivers",
+    "photography"
+  ],
+  "grade": "Challenging",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 2
+    },
+    {
+      "place": "gokyo",
+      "nights": 4
+    },
+    {
+      "place": "thame",
+      "nights": 2
+    },
+    {
+      "place": "namche-bazaar",
+      "nights": 1
+    },
+    {
+      "place": "lukla",
+      "nights": 1
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1550,
+  "best_months": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 5360,
+  "meta_description": "Gokyo Lakes and Renjo La trek in 13 nights: turquoise lakes, Gokyo Ri sunrise, the Renjo La pass and Thame. Licensed guide and porter, from USD 1,550.",
+  "summary": "A quieter Everest trek that trades base camp for lakes. You walk up the Gokyo valley to the turquoise lakes beside the Ngozumpa glacier, climb Gokyo Ri for a view of four 8,000 m peaks, cross the 5,360 m Renjo La and come down through Thame on the old Tibet trade route. Thirteen nights, teahouses throughout.",
+  "intro": [
+    "If you want Everest without the queue of trekkers on the main trail, this is the route we suggest. The Gokyo valley branches off above Namche and climbs gently past summer yak settlements to a chain of glacier lakes. From Gokyo Ri, a two-hour climb above the village, the view takes in Everest, Lhotse, Makalu and Cho Oyu, with the grey rubble of the Ngozumpa glacier below. Many guides rate it above Kala Patthar.",
+    "Rather than walk back the same way, we cross the Renjo La, a high pass with a stone staircase on the Gokyo side and a long, quiet valley on the other. It brings you down through Lungden and Thame, Sherpa villages on the route to the Nangpa La that very few trekkers see. Short days and two nights at Gokyo keep the altitude manageable. It is also a good trek for anyone who has walked to base camp before and wants to see the Khumbu from another valley."
+  ],
+  "story": "The trail leaves the main path at Kyangjuma and climbs to Mong La, a chorten on a spur below Khumbila, the mountain the Sherpas say is home to the Khumbu's protector god. After that it is herders' country: Dole, Luza, Machhermo, stone huts that fill with families and yaks in summer and lodges that stay open for trekkers. The lakes appear one after another, the third holding the village of Gokyo. From the Renjo La you look back across everything you have walked, then drop into the Bhote Koshi valley, the old road to Tibet. Thame, rebuilding after the 2024 flood, is where Tenzing Norgay grew up and where many Everest summiteers still come from.",
+  "highlights": [
+    "Sunrise on Gokyo Ri, about 5,357 m, facing Everest, Lhotse, Makalu and Cho Oyu",
+    "The Gokyo lakes, a Ramsar-listed wetland sacred to Hindus and Buddhists",
+    "Crossing the Renjo La at about 5,360 m with Everest behind you",
+    "The quiet Bhote Koshi valley and Thame, home of many Everest Sherpas",
+    "Namche Bazaar and the Everest View ridge on acclimatisation day"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "We meet you at the airport and drive you to your hotel. In the afternoon your guide comes to brief you on the route and to check your kit: a sleeping bag rated to about −15 °C, a warm down jacket, gloves, a sun hat, and microspikes for icy mornings on the Renjo La. Anything missing can be rented or bought in Thamel within a short walk. We confirm your flight time for the morning.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Fly to Lukla, walk to Phakding",
+      "place": "lukla",
+      "overnight": "Phakding",
+      "alt_m": 2610,
+      "move": "≈ 35 min flight · 3–4 h walk · −250 m",
+      "text": "A morning flight over the hills lands on the short uphill runway at Lukla, 2,860 m. Over tea you meet the porters and your bags are weighed. Then an easy walk down through Chheplung to Phakding on the Dudh Koshi, crossing suspension bridges and passing prayer wheels turned by streams. Sleeping slightly lower than Lukla helps the first night. Lodges here are comfortable, with dining rooms warmed by stoves. Your guide sets a slow pace from the first hour.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Phakding to Namche Bazaar",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 6 h walk · +830 m",
+      "text": "Through Benkar and Monjo, where the national park checkpoint inspects permits, to Jorsalle and the high Hillary suspension bridge. The climb to Namche is long; walk slowly, sip water and look out for the first glimpse of Everest's summit behind the Nuptse ridge. Namche fills a curved hillside with lodges, bakeries and shops. Tonight you sleep at 3,440 m, so take it easy in the evening. Ask for a room on the upper floors for the morning view.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Acclimatisation day in Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4–5 h day hike · +440 m and back",
+      "text": "We climb to Syangboche and Hotel Everest View, about 3,880 m, then walk down to Khumjung, with its school founded by Edmund Hillary's Himalayan Trust in 1961 and its monastery's yeti scalp relic. Back in Namche, visit the Sherpa Culture Museum or the national park visitor centre. On Saturdays the weekly market fills the lower town with grain, vegetables and dried meat carried up from lower valleys. Buy any last snacks here; prices rise with every day of walking.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Namche to Dole",
+      "place": "gokyo",
+      "overnight": "Dole",
+      "alt_m": 4040,
+      "move": "≈ 5–6 h walk · +600 m",
+      "text": "We follow the main trail to Kyangjuma, then turn north and climb to Mong La, about 3,970 m, where a chorten marks the spur below Khumbila. The trail drops steeply to the river at Phortse Thanga and climbs again through rhododendron, birch and juniper to Dole. The crowds of the main Everest trail are gone; you share the path with yak herders and a few other groups. Dole's lodges are simple and warm, with a stove lit at dinner.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Dole to Machhermo",
+      "place": "gokyo",
+      "overnight": "Machhermo",
+      "alt_m": 4470,
+      "move": "≈ 4 h walk · +430 m",
+      "text": "A short climb along the side of the valley through Luza, with Cho Oyu in view ahead. Machhermo is a sheltered bowl of stone walls and lodges. In the main seasons the Himalayan Rescue Association aid post gives an afternoon talk on altitude illness, which is useful and free. Lodge owners here also like to tell the 1974 story of a yeti attack on a herder and her yaks. Short day, long rest.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Machhermo to Gokyo",
+      "place": "gokyo",
+      "overnight": "Gokyo",
+      "alt_m": 4790,
+      "move": "≈ 4 h walk · +320 m",
+      "text": "Past Pangka the trail climbs beside the Ngozumpa moraine, then the lakes begin: Longponga, then Taboche Tsho, then Dudh Pokhari, the third lake, with Gokyo village on its eastern shore. The lakes are listed as a Ramsar wetland and are sacred to Hindus and Buddhists alike. The lodges here have glass-fronted dining rooms that catch the afternoon sun. Rest and drink plenty; tomorrow is an early start. Wrap up well after sunset, when the temperature drops fast.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Gokyo Ri sunrise and lakes walk",
+      "place": "gokyo",
+      "overnight": "Gokyo",
+      "alt_m": 4790,
+      "move": "≈ 3 h up and down Gokyo Ri · optional 4 h walk",
+      "text": "We start in the dark and climb Gokyo Ri, about 5,357 m, on a steep, zigzagging path. At sunrise four 8,000 m peaks, Everest, Lhotse, Makalu and Cho Oyu, light up in turn, with the Ngozumpa glacier spread below. After breakfast those with energy walk to the fourth lake, Thonak Tsho, and back. A second night at Gokyo prepares your body for the Renjo La tomorrow. Pack your bag tonight for an early start.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Over the Renjo La to Lungden",
+      "place": "",
+      "overnight": "Lungden",
+      "alt_m": 4380,
+      "move": "≈ 7–8 h walk · +570 m, −980 m",
+      "text": "We walk round the lake shore and climb steadily, much of it on stone steps built by local workers, to the Renjo La at about 5,360 m. The view back over the lakes and the glacier to Everest is the reward. The west side descends past a small lake to a long valley and Lungden, a cluster of lodges in the upper Bhote Koshi. Microspikes help if the steps are icy in the morning.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 10,
+      "title": "Lungden to Thame",
+      "place": "thame",
+      "overnight": "Thame",
+      "alt_m": 3820,
+      "move": "≈ 5 h walk · −560 m",
+      "text": "Down the Bhote Koshi past Marlung and Taranga on the old route from the Nangpa La, the pass that Tibetan traders used for centuries to bring salt and wool to Namche. Thame sits in a wide bowl below Kongde Ri. A glacial lake outburst flood in August 2024 destroyed part of the village; families are rebuilding, and we confirm lodges before departure. Check current status before you travel. Walking through and staying here helps the village recover.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 11,
+      "title": "Thame Gompa and down to Namche",
+      "place": "namche-bazaar",
+      "overnight": "Namche Bazaar",
+      "alt_m": 3440,
+      "move": "≈ 4 h walk · −380 m",
+      "text": "In the morning we climb to Thame Gompa, built against the cliff above the village, where the Mani Rimdu festival is held each spring. Then down the valley through Samde and Thamo, with long mani walls and chortens beside the trail, and on to Namche from the west. In the evening, enjoy a hot shower and the bakeries, and perhaps a celebratory dinner with your guide and porters. Namche on Saturday mornings has its weekly market.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 12,
+      "title": "Namche to Lukla",
+      "place": "lukla",
+      "overnight": "Lukla",
+      "alt_m": 2860,
+      "move": "≈ 7 h walk · −580 m",
+      "text": "The last trekking day goes down the zigzag to the Hillary bridge, through Monjo and Phakding and along the river, then up for an hour from Chheplung to Lukla. Your knees will notice the downhill. In Lukla your guide reconfirms the morning flight and the check-in time. Tonight is the time to thank your porters, who head home to their villages in Solu from here. Ask your guide what tip is normal for the crew.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 13,
+      "title": "Fly Lukla to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 35 min flight, or via Ramechhap and ≈ 4–5 h drive",
+      "text": "Morning flights depart as cloud allows. In peak months you may land at Ramechhap and drive back to Kathmandu in four to five hours. The afternoon is free for laundry, a long shower and a meal of your choice. If the flight is delayed, we wait in Lukla; we recommend keeping a spare day in your plans after this trek to be safe with your onward flight. We can arrange a laundry service at your hotel.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 14,
+      "title": "Departure from Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 30 min transfer",
+      "text": "Transfer to the airport about three hours before your international flight. If you have time to stay on, the old Newar towns of Patan and Bhaktapur are close by, and Chitwan or Pokhara make a warm, restful end to a mountain trip. Leave any rented gear at your hotel reception and we collect it later in the day. We hope the lakes stay with you. Safe travels home, and come back for the next valley.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "kathmandu-guest-house"
+  ],
+  "includes": [
+    "Airport transfers and 2 nights at Kathmandu Guest House, twin sharing with breakfast",
+    "Kathmandu–Lukla–Kathmandu flights (or via Ramechhap with road transfer in peak months)",
+    "Licensed trekking guide and one porter for every two trekkers",
+    "11 nights in teahouses, twin rooms, with three meals a day on trek",
+    "Sagarmatha National Park entry fee and Khumbu Pasang Lhamu Rural Municipality permit",
+    "Guide and porter wages, insurance, food and lodging",
+    "Pulse oximeter and first-aid kit"
+  ],
+  "excludes": [
+    "International flights and Nepal visa",
+    "Travel insurance covering trekking to 6,000 m and helicopter evacuation (required)",
+    "Hot showers, charging, Wi-Fi cards and drinking water on trek",
+    "Drinks, snacks and Kathmandu lunches and dinners",
+    "Rental gear such as sleeping bags and microspikes",
+    "Tips for guide and porters"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers in national parks must walk with a licensed guide; enforcement in Khumbu has varied. Check current status before you travel.",
+    "Snow can close the Renjo La from December to February; if so we return via the Gokyo valley.",
+    "Thame was hit by a flood in August 2024; lodge availability varies. Check current status before you travel.",
+    "Lodges at Lungden are simple and few; in peak weeks we book ahead through the guide.",
+    "Do not wash, swim or leave rubbish near the Gokyo lakes, which are sacred.",
+    "Budget about USD 300 for extras on trek such as showers, charging and water."
+  ],
+  "faqs": [
+    {
+      "q": "Is the Gokyo trek better than Everest Base Camp?",
+      "a": "It is quieter and many people find the views better. Gokyo Ri shows four 8,000 m peaks at once, and the lakes add colour that base camp lacks. Base camp has the icefall and the sense of standing where expeditions start. If you have done base camp before, or dislike crowds, Gokyo is the trek we recommend."
+    },
+    {
+      "q": "How hard is the Renjo La pass?",
+      "a": "It is the easiest of the three Khumbu passes from the Gokyo side, mostly a long stone staircase to about 5,360 m, and takes 7 to 8 hours to Lungden. The descent on the west is long but not technical. Early-season ice on the steps can make microspikes helpful. Fit trekkers with a few days at Gokyo manage it well."
+    },
+    {
+      "q": "How much does the Gokyo and Renjo La trek cost?",
+      "a": "This 13-night trip starts from USD 1,550 per person, twin sharing, including Lukla flights, a licensed guide, a porter between two, park and municipality permits, 11 nights in teahouses with three meals a day and two Kathmandu hotel nights. Budget extra for showers, charging, water, snacks, tips, visa and insurance."
+    },
+    {
+      "q": "Can I do Gokyo without crossing the Renjo La?",
+      "a": "Yes. You can walk back down the Gokyo valley to Namche via Dole or via Phortse, which takes the same number of days and avoids the pass. This version is a good choice in winter, when snow may close the Renjo La, or for trekkers who prefer not to go above 5,000 m except on Gokyo Ri."
+    },
+    {
+      "q": "What is the altitude of Gokyo and Gokyo Ri?",
+      "a": "Gokyo village sits at about 4,790 m on the third lake. Gokyo Ri, the viewpoint above, is about 5,357 m and takes 1.5 to 2.5 hours to climb. The highest point of this trek is the Renjo La, about 5,360 m. Our route spends two nights at Gokyo to adjust before the pass."
+    },
+    {
+      "q": "Are the Gokyo lakes frozen?",
+      "a": "From about December to March the lakes freeze over, partly or completely, and look white rather than turquoise. In October, November and from April to May the water is open and coloured by glacial silt. Even when frozen, the views are clear in winter, though nights at Gokyo fall well below −15 °C."
+    },
+    {
+      "q": "Is there mobile signal or Wi-Fi at Gokyo?",
+      "a": "Most lodges at Gokyo and Machhermo offer Wi-Fi through prepaid Everest Link cards, which you buy in Namche or at lodges and use across the Khumbu. Mobile data is patchy above Namche. Charging phones and batteries costs a few hundred rupees per device. Bring a power bank and keep it warm at night."
+    },
+    {
+      "q": "What happens at Thame after the 2024 flood?",
+      "a": "Thame was badly damaged by a glacial lake outburst flood in August 2024; houses, the school and lodges were hit, but no lives were lost. Rebuilding continues and families welcome trekkers, whose spending helps. We confirm open lodges before departure and adapt the overnight if needed. Check current status before you travel."
+    },
+    {
+      "q": "Do I need a guide for the Gokyo trek?",
+      "a": "Nepal's rule from April 2023 requires foreign trekkers in national parks to walk with a licensed guide; in Khumbu enforcement has varied because the local municipality runs its own permit. We include a guide, which matters on the Renjo La and the Gokyo valley, where lodges are fewer. Check current status before you travel."
+    }
+  ]
+}

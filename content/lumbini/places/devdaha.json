@@ -1,0 +1,164 @@
+{
+  "slug": "devdaha",
+  "name": "Devdaha",
+  "name_ne": "देवदह",
+  "local_name": "Devadaha (Pali, 'pond of the gods')",
+  "region": "lumbini",
+  "kind": "pilgrimage site",
+  "wiki": "Devdaha",
+  "image_query": "Devdaha Rupandehi Mayadevi temple",
+  "lat": 27.661,
+  "lng": 83.566,
+  "altitude_m": 180,
+  "tagline": "Maya Devi's home town, capital of the Koliya clan",
+  "meta_description": "Devdaha, ancient Koliya capital and maternal home of Maya Devi, Prajapati Gautami and Yashodhara: Bhawanipur, Kanya Mai, the pakari tree and how to visit.",
+  "summary": "Devdaha is a municipality in Rupandehi district, east of Butwal at the foot of the Chure hills, identified with the ancient Koliya capital. Tradition makes it the home of the Buddha's mother Maya Devi, his foster mother Prajapati Gautami and his wife Yashodhara. Its sites spread across farmland; allow half a day.",
+  "intro": [
+    "Queen Maya Devi was walking home to Devdaha to give birth when she stopped at Lumbini. Devdaha is where that journey was meant to end: the town of the Koliyas, her own clan, at the edge of the forested Chure hills about 55 km by road east of Lumbini.",
+    "Today Devdaha is a fast-growing municipality of farms, schools and small bazaars along the East-West Highway, and its old sites are scattered. Bhawanipur has a Maya Devi temple and ancient brick remains; Kanya Mai is linked with Prajapati Gautami; Kumarvarti and other mounds hold more ruins excavated by the Department of Archaeology and the Lumbini Development Trust.",
+    "It is a place for travellers who want the whole family story of the Buddha, and for anyone happy to spend a half day among village shrines, mango groves and one very large tree."
+  ],
+  "story": {
+    "title": "The mother's side of the Buddha's family",
+    "paras": [
+      "Buddhist commentaries describe the Shakyas of Kapilavastu and the Koliyas of Devadaha as neighbouring clans who married each other's daughters. King Suddhodana married two Koliya sisters, Maya and Prajapati. Maya died seven days after Siddhartha's birth, and Prajapati raised him. By tradition his wife Yashodhara was also a Koliya. Texts say the young prince visited his mother's town, and that the Buddha later stayed here and taught.",
+      "The Pali Canon keeps the town's name in the Devadaha Sutta, a discourse given 'among the Sakyans, at a town called Devadaha'. The name, the commentaries explain, comes from a lake that came into being by itself, a pond of the gods, whose water served the royal household.",
+      "Modern Devdaha grew with the clearing of the Terai forests and the arrival of hill families in the second half of the 20th century. Excavations at Kanya Mai in 2011 uncovered structural remains and stone sculptures, and the Lumbini Development Trust has been developing the sites for pilgrims. Most of the old Koliya town still lies under fields."
+    ]
+  },
+  "legend": "Buddhist commentaries tell that the Shakyas and Koliyas once nearly went to war over the water of the Rohini river, which ran between their lands and which both needed for their fields in a dry year. The Buddha came and asked the two armies which was worth more, water or the blood of warriors. Shamed, they made peace. The story is told at Devdaha as a reminder that both his families were saved from fighting.",
+  "people": "Devdaha's people are a mix of Magar, Gurung, Brahmin and Chhetri families who moved down from Palpa and the western hills, Tharu households and Madhesi farmers. Nepali is the shared language. Most families farm rice, maize, vegetables and fruit; many have relatives working abroad, and Butwal, 15 km west, is the place for jobs, colleges and hospitals.",
+  "untold": [
+    {"fact": "The Pali name Devadaha means 'pond of the gods'. The commentaries say the pond came into being without human work, so it was called divine, and its water was supplied to the Koliya palace.", "source": "Wikipedia: Devdaha"},
+    {"fact": "The Devadaha Sutta, number 101 in the Majjhima Nikaya of the Pali Canon, is set 'among the Sakyans, at a town called Devadaha', where the Buddha examined the Jain view of karma and ascetic practice.", "source": "Pali Canon: Majjhima Nikaya 101; SuttaCentral"},
+    {"fact": "Excavations by the Department of Archaeology and the Lumbini Development Trust at Kanya Mai in 2011 uncovered structural ruins, an old well and stone sculptures, including a standing image of Lokeshwor holding a lotus.", "source": "Wikipedia: Devdaha"}
+  ],
+  "local_words": [
+    {"word": "daha", "script": "दह", "lang": "Nepali", "meaning": "Deep pond or pool; Devdaha is the pool of the gods"},
+    {"word": "mai", "script": "माई", "lang": "Nepali", "meaning": "Mother; used for local goddesses, as in Kanya Mai"},
+    {"word": "briksha", "script": "वृक्ष", "lang": "Nepali", "meaning": "Tree, in formal Nepali; locals call the great fig the pakari briksha"}
+  ],
+  "taste": {"name": "Sel roti", "text": "A ring of sweet rice-flour batter deep-fried until crisp outside and soft inside, made in hill households for Tihar and weddings and eaten with tea or curd. In Devdaha's bazaars, set up by families from the hills, it is sold fresh in the mornings."},
+  "facts": [["Best months", "Oct – Mar"], ["Days we suggest", "Half day"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 40 km)"], ["From Lumbini", "≈ 55 km · 1.5 h by road"], ["Altitude", "≈ 180 m"], ["Known for", "Koliya capital, Maya Devi's home town, pakari tree"]],
+  "best_months": [2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Bhawanipur Maya Devi temple", "text": "Also called Devidamar, south of the highway, with a temple to Maya Devi, a long stone column, an image of the sun god and an old brick well. Some believe it marks the old Koliya capital."},
+    {"title": "Kanya Mai shrine", "text": "A temple linked with Prajapati Gautami, the Buddha's foster mother. Excavations in 2011 uncovered ruins and sculptures, including a standing Lokeshwor with a lotus, and old potsherds still lie on the nearby mound."},
+    {"title": "The great pakari tree", "text": "South of Khaireni bazaar stands an enormous pakari fig, its branches spreading over a huge area. Local belief links it with the time of the Shakyas, and birds are said never to nest in it."},
+    {"title": "Devdaha park", "text": "The entrance park on the highway has a pagoda, a standing Buddha statue and a gilded image of Sariputra. It is a pleasant first stop and the place to ask locally about the sites."},
+    {"title": "Chure foothills", "text": "Devdaha sits where the Terai plain meets the forested Chure hills. Morning drives along the edge of the forest, with the first ridges behind the fields, show a different landscape from flat Lumbini."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Lumbini drive via Bhairahawa and Butwal, about 55 km and 1.5 hours. Devdaha's sites lie east of Butwal along and south of the East-West Highway; Bhawanipur is about 4 km south of the highway. Local buses from Butwal stop along the highway in Devdaha."},
+    {"mode": "Air", "text": "Fly Kathmandu to Bhairahawa in about 35 minutes, then drive about 40 km via Butwal, around 1 hour 15 minutes."}
+  ],
+  "where_to_stay": "Most visitors see Devdaha on a day trip from Lumbini, staying at Buddha Maya Gardens or the Lumbini Hokke Hotel, or stop on the way between Lumbini and Tansen. Butwal, about 15 km west, has a good choice of mid-range city hotels and restaurants and is the most practical overnight base nearby. Devdaha itself has only small local lodges.",
+  "stays": [],
+  "tips": [
+    "Devdaha's sites are spread over several kilometres of farmland, so use a car or e-rickshaw rather than walking between them.",
+    "Ask locally for directions to Bhawanipur and Kanya Mai; signposting from the highway is limited.",
+    "Combine Devdaha with Ramagrama for a full Koliya day, or with Butwal on the way to Tansen.",
+    "Morning is best: the light is soft at the foot of the hills and the shrines are active.",
+    "Dress modestly; these are active Hindu and Buddhist places of worship."
+  ],
+  "themes": ["spiritual-and-pilgrimage", "heritage-and-temples", "villages-and-homestays"],
+  "nearby": ["ramagrama", "lumbini", "tansen"],
+  "experiences": [
+    {
+      "slug": "devdaha-maya-devi-home-circuit",
+      "title": "Maya Devi's home town circuit",
+      "kind": "spiritual",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Devdaha Bhawanipur temple",
+      "wiki": "Devdaha",
+      "summary": "A morning circuit of Devdaha's main sites: the Maya Devi temple and ruins at Bhawanipur, the Kanya Mai shrine of Prajapati Gautami, and Devdaha park, with the story of the Buddha's mother's family told along the way.",
+      "body": [
+        "We start at Bhawanipur, also called Devidamar, about 4 km south of the highway. The temple here is dedicated to Maya Devi, and around it lie a long stone column, a stone image of the sun god, an old brick well and the low walls of ancient buildings, some visible at ground level.",
+        "Next is Kanya Mai, a short drive away, where tradition remembers Prajapati Gautami, the sister who raised the Buddha after Maya Devi's death and later became the first Buddhist nun. Sculptures found in the 2011 excavations are kept at the shrine.",
+        "We finish at Devdaha park on the highway, with its standing Buddha and gilded Sariputra. Along the way your guide tells the family story: two sisters, a prince raised by his aunt, and a homecoming that never reached its end."
+      ],
+      "good_for": ["first-timers", "seniors", "families"],
+      "faqs": [
+        {"q": "What is the connection between Devdaha and the Buddha?", "a": "Devdaha is identified with Devadaha, the Koliya town that tradition names as the home of the Buddha's mother Maya Devi, his foster mother Prajapati Gautami and his wife Yashodhara. Maya Devi was travelling here to give birth when the Buddha was born at Lumbini. Texts say the Buddha later visited and taught here."},
+        {"q": "How long does the Devdaha circuit take?", "a": "Allow 3–4 hours for Bhawanipur, Kanya Mai and Devdaha park, including driving between them on village roads. Add an hour if you want to see the great pakari tree near Khaireni. From Lumbini, the full trip takes most of a day."},
+        {"q": "Are there entry fees at Devdaha's sites?", "a": "The Devdaha sites have generally been free to visit, with donations welcomed at temples. Facilities are being developed by the Lumbini Development Trust and the municipality, so arrangements may change. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "devdaha-pakari-tree",
+      "title": "Under Devdaha's giant pakari tree",
+      "kind": "nature",
+      "duration": "45 minutes",
+      "best_time": "Late afternoon, all year",
+      "image_query": "Pakari tree Devdaha",
+      "wiki": "",
+      "summary": "A stop at the vast pakari fig south of Khaireni bazaar, one of the largest trees in the region, whose spreading branches and hanging roots make a cool shelter and a local place of worship.",
+      "body": [
+        "South of Khaireni bazaar stands a fig tree so large that it seems to be a small forest. Its trunk is many metres round, its branches spread far over the ground, and local people have long treated it as sacred, offering red powder, flowers and threads at its base.",
+        "Local beliefs gather around it: that it dates from the time of the Shakyas, that birds never nest in it and that vultures and crows never perch on it. Nobody has measured its age with certainty, so take the stories as stories, but the tree itself is real enough.",
+        "In the late afternoon families come to sit in its shade, and children play among the roots. It is a good place to end a day in Devdaha."
+      ],
+      "good_for": ["families", "photographers", "couples"],
+      "faqs": [
+        {"q": "How old is the Devdaha pakari tree?", "a": "Its exact age is unknown. Local belief links it with the time of the Shakyas, more than 2,000 years ago, but no scientific dating has confirmed this, and fig trees of this kind grow and spread quickly. Treat the age claims as local tradition rather than fact."},
+        {"q": "Where is the pakari tree in Devdaha?", "a": "It stands a short drive, about 5 minutes, south of Khaireni bazaar in Devdaha Municipality. Local people all know it, so asking for the pakari briksha will get you there. It is easy to combine with the Maya Devi circuit."},
+        {"q": "Is the pakari tree a religious site?", "a": "Yes. Local people worship at the tree with offerings of red powder, flowers and threads, and it is linked in local belief with the Buddha's time. Behave as you would at a shrine: do not climb it, do not disturb offerings, and ask before photographing people praying."}
+      ]
+    },
+    {
+      "slug": "devdaha-rohini-river-story",
+      "title": "The Rohini river and a war that never came",
+      "kind": "heritage",
+      "duration": "1–1.5 hours",
+      "best_time": "Morning or late afternoon, Oct–Apr",
+      "image_query": "Rohini river Rupandehi",
+      "wiki": "Rohni River",
+      "summary": "Stand on the banks of the Rohini, the river that by tradition divided the Shakya and Koliya lands, and hear the story of the water dispute the Buddha settled between his father's and his mother's clans.",
+      "body": [
+        "The Rohini river runs south from the Chure hills across Rupandehi into India. Buddhist commentaries say it marked the boundary between the Shakyas and the Koliyas, and that both clans dammed and drew on it to water their fields.",
+        "In a year of drought, the story goes, the farmers quarrelled over the water, insults turned to arms, and the two clans faced each other across the riverbed. The Buddha came, asked what was worth more, water or the lives of warriors, and the fighting stopped.",
+        "We stop on a stretch of riverbank between Lumbini and Devdaha where your guide tells the story. In the dry season the bed is wide and stony, with farmers drawing water to their fields exactly as the story describes."
+      ],
+      "good_for": ["families", "first-timers", "solo"],
+      "faqs": [
+        {"q": "Where is the Rohini river?", "a": "The Rohini, also spelt Rohni, rises in the Chure hills and flows south through Rupandehi district between Butwal and Lumbini, then into India. Tradition identifies it with the river that separated the Shakya and Koliya territories in the Buddha's time."},
+        {"q": "Is the Rohini water dispute a historical event?", "a": "It comes from Buddhist commentaries and Jataka stories written down centuries after the Buddha, so it is best understood as a traditional story rather than recorded history. It is, however, rooted in a real landscape where water sharing between villages still matters."},
+        {"q": "Can I visit the Rohini river on the way to Devdaha?", "a": "Yes. The road from Lumbini to Devdaha crosses the Rohini, so a stop on the bank takes only 20–30 minutes extra. In the monsoon from July to September the river can run high and fast, so stay well back from the water."}
+      ]
+    },
+    {
+      "slug": "devdaha-hill-village-breakfast",
+      "title": "Sel roti breakfast in a Devdaha bazaar",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Early morning, all year",
+      "image_query": "Sel roti Nepal",
+      "wiki": "Sel roti",
+      "summary": "Start the Devdaha day like a local: sel roti fresh from the pan, spiced potatoes, curd and sweet tea at a small family shop in a bazaar founded by settlers from the hills.",
+      "body": [
+        "Many of Devdaha's families came down from Palpa, Gulmi and Syangja in the second half of the 20th century, and they brought hill food with them. In the morning, small shops in Devdaha's bazaars fry sel roti, rings of rice-flour batter that turn crisp and golden in hot oil.",
+        "We sit at a bench with sel roti, aloo tarkari, a bowl of curd and a glass of milky tea. It is a cheap, filling breakfast, and the shop owner will likely ask where you are from and where you are going.",
+        "From here it is a short drive to Bhawanipur and Kanya Mai, so breakfast becomes the first stop of the Devdaha circuit."
+      ],
+      "good_for": ["families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "What is sel roti?", "a": "Sel roti is a ring-shaped Nepali bread made from soaked, ground rice mixed with sugar, ghee and sometimes banana, then deep-fried. It is crisp outside and soft inside. It is made at home for Tihar and family celebrations and sold in bazaars every morning."},
+        {"q": "Is sel roti vegetarian?", "a": "Yes. Sel roti is made from rice, sugar, ghee or oil and sometimes banana or spices, so it is vegetarian. It is not vegan if made with ghee or milk. It contains no wheat, but shared frying oil means it is not suitable for strict gluten-free diets."},
+        {"q": "Where else can I try sel roti in the Lumbini region?", "a": "Sel roti is sold in morning tea shops across the hill towns and bazaars of the region, including Tansen, Butwal and the roads up to Palpa. It is also widely made at home during Dashain and Tihar in September to November, when you may be offered it as a guest."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Devdaha?", "a": "Devdaha is a municipality in Rupandehi district, Lumbini Province, east of Butwal at the foot of the Chure hills. It lies along the East-West Highway, about 55 km by road from Lumbini via Bhairahawa and Butwal, roughly 1.5 hours by car."},
+    {"q": "Why is Devdaha important to Buddhists?", "a": "Devdaha is identified with Devadaha, capital of the Koliya clan and maternal home of the Buddha's mother Maya Devi, his foster mother Prajapati Gautami and, by tradition, his wife Yashodhara. Maya Devi was on her way here when she gave birth at Lumbini. The Pali Canon records the Buddha teaching here."},
+    {"q": "What is there to see in Devdaha?", "a": "The main sites are the Maya Devi temple and ruins at Bhawanipur, the Kanya Mai shrine linked with Prajapati Gautami, Kumarvarti and other excavated mounds, Devdaha park with its Buddha statue, and the great pakari tree near Khaireni bazaar."},
+    {"q": "How much time do I need in Devdaha?", "a": "Half a day covers the main sites by car. A full day lets you add Ramagrama or a slower pace with the pakari tree and the Rohini river. Many travellers see Devdaha on the drive between Lumbini and Tansen."},
+    {"q": "Can I stay overnight in Devdaha?", "a": "Devdaha has only small local lodges. Butwal, about 15 km west, has a wider range of hotels and restaurants and is the practical overnight base. Lumbini, about 1.5 hours away, is the better choice if you want to stay among the Buddhist sites."},
+    {"q": "Is Devdaha worth visiting?", "a": "For pilgrims following the Buddha's family story, yes, because it completes the picture of his mother's side. For general travellers, its sites are simpler than Lumbini's and spread out, so it suits those with a real interest or a day to spare between Lumbini and Tansen."},
+    {"q": "What is the best time to visit Devdaha?", "a": "October to March is most comfortable, with mild days and clear views of the Chure hills. April to June is hot, often above 35 °C. The monsoon from July to September brings heavy rain and can make village roads to Bhawanipur muddy."},
+    {"q": "How is Devdaha related to Lumbini?", "a": "Lumbini lay between Kapilavastu, home of the Shakyas, and Devdaha, home of the Koliyas. Tradition says Maya Devi was travelling from Kapilavastu to her parents' home in Devdaha when she gave birth in the Lumbini grove. The two places are about 55 km apart by today's roads."},
+    {"q": "Do I need a guide in Devdaha?", "a": "It helps. Devdaha's sites are scattered across farmland with limited signposting, and the story connecting them is not displayed at most sites. A guide or driver who knows the area saves time finding Bhawanipur and Kanya Mai and explains what you are seeing."}
+  ]
+}

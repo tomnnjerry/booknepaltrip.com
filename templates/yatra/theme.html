@@ -1,0 +1,13 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ t.name }} in Nepal · Book Nepal Trip{% endblock %}
+{% block description %}{{ t.summary|truncatechars:158 }}{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Travel style · {{ t.tagline }}</p><h1 class="h-xl">{{ t.name }} in Nepal</h1><p class="lede">{{ t.summary }}</p></div></header>
+<section class="wrap" style="padding:10px 0 60px">
+  <div class="read prose">{% for para in t.intro %}<p>{{ para }}</p>{% endfor %}</div>
+  {% if journeys %}<h2 class="h-m" style="margin-top:30px">Trips</h2><div class="grid grid--3" style="margin-bottom:40px">{% for j in journeys %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div>{% endif %}
+  {% if places %}<h2 class="h-m">Places</h2><div class="grid grid--4" style="margin-bottom:40px">{% for p in places|slice:":16" %}{% include "yatra/partials/card_place.html" %}{% endfor %}</div>{% endif %}
+  {% if stays %}<h2 class="h-m">Stays</h2><div class="grid grid--4" style="margin-bottom:40px">{% for s in stays %}{% include "yatra/partials/card_stay.html" %}{% endfor %}</div>{% endif %}
+  {% if region_pages %}<h2 class="h-s">{{ t.name }} by region</h2><div class="chips">{% for r in region_pages %}<a class="chip" href="{% url 'region_theme' r.slug t.slug %}">{% icon r.icon %}{{ r.name }}</a>{% endfor %}</div>{% endif %}
+</section>
+{% endblock %}

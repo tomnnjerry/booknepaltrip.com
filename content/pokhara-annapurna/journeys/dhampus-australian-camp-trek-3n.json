@@ -1,0 +1,158 @@
+{
+  "slug": "dhampus-australian-camp-trek-3n",
+  "title": "Dhampus and Australian Camp Easy Trek",
+  "region": "pokhara-annapurna",
+  "kind": "trek",
+  "nights": 3,
+  "themes": [
+    "treks-and-trails",
+    "family-trips",
+    "villages-and-homestays",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "dhampus",
+      "nights": 2
+    },
+    {
+      "place": "pokhara",
+      "nights": 1
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Pokhara",
+  "price_from_usd": 350,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 2060,
+  "meta_description": "Dhampus and Australian Camp in 3 nights from Pokhara: the easiest Annapurna lodge trek, with sunset on Machhapuchhre, Gurung villages and short walking days.",
+  "summary": "Three nights from Pokhara on the gentlest trek in the Annapurnas: a short drive to Kande, an easy climb to the meadow of Australian Camp (2,060 m) for sunset on the range, a forest walk to the Gurung village of Dhampus, and down to Phedi and Pokhara for a final night by the lake.",
+  "intro": [
+    "If you have three days and want to wake up facing Machhapuchhre and Annapurna South, this is the walk. Australian Camp is a grassy ridge with a handful of lodges, two hours' walk above the Baglung road, and the view from it is as good as many week-long treks. Dhampus, the next stop, is a long Gurung and Brahmin village spread across a ridge with the same mountains filling the north.",
+    "Walking days are two to four hours, the highest point is about 2,060 m, and the trails are wide stone paths through forest and fields. It is our usual choice for families with children from about six, for older walkers, and for travellers who want a taste of trekking before or after a busier trip. A porter carries bags for every two guests, so you walk with a day pack only."
+  ],
+  "story": "The drive from Pokhara takes under an hour, and then the climb from Kande is short and shaded, through oak and rhododendron, until the trees open on a meadow and the range stands in front of you: Annapurna South, Hiunchuli, Machhapuchhre, Annapurna II and IV. Australian Camp is little more than a few lodges and a grassy slope, and in the evening everyone sits on the grass waiting for the fishtail to turn pink. The second day passes through Pothana, where tea shops sit beside the ACAP checkpoint, and descends gently to Dhampus. The village stretches along the ridge, its houses whitewashed and roofed with slate or tin, and life is farming: millet, maize, buffalo, chickens and the evening smoke of kitchen fires. The last morning drops on stone steps to Phedi and the road home.",
+  "highlights": [
+    "Sunset and sunrise on Machhapuchhre and Annapurna South from Australian Camp",
+    "The Gurung and Brahmin village of Dhampus on its long ridge",
+    "Short days of two to four hours on easy forest and village paths",
+    "A first taste of Annapurna teahouse life without altitude",
+    "A final night in Pokhara by Phewa Lake"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pokhara to Kande, walk to Australian Camp",
+      "place": "dhampus",
+      "overnight": "Australian Camp",
+      "alt_m": 2060,
+      "move": "≈ 1 h drive · then ≈ 2 h walk · +300 m",
+      "text": "We pick you up from your Pokhara hotel and drive along the Baglung road to Kande. The trail climbs on stone steps through forest to Australian Camp, about two hours. Arrive by lunch and spend the afternoon on the meadow, watching cloud lift from the peaks. As the sun drops, Machhapuchhre and the Annapurnas turn gold and then pink. The lodges here are simple, with a warm dining room and a drum stove in the evenings.",
+      "meals": "Lunch, Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Australian Camp to Dhampus",
+      "place": "dhampus",
+      "overnight": "Dhampus",
+      "alt_m": 1650,
+      "move": "≈ 3 h walk · −400 m",
+      "text": "Up early for sunrise on the range, often the clearest view of the trip. After breakfast walk to Pothana, where you show your permit at the ACAP checkpoint, and then descend gently through forest and farmland to Dhampus. The village is long and spread out, with lodges and homes along the ridge. In the afternoon walk through the village and its fields with your guide, and visit a family kitchen for tea.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dhampus to Phedi, drive to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara (Lakeside)",
+      "alt_m": 822,
+      "move": "≈ 2 h walk · −500 m · then ≈ 45 min drive",
+      "text": "One last morning view from Dhampus, then down a stone staircase through terraces and forest to Phedi, the foot of the hill, on the Baglung road. Our car meets you for the short drive back to Pokhara. Afternoon free in Lakeside: a boat on Phewa to Tal Barahi temple, a massage after the stairs, or a lazy coffee watching the paragliders land. Your guide will help you pick a lakeside restaurant for a last dinner of Nepali food.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Trip ends in Pokhara",
+      "place": "pokhara",
+      "overnight": "",
+      "alt_m": 822,
+      "move": "",
+      "text": "The trip ends after breakfast with a transfer to the airport or bus park. This short trek fits neatly before a longer journey to Chitwan or Lumbini, or after a busy few days in Kathmandu. Families who enjoyed it often come back for the Poon Hill and Ghandruk loop on their next visit. We can also book a further night in Lakeside if you want a slow morning. Your guide can help with onward tickets.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "Pick-up from your Pokhara hotel and return from Phedi",
+    "2 nights in teahouses on the trek with meals as listed",
+    "1 night in a 3-star hotel in Pokhara Lakeside with breakfast",
+    "Licensed English-speaking guide and one porter for two trekkers",
+    "ACAP entry permit and any trekking card required at the time of travel"
+  ],
+  "excludes": [
+    "Hotel nights in Pokhara before the trek",
+    "Flights to and from Pokhara",
+    "Drinks, showers, charging and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Since April 2023 foreign trekkers in the Annapurna Conservation Area must walk with a licensed guide; check current status before you travel.",
+    "Australian Camp has only a few lodges; in October and November we book ahead.",
+    "The steps down to Phedi are steep; trekking poles help knees.",
+    "Nights at Australian Camp can be near freezing from December to February.",
+    "Mornings are clearest; afternoon cloud is common in spring."
+  ],
+  "faqs": [
+    {
+      "q": "Is the Australian Camp trek good for beginners?",
+      "a": "Yes. It is the easiest lodge trek in the Annapurna region. Walking days are two to four hours on wide paths, the highest point is about 2,060 m, and there is no altitude risk. The views of Machhapuchhre and Annapurna South are excellent, which makes it a good first trek for families and older walkers."
+    },
+    {
+      "q": "Why is it called Australian Camp?",
+      "a": "The name is said to come from Australian trekking groups who used to camp on the meadow in the early years of trekking in Nepal. The local name of the place is different, but Australian Camp has become the name used on maps and signs. Today there are lodges rather than tents on the ridge."
+    },
+    {
+      "q": "Can I do Dhampus and Australian Camp in one day?",
+      "a": "Yes, as a long day hike from Pokhara: drive to Kande, walk to Australian Camp, continue to Dhampus and descend to Phedi, about five to six hours of walking. But you miss the sunset and sunrise from the ridge, which are the best part. One or two nights is far more rewarding."
+    },
+    {
+      "q": "Do I need a permit for Australian Camp?",
+      "a": "Yes. Australian Camp and Dhampus are inside the Annapurna Conservation Area, so you need an ACAP permit, NPR 3,000 for foreign nationals at last check, checked at Pothana. Under rules in force since April 2023 a licensed guide is also required. Check current status before you travel."
+    },
+    {
+      "q": "Can children do this trek?",
+      "a": "Yes. Children from about six years old usually manage the short days well, and younger ones can be carried in sections by a porter. The meadow at Australian Camp is a safe open space for children to play, and the lodges are used to families. Bring warm clothes for the evenings."
+    },
+    {
+      "q": "What can I see from Australian Camp?",
+      "a": "On a clear day you see Annapurna South, Hiunchuli, Machhapuchhre, Annapurna II and Annapurna IV, with Lamjung Himal to the east. Sunset and sunrise colour the peaks pink and gold. To the south you look back over the hills toward Pokhara."
+    },
+    {
+      "q": "When is the best time for this trek?",
+      "a": "October to December has the clearest skies. March and April bring rhododendrons in the forest but more haze and afternoon cloud. January and February are cold at night but often very clear. In the monsoon, June to September, views are rare and the forest paths are muddy with leeches."
+    },
+    {
+      "q": "Can I extend this trek?",
+      "a": "Yes. Continue from Dhampus to Landruk and across the Modi Khola to Ghandruk for a 5-night loop, or from Australian Camp onto the Mardi Himal trail toward Forest Camp and High Camp. Both extensions stay in the Annapurna Conservation Area and use the same permit."
+    },
+    {
+      "q": "How much does the Dhampus and Australian Camp trek cost?",
+      "a": "Our 3-night trek starts from USD 350 per person, twin sharing, including transfers from Pokhara, two teahouse nights with meals, a night in a Pokhara hotel, a licensed guide, a porter for two and the ACAP permit. Drinks, showers and tips are extra."
+    }
+  ]
+}

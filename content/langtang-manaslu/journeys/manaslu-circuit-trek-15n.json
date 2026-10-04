@@ -1,0 +1,103 @@
+{
+  "slug": "manaslu-circuit-trek-15n",
+  "title": "Manaslu Circuit trek over the Larkya La",
+  "region": "langtang-manaslu",
+  "kind": "trek",
+  "nights": 15,
+  "themes": ["treks-and-trails", "high-altitude", "villages-and-homestays", "photography"],
+  "grade": "Strenuous",
+  "stops": [
+    {"place": "kathmandu", "nights": 2},
+    {"place": "samagaon", "nights": 9},
+    {"place": "bhimthang", "nights": 4}
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1750,
+  "best_months": [0, 0, 1, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 5106,
+  "meta_description": "Manaslu Circuit trek, 15 nights: Budhi Gandaki gorge, Nubri villages, Samagaon and Samdo, the Larkya La (5,106 m) and Bhimthang, with restricted area permit.",
+  "summary": "Fifteen nights around Manaslu, the world's eighth-highest mountain at 8,163 m: up the Budhi Gandaki gorge from Machha Khola, into the Tibetan Buddhist villages of Nubri, two nights each at Samagaon and Samdo, over the Larkya La at 5,106 m and down to Bhimthang and the Marsyangdi. Restricted area permit, licensed guide and porter included.",
+  "intro": [
+    "The Manaslu Circuit is the trek people choose when they want the scale of the Annapurna Circuit without the road and the crowds. It opened to foreign trekkers only in the early 1990s, and it is still a restricted area: you need a special permit, at least two trekkers in the group and a licensed guide from a registered agency. In return you get two weeks of walking from subtropical gorge to high glacier, through Gurung villages and then Nubri, where people speak a Tibetan dialect and live much as they have for generations.",
+    "We build in two nights at Samagaon and two at Samdo, because the Larkya La at 5,106 m is a serious pass and the jump from Samdo to Dharamsala and over the top is where people get into trouble. The walk ends in the Marsyangdi valley at Dharapani, on the Annapurna Circuit, with a jeep to Besisahar and a drive back to Kathmandu. Permit rules and fees change, so check current status before you travel."
+  ],
+  "story": "The first days are hot and loud. The Budhi Gandaki roars through a gorge of cliffs and waterfalls, and the trail clings to its walls past Hindu and Gurung villages, banana trees and terraced millet. Somewhere past Deng the language changes, prayer flags appear on every house and the valley widens into Nubri, where long mani walls run down the middle of the path. At Lho, Manaslu suddenly stands over the village, white and enormous. Samagaon is a working village of yaks, barley and potato fields below the glacier. Then Samdo, near the old salt routes to Tibet, and the cold stone shelter at Dharamsala. The pass day starts in the dark and ends among pine trees at Bhimthang, with Himlung and Annapurna II catching the evening light.",
+  "highlights": [
+    "Manaslu (8,163 m) towering over Lho and Samagaon",
+    "The Larkya La (5,106 m), one of the great pass crossings of the Nepal Himalaya",
+    "Nubri villages of Lho, Samagaon and Samdo, with Ribung and Pungyen gompas",
+    "The Budhi Gandaki gorge, from hot springs at Tatopani to the gates of Nubri",
+    "Bhimthang's meadow under Himlung and the descent into the Marsyangdi"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive in Kathmandu, permit briefing", "place": "kathmandu", "overnight": "Kathmandu · Kathmandu Guest House", "alt_m": 1400,
+     "move": "", "text": "We meet you at Tribhuvan International Airport and take you to Kathmandu Guest House in Thamel. Your restricted area permit is issued by the Department of Immigration only through a registered agency, so we need your passport and visa details, ideally sent ahead. In the late afternoon your guide comes to the hotel for a briefing: kit check, route, altitude plan and what to buy in Thamel if anything is missing. Dinner is free tonight; Thamel has every kind of food within a few lanes.", "meals": ""},
+    {"day": 2, "title": "Drive to Machha Khola", "place": "", "overnight": "Machha Khola", "alt_m": 930,
+     "move": "≈ 8–10 h drive", "text": "An early start by private jeep west along the Prithvi Highway, then north at Dhading Besi on a rough road to Arughat and up the Budhi Gandaki past Soti Khola to Machha Khola. The last hours are bumpy and dusty, and landslides can force a walk around a blocked section. Machha Khola, whose name means fish river, is a small bazaar of lodges at the trailhead. Dinner is dal bhat with river fish if you are lucky, and the river is loud all night.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Up the gorge to Jagat", "place": "", "overnight": "Jagat", "alt_m": 1340,
+     "move": "≈ 6–7 h walk · +410 m", "text": "The trail follows the Budhi Gandaki upstream, crossing side streams and climbing over spurs on stone steps. At Tatopani, natural hot water spouts beside the trail; a quick wash is welcome. You pass Dobhan and climb above the river to Jagat, a stone-paved village where the Manaslu Conservation Area checkpost inspects your permits. The people here are mostly Gurung and Hindu hill families. Expect heat and humidity in the gorge, even in November, so carry plenty of water.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Philim and on to Deng", "place": "", "overnight": "Deng", "alt_m": 1860,
+     "move": "≈ 6–7 h walk · +520 m", "text": "Climb past Salleri and Sirdibas, where the first mani walls and prayer flags appear, to Philim, a large Gurung village with terraced fields of millet and maize. Beyond Ekle Bhatti the trail to the Tsum Valley branches off to the right; you stay on the main route. The gorge narrows and the path passes through bamboo forest above the river to Deng, a small cluster of lodges. From here upward the valley is Nubri, and the people speak a Tibetan dialect.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Into Nubri: Ghap and Namrung", "place": "", "overnight": "Namrung", "alt_m": 2630,
+     "move": "≈ 6–7 h walk · +770 m", "text": "Cross the Budhi Gandaki and climb past Rana and Bihi Phedi into forest of fir and rhododendron, where langur monkeys are common. At Ghap, carved mani stones line the trail and chortens mark the village entrance; walk to the left of them, as the locals do. The climb continues through forest to Namrung, a village with a permit checkpost and good lodges. On a clear afternoon the first big snow peaks appear above the forest to the north and east.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 6, "title": "Lihi, Sho and Lho under Manaslu", "place": "", "overnight": "Lho", "alt_m": 3180,
+     "move": "≈ 4–5 h walk · +550 m", "text": "Above Namrung the forest opens into farmland of barley and buckwheat around the villages of Lihi and Sho, with houses of stone and timber and long mani walls. Then you turn a corner and Manaslu fills the head of the valley. Lho sits below it, with Ribung Gompa on the hill above the village. Walk up to the gompa in the afternoon for the view and to see the monks; sunset and sunrise on Manaslu from here are the finest of the trek.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 7, "title": "Short climb to Samagaon", "place": "samagaon", "overnight": "Samagaon", "alt_m": 3530,
+     "move": "≈ 4 h walk · +350 m", "text": "A gentle day through forest and meadow past Shyala, a small village with a wide view of Manaslu, Himal Chuli and Peak 29, to Samagaon. Sama, as people call it, is the largest village in Nubri, a working settlement of stone houses, yak pens, barley and potato fields at the foot of the Manaslu glacier. Walk the village lanes, visit the gompa above the houses and drink plenty of water. Above 3,000 m, keep the gain small and the pace slow.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 8, "title": "Acclimatisation day at Samagaon", "place": "samagaon", "overnight": "Samagaon", "alt_m": 3530,
+     "move": "≈ 4–6 h return walk · +500 to +1,200 m", "text": "Climb high and sleep low. Choose between Pungyen Gompa, a half-day walk to a monastery under the east face of Manaslu, or a longer, steeper climb toward Manaslu Base Camp, turning around at a sensible height. Pungyen was destroyed by an avalanche in the 1950s, which villagers blamed on Japanese climbers attempting the mountain, before the Japanese first ascent of 1956. Back in Sama, rest, eat well and walk to Birendra Tal, the glacial lake just below the village.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 9, "title": "Up the valley to Samdo", "place": "", "overnight": "Samdo", "alt_m": 3875,
+     "move": "≈ 3–4 h walk · +345 m", "text": "Follow the Budhi Gandaki, now a small stream, up a wide valley of juniper, mani walls and yak pastures to Samdo, the highest permanent village on the route, near the old trade routes into Tibet. Families here keep yaks and still have strong links across the border. The short walk is deliberate. Spend the afternoon resting, watching the yaks come home and noticing how much harder a staircase feels at this height. Keep drinking water and keep evenings quiet.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 10, "title": "Acclimatisation day at Samdo", "place": "", "overnight": "Samdo", "alt_m": 3875,
+     "move": "≈ 3–4 h return walk · +500 m", "text": "A second rest day before the pass. Walk up the ridge behind Samdo to around 4,300–4,400 m for views of Samdo Peak and the glaciers, or follow the valley a little way toward the trail that once carried salt and wool between Nubri and Tibet. Your guide checks your oxygen levels and how you are sleeping. This day is the single best defence against altitude sickness on the circuit, and we do not drop it to save time.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 11, "title": "To Dharamsala at the foot of the pass", "place": "", "overnight": "Dharamsala (Larkya Phedi)", "alt_m": 4460,
+     "move": "≈ 3–4 h walk · +585 m", "text": "Cross the stream below Samdo and climb steadily past the remains of Larkya Bazaar, an old seasonal trading post, to Dharamsala, also called Larkya Phedi. This is a cold, basic stop: a stone lodge with dormitory or tent accommodation and a busy dining room. Eat early, prepare your kit for the morning and go to bed by 7 pm. If anyone in the group shows serious altitude symptoms here, they go down to Samdo, not over the pass.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 12, "title": "Over the Larkya La to Bhimthang", "place": "bhimthang", "overnight": "Bhimthang", "alt_m": 3720,
+     "move": "≈ 8–10 h walk · +646 m / −1,386 m", "text": "Leave around 4 am by headtorch, climbing moraine and false summits to the Larkya La at 5,106 m, marked by prayer flags. The view takes in Himlung Himal, Cheo Himal, Kang Guru and Annapurna II. The descent is long, steep and often icy at the top, so microspikes are useful in late season. Below, the trail eases along moraine into the valley of Bhimthang, a meadow with lodges and a view back to Manaslu's north side. This is the toughest and best day of the trek.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 13, "title": "Down through forest to Tilije", "place": "", "overnight": "Tilije", "alt_m": 2300,
+     "move": "≈ 5–6 h walk · −1,420 m", "text": "Cross the Dudh Khola and descend through rhododendron and pine past Karche to Gho, then on through farmland to Tilije, a Gurung village with stone lanes, terraced fields and orchards. After the pass, the thicker air and the warmth feel like a reward. You will notice fields of maize and buckwheat and the first proper bathrooms in days. Tonight is a good chance to thank your porter and guide over a long dinner.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 14, "title": "Dharapani and jeep to Besisahar", "place": "", "overnight": "Besisahar", "alt_m": 760,
+     "move": "≈ 2–3 h walk · ≈ 4–5 h jeep", "text": "A short walk brings you to Dharapani on the Marsyangdi, where the Manaslu trail joins the Annapurna Circuit and the ACAP checkpost stamps your permit. From here a shared or private jeep follows the rough road down the Marsyangdi valley through Tal, Chamje and Syange to Besisahar, the headquarters of Lamjung district. The road is narrow and the drops are long, but drivers here do it daily. A hot shower and a proper bed in Besisahar close the trek.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 15, "title": "Drive back to Kathmandu", "place": "kathmandu", "overnight": "Kathmandu · Kathmandu Guest House", "alt_m": 1400,
+     "move": "≈ 175 km · 6–7 h drive", "text": "A private car takes you down to Dumre on the Prithvi Highway and east along the Trishuli river to Kathmandu, with a lunch stop at one of the riverside restaurants. Traffic near Kathmandu can be slow, so we leave after breakfast. Back at Kathmandu Guest House, you have the evening for a shower, a walk through Thamel and a celebration dinner. If you would rather go to Pokhara instead, the drive from Besisahar is shorter, at around four hours.", "meals": "Breakfast"},
+    {"day": 16, "title": "Trip ends in Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "", "text": "The trek ends after breakfast. We transfer you to Tribhuvan International Airport, allowing three hours before an international flight. If you have extra days, the Kathmandu valley's heritage cities of Patan and Bhaktapur, a few nights in Chitwan or a slow week in Pokhara pair well with a hard trek. We can also arrange a massage in Thamel for tired legs. Your restricted area permit is kept by the agency as a record; ask if you would like a copy.", "meals": "Breakfast"}
+  ],
+  "stays": ["kathmandu-guest-house"],
+  "includes": [
+    "Airport pickup and drop in Kathmandu",
+    "Two nights at Kathmandu Guest House with breakfast",
+    "Private jeep Kathmandu–Machha Khola, jeep Dharapani–Besisahar and car Besisahar–Kathmandu",
+    "Licensed trekking guide and one porter for every two trekkers, with their wages, food, insurance and lodging",
+    "Manaslu restricted area permit, Manaslu Conservation Area Project permit and Annapurna Conservation Area Project permit",
+    "Thirteen nights in teahouse lodges, twin sharing where available, with three meals a day on trek",
+    "First-aid kit and pulse oximeter carried by your guide"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Travel insurance covering trekking to 5,200 m and helicopter evacuation",
+    "Hot showers, battery charging and wifi at lodges",
+    "Drinks, snacks and bottled water",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Manaslu is a restricted area: you need a special permit, at least two trekkers and a licensed guide through a registered agency; check current status before you travel.",
+    "The restricted area permit has been charged per person per week in USD, higher from September to November; check current status before you travel.",
+    "The Larkya La can be closed by snow from December to February and after autumn storms; we build in one spare day if you ask.",
+    "There are no ATMs after Arughat; carry enough Nepali rupees for the whole trek.",
+    "Dharamsala is basic and very cold; bring a sleeping bag rated to about −15 °C for October to April."
+  ],
+  "faqs": [
+    {"q": "How much is the Manaslu restricted area permit?", "a": "As we understand the current rules, the permit costs USD 100 per person for the first seven days from September to November, then USD 15 per day, and USD 75 for seven days from December to August, then USD 10 per day. You also need the MCAP and ACAP conservation permits. Rates change, so check current status before you travel."},
+    {"q": "Can I trek the Manaslu Circuit alone?", "a": "No. Manaslu is a restricted area, and permits are issued only to groups of at least two foreign trekkers travelling with a licensed guide through a registered Nepali agency. If you are travelling solo, we can sometimes pair you with another trekker on the same dates for permit purposes, and you can still walk at your own pace. Check current status before you travel."},
+    {"q": "How hard is the Manaslu Circuit trek?", "a": "It is strenuous. You walk for 12 days, often 6 to 7 hours, and cross the Larkya La at 5,106 m on a day of 8 to 10 hours. Trails are rough in the gorge and icy near the pass late in the season. You should be fit, have done multi-day hikes before and train for two to three months with hill walks."},
+    {"q": "When is the best time for the Manaslu Circuit?", "a": "October and November are the most reliable months, with clear skies and a usually open pass. April is the best spring month; March can still have deep snow on the pass. December is possible but cold and storms can close the Larkya La. The monsoon from June to August brings landslides in the gorge and leeches."},
+    {"q": "Is the Manaslu Circuit better than the Annapurna Circuit?", "a": "It is quieter and wilder. Manaslu has no road above the gorge, fewer lodges and stronger Tibetan Buddhist culture in Nubri, while the Annapurna Circuit now has roads along much of its length. The Larkya La is lower than the Thorong La but more remote. Annapurna has more comfortable lodges and easier logistics."},
+    {"q": "What are the lodges like on the Manaslu Circuit?", "a": "Lodges have improved a lot. Most villages have teahouses with twin rooms, a dining room with a stove, and solar hot showers in many places. Toilets are often shared. Dharamsala below the pass is the exception: basic, crowded in peak season and very cold, sometimes with dormitory rooms or tents. Menus are simpler than on the Everest trail."},
+    {"q": "How high is Manaslu and who first climbed it?", "a": "Manaslu is 8,163 m high, the eighth-highest mountain in the world. It was first climbed on 9 May 1956 by Toshio Imanishi of Japan and Gyalzen Norbu Sherpa, members of a Japanese expedition. The name is usually explained as coming from the Sanskrit word manasa, meaning intellect or soul."},
+    {"q": "Can I combine the Manaslu Circuit with the Tsum Valley?", "a": "Yes. The Tsum Valley trail leaves the main Manaslu route near Ekle Bhatti and Lokpa, and adds about five to six days to reach Chhokangparo, Nile and Mu Gompa before you rejoin the circuit. Tsum also helps acclimatisation before the Larkya La. See our 20-night Manaslu and Tsum Valley trek."},
+    {"q": "What happens if someone gets altitude sickness on the Manaslu Circuit?", "a": "They go down. Your guide watches for headache, nausea, breathlessness at rest and confusion, and checks oxygen levels daily. Mild symptoms mean a rest day; serious ones mean descent at once, toward Samagaon or lower, and if needed a helicopter evacuation, which must be covered by your insurance. That is why we include two acclimatisation days."}
+  ]
+}

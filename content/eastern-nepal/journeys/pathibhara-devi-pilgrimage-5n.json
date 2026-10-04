@@ -1,0 +1,77 @@
+{
+  "slug": "pathibhara-devi-pilgrimage-5n",
+  "title": "Pathibhara Devi Pilgrimage",
+  "region": "eastern-nepal",
+  "kind": "pilgrimage",
+  "nights": 5,
+  "themes": ["spiritual-and-pilgrimage", "treks-and-trails", "photography", "villages-and-homestays"],
+  "grade": "Moderate",
+  "stops": [
+    {"place": "ilam", "nights": 1},
+    {"place": "pathibhara", "nights": 2},
+    {"place": "ilam", "nights": 1},
+    {"place": "kanyam", "nights": 1}
+  ],
+  "start": "Kathmandu (morning flight to Bhadrapur)",
+  "end": "Kathmandu",
+  "price_from_usd": 950,
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 3794,
+  "meta_description": "Pathibhara Devi pilgrimage, 5 nights: the Mechi Highway to Taplejung, a stepped climb to the hilltop shrine at 3,794 m, and Ilam and Kanyam tea gardens.",
+  "summary": "Five nights to Pathibhara Devi, the hilltop shrine above Taplejung at 3,794 m that Limbu people call Mukkumlung. Drive the Mechi Highway through Ilam and Panchthar, climb the stepped trail with pilgrims for darshan and a view of Kanchenjunga, then come down to the tea gardens of Ilam and Kanyam. Private jeep and licensed guide.",
+  "intro": [
+    "Pathibhara Devi is one of the most visited shrines in eastern Nepal. Families come from across the country and from Sikkim and Darjeeling to climb to the hilltop above Taplejung, ring the bells, tie red cloth and ask the goddess for a child, a job, a safe journey or a good harvest. For the Limbu people the same hill is Mukkumlung, a sacred place in their own Kirat tradition. On a clear day the summit looks straight at Kanchenjunga.",
+    "We plan this as a pilgrimage first and a sightseeing trip second. The road days are long, so we break them with nights in Ilam, and we give the climb a full day from Phungling with an early start. A guide who knows the temple and its customs walks with you, explains what to bring and what to do, and makes sure you are welcome whether you come to worship or simply to watch and learn."
+  ],
+  "story": "The trip climbs in two waves. The first is the road: from the rice of Jhapa up through tea at Kanyam and Ilam, then north on the Mechi Highway through Panchthar, where Limbu farmhouses stand among orange trees and maize, to Phungling high above the Tamor. The second is on foot, before dawn, on a stone stair through forest of rhododendron and fir, with tea shops and bell-sellers along the way and families climbing with offerings in their hands. At the top the air is thin and bright, the shrine is wrapped in bells and red cloth, and Kanchenjunga stands to the north-east like a wall. Then the long road home, back to tea and warm evenings.",
+  "highlights": [
+    "Darshan at Pathibhara Devi, 3,794 m, with Kanchenjunga on the skyline",
+    "The stepped forest trail with pilgrims, bell-sellers and tea shops",
+    "Phungling bazaar and the Limbu villages of Taplejung and Panchthar",
+    "Tea garden walks in Ilam and sunset at Kanyam",
+    "A guide who explains the temple's customs and the hill's Limbu name, Mukkumlung"
+  ],
+  "days": [
+    {"day": 1, "title": "Fly to Bhadrapur, drive to Ilam", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 50 min flight · ≈ 100 km · 3–4 h drive", "text": "A morning flight from Kathmandu east to Bhadrapur, then a drive across the Jhapa plains and up the Mechi Highway through Kanyam's tea slopes to Ilam bazaar. Check in and walk into the tea estate below town in the late afternoon. Over dinner your guide explains the pilgrimage: what pilgrims bring, how the temple is laid out, the customs to follow, and the plan for the long climb. If you would like to bring offerings, we can buy them in Ilam or in Phungling.", "meals": "Breakfast, Dinner"},
+    {"day": 2, "title": "Drive north to Phungling", "place": "pathibhara", "overnight": "Taplejung (Phungling)", "alt_m": 1820, "move": "≈ 7–8 h by jeep", "text": "A long road day north through Panchthar, with lunch in Phidim. The road follows high ridges and dips into valleys of orange trees, maize and cardamom, past Limbu farmhouses with carved windows and stone courtyards. Phungling, the bazaar town and district headquarters of Taplejung, sits high above the Tamor river. In the evening walk the main street, where shops sell bells, red cloth and incense for Pathibhara, and dine early. Tomorrow starts before dawn.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Climb to Pathibhara Devi", "place": "pathibhara", "overnight": "Taplejung (Phungling)", "alt_m": 1820, "move": "jeep to the road head · ≈ 3–4 h up · ≈ 2–3 h down", "text": "We leave Phungling in the dark by jeep for the road head below the hill, then walk up a steep stepped trail through rhododendron and fir forest, with tea shops on the way. The shrine stands on the summit at 3,794 m, hung with thousands of bells. Your guide shows you how pilgrims circle and make offerings; you are welcome to join or to watch quietly. On a clear morning Kanchenjunga and Jannu stand to the north-east. After time at the top we walk down and drive back to Phungling, tired and happy.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Back down the Mechi Highway to Ilam", "place": "ilam", "overnight": "Ilam", "alt_m": 1200, "move": "≈ 7–8 h by jeep", "text": "A long but beautiful drive back south through Panchthar to Ilam, with views behind you of the high peaks on a clear morning. Stop for tea in Phidim and for photographs on the ridges. Your legs will remember yesterday's steps, so take the evening easy: a short walk in the tea garden, a hot shower and a plate of momo in the bazaar. If you want to light a lamp at a local shrine to finish the pilgrimage, your guide can take you to a small temple in town.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Ilam tea and Kanyam", "place": "kanyam", "overnight": "Kanyam", "alt_m": 1570, "move": "≈ 35 km · 1–1.5 h drive", "text": "A slow morning in Ilam with a visit to a small orthodox tea factory, where the leaf is withered, rolled and dried, followed by a tasting. After lunch we drive along the ridge past Fikkal to Kanyam, a broad slope of clipped tea bushes at about 1,570 m. The evening is free to walk among the rows as the mist rises from the plains below. Dinner is home-style, and your guide will help you choose tea to take home.", "meals": "Breakfast, Dinner"},
+    {"day": 6, "title": "Drive to Bhadrapur, fly to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400, "move": "≈ 2–2.5 h drive · ≈ 50 min flight", "text": "After sunrise on the tea slopes we drive down the Mechi Highway to the plains and catch the flight back to Kathmandu. Sit on the right for the mountains if the sky is clear; somewhere in that long white line is the hill you climbed. Our driver meets you in Kathmandu and takes you to your hotel. If you have a spare day in the city, the Pashupatinath and Guhyeshwari temples make a fitting close to a pilgrimage in the east.", "meals": "Breakfast"}
+  ],
+  "stays": [],
+  "includes": [
+    "Kathmandu–Bhadrapur–Kathmandu flights",
+    "Private car and 4WD jeep with driver for all transfers",
+    "Licensed English-speaking guide who knows the temple's customs",
+    "Five nights in simple hotels in Ilam, Phungling and Kanyam, twin sharing",
+    "Meals as listed and a tea factory visit",
+    "Kathmandu airport transfers"
+  ],
+  "excludes": [
+    "International flights, Nepal visa fees and travel insurance",
+    "Hotel nights in Kathmandu",
+    "Offerings at the temple, drinks and meals not listed",
+    "Tips for guide and driver",
+    "Porter or pony for the climb, available on request"
+  ],
+  "good_to_know": [
+    "The climb is steep: about 3–4 hours up and 2–3 hours down from the road head, reaching 3,794 m.",
+    "Pathibhara is very busy on Saturdays, at Dashain and on other festival days; we avoid the busiest dates if you prefer a quieter visit.",
+    "A cable car to the summit has been proposed and contested by local groups; check current status before you travel.",
+    "Remove shoes and leather items where asked, and ask before photographing worshippers.",
+    "Winter mornings at the top are below freezing, and snow can fall from December to February."
+  ],
+  "faqs": [
+    {"q": "How long is the walk to Pathibhara Devi?", "a": "From the road head below the hill, the stepped trail takes about 3–4 hours up and 2–3 hours down for most fit walkers. It is steep and at altitude, reaching 3,794 m, so take it slowly. Tea shops along the way sell drinks and snacks. We start before dawn from Phungling so you reach the top in the clearer morning hours."},
+    {"q": "Can non-Hindus visit Pathibhara temple?", "a": "Yes. Visitors of any faith are welcome to climb to Pathibhara and to watch the worship respectfully. Follow the customs your guide explains: remove shoes where asked, walk clockwise, avoid leather near the shrine and ask before photographing people at prayer. Many foreign visitors come as much for the walk and the views of Kanchenjunga as for the temple."},
+    {"q": "What does Mukkumlung mean?", "a": "Mukkumlung is the Limbu name for the Pathibhara hill, which is sacred in the Kirat tradition of the Limbu people as well as in Hindu worship of the goddess. Your guide can explain how the two traditions meet here. Using the Limbu name when you talk to local people is a small sign of respect for the community whose land this is."},
+    {"q": "How do I get to Pathibhara from Kathmandu?", "a": "Most visitors fly from Kathmandu to Bhadrapur, about 50 minutes, then drive through Ilam and Panchthar to Phungling in Taplejung, which takes a long day or two shorter ones. Flights to Suketar airport above Phungling have run at times but are irregular. From Phungling a road climbs to the foot of the hill and the last part is on foot."},
+    {"q": "When is the best time to visit Pathibhara?", "a": "October and November bring the clearest mountain views, and March to April is pleasant with rhododendrons in the forest. The temple is open all year and very busy at Dashain and other festivals. In winter the summit can be icy and snowy, and in the monsoon the trail is wet and views are poor. Weekdays are quieter than Saturdays."},
+    {"q": "Is there accommodation near Pathibhara temple?", "a": "Yes, there are simple pilgrim lodges and tea-house rooms near the road head below the hill, as well as small hotels in Phungling bazaar. The lodges near the hill are basic, with shared toilets and thick blankets, and fill quickly on festival days. We base this trip in Phungling and drive to the road head before dawn."},
+    {"q": "Can I see Kanchenjunga from Pathibhara?", "a": "Yes, on a clear morning Kanchenjunga and its neighbours, including Jannu, stand on the north-eastern skyline from the summit of Pathibhara. The view is clearest from October to December. Cloud often builds by late morning, which is one reason we start the climb before dawn and aim to reach the top early."},
+    {"q": "Is a porter or pony available for the climb?", "a": "Yes, local porters can carry your bag, and on some days ponies or horses are available for part of the trail for those who find the steps hard. They are arranged locally at the road head and paid directly. Tell us in advance if you have knee problems or other concerns, and we will plan the day around your pace."},
+    {"q": "How much does the Pathibhara pilgrimage cost?", "a": "Our five-night trip is from USD 950 per person, twin sharing. That includes return flights to Bhadrapur, a private car and jeep for all road days, a licensed guide, five nights in simple hotels in Ilam, Phungling and Kanyam, a tea factory visit and the meals listed. Temple offerings, porters and tips are extra."}
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "slug": "nepal-buddhist-grand-tour-12n",
+  "title": "Nepal Buddhist Grand Tour",
+  "region": "lumbini",
+  "kind": "pilgrimage",
+  "nights": 12,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "photography",
+    "slow-and-wellness"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "boudhanath",
+      "nights": 2
+    },
+    {
+      "place": "dhulikhel",
+      "nights": 1
+    },
+    {
+      "place": "lumbini",
+      "nights": 3
+    },
+    {
+      "place": "tansen",
+      "nights": 1
+    },
+    {
+      "place": "pokhara",
+      "nights": 2
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 2350,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1750,
+  "meta_description": "Nepal Buddhist grand tour, 12 nights: Swayambhunath, Boudhanath, Namo Buddha, Lumbini and Kapilavastu, Tansen and Pokhara, with a licensed guide.",
+  "summary": "Twelve nights through every layer of Buddhism in Nepal: the Newar courtyards of Patan, Swayambhunath, two nights beside Boudhanath, the hilltop monastery of Namo Buddha, three nights in Lumbini with Tilaurakot and Devdaha, a night in Tansen and two in Pokhara among Tibetan settlements and the Peace Pagoda. Comfortable hotels throughout.",
+  "intro": [
+    "No other country holds as much of the Buddhist story in so small a space. Nepal has the birthplace and the town of the Buddha's youth on its southern plains, a living Newar Buddhist tradition in the Kathmandu Valley that kept Sanskrit texts when they were lost in India, and Tibetan monasteries in the valley, in the hills and around Pokhara, many of them founded by refugees after 1959. This journey sees all of it, at a pace that leaves time to sit.",
+    "The first five nights are in and around the Kathmandu Valley: Swayambhunath and Patan, Pharping's caves, two nights beside Boudhanath with a visit to Kopan Monastery, and a night at Dhulikhel for the Jataka story of Namo Buddha. Then three nights in Lumbini with the Kapilavastu sites, and the long climb of the Siddhartha Highway through Tansen to Pokhara. We use Hotel Shanker, the Hyatt Regency at Boudhanath, Dwarika's Resort Dhulikhel, Lumbini Hokke Hotel, Hotel Srinagar and Temple Tree Resort."
+  ],
+  "story": "You start where Buddhism in Nepal is oldest as a living practice, in the Newar courtyards of Patan and on the hill of Swayambhu, among householder priests and family shrines. Then the Tibetan world: monks debating in the courtyards around Boudhanath, butter lamps by the thousand, the long ridge walk to Namo Buddha, where a prince is said to have given his body to a starving tigress. On day six the land falls away to the plains and the story goes back to the beginning, to Lumbini and the ruined walls of Tilaurakot. From there you climb north through Magar hill country to Pokhara, where Tibetan families who crossed the Himalaya in the 1960s still weave carpets beneath Machhapuchhre. Thirteen days, and the whole arc.",
+  "highlights": [
+    "Swayambhunath at dawn and the Newar Buddhist courtyards of Patan",
+    "Two nights beside Boudhanath, with Kopan Monastery and the old Chabahil stupa",
+    "Namo Buddha on its ridge, site of the Jataka story of the prince and the tigress",
+    "Three nights in Lumbini with Tilaurakot, Kudan, Niglihawa and Devdaha",
+    "Tansen's hill bazaar, Pokhara's Tibetan settlements and the World Peace Pagoda"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 20–30 min drive",
+      "text": "We meet you at Tribhuvan International Airport and drive you to Hotel Shanker, a former Rana palace in Lazimpat with a large garden. Your guide joins you in the late afternoon to go over the journey. If you have energy, walk to Kathesimbhu, a small copy of Swayambhunath tucked into a courtyard near Thamel, where Newar families light evening lamps. Dinner is your own tonight; your guide leaves a short list of good places within walking distance, from Newar kitchens to quiet garden restaurants.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Swayambhunath and Buddhist Patan",
+      "place": "swayambhunath",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 15 km in total by car",
+      "text": "Climb the eastern stairway of Swayambhunath at dawn, when Newar and Tibetan pilgrims circle the dome. The Swayambhu Purana tells that the valley was a lake and a self-born light appeared on a lotus here. After breakfast, drive to Patan for the Golden Temple, Kwa Bahal, a Newar monastery courtyard still run by its community, and the terracotta Mahabouddha temple. Your guide explains bahal and bahil, the courtyard monasteries where Newar Buddhist families have practised for centuries.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Pharping caves, check in at Boudhanath",
+      "place": "pharping",
+      "overnight": "Boudhanath",
+      "alt_m": 1400,
+      "move": "≈ 20 km to Pharping · 1 h; ≈ 30 km to Boudhanath · 1.5 h",
+      "text": "Drive to Pharping on the southern rim of the valley and climb to the cave where Padmasambhava, Guru Rinpoche, is said to have meditated, with what pilgrims revere as his handprint in the rock. Visit one of the monasteries around it. After lunch, cross the city to the Hyatt Regency, a short walk from Boudhanath. Join the kora round the great stupa at dusk with Tibetan families, monks and visitors from across the Himalaya.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Kopan Monastery and Chabahil",
+      "place": "boudhanath",
+      "overnight": "Boudhanath",
+      "alt_m": 1400,
+      "move": "≈ 12 km in total by car",
+      "text": "Walk the kora at sunrise, then drive up the hill north of Boudhanath to Kopan Monastery, known worldwide for its courses on Tibetan Buddhism for foreigners. Visitors are welcome in the grounds and the main temple at set hours. Return via Chabahil, where a smaller stupa is linked by local tradition to Charumati, said to be a daughter of the emperor Ashoka. Afternoon free in Boudhanath, where thangka painters work in open studios around the square.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Namo Buddha, overnight in Dhulikhel",
+      "place": "dhulikhel",
+      "overnight": "Dhulikhel",
+      "alt_m": 1550,
+      "move": "≈ 40 km to Namo Buddha · 2 h; ≈ 15 km to Dhulikhel · 45 min",
+      "text": "Drive east out of the valley to Namo Buddha on its forested ridge. A stupa marks the place where, in a Jataka story, Prince Mahasattva gave his body to a starving tigress and her cubs, and the Thrangu Tashi Yangtse monastery above it is home to many young monks. Walk the ridge trail among prayer flags. Continue to Dwarika's Resort Dhulikhel for the night, with views to the Himalaya from Langtang to Gauri Shankar on clear days.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Fly to Bhairahawa, Lumbini at dusk",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 30 km · 1.5 h drive · then ≈ 35 min flight · ≈ 22 km drive",
+      "text": "Watch sunrise over the Himalaya, then drive to Kathmandu airport for the flight to Bhairahawa. Check in at the Lumbini Hokke Hotel and rest. In the late afternoon, walk into the Sacred Garden: the Maya Devi Temple over its excavated brick shrines, the marker stone, the Ashoka pillar of 249 BCE whose inscription names this as the Buddha's birthplace, and the Puskarini pond. Stay for the evening lamps. The temperature change between the hills and the plains can be 15 °C or more, so keep light clothes in your hand luggage.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 7,
+      "title": "Lumbini's monastic zones",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 10 km by bicycle or e-rickshaw",
+      "text": "Return to the garden at dawn, then spend the morning in the monastic zones. Compare the Tibetan murals of the West zone's Drigung Kagyud stupa with what you saw at Boudhanath, and the Theravada simplicity of the Thai and Myanmar monasteries in the East zone. Rest through the heat. In the afternoon visit the Lumbini Museum and the World Peace Pagoda, and look for sarus cranes in the wetlands nearby.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 8,
+      "title": "Tilaurakot and the Kapilavastu sites",
+      "place": "tilaurakot",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 90 km round trip · 3 h driving in total",
+      "text": "Drive west to Tilaurakot, the walled site Nepal identifies as Kapilavastu, and walk its brick ramparts, moat and eastern gate, through which tradition says Siddhartha left home at 29. Visit the Kapilavastu Museum, then Kudan, linked to his return as the Buddha, and the Ashoka pillar at Niglihawa, whose inscription records a stupa of the earlier Buddha Konakamana. Your guide also explains India's competing claim for Piprahwa. Back to Lumbini in the evening.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 9,
+      "title": "Devdaha and up to Tansen",
+      "place": "tansen",
+      "overnight": "Tansen",
+      "alt_m": 1350,
+      "move": "≈ 130 km · 4–4.5 h drive with stops",
+      "text": "Drive east to Devdaha, beyond Butwal, the home of the Koliya clan of the Buddha's mother Maya Devi and his aunt Prajapati Gautami, who raised him and became the first Buddhist nun. Then climb the Siddhartha Highway to Tansen and check in at Hotel Srinagar on the ridge. Late afternoon walk in the steep bazaar to the Amar Narayan temple and the great gate of the old palace, and look in on a dhaka weaving workshop.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 10,
+      "title": "Across the Kali Gandaki to Pokhara",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 120 km · 5–6 h drive",
+      "text": "Catch sunrise from Shreenagar Danda, then drive north, dropping to the Kali Gandaki at Ramdi and climbing through the terraced hills of Syangja. Machhapuchhre comes into view as you near Pokhara. Check in at Temple Tree Resort in Lakeside and walk along Phewa Lake in the evening, when families gather on the shore and boats come in. Stop for tea at a roadside stall in Syangja, where the bazaars sell oranges in winter and fresh cucumbers in spring.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 11,
+      "title": "Tibetan Pokhara and the Peace Pagoda",
+      "place": "pokhara",
+      "overnight": "Pokhara",
+      "alt_m": 820,
+      "move": "≈ 30 km by car · boat · ≈ 1 h walk",
+      "text": "Drive to Sarangkot for sunrise over Dhaulagiri and the Annapurnas. After breakfast, visit a Tibetan settlement founded in the 1960s, with its monastery and carpet weaving workshop, and hear how families walked over the Himalaya to get here. In the afternoon, row across Phewa Lake and walk up to the World Peace Pagoda, built by Nipponzan Myohoji, the same Japanese order that built the pagoda you saw in Lumbini. Evening is free in Lakeside.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 12,
+      "title": "Fly to Kathmandu, a last evening",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 25 min flight",
+      "text": "Fly back to Kathmandu, with views of the Himalaya on the left side of the plane on a clear morning, and check in again at Hotel Shanker. The afternoon is free for shopping in Boudhanath or Patan for singing bowls, thangkas or incense, or simply to rest. In the evening we can book a farewell Newar dinner of bara, choila and beaten rice. Your guide says goodbye this evening; your driver will collect you for the airport tomorrow.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 13,
+      "title": "Depart Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 20–30 min drive",
+      "text": "Free until your transfer to Tribhuvan International Airport, timed to your flight. If you have a late flight, a quiet hour in the Garden of Dreams or a last visit to Kathesimbhu fills the morning gently. We stay in touch until you are checked in. Allow about three hours before an international departure; the airport is close to Lazimpat, but Kathmandu traffic at rush hour is slow and hard to predict, and security queues can be long.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu",
+    "hyatt-regency-kathmandu",
+    "dwarikas-resort-dhulikhel",
+    "lumbini-hokke-hotel",
+    "hotel-srinagar-tansen",
+    "temple-tree-resort"
+  ],
+  "includes": [
+    "12 nights twin sharing with breakfast at the hotels named, plus dinner at Dhulikhel",
+    "Economy flights Kathmandu–Bhairahawa and Pokhara–Kathmandu",
+    "Private car with driver for all transfers, sightseeing and the Lumbini–Tansen–Pokhara drive",
+    "Licensed English-speaking guide on days 2–12",
+    "Entry tickets at Swayambhunath, Patan, Boudhanath, the Sacred Garden and Tilaurakot",
+    "Lunch on the Tilaurakot and Devdaha days, and the Phewa Lake boat"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Lunches and dinners not listed",
+    "Donations, puja offerings and teacher dana",
+    "Tips for guide and drivers",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Walk clockwise around stupas and turn prayer wheels with your right hand.",
+    "Kopan Monastery's visiting hours and courses change; check current status before you travel.",
+    "Lumbini is much hotter than the hills; from March pack light clothes for days 6–9.",
+    "December and January fog can delay the Bhairahawa flight; we build a buffer in the plan.",
+    "The Tansen–Pokhara road is winding; bring motion-sickness tablets if you need them."
+  ],
+  "faqs": [
+    {
+      "q": "How many days do I need for a Buddhist tour of Nepal?",
+      "a": "Twelve to fourteen days covers the main sites without rushing: Swayambhunath, Boudhanath, Pharping and Namo Buddha in and near the Kathmandu Valley, Lumbini and the Kapilavastu sites on the plains, and Pokhara's Tibetan settlements. With a week you can do the valley and Lumbini; our seven-night Buddha's Nepal journey does exactly that."
+    },
+    {
+      "q": "What is Namo Buddha?",
+      "a": "Namo Buddha is a hilltop pilgrimage site about 40 km south-east of Kathmandu. A stupa marks the place where, in a Jataka story of the Buddha's earlier lives, Prince Mahasattva gave his body to feed a starving tigress and her cubs. Above it stands the Thrangu Tashi Yangtse monastery. It is one of the most important Tibetan Buddhist pilgrimage sites in Nepal."
+    },
+    {
+      "q": "What is Kopan Monastery?",
+      "a": "Kopan is a Tibetan Buddhist monastery on a hill north of Boudhanath, founded around 1970 and known for its meditation and introductory courses for foreign visitors. Day visitors can see the grounds and main temple at set hours. Courses need booking directly with the monastery; check current status before you travel."
+    },
+    {
+      "q": "Is this tour suitable for non-Buddhists?",
+      "a": "Yes. Most of our guests on this journey come for history, art, landscape and calm rather than as practising Buddhists. Your guide explains what you see without preaching, and you join chanting or rituals only if you wish. Dressing modestly and following simple customs at stupas and monasteries is all that is expected."
+    },
+    {
+      "q": "What is the hardest part of the trip physically?",
+      "a": "Nothing on the route is a trek. The steepest efforts are the stairway at Swayambhunath, the steps at Pharping, the ridge walk at Namo Buddha and the lanes in Tansen, each under an hour. The real challenges are heat in Lumbini from March and two long but scenic drives between Lumbini, Tansen and Pokhara."
+    },
+    {
+      "q": "Why do you include both Tibetan and Newar Buddhist sites?",
+      "a": "Because Nepal's Buddhism is not one thing. The Newar tradition of the Kathmandu Valley is among the oldest living forms of Buddhism in South Asia, with married priests and Sanskrit texts. Tibetan Buddhism came with Himalayan communities and, after 1959, with refugees. Seeing both, plus the Theravada monasteries at Lumbini, shows how the teaching spread and changed."
+    },
+    {
+      "q": "Can we add a meditation course to this tour?",
+      "a": "Yes. Kopan Monastery runs short and longer courses in Tibetan Buddhism, and Lumbini has centres offering ten-day residential meditation courses. Both need booking directly and fill quickly in winter. Alternatively, we can add our own guided sessions with an experienced teacher in Lumbini. Ask us and we will adjust the dates and price."
+    },
+    {
+      "q": "What are the hotels like?",
+      "a": "Comfortable and characterful. Hotel Shanker is a converted Rana palace, the Hyatt Regency is a large hotel near Boudhanath, Dwarika's Resort Dhulikhel is a wellness resort with Himalayan views, Lumbini Hokke Hotel is a quiet Japanese-style hotel, Hotel Srinagar sits on Tansen's ridge, and Temple Tree Resort is in Pokhara's Lakeside."
+    },
+    {
+      "q": "When is the best time for this tour?",
+      "a": "October to March is best: clear mountain views in Kathmandu, Dhulikhel and Pokhara, and comfortable warmth in Lumbini. October and November give the sharpest views; December and January bring foggy mornings on the plains. April and May are possible but hot in Lumbini. Buddha Jayanti, in April or May, is a special time to be in Lumbini."
+    }
+  ]
+}

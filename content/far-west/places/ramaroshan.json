@@ -1,0 +1,171 @@
+{
+  "slug": "ramaroshan",
+  "name": "Ramaroshan",
+  "name_ne": "रामारोशन",
+  "local_name": "Barha Banda, Athara Khanda (Nepali: twelve lakes, eighteen meadows)",
+  "region": "far-west",
+  "kind": "lake",
+  "wiki": "Ramaroshan Rural Municipality",
+  "image_query": "Ramaroshan lake Achham",
+  "lat": 29.232,
+  "lng": 81.469,
+  "altitude_m": 2500,
+  "tagline": "Twelve lakes and eighteen meadows in the hills of Achham",
+  "meta_description": "Ramaroshan guide: the twelve lakes and eighteen meadows of Achham at 2,500 m, Jigale lake, Kinimini patan, rhododendron forest and views of Api and Saipal.",
+  "summary": "Ramaroshan is a high plateau in Achham district at about 2,500 m, known locally as the land of twelve lakes and eighteen meadows. Jigale, a Y-shaped lake, is the largest; Kinimini is the biggest meadow. Rhododendron forest, danphe pheasants and views of Api and Saipal make it the far west's rising nature destination.",
+  "intro": [
+    "In Achham people describe Ramaroshan in one line: barha banda, athara khanda, twelve lakes and eighteen meadows. It is a plateau of forest, grassland and small lakes at around 2,500 m in Ramaroshan rural municipality, hidden from the main roads but well known across Sudurpashchim as a place for picnics, pilgrimage and, increasingly, trekking.",
+    "The lakes vary from Jigale, the largest, shaped like the letter Y, to tiny Taule. Between them lie the patans, open meadows where herders graze cattle and sheep in summer. The largest, Kinimini patan, has the Kailash stream winding through it. Around the edges grows thick rhododendron forest, red in spring, home to the danphe, musk deer and black bear.",
+    "Ramaroshan is still young as a destination. Facilities are simple, roads are rough and you will meet more Nepali visitors than foreign ones. That is its charm. Come for a night or two in spring or autumn, walk between lakes and meadows, and look north on a clear morning to the snow of Api and Saipal."
+  ],
+  "story": {
+    "title": "A herders' plateau finding its place on the map",
+    "paras": [
+      "For generations Ramaroshan belonged to the herders and farmers of the villages below. Families took cattle, buffalo and sheep up to the meadows in summer, built stone and timber shelters called goth, collected herbs and firewood in the forest, and came down again before the snow. The lakes were places of worship, and small shrines stand near several of them.",
+      "Achham, the district around Ramaroshan, is remote and steep, and many of its men have long travelled to India for work. Roads arrived late, and for decades Ramaroshan was known only within the far west. When Nepal reorganised its local government in 2017, seven former village councils were joined into Ramaroshan rural municipality, which put the plateau's name on the map and made tourism a local priority.",
+      "Since then the municipality and local groups have built trails, viewpoints and simple facilities, and boating began on the lakes in 2020. Festivals and cultural programmes with Deuda performances draw visitors on World Tourism Day and at holidays. Ramaroshan remains rough at the edges, but it is now one of the most talked-about new destinations in Sudurpashchim."
+    ]
+  },
+  "legend": "Local people give two stories for the name. One says Ramaroshan is named after two brothers, Rame and Roshan, who lived in the area long ago. The other ties the name to Shiva and Parvati, who are believed to have rested on the plateau, with the lakes and meadows marking their presence. Both stories are told with equal conviction in the villages.",
+  "people": "The villages around Ramaroshan are mostly Chhetri, with Dalit, Brahmin, Thakuri and some Magar families. People speak Achhami, the local form of the far western language, and Nepali. They farm wheat, maize, millet and rice on the lower slopes, keep cattle and sheep on the meadows in summer, and many men work seasonally in India. Deuda is sung at every gathering.",
+  "untold": [
+    {"fact": "Ramaroshan is known locally as barha banda, athara khanda, meaning twelve lakes and eighteen meadows. Jigale, shaped like the letter Y, is the largest lake and Taule the smallest.", "source": "Wikipedia: Ramaroshan Site"},
+    {"fact": "Kinimini patan, the largest of Ramaroshan's meadows and possibly the largest in Achham district, has the Kailash stream flowing through it.", "source": "Wikipedia: Ramaroshan Site"},
+    {"fact": "Ramaroshan rural municipality was formed in 2017 by merging seven former village development committees: Malatiko, Chafamandu, Shantada, Batulasain, Samroshan, Bhatakatiya and Sutar.", "source": "Wikipedia: Ramaroshan Rural Municipality"}
+  ],
+  "local_words": [
+    {"word": "Banda", "script": "बण्ड", "lang": "Nepali", "meaning": "Local word for a lake or pond, as in barha banda"},
+    {"word": "Lali gurans", "script": "लालीगुराँस", "lang": "Nepali", "meaning": "Red rhododendron, Nepal's national flower"},
+    {"word": "Goth", "script": "गोठ", "lang": "Nepali", "meaning": "Herders' cattle shed and summer shelter"}
+  ],
+  "taste": {"name": "Dahi and ghee from the goth", "text": "Thick yoghurt and fresh ghee made by herding families in their summer shelters on the meadows, often served with millet bread or rice. Ask your guide to find a goth that is happy to sell some, and drink buttermilk, mohi, after a hot walk."},
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Days we suggest", "1–2"],
+    ["Nearest airport", "Dhangadhi (DHI); small airstrip at Sanfebagar, Achham"],
+    ["From Kathmandu", "Fly to Dhangadhi (≈ 1 h 15 min), then 10+ h by road"],
+    ["Altitude", "≈ 2,500 m"],
+    ["Known for", "12 lakes and 18 meadows, Jigale lake, rhododendrons"]
+  ],
+  "best_months": [0, 0, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Jigale, the Y-shaped lake", "text": "Jigale is the largest of Ramaroshan's lakes, its two arms shaped like the letter Y. Walk around its shore through forest and grass, and look for reflections of the surrounding trees in the still morning water."},
+    {"title": "Kinimini patan", "text": "The largest meadow of Ramaroshan, possibly the largest in Achham, Kinimini is a broad sweep of grass with the Kailash stream winding through it. In summer herders bring their cattle here; in autumn the grass turns gold."},
+    {"title": "Rhododendron forests in spring", "text": "From March to May the forests around the lakes turn red and pink with rhododendron, Nepal's national flower. The trails between the meadows pass right through them, at their best in late March and April."},
+    {"title": "Views of Api and Saipal", "text": "On clear mornings, especially in October and November, the snow peaks of Api and Saipal rise on the northern horizon. Climb to one of the ridges above the lakes at sunrise for the best view."},
+    {"title": "Danphe and forest wildlife", "text": "Ramaroshan's forests shelter the danphe, Nepal's national bird, along with musk deer, Himalayan tahr and black bear. Listen for the danphe's call at dawn and dusk along the forest edges."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Fly or drive to Dhangadhi, then take a jeep north into Achham towards Mangalsen, the district headquarters, and on to Ramaroshan on rough hill roads. Allow a long day, often 10 hours or more, depending on conditions. Roads are frequently damaged in the monsoon; check current status before you travel."},
+    {"mode": "Air", "text": "Fly Kathmandu to Dhangadhi in about 1 hour 15 minutes. Achham has an airstrip at Sanfebagar, served at times by small planes, which can shorten the road journey; schedules are irregular, so check current status before you travel."}
+  ],
+  "where_to_stay": "Facilities at Ramaroshan are simple. A few local homestays and basic guesthouses in the surrounding villages offer rooms and dal bhat, and the municipality has encouraged new tourist facilities, but standards and availability change from year to year. Many visitors, including large groups, camp near the lakes. Mangalsen and Sanfebagar have simple hotels for the night before or after. Book through an agency that knows the area.",
+  "stays": [],
+  "tips": [
+    "Visit in late March to April for rhododendrons, or October to November for clear mountain views.",
+    "Carry warm clothing; at 2,500 m nights are cold even in spring and autumn.",
+    "Bring cash and some snacks, since shops near the lakes are few and basic.",
+    "Do not swim in the lakes, and take all litter back down with you.",
+    "Ask about local fees for boating or camping on arrival; check current status before you travel."
+  ],
+  "themes": ["lakes-and-rivers", "treks-and-trails", "photography", "villages-and-homestays"],
+  "nearby": ["khaptad", "badimalika", "dullu"],
+  "experiences": [
+    {
+      "slug": "ramaroshan-jigale-lake-walk",
+      "title": "Morning walk around Jigale lake",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Early morning, Mar–May and Sep–Nov",
+      "image_query": "Jigale lake Ramaroshan",
+      "wiki": "",
+      "summary": "Walk the shore of Jigale, the largest of Ramaroshan's twelve lakes and shaped like the letter Y, in the still light of early morning, when the forest reflects in the water and danphe call from the trees.",
+      "body": [
+        "Jigale is the centrepiece of Ramaroshan. Its two arms spread through the forest in the shape of a Y, so that from different points on the shore it looks like separate lakes. A trail circles much of it, through rhododendron, oak and pine and across patches of open grass.",
+        "Early morning is the best time. Mist lifts off the water, the surface is still enough to mirror the trees, and birds are active along the edges. You may hear the loud whistling call of the danphe from the forest above and see ducks or herons on the water outside the cold months.",
+        "The walk is easy and suits most ages. Boating began on Ramaroshan's lakes in 2020; ask locally whether boats are running and what they cost. Bring a warm layer for the early start, and binoculars if you have them."
+      ],
+      "good_for": ["families", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Which is the largest lake in Ramaroshan?", "a": "Jigale is the largest of Ramaroshan's twelve lakes, distinctive for its Y shape. Taule is the smallest. Jigale is the usual focus of a visit, with trails along its shore and through the surrounding forest."},
+        {"q": "Can I go boating at Ramaroshan?", "a": "Boating began on Ramaroshan's lakes in 2020, run locally. Whether boats are available depends on the season and local arrangements, so ask your guide or the municipality on arrival. Always wear a life jacket; the water is cold."},
+        {"q": "How long does it take to walk around Jigale?", "a": "Two to three hours at an easy pace covers most of the shore, with time for photos and rest. The trail is mostly gentle but can be muddy after rain. Combine it with a visit to nearby meadows for a half-day outing."}
+      ]
+    },
+    {
+      "slug": "ramaroshan-kinimini-patan",
+      "title": "Kinimini, the great meadow of Achham",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "Sep–Nov for golden grass; Jun–Aug for herders",
+      "image_query": "Ramaroshan meadow Achham",
+      "wiki": "",
+      "summary": "Walk out to Kinimini patan, Ramaroshan's largest meadow, where the Kailash stream winds through open grass and herders bring their cattle in summer. Space, silence and wide skies.",
+      "body": [
+        "Kinimini is the largest of Ramaroshan's eighteen patans and is said to be the largest meadow in Achham district. It opens suddenly out of the forest, a wide, gently sloping grassland with the Kailash stream meandering across it in loops.",
+        "In the summer months herding families bring cattle and buffalo up to graze, living in simple goth shelters at the meadow edge. If they are there, your guide can introduce you; they may offer buttermilk or yoghurt. In autumn the grass turns gold and the meadow is quiet, with long views to the surrounding ridges.",
+        "The walk from the lakes is easy to moderate, along forest trails and across open ground. Carry water and a snack, and a jacket against the wind on the open grass. Stay on paths near the stream, as parts of the meadow are boggy."
+      ],
+      "good_for": ["families", "photographers", "couples", "trekkers"],
+      "faqs": [
+        {"q": "What is a patan?", "a": "A patan is a high open meadow in the hills of western Nepal, used for grazing. Ramaroshan is famous for its eighteen patans, and Khaptad nearby for its twenty-two. Kinimini is the largest at Ramaroshan."},
+        {"q": "Can I meet herders at Kinimini patan?", "a": "In the summer grazing season, roughly from late spring to early autumn, herding families often stay at the meadow edges with their animals. Ask your guide to introduce you and always ask before photographing people or their shelters."},
+        {"q": "Is the walk to Kinimini difficult?", "a": "No. It is an easy to moderate walk on forest trails and open grass at about 2,500 m. Most people manage it in three to four hours return with stops. Some ground near the stream can be wet and soft."}
+      ]
+    },
+    {
+      "slug": "ramaroshan-rhododendron-forest-trail",
+      "title": "Rhododendron forest trails in spring",
+      "kind": "trek",
+      "duration": "Half day to full day",
+      "best_time": "Late Mar–Apr",
+      "image_query": "Rhododendron forest Achham Nepal",
+      "wiki": "",
+      "summary": "In spring, follow forest trails between Ramaroshan's lakes and meadows when the rhododendrons are in full flower, red and pink under the oak and pine, with danphe calling from the slopes.",
+      "body": [
+        "Rhododendron is Nepal's national flower, and Ramaroshan's forests are thick with it. From late March into April the trees burst into red and pink flowers, and the trails between lakes and meadows become tunnels of colour. Fallen petals carpet the path.",
+        "A guided loop links several lakes and patans through the flowering forest. Along the way listen for the danphe, whose iridescent males are hard to see but easy to hear, and watch for langur monkeys in the canopy. Musk deer and black bear live here but are rarely seen.",
+        "Choose a half-day or full-day loop depending on your energy. Carry water, lunch and a rain jacket; spring afternoons can bring showers. Keep to the trails, do not pick flowers, and go with a guide who knows the network of paths."
+      ],
+      "good_for": ["photographers", "trekkers", "couples", "solo"],
+      "faqs": [
+        {"q": "When do the rhododendrons bloom at Ramaroshan?", "a": "Usually from late March to April, varying a little each year with altitude and weather. The peak is often in early to mid April. Lower slopes flower first, higher ones later, so you can follow the bloom upwards."},
+        {"q": "Can I see the danphe at Ramaroshan?", "a": "Danphe, the Himalayan monal and Nepal's national bird, lives in Ramaroshan's forests. You are more likely to hear its whistling call at dawn and dusk than to see it. Walk quietly with a guide along the forest edges in the early morning for the best chance."},
+        {"q": "Do I need a guide for the forest trails?", "a": "Yes, we recommend one. The trails branch through dense forest and are poorly signed, and a local guide also knows where herders and wildlife are. Ramaroshan is outside national parks, but a guide makes the walk safer and more interesting."}
+      ]
+    },
+    {
+      "slug": "ramaroshan-api-saipal-sunrise",
+      "title": "Sunrise over Api and Saipal",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Dawn, Oct–Nov",
+      "image_query": "Api Saipal mountain view far west Nepal",
+      "wiki": "Api (mountain)",
+      "summary": "Climb to a ridge above the lakes before dawn to watch the first light touch the snow of Api and Saipal, the great peaks of Nepal's far west, with mist lying in the valleys below.",
+      "body": [
+        "Api and Saipal are the giants of the far west, both over 7,000 m, rising in Darchula and Bajhang on the northern horizon. From Ramaroshan you see them across a sea of ridges, and on clear autumn mornings they glow pink and then white as the sun comes up.",
+        "Your guide will choose a ridge or open meadow above the lakes with a clear northern view, a short walk from where you sleep. Start in the dark with a headtorch, and wrap up warmly: it is often near freezing at dawn in October and November.",
+        "October and November give the clearest air, after the monsoon has washed the haze away. In spring the view is often hazy by mid-morning but can be clear at first light. Bring a thermos of tea and a camera with a zoom lens."
+      ],
+      "good_for": ["photographers", "couples", "solo", "trekkers"],
+      "faqs": [
+        {"q": "Which mountains can I see from Ramaroshan?", "a": "On clear days, the snow peaks of Api and Saipal to the north, both over 7,000 m, along with the long ridges of the far western hills. The best views are at sunrise in October and November."},
+        {"q": "How cold is it at Ramaroshan at sunrise?", "a": "In October and November, dawn temperatures are often close to freezing at about 2,500 m, and wind on the ridges makes it feel colder. Bring a warm jacket, hat and gloves. Spring mornings are a little milder."},
+        {"q": "Is the sunrise viewpoint far from the lakes?", "a": "No. Your guide will pick a ridge or meadow with a clear northern view, usually within an hour's walk of where you stay. The path is easy but dark at that hour, so use a headtorch and follow your guide."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Ramaroshan?", "a": "Ramaroshan is in Ramaroshan rural municipality, Achham district, Sudurpashchim Province, in the hills of far western Nepal. It lies north of Dhangadhi, towards the border with Bajura district, home of Badimalika."},
+    {"q": "How do I get to Ramaroshan from Kathmandu?", "a": "Fly Kathmandu to Dhangadhi, then drive north into Achham via Mangalsen to Ramaroshan, a long day of 10 hours or more on hill roads. Small planes to Sanfebagar in Achham can shorten the trip when they run. Check current status before you travel."},
+    {"q": "What is the best time to visit Ramaroshan?", "a": "March to May for rhododendrons and mild weather, and September to November for clear views of Api and Saipal. The monsoon from June to August brings rain and difficult roads, and winter can bring snow."},
+    {"q": "Why is Ramaroshan called twelve lakes and eighteen meadows?", "a": "The local saying barha banda, athara khanda describes the plateau's twelve lakes and eighteen patans, or meadows. The lakes range from Jigale, the largest, to Taule, the smallest, and Kinimini is the largest meadow."},
+    {"q": "Is there accommodation at Ramaroshan?", "a": "There are a few simple homestays and guesthouses in surrounding villages, and many visitors camp near the lakes. Facilities change from year to year as tourism grows. Book through an agency that knows the area, and bring a warm sleeping bag."},
+    {"q": "How many days do I need for Ramaroshan?", "a": "One or two nights at the plateau is enough to see the main lakes and meadows. With travel from Dhangadhi, plan four to five days in total. It combines well with Khaptad or Badimalika for a longer far western trip."},
+    {"q": "Do I need a permit for Ramaroshan?", "a": "Ramaroshan is not inside a national park, and no special trekking permit is needed at the time of writing. Local fees may apply for camping, boating or conservation. Check current status before you travel."},
+    {"q": "Is Ramaroshan suitable for families?", "a": "Yes, for families comfortable with long road journeys and basic facilities. The walks between lakes and meadows are gentle, and children enjoy the open space. Bring warm clothes for cold nights and snacks for the drive."},
+    {"q": "What wildlife can I see at Ramaroshan?", "a": "The forests hold danphe, Nepal's national bird, along with other pheasants, langur monkeys, musk deer, Himalayan tahr and black bear. Birds are the most likely sightings; mammals are shy and rarely seen."}
+  ]
+}

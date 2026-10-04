@@ -1,0 +1,171 @@
+{
+  "slug": "bandipur",
+  "name": "Bandipur",
+  "name_ne": "बन्दिपुर",
+  "local_name": "",
+  "region": "pokhara-annapurna",
+  "kind": "hill town",
+  "wiki": "Bandipur Rural Municipality",
+  "image_query": "Bandipur bazaar Newari houses",
+  "lat": 27.937,
+  "lng": 84.408,
+  "altitude_m": 1030,
+  "tagline": "A car-free Newar trading bazaar on a ridge saddle",
+  "meta_description": "Bandipur with locals: a Newar trading town at 1,030 m between Kathmandu and Pokhara, its car-free bazaar, Tundikhel, Thani Mai, Siddha Cave, Ramkot and where to stay.",
+  "summary": "Bandipur is a Newar hill town at about 1,030 m on a saddle of the Mahabharat range in Tanahun district, 143 km west of Kathmandu and 80 km east of Pokhara. Its traffic-free main street of brick houses and carved windows, a relic of the India–Tibet trade, overlooks the Himalaya from Dhaulagiri to Langtang.",
+  "intro": [
+    "Leave the Prithvi Highway at Dumre, climb 8 km of switchbacks, and you arrive in a different century. Bandipur's bazaar runs along a saddle barely wide enough for one street, lined with two and three-storey Newar houses of brick and timber with carved windows, shutters and a covered veranda along the north side. Vehicles stop at the edge of town, so the street belongs to people, tables and the occasional goat.",
+    "Bandipur was a trading town before it was a tourist town, and you feel it: the old library, the slate-paved lanes, the parade ground called Tundikhel at the end of the ridge. From Tundikhel or Thani Mai hill on a clear morning you see the Himalaya from Dhaulagiri past the Annapurnas and Manaslu to Langtang, above a sea of valley cloud.",
+    "One or two nights is right. Walk the bazaar at dusk, climb Thani Mai for sunrise, take the short trail to the Magar village of Ramkot, and go down into Siddha Cave, one of the largest caves in Nepal. Bandipur fits naturally on the road between Kathmandu and Pokhara or Chitwan."
+  ],
+  "story": {
+    "title": "Bhaktapur's traders on the road to Tibet",
+    "paras": [
+      "Before the traders came, Bandipur was a simple Magar village on a ridge above the Marsyangdi. After Prithvi Narayan Shah conquered the Kathmandu Valley in 1768, Newar merchant families from Bhaktapur moved here, drawn by its position on the trade route between India and Tibet and by its malaria-free altitude above the hot valley. They brought their architecture, their gods and their festivals, and in the early 19th century the village became a prosperous trading town.",
+      "Bandipur's heyday came under the Ranas (1846–1951). Its merchants grew rich, its houses gained neoclassical facades and shuttered windows, and its streets were paved with slabs of silvery slate. As a mark of its status the town was given permission to have its own library, which still exists and was renovated in 2000. It was also the headquarters of Tanahun district.",
+      "Then the road bypassed it. The Prithvi Highway, built in the 1970s, ran down the Marsyangdi valley 700 m below, and the district headquarters moved to Damauli. Traders moved down to Dumre or to the Terai, and Bandipur became half empty. Since 1998 an 8 km road from Dumre has connected it again, and its residents chose to keep the bazaar free of cars and restore the old houses as inns and cafes. The town came back by looking after what it had."
+    ]
+  },
+  "legend": "Local tradition says the Khadga Devi temple in Bandipur keeps a sacred sword that Shiva gave to Mukunda Sen, a king of Palpa, and that its power is such that it is hidden from view, wrapped in cloth, and brought out only once a year during Dashain, when devotees crowd the temple to see it.",
+  "people": "Newar families, many with surnames such as Shrestha and Pradhan, still run the bazaar's shops and inns and keep its festivals. Magar villages such as Ramkot surround the town, with Gurung, Brahmin, Chhetri and Dalit households on the slopes. Many families farm oranges, maize and millet. Bandipur is also a school town: children walk in from surrounding villages to its secondary schools.",
+  "untold": [
+    {"fact": "During the Rana period Bandipur was so prosperous and prestigious that it was granted special permission to have its own library; the library still exists and was renovated in 2000.", "source": "Wikipedia: Bandipur Rural Municipality"},
+    {"fact": "Until 1998 Bandipur had only an unreliable track, often impassable in the monsoon; the 8 km access road from Dumre on the Prithvi Highway reconnected it that year.", "source": "Wikipedia: Bandipur Rural Municipality"},
+    {"fact": "Notre Dame School in Bandipur was founded in 1985 by the School Sisters of Notre Dame, a Catholic order, and draws students from far beyond the town.", "source": "Wikipedia: Bandipur Rural Municipality"}
+  ],
+  "local_words": [
+    {"word": "Jwajalapa", "script": "ज्वजलपा", "lang": "Nepal Bhasa", "meaning": "Hello; the Newar greeting you may hear in the bazaar"},
+    {"word": "Tundikhel", "script": "टुँडिखेल", "lang": "Nepali", "meaning": "Open parade or meeting ground; Bandipur's is on the ridge end"},
+    {"word": "Bazaar", "script": "बजार", "lang": "Nepali", "meaning": "Market street; in Bandipur, the whole old town"}
+  ],
+  "taste": {"name": "Newar khaja set", "text": "A plate of beaten rice (baji) with spiced buffalo or chicken choila, black soybeans, potato achar and a fried lentil bara, eaten in the afternoon with tea or local spirit. Small Newar eateries along Bandipur's bazaar serve versions of it; ask for whatever is fresh that day."},
+  "facts": [
+    ["Best months", "Oct – Mar"],
+    ["Days we suggest", "1–2"],
+    ["Nearest airport", "Pokhara International Airport (PHH), ≈ 80 km"],
+    ["From Kathmandu", "≈ 143 km · 4.5–5.5 h by road"],
+    ["Altitude", "1,030 m"],
+    ["Known for", "Car-free Newar bazaar, Himalayan views, Siddha Cave"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The car-free bazaar", "text": "A 200 m saddle street of Newar brick houses, carved windows and a long covered veranda, with cafes and inns in restored merchant homes. Evenings, when tables spill into the street, are the best time."},
+    {"title": "Sunrise from Thani Mai", "text": "A 30–40 minute climb from the bazaar to the hilltop shrine of Thani Mai gives a view from Dhaulagiri to Langtang above a sea of morning cloud. Clearest from October to February."},
+    {"title": "Siddha Cave", "text": "One of Nepal's largest caves, about 437 m deep and 50 m high, with stalactites and bats. Reached by a steep path down from Bandipur or up from Bimalnagar, with a local guide and torch."},
+    {"title": "Tundikhel and the old library", "text": "Walk to the open Tundikhel ground at the ridge end for views, and look for the old library, a relic of the Rana-era trading boom, and the temples of Bindebasini and Khadga Devi."},
+    {"title": "Ramkot Magar village", "text": "A 2–3 hour walk along the ridge to Ramkot, a Magar village of round and oval thatched houses and terraced fields."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Bandipur is 143 km west of Kathmandu, 4.5–5.5 hours by private car via the Prithvi Highway to Dumre, then 8 km up a paved road, about 20–30 minutes. From Pokhara it is about 80 km, 2.5–3 hours. Tourist buses between Kathmandu and Pokhara stop at Dumre, where local jeeps and buses climb to Bandipur."},
+    {"mode": "On foot", "text": "An old stone trail climbs from Dumre to Bandipur in about 2 hours, used by villagers before the road. Footpaths also link Bandipur with Ramkot and surrounding villages along the ridge."}
+  ],
+  "where_to_stay": "Stay in the bazaar itself, where restored Newar houses now serve as inns. The Old Inn, in two carefully restored townhouses on the main street, keeps original wooden doorways and brickwork, with rooms facing the mountains or the bazaar and a terrace at the back. Other family guesthouses and small heritage inns line the street and nearby lanes. Expect character rather than luxury, and book ahead for weekends and Nepali holidays, when Kathmandu families visit.",
+  "stays": ["the-old-inn-bandipur"],
+  "tips": [
+    "Arrive in time for sunset and stay the night; day trippers miss the quiet evening bazaar and the dawn views.",
+    "Vehicles are not allowed in the main bazaar; your driver will park at the edge of town.",
+    "Take a local guide and a strong torch for Siddha Cave, and wear shoes with good grip.",
+    "Mountain views are clearest from October to February; in spring haze often hides them by mid-morning.",
+    "Visit during Dashain, when the Khadga Devi temple draws the town's biggest crowd."
+  ],
+  "themes": ["heritage-and-temples", "villages-and-homestays", "photography", "slow-and-wellness"],
+  "nearby": ["gorkha", "pokhara", "begnas-lake"],
+  "experiences": [
+    {
+      "slug": "bandipur-bazaar-heritage-walk",
+      "title": "Heritage walk through Bandipur's bazaar",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, year-round",
+      "image_query": "Bandipur main street Newar architecture",
+      "wiki": "Bandipur Rural Municipality",
+      "summary": "A slow walk along Bandipur's traffic-free main street and side lanes with a local guide: Newar merchant houses, carved windows, the Rana-era library, the temples of Bindebasini and Khadga Devi, and the story of a trading town that the highway left behind.",
+      "body": [
+        "Start at the Bindebasini temple at the head of the bazaar, a two-tiered pagoda where locals offer puja in the morning and evening. Then walk the main street slowly, looking up: the houses have carved wooden windows, some with lattice panels, neoclassical facades from the Rana era and shutters painted in faded colours. On the north side a covered veranda runs almost the whole length.",
+        "Your guide will point out details visitors miss: the old slate slabs surviving at the street edges and in side lanes, the doorways of former trading houses, the library granted to the town in its heyday, and shrines tucked into walls. Ask about the families who came from Bhaktapur after 1768 and what they traded: cloth, salt, metal goods and more passing between India and Tibet.",
+        "Climb to the Khadga Devi temple, a modest building with a powerful reputation, and end at Tundikhel at the ridge end as the sun sets behind the hills. Then come back for dinner on the street. Bandipur after dark, lit by shop lights, is quiet and friendly."
+      ],
+      "good_for": ["couples", "first-timers", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Why is Bandipur famous?", "a": "Bandipur is known for its well-preserved Newar bazaar of 18th and 19th-century style houses on a ridge saddle, its car-free main street, its views of the Himalaya from Dhaulagiri to Langtang, and its history as a trading town on the India–Tibet route that declined when the highway bypassed it. Siddha Cave nearby is one of Nepal's largest."},
+        {"q": "Is Bandipur worth visiting?", "a": "Yes, especially if you are driving between Kathmandu and Pokhara or Chitwan. It is one of the best-preserved hill bazaars in Nepal, quiet and walkable, with good inns and mountain views. One night is enough for most visitors; two let you add Siddha Cave or Ramkot. Day trips miss its best hours."},
+        {"q": "Who built Bandipur?", "a": "Bandipur was originally a Magar village. Newar trading families from Bhaktapur settled here after the Gorkha conquest of the Kathmandu Valley in 1768, developing it into a prosperous stop on the India–Tibet trade route. Most of the bazaar's buildings reflect their Newar architecture, with later Rana-era neoclassical touches."}
+      ]
+    },
+    {
+      "slug": "bandipur-thani-mai-sunrise",
+      "title": "Sunrise over the Himalaya from Thani Mai",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "image_query": "Bandipur view Himalaya sunrise",
+      "wiki": "",
+      "summary": "Climb 30–40 minutes from the bazaar to the hilltop shrine of Thani Mai for sunrise on a long line of peaks, from Dhaulagiri through the Annapurnas and Manaslu to Langtang, rising above a sea of cloud in the valleys.",
+      "body": [
+        "Leave your inn in the dark with a headlamp. A stone path climbs from the bazaar past houses and fields to the summit of Thani Mai hill, where a small shrine to the mother goddess stands among trees. It takes 30–40 minutes at a steady pace. Locals come up to pray at dawn, and you may hear the bell before you reach the top.",
+        "On a clear morning between October and February the view is long: Dhaulagiri far to the west, Annapurna I and South, Machhapuchhre, Lamjung Himal, Manaslu and Himalchuli, Ganesh Himal and on very clear days Langtang. Below, the Marsyangdi and Seti valleys are often filled with cloud, with hilltops poking through like islands.",
+        "Stay until the sun is well up and the mountains turn white, then walk down for breakfast in the bazaar. Be quiet near the shrine and do not climb on it. In spring, haze often hides the peaks; it is still a pleasant dawn walk."
+      ],
+      "good_for": ["photographers", "couples", "families", "solo"],
+      "faqs": [
+        {"q": "Which mountains can you see from Bandipur?", "a": "On clear days, from Thani Mai and Tundikhel you can see a long section of the Himalaya: Dhaulagiri, Annapurna I and South, Machhapuchhre, Lamjung Himal, Manaslu, Himalchuli, Ganesh Himal and, in very clear conditions, Langtang. October to February gives the best visibility; spring haze often hides the range."},
+        {"q": "How long is the walk to Thani Mai?", "a": "The climb from Bandipur bazaar to Thani Mai hilltop takes about 30–40 minutes on a stone path, with some steep sections. Leave about an hour before sunrise with a headlamp. The descent takes 20–30 minutes. It is suitable for most people with reasonable fitness; take care on loose stones in the dark."},
+        {"q": "Is Tundikhel or Thani Mai better for views in Bandipur?", "a": "Thani Mai, being higher, has the wider and more open view, especially for sunrise, while Tundikhel is closer, flat and easy, good for sunset and for those who prefer not to climb. On clear mornings both show the Himalaya. Do Tundikhel at sunset and Thani Mai at sunrise."}
+      ]
+    },
+    {
+      "slug": "bandipur-siddha-cave",
+      "title": "Explore Siddha Cave below Bandipur",
+      "kind": "adventure",
+      "duration": "3–4 hours",
+      "best_time": "Morning, Oct–May",
+      "image_query": "Siddha Gufa cave Bandipur",
+      "wiki": "Siddha Cave",
+      "summary": "Walk down from Bandipur to Siddha Gufa, one of Nepal's largest caves, about 437 m deep and 50 m high, and explore its chambers of stalactites and flowstone by torchlight with a local guide, then climb back up or continue to Bimalnagar on the highway.",
+      "body": [
+        "Siddha Cave lies on the hillside between Bandipur and Bimalnagar on the Prithvi Highway. From Bandipur a steep stone path drops through forest in about an hour; from Bimalnagar it is a stiff climb of similar length. Local guides wait at the entrance with lamps, and a guide is strongly recommended.",
+        "Inside, the cave opens into large chambers. It extends about 437 m deep and is about 50 m high in places, big enough that, by one estimate, it could hold around 2,500 people. Stalactites, stalagmites and flowstone formations catch the torchlight, and bats roost in the ceilings. Parts are slippery and require scrambling over rocks.",
+        "Wear old clothes and shoes with good grip, carry a strong torch even if the guide has a lamp, and do not touch formations, which take thousands of years to grow. After the cave, either climb back to Bandipur or walk down to Bimalnagar and have your driver collect you there."
+      ],
+      "good_for": ["families", "solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "How big is Siddha Cave in Bandipur?", "a": "Siddha Cave, or Siddha Gufa, extends about 437 m deep and reaches about 50 m high, with an inner area large enough by one estimate to hold around 2,500 people. It is often called one of the largest caves in Nepal. Visiting the main chambers takes about an hour inside with a guide."},
+        {"q": "How do you get to Siddha Cave?", "a": "Walk down from Bandipur on a steep stone path, about an hour, or climb up from Bimalnagar on the Prithvi Highway, also about an hour. Many visitors walk down from Bandipur and are collected by their driver at Bimalnagar. Local guides with lamps are available at the cave entrance for a fee."},
+        {"q": "Is Siddha Cave safe for children?", "a": "With a guide, good shoes and close supervision, older children usually enjoy it. Some sections are slippery and need scrambling, and it is dark inside, so it is less suitable for small children or anyone with mobility issues. Carry torches, avoid going after heavy rain and follow the guide's route."}
+      ]
+    },
+    {
+      "slug": "bandipur-ramkot-magar-village",
+      "title": "Ridge walk to Ramkot Magar village",
+      "kind": "nature",
+      "duration": "Half day",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "Ramkot village Bandipur Magar house",
+      "wiki": "",
+      "summary": "Follow the ridge west from Bandipur through forest and terraces to Ramkot, a Magar village of traditional round and oval houses with thatched roofs, mud walls painted in red and white, and wide views to the Himalaya.",
+      "body": [
+        "Bandipur was a Magar village before the Newar traders came, and Ramkot shows what the ridge once looked like. The walk leaves the bazaar heading west, past Tundikhel and through forest and terraced fields, with small temples and resting platforms on the way. It takes about 2–3 hours one way at an easy pace.",
+        "Ramkot's traditional houses are distinctive: rounded or oval in plan, with mud and stone walls washed in red and white and thatched roofs, set among orange and banana trees. Families grow maize, millet and vegetables, keep goats and buffalo, and have relatives in the army or working abroad. Some families host visitors through a village homestay programme.",
+        "Walk respectfully through the village, ask before photographing people and homes, and buy tea or a snack from a local shop. Return the same way to Bandipur, or arrange a jeep to collect you if the road is open. In clear weather the Himalaya forms the backdrop the whole way."
+      ],
+      "good_for": ["solo", "couples", "photographers", "families"],
+      "faqs": [
+        {"q": "How far is Ramkot from Bandipur?", "a": "Ramkot is about 2–3 hours' walk west of Bandipur along the ridge on forest paths and village trails, gently up and down. Many visitors do it as a half-day return walk. A rough road also reaches the area, so a jeep can collect you if arranged. Take water and snacks."},
+        {"q": "What is special about Ramkot village?", "a": "Ramkot is a Magar village known for its traditional round and oval houses with thatched roofs and red and white mud walls, a style becoming rare in Nepal's hills. It offers a glimpse of rural Magar life, mountain views and a quieter experience than Bandipur's bazaar. Homestays allow an overnight stay with families."},
+        {"q": "Can I stay overnight in Ramkot?", "a": "Yes, through a village homestay programme in which families host visitors in their homes with simple rooms and home-cooked meals. Facilities are basic. Arrange it in advance through your guide or an inn in Bandipur. Staying overnight lets you see sunrise from the ridge and evening life in the village."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Bandipur from Kathmandu?", "a": "Bandipur is about 143 km west of Kathmandu: drive the Prithvi Highway to Dumre, then 8 km up a paved road. It takes 4.5–5.5 hours by private car, more with traffic around Mugling. Tourist buses between Kathmandu and Pokhara stop at Dumre, from where local jeeps and buses go up to Bandipur in about 30 minutes."},
+    {"q": "How far is Bandipur from Pokhara?", "a": "Bandipur is about 80 km east of Pokhara, 2.5–3 hours by car via the Prithvi Highway to Dumre and the 8 km road up. It makes a natural stop when driving between Pokhara and Kathmandu or Chitwan. Tourist buses can drop you at Dumre for the short local jeep ride up."},
+    {"q": "How many days should I spend in Bandipur?", "a": "One night is enough to walk the bazaar, see sunset at Tundikhel and sunrise from Thani Mai. Two nights let you add Siddha Cave and the walk to Ramkot. Day trips are possible but miss the quiet evening and dawn, which are the town's best moments. Most visitors combine it with Pokhara or Chitwan."},
+    {"q": "What is the best time to visit Bandipur?", "a": "October to March gives the clearest Himalayan views, cool days and cold nights. Spring, March to May, is warm, with haze often hiding the peaks. June to September is monsoon: green and quiet, with rain, cloud and slippery paths, but the bazaar is still pleasant. Dashain in autumn is lively."},
+    {"q": "Are cars allowed in Bandipur?", "a": "Vehicles are kept out of the main bazaar, which residents keep traffic-free. Cars and buses park at the edge of town, a few minutes' walk from the inns. This makes the street quiet and safe for walking. Porters or inn staff can help carry bags from the parking area if needed."},
+    {"q": "Is Bandipur good for families?", "a": "Yes. The traffic-free street is safe for children, the short walks to Tundikhel and Thani Mai are manageable, and Siddha Cave is an adventure for older children with a guide. Inns are small and friendly. Keep children close at viewpoints and on the steep path to the cave."},
+    {"q": "What is the history of Bandipur?", "a": "Bandipur was a Magar village until Newar traders from Bhaktapur settled after 1768, turning it into a prosperous stop on the India–Tibet trade route. It flourished under the Ranas and was district headquarters, but declined after the Prithvi Highway bypassed it in the 1970s and the headquarters moved to Damauli. Tourism has revived it since the late 1990s."},
+    {"q": "Where should I stay in Bandipur?", "a": "Stay in the bazaar, in one of the restored Newar houses run as inns. The Old Inn is the best known, set in restored townhouses with traditional woodwork and a terrace. Family guesthouses and small heritage inns offer simpler, cheaper rooms. Book ahead for Fridays, Saturdays and Nepali holidays."},
+    {"q": "Can I visit Bandipur on the way to Chitwan?", "a": "Yes. Bandipur sits above Dumre on the Prithvi Highway, and the road to Chitwan branches south at Mugling, about 30 km east. A common route is Kathmandu to Bandipur, a night there, then on to Chitwan or Pokhara. From Bandipur to Sauraha in Chitwan is about 3 hours by car."}
+  ]
+}

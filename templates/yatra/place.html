@@ -1,0 +1,86 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ p.name }}, {{ r.name }}: story, things to do and when to go · Book Nepal Trip{% endblock %}
+{% block description %}{{ p.meta_description }}{% endblock %}
+{% block og_image %}{% with i=p.images|first %}{% if i %}<meta property="og:image" content="{{ i|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block crumbs %}{% endblock %}
+{% block content %}
+<header class="phead phead--paper">
+  {% contours p.slug 11 %}
+  <span class="phead__ghost deva" aria-hidden="true">{{ p.name_ne }}</span>
+  <div class="wrap">{% include "yatra/partials/crumbs.html" %}
+    <div class="phead__grid">
+      <div>
+        <p class="eyebrow">{{ r.name }} · {{ p.kind }}</p>
+        <h1 class="h-hero">{{ p.name }}</h1>
+        {% if p.name_ne or p.local_name %}<p class="phead__ne">{{ p.name_ne }}{% if p.local_name %} <small>{{ p.local_name }}</small>{% endif %}</p>{% endif %}
+        <p class="lede">{{ p.summary }}</p>
+        <ul class="kicker-list"><li>Stay <b>{{ p.nights }} nights</b></li><li>Best <b>{{ p.best_label }}</b></li><li><span class="belt-tag"><span class="deva">{{ p.belt.ne }}</span>{{ p.belt.name }}</span></li></ul>
+        <div class="btn-row"><a class="btn btn--lg btn--sweep" href="{% url 'plan' %}?land={{ r.slug }}&from={{ request.path|urlencode }}" data-cta="place-plan">Plan a trip with {{ p.name }}</a><a class="btn btn--ghost" href="#story">Read its story</a></div>
+      </div>
+      <div>{% photo p.images|first p.name "photo--43" "(max-width: 1020px) 100vw, 45vw" True %}</div>
+    </div>
+  </div>
+</header>
+<div class="dhaka dhaka--land"></div>
+
+<section class="sec sec--tight">
+  <div class="wrap">
+    <p class="eyebrow">The air at {{ p.name }}</p>
+    {% include "yatra/partials/readouts.html" with obj=p %}
+    <p class="small muted">Oxygen, boiling point and temperature are worked out from the standard atmosphere for {{ p.altitude_m|num }} m; real days vary with weather.</p>
+  </div>
+</section>
+
+<section class="sec" style="padding-top:20px">
+  <div class="wrap split">
+    <div>
+      <div class="read prose">{% for para in p.intro %}<p>{{ para }}</p>{% endfor %}</div>
+      <h2 class="h-l" style="margin-top:1.2em">Why go</h2>
+      <div class="hl">{% for h in p.highlights %}<div class="rv"><h3>{{ h.title }}</h3><p>{{ h.text }}</p></div>{% endfor %}</div>
+    </div>
+    <aside class="split__aside">
+      <div class="panel"><h2 class="h-s">Where it sits</h2>{% include "yatra/partials/alti.html" with obj=p %}</div>
+      <div class="panel"><h2 class="h-s">At a glance</h2><ul class="facts">{% for k, v in p.facts %}<li><span>{{ k }}</span><span>{{ v }}</span></li>{% endfor %}</ul></div>
+      {% include "yatra/partials/quick_form.html" with land=r.slug qf_source="place" qf_title="Ask about "|add:p.name %}
+    </aside>
+  </div>
+</section>
+
+{% include "yatra/partials/story.html" with obj=p %}
+
+<section class="sec sec--paper2">
+  <div class="wrap"><div class="sec__head"><div><p class="eyebrow">Experiences</p><h2 class="h-l">Four ways to spend a day in {{ p.name }}</h2></div></div>
+  <div class="grid grid--4">{% for e in p.experiences %}{% include "yatra/partials/card_exp.html" %}{% endfor %}</div></div>
+</section>
+
+<section class="sec">
+  <div class="wrap split">
+    <div>
+      <p class="eyebrow">Getting there</p><h2 class="h-m">How to reach {{ p.name }}</h2>
+      <div class="reach">{% for h in p.how_to_reach %}<div><span class="badge">{% icon h.mode|mode_icon %}</span><div><b>{{ h.mode }}</b><p>{{ h.text }}</p></div></div>{% endfor %}</div>
+      <h2 class="h-m" style="margin-top:1.4em">Where to stay</h2><p>{{ p.where_to_stay }}</p>
+      {% if p.stay_objs %}<div class="grid grid--2" style="margin-top:16px">{% for s in p.stay_objs %}{% include "yatra/partials/card_stay.html" %}{% endfor %}</div>{% endif %}
+      <h2 class="h-m" style="margin-top:1.4em">Local tips</h2><ul class="tips">{% for t in p.tips %}<li>{{ t }}</li>{% endfor %}</ul>
+    </div>
+    <aside class="split__aside"><div class="panel"><h2 class="h-s">Best months</h2>{% include "yatra/partials/months.html" with bar=p.bar now=-1 %}</div>
+      {% if p.themes %}<div class="panel"><h2 class="h-s">Good for</h2><div class="chips">{% for t in p.themes %}<a class="chip" href="{{ t|theme_url }}">{{ t|theme_name }}</a>{% endfor %}</div></div>{% endif %}</aside>
+  </div>
+</section>
+
+<section class="sec sec--paper2 sec--tight"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">On the map</p><h2 class="h-m">{{ p.name }} and what is near it</h2></div></div>{% atlas map_points r.slug %}</div></section>
+
+{% if p.journey_objs %}<section class="sec"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Trips</p><h2 class="h-m">Trips that stop in {{ p.name }}</h2></div></div><div class="grid grid--3">{% for j in p.journey_objs|slice:":6" %}{% include "yatra/partials/card_trip.html" %}{% endfor %}</div></div></section>{% endif %}
+
+{% if p.festival_objs or p.route_objs %}<section class="sec sec--tight"><div class="wrap">
+  {% if p.festival_objs %}<h2 class="h-m">Festivals here</h2><div class="grid grid--4" style="margin-bottom:30px">{% for f in p.festival_objs %}{% include "yatra/partials/card_fest.html" %}{% endfor %}</div>{% endif %}
+  {% if p.route_objs %}<h2 class="h-s">Routes</h2><div class="chips">{% for rt in p.route_objs %}<a class="chip" href="{{ rt.url }}">{% icon "route" %}{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</a>{% endfor %}</div>{% endif %}
+</div></section>{% endif %}
+
+{% if p.nearby_objs %}<section class="sec sec--paper2 sec--tight"><div class="wrap"><div class="sec__head"><div><p class="eyebrow">Nearby</p><h2 class="h-m">Pair {{ p.name }} with</h2></div></div><div class="grid grid--4">{% for p in p.nearby_objs %}{% include "yatra/partials/card_place.html" %}{% endfor %}</div></div></section>{% endif %}
+
+<section class="sec"><div class="wrap wrap--narrow"><p class="eyebrow">Questions</p><h2 class="h-l">{{ p.name }}: what travellers ask</h2>{% include "yatra/partials/faq.html" with faqs=p.faqs %}</div></section>
+{% include "yatra/partials/nudge.html" %}
+{% endblock %}
+{% block cta %}{% include "yatra/partials/cta.html" with land=r.slug %}{% endblock %}

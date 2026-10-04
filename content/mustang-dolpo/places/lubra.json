@@ -1,0 +1,342 @@
+{
+  "slug": "lubra",
+  "name": "Lubra",
+  "name_ne": "लुब्रा",
+  "local_name": "",
+  "region": "mustang-dolpo",
+  "kind": "village",
+  "wiki": "",
+  "image_query": "Lubra village Bon monastery Mustang",
+  "lat": 28.803,
+  "lng": 83.79,
+  "altitude_m": 3000,
+  "tagline": "Mustang's Bon village in a side valley off the Kali Gandaki",
+  "meta_description": "Lubra, the small Bon village in Mustang's Panda Khola valley near Jomsom: its old monastery, the counter-clockwise faith and the quiet trail to Muktinath.",
+  "summary": "Lubra is a small village of around 16 families at about 3,000 m in the Panda Khola valley, between Jomsom and Muktinath. It is one of the oldest Bon communities in Nepal, and the only village in Mustang that follows Bon entirely. Its monastery, chortens and stone houses are a two-hour walk from Jomsom.",
+  "intro": [
+    "Lubra is easy to miss. The village sits up the Panda Khola, a side valley that joins the Kali Gandaki between Jomsom and Kagbeni, and most jeeps and trekkers race past its mouth on the way to Muktinath. Walk an hour or two up the stony riverbed and you find a cluster of whitewashed stone houses, walnut and willow trees, small terraced fields and an old monastery, with dry cliffs rising on every side.",
+    "What makes Lubra different is its religion. Its families follow Bon, the old religion of Tibet, which developed alongside Tibetan Buddhism and shares much with it, but keeps its own founder, scriptures and lineages. Here prayer wheels turn and people walk around chortens counter-clockwise, the opposite of their Buddhist neighbours. Bon swastikas face the other way too. Lubra is often called the only village in Mustang that follows Bon entirely.",
+    "We bring guests here for a half-day walk from Jomsom or as a quiet detour on the way down from Muktinath. Lubra has no hotels and only a handful of people at home in winter, so it is a place to visit with care: walk quietly, ask before entering the monastery and buy tea or a small craft if offered. The walk itself, through a narrow valley of grey and ochre cliffs, is half the reward."
+  ],
+  "story": {
+    "title": "Twenty generations of Bon in a side valley",
+    "paras": [
+      "Bon is the religious tradition that Tibetans associate with the time before and alongside the arrival of Buddhism. Modern Bon, called Yungdrung Bon, traces its teachings to Tonpa Shenrab and has its own monasteries, scriptures and lamas, and in practice it resembles Buddhism in many ways, with enlightenment as the main goal. Bon communities survive in pockets across the Himalaya, including in Dolpo and Mustang, and Lubra is one of the oldest in Nepal. Its survival in Mustang, surrounded by Buddhist villages, says a lot about the tolerance of this valley.",
+      "Local tradition says it has been about 20 generations since the Bon lama Tashi Gyaltsen founded Lubra. The village grew around its monastery, with a few families farming barley and buckwheat on terraces watered by channels from the Panda Khola, keeping animals and trading with neighbouring villages. Religious life was in the hands of a lineage of Bon lamas, and ritual texts and painted images were kept in the monastery and in family shrines over the centuries. The village has always been small, and that has helped it keep its character.",
+      "Life in Lubra has always depended on water, and that is now its greatest risk. In recent years flash floods down the Panda Khola have damaged fields and irrigation channels, and villagers have had to rebuild terraces again and again. Many young people have moved to Jomsom, Pokhara or Kathmandu for school and work. Those who remain, around 16 households, keep the monastery and the rituals going, and visitors who walk up the valley are part of how the village gets by."
+    ]
+  },
+  "legend": "Lubra's people tell how the village began with a sign. Local legend says that the Bon lama Tashi Gyaltsen, arriving in the valley, planted pine needles in the ground and vowed that if one of them grew into a tree he would found a village on this spot. A tree grew, he stayed, and Lubra was born. The story is told as the reason the village and its monastery stand exactly where they do, in a narrow side valley rather than on the main trail.",
+  "people": "Lubra is home to around 16 families who follow Bon. They speak a Tibetan dialect and Nepali, farm barley and buckwheat, grow walnuts and keep some livestock. The monastery is looked after by local lamas and families who share ritual duties. Many households have members living in Jomsom, Pokhara or Kathmandu, and some children study at Bon monasteries elsewhere in Nepal and India.",
+  "untold": [
+    {
+      "fact": "Lubra is often described as the only village in Mustang that follows Bon entirely, and its around 16 families make up one of the oldest Bon settlements in Nepal, founded according to local tradition about 20 generations ago.",
+      "source": "Al Jazeera, 'In Nepal's highlands, climate change threatens Tibet's Bon faith' (June 2026)"
+    },
+    {
+      "fact": "Followers of Bon walk around chortens, prayer walls and monasteries counter-clockwise and turn prayer wheels to the left, the reverse of Tibetan Buddhists. Bon swastikas, symbols of permanence, also face the opposite way.",
+      "source": "Wikipedia: Bon"
+    },
+    {
+      "fact": "Flash floods along the Panda Khola have repeatedly damaged Lubra's fields and irrigation channels in recent years, making the village one of the clearest local examples of how changing weather affects small Himalayan communities.",
+      "source": "Al Jazeera, 'In Nepal's highlands, climate change threatens Tibet's Bon faith' (June 2026)"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Bon",
+      "script": "བོན",
+      "lang": "Tibetan",
+      "meaning": "the old religion of Tibet, followed by Lubra's families"
+    },
+    {
+      "word": "yungdrung",
+      "script": "གཡུང་དྲུང",
+      "lang": "Tibetan",
+      "meaning": "the Bon swastika, symbol of the eternal; also names Bon itself"
+    },
+    {
+      "word": "khola",
+      "script": "खोला",
+      "lang": "Nepali",
+      "meaning": "stream or river; the Panda Khola runs through Lubra's valley"
+    }
+  ],
+  "taste": {
+    "name": "Po cha (butter tea)",
+    "text": "Po cha is Tibetan tea churned with butter and salt, savoury rather than sweet, and drunk all day in Lubra's kitchens to fight the cold and dry air. If a family invites you in, accept a cup; it is polite to sip and let them refill it."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Mar – May, Sep – Nov"
+    ],
+    [
+      "Days we suggest",
+      "Half day"
+    ],
+    [
+      "Nearest airport",
+      "Jomsom (JMO), ≈ 7 km"
+    ],
+    [
+      "From Kathmandu",
+      "Flight to Jomsom via Pokhara, then ≈ 2 h walk"
+    ],
+    [
+      "Altitude",
+      "≈ 3,000 m"
+    ],
+    [
+      "Known for",
+      "Bon monastery, counter-clockwise faith, quiet walk from Jomsom"
+    ]
+  ],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1
+  ],
+  "nights": "0",
+  "highlights": [
+    {
+      "title": "Lubra's Bon monastery",
+      "text": "The village monastery holds Bon statues, painted walls and ritual objects that differ in subtle ways from Buddhist ones. Ask your guide to find the lama or caretaker, remove your shoes and walk around it counter-clockwise, as the villagers do."
+    },
+    {
+      "title": "The counter-clockwise village",
+      "text": "Watch which way people turn prayer wheels and walk around chortens. In Lubra it is counter-clockwise, the Bon direction. Follow their lead here, then switch back to clockwise when you return to the Buddhist villages of the main valley."
+    },
+    {
+      "title": "The Panda Khola valley",
+      "text": "The walk up from the Kali Gandaki follows a dry, narrow valley of grey and ochre cliffs and a wide stony riverbed. Look out for shaligram fossils, blue sheep on the slopes and the old irrigation channels that keep Lubra's fields alive."
+    },
+    {
+      "title": "Walnut and willow shade",
+      "text": "Lubra's walnut and willow trees make a rare green patch in a bare landscape. In autumn walnuts are harvested and barley stands golden on the terraces. It is a good place to sit for a while with a cup of tea."
+    },
+    {
+      "title": "The quiet trail to Muktinath",
+      "text": "A higher trail links Lubra with the Muktinath valley over the ridge, making a good alternative route down from the temple to Jomsom. It sees few walkers, takes most of a day and needs a guide who knows the path."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "On foot",
+      "text": "From Jomsom, walk north along the Kali Gandaki towards Kagbeni for about 45 minutes, then turn east up the Panda Khola riverbed to Lubra, about 2–2.5 hours in all. From Muktinath, a higher trail over the ridge and down the Panda Khola takes 5–7 hours."
+    },
+    {
+      "mode": "Road",
+      "text": "Jeeps on the Jomsom–Muktinath road pass near the mouth of the Panda Khola; from there it is about an hour on foot up the riverbed. A rough track reaches closer in dry months, but walking is the way most visitors arrive."
+    }
+  ],
+  "where_to_stay": "Lubra has no hotels or regular lodges, and we do not send guests to stay overnight. Visit as a half-day walk from Jomsom, or on the way down from Muktinath, and sleep in Jomsom at Shinta Mani Mustang or Om's Home, or in Kagbeni at the Red House Lodge. Jomsom is about two hours' walk away, and Kagbeni roughly the same. If a family offers tea, accept; it is the kindest way to support the village and to learn a little about Bon life.",
+  "stays": [],
+  "tips": [
+    "Walk around chortens and the monastery counter-clockwise in Lubra, following Bon custom, and ask your guide if unsure.",
+    "Go in the morning; the Panda Khola valley funnels the afternoon wind and dust.",
+    "Do not visit after heavy rain or in the monsoon without local advice, as the riverbed is prone to flash floods.",
+    "Carry water and snacks; there are no shops or teahouses in the valley on the way.",
+    "Leave a donation at the monastery and ask before taking photos of people or inside the shrine."
+  ],
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "villages-and-homestays",
+    "treks-and-trails",
+    "heritage-and-temples"
+  ],
+  "nearby": [
+    "jomsom",
+    "kagbeni",
+    "muktinath",
+    "marpha"
+  ],
+  "experiences": [
+    {
+      "slug": "lubra-bon-monastery-visit",
+      "title": "Visit Lubra's Bon monastery with a local guide",
+      "kind": "spiritual",
+      "duration": "1 hour in the village",
+      "best_time": "Late morning, Mar–Nov",
+      "image_query": "Lubra gompa Bon Mustang",
+      "wiki": "Bon",
+      "summary": "Meet the old religion of Tibet in Lubra's monastery: Bon statues and paintings, a counter-clockwise kora and, if he is home, a conversation with the lama about how Bon differs from the Buddhism of the villages around it.",
+      "body": [
+        "Lubra's monastery stands among the houses of the village, a modest building of stone and whitewash with prayer flags and a small courtyard. It is the centre of the village's religious life and holds Bon statues, wall paintings and texts kept here for generations. It is usually locked, so your guide will find the caretaker or lama first. Leave shoes and hats outside the door, and keep your voice low.",
+        "Inside, the images look familiar at first: seated figures, offerings of butter lamps and water bowls, thangkas and painted protector deities. Look closely and differences appear. Bon has its own founder, Tonpa Shenrab, its own enlightened beings and its own swastika, the yungdrung, which turns the opposite way from the Buddhist one. Walk around the hall and the monastery counter-clockwise, the Bon way. Your guide can point out the differences one by one.",
+        "If the lama has time, your guide can translate a short conversation about Bon practice in the village, the festivals of the year and the challenges facing a small community. Be patient and respectful; he is not a tour guide. Leave a donation for the monastery's upkeep, at least NPR 500 per group. Photography inside is a matter of permission, so ask first and accept the answer. A visit of about an hour is enough."
+      ],
+      "good_for": [
+        "solo",
+        "couples",
+        "seniors",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "What is Bon religion?",
+          "a": "Bon is a religious tradition of Tibet that Tibetans associate with the time before and alongside Buddhism. Modern Bon, called Yungdrung Bon, follows the teacher Tonpa Shenrab and has its own monasteries, scriptures and lamas. In practice it resembles Tibetan Buddhism in many ways, with enlightenment as its goal, but Bon followers walk and turn prayer wheels counter-clockwise."
+        },
+        {
+          "q": "Is there an entry fee for Lubra monastery?",
+          "a": "There is usually no fixed ticket, but a donation is expected and important for the upkeep of the monastery in such a small village. We suggest at least NPR 500 per group, more if the lama spends time with you. The monastery is often locked, so a guide is needed to find the caretaker."
+        },
+        {
+          "q": "Which way do I walk around chortens in Lubra?",
+          "a": "Counter-clockwise, keeping the chorten or monastery on your left. This is the Bon custom and the opposite of the Buddhist direction used in Kagbeni, Jomsom and most of Mustang. Turn prayer wheels the same way. If you are not sure, watch the villagers or ask your guide."
+        }
+      ]
+    },
+    {
+      "slug": "lubra-walk-from-jomsom",
+      "title": "Half-day walk from Jomsom up the Panda Khola",
+      "kind": "trek",
+      "duration": "4–5 hours return",
+      "best_time": "Morning, Mar–May and Sep–Nov",
+      "image_query": "Panda Khola valley Lubra Mustang",
+      "wiki": "",
+      "summary": "A half-day walk from Jomsom north along the Kali Gandaki and up the narrow Panda Khola valley to Lubra, with time in the Bon village and its monastery, and back to Jomsom for lunch. Quiet, dry and very different from the busy Muktinath road.",
+      "body": [
+        "We leave Jomsom after breakfast and walk north on the riverbed and paths along the Kali Gandaki towards Kagbeni. After about 45 minutes we turn east into the mouth of the Panda Khola, a narrow side valley with a wide, stony bed and steep cliffs of grey and ochre rock. The trail climbs gently over the stones, about 300 m of height gain in all, with the valley walls closing in.",
+        "After another hour or so, green appears: walnut and willow trees, terraced fields and the whitewashed houses of Lubra. We spend about an hour in the village, visiting the Bon monastery with the caretaker and walking counter-clockwise around its chortens. If a family invites you for butter tea, accept; your guide will translate and you will learn far more than any sign could tell you. Ask before taking any photographs of people.",
+        "The way back to Jomsom follows the same route, about 1.5–2 hours downhill, reaching town in time for a late lunch before the strongest wind. In the monsoon or after heavy rain, the Panda Khola can flood suddenly, so we check with locals before going. Carry water, sun protection and a buff for dust; there are no teahouses on the way. Sturdy shoes matter more than speed here. It is an easy, rewarding morning."
+      ],
+      "good_for": [
+        "trekkers",
+        "solo",
+        "couples",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the walk from Jomsom to Lubra?",
+          "a": "It takes about 2–2.5 hours each way, so 4–5 hours for the round trip plus an hour in the village. The trail follows the Kali Gandaki riverbed north, then the Panda Khola valley east, gaining around 300 m. It is not technical but the riverbed is stony, so wear sturdy shoes with good grip."
+        },
+        {
+          "q": "Is the Lubra trail safe in the monsoon?",
+          "a": "Be cautious. The Panda Khola is prone to flash floods after heavy rain upstream, and the trail follows its riverbed. Mustang gets little rain, but storms do happen in July and August. We check with Jomsom and Lubra residents before going and avoid the valley if rain is forecast. Check current status before you travel."
+        },
+        {
+          "q": "Can I combine Lubra with Muktinath?",
+          "a": "Yes. A higher trail links the Muktinath valley with Lubra, crossing the ridge and descending the Panda Khola, then continuing to Jomsom. It takes most of a day and sees few walkers, so you need a guide who knows it. Many people go up to Muktinath by jeep or via Kagbeni and walk down via Lubra."
+        }
+      ]
+    },
+    {
+      "slug": "lubra-muktinath-high-trail",
+      "title": "Down from Muktinath by the Lubra trail",
+      "kind": "trek",
+      "duration": "6–7 hours",
+      "best_time": "Early start, Apr–Jun and Sep–Nov",
+      "image_query": "Lubra pass trail Muktinath Jomsom",
+      "wiki": "",
+      "summary": "A full-day walk from Ranipauwa over the ridge south of Muktinath and down the Panda Khola to Lubra and Jomsom, away from the jeep road. Wide views of Dhaulagiri and Nilgiri, a high grassy ridge and a Bon village at the end of the descent.",
+      "body": [
+        "Most people come down from Muktinath by jeep or along the road through Jharkot and Kagbeni. The Lubra trail takes another line. From Ranipauwa we climb south onto the high, open ridge between the Muktinath valley and the Panda Khola, on grazing paths used by herders. The climb is steady and exposed to the sun, and you reach the high point after about 2–3 hours, depending on pace and acclimatisation.",
+        "From the ridge the view is wide: Dhaulagiri and Tukuche Peak to the west, Nilgiri to the south, and the Kali Gandaki valley far below. Blue sheep often graze these slopes. The descent into the Panda Khola valley is long and steep in places, on loose ground, so walking poles help. Gradually the valley narrows, and Lubra's green fields and walnut trees appear below. Take your time on this section.",
+        "We stop in Lubra for tea and a visit to the Bon monastery, then follow the riverbed down to the Kali Gandaki and on to Jomsom, arriving in the late afternoon. It is a long day, around 6–7 hours of walking, and only for fit walkers who have already slept at Muktinath. The trail is not signposted, and the weather on the ridge can change fast, so a guide is essential."
+      ],
+      "good_for": [
+        "trekkers",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "Is the Muktinath–Lubra trail difficult?",
+          "a": "It is moderately hard: a climb onto a high ridge followed by a long, steep descent on loose ground, about 6–7 hours in total. There are no lodges or shops between Ranipauwa and Lubra. It suits fit walkers who are already acclimatised after a night at Muktinath. Walking poles and good boots help a lot on the descent."
+        },
+        {
+          "q": "Do I need a guide for the Lubra trail?",
+          "a": "Yes. The route is not signposted, crosses open grazing land where paths divide, and the weather on the ridge can change quickly. Since April 2023, foreign trekkers in ACAP must also have a licensed guide; check current status before you travel. Pick a guide who has walked this route recently."
+        },
+        {
+          "q": "When is the best time for the Lubra trail?",
+          "a": "April to June and September to November are best, with dry ground and clear views. In winter, snow and ice can make the ridge dangerous, and in July and August flash floods are possible in the Panda Khola. Start early to cross the ridge before the afternoon wind and cloud build."
+        }
+      ]
+    },
+    {
+      "slug": "lubra-panda-khola-landscape-walk",
+      "title": "Fossils, cliffs and water in the Panda Khola",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Oct–May",
+      "image_query": "Mustang cliffs riverbed fossils",
+      "wiki": "",
+      "summary": "A slow nature walk in the Panda Khola below Lubra, looking at layered cliffs, shaligram fossils in the riverbed, wildlife on the slopes and the irrigation channels that make farming possible here, with a guide who can explain how floods are changing the valley.",
+      "body": [
+        "The Panda Khola valley is a small lesson in how the Himalaya was made. Its cliffs show layer upon layer of sedimentary rock, laid down on the floor of the Tethys Sea before India collided with Asia and pushed it up. In the riverbed you can find black shaligram stones that split to reveal ammonite fossils, the same stones that Hindu pilgrims seek in the Kali Gandaki. Take photographs, but leave most of them where they lie.",
+        "Walk slowly and watch the slopes. Blue sheep come down to graze in the mornings, especially in winter, and lammergeiers and griffon vultures circle above the cliffs. Lower down, the willows and walnut trees around Lubra draw small birds. Your guide will point out the irrigation channels that carry water from the Panda Khola to the terraces, some running for hundreds of metres along the cliff foot. Binoculars are worth bringing.",
+        "Then there is the river itself. In recent years flash floods have torn through the valley and damaged Lubra's fields and channels. Standing on the wide gravel bed, you can see where the water has cut new courses and where villagers have rebuilt walls. This walk can be combined with the monastery visit, or done as a quieter morning from Jomsom. Avoid it when rain is forecast. It is a sobering sight."
+      ],
+      "good_for": [
+        "families",
+        "photographers",
+        "solo",
+        "trekkers"
+      ],
+      "faqs": [
+        {
+          "q": "Can I find shaligram fossils near Lubra?",
+          "a": "Yes, shaligram stones can be found in the Panda Khola riverbed below Lubra, as in the Kali Gandaki. They are sacred to Hindus, so handle them respectfully. Take one or two small stones at most if you wish, and leave the rest. Searching is only safe when the river is low, roughly October to May."
+        },
+        {
+          "q": "What wildlife lives around Lubra?",
+          "a": "Blue sheep (bharal) graze the slopes, especially in the mornings and in winter, and large birds such as lammergeiers and Himalayan griffon vultures ride the air above the cliffs. Smaller birds gather in the willows and walnut trees around the village. Snow leopards range in the wider area but are very rarely seen."
+        },
+        {
+          "q": "Why does Lubra flood?",
+          "a": "Lubra sits beside the Panda Khola, whose narrow upper valley can channel heavy rain into sudden floods. In recent years floods have repeatedly damaged the village's fields and irrigation channels, which villagers and reporters link to more intense rainfall events. It is one reason we avoid the valley when rain is forecast."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is Lubra village in Mustang?",
+      "a": "Lubra lies in the Panda Khola valley, a side valley east of the Kali Gandaki between Jomsom and Kagbeni, at about 3,000 m. It is roughly 2–2.5 hours' walk from Jomsom, or a day's walk down from Muktinath by a higher trail. It is not on the main jeep road, which keeps it quiet."
+    },
+    {
+      "q": "Why is Lubra famous?",
+      "a": "Lubra is known as one of the oldest Bon communities in Nepal and the only village in Mustang that follows Bon entirely. Its monastery, its counter-clockwise rituals and its quiet setting in a narrow valley make it very different from the Buddhist and Hindu sites around it. Few visitors make the short detour."
+    },
+    {
+      "q": "Can I stay overnight in Lubra?",
+      "a": "There are no regular lodges in Lubra, and we do not plan overnight stays there. Visit as a half-day walk from Jomsom or as part of a walk down from Muktinath, and sleep in Jomsom or Kagbeni. Families sometimes offer tea to visitors, which is a good way to support the village."
+    },
+    {
+      "q": "Do I need a permit to visit Lubra?",
+      "a": "Lubra lies inside the Annapurna Conservation Area, so you need an ACAP permit (NPR 3,000; SAARC nationals NPR 1,000) and a TIMS card. No restricted area permit is needed. Since April 2023 foreign trekkers in conservation areas need a licensed guide. Check current status before you travel."
+    },
+    {
+      "q": "Is Lubra suitable for a family walk?",
+      "a": "Yes, for families used to walking. The trail from Jomsom is about 2–2.5 hours each way on a stony riverbed with gentle climbing, and children often enjoy looking for fossils. There are no shops on the way, so carry water and snacks, and avoid the valley if rain is forecast because of flash-flood risk."
+    },
+    {
+      "q": "What is the difference between Bon and Buddhism?",
+      "a": "Bon and Tibetan Buddhism share many practices and the goal of enlightenment, but Bon follows its own founder, Tonpa Shenrab, and its own scriptures and lineages. Bon followers walk around holy places and turn prayer wheels counter-clockwise, and the Bon swastika points the other way. Bon has been recognised alongside the Buddhist schools by Tibetan religious leaders."
+    },
+    {
+      "q": "When is the best time to visit Lubra?",
+      "a": "March to May and September to November bring clear skies and safe trails. Winter is cold but dry, and many residents may be away in Jomsom or further south. In July and August flash floods are possible in the Panda Khola, so check conditions first. Go in the morning to avoid the afternoon wind."
+    },
+    {
+      "q": "How long should I spend in Lubra?",
+      "a": "Allow about an hour in the village itself for the monastery and a walk among the houses, plus 4–5 hours for the walk there and back from Jomsom. That makes a comfortable half day. If you come down from Muktinath by the high trail, Lubra is a natural tea stop before the last two hours to Jomsom."
+    },
+    {
+      "q": "Can I photograph people in Lubra?",
+      "a": "Ask first, every time. Lubra is a small village where people are not used to many visitors, and some older residents may prefer not to be photographed. Landscapes, chortens and the outside of the monastery are usually fine. Inside the monastery, photography depends on the caretaker's permission."
+    }
+  ]
+}

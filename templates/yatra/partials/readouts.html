@@ -1,0 +1,7 @@
+{% load yatra %}{% if obj.air %}<div class="readouts">
+  <div><span class="mono">{% icon "altitude" %}Altitude</span><b>{{ obj.altitude_m|num }} m</b><small>{{ obj.air.pct_height }}% of the way to 8,849 m</small></div>
+  <div><span class="mono">{% icon "nature" %}Belt</span><b>{{ obj.belt.name }}</b><small><span class="deva">{{ obj.belt.ne }}</span> · {{ obj.belt.note }}</small></div>
+  <div><span class="mono">{% icon "oxygen" %}Each breath</span><b>{{ obj.air.oxygen }}%</b><small>of the oxygen at sea level</small></div>
+  <div><span class="mono">{% icon "kettle" %}Water boils</span><b>{{ obj.air.boil }} °C</b><small>so dal takes longer here</small></div>
+  <div><span class="mono">{% icon "thermo" %}vs Kathmandu</span><b>{% if obj.air.vs_ktm > 0 %}+{% endif %}{{ obj.air.vs_ktm }} °C</b><small>typical difference by height</small></div>
+</div>{% endif %}

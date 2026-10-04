@@ -1,0 +1,8 @@
+{% load yatra %}<a class="card" href="{{ g.url }}" data-land="{{ g.region }}" data-item data-region="{{ g.region }}" data-cat="{{ g.category }}">
+  <div class="card__img">{% with i=g|first_img %}{% if i %}<img src="{{ i|src:500 }}" alt="" loading="lazy">{% else %}<div class="noimg">{% icon "book" %}</div>{% endif %}{% endwith %}<span class="card__tag">{% icon "book" %}{{ g.category }}</span></div>
+  <div class="card__body">
+    <div class="card__meta"><span>{{ g.region_obj.name }}</span><b>{{ g.read_min }} min read</b></div>
+    <h3>{{ g.title }}</h3>
+    <p>{{ g.summary|truncatewords:20 }}</p>
+  </div>
+</a>

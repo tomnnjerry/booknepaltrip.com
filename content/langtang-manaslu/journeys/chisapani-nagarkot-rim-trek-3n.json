@@ -1,0 +1,77 @@
+{
+  "slug": "chisapani-nagarkot-rim-trek-3n",
+  "title": "Chisapani to Nagarkot valley rim trek",
+  "region": "langtang-manaslu",
+  "kind": "trek",
+  "nights": 3,
+  "themes": ["treks-and-trails", "heritage-and-temples", "family-trips", "photography"],
+  "grade": "Moderate",
+  "stops": [
+    {"place": "chisapani", "nights": 1},
+    {"place": "nagarkot", "nights": 1},
+    {"place": "bhaktapur", "nights": 1}
+  ],
+  "start": "Kathmandu",
+  "end": "Kathmandu",
+  "price_from_usd": 450,
+  "best_months": [2, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2438,
+  "meta_description": "Chisapani–Nagarkot rim trek, 3 nights: Sundarijal to Chisapani, the ridge to Nagarkot, Changunarayan temple and a last night in old Bhaktapur.",
+  "summary": "Three nights walking the northern and eastern rim of the Kathmandu valley: up from Sundarijal to Chisapani, along Tamang ridges to Nagarkot, and down past Changunarayan, the valley's oldest temple, to a night in Bhaktapur. Mountain views every morning, modest altitude and no long drives.",
+  "intro": [
+    "Kathmandu sits in a bowl, and the rim of that bowl is one of the best short walks in Nepal. This trek starts at Sundarijal, 45 minutes from Thamel, climbs through Shivapuri Nagarjun National Park to Chisapani, and follows farm paths and forest along the hills to Nagarkot. On a clear morning the Himalaya runs across the whole northern horizon, from Ganesh Himal through Langtang and Jugal toward Everest's neighbours in the far east.",
+    "The last day is downhill and full of history. From Nagarkot you walk through pine forest and terraces to Changunarayan, a Vishnu temple on a ridge with a stone inscription from the fifth century, then drive the short way to Bhaktapur for the evening. It suits families, walkers short on time and anyone who wants a taste of the hills before a longer trek. Shivapuri is a national park, so your guide is licensed; check current status before you travel."
+  ],
+  "story": "You climb out of the city past the reservoir at Sundarijal, where monkeys sit on the pipeline and stone steps lead into forest. At Chisapani the air is cooler and the night quiet, and the morning brings the mountains. The second day crosses the country between: Tamang and Brahmin farms, maize and millet terraces, tea stalls at small passes, children walking to school along the same paths. Nagarkot gives you sunset and sunrise from the valley rim. Then you go down, through pine and village, to Changunarayan, where Licchavi kings set up stone and gilt images of Vishnu more than 1,500 years ago. The trip closes among Bhaktapur's brick squares, with yoghurt in a clay bowl.",
+  "highlights": [
+    "Sunrise over the Himalaya from Chisapani and again from Nagarkot",
+    "Walking from the edge of Kathmandu into Shivapuri Nagarjun National Park",
+    "Changunarayan, a UNESCO-listed Vishnu temple with Nepal's oldest dated inscription",
+    "An evening and morning in Bhaktapur's Durbar Square and Taumadhi Square",
+    "Short drives and modest altitude: good for families and a first trek"
+  ],
+  "days": [
+    {"day": 1, "title": "Sundarijal to Chisapani", "place": "chisapani", "overnight": "Chisapani", "alt_m": 2215,
+     "move": "≈ 45 min drive · ≈ 4–5 h walk · +850 m", "text": "We drive from your Kathmandu hotel to Sundarijal on the north-east edge of the valley. The trail climbs stone steps beside the water pipeline and reservoir into Shivapuri Nagarjun National Park, where your guide pays the entry fee. Above Mulkharka, a Tamang village with tea shops, the path climbs through forest to the pass at Borlang Bhanjyang and drops gently to Chisapani. Watch the sunset light on Langtang and Ganesh Himal, then warm up with dal bhat in your lodge.", "meals": "Lunch, Dinner"},
+    {"day": 2, "title": "Along the ridge to Nagarkot", "place": "nagarkot", "overnight": "Nagarkot · Club Himalaya", "alt_m": 2195,
+     "move": "≈ 6–7 h walk · ups and downs", "text": "Up early for sunrise, then a long, varied day east along the hills. The trail passes through Tamang and Brahmin villages, forest of oak and pine, and terraces of millet and maize, via Chauki Bhanjyang and Jhule, with tea stops in small bazaars. Some sections follow quiet dirt roads. You reach Nagarkot in the late afternoon and check in at Club Himalaya, on the rim at about 2,195 m. Dinner with a view, if the cloud allows, and an early night.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 3, "title": "Down to Changunarayan and Bhaktapur", "place": "bhaktapur", "overnight": "Bhaktapur", "alt_m": 1401,
+     "move": "≈ 3–4 h walk · −800 m · ≈ 30 min drive", "text": "Watch the sunrise from the hotel terrace, then walk down through pine forest and Telkot to Changunarayan. The temple, rebuilt in its present form in the 18th century on a site far older, is a UNESCO World Heritage monument; beside it stands the pillar inscription of King Manadeva from 464 CE, the oldest dated inscription in Nepal. After lunch in the village, a short drive takes you to Bhaktapur. Stroll Taumadhi Square at dusk, when the Nyatapola temple's steps fill with families.", "meals": "Breakfast, Lunch"},
+    {"day": 4, "title": "Bhaktapur morning, back to Kathmandu", "place": "kathmandu", "overnight": "", "alt_m": 1400,
+     "move": "≈ 13 km · 45 min drive", "text": "Bhaktapur is best before the day visitors arrive. Walk with your guide through Durbar Square, past the Golden Gate and the 55-window palace, to Pottery Square, where clay pots dry in rows, and Dattatreya Square with its old monasteries and the Peacock Window. Try juju dhau, the city's famous sweet yoghurt, from a clay bowl. Around midday we drive you back to Kathmandu, where the trip ends at your hotel, in good time for an evening flight or onward plans.", "meals": "Breakfast"}
+  ],
+  "stays": ["club-himalaya-nagarkot"],
+  "includes": [
+    "Private transfers Kathmandu–Sundarijal, Changunarayan–Bhaktapur and Bhaktapur–Kathmandu",
+    "Licensed guide for the whole trip and one porter for every two walkers",
+    "Shivapuri Nagarjun National Park entry fee, Changunarayan and Bhaktapur heritage entry fees",
+    "One night in a Chisapani lodge, one night at Club Himalaya, Nagarkot, and one night in a Bhaktapur guesthouse, twin sharing",
+    "Meals as listed in the day-by-day plan"
+  ],
+  "excludes": [
+    "Kathmandu hotel nights before and after the trip",
+    "International flights and Nepal visa fees",
+    "Travel insurance",
+    "Drinks, snacks and meals not listed",
+    "Tips for guide, porter and driver"
+  ],
+  "good_to_know": [
+    "Shivapuri Nagarjun National Park is a protected area; guide rules and entry fees change, so check current status before you travel.",
+    "Chisapani lodges are simple, with shared bathrooms in most; Nagarkot and Bhaktapur are hotel standard.",
+    "Mountain views are clearest from October to February; spring brings haze by mid-morning.",
+    "Day two is the longest, at 6 to 7 hours; we can shorten it with a jeep for part of the way.",
+    "Children from about eight years old usually manage this route well with a slower pace."
+  ],
+  "faqs": [
+    {"q": "Can you see Everest from Nagarkot?", "a": "On exceptionally clear days a tiny summit far to the east is often pointed out as Everest, but it is distant and hard to be sure of. What you see well from Nagarkot is the long line of the central Himalaya: Ganesh Himal, Langtang, Dorje Lakpa and the Jugal Himal, sometimes with Gauri Shankar beyond. October to February gives the best chance."},
+    {"q": "How difficult is the Chisapani Nagarkot trek?", "a": "It is easy to moderate. The highest point is only about 2,440 m, so altitude is not an issue. The first day climbs about 850 m and the second is 6 to 7 hours of ups and downs, which is the hardest part. Anyone who can walk most of a day on hills will manage, and we can shorten day two with a jeep."},
+    {"q": "Is this trek suitable for children?", "a": "Yes, for active children of about eight and older. The route is low, close to Kathmandu and ends in hotels, so you can bail out easily if needed. Kids enjoy the monkeys near Sundarijal, the farm villages and Bhaktapur's pottery square. We plan a slower pace and can use a vehicle on part of the second day."},
+    {"q": "Do I need a permit for the Chisapani Nagarkot trek?", "a": "There is no trekking permit like in Langtang or Manaslu, but you pay an entry fee to Shivapuri Nagarjun National Park at Sundarijal, and separate heritage fees at Changunarayan and Bhaktapur. All are included in this trip. Fees change, so check current status before you travel."},
+    {"q": "What is special about Changunarayan temple?", "a": "Changunarayan is a Vishnu temple on a ridge above Bhaktapur and one of the seven monument zones of the Kathmandu Valley UNESCO World Heritage Site. The site is ancient, and the pillar inscription of King Manadeva, dated 464 CE, is the oldest dated inscription in Nepal. The courtyard is full of Licchavi and later stone sculpture."},
+    {"q": "What is the best time for the Chisapani Nagarkot trek?", "a": "October to December gives the clearest mountain views and dry trails. January and February are colder but often very clear. March and April are pleasant, with rhododendrons in the Shivapuri forest, though haze builds by mid-morning. The monsoon from June to August brings leeches, mud and cloud, so we do not recommend it."},
+    {"q": "Can I do this trek in one or two nights?", "a": "Yes. A one-night version walks Sundarijal to Chisapani and back down, or drives out from Chisapani. A two-night version ends at Nagarkot and drives back to Kathmandu. The full three-night trip adds the walk to Changunarayan and the evening in Bhaktapur, which we think is the best part. Tell us your dates."},
+    {"q": "What is Club Himalaya in Nagarkot like?", "a": "Club Himalaya is a long-running hotel on the Nagarkot ridge with rooms that face the mountains, a restaurant and a terrace for sunrise. It is comfortable rather than luxurious, and its main asset is the view. After a night in a simple Chisapani lodge, a private bathroom and a warm room feel very welcome."},
+    {"q": "What should I eat in Bhaktapur?", "a": "Juju dhau, the sweet set yoghurt served in clay bowls, is Bhaktapur's best-known food. Try also Newar snacks like bara (lentil patties), chatamari and choila in small eateries around Taumadhi Square. Your guide can point out family-run places where locals eat. A Newar set meal with beaten rice makes a good lunch before the drive."}
+  ]
+}

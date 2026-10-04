@@ -1,0 +1,222 @@
+{
+  "slug": "pokhara-tansen-lumbini-chitwan-overland-8n",
+  "title": "Pokhara, Lumbini and Chitwan Overland",
+  "region": "pokhara-annapurna",
+  "kind": "overland",
+  "nights": 8,
+  "themes": [
+    "heritage-and-temples",
+    "spiritual-and-pilgrimage",
+    "wildlife-and-jungle",
+    "lakes-and-rivers"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "pokhara",
+      "nights": 2
+    },
+    {
+      "place": "tansen",
+      "nights": 1
+    },
+    {
+      "place": "lumbini",
+      "nights": 2
+    },
+    {
+      "place": "sauraha",
+      "nights": 3
+    }
+  ],
+  "start": "Pokhara",
+  "end": "Kathmandu",
+  "price_from_usd": 1300,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1600,
+  "meta_description": "Pokhara to Kathmandu overland in 8 nights: Phewa Lake, the hill town of Tansen, the Buddha's birthplace at Lumbini and three nights for rhinos in Chitwan.",
+  "summary": "Eight nights by road from the lakes to the plains: two nights in Pokhara, the Newar hill bazaar of Tansen on the Siddhartha Highway, two nights at Lumbini, the birthplace of the Buddha, and three nights in Chitwan for rhino, gharial and jungle walks, ending in Kathmandu.",
+  "intro": [
+    "This is the road trip most visitors never take: south out of the Annapurna foothills on the Siddhartha Highway, through deep river gorges and ridge-top bazaars, down to the hot, flat Terai along the Indian border. In nine days you go from 1,600 m at Sarangkot to about 150 m at Lumbini, and from Machhapuchhre on the skyline to sal forest and rhinos. Each stop feels like a different country.",
+    "We stop at Tansen, a Newar and Magar hill town that most travellers drive past, for its old palace and its dhaka weaving. At Lumbini you have a full day for the Sacred Garden and the monastic zone. Chitwan gets three nights, enough for a jeep safari, a canoe on the Rapti, a jungle walk and a Tharu village. The road sections are 3 to 6 hours each, in a private car with a driver who knows them."
+  ],
+  "story": "The journey starts on still water, with Phewa Lake and the Annapurnas, and then the road drops south along the Andhi Khola and the Kali Gandaki, past Syangja's terraced hills and across the Kali Gandaki at Ramdi. Tansen arrives on a ridge, a bazaar of cobbled lanes where Newar merchants built tall houses and Magar villages farm the slopes around. From its hilltop at Shreenagar the Himalaya shows one last time. Then the road falls in hairpins to Butwal, and the Terai opens flat and hot. At Lumbini, a stone pillar raised by the emperor Ashoka in 249 BCE names this as the place where the Buddha was born. The last stop is Chitwan, where Tharu villages sit on the edge of the forest and rhinos graze the grasslands along the Rapti river.",
+  "highlights": [
+    "The Maya Devi Temple and Ashoka Pillar at Lumbini, the Buddha's birthplace",
+    "Three nights in Chitwan with a jeep safari, a canoe on the Rapti and a jungle walk",
+    "Tansen's old bazaar, Rani Mahal on the Kali Gandaki and dhaka weaving workshops",
+    "Sunrise over the Annapurnas from Sarangkot before heading south",
+    "A Tharu village visit and stick dance in Sauraha"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Pokhara",
+      "place": "pokhara",
+      "overnight": "Hotel Barahi, Pokhara",
+      "alt_m": 822,
+      "move": "",
+      "text": "We meet you at Pokhara airport or the tourist bus park and take you to Hotel Barahi in Lakeside. In the afternoon take a boat to the island temple of Tal Barahi on Phewa Lake and walk along the shore at sunset. Your guide briefs you on the road ahead and the plan for Lumbini and Chitwan. Dinner in one of the lakeside restaurants. If you arrive early, walk the shore path south to Basundhara Park and back.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 2,
+      "title": "Sarangkot sunrise and Peace Pagoda",
+      "place": "sarangkot",
+      "overnight": "Hotel Barahi, Pokhara",
+      "alt_m": 822,
+      "move": "≈ 30 min drive each way",
+      "text": "An early drive to Sarangkot, 1,600 m, for sunrise on Machhapuchhre, the Annapurnas and Dhaulagiri. After breakfast visit the old bazaar and the Bindhyabasini temple, Davis Falls and Gupteshwor cave. In the afternoon cross Phewa by boat and climb to the World Peace Pagoda for the last long look at the mountains, which you will leave behind tomorrow. Pack tonight for an early start south. Dinner tonight is your choice in Lakeside, where fish from the lake and Thakali sets are easy to find.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Siddhartha Highway to Tansen",
+      "place": "tansen",
+      "overnight": "Hotel Srinagar, Tansen",
+      "alt_m": 1350,
+      "move": "≈ 120 km · 4–5 h drive",
+      "text": "We drive south on the Siddhartha Highway, through Syangja's terraced hills and down to the Kali Gandaki at Ramdi, then climb to Tansen in Palpa district. After lunch walk the old bazaar: Tansen Durbar, the Amar Narayan temple with its carved struts, and the workshops where weavers make dhaka cloth on hand looms, the patterned fabric used for the Nepali topi hat. Evening at Hotel Srinagar on the ridge above town.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "Rani Mahal and down to Lumbini",
+      "place": "lumbini",
+      "overnight": "Buddha Maya Garden Hotel, Lumbini",
+      "alt_m": 150,
+      "move": "≈ 2 h side trip · then ≈ 75 km · 3 h drive",
+      "text": "Sunrise from Shreenagar hill above Tansen for a last Himalayan view. Then an optional drive and walk to Rani Mahal, the riverside palace built by a Rana general in 1893 in memory of his wife, sometimes called Nepal's Taj Mahal, on the bank of the Kali Gandaki. In the afternoon we wind down to Butwal and across the plains to Lumbini, about 150 m. Check in at Buddha Maya Garden Hotel near the Sacred Garden.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 5,
+      "title": "Lumbini: the Buddha's birthplace",
+      "place": "lumbini",
+      "overnight": "Buddha Maya Garden Hotel, Lumbini",
+      "alt_m": 150,
+      "move": "≈ cycling or electric rickshaw",
+      "text": "Early morning at the Maya Devi Temple, built over the excavated ruins that mark the place of the Buddha's birth, with the marker stone, the Ashoka Pillar inscribed in 249 BCE, and the Puskarini pond where his mother is said to have bathed. Later explore the monastic zone by bicycle or rickshaw: the monasteries of Myanmar, China, Germany, Thailand, Vietnam and others, each in its own style, and the World Peace Pagoda at the north end of the canal.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 6,
+      "title": "Lumbini to Chitwan",
+      "place": "sauraha",
+      "overnight": "Green Park Chitwan, Sauraha",
+      "alt_m": 200,
+      "move": "≈ 170 km · 5–6 h drive",
+      "text": "We drive east along the East-West Highway through Butwal, Narayangadh and Bharatpur to Sauraha, on the northern edge of Chitwan National Park. In the late afternoon walk to the bank of the Rapti river to watch the sun go down over the forest, often with rhinos grazing the islands. Green Park Chitwan is a garden resort at the edge of Sauraha, a few minutes from the river. The drive passes Butwal, where the hills meet the plains.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 7,
+      "title": "Canoe, jungle walk and Tharu village",
+      "place": "sauraha",
+      "overnight": "Green Park Chitwan, Sauraha",
+      "alt_m": 200,
+      "move": "≈ 1 h canoe · ≈ 3 h walk",
+      "text": "Morning in a dugout canoe on the Rapti, looking for mugger and gharial crocodiles, kingfishers and storks, then a guided jungle walk with two experienced naturalists through grassland and sal forest. After lunch visit a Tharu village and the elephant breeding centre. Chitwan National Park, created in 1973, is a UNESCO World Heritage Site and one of the best places in Asia to see the greater one-horned rhinoceros. In the evening watch a Tharu stick dance.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 8,
+      "title": "Jeep safari in Chitwan",
+      "place": "sauraha",
+      "overnight": "Green Park Chitwan, Sauraha",
+      "alt_m": 200,
+      "move": "≈ 4 h jeep safari",
+      "text": "A jeep safari deeper into the park, to the grasslands and oxbow lakes where rhino, gaur, sambar, spotted deer, wild boar and, with luck, sloth bear and tiger are seen. Tigers are shy and seen by only a minority of visitors, but rhinos are almost certain. The afternoon is free to rest, cycle through the farms around Sauraha, or join a birdwatching walk. Dinner is at the resort, with an early night before the drive.",
+      "meals": "Breakfast, Lunch, Dinner"
+    },
+    {
+      "day": 9,
+      "title": "Drive or fly to Kathmandu",
+      "place": "kathmandu",
+      "overnight": "",
+      "alt_m": 1400,
+      "move": "≈ 160 km · 5–7 h drive, or ≈ 25 min flight from Bharatpur",
+      "text": "After an early bird walk, we drive to Kathmandu via Mugling and the Trishuli valley, or transfer to Bharatpur airport for a short flight. The trip ends at your Kathmandu hotel or the international airport. If you have more time, we can add nights in the Kathmandu Valley's heritage towns of Patan and Bhaktapur. Leave at least four hours between arrival and any international flight. We can book those nights for you, with a guide for the old squares.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-barahi-pokhara",
+    "hotel-srinagar-tansen",
+    "buddha-maya-garden-hotel",
+    "green-park-chitwan"
+  ],
+  "includes": [
+    "Private car and driver throughout, from Pokhara to Kathmandu",
+    "English-speaking guide throughout, plus licensed naturalists in Chitwan",
+    "2 nights at Hotel Barahi, 1 night at Hotel Srinagar, 2 nights at Buddha Maya Garden Hotel with breakfast and dinner where listed",
+    "3 nights at Green Park Chitwan with all meals and jungle activities",
+    "Chitwan National Park entry, canoe, jungle walk and jeep safari",
+    "Entry fees at Lumbini's Maya Devi Temple and Pokhara sights"
+  ],
+  "excludes": [
+    "Flight to Pokhara and optional flight from Bharatpur",
+    "Lunches outside Chitwan",
+    "Drinks, donations and tips",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Lumbini is very hot from April to June, often above 35 °C; we plan visits for early morning and late afternoon.",
+    "Shoes are removed and shoulders and knees covered at the Maya Devi Temple and monasteries.",
+    "Chitwan jungle walks are led by licensed guides; follow their instructions about rhinos and sloth bears.",
+    "Chitwan is quieter and wetter in monsoon; some areas of the park close from mid-June to mid-September.",
+    "Roads on the Siddhartha Highway are winding; bring motion-sickness medicine if you need it."
+  ],
+  "faqs": [
+    {
+      "q": "How far is Lumbini from Pokhara?",
+      "a": "By road Lumbini is about 200 km from Pokhara via the Siddhartha Highway, Butwal and Bhairahawa, roughly 7 to 8 hours of driving with stops. We break it with a night in Tansen, which makes the trip easier and adds a beautiful hill town. There are also flights from Pokhara and Kathmandu to Gautam Buddha International Airport at Bhairahawa."
+    },
+    {
+      "q": "Is it worth visiting Tansen?",
+      "a": "Yes, if you like old towns with few tourists. Tansen is a hill bazaar of Newar houses, temples and cobbled lanes in Palpa district, known for dhaka weaving and karuwa brass pots. It is a natural halfway stop between Pokhara and Lumbini, and the view from Shreenagar hill reaches the Himalaya on clear mornings."
+    },
+    {
+      "q": "How many days do I need in Lumbini?",
+      "a": "One full day is enough for the Sacred Garden with the Maya Devi Temple and Ashoka Pillar and a tour of the main monasteries in the monastic zone. Two nights let you visit at dawn and dusk, when it is cooler and quieter. Add another day for Tilaurakot, the site often identified with ancient Kapilavastu."
+    },
+    {
+      "q": "Will I see rhinos in Chitwan?",
+      "a": "Almost certainly. Chitwan has one of the largest populations of greater one-horned rhinoceros in the world, and most visitors see them on a jeep safari, a canoe trip or even from the Rapti riverbank in Sauraha. Tigers are present but shy, and only a small share of visitors see one."
+    },
+    {
+      "q": "What is the best time for this overland trip?",
+      "a": "October to March is ideal: clear in Pokhara, comfortable in Lumbini and good for wildlife in Chitwan. February and March are best for wildlife as grass is cut. April and May are very hot in the Terai. Monsoon, June to September, is wet, with some road delays and limited jungle access."
+    },
+    {
+      "q": "Is the Siddhartha Highway safe?",
+      "a": "It is a winding mountain road with heavy traffic in places, especially trucks between Butwal and Pokhara. With an experienced private driver, travelling in daylight, it is the normal route and used daily. In monsoon, landslides can block it for hours, so we keep spare time in the plan."
+    },
+    {
+      "q": "What should I wear at Lumbini?",
+      "a": "Dress modestly with shoulders and knees covered, especially inside the Maya Devi Temple and monasteries. Shoes are removed before entering the temple and shrine halls. Light, loose cotton clothes help in the heat, along with a hat and sunscreen for walking between monasteries."
+    },
+    {
+      "q": "Can I fly instead of driving between Lumbini and Kathmandu?",
+      "a": "Yes. Gautam Buddha International Airport at Bhairahawa is about 20 km from Lumbini and has flights to Kathmandu of about 40 minutes. From Chitwan, Bharatpur airport has short flights to Kathmandu. Flying saves a day of driving but you miss the river valleys and Tansen."
+    },
+    {
+      "q": "How much does this overland trip cost?",
+      "a": "Our 8-night overland trip starts from USD 1,300 per person, twin sharing, including a private car and guide, all hotels named, full board in Chitwan with park activities and entry fees, and dinners in Tansen and Lumbini. Flights to Pokhara and the optional flight from Bharatpur are extra."
+    }
+  ]
+}

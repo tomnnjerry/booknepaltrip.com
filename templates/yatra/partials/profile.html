@@ -1,0 +1,10 @@
+{% load yatra %}{% if pf %}<figure class="profile" style="margin:0">
+  <svg viewBox="0 0 600 160" role="img" aria-label="Sleeping height each night, highest {{ pf.max }} metres">
+    <defs><linearGradient id="pf-grad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="var(--accent)" stop-opacity=".55"/><stop offset="1" stop-color="var(--accent)" stop-opacity="0"/></linearGradient></defs>
+    {% for g in pf.grid %}<line class="grid-l" x1="20" x2="580" y1="{{ g.y }}" y2="{{ g.y }}"/><text class="grid-t" x="582" y="{{ g.y }}" dy="3">{{ g.label }}</text>{% endfor %}
+    <path class="area" d="{{ pf.area }}"/><path class="line" d="{{ pf.line }}"/>
+    {% for p in pf.pts %}<circle class="pt" cx="{{ p.x }}" cy="{{ p.y }}" r="3.5"><title>Night {{ p.day }}: {{ p.alt|num }} m</title></circle>{% endfor %}
+    <text class="peak" x="{{ pf.peak.x }}" y="{{ pf.peak.y }}" dy="-9" text-anchor="middle">{{ pf.peak.alt|num }} m</text>
+  </svg>
+  <figcaption class="profile__meta"><span>Highest night <b>{{ pf.max|num }} m</b></span><span>Total climbed between nights <b>{{ pf.gain|num }} m</b></span><span>One dot per night</span></figcaption>
+</figure>{% endif %}

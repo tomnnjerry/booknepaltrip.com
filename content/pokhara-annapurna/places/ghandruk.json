@@ -1,0 +1,171 @@
+{
+  "slug": "ghandruk",
+  "name": "Ghandruk",
+  "name_ne": "घान्द्रुक",
+  "local_name": "",
+  "region": "pokhara-annapurna",
+  "kind": "village",
+  "wiki": "Ghandruk",
+  "image_query": "Ghandruk village Annapurna South",
+  "lat": 28.376,
+  "lng": 83.807,
+  "altitude_m": 2012,
+  "tagline": "Nepal's best-known Gurung village, facing Annapurna South",
+  "meta_description": "Ghandruk with locals: a stone Gurung village at 2,012 m under Annapurna South, birthplace of ACAP, with its museum, mothers' groups, treks to Tadapani and how to reach it.",
+  "summary": "Ghandruk is a large Gurung village of stone houses and slate roofs at about 2,012 m, 32 km northwest of Pokhara above the Modi Khola. It faces Annapurna South, Hiunchuli and Machhapuchhre, was where the Annapurna Conservation Area Project began in 1986, and is reachable by jeep or a short trek.",
+  "intro": [
+    "Ghandruk climbs a steep hillside in tiers: stone-flagged lanes, houses of grey stone with slate or tin roofs, terraces of millet and potatoes, and prayer flags and bamboo above. Across the Modi Khola gorge, Annapurna South and Hiunchuli stand so close and high that they seem to lean over the village, with Machhapuchhre's fishtail to the right. Morning light on those peaks is the reason most people come.",
+    "It is also one of the largest and most established Gurung villages in Nepal, with over 5,000 people in its wider area. Many families have served in the Gurkhas for generations, and the village has a small Gurung Cultural Museum, the Meshram Baraha temple, and mothers' groups that organise cultural evenings and keep the lanes clean. The upper village keeps an older feel than the lodge strip.",
+    "Ghandruk works as a two-night trip from Pokhara, a stop on the Poon Hill loop, or a night on the way to Annapurna Base Camp. Since a jeep road reached the area you can drive most of the way, but walking up from Kimche, Syauli Bazaar or Landruk is still the better arrival."
+  ],
+  "story": {
+    "title": "Where Nepal tried a new kind of conservation",
+    "paras": [
+      "For generations Ghandruk was a Gurung farming village, growing millet, maize and potatoes on terraces, grazing sheep and cattle on high pastures, and sending its young men into the British and Indian Gurkha regiments. Army pensions paid for stone houses and helped fund schools, and retired soldiers became leaders on village committees.",
+      "By the early 1980s trekking was booming, and so was the cutting of forest for lodge fires. In 1986 the King Mahendra Trust for Nature Conservation, now the National Trust for Nature Conservation, launched the Annapurna Conservation Area Project with Ghandruk as its pilot. The idea was new for Nepal: no fences or soldiers, but village committees managing forests, lodge standards and permit income themselves.",
+      "With the project's help, villages built small micro-hydro plants, kerosene and later gas replaced firewood in many lodges, and community forests recovered. The Annapurna Conservation Area grew to 7,629 km2, Nepal's largest protected area. Since 2015 Ghandruk has been part of Annapurna Rural Municipality, and a road now reaches it. The village is busier, with new concrete lodges among the stone, but the upper lanes and the mountains are unchanged."
+    ]
+  },
+  "legend": "Gurung tradition long held the Annapurna Sanctuary, up the Modi Khola from Ghandruk, as a sacred place, home to deities from Hindu, Buddhist and older beliefs, and a store of treasure left by the naga serpent gods. Machhapuchhre at its gate was said to be the home of Shiva, and the plume of snow blowing from its summit the smoke of his incense. Until recently villagers forbade carrying eggs or meat into the sanctuary.",
+  "people": "Ghandruk is overwhelmingly Gurung (Tamu), with some Dalit families who have long worked as smiths and tailors. Households farm, run lodges, raise livestock and depend heavily on remittances and Gurkha pensions; many families now also live in Pokhara or abroad. Religious life mixes Buddhist lamas, Gurung Pachyu and Ghyabri priests and Hindu shrines such as Meshram Baraha. Mothers' groups play a strong role in village life.",
+  "untold": [
+    {"fact": "The Annapurna Conservation Area Project began in 1986 with Ghandruk as its pilot village, managed by what is now the National Trust for Nature Conservation, and pioneered community-run conservation in Nepal.", "source": "National Trust for Nature Conservation (NTNC): Annapurna Conservation Area Project"},
+    {"fact": "Ghandruk was its own village development committee until 2015, when it became part of Annapurna Rural Municipality; at the 2021 census its area had 5,316 people in 1,228 households.", "source": "Wikipedia: Ghandruk"},
+    {"fact": "Annapurna South (7,219 m), which dominates Ghandruk's view, was first climbed in 1964, and Hiunchuli beside it is in fact an extension of the same massif.", "source": "Wikipedia: Annapurna South"}
+  ],
+  "local_words": [
+    {"word": "Aama samuha", "script": "आमा समूह", "lang": "Nepali", "meaning": "Mothers' group; village women's committee that runs events and cleanups"},
+    {"word": "Rodhi", "script": "रोधी", "lang": "Gurung", "meaning": "Traditional gathering of young Gurung people to sing, work and socialise"},
+    {"word": "Lhosar", "script": "ल्होसार", "lang": "Gurung", "meaning": "New year; Tamu Lhosar falls on 15 Poush, about 30 December"}
+  ],
+  "taste": {"name": "Millet dhido with gundruk and local chicken", "text": "Thick finger-millet dhido eaten by hand with sour gundruk soup, a hot pickle and a curry of free-range village chicken. Ask your lodge or homestay in Ghandruk a day ahead; it is a family meal rather than a menu item. Millet raksi, the local spirit, may appear at festivals."},
+  "facts": [
+    ["Best months", "Oct – Nov, Mar – Apr"],
+    ["Days we suggest", "2"],
+    ["Nearest airport", "Pokhara International Airport (PHH)"],
+    ["From Kathmandu", "≈ 250 km · 9–10 h by road via Pokhara"],
+    ["Altitude", "2,012 m"],
+    ["Known for", "Gurung village, ACAP, Annapurna South views"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Dawn on Annapurna South", "text": "From the upper village, Annapurna South and Hiunchuli turn pink and gold above the Modi Khola gorge, with Machhapuchhre to the right. Walk up the lanes for the best view, before the lodges' breakfast rush."},
+    {"title": "Gurung Cultural Museum", "text": "A small family-run museum in a traditional house shows Gurung tools, dress, baskets, musical instruments and household objects, with explanations of daily life before the road came."},
+    {"title": "The stone lanes", "text": "Walk the old upper village's flagstone paths between houses with carved windows, grain drying in courtyards and water taps where neighbours meet. Evenings are the best time."},
+    {"title": "Mothers' group evenings", "text": "Ghandruk's aama samuha sometimes hold cultural evenings with Gurung songs and dances to raise funds for the village. Ask your lodge if one is planned during your stay."},
+    {"title": "Rhododendron to Tadapani", "text": "The trail up to Tadapani at about 2,630 m climbs through dense rhododendron and oak forest, red with flowers in March and April. Part of the Poon Hill loop."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "From Pokhara, drive the Baglung road to Nayapul, about 42 km, then take the rough road up the Modi Khola to Kimche or into Ghandruk itself. Private jeeps take about 3 hours from Pokhara depending on road conditions. Local jeeps run from Nayapul. Roads are slow and sometimes blocked in the monsoon."},
+    {"mode": "On foot", "text": "Walk from Kimche in about 1.5 hours, from Syauli Bazaar or Nayapul in 4–6 hours, from Landruk across the Modi Khola in 3–4 hours, or from Tadapani on the Poon Hill loop in 2–3 hours downhill. The steps above Kimche are steep but short."}
+  ],
+  "where_to_stay": "Ghandruk has dozens of family lodges, from basic teahouses to comfortable guesthouses with attached bathrooms and heated dining rooms. The best for views are in the upper and middle village facing Annapurna South; ask for a north-facing room. Some homestays in the old village let you sleep in a traditional stone house. There are no international-brand hotels; for luxury, stay in Pokhara at The Pavilions Himalayas or Fish Tail Lodge before and after.",
+  "stays": [],
+  "tips": [
+    "Ghandruk is inside the Annapurna Conservation Area: carry your ACAP permit and TIMS card and walk with a licensed guide; check current status before you travel.",
+    "Stay in the upper village rather than near the road head for quieter nights and better views.",
+    "Ask before photographing people, especially elders in traditional dress.",
+    "Buy only bottled water you can refill, or use the safe drinking water stations where available, to reduce plastic.",
+    "Carry cash: card payment is rare and the nearest reliable ATMs are in Pokhara."
+  ],
+  "themes": ["villages-and-homestays", "treks-and-trails", "photography", "family-trips"],
+  "nearby": ["ghorepani-poon-hill", "annapurna-base-camp", "dhampus", "pokhara"],
+  "experiences": [
+    {
+      "slug": "ghandruk-gurung-museum-and-lanes",
+      "title": "Gurung museum and the old lanes of Ghandruk",
+      "kind": "heritage",
+      "duration": "2–3 hours",
+      "best_time": "Afternoon, year-round",
+      "image_query": "Ghandruk stone houses lanes",
+      "wiki": "Ghandruk",
+      "summary": "Walk the stone-flagged lanes of Ghandruk's upper village with a local guide, visit the small Gurung Cultural Museum in a traditional house, and learn how this village of soldiers and farmers became the birthplace of community conservation in Nepal.",
+      "body": [
+        "Start at the museum, a traditional Gurung house turned into a small family-run collection. Inside are bamboo baskets of every size, wooden butter churns, looms, copper water pots, hunting tools, musical instruments and the dress worn at weddings and Lhosar: velvet blouses, heavy gold and coral jewellery and the bhangra cloth Gurung men tie across the chest.",
+        "Then walk up through the old village. Houses are built of dressed stone, often with carved wooden windows and slate roofs; the newer ones have tin. Lanes are paved with stone slabs, and every few minutes you pass a water tap, a small shrine or a chautara resting platform. Look for houses with photographs of soldiers on the walls; many families have served for three or four generations.",
+        "Finish at a viewpoint as the light fades on Annapurna South. Your guide can explain how ACAP started here in 1986, how village committees set lodge prices and manage forests, and how the road has changed the economy. Buy a small craft from the museum or village shops; it helps keep the museum open."
+      ],
+      "good_for": ["first-timers", "families", "photographers", "seniors"],
+      "faqs": [
+        {"q": "Is there a museum in Ghandruk?", "a": "Yes. Ghandruk has a small Gurung Cultural Museum in a traditional house, showing household tools, baskets, dress, jewellery and musical instruments of Gurung life. It is family-run, with a modest entry fee, and takes 30–45 minutes. Opening hours can be irregular, so ask your lodge. It is worth combining with a walk through the upper village."},
+        {"q": "What is traditional Gurung dress?", "a": "Women traditionally wear a velvet blouse (cholo), a wrapped skirt, a patterned cloth tied at the back and heavy jewellery of gold, coral and silver, especially at festivals. Men wear a short wrapped cloth (kachhad) and the bhangra cloth tied across the chest, with a topi cap. You will see it at Lhosar, weddings and cultural evenings."},
+        {"q": "How old is Ghandruk village?", "a": "Ghandruk is an old established Gurung settlement, among the largest in Nepal, but we know of no reliable founding date. Many of its stone houses are several generations old, and the village layout of stone lanes and terraces long predates trekking. Tourism arrived in the 1970s and 1980s, and ACAP began here in 1986."}
+      ]
+    },
+    {
+      "slug": "ghandruk-mothers-group-cultural-evening",
+      "title": "Gurung songs and dances with the mothers' group",
+      "kind": "heritage",
+      "duration": "1–2 hours",
+      "best_time": "Evening, Oct–Apr",
+      "image_query": "Gurung women traditional dress dance",
+      "wiki": "",
+      "summary": "An evening programme of Gurung songs and dances performed by village women of Ghandruk's mothers' group, often in traditional dress, raising money for community work. Informal, warm and participatory: you will be asked to dance.",
+      "body": [
+        "Mothers' groups, aama samuha, are one of the most effective institutions in hill villages. In Ghandruk they organise lane cleanups and support the school, and in many hill villages such groups have campaigned against gambling and heavy drinking. Cultural evenings for visitors are one way they raise funds.",
+        "Programmes are informal. Women in velvet blouses and jewellery sing Gurung songs accompanied by a madal drum, and dance in lines and circles. Some songs are old, others newer; your guide can translate the gist, often about love, farm work, soldiers far away and the mountains. Towards the end, guests are pulled into the circle, and resistance is useless.",
+        "Programmes are not held every night; ask your lodge on arrival, especially in October, November and spring. A donation or ticket fee goes to the group. Take photos but keep flash off, and stay to the end rather than leaving after a few songs."
+      ],
+      "good_for": ["families", "couples", "first-timers", "solo"],
+      "faqs": [
+        {"q": "Are there cultural shows in Ghandruk?", "a": "Yes, mothers' groups and youth clubs in Ghandruk hold Gurung song and dance programmes for visitors, especially in peak seasons, with funds going to village projects. They are not scheduled every night. Ask your lodge or guide on arrival. Groups can sometimes arrange a programme on request for a fee, if notice is given."},
+        {"q": "What are mothers' groups in Nepal?", "a": "Aama samuha, mothers' groups, are village women's committees found across the hills. They organise savings schemes, cleanups, school support and festival events, and in tourist villages such as Ghandruk they raise funds through cultural evenings. They have also campaigned on issues such as gambling and alcohol. They are a strong local voice in many villages."},
+        {"q": "Can I wear Gurung dress for photos in Ghandruk?", "a": "Some shops and families in Ghandruk rent traditional Gurung dress for photographs, a popular activity with Nepali visitors. If you do it, treat the clothes and jewellery with care and ask how to wear them properly. It is a fun way to support local businesses, but be respectful: these are clothes still worn at weddings and Lhosar."}
+      ]
+    },
+    {
+      "slug": "ghandruk-tadapani-rhododendron-trail",
+      "title": "Rhododendron forest walk to Tadapani",
+      "kind": "trek",
+      "duration": "3–4 hours up",
+      "best_time": "Morning, Mar–Apr and Oct–Nov",
+      "image_query": "Tadapani rhododendron forest trail",
+      "wiki": "",
+      "summary": "Climb about 600 m from Ghandruk through dense rhododendron and oak forest to the clearing of Tadapani at around 2,630 m, red with blossom in spring, and look back across the valley to Annapurna South and Machhapuchhre.",
+      "body": [
+        "Tadapani means far water in Nepali, and the clearing sits high on a ridge. The trail from Ghandruk leaves the upper village and climbs steadily on stone steps and earth paths into forest, the trees getting taller and the moss thicker as you rise. Langur monkeys sometimes crash through the canopy.",
+        "In March and April this is one of the finest rhododendron walks in Nepal. The lali gurans, tree rhododendron and national flower, turns the forest red, with pink and white varieties higher up. In autumn the forest is green and the views clearer. Either way, take it slowly; there are tea houses along the way.",
+        "At Tadapani a few lodges stand around a clearing with a view of Annapurna South, Hiunchuli and Machhapuchhre. Stay the night for sunrise and continue to Ghorepani and Poon Hill the next day, or return to Ghandruk in about two hours."
+      ],
+      "good_for": ["trekkers", "photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How long is the walk from Ghandruk to Tadapani?", "a": "Allow 3–4 hours up, climbing about 600 m on stone steps and forest trail, and about 2–2.5 hours back down. Tadapani sits at about 2,630 m. The path is clear and well used, with tea houses on the way. In the reverse direction, coming from Ghorepani, it is a longer day through more forest."},
+        {"q": "When do rhododendrons bloom near Ghandruk?", "a": "Rhododendrons flower from about late February at lower altitudes to April higher up, with mid-March to mid-April usually the peak between Ghandruk, Tadapani and Ghorepani. Timing shifts by a couple of weeks depending on the winter. The tree rhododendron, lali gurans, is Nepal's national flower and turns the forest red."},
+        {"q": "Is the Ghandruk to Tadapani trail safe?", "a": "Yes, it is a busy trekking trail with no exposure, but it passes through dense forest where there have been rare reports of robbery against walkers alone. Walk with your licensed guide, as Nepal requires for foreign trekkers in the Annapurna Conservation Area, and avoid walking late in the day. Stone steps are slippery after rain."}
+      ]
+    },
+    {
+      "slug": "ghandruk-sunrise-annapurna-south",
+      "title": "Sunrise on Annapurna South from upper Ghandruk",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "image_query": "Annapurna South sunrise Ghandruk",
+      "wiki": "Annapurna South",
+      "summary": "Climb through the sleeping village before dawn to a terrace in upper Ghandruk and watch first light hit Annapurna South, Hiunchuli and Machhapuchhre across the Modi Khola gorge, while the village wakes below.",
+      "body": [
+        "Annapurna South, at 7,219 m, is the mountain that defines Ghandruk. It rises directly across the Modi Khola gorge, with Hiunchuli in front of it and Machhapuchhre to the right, and on clear mornings it catches the sun well before the village does.",
+        "Set an alarm for about 30 minutes before sunrise and walk up the stone lanes to a terrace or the upper lodges. The peaks turn pink, then gold, then white, while the gorge below stays in blue shadow. Smoke rises from kitchen fires, roosters start up and families lead buffalo out. It is the quiet hour of a busy village.",
+        "Bring a warm jacket; it is often near freezing from December to February. Photographers should use a telephoto lens for the summit and a wide lens to include the village roofs. Breakfast is waiting in the lodge when you come down."
+      ],
+      "good_for": ["photographers", "couples", "families", "seniors"],
+      "faqs": [
+        {"q": "What mountains can you see from Ghandruk?", "a": "Ghandruk faces Annapurna South (7,219 m), Hiunchuli (6,441 m), Machhapuchhre (6,993 m) and, from some points, Gangapurna and Annapurna III. Annapurna South dominates. Dhaulagiri is not visible from the village itself; for it, go to Poon Hill. Views are clearest at sunrise and in October, November and the winter months."},
+        {"q": "Where is the best sunrise spot in Ghandruk?", "a": "The upper village and the terraces of lodges facing north give the clearest view of Annapurna South and Machhapuchhre at sunrise. Many lodges have rooftop or terrace viewpoints. Ask your lodge owner; they will point you to the best spot. There is no single official viewpoint, and you do not need to walk far."},
+        {"q": "Is it cold in Ghandruk in the morning?", "a": "At 2,012 m, mornings are cool year-round and cold from December to February, often near or slightly below freezing. October and November dawns are around 5–10 °C. Lodges rarely have heated rooms, though dining rooms may have a stove. Bring a warm jacket, hat and gloves for sunrise, and a sleeping bag for comfort at night."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I get to Ghandruk from Pokhara?", "a": "Drive the Baglung road to Nayapul, about 42 km, then continue on the rough road up the Modi Khola to Kimche or Ghandruk itself, about 3 hours in total by private jeep. From Kimche it is a 1.5-hour walk up. You can also walk from Nayapul in 4–6 hours. Local jeeps run from Nayapul. Roads are slow in the monsoon."},
+    {"q": "What is the altitude of Ghandruk?", "a": "Ghandruk sits at about 2,012 m, though the village spreads over a few hundred metres of hillside. It is too low for serious altitude sickness, but nights are cool to cold. Tadapani above it is about 2,630 m and Ghorepani 2,874 m. Below, Kimche is around 1,640 m and Nayapul about 1,070 m."},
+    {"q": "Do I need a permit for Ghandruk?", "a": "Yes. Ghandruk is inside the Annapurna Conservation Area, so you need an ACAP permit and a TIMS card, checked at posts such as Birethanti. Since April 2023 foreign trekkers must walk with a licensed guide. Permits are issued in Kathmandu and Pokhara. Rules have changed several times; check current status before you travel."},
+    {"q": "How many days do I need for Ghandruk?", "a": "Two nights from Pokhara is the easiest Ghandruk trip: drive and walk up, spend a full day in the village, and return. Three to four nights lets you add Tadapani and Ghorepani for the Poon Hill loop. Ghandruk is also a night stop on the way to Annapurna Base Camp via Chhomrong."},
+    {"q": "Is Ghandruk good for families?", "a": "Yes. With a jeep to Kimche the walk is short, the village has comfortable lodges, the museum and lanes interest children, and the mountain views are dramatic without high altitude. Children often love the mule trains and animals. Bring warm clothes and snacks. Keep children close on steep stone steps and near terrace edges."},
+    {"q": "Is Ghandruk better than Ghorepani?", "a": "They are different. Ghandruk is a large, lived-in Gurung village with culture, museum and close views of Annapurna South. Ghorepani is a lodge village at 2,874 m that exists mainly for Poon Hill's sunrise panorama with Dhaulagiri. Many treks visit both on the Poon Hill loop, three to four nights from Pokhara."},
+    {"q": "Can you drive to Ghandruk?", "a": "Yes, a jeep road now reaches Ghandruk from Nayapul via Kimche, so you can drive to the village or walk the last section from Kimche. The road is rough, narrow and often muddy, and in the monsoon it can be closed by landslides. Private jeeps are booked in Pokhara. Many visitors drive up and walk down."},
+    {"q": "What is ACAP and why did it start in Ghandruk?", "a": "The Annapurna Conservation Area Project, launched in 1986 by what is now the National Trust for Nature Conservation, chose Ghandruk as its pilot village because trekking was growing fast and forests were being cut for lodge fuel. The project let villagers manage forests and tourism through local committees, a model later used across Nepal's conservation areas."},
+    {"q": "What is the best time to visit Ghandruk?", "a": "October and November give the clearest views of Annapurna South. March and April bring rhododendron blossom on the trail to Tadapani, with more haze. December to February is cold but often clear and quiet. June to September is monsoon: cloud, rain, leeches and road closures make it the season to avoid."}
+  ]
+}

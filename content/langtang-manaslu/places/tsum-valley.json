@@ -1,0 +1,183 @@
+{
+  "slug": "tsum-valley",
+  "name": "Tsum Valley",
+  "name_ne": "चुम उपत्यका",
+  "local_name": "Tsum (Tibetan)",
+  "region": "langtang-manaslu",
+  "kind": "valley",
+  "wiki": "Tsum Valley",
+  "image_query": "Tsum Valley Mu Gompa",
+  "lat": 28.52,
+  "lng": 85.04,
+  "altitude_m": 3030,
+  "tagline": "The valley that vowed not to kill, below the Tibetan border",
+  "meta_description": "Tsum Valley in the Manaslu region: Mu Gompa, Rachen nunnery, Milarepa's cave, the Shyagya no-killing vow, restricted permits, best season and how to trek it.",
+  "summary": "Tsum Valley is a remote Tibetan-Buddhist valley in northern Gorkha, inside the Manaslu Conservation Area, between about 1,900 and 4,000 m. Opened to trekkers only in 2008, it is known for Mu Gompa, Rachen nunnery, caves linked to Milarepa and the Shyagya, a community vow against killing animals. Restricted permits apply.",
+  "intro": [
+    "Tsum is a long side valley of the Budhi Gandaki, running north-east from Lokpa toward the Tibetan border, enclosed by Ganesh Himal, Sringi Himal and Boudha Himal. Its villages, Chumling, Chhokangparo, Nile, Lamagaon and others, sit on terraces above the Shiar Khola at altitudes from about 1,900 to over 4,000 m. The people, the Tsumba, are Tibetan Buddhists with their own dialect and customs.",
+    "For centuries Tsum was a trade link with Tibet and a place of retreat for Buddhist practitioners. Tibetan Buddhists know it as a beyul, a hidden valley of refuge. Because it was closed to outsiders until 2008, its villages kept old ways: stone houses, long mani walls, gompas in every village, and the Shyagya, a pledge not to hunt, trap or sell animals for slaughter.",
+    "Trekkers usually combine Tsum with the Manaslu Circuit, adding 7 to 9 days, or visit it on its own as a 12 to 15 day trip from Kathmandu. It needs its own restricted area permit, a registered agency and a licensed guide. Tsum is on the Budhi Gandaki side, away from the rivers that flooded in August 2026, but roads to the trailhead were affected; check current status before you travel."
+  ],
+  "story": {
+    "title": "A beyul that wrote its own law of peace",
+    "paras": [
+      "Tsum has deep links with Tibet. Historically the valley lay on trade routes across the border, and its people speak a dialect of Tibetan origin and share religious lineages with Tibetan monasteries. Buddhist tradition holds that the yogi Milarepa meditated in caves in the valley in the 11th and 12th centuries, and these caves have drawn pilgrims for centuries. Monasteries such as Mu Gompa, near the head of the valley, and Rachen Gompa, a nunnery, became centres of practice and learning.",
+      "In the early 20th century, lamas led the Tsumba to adopt the Shyagya, a collective vow of non-violence, written down and sealed with the thumbprints of the community. Upper Tsum declared itself a non-violent area in about 1920; the lower valley joined in 2012. The rules forbid hunting, trapping, honey harvesting, selling livestock for slaughter and setting fire to forests. In April 2023 the centenary was celebrated in the valley with Nepal's prime minister present.",
+      "Tsum stayed closed to foreign trekkers until 2008. Since then a modest flow of visitors has come, mostly in autumn and spring, staying in small lodges and homestays. The valley remains poor in cash and rich in tradition: barley and buckwheat fields, yaks and sheep on high pastures, polyandry still practised in some families, and young monks and nuns in the gompas. Roads are slowly reaching its lower end."
+    ]
+  },
+  "legend": "Buddhist tradition says the great Tibetan yogi Milarepa came to Tsum to meditate and lived in caves in the valley. The best known, Piren Phu, the pigeon cave, near Chhokangparo, is visited by pilgrims who believe it holds traces of his presence, including a footprint said to be pressed into the rock. Tsumba also regard the whole valley as a beyul, a hidden land blessed by Guru Padmasambhava.",
+  "people": "The Tsumba are Tibetan Buddhists who speak their own Tibetic dialect and Nepali. They farm barley, buckwheat, maize and potatoes, herd yaks and sheep, and in a few settlements still trade with Tibet. Many children study in monastery schools, and gompas in the valley house monks and nuns. The Shyagya vow shapes how they treat animals and forests.",
+  "untold": [
+    {
+      "fact": "Upper Tsum was declared a non-violent area in about 1920, under the Shyagya vow against killing animals, and the 22 settlements of Lower Tsum declared the same commitment at a Shyagya festival in 2012.",
+      "source": "The Himalayan Times: Sacred Tsum Valley gears up for centennial celebrations"
+    },
+    {
+      "fact": "Tsum Valley was closed to foreign trekkers until 2008, and it still requires a special restricted area permit because it lies near the Tibetan border.",
+      "source": "Wikipedia: Tsum Valley"
+    },
+    {
+      "fact": "Traditional practices including polyandry and communal resource sharing still persist in parts of the Tsum Valley, alongside subsistence farming and yak and sheep herding.",
+      "source": "Wikipedia: Tsum Valley"
+    }
+  ],
+  "local_words": [
+    {"word": "Shyagya", "script": "", "lang": "Tibetan", "meaning": "The Tsum community vow against killing, hunting or selling animals for slaughter"},
+    {"word": "beyul", "script": "སྦས་ཡུལ་", "lang": "Tibetan", "meaning": "Hidden valley of refuge blessed by Guru Padmasambhava"},
+    {"word": "ani", "script": "ཨ་ནི་", "lang": "Tibetan", "meaning": "Buddhist nun, as at Rachen Gompa"}
+  ],
+  "taste": {
+    "name": "Buckwheat bread and salt tea",
+    "text": "Tsum homestays and lodges serve buckwheat bread or pancakes, potatoes, tsampa and salty butter tea. Meat is scarce because of the Shyagya vow, which forbids slaughter in the valley; food is simple and largely vegetarian. Ask for local chhyang or arak only if you are sure your host offers it."
+  },
+  "facts": [
+    ["Best months", "Sep – Nov, Mar – May"],
+    ["Days we suggest", "7–9 extra days on the Manaslu Circuit"],
+    ["Nearest airport", "Kathmandu (KTM)"],
+    ["From Kathmandu", "≈ 8–9 h drive to Machha Khola + 3–4 days to Chumling"],
+    ["Altitude", "≈ 1,900–4,000 m; Chhokangparo ≈ 3,030 m"],
+    ["Known for", "Mu Gompa, Rachen nunnery, Milarepa's cave, Shyagya"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "7–9",
+  "highlights": [
+    {"title": "Mu Gompa", "text": "The monastery near the head of the valley, at around 3,700 m, one of the highest points most Tsum treks reach. Monks live here year-round, and the view takes in the upper valley and ridges toward the Tibetan border."},
+    {"title": "Rachen Gompa", "text": "A nunnery on the trail below Mu Gompa, home to Buddhist nuns who study and practise here. Visit quietly with your guide, and if prayers are on, sit at the back and listen."},
+    {"title": "Piren Phu, Milarepa's cave", "text": "A cave near Chhokangparo linked by tradition with Milarepa's meditation, now a small shrine. Pilgrims come to see what is believed to be his footprint in the rock."},
+    {"title": "Chhokangparo", "text": "The main village of upper Tsum, at about 3,030 m, on a wide terrace with stone houses, fields and views of Ganesh Himal. A natural rest and acclimatisation stop."},
+    {"title": "Gompa Lungdang", "text": "A nunnery high on a ridge below Ganesh Himal, reached by a side trip from the lower valley. It is quieter than the main valley and has views of the Ganesh Himal glaciers."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Drive from Kathmandu via the Prithvi Highway and Arughat to Machha Khola or Soti Khola, about 8 to 9 hours. Roads in the Trishuli corridor were damaged in August 2026; check current status before you travel."},
+    {"mode": "On foot", "text": "Walk up the Budhi Gandaki to Lokpa, where the Tsum trail branches east, then on to Chumling, Chhokangparo, Nile and Mu Gompa. Allow 3 to 4 days from the road to Chumling."}
+  ],
+  "where_to_stay": "Tsum has small lodges and homestays in its main villages, Chumling, Chhokangparo, Nile, Lamagaon and near Rachen Gompa, plus guest rooms at some gompas. Rooms are basic, with shared toilets and limited hot water. Food is simple and mostly vegetarian. In peak season book through your agency, as capacity is small. Bring a sleeping bag rated to minus 10 °C for the upper valley.",
+  "stays": [],
+  "tips": [
+    "Respect the Shyagya: do not bring meat to slaughter, harm animals or buy wildlife products in the valley.",
+    "Carry all the cash you need for Tsum; there are no banks or ATMs.",
+    "Walk clockwise around gompas, chortens and mani walls.",
+    "Ask before photographing nuns and monks, especially during prayers.",
+    "Your Tsum restricted permit is separate from the Manaslu permit; keep both with your guide."
+  ],
+  "themes": ["treks-and-trails", "spiritual-and-pilgrimage", "villages-and-homestays", "high-altitude"],
+  "nearby": ["samagaon", "bhimthang"],
+  "experiences": [
+    {
+      "slug": "tsum-mu-gompa-trek",
+      "title": "Trek to Mu Gompa at the head of Tsum",
+      "kind": "trek",
+      "duration": "2–3 days from Chhokangparo",
+      "best_time": "Sep–Nov, Apr–May",
+      "image_query": "Mu Gompa Tsum Valley monastery",
+      "wiki": "",
+      "summary": "Walk up the upper Tsum valley from Chhokangparo through Nile to Mu Gompa, around 3,700 m, a monastery near the Tibetan border where monks live year-round in a wide, bare landscape.",
+      "body": [
+        "From Chhokangparo the trail continues north-east past Lamagaon and Rachen Gompa to Nile and Chhule, the last villages, then climbs gently to Mu Gompa. The valley widens and the land turns dry and open, more like Tibet than the forested lower valley. Mani walls and chortens line the route.",
+        "Mu Gompa stands on a slope at around 3,700 m, with prayer flags strung above and views up the valley toward the border passes. Monks live here year-round, and visitors can stay in simple guest rooms or nearby lodges. Morning and evening prayers fill the halls with chanting and the smell of juniper.",
+        "Spend a night or two at Mu Gompa or Nile for acclimatisation and short side hikes up the valley. Then return down the valley. It is the furthest point of most Tsum treks, and the quietest."
+      ],
+      "good_for": ["trekkers", "solo", "photographers"],
+      "faqs": [
+        {"q": "How high is Mu Gompa?", "a": "Mu Gompa sits at around 3,700 m near the head of the Tsum Valley. Most trekkers reach it from Chhokangparo, about 3,030 m, in two days via Nile. Altitude sickness is possible, so walk slowly, drink plenty of water and spend a night at Nile or Chhule before going higher."},
+        {"q": "Can visitors stay at Mu Gompa?", "a": "Simple guest rooms are sometimes available at or near the monastery, and Nile and Chhule have homestays and small lodges. Arrangements change from season to season. Your agency will confirm before you go. Offer a donation if you stay at the gompa or join prayers."},
+        {"q": "Can I cross into Tibet from Mu Gompa?", "a": "No. Trails continue toward border passes, but foreign trekkers are not permitted to cross into Tibet from Tsum, and there is no official crossing here. Your permit covers the Tsum Valley only. Going beyond the permitted area is illegal and dangerous."}
+      ]
+    },
+    {
+      "slug": "tsum-milarepa-cave-pilgrimage",
+      "title": "Milarepa's cave at Piren Phu",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Morning, Sep–Nov and Mar–May",
+      "image_query": "Milarepa cave Tsum Valley",
+      "wiki": "",
+      "summary": "A short pilgrimage walk from Chhokangparo to Piren Phu, the pigeon cave linked by Buddhist tradition with the Tibetan yogi Milarepa, now a small shrine with prayer flags and butter lamps.",
+      "body": [
+        "Milarepa, the 11th and 12th century Tibetan yogi and poet, is one of the most loved figures of Tibetan Buddhism. Tradition holds that he meditated in caves in Tsum, and Piren Phu, near Chhokangparo, is the best known. A small gompa has been built at the cave, with prayer flags and lamps.",
+        "Your guide takes you up the short path to the cave, explaining Milarepa's life story: his early wrongdoing, his harsh training under his teacher Marpa, and his years of solitary meditation in Himalayan caves. Inside, pilgrims point out a footprint in the rock that they believe is his.",
+        "Visit quietly, walk clockwise and leave a small offering. On the way back, stop at mani walls and chortens, and look across the valley to Ganesh Himal."
+      ],
+      "good_for": ["trekkers", "seniors", "solo", "couples"],
+      "faqs": [
+        {"q": "Who was Milarepa?", "a": "Milarepa was a Tibetan yogi and poet of the 11th and 12th centuries, one of the most famous figures in Tibetan Buddhism, known for his songs and years of meditation in Himalayan caves. Tradition links several caves in Nepal and Tibet with him, including Piren Phu in the Tsum Valley."},
+        {"q": "Where is Piren Phu?", "a": "Piren Phu, the pigeon cave, is near Chhokangparo in upper Tsum, a short walk from the main trail. Your guide will show you the path. Allow 2 to 3 hours for the visit with time at the shrine. It is a gentle walk, suitable as part of an acclimatisation day."},
+        {"q": "Is Piren Phu open to tourists?", "a": "Yes, visitors are welcome to visit respectfully. Remove shoes if asked, walk clockwise, keep quiet and ask before photographing inside. A small donation helps maintain the shrine. If a caretaker is present, they may show you the footprint and explain its story."}
+      ]
+    },
+    {
+      "slug": "tsum-rachen-nunnery-visit",
+      "title": "Visit Rachen Gompa nunnery",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "Morning or afternoon prayers, Sep–Nov and Mar–May",
+      "image_query": "Rachen Gompa nunnery Tsum",
+      "wiki": "",
+      "summary": "Spend time at Rachen Gompa, one of the main nunneries of the Tsum Valley, where Buddhist nuns study, pray and look after the monastery, and learn how the community lives under the Shyagya vow.",
+      "body": [
+        "Rachen Gompa lies on the main trail in upper Tsum, a cluster of buildings around a prayer hall. It is home to Buddhist nuns of all ages, from girls in their first years of study to elderly ani who have lived here for decades. It is an important centre of learning and practice in the valley.",
+        "If prayers are being held, you may be allowed to sit quietly at the back of the hall as the nuns chant, beat drums and play horns. Your guide explains what is happening and who the deities on the altar are. Outside, nuns work in the gardens, carry water and wood, and study texts.",
+        "Visit respectfully, ask before taking photographs, and leave a donation to support the nunnery. It is a chance to see how Tibetan Buddhism lives day to day in this valley, and how women's religious life is organised in the Himalaya."
+      ],
+      "good_for": ["solo", "seniors", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Can men visit Rachen Gompa?", "a": "Yes, visitors of any gender can visit the nunnery respectfully during the day. Dress modestly, keep your voice low, follow your guide and do not enter private quarters. Ask permission before photographing nuns, and be particularly careful during prayers."},
+        {"q": "Can I stay overnight at Rachen Gompa?", "a": "There are sometimes simple guest rooms at or near the nunnery, and lodges or homestays nearby. Availability varies by season and by the nunnery's needs. Your agency will arrange accommodation in advance. If you do stay, offer a donation and follow the nunnery's routines."},
+        {"q": "How should I donate at a Tsum gompa?", "a": "Place a donation in the offering box or give it to a senior monk or nun, ideally in an envelope or folded with both hands. NPR 500 to 1,000 is a generous amount for a visitor. Do not give money directly to young novices. Donations support food, butter lamps and repairs."}
+      ]
+    },
+    {
+      "slug": "tsum-shyagya-village-walk",
+      "title": "The valley of peace: a Shyagya village walk",
+      "kind": "heritage",
+      "duration": "Half day",
+      "best_time": "Sep–Nov, Mar–May",
+      "image_query": "Chhokangparo village Tsum fields",
+      "wiki": "",
+      "summary": "Walk through Chhokangparo and neighbouring villages with a local guide who explains the Shyagya, the century-old vow of non-violence that forbids hunting, trapping and the sale of animals for slaughter in Tsum.",
+      "body": [
+        "Tsum is one of the few places in the Himalaya where a whole valley has written down and sworn to a rule of non-violence. In about 1920, under the guidance of lamas, the people of upper Tsum agreed the Shyagya, sealed with thumbprints on a document. Lower Tsum joined in 2012, and the centenary was marked in 2023.",
+        "On this walk through the villages around Chhokangparo, your guide explains what the vow means in practice: no hunting, no traps, no harvesting wild honey, no selling livestock for slaughter, no setting fire to forests. You see its effects in animals that are relaxed around people and in forests and pastures cared for in common.",
+        "You also see the challenges: limited cash income, the pull of jobs in Kathmandu and abroad, and how to balance tourism with tradition. It is a walk about ideas as much as landscape."
+      ],
+      "good_for": ["solo", "couples", "seniors", "photographers"],
+      "faqs": [
+        {"q": "What is the Shyagya in Tsum Valley?", "a": "The Shyagya is a collective vow of non-violence adopted by the people of upper Tsum in about 1920, under the guidance of lamas, and by lower Tsum in 2012. It forbids hunting, trapping, harvesting wild honey, selling livestock for slaughter and burning forests. It is still observed today."},
+        {"q": "Can I eat meat in the Tsum Valley?", "a": "Under the Shyagya, animals are not slaughtered in the valley, so lodges serve mainly vegetarian food. Some places may have meat brought in from outside, but it is better to eat vegetarian during your stay as a sign of respect. Do not bring live animals or hunt anything in Tsum."},
+        {"q": "Are there wild animals in the Tsum Valley?", "a": "Yes. The valley lies in the Manaslu Conservation Area, home to blue sheep, Himalayan tahr and snow leopards. Because hunting is forbidden under the Shyagya, animals such as blue sheep are often less shy here. Snow leopards remain very rarely seen."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is the Tsum Valley?", "a": "The Tsum Valley is in northern Gorkha district, Gandaki Province, inside the Manaslu Conservation Area. It branches north-east from the Budhi Gandaki at Lokpa toward the Tibetan border, bounded by Ganesh Himal, Sringi Himal and Boudha Himal. Its villages lie between about 1,900 and 4,000 m."},
+    {"q": "How many days do I need for the Tsum Valley trek?", "a": "A Tsum-only trek takes 12 to 15 days from Kathmandu, reaching Mu Gompa and returning down the Budhi Gandaki. Combining Tsum with the full Manaslu Circuit and Larkya La takes 20 to 24 days. Allow at least two days in the upper valley around Chhokangparo and Mu Gompa."},
+    {"q": "What permits are required for the Tsum Valley?", "a": "Tsum needs its own restricted area permit, separate from the Manaslu permit, issued through a registered agency for at least two trekkers with a licensed guide, plus the Manaslu Conservation Area permit. As we understand it, the Tsum permit costs about USD 40 per week from September to November and less in other months. Check current status before you travel."},
+    {"q": "When did Tsum Valley open to trekkers?", "a": "The Tsum Valley opened to foreign trekkers in 2008. Before that it was closed to outsiders, which helped preserve its traditions. It remains a restricted area because of its closeness to the Tibetan border, and visitor numbers are much lower than on the main Manaslu Circuit."},
+    {"q": "Is the Tsum Valley trek difficult?", "a": "It is a moderate to challenging trek. Days are 5 to 7 hours with steep sections, and the upper valley reaches around 3,700 m at Mu Gompa, with optional hikes higher. There are no high passes unless you continue on the Manaslu Circuit. Facilities are basic, which adds to the challenge."},
+    {"q": "Can I combine Tsum Valley with the Manaslu Circuit?", "a": "Yes, and many trekkers do. After walking up the Budhi Gandaki to Lokpa, you turn east into Tsum for 7 to 9 days, then return to the main trail and continue to Samagaon, Samdo and the Larkya La. You need both the Manaslu and Tsum restricted permits."},
+    {"q": "What is the best time to visit Tsum Valley?", "a": "September to November and March to May. Autumn brings clear skies and harvest activity; spring is warmer with flowers in the lower valley. Winter is very cold in the upper villages and some lodges close. The monsoon brings rain, leeches and landslides on the lower trail."},
+    {"q": "Was Tsum Valley affected by the 2026 flood?", "a": "Tsum lies on the Budhi Gandaki side of the Manaslu region, a separate river system from the Bhote Koshi and Trishuli that flooded on 26 August 2026. Trekking operators reported no confirmed damage to the Manaslu trails. Roads to the trailhead were affected. Check current status before you travel."},
+    {"q": "Who lives in the Tsum Valley?", "a": "The Tsumba, Tibetan Buddhists who speak their own Tibetic dialect and Nepali. They farm barley, buckwheat, maize and potatoes, herd yaks and sheep, and live by the Shyagya vow of non-violence toward animals. Gompas house monks and nuns, and many children study in monastery schools."}
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "kathmandu-valley-craft-makers-4n",
+  "title": "Makers of the valley: metal, clay, wood, masks",
+  "region": "kathmandu-valley",
+  "kind": "culture",
+  "nights": 4,
+  "themes": [
+    "crafts-and-makers",
+    "heritage-and-temples",
+    "villages-and-homestays"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "patan",
+      "nights": 2
+    },
+    {
+      "place": "bhaktapur",
+      "nights": 2
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "price_from_usd": 650,
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1
+  ],
+  "pace": "Unhurried",
+  "max_altitude_m": 1401,
+  "meta_description": "4 nights with the craftspeople of the Kathmandu Valley: lost-wax bronze in Patan, woodcarvers of Bungamati, masks in Thimi and the potters of Bhaktapur.",
+  "summary": "Four nights in the workshops of the Kathmandu Valley's craft families. Watch bronze cast by the lost-wax method in Patan, carvers at work in Bungamati, paubha painters at their scrolls, mask makers in Thimi and potters at the wheel in Bhaktapur, then try your hand. Two nights in Patan, two in Bhaktapur, in restored Newar houses.",
+  "intro": [
+    "The temples of the Kathmandu Valley were made by named families of craftspeople, and many of their descendants still work a few lanes from the monuments their ancestors built. Metal casters in Patan make bronze deities for monasteries across the Himalaya. Bungamati's carvers cut temple struts and window frames. Bhaktapur's potters turn clay in the open squares, and painters in Thimi make the masks worn by festival dancers. Most of these families learned from parents and grandparents, and many still take orders from monasteries and temples rather than shops.",
+    "This journey spends its time in workshops rather than museums, though the Patan Museum and the woodcarving museum in Bhaktapur explain what you have seen. You stay in small guesthouses in restored brick houses inside each old town, walk between workshops and use a car only for the longer hops. Every visit is a paid session with the maker, and you can buy directly from them. Days start mid-morning, when workshops are open, and end before dark."
+  ],
+  "story": "You begin in Patan, a city that Newars call Yala, where the sound of hammers on metal comes out of ground-floor workshops at dawn. You follow a bronze figure from wax model to clay mould to the moment molten metal is poured, and meet the people who chase and polish it for weeks. Across the fields in Bungamati the smell is of sawdust, as carvers shape the struts and windows that will replace those lost in old temples. Then the journey moves east. In Thimi, papier-mache masks of gods and demons dry on the rooftops, and in Bhaktapur the potters' square fills with rows of pots drying in the sun. By the end your hands are muddy, and you look at every carved window differently.",
+  "highlights": [
+    "The lost-wax bronze casting process in a Patan family workshop",
+    "Woodcarvers of Bungamati shaping temple struts and windows",
+    "A paubha painter at work on a Newar Buddhist scroll",
+    "Papier-mache festival masks being painted in Thimi",
+    "Your own pot on the wheel in Bhaktapur's potters' square"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Patan, an evening walk",
+      "place": "patan",
+      "overnight": "Heritage guesthouse, Patan old town",
+      "alt_m": 1350,
+      "move": "≈ 7 km · 30 min from the airport",
+      "text": "We meet you at the airport and drive to Patan, the old city across the Bagmati from Kathmandu. Your guesthouse is a restored Newar house with a courtyard, a short walk from Durbar Square. In the late afternoon your guide walks you through the square and the lanes around it, pointing out the details you will meet again in the workshops: gilded roofs, bronze door guardians, carved roof struts with gods and figures, and stone water spouts. Dinner at a Newar restaurant near the square.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Patan bronze and the carvers of Bungamati",
+      "place": "bungamati",
+      "overnight": "Heritage guesthouse, Patan old town",
+      "alt_m": 1350,
+      "move": "On foot in Patan; ≈ 8 km · 30 min to Bungamati",
+      "text": "Morning in a Patan metal workshop. Many casting families here belong to the Shakya community, and they still use the lost-wax method: a figure is modelled in beeswax, coated in clay, heated so the wax runs out, then filled with molten copper alloy. You see each stage, from wax to chasing and gilding. Then the Patan Museum, where the finished art is shown at its best. After lunch drive south to Bungamati, a Newar village where nearly every lane has a woodcarving workshop. Watch carvers at work and try a few cuts on a practice block.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 3,
+      "title": "A paubha painter, then Thimi masks",
+      "place": "bhaktapur",
+      "overnight": "Heritage guesthouse, Bhaktapur old city",
+      "alt_m": 1401,
+      "move": "≈ 12 km · 45 min to Thimi; ≈ 4 km on to Bhaktapur",
+      "text": "Spend the morning with a painter of paubha, the traditional Newar Buddhist scroll painting. See how cotton is prepared, how mineral pigments are ground and how the proportions of each deity are laid out on a grid before a single colour goes on. Then drive east to Madhyapur Thimi, a town of potters and mask makers. In a family workshop, see papier-mache masks of Bhairav, Ganesh, Kumari and other gods shaped over clay moulds and painted. Continue to Bhaktapur and check in to a guesthouse in the old city.",
+      "meals": "Breakfast, Dinner"
+    },
+    {
+      "day": 4,
+      "title": "The potters' square and Bhaktapur wood",
+      "place": "bhaktapur",
+      "overnight": "Heritage guesthouse, Bhaktapur old city",
+      "alt_m": 1401,
+      "move": "On foot",
+      "text": "Start in the potters' square, where families of the Prajapati community throw pots on wheels and set them in rows to dry before firing in straw-covered kilns. With a potter's help you throw your own bowl. After lunch walk to Dattatreya Square to see the Peacock Window, one of the finest pieces of Newar woodcarving, and the National Woodcarving Museum in the Pujari Math nearby. Visit a workshop making handmade lokta paper, then end the day on the steps of the Nyatapola temple with a bowl of juju dhau.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 5,
+      "title": "Last workshop visit and fly home",
+      "place": "bhaktapur",
+      "overnight": "Departure from Tribhuvan International Airport",
+      "alt_m": 1338,
+      "move": "≈ 14 km · 45 min to the airport",
+      "text": "Your last morning is free for buying from the makers you have met: a small bronze, a carved window frame, a mask or a set of clay cups. Your guide can arrange packing and shipping for larger pieces through a reliable cargo agent. If your pot from yesterday has been fired in time, collect it. The car takes you to Tribhuvan International Airport, about 45 minutes away, or to a hotel in Kathmandu if you are staying on.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "2 nights in a heritage guesthouse in Patan and 2 nights in a heritage guesthouse in Bhaktapur, with breakfast, twin sharing",
+    "Paid workshop sessions with metal casters, woodcarvers, a paubha painter, mask makers and potters, including materials",
+    "Licensed English-speaking guide on all days",
+    "Private car for airport transfers and between Patan, Bungamati, Thimi and Bhaktapur",
+    "Entry fees for Patan and Bhaktapur, the Patan Museum and the woodcarving museum"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Meals not listed",
+    "Purchases and shipping of crafts",
+    "Tips for guide, driver and craftspeople",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Workshops close on festival days and for family events; we confirm each visit a few days ahead.",
+    "Exporting antiques over 100 years old is prohibited; new bronzes and carvings may need a certificate from the Department of Archaeology, which sellers usually arrange.",
+    "Molten metal pours happen only on some days; if none falls in your dates, you see the other stages.",
+    "Prices in makers' workshops are usually fairer than in tourist shops, and bargaining is gentle.",
+    "Wear clothes you do not mind getting clay or dust on."
+  ],
+  "faqs": [
+    {
+      "q": "What crafts is the Kathmandu Valley known for?",
+      "a": "The valley is known for lost-wax bronze and copper statues from Patan, woodcarving from Bhaktapur and Bungamati, pottery from Bhaktapur and Thimi, papier-mache masks from Thimi, paubha and thangka scroll paintings, and handmade lokta paper. Many crafts are still practised by the same families and communities who made the temples you visit."
+    },
+    {
+      "q": "What is lost-wax casting?",
+      "a": "Lost-wax casting is the method Patan's metalworkers use to make statues. A figure is modelled in wax, covered in layers of fine clay and heated so the wax melts out, leaving a hollow mould. Molten metal is poured in, the clay is broken off, and the figure is chased, polished and often gilded. A single statue can take weeks or months."
+    },
+    {
+      "q": "Can I buy directly from the craftspeople?",
+      "a": "Yes. Most of the workshops we visit sell what they make, and buying there means more of the money goes to the maker. Prices are usually fixed or lightly negotiable. For large pieces, makers or our guide can arrange packing and shipping. Pay by cash in Nepali rupees where possible, as card machines are not common."
+    },
+    {
+      "q": "Is it legal to export a bronze statue or carving from Nepal?",
+      "a": "New pieces can be exported, but objects that look old may need a certificate from the Department of Archaeology confirming they are not antiques. Reputable workshops and shops arrange this. Antiques over 100 years old cannot be exported. Keep receipts and any certificate with your luggage. Rules can change, so check current status before you travel."
+    },
+    {
+      "q": "Can I try pottery in Bhaktapur?",
+      "a": "Yes. In the potters' square of Bhaktapur, several families let visitors try the wheel with help, usually for a small fee. You shape a bowl or cup, which they can fire for you if you stay long enough. On this journey the session is arranged in advance with a family we know, so you have the potter's full attention."
+    },
+    {
+      "q": "What is a paubha painting?",
+      "a": "Paubha is the traditional scroll painting of Newar Buddhists and Hindus in the Kathmandu Valley, made on prepared cotton with mineral and natural pigments. It is closely related to the Tibetan thangka, which grew partly from Newar painting traditions. Paubhas show deities, mandalas and religious scenes and follow strict proportions. Patan and Bhaktapur still have working paubha painters."
+    },
+    {
+      "q": "Is this craft tour good for families?",
+      "a": "Yes. Children usually love the pottery wheel, the mask workshops and watching carvers at work. The days are short and mostly on foot in traffic-free old towns. Molten metal pours are watched from a safe distance. The guesthouses are simple but have family rooms on request. We adjust the order of visits to keep younger children busy."
+    },
+    {
+      "q": "Where do I stay in Patan and Bhaktapur?",
+      "a": "We use small heritage guesthouses in restored brick houses inside the old towns, within walking distance of the Durbar squares. Rooms are comfortable and characterful rather than luxurious, with private bathrooms. Staying inside the old towns means early mornings and evenings in the squares without day-trip crowds. Kathmandu hotels are an option if you prefer."
+    },
+    {
+      "q": "Can this trip be extended?",
+      "a": "Yes. Add a day in Kathmandu for the thangka schools of Boudha and the singing-bowl makers, a night in Panauti for its temples and homestay, or a day in Kirtipur and Khokana for traditional mustard oil pressing. Craft lovers often add Pokhara or Bandipur afterwards for a change of landscape."
+    }
+  ]
+}

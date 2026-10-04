@@ -1,0 +1,211 @@
+{
+  "slug": "buddhas-nepal-stupas-and-lumbini-7n",
+  "title": "Buddha's Nepal: Kathmandu Stupas to Lumbini",
+  "region": "lumbini",
+  "kind": "pilgrimage",
+  "nights": 7,
+  "themes": [
+    "spiritual-and-pilgrimage",
+    "heritage-and-temples",
+    "photography"
+  ],
+  "grade": "Easy",
+  "stops": [
+    {
+      "place": "kathmandu",
+      "nights": 2
+    },
+    {
+      "place": "boudhanath",
+      "nights": 1
+    },
+    {
+      "place": "lumbini",
+      "nights": 3
+    },
+    {
+      "place": "kathmandu",
+      "nights": 1
+    }
+  ],
+  "start": "Kathmandu (Tribhuvan International Airport, KTM)",
+  "end": "Kathmandu",
+  "price_from_usd": 1350,
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 1400,
+  "meta_description": "Buddha's Nepal in 7 nights: Swayambhunath, Boudhanath and the Pharping caves, then Lumbini, Ramagrama and Devdaha, with a licensed guide.",
+  "summary": "Seven nights tracing Buddhism in Nepal from the hill stupa of Swayambhunath and the great dome of Boudhanath to the caves of Pharping, then down to the plains for Lumbini, the relic stupa of Ramagrama and Devdaha, the home of the Buddha's mother. Two flights, good hotels, a guide who knows both traditions.",
+  "intro": [
+    "Nepal holds two Buddhisms side by side. In the Kathmandu Valley, the Newar Buddhist tradition has kept Sanskrit texts and family priests for well over a thousand years, while Tibetan monasteries ring Boudhanath and the hills of Pharping. On the plains, 280 km south-west, is the place it all began: Lumbini, where the Buddha was born, with Devdaha, his mother's home, and Ramagrama, where part of his relics lie.",
+    "This journey links them in the order a pilgrim would feel them. Three days in the valley give you the living practice: butter lamps, kora at dawn, the cave where Padmasambhava meditated. Then a 35-minute flight drops you into the heat and quiet of the Terai for three nights in Lumbini. We stay at Hotel Shanker, a converted Rana palace, at the Hyatt Regency beside Boudhanath, and at the Japanese-run Lumbini Hokke Hotel."
+  ],
+  "story": "It starts in the cool, crowded valley, climbing the eastern stairway of Swayambhunath among monkeys and Newar grandmothers spinning prayer wheels. It deepens at Boudhanath, where you join Tibetan families walking clockwise round the dome at dusk, and at Pharping, where the smell of juniper smoke fills a cave above the valley rim. Then the land drops away. On the plains the air is thick and warm, the fields are flat to the horizon, and the language changes to Awadhi and Bhojpuri. In Lumbini the story turns from the teaching to the man: his mother's journey from Devdaha, the birth under a sal tree, and, at Ramagrama, what was left of him after death.",
+  "highlights": [
+    "Dawn on the eastern stairway of Swayambhunath with the valley still in mist",
+    "A night beside Boudhanath to walk the kora at dusk and again at sunrise",
+    "Padmasambhava's meditation caves at Pharping, still a working pilgrimage site",
+    "Two dawns in Lumbini's Sacred Garden and a full day in the monastic zone",
+    "Ramagrama's unopened relic stupa and Devdaha, the Buddha's maternal home"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 20–30 min drive",
+      "text": "We meet you at Tribhuvan International Airport and drive you to Hotel Shanker in Lazimpat, a former Rana palace with a garden that is quiet by Kathmandu standards. If you land in time, your guide takes you for an easy late-afternoon walk through Thamel to Kathesimbhu, a small copy of Swayambhunath hidden in a courtyard, where Newar Buddhists light lamps in the evening. Dinner is your own, with our list of places nearby.",
+      "meals": ""
+    },
+    {
+      "day": 2,
+      "title": "Swayambhunath and Patan's Buddhist courtyards",
+      "place": "swayambhunath",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 15 km in total by car",
+      "text": "Start early at Swayambhunath, climbing the long eastern stairway to the white dome and the painted eyes. The Swayambhu Purana tells that the valley was once a lake and that a self-born light rose from a lotus on the spot where the stupa stands. After breakfast, drive to Patan. Visit the Golden Temple, Kwa Bahal, a Newar Buddhist monastery courtyard still run by its own community, and the Mahabouddha temple, built of terracotta tiles. The afternoon is free to rest or explore Patan Durbar Square.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Pharping caves and Boudhanath at dusk",
+      "place": "boudhanath",
+      "overnight": "Boudhanath",
+      "alt_m": 1400,
+      "move": "≈ 20 km to Pharping · 1 h; ≈ 30 km to Boudhanath · 1.5 h",
+      "text": "Drive south to Pharping on the valley rim. Climb the steps to the cave where Padmasambhava, Guru Rinpoche to Tibetans, is said to have meditated, with handprints in the rock that pilgrims touch. The monasteries around it are busy with monks and Tibetan and Himalayan pilgrims. After lunch, cross the city to Boudhanath and check in at the Hyatt Regency, a short walk from the stupa. At dusk join the kora, the clockwise walk around the dome, when the whole neighbourhood seems to be out.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Fly to Bhairahawa, first evening in Lumbini",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 35 min flight · then ≈ 22 km · 40 min drive",
+      "text": "Walk the kora once more at sunrise, then fly to Gautam Buddha International Airport at Bhairahawa. The change is immediate: flat fields, palms, heat. Check in at the Lumbini Hokke Hotel and rest. In the late afternoon your guide leads you into the Sacred Garden for the Maya Devi Temple, the marker stone, the Ashoka pillar dated to 249 BCE and the Puskarini pond. Stay as the butter lamps are lit.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 5,
+      "title": "Lumbini's monastic zones",
+      "place": "lumbini",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 10 km by bicycle or e-rickshaw",
+      "text": "Spend the day in the planned zone north of the Sacred Garden. In the East Monastic Zone, see the Theravada temples of Thailand and Myanmar; in the West, the Mahayana and Vajrayana monasteries, including the Chinese, Korean and German-built Drigung Kagyud temples. Compare the Tibetan art here with what you saw at Boudhanath. In the afternoon visit the Lumbini Museum and finish at the World Peace Pagoda, built by the Japanese order Nipponzan Myohoji.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 6,
+      "title": "Ramagrama and Devdaha",
+      "place": "ramagrama",
+      "overnight": "Lumbini",
+      "alt_m": 110,
+      "move": "≈ 140 km loop · 4.5–5 h driving in total",
+      "text": "Drive east to Ramagrama near Parasi, the brick mound that tradition holds as the one relic stupa of the eight that was never opened. Continue north to Devdaha, east of Butwal, which Buddhist texts name as the home of the Koliya clan of Maya Devi and her sister Prajapati Gautami, who raised the Buddha after his mother died. Small shrines, ponds and excavated mounds mark the area. Return to Lumbini for a last quiet evening in the Sacred Garden.",
+      "meals": "Breakfast, Lunch"
+    },
+    {
+      "day": 7,
+      "title": "Sunrise in Lumbini, fly to Kathmandu",
+      "place": "lumbini",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 22 km · 40 min drive · then ≈ 35 min flight",
+      "text": "Return to the Sacred Garden at dawn, then drive to Bhairahawa for the flight back to Kathmandu. Check in at Hotel Shanker again. The afternoon is free for the shops around Boudhanath and Thamel, where thangka painters work in open studios, or for a rest. In the evening we can book a farewell Newar dinner of bara, choila and beaten rice for you. Thamel and Boudhanath are both about 20 minutes from the hotel by car, and your driver is on call until early evening.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 8,
+      "title": "Depart Kathmandu",
+      "place": "kathmandu",
+      "overnight": "Kathmandu",
+      "alt_m": 1400,
+      "move": "≈ 6 km · 20–30 min drive",
+      "text": "Free until your transfer to Tribhuvan International Airport, timed to your flight. If you have a late departure, a final walk to Kathesimbhu or a short visit to the Garden of Dreams near Thamel fills the morning without stress. If you would like to extend, our Kathmandu Valley and Pokhara journeys join easily from here. Allow about three hours before an international departure; the airport is only 6 km away but Kathmandu traffic is hard to predict at rush hour.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "hotel-shanker-kathmandu",
+    "hyatt-regency-kathmandu",
+    "lumbini-hokke-hotel"
+  ],
+  "includes": [
+    "7 nights twin sharing with breakfast: 3 at Hotel Shanker, 1 at Hyatt Regency Kathmandu, 3 at Lumbini Hokke Hotel",
+    "Return economy flights Kathmandu–Bhairahawa",
+    "All airport transfers and a private car with driver for sightseeing",
+    "Licensed English-speaking guide on days 2–7",
+    "Entry tickets at Swayambhunath, Patan Durbar Square, Boudhanath and the Sacred Garden",
+    "Lunch on the Ramagrama and Devdaha day"
+  ],
+  "excludes": [
+    "International flights and Nepal visa fees",
+    "Lunches and dinners not listed",
+    "Donations and puja offerings at temples and monasteries",
+    "Tips for guide and driver",
+    "Travel insurance"
+  ],
+  "good_to_know": [
+    "Walk clockwise around stupas and turn prayer wheels with your right hand.",
+    "The Swayambhunath stairway is steep; there is a car park near the top for anyone who prefers it.",
+    "Monasteries close at midday and on some festival days; your guide arranges visits around this.",
+    "Lumbini is 20–25 °C warmer than Kathmandu from April to June; pack light clothes for the plains.",
+    "Morning fog in December and January can delay the Bhairahawa flight; we keep a buffer in the plan."
+  ],
+  "faqs": [
+    {
+      "q": "Which Buddhist sites in Nepal does this trip cover?",
+      "a": "In the Kathmandu Valley: Swayambhunath, the Newar Buddhist courtyards of Patan, the caves of Pharping and Boudhanath. In the Lumbini area: the Sacred Garden with the Maya Devi Temple and Ashoka pillar, the international monastic zones, Ramagrama's relic stupa and Devdaha, the Buddha's maternal home. Tilaurakot can be added with one extra night."
+    },
+    {
+      "q": "What is the difference between Newar and Tibetan Buddhism?",
+      "a": "Newar Buddhism is the tradition of the Kathmandu Valley's Newar community, using Sanskrit texts and run by hereditary priests and householder families in courtyard monasteries called bahal and bahil. Tibetan Buddhism arrived in Nepal with Tibetan and Himalayan communities and has celibate monks in monasteries called gompa, especially around Boudhanath. Both are Vajrayana and share many deities."
+    },
+    {
+      "q": "Why stay a night at Boudhanath?",
+      "a": "Because Boudhanath is at its best before the day visitors arrive and after they leave. Staying beside it lets you walk the kora at dusk, when Tibetan families circle the stupa with prayer beads, and again at sunrise, when monks chant in the surrounding gompas. The Hyatt Regency is a short walk from the stupa gate."
+    },
+    {
+      "q": "How do we get from Kathmandu to Lumbini?",
+      "a": "We fly. Kathmandu to Gautam Buddha International Airport at Bhairahawa takes about 35 minutes, and Lumbini is a further 22 km by road. The overland alternative is around 280 km and 8–10 hours. We can swap the flight for a road journey via Bandipur or Chitwan if you prefer to see the country between."
+    },
+    {
+      "q": "What is at Devdaha?",
+      "a": "Devdaha, east of Butwal in Rupandehi district, is named in Buddhist texts as the home of the Koliya clan, the family of Maya Devi and her sister Prajapati Gautami. It is a rural area with small shrines, ponds and excavated mounds rather than one big monument. Its importance is the story, which your guide tells on site."
+    },
+    {
+      "q": "Is this trip suitable for non-Buddhists?",
+      "a": "Yes. Most of our guests on this route are not Buddhists. They come for the history, the art and the calm. Your guide explains the meaning of what you see without preaching, and you take part in rituals only if you wish. Everyone is welcome at the stupas, the Sacred Garden and the monasteries."
+    },
+    {
+      "q": "What is the best season for this journey?",
+      "a": "October to March suits both halves best: clear days in Kathmandu and comfortable warmth in Lumbini. April and May are fine in the valley but very hot on the plains, so we start early in Lumbini. June to September brings monsoon rain and humidity; it is possible and green, but expect flight delays and muddy paths."
+    },
+    {
+      "q": "Can we add Tilaurakot and the Kapilavastu sites?",
+      "a": "Yes, with one extra night in Lumbini. Tilaurakot, the walled site Nepal identifies as Kapilavastu, is about an hour west, and Kudan, Gotihawa and Niglihawa are close to it. One full day covers them. We will re-quote the price for the extra night, car, guide and lunch when you ask."
+    },
+    {
+      "q": "Are the hotels suitable for families and older travellers?",
+      "a": "Yes. Hotel Shanker and the Hyatt Regency have lifts, gardens and restaurants, and the Lumbini Hokke Hotel is a short ride from the Sacred Garden. The only steep effort on the trip is the Swayambhunath stairway, which you can avoid by using the car park near the top. Tell us about any mobility needs when booking."
+    }
+  ]
+}

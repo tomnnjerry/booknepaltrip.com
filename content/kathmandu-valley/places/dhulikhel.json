@@ -1,0 +1,344 @@
+{
+  "slug": "dhulikhel",
+  "name": "Dhulikhel",
+  "name_ne": "धुलिखेल",
+  "local_name": "",
+  "region": "kathmandu-valley",
+  "kind": "hill town",
+  "wiki": "Dhulikhel",
+  "image_query": "Dhulikhel Himalaya view town",
+  "lat": 27.62,
+  "lng": 85.556,
+  "altitude_m": 1550,
+  "tagline": "A Newar hill town facing the Himalaya, on the road to Namobuddha",
+  "meta_description": "Dhulikhel with locals: old Newar town, mountain views, the hike to Namobuddha, sunrise at the Kali temple, wellness stays and how to get there from Kathmandu.",
+  "summary": "Dhulikhel is an old Newar town on the Araniko Highway, 30 km east of Kathmandu at about 1,550 m, with wide Himalayan views from Langtang to Gaurishankar. It is the start of the classic hike to Namobuddha. Stay one or two nights for sunrise, the old town and a walk.",
+  "intro": [
+    "Dhulikhel sits on a hillside just beyond the eastern rim of the Kathmandu Valley, where the Araniko Highway heads towards the Tibet border. Drive past the newer roadside buildings and you find an old Newar town of brick lanes, temples and squares, quieter than the valley cities and with a broad view north to the mountains.",
+    "The view is the town's other draw. On clear mornings from October to February, the Himalaya rises across the northern horizon, from the Langtang range across Dorje Lakpa to Gaurishankar and the Rolwaling peaks. Dhulikhel sits a little lower than Nagarkot and is often a touch warmer, and its hotels, from simple lodges to Dwarika's Resort, face the range.",
+    "Dhulikhel is also a base for walks into the hills of Kavre. The most famous leads to Namobuddha, a Buddhist pilgrimage site linked to the story of a prince who gave his body to a starving tigress, and on to the river town of Panauti. A two- or three-day loop here makes a gentle break between the city and a trek."
+  ],
+  "story": {
+    "title": "A trading town on the road to Tibet",
+    "paras": [
+      "Dhulikhel grew as a Newar trading town on the route from the Kathmandu Valley towards Tibet, through what is now the Araniko Highway corridor. Merchants passing to and from the high passes stopped here, and the town built temples, rest houses and water spouts with their trade. Its old core, with the temples of Bhagwati and Harisiddhi and its brick lanes, keeps that character.",
+      "In the late 20th century, the town changed fast. The Araniko Highway, built with Chinese help in the 1960s, brought trucks and buses past its edge. Kathmandu University set up its main campus here in the 1990s, and Dhulikhel Hospital, founded in 1996 with strong local support, became one of the best known community hospitals in Nepal. Dhulikhel is also the headquarters of Kavrepalanchok district.",
+      "The 2015 earthquake damaged parts of the old town and villages around it. Rebuilding has continued since. Meanwhile, the BP Highway, which starts near Dhulikhel and runs south to the Terai, has made the town a junction. Despite the growth, the old core and the views have kept Dhulikhel a favourite short escape for Kathmandu families."
+    ]
+  },
+  "legend": "Near Dhulikhel, at Namobuddha, Buddhist tradition tells a Jataka story from one of the Buddha's earlier lives. Prince Mahasattva, walking in the forest with his brothers, came upon a tigress so starved she could not feed her cubs. Moved by compassion, he cut himself and offered his body so she and her cubs would live. A stupa marks the place, and a stone carving nearby shows the prince and the tigress.",
+  "people": "Dhulikhel's old town is Newar, with merchant, farming and craft families who keep its temples and festivals. The surrounding hills are home to Tamang, Brahmin and Chhetri villages, with farms of rice, maize, vegetables and potatoes. Kathmandu University and Dhulikhel Hospital have brought students, doctors and staff from all over Nepal, giving the newer parts of town a young, mixed population.",
+  "untold": [
+    {
+      "fact": "Dhulikhel Hospital was founded in 1996 as a community-based, non-profit hospital with local support, and serves as a teaching hospital of Kathmandu University. It also runs outreach health centres in rural villages.",
+      "source": "Wikipedia: Dhulikhel Hospital"
+    },
+    {
+      "fact": "The BP Highway, built with Japanese assistance, starts near Dhulikhel and runs south about 160 km through Sindhuli to Bardibas in the Terai, giving the valley a shorter route to eastern Nepal.",
+      "source": "Wikipedia: BP Highway"
+    },
+    {
+      "fact": "Kathmandu University, founded in 1991 as Nepal's first privately managed public university, has its main campus in Dhulikhel, about 30 km east of Kathmandu, so the old Newar town is also a university town.",
+      "source": "Wikipedia: Kathmandu University"
+    }
+  ],
+  "local_words": [
+    {
+      "word": "Namo Buddha",
+      "script": "नमो बुद्ध",
+      "lang": "Nepali",
+      "meaning": "Homage to the Buddha; also the name of the pilgrimage site"
+    },
+    {
+      "word": "Bagh",
+      "script": "बाघ",
+      "lang": "Nepali",
+      "meaning": "Tiger"
+    },
+    {
+      "word": "Gaun",
+      "script": "गाउँ",
+      "lang": "Nepali",
+      "meaning": "Village"
+    }
+  ],
+  "taste": {
+    "name": "Sapu mhicha",
+    "text": "A Newar delicacy: a pouch of buffalo leaf tripe stuffed with bone marrow, boiled and then fried, served sliced with chilli and timur. It is rich, soft and an acquired taste, found at Newar khaja shops in Dhulikhel's old bazaar, usually alongside chhoyla and beaten rice."
+  },
+  "facts": [
+    [
+      "Best months",
+      "Oct – Feb, Mar – Apr"
+    ],
+    [
+      "Days we suggest",
+      "1 – 2"
+    ],
+    [
+      "Nearest airport",
+      "Tribhuvan International (KTM), 26 km"
+    ],
+    [
+      "From Kathmandu",
+      "≈ 30 km · 1.5 h"
+    ],
+    [
+      "Altitude",
+      "≈ 1,550 m"
+    ],
+    [
+      "Known for",
+      "Himalayan views, old Newar town, Namobuddha hike"
+    ]
+  ],
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
+  "nights": "1–2",
+  "highlights": [
+    {
+      "title": "Himalayan sunrise",
+      "text": "From hotel terraces or the Kali temple above town, watch the range from Langtang to Gaurishankar turn pink at first light. October to February gives the clearest mornings."
+    },
+    {
+      "title": "The old Newar town",
+      "text": "Behind the highway, brick lanes lead to the Bhagwati and Harisiddhi temples, small squares and water spouts. Walk it in the early morning or late afternoon, when locals are out."
+    },
+    {
+      "title": "Hike to Namobuddha",
+      "text": "A 3 to 4 hour walk through terraced farms and forest to the Buddhist pilgrimage site of Namobuddha, with its stupa and hilltop monastery. One of the best day hikes near Kathmandu."
+    },
+    {
+      "title": "Kali temple viewpoint",
+      "text": "A short climb from town to a small temple on a hill with sweeping views over the valleys and mountains. A favourite with locals for sunrise and with couples at sunset."
+    },
+    {
+      "title": "Gateway to Panauti",
+      "text": "Dhulikhel is 30 minutes from Panauti, the medieval river town with its 1294 temple and community homestays. Combine them in a relaxed two-day loop."
+    }
+  ],
+  "how_to_reach": [
+    {
+      "mode": "Road",
+      "text": "Dhulikhel is about 30 km east of central Kathmandu on the Araniko Highway, a 1.5 hour drive via Bhaktapur and Banepa, depending on traffic and road works. Local buses from Kathmandu's Ratnapark and from Bhaktapur run frequently to Dhulikhel bus park. Private cars are easiest with luggage."
+    },
+    {
+      "mode": "On foot",
+      "text": "Hikers reach Dhulikhel from Nagarkot along ridges and through villages in about 5 to 6 hours. From Dhulikhel, Namobuddha is 3 to 4 hours on foot, and Panauti a further 2 to 3 hours."
+    }
+  ],
+  "where_to_stay": "Dwarika's Resort Dhulikhel, set on a hillside outside town, is a wellness-focused resort built in Newar style with mountain views. Several mid-range hotels and lodges sit on the ridge above the old town, mostly facing the Himalaya, and simple guesthouses are found near the bus park. Choose a north-facing room for the view. Panauti homestays are 30 minutes away if you want a family stay.",
+  "stays": [
+    "dwarikas-resort-dhulikhel"
+  ],
+  "tips": [
+    "Book a room facing north; the mountain view at sunrise is the main reason to stay.",
+    "Walk the old town in the early morning, before the highway traffic builds.",
+    "Start the Namobuddha hike early to avoid midday heat and to have clear views.",
+    "Bring a warm layer; mornings from November to February are cold at 1,550 m.",
+    "Combine Dhulikhel with Panauti and Namobuddha for a two- or three-day loop."
+  ],
+  "themes": [
+    "treks-and-trails",
+    "slow-and-wellness",
+    "spiritual-and-pilgrimage",
+    "photography"
+  ],
+  "nearby": [
+    "panauti",
+    "nagarkot",
+    "bhaktapur"
+  ],
+  "experiences": [
+    {
+      "slug": "dhulikhel-old-town-newar-walk",
+      "title": "Dhulikhel's old Newar town on foot",
+      "kind": "heritage",
+      "duration": "2 hours",
+      "best_time": "Early morning or late afternoon, all year",
+      "image_query": "Dhulikhel old town temple",
+      "wiki": "",
+      "summary": "A walk through Dhulikhel's old core behind the highway: brick lanes, the Bhagwati and Harisiddhi temples, water spouts and squares. Meet shopkeepers and farmers, and hear how a trading town on the road to Tibet became a university town.",
+      "body": [
+        "Most people see only Dhulikhel's highway strip. We step behind it into the old Newar town, where narrow brick lanes wind between houses with carved windows. Early in the morning, people are at the water spouts and small shrines, and shops are opening for the day.",
+        "We visit the temple of Bhagwati, the mother goddess, in its square, and the Harisiddhi temple nearby, as well as smaller shrines to Ganesh and Narayan. Your guide explains how the town's guthis organise festivals and maintain temples, and how the town grew as a stop on the trade route from the valley towards Tibet.",
+        "We also look at how the old town is changing: houses rebuilt after 2015, new concrete beside old brick, and students and hospital staff living alongside long-time residents. The walk ends at a khaja shop for tea and Newar snacks, or at the start of the trail up to the Kali temple viewpoint."
+      ],
+      "good_for": [
+        "first-timers",
+        "couples",
+        "seniors",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Is Dhulikhel worth visiting?",
+          "a": "Yes, for its mountain views, its old Newar town and as a base for hikes to Namobuddha and Panauti. It is quieter than the valley cities and a little warmer than Nagarkot. One or two nights works well between Kathmandu and a trek or a drive to the Terai."
+        },
+        {
+          "q": "How long does it take to walk around Dhulikhel old town?",
+          "a": "About 1 to 2 hours at an easy pace, including temples, squares and water spouts. Add an hour for the climb to the Kali temple viewpoint above town. Early morning and late afternoon are the best times, when locals are out."
+        },
+        {
+          "q": "Is there an entry fee for Dhulikhel?",
+          "a": "At the time of writing there is no general entry fee for the old town, though temples welcome donations. Some sites in the valley have introduced fees in recent years, so check current status before you travel. Carry small notes for donations."
+        }
+      ]
+    },
+    {
+      "slug": "dhulikhel-namobuddha-day-hike",
+      "title": "Hike from Dhulikhel to Namobuddha",
+      "kind": "trek",
+      "duration": "6–7 hours",
+      "best_time": "Oct–Apr, early start",
+      "image_query": "Namobuddha stupa monastery Nepal",
+      "wiki": "Namo Buddha",
+      "summary": "A classic day hike from Dhulikhel through terraced farmland and forest to Namobuddha, where a stupa marks the place of the prince and the tigress, and a large monastery crowns the hill. About 3 to 4 hours each way, or continue on to Panauti.",
+      "body": [
+        "We leave Dhulikhel early, walking south-east through the edges of town and out onto farm tracks. The path climbs and drops gently through terraced fields of rice and maize, small Tamang and Brahmin-Chhetri villages and patches of forest, with the Himalaya behind us on clear mornings.",
+        "After about 3 to 4 hours we reach Namobuddha, around 1,750 m. A white stupa marks the place where, in the Jataka tale, Prince Mahasattva gave his body to a starving tigress. A short climb leads to a stone carving of the scene and to the Thrangu Tashi Yangtse monastery on the hilltop, with its prayer halls, monks and wide views.",
+        "We have lunch at a simple restaurant or monastery canteen, then either return to Dhulikhel by car, walk back, or continue downhill for 2 to 3 hours to Panauti for a homestay night. The hike suits walkers of average fitness; the trail has some steep but not technical sections."
+      ],
+      "good_for": [
+        "trekkers",
+        "couples",
+        "solo",
+        "photographers"
+      ],
+      "faqs": [
+        {
+          "q": "How long is the hike from Dhulikhel to Namobuddha?",
+          "a": "About 3 to 4 hours one way, roughly 10 to 12 km on farm tracks, village paths and forest trails. Many walkers return by car, or continue 2 to 3 hours downhill to Panauti, making a 6 to 7 hour day. It is moderate, with no high altitude."
+        },
+        {
+          "q": "What is Namobuddha?",
+          "a": "Namobuddha is a Buddhist pilgrimage site in the hills south-east of Dhulikhel. It marks the place where, in a Jataka story, Prince Mahasattva, an earlier life of the Buddha, gave his body to a starving tigress and her cubs. It has a stupa, a stone carving of the story and a large monastery."
+        },
+        {
+          "q": "Can I stay overnight at Namobuddha?",
+          "a": "Yes. The monastery has a guesthouse, and there are small lodges nearby. Staying overnight lets you hear early morning prayers and see sunrise over the hills. Book ahead, especially in peak season. Dress modestly and follow monastery rules."
+        }
+      ]
+    },
+    {
+      "slug": "dhulikhel-kali-temple-sunrise",
+      "title": "Sunrise from the Kali temple above Dhulikhel",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Feb",
+      "image_query": "Dhulikhel sunrise Himalaya",
+      "wiki": "",
+      "summary": "Climb in the dark from the old town to the small Kali temple on the hill above, and watch the Himalaya catch first light from Langtang to Gaurishankar. Locals come here for morning worship and exercise. Back in time for breakfast.",
+      "body": [
+        "We start about 45 minutes before sunrise, walking up from the old town with torches. The path climbs steadily for 20 to 30 minutes, passing houses and small fields, to a hilltop crowned by a modest temple to the goddess Kali. Locals come up too, some to pray, some to exercise.",
+        "From the top, the view opens in every direction: the town below, the valleys of Kavre filled with mist, and to the north the long white line of the Himalaya. As the sky lightens, the peaks turn pink and then gold, from the Langtang range across to Dorje Lakpa, Gaurishankar and beyond.",
+        "We stay until the light flattens, enjoying tea from a flask, then walk down by the same path or a loop through a different part of the old town. Breakfast waits at the hotel. If the morning is cloudy, sunset from the same spot is a good second chance."
+      ],
+      "good_for": [
+        "couples",
+        "photographers",
+        "families",
+        "solo"
+      ],
+      "faqs": [
+        {
+          "q": "Which mountains can you see from Dhulikhel?",
+          "a": "On clear days, a long stretch of the Himalaya from the Langtang range across Dorje Lakpa, Gaurishankar and the Rolwaling peaks, and sometimes further east. October to February mornings give the best chance. Haze builds from March and monsoon cloud hides the peaks from June to September."
+        },
+        {
+          "q": "Is Dhulikhel better than Nagarkot for views?",
+          "a": "Both have excellent views of the same part of the Himalaya. Nagarkot is higher and its views slightly wider; Dhulikhel is a real town with an old core, a little warmer, and a base for Namobuddha. Weather on the day matters more than which you choose."
+        },
+        {
+          "q": "Do I need a guide for the Kali temple sunrise walk?",
+          "a": "Not necessarily. The path is short and used by locals, but it is dark at the start, so a guide or hotel staff member helps the first time. Carry a torch, wear good shoes and a warm layer, and leave about 45 minutes before sunrise."
+        }
+      ]
+    },
+    {
+      "slug": "dhulikhel-mountain-view-yoga-morning",
+      "title": "Morning yoga facing the Himalaya in Dhulikhel",
+      "kind": "wellness",
+      "duration": "2 hours",
+      "best_time": "Morning, Oct–Apr",
+      "image_query": "yoga Himalaya view Nepal",
+      "wiki": "",
+      "summary": "A slow morning on a terrace above Dhulikhel: a gentle yoga and breathing session with a local teacher as the sun lights the mountains, followed by a simple Nepali breakfast. Suitable for beginners and a good rest day before or after a trek.",
+      "body": [
+        "Dhulikhel's hillside hotels look straight at the Himalaya, and mornings here are cool, quiet and clear in the dry season. We arrange a session with a local yoga teacher on a terrace or lawn facing the mountains, starting soon after sunrise when the air is still crisp.",
+        "The session runs about an hour: gentle stretches, standing poses, breathing practice and a short guided relaxation. Mats and blankets are provided. Teachers adapt to beginners, older travellers and trekkers with tired legs, and explain the poses in simple English.",
+        "Afterwards we share breakfast of fruit, curd, eggs or Nepali dishes, with the view of the mountains slowly fading into haze as the day warms. Many travellers book this on the day after a long hike or before a drive, as a calm, restorative start."
+      ],
+      "good_for": [
+        "couples",
+        "seniors",
+        "solo",
+        "trekkers"
+      ],
+      "faqs": [
+        {
+          "q": "Is Dhulikhel good for a wellness retreat?",
+          "a": "Yes. Its quiet hillside setting, cool mornings and mountain views suit yoga, meditation and slow walking. Dwarika's Resort Dhulikhel is designed around wellness, and other hotels offer yoga sessions. Namobuddha's monastery nearby adds a contemplative option. Two or three nights is ideal."
+        },
+        {
+          "q": "Do I need yoga experience for the Dhulikhel session?",
+          "a": "No. Sessions are adapted to the group, with simple poses and breathing for beginners, and more challenging options for experienced practitioners. Tell us about any injuries or health conditions in advance, and wear comfortable clothes. Sessions last about an hour."
+        },
+        {
+          "q": "What should I bring to a morning yoga session in Dhulikhel?",
+          "a": "Comfortable clothes you can move in, a warm layer for the start, and water. Mats and blankets are provided. Sessions are held outdoors when the weather allows and indoors otherwise. Avoid a heavy meal before the session. Sun cream helps once the sun is up."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far is Dhulikhel from Kathmandu?",
+      "a": "About 30 km east of central Kathmandu on the Araniko Highway, a 1.5 hour drive depending on traffic and road works. Local buses from Ratnapark and Bhaktapur run frequently. It is about 30 minutes from Panauti and 1 hour from Nagarkot by road."
+    },
+    {
+      "q": "How many days should I spend in Dhulikhel?",
+      "a": "One night gives you sunrise, the old town and a short walk. Two nights let you add the Namobuddha hike. With three, combine Dhulikhel, Namobuddha and a Panauti homestay into a gentle loop east of the valley. Add a night if you want a slow wellness stay."
+    },
+    {
+      "q": "What is Dhulikhel famous for?",
+      "a": "Dhulikhel is known for its Himalayan views, its old Newar town, the hike to Namobuddha, Dhulikhel Hospital and Kathmandu University. It is also the start of the BP Highway to the Terai and a stop on the road towards the Tibet border."
+    },
+    {
+      "q": "Is Dhulikhel or Nagarkot better?",
+      "a": "Nagarkot is higher, with slightly wider views and more forest walks. Dhulikhel is a real town with an old Newar core and is the base for Namobuddha and Panauti. Both have similar mountain views. Choose Dhulikhel if you want culture and hikes, Nagarkot for the view itself."
+    },
+    {
+      "q": "When is the best time to visit Dhulikhel?",
+      "a": "October to February for the clearest mountain views and dry trails. March and April are warm and good for walking, but hazier. June to September is monsoon, with frequent cloud and rain; views are rare, though the countryside is green."
+    },
+    {
+      "q": "Is Dhulikhel safe?",
+      "a": "Yes. It is a quiet town with a university and hospital, and is generally very safe for visitors. Take normal care with traffic on the Araniko Highway, which carries heavy trucks, and with valuables on crowded buses. Lanes in the old town are poorly lit at night."
+    },
+    {
+      "q": "Can I do a day trip to Dhulikhel from Kathmandu?",
+      "a": "Yes, but you will miss sunrise and most likely clear views, which are best early. A day trip can include the old town, Namobuddha by car, and Panauti. For the mountains, stay at least one night. Leave Kathmandu early to beat traffic."
+    },
+    {
+      "q": "Is Dhulikhel good for families?",
+      "a": "Yes. It is calm, safe and has easy walks, open space and hotels with gardens. The Namobuddha hike suits active older children, and the old town and temples are interesting for all ages. Bring warm clothes for cold mornings."
+    },
+    {
+      "q": "Are there hospitals in Dhulikhel?",
+      "a": "Yes. Dhulikhel Hospital, a teaching hospital of Kathmandu University, is one of the best known hospitals outside Kathmandu and serves travellers and locals. For serious emergencies, Kathmandu's main hospitals are 1.5 hours away by road. Carry travel insurance that covers evacuation."
+    }
+  ]
+}

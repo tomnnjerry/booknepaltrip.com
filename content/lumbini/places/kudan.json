@@ -1,0 +1,164 @@
+{
+  "slug": "kudan",
+  "name": "Kudan",
+  "name_ne": "कुदान",
+  "local_name": "Nyagrodharama (Pali tradition, the banyan grove)",
+  "region": "lumbini",
+  "kind": "archaeological site",
+  "wiki": "",
+  "image_query": "Kudan stupa Kapilvastu Nepal",
+  "lat": 27.531,
+  "lng": 83.064,
+  "altitude_m": 100,
+  "tagline": "Brick stupas where tradition says the Buddha met his father again",
+  "meta_description": "Kudan in Kapilvastu, linked by tradition with the Nyagrodharama grove where the Buddha met King Suddhodana after his enlightenment: stupas, pond, visiting tips.",
+  "summary": "Kudan is a small archaeological site of brick stupa mounds and a pond about 4.5 km south of Tilaurakot in Kapilvastu district. Tradition identifies it with Nyagrodharama, the banyan grove where the Buddha met his father, King Suddhodana, on his first return home. It takes 30–45 minutes and fits easily into a Kapilvastu day trip.",
+  "intro": [
+    "Kudan is a quiet place: a few brick stupa bases on raised ground, a pond, some trees and a modern shrine, set among wheat and rice fields just south of Taulihawa. Most people pass it in 30 minutes. Pilgrims who know the story stay longer.",
+    "Buddhist texts say that after his enlightenment the Buddha returned to Kapilavastu and stayed in a banyan grove outside the city, the Nyagrodharama. Here, by tradition, he met his father King Suddhodana for the first time in years, and his son Rahula was ordained as a novice. Many identify Kudan with that grove.",
+    "The excavated remains include stupas and the foundations of monastic buildings. Come with Tilaurakot, which is 4–5 km north, and with the Ashokan pillars at Gotihawa and Niglihawa."
+  ],
+  "story": {
+    "title": "The banyan grove outside Kapilavastu",
+    "paras": [
+      "In the Buddhist story, Prince Siddhartha left Kapilavastu at 29 and did not come back for years. When news reached King Suddhodana that his son had become the Buddha, he sent messengers inviting him home. The Buddha came with a large company of monks, and because a monk could not stay in a palace, the Shakyas gave him a park of banyan trees outside the city, the Nyagrodharama.",
+      "Tradition places several events here: the first meeting of father and son, the ordination of the Buddha's son Rahula as a novice, and Mahaprajapati Gautami, the Buddha's aunt and foster mother, offering him a robe she had made. Chinese pilgrims who came centuries later recorded stupas marking these places south of the city.",
+      "Kudan's mounds were excavated in the 20th century by Nepal's Department of Archaeology. They revealed brick stupas and structures that fit a monastic site. As with much of Kapilvastu, certainty is out of reach, but the site has been honoured as Nyagrodharama for generations, and pilgrims from Thailand, Sri Lanka and Myanmar now stop here to chant."
+    ]
+  },
+  "legend": "The Buddhist texts tell that when the Buddha first returned, the proud elders of the Shakya clan would not bow to a younger man. To soften their pride he rose into the air and performed a wonder. King Suddhodana bowed to his son, and the Shakyas followed. Later the Buddha's wife Yashodhara sent young Rahula to ask his father for his inheritance, and the Buddha answered by having him ordained.",
+  "people": "Kudan lies in farmland worked by Awadhi-speaking Madhesi families, Tharu households and Muslim neighbours from the villages around Taulihawa. Most grow rice in the monsoon and wheat or lentils in winter, keep a buffalo or two, and sell milk and vegetables in Taulihawa market. The site's caretakers and many of the guides at the Kapilvastu sites come from these villages.",
+  "untold": [
+    {"fact": "In Buddhist tradition the Nyagrodharama is where Mahaprajapati Gautami, the Buddha's aunt and foster mother, first asked him to let women be ordained. He refused at first; she was later ordained as the first Buddhist nun.", "source": "Wikipedia: Mahapajapati Gotami"},
+    {"fact": "The Chinese pilgrim Xuanzang described a stupa south of Kapilavastu marking the place where the Buddha met his father after his enlightenment. Kudan's location, south of Tilaurakot, is one reason it is identified with that grove.", "source": "Xuanzang, Great Tang Records on the Western Regions; Lumbini Development Trust"},
+    {"fact": "The Nyagrodharama was not just a one-time stop: many suttas in the Pali Canon open with the Buddha staying 'among the Sakyans at Kapilavatthu, in the Nigrodha park', where he taught his own clan on later visits.", "source": "Pali Canon, e.g. Anguttara Nikaya 8.51; SuttaCentral"}
+  ],
+  "local_words": [
+    {"word": "bar", "script": "बर", "lang": "Nepali", "meaning": "Banyan tree; Nyagrodharama means the banyan grove"},
+    {"word": "stupa", "script": "स्तूप", "lang": "Nepali", "meaning": "Dome-shaped Buddhist monument, usually holding relics"},
+    {"word": "bhikshu", "script": "भिक्षु", "lang": "Nepali", "meaning": "Buddhist monk"}
+  ],
+  "taste": {"name": "Chiura dahi", "text": "Beaten rice soaked in thick curd and sweetened with jaggery or sugar: the cool, filling breakfast of the Madhesi plains. In Taulihawa, a few minutes from Kudan, sweet shops sell fresh curd in clay pots each morning."},
+  "facts": [["Best months", "Oct – Mar"], ["Days we suggest", "30–45 minutes"], ["Nearest airport", "Gautam Buddha International Airport, Bhairahawa (≈ 45 km)"], ["From Lumbini", "≈ 28 km · 1 h by road"], ["Altitude", "≈ 100 m"], ["Known for", "Stupas of Nyagrodharama, Buddha and Suddhodana"]],
+  "best_months": [2, 2, 1, 0, 0, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The stupa mounds", "text": "Brick stupa bases on raised ground, cleared by the Department of Archaeology, mark the place tradition links with the meeting of the Buddha and King Suddhodana. Walk around them clockwise, as pilgrims do."},
+    {"title": "The pond", "text": "A large pond beside the ruins reflects the stupas in the still winter light. Early morning, with mist on the water and cranes or egrets in the shallows, is the best time to see it."},
+    {"title": "Pilgrim chanting", "text": "Groups from Thailand, Sri Lanka and Myanmar often stop at Kudan on their way between Lumbini and Tilaurakot to chant and offer flowers. Watching them adds a living layer to a quiet ruin."},
+    {"title": "Village life around the site", "text": "Kudan sits in working farmland. Women thresh grain in their yards, children cycle to school, and buffalo graze at the edge of the site, much as they would have in the Shakya country."},
+    {"title": "Easy pairing with Tilaurakot", "text": "Tilaurakot is about 4.5 km north and Gotihawa a short drive west. Kudan takes less than an hour, so it fits between the two without rushing the day."}
+  ],
+  "how_to_reach": [
+    {"mode": "Road", "text": "Kudan is about 28 km from Lumbini, 1 hour by private car, and about 2 km south of Taulihawa. From Tilaurakot it is 4–5 km, around 15 minutes. E-rickshaws from Taulihawa bazaar can take you there and wait."},
+    {"mode": "Air", "text": "Fly Kathmandu to Bhairahawa in about 35 minutes, then drive about 45 km west to Kudan, roughly 1.5 hours."}
+  ],
+  "where_to_stay": "There is nowhere to stay at Kudan itself. Most travellers base themselves in Lumbini, about an hour east, at hotels such as Buddha Maya Gardens or the Lumbini Hokke Hotel, and see Kudan on a day trip with Tilaurakot, Gotihawa and Niglihawa. Taulihawa, 2 km away, has a handful of basic local hotels if you want to stay close to the Kapilvastu sites.",
+  "stays": [],
+  "tips": [
+    "Visit Kudan early in the morning or late in the afternoon, when the light is soft and the pond is still.",
+    "There are no facilities at the site, so carry water and use the toilets in Taulihawa or Tilaurakot.",
+    "Walk clockwise around the stupas and do not climb on the brick ruins.",
+    "Bring flowers or a candle from Lumbini if you would like to make an offering.",
+    "Plan Kudan between Tilaurakot and Gotihawa so the day's driving runs in a loop."
+  ],
+  "themes": ["heritage-and-temples", "spiritual-and-pilgrimage"],
+  "nearby": ["tilaurakot", "gotihawa", "niglihawa", "lumbini"],
+  "experiences": [
+    {
+      "slug": "kudan-pilgrim-story-walk",
+      "title": "The homecoming story at Kudan",
+      "kind": "spiritual",
+      "duration": "45 minutes",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Kudan Kapilvastu stupas",
+      "wiki": "",
+      "summary": "A slow walk around Kudan's stupas with a guide who tells the story of the Buddha's return to Kapilavastu: the meeting with his father, Rahula's ordination and Mahaprajapati's robe, read from the texts at the places tradition gives them.",
+      "body": [
+        "Kudan does not look like much until someone tells you what it is meant to be. We walk the site clockwise, stopping at each stupa base while your guide tells the story of the Buddha's first return home, as the Pali texts and the later pilgrims record it.",
+        "There is the meeting with King Suddhodana, who had last seen his son as a prince leaving in the night. There is the young Rahula sent by his mother to ask for his inheritance, and ordained as a novice instead. And there is Mahaprajapati Gautami, who raised the Buddha, offering him a robe and later asking for women to be allowed to join the order.",
+        "We finish at the pond, with a few quiet minutes. If you would like to chant or meditate, the site is usually calm enough to do so."
+      ],
+      "good_for": ["first-timers", "seniors", "solo"],
+      "faqs": [
+        {"q": "What happened at Kudan according to Buddhist tradition?", "a": "Tradition identifies Kudan with the Nyagrodharama, the banyan grove outside Kapilavastu where the Buddha stayed on his first return home after enlightenment. Events placed here include his meeting with his father King Suddhodana, the ordination of his son Rahula, and Mahaprajapati Gautami offering him a robe."},
+        {"q": "How long should I spend at Kudan?", "a": "Thirty to 45 minutes is enough for most visitors to walk around the stupas and the pond. Pilgrims who wish to chant or meditate may want an hour. It fits easily into a day trip from Lumbini with Tilaurakot, Gotihawa and Niglihawa."},
+        {"q": "Is there an entry fee at Kudan?", "a": "Kudan has generally been free or very low cost to visit, with a caretaker on site rather than a full ticket office. Arrangements at the Kapilvastu sites are managed by the Lumbini Development Trust and Department of Archaeology and can change, so check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kudan-dawn-pond-photography",
+      "title": "Dawn mist over the Kudan pond",
+      "kind": "nature",
+      "duration": "1 hour",
+      "best_time": "Sunrise, Nov–Feb",
+      "image_query": "Kapilvastu pond mist morning",
+      "wiki": "",
+      "summary": "Arrive at sunrise in winter, when mist sits on the pond beside Kudan's stupas and the fields are white with dew, for the quietest light of the Kapilvastu plain and a chance of herons, egrets and cranes.",
+      "body": [
+        "From November to February the Terai wakes under fog. At Kudan that fog lifts slowly off the pond, and for half an hour the brick stupa bases, the trees and the water turn soft and grey-gold. It is the best light of the day for photographs and for sitting quietly.",
+        "We leave Lumbini in the dark, about an hour's drive, or start from Taulihawa if you have stayed there. Egrets and pond herons work the edges of the water, and on some mornings sarus cranes call from the fields nearby.",
+        "Afterwards there is tea and fresh curd in Taulihawa before the drive to Tilaurakot, which opens as the sun warms the ruins."
+      ],
+      "good_for": ["photographers", "couples", "solo"],
+      "faqs": [
+        {"q": "How cold is it at dawn in Kapilvastu in winter?", "a": "In December and January dawn temperatures in Kapilvastu are often 7–10 °C, with damp fog that feels colder. By midday it warms to 18–22 °C. Bring a warm jacket, a hat and closed shoes for the early start, and layers you can remove later."},
+        {"q": "Is fog guaranteed at Kudan in winter?", "a": "No. Fog is common from mid-December to late January but not certain, and some mornings it is too thick to see the far side of the pond. November and February often give lighter mist with clearer views. We watch the forecast and adjust timing the evening before."},
+        {"q": "Can I use a drone at Kudan?", "a": "Drones in Nepal need permission from the Civil Aviation Authority and often local authorities, and flying over heritage sites is restricted. Do not fly one at Kudan or other Kapilvastu sites without written permission. Rules change, so check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kudan-taulihawa-bazaar-walk",
+      "title": "Morning curd and sweets in Taulihawa bazaar",
+      "kind": "food",
+      "duration": "1–1.5 hours",
+      "best_time": "Morning, Oct–Mar",
+      "image_query": "Taulihawa bazaar Kapilvastu",
+      "wiki": "",
+      "summary": "A short walk through Taulihawa's market, 2 km from Kudan, for clay-pot curd, chiura dahi, fresh jalebi and sweet tea, and a look at the shops that serve the Kapilvastu plain.",
+      "body": [
+        "Taulihawa, headquarters of Kapilvastu district, is a plains market town where Nepali, Awadhi and Hindi mix in every shop. Mornings are the best time: sweet shops fry jalebi in big pans, curd sets in clay pots, and farmers bring vegetables in on bicycles.",
+        "We stop for chiura dahi, beaten rice in thick curd with jaggery, and a glass of sweet milky tea. Your guide will show you the cloth shops, the grain traders and the stalls selling the brass and steel pots used in village kitchens.",
+        "Taulihawa sees few foreign visitors, so expect curiosity and friendly questions. It is a good break between the morning at Kudan and the midday heat at the pillar sites."
+      ],
+      "good_for": ["families", "first-timers", "couples"],
+      "faqs": [
+        {"q": "Is street food in Taulihawa safe to eat?", "a": "Stick to freshly cooked, hot food such as jalebi and tea, and curd from busy shops with high turnover. Avoid cut fruit and raw salads, and drink bottled or filtered water. Our guides take you to shops they use themselves. If you have a sensitive stomach, keep to cooked items."},
+        {"q": "What languages are spoken in Taulihawa?", "a": "Awadhi is the main home language in much of Kapilvastu district, with Nepali widely spoken in shops and offices and Hindi understood by almost everyone. Tharu and Urdu are also heard. Simple English is spoken in some shops, and your guide will translate."},
+        {"q": "What can I buy in Taulihawa?", "a": "Taulihawa is a working market rather than a souvenir town. Good buys include kalanamak rice, local sweets, brass and steel kitchen pots, cotton cloth and glass bangles. Prices are fixed in most food shops; in cloth and household shops polite bargaining is normal."}
+      ]
+    },
+    {
+      "slug": "kudan-kapilvastu-cycle-loop",
+      "title": "Cycle the Kapilvastu stupa loop",
+      "kind": "adventure",
+      "duration": "4–5 hours",
+      "best_time": "Morning, Nov–Feb",
+      "image_query": "Kapilvastu village road cycling",
+      "wiki": "",
+      "summary": "A flat village-road bicycle loop of about 25 km from Taulihawa linking Kudan, Gotihawa, Niglihawa and Tilaurakot, with stops for tea and the chance to see the Shakya country at the speed of a farm cart.",
+      "body": [
+        "The Kapilvastu sites lie within a few kilometres of each other on flat ground, which makes them ideal for a bicycle. We drive from Lumbini to Taulihawa with the bikes, then ride south to Kudan, west to Gotihawa's broken pillar, north-east to the pond and pillar at Niglihawa, and back to Tilaurakot.",
+        "The roads are narrow and mostly paved, with stretches of packed earth between villages. Traffic is tractors, bicycles and the occasional bus. Riding lets you stop wherever something catches your eye: a family threshing rice, a pond full of lotus, a shrine under a pipal tree.",
+        "The full loop is about 25 km and takes 4–5 hours with stops. A support vehicle follows, so anyone who tires can ride in the car."
+      ],
+      "good_for": ["families", "couples", "photographers"],
+      "faqs": [
+        {"q": "Is cycling around Kapilvastu suitable for beginners?", "a": "Yes. The loop is entirely flat, about 25 km, on village roads with light traffic. Anyone comfortable on a bicycle for 2–3 hours of riding can do it, with stops at each site. A support vehicle follows, so you can stop riding at any point."},
+        {"q": "Are bicycles provided for the Kapilvastu loop?", "a": "Yes, we arrange bicycles, usually simple mountain bikes or city bikes hired in Lumbini or Bhairahawa, with helmets on request. Bring your own padded shorts or gloves if you like them. Quality varies, so tell us your height in advance and we will choose the right size."},
+        {"q": "When is too hot to cycle in Kapilvastu?", "a": "From April to June temperatures reach 38–42 °C by midday, which is too hot for comfortable cycling, so we only offer the loop from October to March. Even in winter we start early, finish by early afternoon, and carry plenty of water."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Kudan?", "a": "Kudan is in Kapilvastu district, Lumbini Province, about 2 km south of Taulihawa and 4–5 km south of Tilaurakot. It is about 28 km west of Lumbini by road, roughly an hour's drive. Most visitors see it on a day trip covering the main Kapilvastu sites."},
+    {"q": "Why is Kudan important to Buddhists?", "a": "Kudan is identified with the Nyagrodharama, a banyan grove where, by Buddhist tradition, the Buddha stayed on his first visit home after his enlightenment. Here he is said to have met his father King Suddhodana, ordained his son Rahula and received a robe from his foster mother Mahaprajapati Gautami."},
+    {"q": "What is there to see at Kudan?", "a": "Kudan has excavated brick stupa bases and remains of other structures on raised ground, a large pond, old trees and a small modern shrine. It is a simple, quiet site rather than a monument, and most of its meaning comes from the story told there."},
+    {"q": "Is Kudan worth visiting?", "a": "Yes, if you are visiting Tilaurakot or are a pilgrim following the Buddha's life. It completes the story of Kapilavastu with his return home, and it takes under an hour. Travellers mainly interested in architecture may find it modest compared with Lumbini."},
+    {"q": "Is Kudan the same as Nyagrodharama?", "a": "Kudan is widely identified with the Nyagrodharama of Buddhist texts, but as with most sites around Kapilavastu, the identification rests on tradition, location and the accounts of Chinese pilgrims rather than an inscription. Some scholars place the grove elsewhere."},
+    {"q": "Can I visit Kudan and Tilaurakot on the same day?", "a": "Yes. They are only 4–5 km apart. A typical day from Lumbini covers Tilaurakot, the Kapilvastu Museum, Kudan, Gotihawa and Niglihawa, with lunch in Taulihawa. The total driving is about 60–70 km and the day takes 6–7 hours."},
+    {"q": "What is the best time of day to visit Kudan?", "a": "Early morning or late afternoon is best for light, comfort and quiet. From November to February morning mist over the pond is beautiful. Avoid midday from April to June, when there is little shade and temperatures pass 38 °C."},
+    {"q": "Are there toilets or shops at Kudan?", "a": "There are no proper facilities at Kudan beyond perhaps a small tea stall nearby. Use the toilets at your hotel, at Tilaurakot or in Taulihawa, 2 km away, and carry water. Taulihawa has restaurants and shops for supplies."},
+    {"q": "Should I take a guide to Kudan?", "a": "We recommend it. The site has little signage, and its meaning comes almost entirely from the story of the Buddha's return to Kapilavastu. A guide can tell that story at the right places and also help with directions on the village roads between the sites."}
+  ]
+}

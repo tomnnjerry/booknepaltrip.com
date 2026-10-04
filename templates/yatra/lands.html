@@ -1,0 +1,13 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Regions of Nepal: where to go, from the Terai to the Himalaya · Book Nepal Trip{% endblock %}
+{% block description %}Nepal's nine travel regions, from the Kathmandu Valley and Chitwan to Everest, Mustang and the Far West, with the best months, heights and stories of each.{% endblock %}
+{% block content %}
+<header class="wrap phead__simple"><p class="eyebrow">Regions</p><h1 class="h-xl">Nepal in nine regions</h1><p class="lede">We divide Nepal the way travellers move through it, not by province lines. Each region has its own palette on this site, taken from what it is known for.</p></header>
+<section class="wrap" style="padding-bottom:80px">
+  <div class="rstack">{% for r in regions %}
+    <a class="rstrip" href="{{ r.url }}" data-land="{{ r.slug }}"><span class="pennant">{% icon r.icon %}</span><span><span class="rstrip__pal">{{ r.palette }}</span><h3>{{ r.name }}</h3></span><p>{{ r.summary|truncatewords:26 }}</p><span class="rstrip__alt"><b>{{ r.alt_lo|num }} – {{ r.alt_hi|num }} m</b>best {{ r.best_label }}</span><span class="rstrip__ghost deva" aria-hidden="true">{{ r.name_ne }}</span>{% with i=r.images|first %}{% if i %}<span class="rstrip__img"><img src="{{ i|src:500 }}" alt="" loading="lazy"></span>{% endif %}{% endwith %}</a>{% endfor %}
+  </div>
+  <h2 class="h-m" style="margin-top:60px">When each region is at its best</h2>
+  <div class="table-wrap"><table><thead><tr><th>Region</th>{% for m in months_short %}<th>{{ m }}</th>{% endfor %}</tr></thead><tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><td><a href="{{ r.url }}">{{ r.name }}</a></td>{% for b in r.bar %}<td title="{{ b.full }}" style="padding:6px 4px"><span style="display:block;height:18px;border-radius:3px;{% if b.v == 2 %}background:var(--acc-ink){% elif b.v == 1 %}background:var(--tint);box-shadow:inset 0 0 0 1px var(--rule){% else %}background:transparent{% endif %}"></span></td>{% endfor %}</tr>{% endfor %}</tbody></table></div>
+</section>
+{% endblock %}
