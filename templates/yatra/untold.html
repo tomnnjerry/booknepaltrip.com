@@ -1,0 +1,13 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Untold Nepal: facts most travel guides leave out · Book Nepal Trip{% endblock %}
+{% block description %}Lesser-known, checkable facts about every region and place in Nepal, each with a source you can verify.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Untold Nepal · थाहा नभएका कुरा</p><h1 class="h-xl">Few people know</h1><p class="lede">Lesser-known does not mean invented. Every fact here comes with a source you can check.</p>
+<div class="chips" style="margin-top:18px">{% for g in groups %}{% if g.facts %}<a class="chip" href="#{{ g.r.slug }}">{% icon g.r.icon %}{{ g.r.name }}</a>{% endif %}{% endfor %}</div></div></header>
+<section class="wrap" style="padding:10px 0 90px">
+  {% for g in groups %}{% if g.facts %}<div class="altcol" id="{{ g.r.slug }}" data-land="{{ g.r.slug }}" style="scroll-margin-top:100px">
+    <div class="altcol__k"><span class="pennant pennant--sm">{% icon g.r.icon %}</span><a class="h-m" href="{{ g.r.url }}" style="font-family:var(--f-display);color:inherit;text-decoration:none">{{ g.r.name }}</a><span class="mono">{{ g.facts|length }} facts</span></div>
+    <div class="notes">{% for u in g.facts %}<div class="note"><div><p>{{ u.fact }}</p><small>{{ u.source }}</small><a class="note__where" href="{{ u.url }}">{{ u.where }} →</a></div></div>{% endfor %}</div>
+  </div>{% endif %}{% endfor %}
+</section>
+{% endblock %}

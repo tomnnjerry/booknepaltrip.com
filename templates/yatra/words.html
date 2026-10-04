@@ -1,0 +1,14 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Words you will hear in Nepal: Nepali, Newar, Sherpa, Tharu and more · Book Nepal Trip{% endblock %}
+{% block description %}{{ words|length }} words a traveller hears in Nepal, in Devanagari and Tibetan script with meanings: Nepali, Nepal Bhasa, Sherpa, Tharu, Maithili, Gurung, Tamang and more.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Words you will hear · शब्दहरू</p><h1 class="h-xl">Nepal speaks more than Nepali</h1><p class="lede">The 2021 census counted over a hundred mother tongues in Nepal. These are the {{ words|length }} words our pages teach, each linked to the place where you will hear it.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px">
+  <div class="filters" data-filter-group="#word-grid">
+    <label class="small">Language <select data-key="lang"><option value="">All</option>{% for l in langs %}<option value="{{ l|slugify }}">{{ l }}</option>{% endfor %}</select></label>
+    <label class="small">Region <select data-key="region"><option value="">All</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+    <span class="small muted" style="margin-left:auto"><span data-filter-count>{{ words|length }}</span> shown</span>
+  </div>
+  <div class="words" id="word-grid">{% for w in words %}<div class="word" data-item data-lang="{{ w.lang|slugify }}" data-region="{{ w.region }}" data-land="{{ w.region }}" style="--wc: {% cycle 'var(--lung-blue)' 'var(--lung-red)' 'var(--lung-green)' 'var(--lung-yellow)' '#B8B09A' %}"><span class="word__lang">{{ w.lang }}</span><div class="word__script">{{ w.script|default:w.word }}</div><div class="word__roman">{{ w.word }}</div><p>{{ w.meaning }}</p><a class="word__where" href="{{ w.url }}">Heard in {{ w.where }}</a></div>{% endfor %}</div>
+</section>
+{% endblock %}

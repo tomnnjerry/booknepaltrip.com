@@ -329,7 +329,7 @@ def festivals(request):
     by_month = []
     for i, m in enumerate(MONTHS):
         fs = [f for f in cat.festivals.values() if (i + 1) in f.get("month_nums", [])]
-        by_month.append({"name": m, "festivals": fs})
+        by_month.append({"name": m, "festivals": fs, "bs": f"{BS_FOR_MONTH[i][0][0]} – {BS_FOR_MONTH[i][1][0]}"})
     return render(request, "yatra/festivals.html", {"by_month": by_month, "count": len(cat.festivals), "crumbs": items, "ld": ld(bc)})
 
 
@@ -379,7 +379,7 @@ def theme(request, slug):
 def seasons(request):
     cat = catalogue()
     items, bc = crumbs(("Seasons", reverse("seasons")))
-    return render(request, "yatra/seasons.html", {"regions": list(cat.regions.values()), "months": MONTHS,
+    return render(request, "yatra/seasons.html", {"regions": list(cat.regions.values()), "months": MONTHS, "bars": month_bar(None),
                                                   "months_short": MONTH_SHORT, "crumbs": items, "ld": ld(bc)})
 
 
@@ -414,7 +414,8 @@ def plan(request):
     if request.method == "POST":
         form = EnquiryForm(request.POST)
         if form.is_valid():
-            form.save()
+            enquiry = form.save()
+            _notify(enquiry)
             return redirect("plan_thanks")
     else:
         initial = {"source_page": request.GET.get("from", "")[:300], "kind": "full"}
@@ -427,6 +428,24 @@ def plan(request):
         form = EnquiryForm(initial=initial)
     items, bc = crumbs(("Plan a trip", reverse("plan")))
     return render(request, "yatra/plan.html", {"form": form, "crumbs": items, "ld": ld(bc)})
+
+
+def _notify(e):
+    """Email a new enquiry to the planners. Never blocks the visitor if mail fails."""
+    to = getattr(settings, "NOTIFY_EMAIL", "")
+    if not to:
+        return
+    from django.core.mail import send_mail
+    lines = [f"{k}: {v}" for k, v in (
+        ("Name", e.name), ("Email", e.email), ("Phone", e.phone), ("Reach by", e.get_contact_pref_display()),
+        ("Form", e.get_kind_display()), ("Regions", e.lands), ("Month", e.month), ("Nights", e.nights),
+        ("Travellers", e.travellers), ("Budget", e.budget), ("Page", e.source_page)) if v]
+    try:
+        send_mail(f"New enquiry: {e.name} ({e.lands or 'any region'})", "\n".join(lines) + f"\n\n{e.message}",
+                  None, [a.strip() for a in to.split(",") if a.strip()], fail_silently=False)
+    except Exception:  # noqa: BLE001
+        import logging
+        logging.getLogger(__name__).exception("enquiry email failed")
 
 
 def plan_thanks(request):

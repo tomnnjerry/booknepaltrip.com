@@ -41,3 +41,8 @@ Each writer listed the facts it was least sure of. Check these before launch (mo
 - Namkha Khyung Dzong "one of the largest" in Humla; Halji as Drikung Kagyu
 - Rani Tal palace (local belief); Bardia crocodile breeding centre; Dalla homestay; Surkhet–Kathmandu flights
 - Tiger Tops Karnali Lodge operating (used on three Bardia trips)
+
+## Mustang & Dolpo: Upper Mustang permit fee (site disagrees with itself)
+- The chhoser, ghami and tsarang place files say a November 2025 decision set the Upper Mustang fee at USD 50 per person per day.
+- region.json and the upper-mustang-permit-explained guide say USD 500 for the first 10 days, then USD 50 per day.
+- Confirm the current rule with the Department of Immigration and make every page agree.

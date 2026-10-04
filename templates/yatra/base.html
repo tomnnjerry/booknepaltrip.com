@@ -1,7 +1,8 @@
 {% load static yatra %}<!doctype html>
-<html lang="en-GB" class="js">
+<html lang="en-GB">
 <head>
 <meta charset="utf-8">
+<script>(function(h){h.classList.add("js");setTimeout(function(){if(!h.classList.contains("js-ready"))h.classList.remove("js")},4000)})(document.documentElement)</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}Book Nepal Trip · Nepal trips, treks and tours told by the people who know them{% endblock %}</title>
 <meta name="description" content="{% block description %}Private trips, treks and tours in Nepal across nine regions, from the Kathmandu Valley to the Far West. Real stories, local words and true facts for every place, with licensed guides and itemised quotes.{% endblock %}">
@@ -111,10 +112,10 @@
       <div><h3>Policies</h3><ul>{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}<li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li></ul></div>
     </div>
     <div class="foot__trust">
-      <span>[Nepal Tourism Board / Department of Tourism registration no.]</span><span>[TAAN / NATTA membership]</span><span>Payments: [bank transfer · cards]</span><span>No payment to start · written, itemised quotes</span>
+      {% if SITE.licence %}<span>{{ SITE.licence }}</span>{% endif %}{% if SITE.memberships %}<span>{{ SITE.memberships }}</span>{% endif %}{% if SITE.payments %}<span>Payments: {{ SITE.payments }}</span>{% endif %}<span>No payment to start · written, itemised quotes</span>
     </div>
     <div class="foot__base">
-      <span>© {% now "Y" %} Book Nepal Trip · {{ SITE.address }}</span>
+      <span>© {% now "Y" %} Book Nepal Trip{% if SITE.address %} · {{ SITE.address }}{% endif %}</span>
       <span>Photos: Wikimedia Commons contributors, credited on each page · Maps drawn from Natural Earth</span>
       <a href="#main">Back to top ↑</a>
     </div>
@@ -127,7 +128,7 @@
     <p class="fab__title">Talk to a planner</p>
     <a href="{% url 'plan' %}?from={{ request.path|urlencode }}{% block fab_land %}{% endblock %}" data-cta="fab-plan"><b>Plan online</b><span>A first plan within one working day</span></a>
     {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="fab-whatsapp"><b>WhatsApp</b><span>Usually the fastest reply</span></a>{% endif %}
-    {% if tel %}<a href="tel:{{ tel }}" data-cta="fab-call"><b>Call {{ SITE.phone }}</b><span>[Office hours, Nepal time]</span></a>{% endif %}
+    {% if tel %}<a href="tel:{{ tel }}" data-cta="fab-call"><b>Call {{ SITE.phone }}</b><span>{{ SITE.hours|default:"Nepal time, UTC+5:45" }}</span></a>{% endif %}
     <a href="{% url 'contact' %}#callback" data-cta="fab-callback"><b>Request a call back</b><span>Tell us when suits you</span></a>
     <a href="mailto:{{ SITE.email }}" data-cta="fab-email"><b>Email</b><span>{{ SITE.email }}</span></a>
   </div>

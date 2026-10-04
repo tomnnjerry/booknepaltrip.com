@@ -1,4 +1,4 @@
-"""Validate content/journal/*.json against content/JOURNAL_SCHEMA.md.
+"""Validate content/stories/*.json (Stories posts) against the house rules in content/SCHEMA.md.
 
 Usage: python tools/check_journal.py [slug ...]
 """
@@ -10,14 +10,26 @@ ROOT = Path(__file__).resolve().parent.parent / "content"
 sys.path.insert(0, str(Path(__file__).parent))
 from check_region import BANNED  # noqa: E402
 
-slugs = json.loads((ROOT / "_slugs.json").read_text(encoding="utf-8"))
 known = {k: set() for k in ("place", "journey", "stay", "guide", "festival")}
-for land in slugs.values():
-    for k in known:
-        known[k] |= set(land[k + "s"])
+slugs = {}  # region slug -> True (regions are the dirs holding a region.json)
+
+
+def _slug_set(items):
+    return {x.get("slug") for x in items if isinstance(x, dict) and x.get("slug")}
+
+
+for region_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and (p / "region.json").exists()):
+    slugs[region_dir.name] = True
+    for kind, sub in (("place", "places"), ("journey", "journeys"), ("guide", "guides")):
+        for f in (region_dir / sub).glob("*.json"):
+            known[kind].add(f.stem)
+    for kind, fname in (("stay", "stays.json"), ("festival", "festivals.json")):
+        f = region_dir / fname
+        if f.exists():
+            known[kind] |= _slug_set(json.loads(f.read_text(encoding="utf-8")))
 errors, warns = [], []
 only = set(sys.argv[1:])
-files = sorted((ROOT / "journal").glob("*.json"))
+files = sorted((ROOT / "stories").glob("*.json"))
 seen = set()
 for f in files:
     if only and f.stem not in only:
@@ -33,6 +45,9 @@ for f in files:
     if d["slug"] in seen:
         errors.append(f"{w}: duplicate slug")
     seen.add(d["slug"])
+    for k, pool in known.items():
+        if d["slug"] in pool:
+            errors.append(f"{w}: slug clashes with a {k} slug")
     for k in ("title", "category", "date", "regions", "meta_description", "summary", "sections", "faqs", "cta"):
         if not d.get(k):
             errors.append(f"{w}: missing {k}")

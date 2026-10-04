@@ -1,0 +1,13 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Legends of Nepal, place by place · Book Nepal Trip{% endblock %}
+{% block description %}The folk legends and sacred stories told at Nepal's lakes, temples, passes and villages, clearly labelled as legend, region by region.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Legends · किंवदन्ती</p><h1 class="h-xl">As it is told</h1><p class="lede">Lakes drained by a sword, gods who chose a hill, saints who flew over passes. These are the stories people tell, labelled as legend, beside the places where they are told.</p>
+<div class="chips" style="margin-top:18px">{% for g in groups %}{% if g.legends %}<a class="chip" href="#{{ g.r.slug }}">{% icon g.r.icon %}{{ g.r.name }}</a>{% endif %}{% endfor %}</div></div></header>
+<section class="wrap" style="padding:10px 0 90px">
+  {% for g in groups %}{% if g.legends %}<div id="{{ g.r.slug }}" data-land="{{ g.r.slug }}" style="scroll-margin-top:100px;margin-bottom:56px">
+    <h2 class="h-l"><a href="{{ g.r.url }}" style="color:inherit;text-decoration:none">{{ g.r.name }}</a></h2>
+    <div style="display:grid;gap:26px">{% for x in g.legends %}<div class="pothi"><span class="pothi__rule pothi__rule--l"></span><span class="pothi__rule pothi__rule--r"></span><span class="mono"><a href="{{ x.url }}" style="color:inherit">{{ x.where }}</a>{% if x.name_ne %} · {{ x.name_ne }}{% endif %}</span><p>{{ x.text }}</p></div>{% endfor %}</div>
+  </div>{% endif %}{% endfor %}
+</section>
+{% endblock %}

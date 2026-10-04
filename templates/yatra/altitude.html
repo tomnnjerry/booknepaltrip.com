@@ -1,0 +1,13 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal by height: every place from the Terai to the Himal · Book Nepal Trip{% endblock %}
+{% block description %}Every place on our trips sorted by altitude, from {{ lowest }} m in the Terai to the high camps of the Himal, with the five belts Nepalis use to describe their land.{% endblock %}
+{% block content %}
+<header class="phead phead--paper">{% contours "altitude" 12 %}<div class="wrap phead__simple"><p class="eyebrow">Nepal by height · उचाइ</p><h1 class="h-xl">From {{ lowest }} m to {{ highest|num }} m</h1><p class="lede">Nepalis describe their country in belts: Terai, Chure, Pahad, Lekh and Himal. Height decides the crops, the houses, the languages and the season you should come. Here is every place on our trips, highest first.</p>
+<div class="chips" style="margin-top:18px">{% for b in belts %}<a class="chip" href="#{{ b.name|slugify }}">{{ b.name }} · {{ b.lo|num }} m +</a>{% endfor %}<a class="chip" href="{% url 'tool_altitude' %}">{% icon "oxygen" %}Altitude and air tool</a></div></div></header>
+<section class="wrap" style="padding:10px 0 90px">
+  {% for b in belts %}<div class="altcol" id="{{ b.name|slugify }}" style="scroll-margin-top:100px">
+    <div class="altcol__k"><span class="h-m" style="font-family:var(--f-display)">{{ b.name }}</span><span class="deva">{{ b.ne }}</span><span class="mono">{{ b.lo|num }} – {{ b.hi|num }} m</span><p class="small muted">{{ b.note }}</p></div>
+    {% if b.places %}<div class="rows">{% for p in b.places %}<a class="row" href="{{ p.url }}" data-land="{{ p.region }}"><span class="row__alt">{{ p.altitude_m|num }} m</span><span><b>{{ p.name }}</b><small>{{ p.region_obj.name }} · {{ p.kind }}</small></span><span class="small muted">{{ p.best_label }}</span></a>{% endfor %}</div>{% else %}<p class="empty">No places on our trips sit in this belt yet.</p>{% endif %}
+  </div>{% endfor %}
+</section>
+{% endblock %}

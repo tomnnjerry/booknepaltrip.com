@@ -1,0 +1,9 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Policies · Book Nepal Trip{% endblock %}
+{% block description %}Booking terms, payments, refunds and cancellations, privacy, cookies, disclaimer and accessibility at Book Nepal Trip, in plain words.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Policies</p><h1 class="h-xl">The terms, in plain words</h1><p class="lede">Each policy opens with a short summary. The full text follows it.</p></div></header>
+<section class="wrap" style="padding:10px 0 90px"><div class="grid grid--3">
+  {% for p in policies %}<a class="card" href="{% url 'policy' p.slug %}" style="padding:24px;gap:10px"><span class="badge">{% icon "shield" %}</span><h3>{{ p.title }}</h3><p>{{ p.summary|truncatewords:30 }}</p></a>{% endfor %}
+</div></section>
+{% endblock %}

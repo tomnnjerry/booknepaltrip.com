@@ -2,6 +2,9 @@
 import os, sys, re
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "bnt.settings")
+os.environ.setdefault("DJANGO_DEBUG", "0")  # debug error pages are very slow on this catalogue
+os.environ.setdefault("DJANGO_SECRET_KEY", "smoke-test")
+os.environ.setdefault("BNT_SSL_REDIRECT", "0")
 import django; django.setup()
 from django.conf import settings
 settings.ALLOWED_HOSTS = ["*"]
