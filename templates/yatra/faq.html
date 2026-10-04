@@ -1,0 +1,13 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Nepal travel questions, answered · Book Nepal Trip{% endblock %}
+{% block description %}Answers to the questions travellers ask about Nepal: guides and permits, seasons, altitude, prices and each of the nine regions.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">FAQ</p><h1 class="h-xl">Questions travellers ask</h1><p class="lede">Short, specific answers, first about travelling with us, then region by region.</p>
+<div class="chips" style="margin-top:18px">{% for g in groups %}<a class="chip" href="#faq-{{ forloop.counter }}">{{ g.name }}</a>{% endfor %}</div></div></header>
+<section class="wrap wrap--narrow" style="padding:10px 0 90px">
+  {% for g in groups %}{% if g.faqs %}<div id="faq-{{ forloop.counter }}" style="scroll-margin-top:110px;margin-bottom:40px">
+    <h2 class="h-m">{% if g.url %}<a href="{{ g.url }}" style="color:inherit;text-decoration:none">{{ g.name }}</a>{% else %}{{ g.name }}{% endif %}</h2>
+    {% include "yatra/partials/faq.html" with faqs=g.faqs %}
+  </div>{% endif %}{% endfor %}
+</section>
+{% endblock %}

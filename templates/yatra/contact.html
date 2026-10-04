@@ -1,0 +1,34 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Contact Book Nepal Trip · Talk to a Nepal trip planner{% endblock %}
+{% block description %}Write, call, WhatsApp or ask for a call back. A Nepal trip planner replies within one working day, Nepal time (UTC+5:45).{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Contact · सम्पर्क</p><h1 class="h-xl">Talk to a planner</h1><p class="lede">We reply within one working day, Nepal time (UTC+5:45). Tell us what suits you: email, WhatsApp or a call back.</p></div></header>
+<section class="wrap split" style="padding:10px 0 96px">
+  <div>
+    <div class="grid grid--2" style="margin-bottom:34px">
+      <a class="card" href="mailto:{{ SITE.email }}" style="padding:24px;gap:10px" data-cta="contact-email"><span class="badge">{% icon "mail" %}</span><h3>Email</h3><p>{{ SITE.email }}</p></a>
+      {% if tel %}<a class="card" href="tel:{{ tel }}" style="padding:24px;gap:10px" data-cta="contact-call"><span class="badge">{% icon "phone" %}</span><h3>Call</h3><p>{{ SITE.phone }}</p></a>{% endif %}
+      {% if wa_base %}<a class="card" href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" style="padding:24px;gap:10px" data-cta="contact-whatsapp"><span class="badge">{% icon "whatsapp" %}</span><h3>WhatsApp</h3><p>Usually the fastest reply</p></a>{% endif %}
+      <a class="card" href="{% url 'plan' %}?from={{ request.path|urlencode }}" style="padding:24px;gap:10px" data-cta="contact-plan"><span class="badge">{% icon "pennant" %}</span><h3>Plan online</h3><p>Three short steps, a first plan within one working day</p></a>
+    </div>
+    <form id="callback" class="form" method="post" action="{% url 'plan' %}" data-cta-form="callback" style="scroll-margin-top:110px">
+      {% csrf_token %}
+      <h2 class="h-m full">Request a call back</h2>
+      <p class="full muted" style="margin-top:0">Leave a number and a good time to call, in your time zone. A planner calls you.</p>
+      <input type="hidden" name="kind" value="callback"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="hidden" name="contact_pref" value="call">
+      <input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="field"><label for="cb-name">Your name</label><input id="cb-name" type="text" name="name" required maxlength="120"></div>
+      <div class="field"><label for="cb-email">Email</label><input id="cb-email" type="email" name="email" required></div>
+      <div class="field"><label for="cb-phone">Phone or WhatsApp, with country code</label><input id="cb-phone" type="tel" name="phone" required maxlength="40"></div>
+      <div class="field"><label for="cb-month">Month you hope to travel</label><select id="cb-month" name="month"><option value="">Flexible</option>{% for m in form.fields.month.choices %}{% if m.0 %}<option value="{{ m.0 }}">{{ m.1 }}</option>{% endif %}{% endfor %}</select></div>
+      <div class="field full"><label for="cb-msg">Best time to call, and anything we should know</label><textarea id="cb-msg" name="message" rows="4"></textarea></div>
+      <div class="full"><button class="btn" type="submit">Ask for a call back</button></div>
+      <p class="full small muted">We use your details only to plan your trip. See our <a href="{% url 'policy' 'privacy' %}">privacy policy</a>.</p>
+    </form>
+  </div>
+  <aside class="split__aside">
+    <div class="panel"><p class="eyebrow">Office</p><p style="margin:0">{{ SITE.address }}</p><p class="small muted">Nepal time is UTC+5:45. Nepal's weekly holiday is Saturday.</p></div>
+    {% include "yatra/partials/trust.html" %}
+  </aside>
+</section>
+{% endblock %}

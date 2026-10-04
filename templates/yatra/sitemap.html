@@ -1,0 +1,30 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}Sitemap · Book Nepal Trip{% endblock %}
+{% block description %}Every page on Book Nepal Trip: regions, places, experiences, trips, stays, guides, festivals, routes and stories.{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Sitemap</p><h1 class="h-xl">Every page, in one place</h1></div></header>
+<section class="wrap prose" style="padding:10px 0 90px;max-width:none">
+  <div class="grid grid--3">
+    <div><h2 class="h-s">Start here</h2><ul><li><a href="{% url 'home' %}">Home</a></li><li><a href="{% url 'lands' %}">Regions</a></li><li><a href="{% url 'journeys' %}">Trips</a></li><li><a href="{% url 'experiences' %}">Experiences</a></li><li><a href="{% url 'stays' %}">Stays</a></li><li><a href="{% url 'themes' %}">Travel styles</a></li><li><a href="{% url 'plan' %}">Plan a trip</a></li></ul></div>
+    <div><h2 class="h-s">Read and plan</h2><ul><li><a href="{% url 'guides' %}">Guides</a></li><li><a href="{% url 'journal' %}">Stories</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'seasons' %}">Seasons</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'legends' %}">Legends</a></li><li><a href="{% url 'untold' %}">Untold Nepal</a></li><li><a href="{% url 'words' %}">Words you will hear</a></li><li><a href="{% url 'altitude' %}">Nepal by height</a></li></ul></div>
+    <div><h2 class="h-s">Tools and us</h2><ul><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'tool_season' %}">Season finder</a></li><li><a href="{% url 'tool_budget' %}">Budget builder</a></li><li><a href="{% url 'tool_permits' %}">Permits</a></li><li><a href="{% url 'tool_altitude' %}">Altitude and air</a></li><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'contact' %}">Contact</a></li><li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'policies' %}">Policies</a></li><li><a href="{% url 'photo_credits' %}">Photo credits</a></li></ul></div>
+  </div>
+  {% for r in regions %}<div data-land="{{ r.slug }}" style="margin-top:40px">
+    <h2 class="h-m"><a href="{{ r.url }}">{{ r.name }}</a></h2>
+    <div class="grid grid--3">
+      <div><h3 class="h-s">Places and experiences</h3><ul>{% for p in r.places %}<li><a href="{{ p.url }}">{{ p.name }}</a>{% if p.experiences %}<ul>{% for e in p.experiences %}<li><a href="{{ e.url }}">{{ e.title }}</a></li>{% endfor %}</ul>{% endif %}</li>{% endfor %}</ul></div>
+      <div><h3 class="h-s">Trips</h3><ul>{% for j in r.journeys %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}</ul>
+        {% if r.stays %}<h3 class="h-s">Stays</h3><ul>{% for s in r.stays %}<li><a href="{{ s.url }}">{{ s.name }}</a></li>{% endfor %}</ul>{% endif %}
+        {% if r.routes %}<h3 class="h-s">Routes</h3><ul>{% for rt in r.routes %}<li><a href="{{ rt.url }}">{{ rt.from_obj.name }} to {{ rt.to_obj.name }}</a></li>{% endfor %}</ul>{% endif %}</div>
+      <div><h3 class="h-s">Guides</h3><ul>{% for g in r.guides %}<li><a href="{{ g.url }}">{{ g.title }}</a></li>{% endfor %}</ul>
+        {% if r.festivals %}<h3 class="h-s">Festivals</h3><ul>{% for f in r.festivals %}<li><a href="{{ f.url }}">{{ f.name }}</a></li>{% endfor %}</ul>{% endif %}
+        <h3 class="h-s">Month by month</h3><ul>{% for m, s in month_slugs %}<li><a href="{% url 'region_month' r.slug s %}">{{ r.name }} in {{ m }}</a></li>{% endfor %}</ul></div>
+    </div>
+  </div>{% endfor %}
+  <div style="margin-top:40px" class="grid grid--3">
+    <div><h2 class="h-s">Styles by region</h2><ul>{% for r, t in pairs %}<li><a href="{% url 'region_theme' r.slug t.slug %}">{{ t.name }} in {{ r.name }}</a></li>{% endfor %}</ul></div>
+    <div><h2 class="h-s">Experiences by region</h2><ul>{% for r, k, n in kind_pairs %}<li><a href="{% url 'region_kind' r.slug k %}">{{ n }} in {{ r.name }}</a></li>{% endfor %}</ul></div>
+    <div><h2 class="h-s">Stories</h2><ul>{% for d in cat.posts.values %}<li><a href="{{ d.url }}">{{ d.title }}</a></li>{% empty %}<li>Stories are on their way.</li>{% endfor %}</ul></div>
+  </div>
+</section>
+{% endblock %}

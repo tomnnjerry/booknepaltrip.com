@@ -5,8 +5,6 @@ Usage: python tools/fetch_images.py [region ...] [--force]
 Incremental: keys already in images.json are kept unless --force.
 Sources, in order: the entity's English Wikipedia article images (curated by
 editors, so they show the right place), then a Commons search on `image_query`.
-North East places also reuse the hand-checked photos from the Shillong Trip
-project when the slugs match.
 """
 import json
 import re
@@ -21,8 +19,8 @@ import commons  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 OUT = CONTENT / "images.json"
-SISTER = Path(r"C:\Projects\15\shillongtrip.com\content\images.json")
-REGIONS = ["nepal", "rajasthan", "ladakh", "north-east", "kerala", "goa", "up-bihar"]
+REGIONS = ["kathmandu-valley", "pokhara-annapurna", "everest-khumbu", "chitwan-terai", "lumbini",
+           "mustang-dolpo", "langtang-manaslu", "eastern-nepal", "far-west"]
 BAD_TITLE = re.compile(r"(ISS\d|satellite|NASA|Landsat|Sentinel|portrait|stamp|banknote|coin|\bmap\b|locator|svg|protest|riot|clash|election|rally|"
                        r"minister|president|police|army|military|curfew|flood|earthquake|damage|destroyed|collapse|"
                        r"accident|relief|topograph|physical|elevation|burning|smoke|strike|bandh|meeting|delegation|signing|logo|poster)", re.I)
@@ -30,11 +28,7 @@ BAD_TITLE = re.compile(r"(ISS\d|satellite|NASA|Landsat|Sentinel|portrait|stamp|b
 
 # Hand-picked sources for keys where the automatic pick was wrong or weak.
 # ("wiki", title) uses that article's images; ("query", text) a Commons search.
-OVERRIDES = {
-    "place:assagao-and-anjuna": ("query", "Anjuna beach Goa"),
-    "place:pangong-tso": ("query", "Pangong Tso lake Ladakh"),
-    "place:bodh-gaya": ("query", "Mahabodhi Temple South Wall"),
-}
+OVERRIDES = {}
 
 
 def read(p):
@@ -47,28 +41,6 @@ def thumb_from_original(url, width=1280):
         return url
     base, a, ab, name = m.groups()
     return f"{base}/thumb/{a}/{ab}/{name}/{width}px-{name}"
-
-
-def sister_images():
-    if not SISTER.exists():
-        return {}
-    data = json.loads(SISTER.read_text(encoding="utf-8"))
-    out = {}
-    for slug, recs in data.items():
-        conv = []
-        for r in recs:
-            if not r.get("url"):
-                continue
-            conv.append({
-                "file": r.get("file"), "url": r["url"],
-                "thumb": thumb_from_original(r["url"]) if (r.get("width") or 0) > 1280 else r["url"],
-                "width": r.get("width"), "height": r.get("height"),
-                "landscape": (r.get("width") or 1) >= (r.get("height") or 1),
-                "description": r.get("alt", ""), "author": r.get("author", ""),
-                "license": r.get("license", ""), "license_url": r.get("license_url", ""), "source": r.get("source", ""),
-            })
-        out[slug] = conv
-    return out
 
 
 def clean(recs):
@@ -128,9 +100,8 @@ def main():
     # re-apply the current filter to photos saved by earlier runs
     images = {k: [r for r in v if not BAD_TITLE.search(r["file"]) and not commons.SKIP_WORDS.search(r["file"])]
               for k, v in images.items() if not k.startswith("region:")}
-    sister = sister_images()
     if "journal" in regions or len(regions) == len(REGIONS):
-        posts = sorted((CONTENT / "journal").glob("*.json")) if (CONTENT / "journal").exists() else []
+        posts = sorted((CONTENT / "stories").glob("*.json")) if (CONTENT / "stories").exists() else []
         regions = [r for r in regions if r != "journal"] + ["journal"]
     for slug in regions:
         if slug == "journal":
@@ -148,9 +119,6 @@ def main():
             except Exception as e:  # noqa: BLE001
                 print("  fail", key, e)
                 recs = []
-            if key.startswith("place:") and slug == "north-east":
-                extra = sister.get(key.split(":", 1)[1], [])
-                recs = clean(extra + recs)[:n]
             return key, recs
 
         with ThreadPoolExecutor(max_workers=3) as pool:

@@ -17,7 +17,7 @@
       </form>
     </div>
     <div class="prints" aria-hidden="false">
-      {% for r in hero_regions %}{% with i=r.images|first %}<figure class="photo photo--print" data-land="{{ r.slug }}">{% if forloop.first %}<span class="tape"></span>{% endif %}<div class="photo__frame">{% if i %}<img src="{{ i|src:500 }}" srcset="{{ i|srcset }}" sizes="(max-width: 1020px) 60vw, 26vw" alt="{{ r.name }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>{% else %}<div class="noimg">{% icon r.icon %}</div>{% endif %}</div><figcaption class="photo__credit">{{ r.name }}{% if i %} · <a href="{{ i.page }}" rel="noopener">{{ i|short_credit }}</a>{% endif %}</figcaption></figure>{% endwith %}{% endfor %}
+      {% for r in hero_regions %}{% with i=r.images|first %}<figure class="photo photo--print" data-land="{{ r.slug }}">{% if forloop.first %}<span class="tape"></span>{% endif %}<div class="photo__frame">{% if i %}<img src="{{ i|src:500 }}" srcset="{{ i|srcset }}" sizes="(max-width: 1020px) 60vw, 26vw" alt="{{ r.name }}" {% if forloop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>{% else %}<div class="noimg">{% icon r.icon %}</div>{% endif %}</div><figcaption class="photo__credit">{{ r.name }}{% if i %} · <a href="{{ i.source }}" rel="noopener">{{ i|short_credit }}</a>{% endif %}</figcaption></figure>{% endwith %}{% endfor %}
     </div>
   </div>
   <div class="wrap">

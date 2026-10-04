@@ -1,0 +1,208 @@
+[
+  {
+    "slug": "pokhara-to-jomsom",
+    "from": "pokhara",
+    "to": "jomsom",
+    "distance_km": 160,
+    "summary": "Jomsom is a 20-minute early-morning flight from Pokhara, or about 160 km and 7–9 hours by jeep up the Kali Gandaki via Beni, Tatopani and Ghasa. The flight is quick but often delayed by wind and cloud; the road is long, rough and prone to monsoon landslides.",
+    "options": [
+      {
+        "mode": "Flight",
+        "time": "≈ 20 min",
+        "text": "Small twin-engine aircraft fly from Pokhara to Jomsom's airport, at about 2,720 m, in the early morning only. By late morning the wind that blows up the Kali Gandaki makes landings unsafe, so a delayed flight can mean a full day's wait. The planes fly up the gorge between Dhaulagiri and the Annapurnas rather than over them. Baggage limits are tight, usually around 10–15 kg; check current status before you travel."
+      },
+      {
+        "mode": "Private jeep",
+        "time": "7–9 h",
+        "text": "The road leaves Pokhara west through Kusma to Beni, where the paved section ends, then follows the Kali Gandaki north through Tatopani, Ghasa, Lete and Kalopani before the valley opens at Tukuche and Marpha. The Beni–Ghasa stretch is narrow and dusty, with drops above the river, and is prone to landslides in July and August. We use private jeeps with drivers who know the road; check current status before you travel."
+      },
+      {
+        "mode": "Local bus",
+        "time": "9–12 h, often with a change in Beni",
+        "text": "Local buses and shared jeeps run from Pokhara's bus park to Beni and on to Jomsom, usually with a change of vehicle at Beni or Ghasa. They are cheap and used daily by Thakali and Mustang families, but slow, crowded and uncomfortable on the rough sections. Fine for budget travellers with time; we do not recommend them for anyone with a tight schedule or a bad back."
+      }
+    ],
+    "stops_on_way": [
+      "Kusma",
+      "Beni",
+      "Tatopani (hot springs)",
+      "Ghasa",
+      "Kalopani",
+      "Tukuche",
+      "Marpha"
+    ],
+    "tip": "Book the first flight of the day, and if it is cancelled, decide by mid-morning whether to wait or switch to a jeep.",
+    "faqs": [
+      {
+        "q": "Why do Jomsom flights only leave in the morning?",
+        "a": "As the dry Mustang landscape heats up during the day, it pulls strong southerly winds up the Kali Gandaki gorge. By late morning those winds make landing at Jomsom unsafe for small aircraft, so all scheduled flights operate early. Cloud in the gorge or over Pokhara also stops flights. Keep at least one spare day at each end of a Mustang trip."
+      },
+      {
+        "q": "Is the road from Pokhara to Jomsom safe?",
+        "a": "It is a working mountain road used daily by buses, jeeps and trucks. The paved road reaches Beni; from there to Ghasa it is narrow and rough, with drops above the river, though sections are being improved. In the dry months, October to May, it is reasonable with an experienced driver. In July and August landslides often block it. Check current status before you travel."
+      },
+      {
+        "q": "Can I fly one way and drive the other?",
+        "a": "Yes, and we often plan it that way. Many guests fly up to Jomsom to save a long day and drive back down the Kali Gandaki, stopping in Marpha, Tukuche or Tatopani on the way. Driving down also gives a backup if return flights are cancelled. It costs a little more than flying both ways, but gives you the gorge at ground level."
+      },
+      {
+        "q": "How much luggage can I take on the Jomsom flight?",
+        "a": "Airlines on the Pokhara–Jomsom route usually allow about 10–15 kg per person in total, and charge for excess weight when there is space on the plane. Leave extra bags at your hotel in Pokhara. Pack warm layers in your hand luggage, since Jomsom is far colder and windier than Pokhara. Limits differ by airline; check current status before you travel."
+      }
+    ]
+  },
+  {
+    "slug": "jomsom-to-muktinath",
+    "from": "jomsom",
+    "to": "muktinath",
+    "distance_km": 22,
+    "summary": "Muktinath is about 22 km from Jomsom, 1–1.5 hours by jeep or bus to Ranipauwa village below the temple. On foot it is a two-day walk via Kagbeni, or a longer day through the Bon village of Lubra. The climb is about 1,000 m, so altitude matters.",
+    "options": [
+      {
+        "mode": "Jeep or bus",
+        "time": "1–1.5 h",
+        "text": "Jeeps and buses leave Jomsom from the bus stand north of the airport, follow the Kali Gandaki riverbed to Eklebhatti, then climb past Khingar and Jharkot to Ranipauwa at about 3,700 m. From there it is a 10–15 minute walk up steps to the temple; horses can be hired. Go in the morning, before the wind, and return the same day or stay a night in Ranipauwa."
+      },
+      {
+        "mode": "On foot via Kagbeni",
+        "time": "2 days",
+        "text": "Walk 2.5–3 hours north along the riverbed from Jomsom to Kagbeni and stay a night in its old lanes. The next morning climb 4–5 hours via Khingar and Jharkot to Muktinath, with Dhaulagiri behind you and the Jhong valley's fields and ruined forts on the slope opposite. This is the best way to acclimatise, and it brings you to the temple on foot, as pilgrims once came."
+      },
+      {
+        "mode": "On foot via Lubra",
+        "time": "6–8 h",
+        "text": "A quieter trail turns east from the Kali Gandaki up the Panda Khola to Lubra, Mustang's Bon village, about two hours from Jomsom. From Lubra a higher path climbs over the ridge and drops to Muktinath in another 5–7 hours. It is a long, steep day with no lodges between villages, so we plan it with a guide and an early start."
+      }
+    ],
+    "stops_on_way": [
+      "Eklebhatti",
+      "Kagbeni (side trip)",
+      "Lubra (walking route)",
+      "Khingar",
+      "Jharkot",
+      "Ranipauwa"
+    ],
+    "tip": "If you have flown in from Pokhara the same morning, spend a night in Jomsom or Kagbeni before sleeping at Muktinath.",
+    "faqs": [
+      {
+        "q": "How long does it take from Jomsom to Muktinath?",
+        "a": "About 1–1.5 hours by jeep or bus for the 22 km to Ranipauwa, then 10–15 minutes on foot up to the temple. On foot, allow two days with a night in Kagbeni, or one long day of 6–8 hours via Lubra. Most pilgrims drive up in the morning, visit the temple and return to Jomsom by afternoon."
+      },
+      {
+        "q": "Can I visit Muktinath as a day trip from Jomsom?",
+        "a": "Yes. Leave Jomsom early, spend two or three hours at the temple, the 108 spouts and the flame shrine, and return before the afternoon wind. The catch is altitude: Muktinath is about 3,710 m, roughly 1,000 m above Jomsom. If you feel a headache or breathlessness, rest and come down. People with heart or lung conditions should ask a doctor first."
+      },
+      {
+        "q": "Do I need a permit to go from Jomsom to Muktinath?",
+        "a": "Muktinath is in Lower Mustang, inside the Annapurna Conservation Area, so you need the ACAP permit, as we understand it NPR 3,000 for most foreigners and NPR 1,000 for SAARC nationals, plus a TIMS card. No restricted-area permit is needed. Since April 2023 foreign trekkers in conservation areas must walk with a licensed guide. Check current status before you travel."
+      },
+      {
+        "q": "Can I hire a horse or motorbike to Muktinath?",
+        "a": "Horses with handlers wait at Ranipauwa for the short climb from the village to the temple, which helps older pilgrims. Motorbikes can be hired in Jomsom, but the road is rough and the wind strong, so we recommend them only for experienced riders. For most travellers a jeep up and a walk down to Kagbeni is the better plan."
+      }
+    ]
+  },
+  {
+    "slug": "jomsom-to-lo-manthang",
+    "from": "jomsom",
+    "to": "lo-manthang",
+    "distance_km": 80,
+    "summary": "Lo Manthang is about 80 km north of Jomsom: 6–7 hours by jeep on a rough road, or a 4–5 day trek from Kagbeni through Chele, Ghami and Tsarang. Everything north of Kagbeni is the Upper Mustang restricted area, with its own permit and a licensed guide.",
+    "options": [
+      {
+        "mode": "On foot from Kagbeni",
+        "time": "4–5 days",
+        "text": "The classic trek leaves Kagbeni through the restricted-area checkpoint and follows the Kali Gandaki to Chhusang and Chele, then climbs over a series of passes of around 3,800–4,000 m to Samar or Syangboche, Ghami and Tsarang. Each day passes red cliffs, caves, chortens and walled barley fields. Many treks return by a different route on the east bank via Dhi and Tangge, or by jeep."
+      },
+      {
+        "mode": "Private jeep",
+        "time": "6–7 h",
+        "text": "A jeep road now runs from Jomsom through Kagbeni, Chele, Syangboche, Ghami and Tsarang to Lo Manthang. It is rough and dusty, with river crossings that can be impassable after rain or snowmelt. We stop at Ghami and Tsarang on the way and plan two nights in Lo Manthang. Driving saves days, but you still pay the full 10-day permit and need a guide; check current status before you travel."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "≈ 30–40 min from Jomsom",
+        "text": "Charter helicopters can land at Lo Manthang for those with very limited time, from Jomsom or Pokhara. It is expensive, and arriving at about 3,840 m without acclimatisation carries a real risk of altitude sickness. We suggest it mainly for the return, after you have walked or driven up and spent time at altitude."
+      }
+    ],
+    "stops_on_way": [
+      "Kagbeni (restricted-area checkpoint)",
+      "Chhusang",
+      "Chele",
+      "Syangboche",
+      "Ghami",
+      "Dhakmar and Ghar Gompa (trekking route)",
+      "Tsarang"
+    ],
+    "tip": "Count your permit days carefully: the USD 500 fee covers 10 days north of Kagbeni, and each extra day adds USD 50.",
+    "faqs": [
+      {
+        "q": "How long does it take to reach Lo Manthang from Jomsom?",
+        "a": "By jeep, about 6–7 hours on a rough road, longer if river crossings are high. On foot, the trek from Kagbeni takes 4–5 days, sleeping in Chele or Samar, Ghami or Syangboche, and Tsarang. Many visitors walk in and drive out. Pokhara to Lo Manthang by road is possible in one very long day, but we do not recommend it because of the altitude gain."
+      },
+      {
+        "q": "What permits do I need to go to Lo Manthang?",
+        "a": "You need the Upper Mustang restricted-area permit, as we understand it USD 500 per person for the first 10 days and USD 50 for each extra day, plus the Annapurna Conservation Area permit. It is issued only through a registered agency, for at least two foreigners with a licensed guide, and checked at Kagbeni and Lo Manthang. Check current status before you travel."
+      },
+      {
+        "q": "Is it better to trek or drive to Lo Manthang?",
+        "a": "Trekking gives better acclimatisation and time in Chele, Ghami, Tsarang and the cave sites, and suits anyone who can walk 5–7 hours a day at 3,000–4,000 m. Driving suits those short of time or less mobile, but the road is dusty and the altitude gain is fast. Walking one way and driving the other is a good balance."
+      },
+      {
+        "q": "Can I visit Lo Manthang in winter?",
+        "a": "It is possible but hard. From December to February Lo Manthang is bitterly cold, many families move south for the winter, and lodges and gompas may be closed. The road can be blocked by snow. Our recommended months are April to June and September to October, with May for the Tiji festival. Check current status before you travel in the shoulder months."
+      }
+    ]
+  },
+  {
+    "slug": "kathmandu-to-shey-phoksundo",
+    "from": "kathmandu",
+    "to": "shey-phoksundo",
+    "distance_km": 550,
+    "summary": "Phoksundo Lake in Dolpo is reached by flying from Kathmandu to Nepalgunj, then on to Juphal, and walking three days up the Suligad valley to Ringmo. The journey covers roughly 550 km by air and trail and usually takes four to five days from Kathmandu.",
+    "options": [
+      {
+        "mode": "Flights and trek",
+        "time": "2 days of flights + 3 days on foot",
+        "text": "Fly from Kathmandu to Nepalgunj in about an hour and spend the night there. Next morning take an early flight of about 45 minutes to Juphal, at about 2,499 m. From Juphal walk down to Dunai, the district headquarters, then up the Suligad valley via Chhepka and Amchi Hospital to Ringmo and the lake at about 3,612 m, gaining about 1,100 m over three days."
+      },
+      {
+        "mode": "Road and trek",
+        "time": "2–3 days drive + 2–3 days on foot",
+        "text": "Jeep roads now reach Dunai from the south, so it is possible to drive from Nepalgunj in two to three days and walk from there. The road is long, rough and often blocked, especially in the monsoon, and there are few places to stay. We use it only as a backup when Juphal flights are suspended for days. Check current status before you travel."
+      },
+      {
+        "mode": "Helicopter",
+        "time": "Varies by charter",
+        "text": "Charter helicopters can fly from Nepalgunj or Juphal towards Phoksundo in clear weather. It is expensive and brings you to about 3,600 m with no acclimatisation, so we suggest it only for the return or for medical evacuation. Make sure your travel insurance covers helicopter rescue above 3,000 m before any Dolpo trip."
+      }
+    ],
+    "stops_on_way": [
+      "Nepalgunj",
+      "Juphal (Dolpa Airport)",
+      "Dunai",
+      "Chhepka",
+      "Amchi Hospital",
+      "Ringmo"
+    ],
+    "tip": "Keep at least two spare days in your plan, because Nepalgunj–Juphal flights are often delayed by weather at either end.",
+    "faqs": [
+      {
+        "q": "How many days does it take to reach Phoksundo Lake from Kathmandu?",
+        "a": "Usually four to five days: a flight to Nepalgunj and a night there, an early flight to Juphal, then three days on foot via Dunai and Chhepka to Ringmo at the lake. Delayed flights are common, so plan spare days. The return takes about as long, which is why even the shortest Phoksundo trek needs 10–12 nights."
+      },
+      {
+        "q": "What permits do I need for Phoksundo Lake?",
+        "a": "As we understand it, you need the Shey Phoksundo National Park entry permit, about NPR 3,000 for foreigners, and the Lower Dolpo restricted-area permit, about USD 20 per week, arranged by a registered agency for at least two trekkers with a licensed guide. Going on to Shey Gompa needs the costlier Upper Dolpo permit. Check current status before you travel."
+      },
+      {
+        "q": "Is the trek to Phoksundo Lake difficult?",
+        "a": "It is a moderate trek with long days rather than technical sections. You walk 5–7 hours a day, gaining about 1,100 m from Juphal to the lake, with a steep climb past the 167 m waterfall below Ringmo. Lodges and teahouses are simple and fewer than in Annapurna or Everest, and beyond the lake most routes need camping."
+      },
+      {
+        "q": "When is the best time to visit Phoksundo Lake?",
+        "a": "May to June and September to October are the best months, with open trails, clear skies and green pastures. Dolpo lies partly in the rain shadow, so July and August are also walkable, but Juphal flights are less reliable. From November to March snow, cold and closed lodges make the trek hard. Check current status before you travel."
+      }
+    ]
+  }
+]

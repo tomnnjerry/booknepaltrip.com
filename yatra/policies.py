@@ -11,7 +11,7 @@ POLICIES = OrderedDict()
 POLICIES["refund-and-cancellation"] = {
     "title": "Refund and cancellation policy",
     "nav": "Refunds and cancellations",
-    "summary": "If you cancel, what you get back depends on how many days before departure you tell us in writing and on what the hotels, trains and airlines we booked will refund to us. We pass on every refund we receive, minus the charges set out below, within [14] working days of receiving it.",
+    "summary": "If you cancel, what you get back depends on how many days before departure you tell us in writing and on what the hotels, lodges and airlines we booked will refund to us. We pass on every refund we receive, minus the charges set out below, within [14] working days of receiving it.",
     "sections": [
         ("How to cancel", [
             "Write to us at the email address on your booking confirmation. Your cancellation takes effect on the day we receive it. A message on WhatsApp is welcome, but please follow it with an email so we have a written record.",
@@ -27,7 +27,7 @@ POLICIES["refund-and-cancellation"] = {
             ]},
         ]),
         ("Supplier terms that may be stricter", [
-            "Some services carry their own non-refundable terms, which we tell you about in your quote before you book. Common examples are peak-season palace hotel stays (Christmas, New Year, Diwali), luxury train cabins, national park safari permits, domestic flights on non-refundable fares and festival-period camps. Where a supplier refunds nothing, we cannot refund that part.",
+            "Some services carry their own non-refundable terms, which we tell you about in your quote before you book. Common examples are domestic flights on non-refundable fares (including Lukla and Jomsom), restricted-area trekking permits once issued, peak-season lodges during Dashain, Tihar, Christmas and New Year, helicopter charters and festival-period camps such as Tiji in Lo Manthang. Where a supplier refunds nothing, we cannot refund that part.",
         ]),
         ("If we have to change or cancel", [
             "If we cancel your journey for any reason other than events outside our control, we refund everything you have paid us in full.",
@@ -37,7 +37,7 @@ POLICIES["refund-and-cancellation"] = {
             "Floods, landslides, road and pass closures, park closures, strikes, government restrictions and similar events can change a route. We will reroute you as close to the original plan as we can and pass on any refund or credit suppliers give us. We recommend travel insurance that covers cancellation for these reasons.",
         ]),
         ("Refunds", [
-            "Refunds go back to the account you paid from, in Indian rupees, within [14] working days of us receiving the money back from suppliers. Bank and card charges and currency differences are not refundable. [Confirm whether payment gateway fees are refunded.]",
+            "Refunds go back to the account you paid from, in the currency you paid in, within [14] working days of us receiving the money back from suppliers. Bank and card charges and currency differences are not refundable. [Confirm whether payment gateway fees are refunded.]",
         ]),
         ("Changes instead of cancellation", [
             "Moving your dates is often cheaper than cancelling. Changes requested more than [45] days before departure carry no fee from us; suppliers may charge for theirs. We confirm every change in writing.",
@@ -51,19 +51,19 @@ POLICIES["booking-terms"] = {
     "summary": "Prices on this site are indicative. Your written quote is the offer; a booking is confirmed when we receive your deposit and send written confirmation. Travel insurance with medical evacuation cover is a condition of booking.",
     "sections": [
         ("Who we are", [
-            "Book Nepal Trip is a trading name of [LEGAL NAME], registered at [REGISTERED ADDRESS], [COMPANY REGISTRATION NO.], GSTIN [GSTIN], [MINISTRY OF TOURISM APPROVAL NO. IF HELD].",
+            "Book Nepal Trip is a trading name of [LEGAL NAME], registered at [REGISTERED ADDRESS], Office of the Company Registrar no. [COMPANY REGISTRATION NO.], PAN/VAT [PAN OR VAT NO.], Department of Tourism / Nepal Tourism Board licence no. [TOURISM LICENCE NO.].",
         ]),
         ("Prices and quotes", [
-            "Prices on the website are indicative 'from' prices in Indian rupees, per person, twin sharing, at the hotels named. They are not offers. Your written quote lists the services, hotels, room categories, dates and total price, including applicable GST. A quote is valid for [7] days unless it says otherwise, and remains subject to availability until booked.",
+            "Prices on the website are indicative 'from' prices in US dollars, per person, twin sharing, with a licensed guide and the stays named. They are not offers. Your written quote lists the services, stays, room categories, permits, flights, dates and total price, including applicable Nepal taxes. A quote is valid for [7] days unless it says otherwise, and remains subject to availability until booked.",
         ]),
         ("Booking and payment", [
             "To book, accept the quote in writing and pay the deposit of [25]% of the total price. We then confirm every service in writing. The balance is due [45] days before departure; bookings made within [45] days are paid in full. See the payments policy for methods.",
         ]),
         ("Your responsibilities", [
-            "You must hold a valid passport and visa where required, the permits we tell you about for restricted areas, and travel insurance that covers medical evacuation and, for Ladakh and high Nepal, altitudes up to the highest point on your route. Please tell us about health conditions, mobility needs and diets when you book.",
+            "You must hold a valid passport and visa where required, the permits we tell you about for restricted areas, and travel insurance that covers medical evacuation and, for treks and high routes, helicopter evacuation up to the highest point on your route (6,000 m for most trekking peaks). Please tell us about health conditions, mobility needs and diets when you book.",
         ]),
         ("Our responsibilities", [
-            "We plan and book your journey with care and use suppliers we have worked with. Hotels, airlines, railways, parks and other suppliers provide their services under their own terms. Where something goes wrong on the ground, tell your planner straight away so we can help while you are still there.",
+            "We plan and book your journey with care and use suppliers we have worked with. Hotels, lodges, airlines, national parks and other suppliers provide their services under their own terms. Where something goes wrong on the ground, tell your planner straight away so we can help while you are still there.",
         ]),
         ("Changes, cancellations and refunds", [
             "See our refund and cancellation policy, which forms part of these terms.",
@@ -72,7 +72,7 @@ POLICIES["booking-terms"] = {
             "If something is not right, tell your planner during the journey. If it is not resolved, write to [COMPLAINTS EMAIL] within [30] days of your return and we will reply within [14] days.",
         ]),
         ("Law", [
-            "These terms are governed by the laws of India. Courts in [CITY] have jurisdiction.",
+            "These terms are governed by the laws of Nepal. Courts in [Kathmandu] have jurisdiction.",
         ]),
     ],
 }
@@ -80,21 +80,21 @@ POLICIES["booking-terms"] = {
 POLICIES["payments"] = {
     "title": "Payments policy",
     "nav": "Payments",
-    "summary": "We take a [25]% deposit to confirm a booking and the balance [45] days before departure. You can pay by [UPI, bank transfer (NEFT/RTGS/IMPS, SWIFT for overseas) or card]. We never ask for card details by email, WhatsApp or phone.",
+    "summary": "We take a [25]% deposit to confirm a booking and the balance [45] days before departure. You can pay by [international bank transfer (SWIFT) or card]. We never ask for card details by email, WhatsApp or phone.",
     "sections": [
         ("When you pay", [
             {"list": [
                 "Deposit: [25]% of the total price, to confirm your booking.",
                 "Balance: due [45] days before departure.",
                 "Late bookings (within [45] days of departure): full payment at booking.",
-                "Some suppliers (luxury trains, festival-period camps, peak palace stays) need early payment; your quote will say so.",
+                "Some suppliers (restricted-area permits, helicopter charters, festival-period lodges) need early payment; your quote will say so.",
             ]},
         ]),
         ("How you can pay", [
-            "[Confirm accepted methods.] Indian residents: UPI, NEFT/RTGS/IMPS bank transfer, credit and debit cards through [PAYMENT GATEWAY]. Overseas clients: SWIFT transfer in INR or [USD/EUR/GBP], or international cards through [PAYMENT GATEWAY]. Card payments may carry a gateway fee of [X]%, shown before you pay.",
+            "[Confirm accepted methods.] International clients: SWIFT bank transfer in [USD/EUR/GBP] to our account in Nepal, or international cards through [PAYMENT GATEWAY]. Clients in Nepal: bank transfer in NPR [or a Nepali wallet such as eSewa or Khalti]. Indian clients may pay in INR [if accepted]. Card payments may carry a gateway fee of [X]%, shown before you pay. Any balance settled in Nepal is paid in cash or by card at the rate on the day.",
         ]),
         ("Taxes", [
-            "Prices in quotes include GST at the applicable rate, shown separately on your invoice. Tax Collected at Source (TCS) may apply to some packages under Indian tax law; we show it on the invoice where it does. [Confirm with your accountant.]",
+            "Prices in quotes include Nepal VAT and tourism service charges where they apply, shown on your invoice. Permit fees and park fees are government charges passed on at cost. [Confirm with your accountant.]",
         ]),
         ("Keeping payments safe", [
             "Our bank details are only ever sent on a signed PDF invoice from [ACCOUNTS EMAIL]. If you receive bank details from any other address, or a message asking you to pay a different account, call us on [PHONE] before paying. We never ask for card numbers, OTPs or passwords.",
@@ -114,13 +114,13 @@ POLICIES["privacy"] = {
             "To reply to your enquiry, plan and book your journey, look after you while you travel, keep accounting records and, if you subscribed, send our monthly letter. We do not use your data for advertising profiles.",
         ]),
         ("Who we share it with", [
-            "Only the suppliers who provide a service you booked (hotels, airlines, railways, parks and permit offices, drivers and guides) and our accountants and payment providers. Some are outside India; we share only what each one needs.",
+            "Only the suppliers who provide a service you booked (hotels, lodges, airlines, national parks and permit offices, the Department of Immigration for restricted-area permits, drivers and guides) and our accountants and payment providers. Some are outside Nepal; we share only what each one needs.",
         ]),
         ("How long we keep it", [
-            "Enquiries that do not lead to a booking: [24] months. Booking records: as long as Indian tax and accounting law requires, currently [8] years. Newsletter: until you unsubscribe.",
+            "Enquiries that do not lead to a booking: [24] months. Booking records: as long as Nepal tax and accounting law requires, currently [X] years. Newsletter: until you unsubscribe.",
         ]),
         ("Your rights", [
-            "You can ask to see, correct or delete your personal data, or withdraw consent for our letter, by writing to [PRIVACY EMAIL]. We reply within [30] days. Under India's Digital Personal Data Protection Act you may also contact our grievance officer: [NAME, EMAIL].",
+            "You can ask to see, correct or delete your personal data, or withdraw consent for our letter, by writing to [PRIVACY EMAIL]. We reply within [30] days. Nepal's Individual Privacy Act, 2075 (2018) also protects your personal data; you may contact the person responsible for data at [NAME, EMAIL]. If you live in the EU or UK, you may also complain to your local data protection authority.",
         ]),
         ("This website", [
             "The site sets a security cookie for its forms and no advertising cookies. It loads fonts from Google Fonts, scripts from cdnjs and unpkg, and photographs from Wikimedia, and those services see your IP address when your browser requests their files. Our maps are drawn on our own server, with no map service. See the cookie policy for details.",
@@ -154,13 +154,13 @@ POLICIES["disclaimer"] = {
             "Our guides, journeys and place pages describe conditions as we understand them when written. They are for planning, not a guarantee. Distances and drive times are typical, not exact. Prices are indicative.",
         ]),
         ("Health and altitude", [
-            "Our notes on altitude, heat and health are general advice, not medical advice. Please see a doctor before travelling, especially to Ladakh, high Nepal, Tawang or North Sikkim.",
+            "Our notes on altitude, heat and health are general advice, not medical advice. Please see a doctor before travelling, especially before treks above 3,000 m.",
         ]),
         ("Photographs", [
             "Photographs come from Wikimedia Commons under free licences and are credited to their authors. They show places as they were when photographed. See our photo credits page.",
         ]),
         ("Maps", [
-            "Our maps are drawn from Natural Earth outlines (public domain), with international borders as depicted by India. They show where places are, and are not for navigation.",
+            "Our maps are drawn from Natural Earth outlines (public domain), with international borders as depicted by Nepal. They show where places are, and are not for navigation.",
         ]),
         ("Links", [
             "Links to hotels and other sites are for convenience. We are not responsible for their content.",
@@ -183,7 +183,7 @@ POLICIES["accessibility"] = {
             ]},
         ]),
         ("Travelling with access needs", [
-            "Many heritage sites have steps and uneven ground. Tell us about mobility, sight, hearing or other needs and we will check hotels, vehicles and sites for you before you book.",
+            "Many heritage sites in Nepal have steps and uneven ground, and mountain lodges rarely have lifts or step-free rooms. Tell us about mobility, sight, hearing or other needs and we will check hotels, vehicles and sites for you before you book.",
         ]),
         ("Contact", [
             "Write to [ACCESSIBILITY EMAIL] or call [PHONE].",

@@ -1,0 +1,16 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}{{ pol.title }} · Book Nepal Trip{% endblock %}
+{% block description %}{{ pol.summary|truncatechars:155 }}{% endblock %}
+{% block content %}
+<header class="phead phead--paper"><div class="wrap phead__simple"><p class="eyebrow">Policies</p><h1 class="h-xl">{{ pol.title }}</h1><p class="small muted">Last updated: {{ updated }}</p></div></header>
+<section class="sec--tight"><div class="wrap split">
+  <article>
+    <div class="panel panel--leaf" style="margin-bottom:30px"><p class="eyebrow">In short</p><p style="margin:0">{{ pol.summary }}</p></div>
+    {% for s in sections %}<section id="s{{ forloop.counter }}" style="scroll-margin-top:100px;margin-bottom:28px"><h2 class="h-m">{{ s.heading }}</h2><div class="prose read">{% for b in s.blocks %}{% if b.list %}<ul>{% for x in b.list %}<li>{{ x }}</li>{% endfor %}</ul>{% else %}<p>{{ b.p }}</p>{% endif %}{% endfor %}</div></section>{% endfor %}
+  </article>
+  <aside class="split__aside">
+    <nav class="panel" aria-label="Contents"><p class="eyebrow">In this policy</p><div class="toc-side">{% for s in sections %}<a href="#s{{ forloop.counter }}">{{ s.heading }}</a>{% endfor %}</div></nav>
+    <nav class="panel" aria-label="Other policies"><p class="eyebrow">Other policies</p><div class="toc-side">{% for k, n in others %}<a href="{% url 'policy' k %}">{{ n }}</a>{% endfor %}</div></nav>
+  </aside>
+</div></section>
+{% endblock %}

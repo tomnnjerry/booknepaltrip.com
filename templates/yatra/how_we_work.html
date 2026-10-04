@@ -1,0 +1,24 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}How we work · Book Nepal Trip{% endblock %}
+{% block description %}How a Book Nepal Trip plan comes together: one working day to a first plan, the sleeping height of every night, licensed guides, itemised quotes and a deposit only when you book.{% endblock %}
+{% block content %}
+<header class="phead phead--paper">{% contours "how" 9 %}<div class="wrap phead__simple"><p class="eyebrow">How we work</p><h1 class="h-xl">From a first note to the trailhead</h1><p class="lede">Four steps, no payment to start, and every number written down before you commit.</p></div></header>
+<section class="sec--tight"><div class="wrap wrap--narrow">
+  <div class="notes">
+    <div class="note"><div><h2 class="h-s">You tell us roughly what you want</h2><p>Dates or a month, who is travelling, how high you are happy to sleep and anything you must not miss. The <a href="{% url 'plan' %}">plan form</a> takes about two minutes; a WhatsApp message or email works too.</p></div></div>
+    <div class="note"><div><h2 class="h-s">A planner sends a first plan within one working day</h2><p>Day by day, with the place and sleeping height of every night, the transport for each leg, the stays we suggest and an itemised price in US dollars per person.</p></div></div>
+    <div class="note"><div><h2 class="h-s">We change it until it fits</h2><p>Add a rest day, swap a flight for a road, move the trip to catch a festival. Each version comes with a new price, so you always see what a change costs.</p></div></div>
+    <div class="note"><div><h2 class="h-s">You book with a deposit</h2><p>Only when you are ready. We confirm flights, permits, guides and stays in writing, then send a final briefing before you land. Payment terms are set out in our <a href="{% url 'policy' 'payments' %}">payments policy</a>.</p></div></div>
+  </div>
+</div></section>
+<section class="sec sec--paper2"><div class="wrap">
+  <div class="sec__head"><div><p class="eyebrow">What is in a quote</p><h2 class="h-l">Every line, written down</h2></div></div>
+  <div class="grid grid--3">
+    <div class="panel"><h3 class="h-s">Guides and porters</h3><p>Government-licensed guides, and porters where the route needs them, with their wages, food, lodging and insurance on separate lines.</p></div>
+    <div class="panel"><h3 class="h-s">Permits and fees</h3><p>National park, conservation area, municipality and restricted-area permits at the rate in force when we quote. Rules change; check current status before you travel.</p></div>
+    <div class="panel"><h3 class="h-s">Stays and transport</h3><p>The hotels, lodges and teahouses we name, private vehicles, domestic flights and the weather buffer days for mountain flights.</p></div>
+  </div>
+  <div style="margin-top:26px">{% include "yatra/partials/trust.html" %}</div>
+</div></section>
+<section class="sec"><div class="wrap wrap--narrow"><h2 class="h-l">Questions about working with us</h2>{% include "yatra/partials/faq.html" with faqs=faqs %}<p style="margin-top:18px"><a class="link-arrow" href="{% url 'faq' %}">Every question we are asked {% icon "arrow" %}</a></p></div></section>
+{% endblock %}

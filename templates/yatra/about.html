@@ -1,0 +1,37 @@
+{% extends "yatra/base.html" %}{% load yatra %}
+{% block title %}About Book Nepal Trip · Private trips, treks and tours in Nepal{% endblock %}
+{% block description %}Book Nepal Trip plans private trips, treks and tours in Nepal only, across nine regions, with licensed guides, named stays and itemised quotes.{% endblock %}
+{% block content %}
+<header class="phead phead--paper">{% contours "about" 9 %}<div class="wrap phead__simple"><p class="eyebrow">About us · हाम्रो बारेमा</p><h1 class="h-xl">Nepal only, told by height</h1><p class="lede">We plan private trips, treks and tours in one country. Every plan shows where you sleep, how high, and what each line of the price pays for.</p></div></header>
+<section class="sec--tight"><div class="wrap split">
+  <article class="prose read">
+    <h2 class="h-m">Why one country</h2>
+    <p class="drop">Nepal rises from 59 m in the Terai to 8,849 m at the top of Everest in less than 200 km. A trip here is shaped first by height: how fast you climb, where you rest, which month the pass is open. We plan Nepal and nothing else, so we can give that question the time it needs.</p>
+    <p>The site is built region by region. For each of the {{ counts.regions }} regions and {{ counts.places }} places we write the story of the place, the legend that goes with it, the people who live there, the words you will hear and the dish to try. Facts that change, such as permits, fees, flight routes and festival dates, carry a note to check current status before you travel.</p>
+    <h2 class="h-m">How a plan comes together</h2>
+    <p>You tell us roughly what you want. A planner replies within one working day with a day-by-day plan, the sleeping height of every night and an itemised price in US dollars. You change anything you like. We ask for a deposit only when you decide to book.</p>
+    <p>The {{ counts.journeys }} trips on this site are starting points that we know work on the ground. Most travellers end up with something in between: a trek with an extra rest day, a safari added after the mountains, a festival date moved to the middle of the trip.</p>
+    <h2 class="h-m">What we will not do</h2>
+    <ul>
+      <li>Invent reviews, awards or numbers to sell a trip.</li>
+      <li>Push a faster ascent than the altitude allows.</li>
+      <li>Hide permit fees, flight costs or porter wages inside a single total.</li>
+      <li>Take commission from shops we take you to.</li>
+    </ul>
+    <h2 class="h-m">Where to find us</h2>
+    <p>{{ SITE.address }}<br><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a>{% if tel %}<br><a href="tel:{{ tel }}">{{ SITE.phone }}</a>{% endif %}</p>
+  </article>
+  <aside class="split__aside">
+    <div class="panel"><p class="eyebrow">On this site</p><ul class="facts">
+      <li><span>Regions</span><span>{{ counts.regions }}</span></li>
+      <li><span>Places</span><span>{{ counts.places }}</span></li>
+      <li><span>Experiences</span><span>{{ counts.experiences }}</span></li>
+      <li><span>Trips</span><span>{{ counts.journeys }}</span></li>
+      <li><span>Guides</span><span>{{ counts.guides }}</span></li>
+      <li><span>Festivals</span><span>{{ counts.festivals }}</span></li>
+    </ul></div>
+    {% include "yatra/partials/trust.html" %}
+    <div class="panel"><p class="eyebrow">Read next</p><div class="toc-side"><a href="{% url 'how_we_work' %}">How we work</a><a href="{% url 'policies' %}">Policies</a><a href="{% url 'faq' %}">Questions travellers ask</a></div></div>
+  </aside>
+</div></section>
+{% endblock %}
