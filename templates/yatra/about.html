@@ -1,37 +1,120 @@
 {% extends "yatra/base.html" %}{% load yatra %}
-{% block title %}About Book Nepal Trip · Private trips, treks and tours in Nepal{% endblock %}
-{% block description %}Book Nepal Trip plans private trips, treks and tours in Nepal only, across nine regions, with licensed guides, named stays and itemised quotes.{% endblock %}
+{% block title %}About Book Nepal Trip · Nepal planned slowly, by height{% endblock %}
+{% block description %}We plan private trips, treks and tours in Nepal only. Every plan shows where you sleep, how high, and what each rupee and dollar pays for, so the days have room for the moments you will remember.{% endblock %}
+{% block body_attrs %} data-land="everest-khumbu"{% endblock %}
 {% block content %}
-<header class="phead phead--paper">{% contours "about" 9 %}<div class="wrap phead__simple"><p class="eyebrow">About us · हाम्रो बारेमा</p><h1 class="h-xl">Nepal only, told by height</h1><p class="lede">We plan private trips, treks and tours in one country. Every plan shows where you sleep, how high, and what each line of the price pays for.</p></div></header>
-<section class="sec--tight"><div class="wrap split">
-  <article class="prose read">
-    <h2 class="h-m">Why one country</h2>
-    <p class="drop">Nepal rises from 59 m in the Terai to 8,849 m at the top of Everest in less than 200 km. A trip here is shaped first by height: how fast you climb, where you rest, which month the pass is open. We plan Nepal and nothing else, so we can give that question the time it needs.</p>
-    <p>The site is built region by region. For each of the {{ counts.regions }} regions and {{ counts.places }} places we write the story of the place, the legend that goes with it, the people who live there, the words you will hear and the dish to try. Facts that change, such as permits, fees, flight routes and festival dates, carry a note to check current status before you travel.</p>
-    <h2 class="h-m">How a plan comes together</h2>
-    <p>You tell us roughly what you want. A planner replies within one working day with a day-by-day plan, the sleeping height of every night and an itemised price in US dollars. You change anything you like. We ask for a deposit only when you decide to book.</p>
-    <p>The {{ counts.journeys }} trips on this site are starting points that we know work on the ground. Most travellers end up with something in between: a trek with an extra rest day, a safari added after the mountains, a festival date moved to the middle of the trip.</p>
-    <h2 class="h-m">What we will not do</h2>
-    <ul>
-      <li>Invent reviews, awards or numbers to sell a trip.</li>
-      <li>Push a faster ascent than the altitude allows.</li>
-      <li>Hide permit fees, flight costs or porter wages inside a single total.</li>
-      <li>Take commission from shops we take you to.</li>
-    </ul>
-    <h2 class="h-m">Where to find us</h2>
-    <p>{{ SITE.address }}<br><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a>{% if tel %}<br><a href="tel:{{ tel }}">{{ SITE.phone }}</a>{% endif %}</p>
-  </article>
-  <aside class="split__aside">
-    <div class="panel"><p class="eyebrow">On this site</p><ul class="facts">
-      <li><span>Regions</span><span>{{ counts.regions }}</span></li>
-      <li><span>Places</span><span>{{ counts.places }}</span></li>
-      <li><span>Experiences</span><span>{{ counts.experiences }}</span></li>
-      <li><span>Trips</span><span>{{ counts.journeys }}</span></li>
-      <li><span>Guides</span><span>{{ counts.guides }}</span></li>
-      <li><span>Festivals</span><span>{{ counts.festivals }}</span></li>
-    </ul></div>
-    {% include "yatra/partials/trust.html" %}
-    <div class="panel"><p class="eyebrow">Read next</p><div class="toc-side"><a href="{% url 'how_we_work' %}">How we work</a><a href="{% url 'policies' %}">Policies</a><a href="{% url 'faq' %}">Questions travellers ask</a></div></div>
-  </aside>
-</div></section>
+
+<header class="phead phead--dark on-dark ab-hero">
+  {% contours "about-hero" 14 %}
+  <span class="phead__ghost deva" aria-hidden="true">नमस्ते</span>
+  <div class="wrap">
+    <div class="phead__grid">
+      <div>
+        <p class="eyebrow">About us · हाम्रो बारेमा</p>
+        <h1 class="h-hero">Nepal does not happen to you all at once</h1>
+        <p class="lede">It happens one glass of tea at a time. A bell on a mule at 3,400 m. A stranger's kitchen with the door left open. A grandmother who hands you the first bowl before she serves her own family. We plan trips so those moments have room to happen.</p>
+        <div class="btn-row"><a class="btn btn--foil btn--lg" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="about-plan">Plan my trip</a><a class="btn btn--line-light" href="#how">How we think</a></div>
+      </div>
+      <div>{% photo hero.images|first "Everest region, Nepal" "photo--tall" "(max-width: 1020px) 100vw, 45vw" True %}</div>
+    </div>
+  </div>
+</header>
+<div class="dhaka dhaka--land"></div>
+
+<section class="sec ab-letter">
+  <div class="wrap wrap--narrow">
+    <p class="eyebrow">A note from the desk</p>
+    <div class="ab-note">
+      <p>Most people arrive in Nepal with a list. Everest. Pokhara. A tiger, if the luck holds. The list is fine. But ask anyone who has come home from here what they talk about at dinner, and it is rarely the list.</p>
+      <p>It is the porter who sang in the rain. The monk who laughed at their photograph. The dal bhat that tasted like the best meal of their life, because they had walked six hours for it. The moment the cloud lifted and nobody on the trail said a word.</p>
+      <p>We build trips around that. Not around more sights, but around the hours in between them: the rest day where the village comes to you, the early start that gets you to the temple before the tour buses, the festival we move your dates to catch.</p>
+      <p class="ab-sign">{{ SITE.byline }}</p>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--paper2" id="how">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">How we think</p><h2 class="h-l">We count in metres, not in sights</h2></div><p class="lede">Nepal climbs from 59 m in the Terai to 8,849 m at the summit of Everest. Your body, your mood and your photographs all follow that line.</p></div>
+    <div class="ab-height">
+      <div class="ab-height__bar" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+      <ol class="ab-belts">
+        <li data-land="chitwan-terai"><span class="mono">0 – 300 m · Terai</span><b>Warm mornings, sal forest, rhino country</b><span>Sleep deep, walk easy, look for the tiger's paw prints at dawn.</span></li>
+        <li data-land="kathmandu-valley"><span class="mono">1,000 – 2,500 m · Pahad</span><b>Terraces, old towns, tea on the veranda</b><span>The middle hills, where most of Nepal lives and where most of our trips begin.</span></li>
+        <li data-land="langtang-manaslu"><span class="mono">2,500 – 4,000 m · Lekh</span><b>Pine, pasture, the last fields</b><span>The air thins. The days get shorter and the evenings get warmer, around a stove.</span></li>
+        <li data-land="everest-khumbu"><span class="mono">4,000 m and above · Himal</span><b>Ice, moraine, prayer flags in the wind</b><span>Where we never hurry you. A rest day here is not a day lost, it is the reason you get to the top.</span></li>
+      </ol>
+    </div>
+    <p class="ab-after">So every plan we send shows where you sleep, how high, and what the air will be like. You can see the whole journey as a line before you ever pay for it. <a class="link-arrow" href="{% url 'altitude' %}">Nepal by height {% icon "arrow" %}</a></p>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">What we believe</p><h2 class="h-l">Four promises we keep to every traveller</h2></div></div>
+    <div class="ab-values">
+      <article class="ab-value"><span class="badge">{% icon "clock" %}</span><h3>Slow is a kindness</h3><p>Rest days, short stages and a sleeping height that rises gently are not extras. They are how a tired body becomes a happy one, and how you end the trip wanting more.</p></article>
+      <article class="ab-value"><span class="badge">{% icon "check" %}</span><h3>Numbers are respect</h3><p>Permits, flights, stays and porter wages sit on separate lines in a written quote. You see what each part costs and who it pays. No payment to start, and no surprises later.</p></article>
+      <article class="ab-value"><span class="badge">{% icon "people" %}</span><h3>The people are the story</h3><p>Newar, Sherpa, Tharu, Thakali, Gurung, Tamang, Rai, Limbu. We write down their words and their festivals, and we choose licensed guides who belong to the places they take you.</p></article>
+      <article class="ab-value"><span class="badge">{% icon "calendar" %}</span><h3>A place keeps its own pace</h3><p>We plan around festivals, not over them. If a road closes for a chariot or a village is fasting for a week, we tell you early and build the trip with it, not against it.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--dark ab-moments" data-land="pokhara-annapurna">
+  {% contours "about-moments" 12 %}
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">What a good day looks like</p><h2 class="h-l">Three hours we plan a trip around</h2></div></div>
+    <div class="ab-scenes">
+      <article class="ab-scene"><span class="ab-scene__t mono">5:40 am</span><h3>The lake before the town wakes</h3><p>A rowing boat slides out on Phewa while the water is still flat. The Annapurna range turns pink, then gold. Someone presses a glass of milk tea into your hands before you ask.</p></article>
+      <article class="ab-scene"><span class="ab-scene__t mono">1:00 pm</span><h3>A teahouse kitchen above the river</h3><p>The saying on every trail is that dal bhat gives you power for twenty-four hours. It comes with refills of the dal, and a cook who watches your plate until it is empty, and smiles when it is.</p></article>
+      <article class="ab-scene"><span class="ab-scene__t mono">7:30 pm</span><h3>A courtyard lit by oil lamps</h3><p>In an old Newar town the day ends in a courtyard that has hosted evenings like this for centuries. Somebody brings out juju dhau, the king curd of Bhaktapur, and the conversation lasts longer than the lamps.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">In our own words</p><h2 class="h-l">Four words that will change your trip</h2></div><p class="lede">Learn these before you land. You will hear them in the first hour, and people will light up when you use them.</p></div>
+    <div class="words ab-words">{% for w in about_words %}<div class="word" style="--wc: {% cycle 'var(--lung-red)' 'var(--lung-blue)' 'var(--lung-yellow)' 'var(--lung-green)' %}"><span class="word__lang">{{ w.lang }}</span><div class="word__script">{{ w.script|default:w.word }}</div><div class="word__roman">{{ w.word }}</div><p>{{ w.meaning }}</p><a class="word__where" href="{{ w.url }}">Heard in {{ w.where }}</a></div>{% endfor %}</div>
+    <p class="small" style="margin-top:14px"><a class="link-arrow" href="{% url 'words' %}">Every word on this site {% icon "arrow" %}</a></p>
+  </div>
+</section>
+
+<section class="sec sec--paper2">
+  <div class="wrap">
+    <div class="sec__head"><div><p class="eyebrow">Where we work</p><h2 class="h-l">Nine regions, one country, no shortcuts</h2></div><p class="lede">We plan Nepal and nothing else. {{ counts.places }} places, {{ counts.journeys }} trips and {{ counts.guides }} guides so far, each written with the story, the legend and the people of the place.</p></div>
+    <div class="rtiles ab-regions">{% for r in regions %}<a class="rtile" href="{{ r.url }}" data-land="{{ r.slug }}"><span class="pennant pennant--sm">{% icon r.icon %}</span><span><b>{{ r.name }}</b><small>{{ r.tagline }}</small></span><span class="deva" aria-hidden="true">{{ r.name_ne }}</span></a>{% endfor %}</div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="ab-wont">
+      <div>
+        <p class="eyebrow">What we will not do</p>
+        <h2 class="h-l">A short list, written down</h2>
+        <ul class="ab-wont__list">
+          <li>Invent reviews, awards or numbers to sell you a trip.</li>
+          <li>Push a faster climb than the altitude allows.</li>
+          <li>Hide permit fees, flights or porter wages inside one big total.</li>
+          <li>Take commission from the shops we stop at.</li>
+        </ul>
+      </div>
+      <div>{% include "yatra/partials/trust.html" %}<p class="small muted" style="margin-top:14px">{{ SITE.address }} · <a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a>{% if tel %} · <a href="tel:{{ tel }}">{{ SITE.phone }}</a>{% endif %}</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="ab-close" data-land="kathmandu-valley">
+  {% contours "about-close" 10 %}
+  <div class="wrap wrap--narrow center">
+    <p class="ab-close__sk deva">अतिथि देवो भव</p>
+    <p class="mono">Atithi devo bhava · the guest is a god</p>
+    <h2 class="h-l">Come as a guest. Leave as somebody's friend</h2>
+    <p class="lede" style="margin-inline:auto">Tell us what you hope to feel, not just what you hope to see. A planner will write back within one working day.</p>
+    <div class="btn-row" style="justify-content:center"><a class="btn btn--foil btn--lg" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="about-close-plan">Start planning</a><a class="btn btn--line-light" href="{% url 'how_we_work' %}">How we work</a></div>
+  </div>
+</section>
 {% endblock %}
+{% block cta %}{% endblock %}
