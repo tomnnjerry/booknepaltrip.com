@@ -71,6 +71,7 @@
   /* ------------------------------------------------------------- smooth scroll */
   var lenis = null;
   safe("lenis", function () {
+    return; // native scrolling: JS smoothing added lag and fought the browser; kept off on purpose
     if (!window.Lenis || reduced()) return;
     lenis = new window.Lenis({ lerp: 0.12, smoothWheel: true });
     // Scrollable overlays keep their native scrolling.
