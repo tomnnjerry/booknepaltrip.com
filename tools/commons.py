@@ -11,6 +11,7 @@ import time
 import urllib.parse
 import urllib.request
 
+MIN_W, MIN_H = 1000, 600  # fill_missing_images.py lowers these for hard-to-photograph places
 UA = "BookNepalTripBuild/1.0 (https://booknepaltrip.com; content build script)"
 WIKI_API = "https://en.wikipedia.org/w/api.php"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
@@ -45,7 +46,7 @@ def _record(page, width):
     lic = _strip(meta.get("LicenseShortName", {}).get("value", ""))
     if not OK_LICENSES.search(lic):
         return None
-    if info.get("width", 0) < 1000 or info.get("height", 0) < 600:
+    if info.get("width", 0) < MIN_W or info.get("height", 0) < MIN_H:
         return None
     if info.get("mime") not in ("image/jpeg", "image/webp"):  # PNGs on Wikipedia are mostly maps and banners
         return None

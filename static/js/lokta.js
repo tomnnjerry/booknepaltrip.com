@@ -40,6 +40,15 @@
     };
   }
   var mqReduce = window.matchMedia ? window.matchMedia("(prefers-reduced-motion: reduce)") : null;
+  // Ambient animations (flags, shine) pause while scrolling so the browser spends the frame on scrolling.
+  (function () {
+    var t = 0, root = document.documentElement;
+    window.addEventListener("scroll", function () {
+      if (!root.classList.contains("is-scrolling")) root.classList.add("is-scrolling");
+      window.clearTimeout(t);
+      t = window.setTimeout(function () { root.classList.remove("is-scrolling"); }, 160);
+    }, { passive: true });
+  })();
   function reduced() { return !!(mqReduce && mqReduce.matches); }
   function canHover() { return !!(window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches); }
   var gsap = window.gsap || null;

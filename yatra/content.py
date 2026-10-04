@@ -245,6 +245,16 @@ class Catalogue:
             self.guides[d["slug"]] = d
             r["guides"].append(d)
 
+    @staticmethod
+    def _lead_unique(imgs, used):
+        """Put the first photo not yet used as a lead elsewhere in front, so neighbouring cards differ.
+        Falls back to the original order when every photo is already taken."""
+        for i, im in enumerate(imgs):
+            if im["file"] not in used:
+                used.add(im["file"])
+                return imgs[i:] + imgs[:i]
+        return imgs
+
     def _imgs(self, *keys):
         for k in keys:
             if self.images.get(k):
@@ -326,6 +336,32 @@ class Catalogue:
             rt["images"] = (rt["to_obj"] or {}).get("images", []) + (rt["from_obj"] or {}).get("images", [])[:1]
         for t in self.themes.values():
             t["url"] = reverse("theme", args=[t["slug"]])
+        self._dedupe_leads()
+
+    def _dedupe_leads(self):
+        """No two places, trips, experiences, stays, festivals, guides or routes lead with the same photo."""
+        used = set()
+        for p in self.places.values():
+            p["images"] = self._lead_unique(p["images"], used)
+        for r in self.regions.values():
+            if not self.images.get(f"region:{r['slug']}"):
+                r["images"] = [i for p in r["top_places"][:6] for i in p["images"][:1]]
+        for store in (self.stays, self.festivals, self.guides, self.routes):
+            used = set()
+            for o in store.values():
+                o["images"] = self._lead_unique(o.get("images") or [], used)
+        used = set()
+        for e in self.experiences.values():
+            own = self.images.get(f"exp:{e['slug']}")
+            pool = list(own) if own else list(e["place_obj"]["images"])
+            if not own:  # inherited from the place: borrow every photo the place has, not just the spare ones
+                pool = pool[1:] + pool[:1]
+            e["images"] = self._lead_unique(pool, used)
+        used = set()
+        for j in self.journeys.values():
+            own = self.images.get(f"journey:{j['slug']}")
+            pool = list(own) if own else [i for st in j["stop_objs"] for i in st["obj"]["images"]]
+            j["images"] = self._lead_unique(pool, used)
 
     @staticmethod
     def _profile(j):

@@ -624,8 +624,8 @@ input:focus, select:focus, textarea:focus { outline: none; border-color: var(--i
 .fab { position: fixed; right: 20px; bottom: 20px; z-index: 46; display: flex; align-items: center; gap: 8px; transform: translateY(140%); transition: transform .5s var(--ease), bottom .3s; }
 .fab.is-on { transform: none; }
 .fab__main { position: relative; overflow: hidden; display: inline-flex; align-items: center; gap: 10px; padding: 14px 22px 14px 16px; border-radius: 999px; background: var(--foil); color: #1A1208; font-weight: 700; text-decoration: none; box-shadow: 0 16px 34px -14px rgba(60, 30, 5, .7); }
-.fab__main::after { content: ""; position: absolute; top: 0; bottom: 0; left: -60%; width: 40%; background: linear-gradient(100deg, transparent, rgba(255, 255, 255, .7), transparent); transform: skewX(-18deg); animation: sweep 6s ease-in-out infinite; }
-@keyframes sweep { 0%, 70% { left: -60%; } 100% { left: 140%; } }
+.fab__main::after { content: ""; position: absolute; top: 0; bottom: 0; left: 0; width: 40%; background: linear-gradient(100deg, transparent, rgba(255, 255, 255, .7), transparent); transform: translateX(-160%) skewX(-18deg); animation: sweep 6s ease-in-out infinite; will-change: transform; }
+@keyframes sweep { 0%, 70% { transform: translateX(-160%) skewX(-18deg); } 100% { transform: translateX(350%) skewX(-18deg); } }
 .fab__flag { width: 16px; height: 20px; background: var(--sindoor); clip-path: polygon(0 0, 100% 44%, 40% 44%, 100% 100%, 0 100%); animation: flap 2.6s ease-in-out infinite; transform-origin: left center; flex: none; }
 .fab__main:hover { color: #1A1208; }
 .fab__toggle { width: 52px; height: 52px; border-radius: 50%; border: 0; background: var(--ink); color: var(--paper); display: grid; place-items: center; box-shadow: 0 14px 30px -14px #000; }
@@ -669,7 +669,6 @@ input:focus, select:focus, textarea:focus { outline: none; border-color: var(--i
 
 /* ---------- footer ---------- */
 .foot { position: relative; background: var(--ink); color: #D9CCB5; isolation: isolate; overflow: hidden; }
-.foot .contours { color: #E8B04B; opacity: .5; }
 .foot a { color: #EFE5D2; text-decoration: none; }
 .foot a:hover { color: #fff; text-decoration: underline; }
 .foot__top { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 40px; align-items: end; padding: clamp(50px, 7vw, 90px) 0 40px; }
@@ -908,10 +907,6 @@ body { background-image: var(--fibre), var(--fibre-long), var(--grad-paper); }
 /* footer: night-sky gradient, glass cards, foil hairlines */
 .foot { background: linear-gradient(160deg, #0E0A17 0%, #25102E 38%, #1A1F52 100%); color: #D6CBE0; }
 .foot::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 3px; z-index: 2; background: linear-gradient(90deg, #B3222A, #E8B04B 38%, #FFEBB5 50%, #E8B04B 62%, #1D3B8B); }
-.foot .contours { color: #E8B04B; opacity: .22; }
-.foot__glow { position: absolute; z-index: -1; border-radius: 50%; pointer-events: none; }
-.foot__glow--a { width: 520px; height: 520px; left: -140px; top: 120px; background: radial-gradient(circle, rgba(179, 34, 42, .55), transparent 70%); }
-.foot__glow--b { width: 620px; height: 620px; right: -180px; bottom: -120px; background: radial-gradient(circle, rgba(60, 90, 200, .5), transparent 70%); }
 .foot a { color: #E9E0F2; position: relative; }
 .foot a:hover { color: #FFE4A8; text-decoration: none; }
 .foot__big { color: #fff; }
@@ -949,7 +944,10 @@ body { background-image: var(--fibre), var(--fibre-long), var(--grad-paper); }
 .foot__base { position: relative; border-top: 0; color: #A79BBA; padding-top: 22px; }
 .foot__base::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 1px; background: linear-gradient(90deg, transparent, rgba(232, 176, 75, .6), transparent); }
 .foot__base a { color: #FFE4A8; }
-/* scroll performance: keep the footer still, and isolate the sticky header on its own layer */
+/* scroll performance: only every third flag waves, and all ambient motion pauses while the page scrolls */
+.lungta__row i:not(:nth-child(3n)) { animation: none; }
+.is-scrolling .lungta__row i, .is-scrolling .fab__flag, .is-scrolling .fab__main::after { animation-play-state: paused; }
+/* keep the footer still, and isolate the sticky header on its own layer */
 .foot .lungta__row i { animation: none; }
 .mast { will-change: transform; transform: translateZ(0); }
 @media (max-width: 1100px) {
