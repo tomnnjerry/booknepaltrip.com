@@ -88,31 +88,41 @@
 
 <footer class="foot">
   {% contours "footer" 12 %}
+  <span class="foot__glow foot__glow--a" aria-hidden="true"></span><span class="foot__glow foot__glow--b" aria-hidden="true"></span>
   <div class="lungta lungta--paper" aria-hidden="true" style="background:transparent"><div class="lungta__row">{% for i in "x"|rjust:"120" %}<i></i>{% endfor %}</div></div>
   <div class="wrap">
     <div class="foot__top">
-      <p class="foot__big">Nepal, told one<br><span>height</span> at a time<span class="deva">नेपाल, उचाइ अनुसार</span></p>
+      <p class="foot__big">Nepal, told one<br><span class="foil-text">height</span> at a time<span class="deva">नेपाल, उचाइ अनुसार</span></p>
       <div class="foot__contact">
-        <a class="fcard" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan"><b>Plan online</b><span>Three short steps, a first plan within one working day</span></a>
-        {% if wa_base %}<a class="fcard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp"><b>WhatsApp a planner</b><span>Quick questions, quick answers</span></a>{% else %}<a class="fcard" href="{% url 'contact' %}#callback" data-cta="footer-callback"><b>Request a call back</b><span>Tell us when suits you</span></a>{% endif %}
-        <a class="fcard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="footer-contact"><b>{% if tel %}Call {{ SITE.phone }}{% else %}Write to us{% endif %}</b><span>{{ SITE.email }}</span></a>
+        <a class="fcard" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan"><span class="fcard__ic">{% icon "pennant" %}</span><b>Plan online</b><span>Three short steps, a first plan within one working day</span></a>
+        {% if wa_base %}<a class="fcard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp"><span class="fcard__ic">{% icon "whatsapp" %}</span><b>WhatsApp a planner</b><span>Quick questions, quick answers</span></a>{% else %}<a class="fcard" href="{% url 'contact' %}#callback" data-cta="footer-callback"><span class="fcard__ic">{% icon "phone" %}</span><b>Request a call back</b><span>Tell us when suits you</span></a>{% endif %}
+        <a class="fcard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="footer-contact"><span class="fcard__ic">{% if tel %}{% icon "phone" %}{% else %}{% icon "mail" %}{% endif %}</span><b>{% if tel %}Call {{ SITE.phone }}{% else %}Write to us{% endif %}</b><span>{{ SITE.email }}</span></a>
       </div>
     </div>
     <form class="letter" method="post" action="{% url 'subscribe' %}" data-cta-form="newsletter">
       {% csrf_token %}
       <div><h2 class="h-m">The Lokta Letter</h2><p>One email a month, on handmade-paper principles: which region is at its best, festival dates in both calendars, one story we have not told before.</p></div>
-      <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--foil" type="submit" data-cta="newsletter" style="--foil: linear-gradient(115deg,#FFEBB5,#E8B04B 42%,#A86E12 78%,#E8B04B)">Subscribe</button></div>
+      <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn btn--foil" type="submit" data-cta="newsletter">Subscribe</button></div>
     </form>
     <div class="foot__cols">
+      <div class="foot__brand">
+        <a class="logo" href="{% url 'home' %}" aria-label="Book Nepal Trip, home"><svg class="logo__flag" viewBox="0 0 64 80" aria-hidden="true"><path d="M4 2v76h54L24 42h34z" fill="#B3222A" stroke="#1D3B8B" stroke-width="5" stroke-linejoin="round"/><path d="M14 22c4 3 9 3 13 0M14 58a7 7 0 0 0 13 0" fill="none" stroke="#FBF6EA" stroke-width="3.5" stroke-linecap="round"/></svg><span><span class="logo__name">Book Nepal Trip</span><span class="logo__sub">Nepal, told by height</span></span></a>
+        <p>Private trips, treks and tours in Nepal only: {{ counts.regions }} regions, {{ counts.places }} places, licensed local guides and itemised written quotes.</p>
+        <ul class="foot__reach">
+          <li>{% icon "mail" %}<a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a></li>
+          {% if tel %}<li>{% icon "phone" %}<a href="tel:{{ tel }}">{{ SITE.phone }}</a></li>{% endif %}
+          {% if wa_base %}<li>{% icon "whatsapp" %}<a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener">WhatsApp</a></li>{% endif %}
+          {% if SITE.address %}<li>{% icon "map" %}<span>{{ SITE.address }}</span></li>{% endif %}
+        </ul>
+      </div>
       <div><h3>Regions</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" class="foot__region" data-land="{{ r.slug }}"><i></i>{{ r.name }}</a></li>{% endfor %}</ul></div>
-      <div><h3>Popular trips</h3><ul>{% for j in nav_popular|slice:":8" %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}</ul></div>
-      <div><h3>Travel styles</h3><ul>{% for t in nav_themes|slice:":8" %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}<li><a href="{% url 'themes' %}">Every style</a></li></ul></div>
+      <div><h3>Popular trips</h3><ul>{% for j in nav_popular|slice:":8" %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}<li><a href="{% url 'themes' %}">Every travel style</a></li></ul></div>
       <div><h3>Stories</h3><ul><li><a href="{% url 'journal' %}">Stories</a></li><li><a href="{% url 'legends' %}">Legends</a></li><li><a href="{% url 'untold' %}">Untold Nepal</a></li><li><a href="{% url 'words' %}">Words you will hear</a></li><li><a href="{% url 'altitude' %}">Nepal by height</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'guides' %}">Guides</a></li></ul></div>
       <div><h3>Plan</h3><ul><li><a href="{% url 'seasons' %}">Seasons and calendar</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li><li><a href="{% url 'tool_altitude' %}">Altitude and air</a></li><li><a href="{% url 'routes' %}">Routes</a></li><li><a href="{% url 'stays' %}">Stays</a></li><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'contact' %}">Contact</a></li><li><a href="{% url 'faq' %}">FAQ</a></li></ul></div>
       <div><h3>Policies</h3><ul>{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}<li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li></ul></div>
     </div>
     <div class="foot__trust">
-      {% if SITE.licence %}<span>{{ SITE.licence }}</span>{% endif %}{% if SITE.memberships %}<span>{{ SITE.memberships }}</span>{% endif %}{% if SITE.payments %}<span>Payments: {{ SITE.payments }}</span>{% endif %}<span>No payment to start · written, itemised quotes</span>
+      {% if SITE.licence %}<span>{% icon "shield" %}{{ SITE.licence }}</span>{% endif %}{% if SITE.memberships %}<span>{% icon "check" %}{{ SITE.memberships }}</span>{% endif %}{% if SITE.payments %}<span>Payments: {{ SITE.payments }}</span>{% endif %}<span>{% icon "check" %}No payment to start</span><span>{% icon "check" %}Written, itemised quotes</span><span>{% icon "altitude" %}Every night's height shown</span>
     </div>
     <div class="foot__base">
       <span>© {% now "Y" %} Book Nepal Trip{% if SITE.address %} · {{ SITE.address }}{% endif %}</span>
