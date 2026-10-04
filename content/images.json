@@ -2944,7 +2944,73 @@
   }
  ],
  "exp:bandipur-ramkot-magar-village": [],
- "place:begnas-lake": [],
+ "place:begnas-lake": [
+  {
+   "file": "File:Begnas Lake Pokhara.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Begnas_Lake_Pokhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Begnas_Lake_Pokhara.jpg/1920px-Begnas_Lake_Pokhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5600,
+   "height": 3733,
+   "landscape": true,
+   "description": "Begnas Lake Pokhara",
+   "author": "Mithunkunwar9",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Begnas_Lake_Pokhara.jpg"
+  },
+  {
+   "file": "File:\"Begnas lake and Maidi lake of Kaski, Nepal.\".jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%22Begnas_lake_and_Maidi_lake_of_Kaski%2C_Nepal.%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%22Begnas_lake_and_Maidi_lake_of_Kaski%2C_Nepal.%22.jpg/1920px-%22Begnas_lake_and_Maidi_lake_of_Kaski%2C_Nepal.%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4032,
+   "height": 3024,
+   "landscape": true,
+   "description": "This is a photo of a natural site in Nepal identified by the ID",
+   "author": "Thoplo.1",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:%22Begnas_lake_and_Maidi_lake_of_Kaski,_Nepal.%22.jpg"
+  },
+  {
+   "file": "File:Begnas Lake, Pokhara, Kaski.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Begnas_Lake%2C_Pokhara%2C_Kaski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Begnas_Lake%2C_Pokhara%2C_Kaski.jpg/1920px-Begnas_Lake%2C_Pokhara%2C_Kaski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "This is a photo of a natural site in Nepal identified by the ID",
+   "author": "Shadow Ayush",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Begnas_Lake,_Pokhara,_Kaski.jpg"
+  },
+  {
+   "file": "File:Begnas pokhara.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Begnas_pokhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Begnas_pokhara.jpg/1920px-Begnas_pokhara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4950,
+   "height": 3300,
+   "landscape": true,
+   "description": "Stunning Begnas Lake in mid day hour.",
+   "author": "Utsab Raj Giri",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Begnas_pokhara.jpg"
+  },
+  {
+   "file": "File:Boat yard at Begnas Lake, Pokhara, Kaski.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Boat_yard_at_Begnas_Lake%2C_Pokhara%2C_Kaski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Boat_yard_at_Begnas_Lake%2C_Pokhara%2C_Kaski.jpg/1920px-Boat_yard_at_Begnas_Lake%2C_Pokhara%2C_Kaski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Begnas Lake is the 2nd largest lake in Pokhara valley after Phewa lake. Boating is one of the major tourist attraction in the lake.",
+   "author": "Shadow Ayush",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Boat_yard_at_Begnas_Lake,_Pokhara,_Kaski.jpg"
+  }
+ ],
  "exp:begnas-lake-dawn-rowing": [
   {
    "file": "File:Begnas Lake Pokhara.jpg",
@@ -4082,7 +4148,73 @@
   }
  ],
  "exp:mardi-himal-siding-village-descent": [],
- "place:panchase": [],
+ "place:panchase": [
+  {
+   "file": "File:Trekking from Pokhara to Panchase (37732975035).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Trekking_from_Pokhara_to_Panchase_%2837732975035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Trekking_from_Pokhara_to_Panchase_%2837732975035%29.jpg/1920px-Trekking_from_Pokhara_to_Panchase_%2837732975035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "Trekking from Pokhara to Panchase.",
+   "author": "Aleksandr Zykov from Russia",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trekking_from_Pokhara_to_Panchase_(37732975035).jpg"
+  },
+  {
+   "file": "File:Gajendramochha Dham Tribeni Nawalparasi Lumbini Nepal Rajesh Dhunjgana (14).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2814%29.jpg/1920px-Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7355,
+   "height": 4498,
+   "landscape": true,
+   "description": "Navalparasi district is situated under Tribeni Dham Municipality in Wada No. 4 , Gajendramoksh Dham and Triveni Tirth Dui Tirth Dham. South East side Panchase Khola, Tasamsa Khola and Narayani Teenavata River Miseyko Dob",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_(14).jpg"
+  },
+  {
+   "file": "File:Gajendramochha Dham Tribeni Nawalparasi Lumbini Nepal Rajesh Dhunjgana (13).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2813%29.jpg/1920px-Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7652,
+   "height": 4773,
+   "landscape": true,
+   "description": "Navalparasi district is situated under Tribeni Dham Municipality in Wada No. 4 , Gajendramoksh Dham and Triveni Tirth Dui Tirth Dham. South East side Panchase Khola, Tasamsa Khola and Narayani Teenavata River Miseyko Dob",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_(13).jpg"
+  },
+  {
+   "file": "File:Gajendramochha Dham Tribeni Nawalparasi Lumbini Nepal Rajesh Dhunjgana (18).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2818%29.jpg/1920px-Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5555,
+   "height": 3429,
+   "landscape": true,
+   "description": "Navalparasi district is situated under Tribeni Dham Municipality in Wada No. 4 , Gajendramoksh Dham and Triveni Tirth Dui Tirth Dham. South East side Panchase Khola, Tasamsa Khola and Narayani Teenavata River Miseyko Dob",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gajendramochha_Dham_Tribeni_Nawalparasi_Lumbini_Nepal_Rajesh_Dhunjgana_(18).jpg"
+  },
+  {
+   "file": "File:Panchase temple beside Panchase Pokhari, Kaski.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Panchase_temple_beside_Panchase_Pokhari%2C_Kaski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/69/Panchase_temple_beside_Panchase_Pokhari%2C_Kaski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1363,
+   "height": 2048,
+   "landscape": false,
+   "description": "Panchase temple beside Panchase Pokhari, Kaski",
+   "author": "Bsdbhattarai",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Panchase_temple_beside_Panchase_Pokhari,_Kaski.jpg"
+  }
+ ],
  "exp:panchase-summit-sunrise": [],
  "exp:panchase-orchid-forest-walk": [],
  "exp:panchase-bhadaure-homestay": [],
@@ -4728,7 +4860,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:Pokhara-03a-Hotel_Barahi-Ausblick-2015-gje.jpg"
   }
  ],
- "stay:the-old-inn-bandipur": [],
+ "stay:the-old-inn-bandipur": [
+  {
+   "file": "File:The Old Inn Bandipur.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Old_Inn_Bandipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Old_Inn_Bandipur.jpg/1920px-The_Old_Inn_Bandipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2592,
+   "height": 1944,
+   "landscape": true,
+   "description": "The Old Inn Bandipur",
+   "author": "Sgroey",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Old_Inn_Bandipur.jpg"
+  },
+  {
+   "file": "File:Plate 27, Moosah Bagh (complete).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Plate_27%2C_Moosah_Bagh_%28complete%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/49/Plate_27%2C_Moosah_Bagh_%28complete%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1024,
+   "height": 706,
+   "landscape": true,
+   "description": "Plate 27, Moosah Bagh This site was originally laid out as a garden by Nawab Asaf-ud-daulah, who transferred the capital of Avadh from Faizabad to Lucknow in 1775. His successor was Saadat Ali Khan (1798-1814) who constr",
+   "author": "Edmund Walker / After David Scott Dodgson",
+   "license": "Public domain",
+   "license_url": "",
+   "source": "https://commons.wikimedia.org/wiki/File:Plate_27,_Moosah_Bagh_(complete).jpg"
+  },
+  {
+   "file": "File:Harting - The Old Inn - 20230805164043.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Harting_-_The_Old_Inn_-_20230805164043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Harting_-_The_Old_Inn_-_20230805164043.jpg/1920px-Harting_-_The_Old_Inn_-_20230805164043.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 3000,
+   "landscape": true,
+   "description": "The former Greyhound Inn, West Harting, West Sussex, England. Probably 17th century, Grade II listed.",
+   "author": "Simon Burchell",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Harting_-_The_Old_Inn_-_20230805164043.jpg"
+  },
+  {
+   "file": "File:Old Inn, Saint Michaels, Maryland.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Old_Inn%2C_Saint_Michaels%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Old_Inn%2C_Saint_Michaels%2C_Maryland.jpg/1920px-Old_Inn%2C_Saint_Michaels%2C_Maryland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4249,
+   "height": 2842,
+   "landscape": true,
+   "description": "Old Inn in Saint Michaels, Maryland, USA",
+   "author": "Acroterion",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Inn,_Saint_Michaels,_Maryland.jpg"
+  },
+  {
+   "file": "File:The Old Inn.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/The_Old_Inn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/The_Old_Inn.jpg/1920px-The_Old_Inn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3819,
+   "height": 2546,
+   "landscape": true,
+   "description": "The Old Inn",
+   "author": "Simon Cobb",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Old_Inn.jpg"
+  }
+ ],
  "fest:tamu-lhosar-pokhara": [
   {
    "file": "File:GURUNG WOMEN AT TAMU LHOSAR FESTIVAL.jpg",
@@ -4770,7 +4968,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:Gurung_Tamu_Lhosar_2018_01.jpg"
   }
  ],
- "fest:pokhara-street-festival": [],
+ "fest:pokhara-street-festival": [
+  {
+   "file": "File:Street Festival of Pokhara Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Street_Festival_of_Pokhara_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Street_Festival_of_Pokhara_Nepal.jpg/1920px-Street_Festival_of_Pokhara_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 2694,
+   "landscape": true,
+   "description": "This media has been taken in the country: Nepal",
+   "author": "Bhupendra Shrestha",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Street_Festival_of_Pokhara_Nepal.jpg"
+  }
+ ],
  "fest:gorkha-dashain-phulpati": [
   {
    "file": "File:Basantapur Tower Kathmandu Durbar Square Nepal.jpg",
@@ -5591,7 +5803,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:Ranjo_la_pass_Everest_National_park.jpg"
   }
  ],
- "place:junbesi": [],
+ "place:junbesi": [
+  {
+   "file": "File:Junbesi. Loggia and a restaurant with good cuisine. - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Junbesi._Loggia_and_a_restaurant_with_good_cuisine._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Junbesi._Loggia_and_a_restaurant_with_good_cuisine._-_panoramio.jpg/1920px-Junbesi._Loggia_and_a_restaurant_with_good_cuisine._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1936,
+   "height": 1291,
+   "landscape": true,
+   "description": "Junbesi. Loggia and a restaurant with good cuisine.",
+   "author": "Sergey Pashko",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Junbesi._Loggia_and_a_restaurant_with_good_cuisine._-_panoramio.jpg"
+  },
+  {
+   "file": "File:Junbesi Monastery.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Junbesi_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Junbesi_Monastery.jpg/1920px-Junbesi_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "",
+   "author": "Sonamray",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Junbesi_Monastery.jpg"
+  },
+  {
+   "file": "File:Buddhist monastery near the Junbesi. - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Buddhist_monastery_near_the_Junbesi._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Buddhist_monastery_near_the_Junbesi._-_panoramio.jpg/1920px-Buddhist_monastery_near_the_Junbesi._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1936,
+   "height": 1296,
+   "landscape": true,
+   "description": "Buddhist monastery near the Junbesi.",
+   "author": "Sergey Pashko",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Buddhist_monastery_near_the_Junbesi._-_panoramio.jpg"
+  },
+  {
+   "file": "File:Monastery Thuptenchholing Gumba is located a few kilometers from Junbesi. - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Monastery_Thuptenchholing_Gumba_is_located_a_few_kilometers_from_Junbesi._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Monastery_Thuptenchholing_Gumba_is_located_a_few_kilometers_from_Junbesi._-_panoramio.jpg/1920px-Monastery_Thuptenchholing_Gumba_is_located_a_few_kilometers_from_Junbesi._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1936,
+   "height": 1296,
+   "landscape": true,
+   "description": "Monastery Thuptenchholing Gumba is located a few kilometers from Junbesi.",
+   "author": "Sergey Pashko",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Monastery_Thuptenchholing_Gumba_is_located_a_few_kilometers_from_Junbesi._-_panoramio.jpg"
+  },
+  {
+   "file": "File:Junbesi valley from Phera.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Junbesi_valley_from_Phera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Junbesi_valley_from_Phera.jpg/1920px-Junbesi_valley_from_Phera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3648,
+   "height": 2736,
+   "landscape": true,
+   "description": "Junbesi valley from Phera",
+   "author": "Goutam1962",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Junbesi_valley_from_Phera.jpg"
+  }
+ ],
  "exp:junbesi-thubten-chholing-morning": [],
  "exp:junbesi-village-gompa-kora": [],
  "exp:junbesi-lamjura-la-rhododendron-walk": [
@@ -6349,7 +6627,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0v%C3%A9dsk%C3%BD_kol%C3%A1%C4%8D_naruby_904_(cropped).JPG"
   }
  ],
- "place:phaplu": [],
+ "place:phaplu": [
+  {
+   "file": "File:Flughafen Phaplu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flughafen_Phaplu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flughafen_Phaplu.jpg/1920px-Flughafen_Phaplu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2448,
+   "height": 2090,
+   "landscape": true,
+   "description": "Flughafen Phaplu",
+   "author": "Rucksackschule-dresden",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Flughafen_Phaplu.jpg"
+  },
+  {
+   "file": "File:Phaplu Airstrip 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Phaplu_Airstrip_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Phaplu_Airstrip_1.jpg/1920px-Phaplu_Airstrip_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3648,
+   "height": 2736,
+   "landscape": true,
+   "description": "Phaplu Airstrip 1",
+   "author": "Goutam1962",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Phaplu_Airstrip_1.jpg"
+  },
+  {
+   "file": "File:De Havilland Canada DHC-6-300 Twin Otter 9N-ABT landet auf dem Flughafen Phaplu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De_Havilland_Canada_DHC-6-300_Twin_Otter_9N-ABT_landet_auf_dem_Flughafen_Phaplu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/De_Havilland_Canada_DHC-6-300_Twin_Otter_9N-ABT_landet_auf_dem_Flughafen_Phaplu.jpg/1920px-De_Havilland_Canada_DHC-6-300_Twin_Otter_9N-ABT_landet_auf_dem_Flughafen_Phaplu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2426,
+   "height": 1814,
+   "landscape": true,
+   "description": "De Havilland Canada DHC-6-300 Twin Otter 9N-ABT landet auf dem Flughafen Phaplu",
+   "author": "Rucksackschule-dresden",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:De_Havilland_Canada_DHC-6-300_Twin_Otter_9N-ABT_landet_auf_dem_Flughafen_Phaplu.jpg"
+  },
+  {
+   "file": "File:Summit Air, Let L-410 9N-AMH Phaplu Airport, Solukhumbu Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Summit_Air%2C_Let_L-410_9N-AMH_Phaplu_Airport%2C_Solukhumbu_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Summit_Air%2C_Let_L-410_9N-AMH_Phaplu_Airport%2C_Solukhumbu_Nepal.jpg/1920px-Summit_Air%2C_Let_L-410_9N-AMH_Phaplu_Airport%2C_Solukhumbu_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2683,
+   "height": 1895,
+   "landscape": true,
+   "description": "16 February 2018",
+   "author": "Leo Spee",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Summit_Air,_Let_L-410_9N-AMH_Phaplu_Airport,_Solukhumbu_Nepal.jpg"
+  },
+  {
+   "file": "File:Check-In am Flughafen Phaplu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Check-In_am_Flughafen_Phaplu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Check-In_am_Flughafen_Phaplu.jpg/1920px-Check-In_am_Flughafen_Phaplu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1966,
+   "height": 2287,
+   "landscape": false,
+   "description": "Check-In am Flughafen Phaplu",
+   "author": "Rucksackschule-dresden",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Check-In_am_Flughafen_Phaplu.jpg"
+  }
+ ],
  "exp:phaplu-chiwong-gompa-visit": [],
  "exp:phaplu-salleri-bazaar-walk": [],
  "exp:phaplu-pikey-peak-trek": [
@@ -6782,7 +7126,47 @@
    "source": "https://commons.wikimedia.org/wiki/File:Pangboche.JPG"
   }
  ],
- "fest:mani-rimdu": [],
+ "fest:mani-rimdu": [
+  {
+   "file": "File:Tengboche Monastery.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tengboche_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Tengboche_Monastery.jpg/1920px-Tengboche_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "",
+   "author": "Steve Hicks",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tengboche_Monastery.jpg"
+  },
+  {
+   "file": "File:Mani Rimdu festival, Tengboche Monastery, Nepal 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mani_Rimdu_festival%2C_Tengboche_Monastery%2C_Nepal_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mani_Rimdu_festival%2C_Tengboche_Monastery%2C_Nepal_01.jpg/1920px-Mani_Rimdu_festival%2C_Tengboche_Monastery%2C_Nepal_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6008,
+   "height": 4008,
+   "landscape": true,
+   "description": "Mani Rimdu is a 19-day Buddhist festival celebrated in Nepal's Everest region, honoring Guru Rinpoche Padmasambhava and the founding of Buddhism. This photograph captures Tengboche Monastery, Nepal.",
+   "author": "Rohit Sharma",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mani_Rimdu_festival,_Tengboche_Monastery,_Nepal_01.jpg"
+  },
+  {
+   "file": "File:Mani Rimdu festival, Tengboche Monastery, Nepal 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mani_Rimdu_festival%2C_Tengboche_Monastery%2C_Nepal_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mani_Rimdu_festival%2C_Tengboche_Monastery%2C_Nepal_02.jpg/1920px-Mani_Rimdu_festival%2C_Tengboche_Monastery%2C_Nepal_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4473,
+   "height": 2764,
+   "landscape": true,
+   "description": "Mani Rimdu is a 19-day Buddhist festival celebrated in Nepal's Everest region, honoring Guru Rinpoche Padmasambhava and the founding of Buddhism. This photograph captures Tengboche Monastery, Nepal.",
+   "author": "Rohit Sharma",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mani_Rimdu_festival,_Tengboche_Monastery,_Nepal_02.jpg"
+  }
+ ],
  "fest:dumji": [],
  "fest:sherpa-losar-khumbu": [
   {
@@ -6799,7 +7183,34 @@
    "source": "https://commons.wikimedia.org/wiki/File:Gyalpo_Lhosar_2146.jpg"
   }
  ],
- "place:amaltari": [],
+ "place:amaltari": [
+  {
+   "file": "File:Amaltari Homestay IMG 3400.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Amaltari_Homestay_IMG_3400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Amaltari_Homestay_IMG_3400.jpg/1920px-Amaltari_Homestay_IMG_3400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4608,
+   "height": 3456,
+   "landscape": true,
+   "description": "This is a photo of a natural site in Nepal identified by the ID",
+   "author": "Bharatadhikarimb",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amaltari_Homestay_IMG_3400.jpg"
+  },
+  {
+   "file": "File:Amaltari Homestay IMG 3401.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Amaltari_Homestay_IMG_3401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Amaltari_Homestay_IMG_3401.jpg/1920px-Amaltari_Homestay_IMG_3401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4608,
+   "height": 3456,
+   "landscape": true,
+   "description": "This is a photo of a natural site in Nepal identified by the ID",
+   "author": "Bharatadhikarimb",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amaltari_Homestay_IMG_3401.jpg"
+  }
+ ],
  "exp:amaltari-narayani-boat-trip": [
   {
    "file": "File:Narayani Nadi ( Narayani River).jpg",
@@ -6951,7 +7362,60 @@
    "source": "https://commons.wikimedia.org/wiki/File:Plateful_of_Momo_in_Nepal.jpg"
   }
  ],
- "place:barauli": [],
+ "place:barauli": [
+  {
+   "file": "File:Barauli Fort.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Barauli_Fort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Barauli_Fort.JPG/1920px-Barauli_Fort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2208,
+   "height": 1244,
+   "landscape": true,
+   "description": "This Picture of Barauli Fort(a Bargujar dynasty)",
+   "author": "Jeetesh",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Barauli_Fort.JPG"
+  },
+  {
+   "file": "File:Md Nematullah MLA from Barauli (Gopalganj), Bihar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Md_Nematullah_MLA_from_Barauli_%28Gopalganj%29%2C_Bihar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Md_Nematullah_MLA_from_Barauli_%28Gopalganj%29%2C_Bihar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1240,
+   "height": 634,
+   "landscape": true,
+   "description": "Md Nematullah on Speaker’s Seat in the 16th Bihar Legislative Assembly",
+   "author": "SandyTheHeartBreaker",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Md_Nematullah_MLA_from_Barauli_(Gopalganj),_Bihar.jpg"
+  },
+  {
+   "file": "File:Rao Madhusudan Singh (Barauli) is opening of a programme.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rao_Madhusudan_Singh_%28Barauli%29_is_opening_of_a_programme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Rao_Madhusudan_Singh_%28Barauli%29_is_opening_of_a_programme.jpg/1920px-Rao_Madhusudan_Singh_%28Barauli%29_is_opening_of_a_programme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2304,
+   "height": 1296,
+   "landscape": true,
+   "description": "Rao Madhusudan Singh of Barauli is opening of a programme at Aligarh",
+   "author": "Jsc2014",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rao_Madhusudan_Singh_(Barauli)_is_opening_of_a_programme.jpg"
+  },
+  {
+   "file": "File:Nawada mosque 841405.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Nawada_mosque_841405.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Nawada_mosque_841405.jpg/1920px-Nawada_mosque_841405.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3120,
+   "height": 4160,
+   "landscape": false,
+   "description": "The very beautiful mosque is located in Nawada Barauli Gopalganj Bihar.",
+   "author": "Aamiralibablu",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nawada_mosque_841405.jpg"
+  }
+ ],
  "exp:barauli-narayani-sunset-walk": [
   {
    "file": "File:1 River Gandhak Gandaki in Kagbeni Nepal before entering India.jpg",
@@ -7578,7 +8042,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:Abandoned_Train_at_Janakpur_station,_Nepal_Railways--IMG_7930.jpg"
   }
  ],
- "place:kasara": [],
+ "place:kasara": [
+  {
+   "file": "File:Good morning Kasara, Chitwan, Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Good_morning_Kasara%2C_Chitwan%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Good_morning_Kasara%2C_Chitwan%2C_Nepal.jpg/1920px-Good_morning_Kasara%2C_Chitwan%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3500,
+   "height": 2335,
+   "landscape": true,
+   "description": "Morning view of Kasara, Chitwan, Nepal.",
+   "author": "Mohan K. Duwal",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Good_morning_Kasara,_Chitwan,_Nepal.jpg"
+  },
+  {
+   "file": "File:Kasara Hunting Palace.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Kasara_Hunting_Palace.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Kasara_Hunting_Palace.JPG/1920px-Kasara_Hunting_Palace.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5184,
+   "height": 3456,
+   "landscape": true,
+   "description": "This is a photo of a monument in Nepal identified by the ID",
+   "author": "Raajiv Kilana Shrestha",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kasara_Hunting_Palace.JPG"
+  },
+  {
+   "file": "File:Kasara Hunting Palace 2.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kasara_Hunting_Palace_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Kasara_Hunting_Palace_2.JPG/1920px-Kasara_Hunting_Palace_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5184,
+   "height": 3456,
+   "landscape": true,
+   "description": "This is a photo of a monument in Nepal identified by the ID",
+   "author": "Raajiv Kilana Shrestha",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kasara_Hunting_Palace_2.JPG"
+  },
+  {
+   "file": "File:Gharial Crocodiles - Conservation Breeding Center - Kasara - Chitwan National Park - Nepal - 01 (13907486606).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Gharial_Crocodiles_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_%2813907486606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Gharial_Crocodiles_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_%2813907486606%29.jpg/1920px-Gharial_Crocodiles_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_%2813907486606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3648,
+   "height": 2736,
+   "landscape": true,
+   "description": "Gharial Crocodiles - Conservation Breeding Center - Kasara - Chitwan National Park - Nepal - 01",
+   "author": "Adam Jones from Kelowna, BC, Canada",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gharial_Crocodiles_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_(13907486606).jpg"
+  },
+  {
+   "file": "File:Gharial Crocodile - Conservation Breeding Center - Kasara - Chitwan National Park - Nepal - 01 (13931099394).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Gharial_Crocodile_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_%2813931099394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Gharial_Crocodile_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_%2813931099394%29.jpg/1920px-Gharial_Crocodile_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_%2813931099394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3648,
+   "height": 2736,
+   "landscape": true,
+   "description": "Gharial Crocodile - Conservation Breeding Center - Kasara - Chitwan National Park - Nepal - 01",
+   "author": "Adam Jones from Kelowna, BC, Canada",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gharial_Crocodile_-_Conservation_Breeding_Center_-_Kasara_-_Chitwan_National_Park_-_Nepal_-_01_(13931099394).jpg"
+  }
+ ],
  "exp:kasara-gharial-breeding-centre-visit": [
   {
    "file": "File:Big Mama National Chambal sanctuary 01.jpg",
@@ -9134,7 +9664,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar_in_Allahabad.jpg"
   }
  ],
- "place:kudan": [],
+ "place:kudan": [
+  {
+   "file": "File:Shiva Linga Kudan Buddha Kapilvastu Taulihawa Lumbini Zone Nepal. Rajesh Dhungana.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Shiva_Linga_Kudan_Buddha_Kapilvastu_Taulihawa_Lumbini_Zone_Nepal._Rajesh_Dhungana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Shiva_Linga_Kudan_Buddha_Kapilvastu_Taulihawa_Lumbini_Zone_Nepal._Rajesh_Dhungana.jpg/1920px-Shiva_Linga_Kudan_Buddha_Kapilvastu_Taulihawa_Lumbini_Zone_Nepal._Rajesh_Dhungana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7355,
+   "height": 4835,
+   "landscape": true,
+   "description": "Shiva Linga located above the main stupa of Kudan, an ancient site of Kapilvastu district. This is the historical place where father King Shuddhodhan and son Siddhartha Gautam met for the first time after attaining enlig",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shiva_Linga_Kudan_Buddha_Kapilvastu_Taulihawa_Lumbini_Zone_Nepal._Rajesh_Dhungana.jpg"
+  },
+  {
+   "file": "File:Shiva Temple Kudan Nigrodhram Kapilbastu Nepal Rajeshj Dhungana (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%282%29.jpg/1920px-Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4288,
+   "height": 2848,
+   "landscape": true,
+   "description": "Kudan, also known as Nigrodharam, is a short distance from Taulihawa Bazaar, the headquarters of the ancient Kapilvastu district. Upon entering here, on the left side, there is a temple of Lord Shiva in the form of a stu",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_(2).jpg"
+  },
+  {
+   "file": "File:Shiva Temple Kudan Nigrodhram Kapilbastu Nepal Rajeshj Dhungana (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%283%29.jpg/1920px-Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3503,
+   "height": 2280,
+   "landscape": true,
+   "description": "Kudan, also known as Nigrodharam, is a short distance from Taulihawa Bazaar, the headquarters of the ancient Kapilvastu district. Upon entering here, on the left side, there is a temple of Lord Shiva in the form of a stu",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_(3).jpg"
+  },
+  {
+   "file": "File:Shiva Temple Kudan Nigrodhram Kapilbastu Nepal Rajeshj Dhungana (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%281%29.jpg/1920px-Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2412,
+   "height": 3424,
+   "landscape": false,
+   "description": "Kudan, also known as Nigrodharam, is a short distance from Taulihawa Bazaar, the headquarters of the ancient Kapilvastu district. Upon entering here, on the left side, there is a temple of Lord Shiva in the form of a stu",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_(1).jpg"
+  },
+  {
+   "file": "File:Shiva Temple Kudan Nigrodhram Kapilbastu Nepal Rajeshj Dhungana (4).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1121,
+   "height": 1616,
+   "landscape": false,
+   "description": "Kudan, also known as Nigrodharam, is a short distance from Taulihawa Bazaar, the headquarters of the ancient Kapilvastu district. Upon entering here, on the left side, there is a temple of Lord Shiva in the form of a stu",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shiva_Temple_Kudan_Nigrodhram_Kapilbastu_Nepal_Rajeshj_Dhungana_(4).jpg"
+  }
+ ],
  "exp:kudan-pilgrim-story-walk": [],
  "exp:kudan-dawn-pond-photography": [],
  "exp:kudan-taulihawa-bazaar-walk": [],
@@ -9765,7 +10361,73 @@
   }
  ],
  "exp:ramagrama-koliya-country-day": [],
- "place:rani-mahal": [],
+ "place:rani-mahal": [
+  {
+   "file": "File:Rani mahal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Rani_mahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Rani_mahal.jpg/1920px-Rani_mahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2592,
+   "height": 1944,
+   "landscape": true,
+   "description": "A palace in Palpa Nepal.",
+   "author": "Krish Dulal",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rani_mahal.jpg"
+  },
+  {
+   "file": "File:Palpa, Kali Gandaki River 2, Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Palpa%2C_Kali_Gandaki_River_2%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Palpa%2C_Kali_Gandaki_River_2%2C_Nepal.jpg/1920px-Palpa%2C_Kali_Gandaki_River_2%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3072,
+   "height": 2048,
+   "landscape": true,
+   "description": "Sacred Kali Gandaki River. Palpa District, Nepal.",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Palpa,_Kali_Gandaki_River_2,_Nepal.jpg"
+  },
+  {
+   "file": "File:Palpa, Ranighat Palace, Rani Mahal, Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Palpa%2C_Ranighat_Palace%2C_Rani_Mahal%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Palpa%2C_Ranighat_Palace%2C_Rani_Mahal%2C_Nepal.jpg/1920px-Palpa%2C_Ranighat_Palace%2C_Rani_Mahal%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3072,
+   "height": 2048,
+   "landscape": true,
+   "description": "This palace was constructed by General Khadga Shamsher Jang Bahadur Rana in 1893. Ranighat Palace, Rani Mahal, Palpa, Nepal.",
+   "author": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Palpa,_Ranighat_Palace,_Rani_Mahal,_Nepal.jpg"
+  },
+  {
+   "file": "File:Queen Palace, Ranimahal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Queen_Palace%2C_Ranimahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Queen_Palace%2C_Ranimahal.jpg/1920px-Queen_Palace%2C_Ranimahal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3695,
+   "height": 2078,
+   "landscape": true,
+   "description": "Ranimahal In 1894, G. Khadga Shamsher, the commander-in-chief of Palpa Gowda, built the Rani Mahal in memory of his late queen Tej Kumari, on the bank of Kali Gandaki River at Palpa.",
+   "author": "ARYAL MANISH",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Queen_Palace,_Ranimahal.jpg"
+  },
+  {
+   "file": "File:RaniMahal, Palpa.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/RaniMahal%2C_Palpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/RaniMahal%2C_Palpa.jpg/1920px-RaniMahal%2C_Palpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5206,
+   "height": 3128,
+   "landscape": true,
+   "description": "Rani Mahal (Ranighat Palace) is a Rana palace, constructed in 1893, and located at the banks of Kali Gandaki River in Palpa district of Nepal.",
+   "author": "DrooNa.Bhusal",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:RaniMahal,_Palpa.jpg"
+  }
+ ],
  "exp:rani-mahal-palace-and-museum": [],
  "exp:rani-mahal-hike-from-batase-danda": [],
  "exp:rani-mahal-rani-ghat-evening": [
@@ -10575,7 +11237,73 @@
   }
  ],
  "stay:lumbini-hokke-hotel": [],
- "stay:hotel-srinagar-tansen": [],
+ "stay:hotel-srinagar-tansen": [
+  {
+   "file": "File:Srinagar to Pahalgam - vrvvkbjk2k23iph (6).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%286%29.jpg/1920px-Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4032,
+   "height": 3024,
+   "landscape": true,
+   "description": "Road view to the entrance gate building of The LaLiT Grand Palace Srinagar (hotel), in Srinagar, Jammu and Kashmir, India; photo from April 2023",
+   "author": "Vinayaraj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_(6).jpg"
+  },
+  {
+   "file": "File:Srinagar to Pahalgam - vrvvkbjk2k23iph (7).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%287%29.jpg/1920px-Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4032,
+   "height": 3024,
+   "landscape": true,
+   "description": "Road view to the entrance gate building of The LaLiT Grand Palace Srinagar (hotel), in Srinagar, Jammu and Kashmir, India; photo from April 2023",
+   "author": "Vinayaraj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_(7).jpg"
+  },
+  {
+   "file": "File:Srinagar to Pahalgam - vrvvkbjk2k23iph (8).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%288%29.jpg/1920px-Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4032,
+   "height": 3024,
+   "landscape": true,
+   "description": "Entrance gate building of The LaLiT Grand Palace Srinagar (hotel), in Srinagar, Jammu and Kashmir, India; photo from April 2023",
+   "author": "Vinayaraj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_(8).jpg"
+  },
+  {
+   "file": "File:Srinagar to Pahalgam - vrvvkbjk2k23iph (9).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%289%29.jpg/1920px-Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4032,
+   "height": 3024,
+   "landscape": true,
+   "description": "Entrance gate building of The LaLiT Grand Palace Srinagar (hotel), in Srinagar, Jammu and Kashmir, India; photo from April 2023",
+   "author": "Vinayaraj",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Srinagar_to_Pahalgam_-_vrvvkbjk2k23iph_(9).jpg"
+  },
+  {
+   "file": "File:Best Hotel In Srinagar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Best_Hotel_In_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Best_Hotel_In_Srinagar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1200,
+   "height": 1600,
+   "landscape": false,
+   "description": "Welcome to the Bellmont Hotel Srinagar, Kashmir your lovely retreat in the city's centre point and conveniently situated near the famous Dal Lake. We are located near the Srinagar airport, allowing you to quickly reach u",
+   "author": "Bellmontsrinagar88",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Best_Hotel_In_Srinagar.jpg"
+  }
+ ],
  "fest:buddha-jayanti-lumbini": [
   {
    "file": "File:KOCIS Korea YeonDeungHoe 20130511 05 (8733836165).jpg",
@@ -10829,7 +11557,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:Bhote_Koshi_Valley,_Harvesting,_Nepal.jpg"
   }
  ],
- "place:chisapani": [],
+ "place:chisapani": [
+  {
+   "file": "File:Kaal Bhairav Temple Chisapani Lamkichuha Municipility Kailali Nepal Rajesh Dhungana (8).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%288%29.jpg/1920px-Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7360,
+   "height": 4450,
+   "landscape": true,
+   "description": "The temple of Kal Bhairav is located in Chisapani of Lamkichuha Municipality of Kailali District. This temple is located near the longest river Karnali in Nepal. This temple is situated on the left bank of the river Karn",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_(8).jpg"
+  },
+  {
+   "file": "File:Kaal Bhairav Temple Chisapani Lamkichuha Municipility Kailali Nepal Rajesh Dhungana (7).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%287%29.jpg/1920px-Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7360,
+   "height": 4912,
+   "landscape": true,
+   "description": "The temple of Kal Bhairav is located in Chisapani of Lamkichuha Municipality of Kailali District. This temple is located near the longest river Karnali in Nepal. This temple is situated on the left bank of the river Karn",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_(7).jpg"
+  },
+  {
+   "file": "File:Kaal Bhairav Temple Chisapani Lamkichuha Municipility Kailali Nepal Rajesh Dhungana (6).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%286%29.jpg/1920px-Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7360,
+   "height": 4450,
+   "landscape": true,
+   "description": "The temple of Kal Bhairav is located in Chisapani of Lamkichuha Municipality of Kailali District. This temple is located near the longest river Karnali in Nepal. This temple is situated on the left bank of the river Karn",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_(6).jpg"
+  },
+  {
+   "file": "File:Kaal Bhairav Temple Chisapani Lamkichuha Municipility Kailali Nepal Rajesh Dhungana (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%282%29.jpg/1920px-Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6436,
+   "height": 4055,
+   "landscape": true,
+   "description": "The temple of Kal Bhairav is located in Chisapani of Lamkichuha Municipality of Kailali District. This temple is located near the longest river Karnali in Nepal. This temple is situated on the left bank of the river Karn",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_(2).jpg"
+  },
+  {
+   "file": "File:Kaal Bhairav Temple Chisapani Lamkichuha Municipility Kailali Nepal Rajesh Dhungana (5).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%285%29.jpg/1920px-Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7360,
+   "height": 4554,
+   "landscape": true,
+   "description": "The temple of Kal Bhairav is located in Chisapani of Lamkichuha Municipality of Kailali District. This temple is located near the longest river Karnali in Nepal. This temple is situated on the left bank of the river Karn",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kaal_Bhairav_Temple_Chisapani_Lamkichuha_Municipility_Kailali_Nepal_Rajesh_Dhungana_(5).jpg"
+  }
+ ],
  "exp:chisapani-sundarijal-hike": [
   {
    "file": "File:A view of Shivapuri national park from Sundarijal.jpg",
@@ -11887,12 +12681,144 @@
   }
  ],
  "exp:syabrubesi-community-recovery-visit": [],
- "place:tsum-valley": [],
+ "place:tsum-valley": [
+  {
+   "file": "File:Tsum Valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tsum_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Tsum_Valley.jpg/1920px-Tsum_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5472,
+   "height": 3648,
+   "landscape": true,
+   "description": "Tsum Valley, Gorkha, Nepal",
+   "author": "Tsephu",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsum_Valley.jpg"
+  },
+  {
+   "file": "File:TsumValleyGorkha.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/TsumValleyGorkha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/TsumValleyGorkha.jpg/1920px-TsumValleyGorkha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2816,
+   "height": 1880,
+   "landscape": true,
+   "description": "This is a photo of a natural site in Nepal identified by the ID",
+   "author": "Sharadgurung7711",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:TsumValleyGorkha.jpg"
+  },
+  {
+   "file": "File:Globallivesproject Mingmar Lama 2013 bod Tsum Valley NP-GA 025 (16343868942).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_025_%2816343868942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_025_%2816343868942%29.jpg/1920px-Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_025_%2816343868942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2738,
+   "height": 1825,
+   "landscape": true,
+   "description": "Mingmar and friends amble slowly up to the higher valleys to pick yartsa-gumbu.",
+   "author": "Global Lives Project",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_025_(16343868942).jpg"
+  },
+  {
+   "file": "File:Chorten of Chule.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chorten_of_Chule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Chorten_of_Chule.jpg/1920px-Chorten_of_Chule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6837,
+   "height": 8776,
+   "landscape": false,
+   "description": "Stupa, also known as Chorten, and mani stones in the Tsum Valley, Nepal.",
+   "author": "Tsephu",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chorten_of_Chule.jpg"
+  },
+  {
+   "file": "File:Globallivesproject Mingmar Lama 2013 bod Tsum Valley NP-GA 020 (16158888527).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_020_%2816158888527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_020_%2816158888527%29.jpg/1920px-Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_020_%2816158888527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2729,
+   "height": 4093,
+   "landscape": false,
+   "description": "To get to the higher valleys, we had a somewhat trecherous river crossing first.",
+   "author": "Global Lives Project",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Globallivesproject_Mingmar_Lama_2013_bod_Tsum_Valley_NP-GA_020_(16158888527).jpg"
+  }
+ ],
  "exp:tsum-mu-gompa-trek": [],
  "exp:tsum-milarepa-cave-pilgrimage": [],
  "exp:tsum-rachen-nunnery-visit": [],
  "exp:tsum-shyagya-village-walk": [],
- "stay:the-famous-farm-nuwakot": [],
+ "stay:the-famous-farm-nuwakot": [
+  {
+   "file": "File:Ekambareshwar Shiva Temple Dumkauli Devchuli Municipility Sashwatdham Nawalpur Nepal Rajesh Dhungana (14).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2814%29.jpg/1920px-Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 8253,
+   "height": 4490,
+   "landscape": true,
+   "description": "Famous Ekumbareshwar Shiva Temple located in Dumkauli of Devchuli Municipality Ward No. 2 of Nawalpur District. This very artistic Ekumbareshwar temple of Khajuraho style is located on the right side of the East-West Hig",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_(14).jpg"
+  },
+  {
+   "file": "File:Ekambareshwar Shiva Temple Dumkauli Devchuli Municipility Sashwatdham Nawalpur Nepal Rajesh Dhungana (28).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2828%29.jpg/1920px-Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2828%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 8256,
+   "height": 5504,
+   "landscape": true,
+   "description": "Famous Ekumbareshwar Shiva Temple located in Dumkauli of Devchuli Municipality Ward No. 2 of Nawalpur District. This very artistic Ekumbareshwar temple of Khajuraho style is located on the right side of the East-West Hig",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_(28).jpg"
+  },
+  {
+   "file": "File:Ekambareshwar Shiva Temple Dumkauli Devchuli Municipility Sashwatdham Nawalpur Nepal Rajesh Dhungana (19).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2819%29.jpg/1920px-Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7843,
+   "height": 5229,
+   "landscape": true,
+   "description": "Famous Ekumbareshwar Shiva Temple located in Dumkauli of Devchuli Municipality Ward No. 2 of Nawalpur District. This very artistic Ekumbareshwar temple of Khajuraho style is located on the right side of the East-West Hig",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_(19).jpg"
+  },
+  {
+   "file": "File:Ekambareshwar Shiva Temple Dumkauli Devchuli Municipility Sashwatdham Nawalpur Nepal Rajesh Dhungana (23).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2823%29.jpg/1920px-Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 7730,
+   "height": 5153,
+   "landscape": true,
+   "description": "Famous Ekumbareshwar Shiva Temple located in Dumkauli of Devchuli Municipality Ward No. 2 of Nawalpur District. This very artistic Ekumbareshwar temple of Khajuraho style is located on the right side of the East-West Hig",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_(23).jpg"
+  },
+  {
+   "file": "File:Ekambareshwar Shiva Temple Dumkauli Devchuli Municipility Sashwatdham Nawalpur Nepal Rajesh Dhungana (25).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2825%29.jpg/1920px-Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6328,
+   "height": 4098,
+   "landscape": true,
+   "description": "Famous Ekumbareshwar Shiva Temple located in Dumkauli of Devchuli Municipality Ward No. 2 of Nawalpur District. This very artistic Ekumbareshwar temple of Khajuraho style is located on the right side of the East-West Hig",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ekambareshwar_Shiva_Temple_Dumkauli_Devchuli_Municipility_Sashwatdham_Nawalpur_Nepal_Rajesh_Dhungana_(25).jpg"
+  }
+ ],
  "fest:janai-purnima-gosaikunda": [],
  "fest:sonam-lhosar-tamang": [
   {
@@ -11968,7 +12894,73 @@
  "exp:bhedetar-sekuwa-evening": [],
  "exp:bhedetar-dharan-temples": [],
  "exp:bhedetar-mulghat-tamor-river": [],
- "place:chainpur": [],
+ "place:chainpur": [
+  {
+   "file": "File:16-09-01 164250 Nepal Bajhang Looking E Over Chainpur Bazaar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/16-09-01_164250_Nepal_Bajhang_Looking_E_Over_Chainpur_Bazaar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/16-09-01_164250_Nepal_Bajhang_Looking_E_Over_Chainpur_Bazaar.jpg/1920px-16-09-01_164250_Nepal_Bajhang_Looking_E_Over_Chainpur_Bazaar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3568,
+   "height": 1383,
+   "landscape": true,
+   "description": "Looking east over Chainpur bazaar and the Seti River, Bajhang District, Nepal; photo taken at end of summer monsoon",
+   "author": "Awasman",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:16-09-01_164250_Nepal_Bajhang_Looking_E_Over_Chainpur_Bazaar.jpg"
+  },
+  {
+   "file": "File:Sidhuli chainpur 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sidhuli_chainpur_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Sidhuli_chainpur_1.jpg/1920px-Sidhuli_chainpur_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1932,
+   "height": 1449,
+   "landscape": true,
+   "description": "Sidhuli chainpur view",
+   "author": "BiNita AdHikari",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sidhuli_chainpur_1.jpg"
+  },
+  {
+   "file": "File:Chainpur and Everest Range, Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Chainpur_and_Everest_Range%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Chainpur_and_Everest_Range%2C_Nepal.jpg/1920px-Chainpur_and_Everest_Range%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 3000,
+   "landscape": true,
+   "description": "Im Vordergrund auf dem Bergrücken: Chainpur Im Hintergrund: Everestmassiv Blickrichtung: Nordwesten",
+   "author": "Sundar1",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chainpur_and_Everest_Range,_Nepal.jpg"
+  },
+  {
+   "file": "File:Chainpur -Sindhuli, Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Chainpur_-Sindhuli%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Chainpur_-Sindhuli%2C_Nepal.jpg/1920px-Chainpur_-Sindhuli%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5312,
+   "height": 2988,
+   "landscape": true,
+   "description": "",
+   "author": "Wikiraxya",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chainpur_-Sindhuli,_Nepal.jpg"
+  },
+  {
+   "file": "File:Chainpur Sindhuli Nepal.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Chainpur_Sindhuli_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Chainpur_Sindhuli_Nepal.jpg/1920px-Chainpur_Sindhuli_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5312,
+   "height": 2988,
+   "landscape": true,
+   "description": "",
+   "author": "Wikiraxya",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chainpur_Sindhuli_Nepal.jpg"
+  }
+ ],
  "exp:chainpur-karuwa-casting-workshop": [
   {
    "file": "File:Lapte Bhoye.jpg",
@@ -12197,7 +13189,73 @@
  "exp:ghunsa-gompa-morning": [],
  "exp:ghunsa-yak-herding-village-walk": [],
  "exp:ghunsa-kanchenjunga-conservation-talk": [],
- "place:hile": [],
+ "place:hile": [
+  {
+   "file": "File:Suspension bridge in Hile Tikhedhunga-3459.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Suspension_bridge_in_Hile_Tikhedhunga-3459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Suspension_bridge_in_Hile_Tikhedhunga-3459.jpg/1920px-Suspension_bridge_in_Hile_Tikhedhunga-3459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Hile Tikhedhunga",
+   "author": "Bijay Chaurasia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Suspension_bridge_in_Hile_Tikhedhunga-3459.jpg"
+  },
+  {
+   "file": "File:Hile Tikhedhunga-3440.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hile_Tikhedhunga-3440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hile_Tikhedhunga-3440.jpg/1920px-Hile_Tikhedhunga-3440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Hile Tikhedhunga",
+   "author": "Bijay Chaurasia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hile_Tikhedhunga-3440.jpg"
+  },
+  {
+   "file": "File:Hile Tikhedhunga-3456.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hile_Tikhedhunga-3456.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hile_Tikhedhunga-3456.jpg/1920px-Hile_Tikhedhunga-3456.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Hile Tikhedhunga",
+   "author": "Bijay Chaurasia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hile_Tikhedhunga-3456.jpg"
+  },
+  {
+   "file": "File:Hile Tikhedhunga-3398.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hile_Tikhedhunga-3398.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hile_Tikhedhunga-3398.jpg/1920px-Hile_Tikhedhunga-3398.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Hile Tikhedhunga",
+   "author": "Bijay Chaurasia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hile_Tikhedhunga-3398.jpg"
+  },
+  {
+   "file": "File:Hile Tikhedhunga-3451.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hile_Tikhedhunga-3451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hile_Tikhedhunga-3451.jpg/1920px-Hile_Tikhedhunga-3451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "Hile Tikhedhunga",
+   "author": "Bijay Chaurasia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hile_Tikhedhunga-3451.jpg"
+  }
+ ],
  "exp:hile-tongba-evening": [
   {
    "file": "File:Nepali Tongba - Nepalese fermented millet beer.JPG",
@@ -12815,7 +13873,21 @@
   }
  ],
  "exp:makalu-tashigaon-last-village": [],
- "place:pang-pema": [],
+ "place:pang-pema": [
+  {
+   "file": "File:Kangchenjunga PangPema.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kangchenjunga_PangPema.JPG/1920px-Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4000,
+   "height": 2248,
+   "landscape": true,
+   "description": "Kangchenjunga as seen from the NNW. Taken from Pang Pema, Nepal",
+   "author": "Tomabarker",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
+  }
+ ],
  "exp:pang-pema-day-trek-from-lhonak": [],
  "exp:pang-pema-moraine-viewpoint": [],
  "exp:pang-pema-blue-sheep-kambachen": [],
@@ -13202,7 +14274,73 @@
   }
  ],
  "exp:sandakpur-jeep-and-homestay": [],
- "place:tumlingtar": [],
+ "place:tumlingtar": [
+  {
+   "file": "File:Manakamana Temple Tumlingtar Sankhuwasabha Nepal Rajesh Dhungana (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%283%29.jpg/1920px-Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4288,
+   "height": 2848,
+   "landscape": true,
+   "description": "The temple of the famous Manakamana Devi on the banks of the Arun River, a tributary of Saptakoshi, near Tumlingtar, Khandbari Municipality of Sankhuwasabha District. In the sanctum sanctorum of the temple, a stone idol ",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_(3).jpg"
+  },
+  {
+   "file": "File:Manakamana Temple Tumlingtar Sankhuwasabha Nepal Rajesh Dhungana (4).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%284%29.jpg/1920px-Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4288,
+   "height": 2848,
+   "landscape": true,
+   "description": "The temple of the famous Manakamana Devi on the banks of the Arun River, a tributary of Saptakoshi, near Tumlingtar, Khandbari Municipality of Sankhuwasabha District. In the sanctum sanctorum of the temple, a stone idol ",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_(4).jpg"
+  },
+  {
+   "file": "File:Manakamana Temple Tumlingtar Sankhuwasabha Nepal Rajesh Dhungana (11).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%2811%29.jpg/1920px-Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4288,
+   "height": 2848,
+   "landscape": true,
+   "description": "The temple of the famous Manakamana Devi on the banks of the Arun River, a tributary of Saptakoshi, near Tumlingtar, Khandbari Municipality of Sankhuwasabha District. In the sanctum sanctorum of the temple, a stone idol ",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_(11).jpg"
+  },
+  {
+   "file": "File:Manakamana Temple Tumlingtar Sankhuwasabha Nepal Rajesh Dhungana (5).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%285%29.jpg/1920px-Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4288,
+   "height": 2848,
+   "landscape": true,
+   "description": "The temple of the famous Manakamana Devi on the banks of the Arun River, a tributary of Saptakoshi, near Tumlingtar, Khandbari Municipality of Sankhuwasabha District. In the sanctum sanctorum of the temple, a stone idol ",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_(5).jpg"
+  },
+  {
+   "file": "File:Manakamana Temple Tumlingtar Sankhuwasabha Nepal Rajesh Dhungana (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%282%29.jpg/1920px-Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4288,
+   "height": 2848,
+   "landscape": true,
+   "description": "The temple of the famous Manakamana Devi on the banks of the Arun River, a tributary of Saptakoshi, near Tumlingtar, Khandbari Municipality of Sankhuwasabha District. In the sanctum sanctorum of the temple, a stone idol ",
+   "author": "Rajesh Dhungana",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Manakamana_Temple_Tumlingtar_Sankhuwasabha_Nepal_Rajesh_Dhungana_(2).jpg"
+  }
+ ],
  "exp:tumlingtar-arun-river-walk": [
   {
    "file": "File:Sati Dhunga (Stone) Tumlingtar Arun River Khadbari Sankhuwasabha Nepal Rajesh Dhungana (1).jpg",
@@ -13357,7 +14495,60 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sakela_Ubhauli_Festival_2019_(48076097346).jpg"
   }
  ],
- "fest:pathibhara-pilgrimage-seasons": [],
+ "fest:pathibhara-pilgrimage-seasons": [
+  {
+   "file": "File:Pathibhara 2014.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Pathibhara_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Pathibhara_2014.JPG/1920px-Pathibhara_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4320,
+   "height": 3240,
+   "landscape": true,
+   "description": "Pathibhara Devi temple in 2014 November.",
+   "author": "Avista7",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pathibhara_2014.JPG"
+  },
+  {
+   "file": "File:Huge bell at Pathibhara Devi temple.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Huge_bell_at_Pathibhara_Devi_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/07/Huge_bell_at_Pathibhara_Devi_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1500,
+   "height": 1125,
+   "landscape": true,
+   "description": "Pathibhara Devi temple, located above 19.4 km east of Phungling municipality, is considered a sacred site for Hindus and Buddhists alike.",
+   "author": "Salman Gurung",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Huge_bell_at_Pathibhara_Devi_temple.jpg"
+  },
+  {
+   "file": "File:Temple Bells of Pathibhara Devi.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Temple_Bells_of_Pathibhara_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/23/Temple_Bells_of_Pathibhara_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1500,
+   "height": 1062,
+   "landscape": true,
+   "description": "Pathibhara Devi temple, located above 19.4 km east of Phungling municipality, is considered a sacred site for Hindus and Buddhists alike.",
+   "author": "Salman Gurung",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Temple_Bells_of_Pathibhara_Devi.jpg"
+  },
+  {
+   "file": "File:DSCN9369 edited.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/DSCN9369_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/DSCN9369_edited.jpg/1920px-DSCN9369_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4320,
+   "height": 3240,
+   "landscape": true,
+   "description": "Pathibhara Devi (Nepali: पाथिभरा देवी मन्दिर) or Mukkumlung (as mentioned in Mundhum of Limbu people) is one of the most significant temples in Nepal, located on the hill of Taplejung. It is also considered one of the ho",
+   "author": "Callmesankey",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:DSCN9369_edited.jpg"
+  }
+ ],
  "place:badimalika": [
   {
    "file": "File:Badimalika Temple, Bajura, Nepal.jpg",
@@ -13753,7 +14944,73 @@
   }
  ],
  "exp:bardia-tharu-village-homestay": [],
- "place:dullu": [],
+ "place:dullu": [
+  {
+   "file": "File:Dullu Kunitha, Dollina pada ಡೊಳ್ಳು ಕುಣಿತ, ಡೊಳ್ಳಿನ ಪದ 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_01.jpg/1920px-Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4096,
+   "height": 2304,
+   "landscape": true,
+   "description": "Dullu Kunitha, Dollina pada",
+   "author": "Santhosh Notagar99",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Dullu_Kunitha,_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4,_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_01.jpg"
+  },
+  {
+   "file": "File:Dullu Kunitha, Dollina pada ಡೊಳ್ಳು ಕುಣಿತ, ಡೊಳ್ಳಿನ ಪದ 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_03.jpg/1920px-Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4096,
+   "height": 2304,
+   "landscape": true,
+   "description": "Dullu Kunitha, Dollina pada",
+   "author": "Santhosh Notagar99",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Dullu_Kunitha,_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4,_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6_03.jpg"
+  },
+  {
+   "file": "File:Dullu Kunitha, Dollina pada ಡೊಳ್ಳು ಕುಣಿತ, ಡೊಳ್ಳಿನ ಪದಗಳು 04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_04.jpg/1920px-Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4096,
+   "height": 2304,
+   "landscape": true,
+   "description": "Dollu Kunitha / Dollina Padagalu of North Karnataka",
+   "author": "Santhosh Notagar99",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Dullu_Kunitha,_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4,_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_04.jpg"
+  },
+  {
+   "file": "File:Dullu Kunitha, Dollina pada ಡೊಳ್ಳು ಕುಣಿತ, ಡೊಳ್ಳಿನ ಪದಗಳು 12.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_12.jpg/1920px-Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4096,
+   "height": 2304,
+   "landscape": true,
+   "description": "Dollu Kunitha / Dollina Padagalu of North Karnataka",
+   "author": "Santhosh Notagar99",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Dullu_Kunitha,_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4,_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_12.jpg"
+  },
+  {
+   "file": "File:Dullu Kunitha, Dollina pada ಡೊಳ್ಳು ಕುಣಿತ, ಡೊಳ್ಳಿನ ಪದಗಳು 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_03.jpg/1920px-Dullu_Kunitha%2C_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4%2C_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4096,
+   "height": 2304,
+   "landscape": true,
+   "description": "Dollu Kunitha / Dollina Padagalu of North Karnataka",
+   "author": "Santhosh Notagar99",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Dullu_Kunitha,_Dollina_pada_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81_%E0%B2%95%E0%B3%81%E0%B2%A3%E0%B2%BF%E0%B2%A4,_%E0%B2%A1%E0%B3%8A%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF%E0%B2%A8_%E0%B2%AA%E0%B2%A6%E0%B2%97%E0%B2%B3%E0%B3%81_03.jpg"
+  }
+ ],
  "exp:dullu-shirasthan-eternal-flame": [],
  "exp:dullu-panchakoshi-pilgrimage": [],
  "exp:dullu-prithvi-malla-pillar": [
@@ -13772,7 +15029,73 @@
   }
  ],
  "exp:dullu-dhuleshwar-temple": [],
- "place:ghodaghodi-tal": [],
+ "place:ghodaghodi-tal": [
+  {
+   "file": "File:Ghodaghodi Lake1.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ghodaghodi_Lake1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ghodaghodi_Lake1.JPG/1920px-Ghodaghodi_Lake1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4320,
+   "height": 3240,
+   "landscape": true,
+   "description": "Ghodaghodi Lake in Nepal (view from the west)",
+   "author": "Ganesh Paudel",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghodaghodi_Lake1.JPG"
+  },
+  {
+   "file": "File:Ghodaghodi Tal .jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ghodaghodi_Tal_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ghodaghodi_Tal_.jpg/1920px-Ghodaghodi_Tal_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "Ghodaghodi Tal Ghodaghodi Lake",
+   "author": "Hopingyousuf",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghodaghodi_Tal_.jpg"
+  },
+  {
+   "file": "File:Ghodaghodi Tal,.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ghodaghodi_Tal%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ghodaghodi_Tal%2C.jpg/1920px-Ghodaghodi_Tal%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "Ghodaghodi Lake",
+   "author": "Hopingyousuf",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghodaghodi_Tal,.jpg"
+  },
+  {
+   "file": "File:Ghodaghodi tal,.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ghodaghodi_tal%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ghodaghodi_tal%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1920,
+   "height": 1080,
+   "landscape": true,
+   "description": "Ghodaghodi Lake",
+   "author": "Hopingyousuf",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghodaghodi_tal,.jpg"
+  },
+  {
+   "file": "File:Ghodaghodi Tal, Kanchanpur.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ghodaghodi_Tal%2C_Kanchanpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ghodaghodi_Tal%2C_Kanchanpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1920,
+   "height": 1080,
+   "landscape": true,
+   "description": "Ghodaghodi Tal, Kanchanpur",
+   "author": "Hopingyousuf",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ghodaghodi_Tal,_Kanchanpur.jpg"
+  }
+ ],
  "exp:ghodaghodi-lakeshore-birding-walk": [
   {
    "file": "File:Ghoda ghodi lake, Kailali.JPG",
@@ -14121,7 +15444,73 @@
   }
  ],
  "exp:khaptad-trek-from-bajhang": [],
- "place:limi-valley": [],
+ "place:limi-valley": [
+  {
+   "file": "File:Namkha Rural Municipality.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Namkha_Rural_Municipality.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Namkha_Rural_Municipality.jpg/1920px-Namkha_Rural_Municipality.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3043,
+   "height": 2346,
+   "landscape": true,
+   "description": "Ward profiles of Namkha Rural Municipality",
+   "author": "Survey department of Nepal",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Namkha_Rural_Municipality.jpg"
+  },
+  {
+   "file": "File:Halji Monastery.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Halji_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Halji_Monastery.jpg/1920px-Halji_Monastery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2000,
+   "height": 1333,
+   "landscape": true,
+   "description": "This is a photo of a monument in Nepal identified by the ID",
+   "author": "Wang Lama",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Halji_Monastery.jpg"
+  },
+  {
+   "file": "File:Limi Valley Humla.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Limi_Valley_Humla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Limi_Valley_Humla.jpg/1920px-Limi_Valley_Humla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5639,
+   "height": 3344,
+   "landscape": true,
+   "description": "This Picture was shot at the Tatopani, Limi Valley. Truck is owned by Kul Chering . He was the first person to buy vehicle from China and use it for the transportation of goods from China to Nepal at Limi valley.",
+   "author": "Sabin Adhikari",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Limi_Valley_Humla.jpg"
+  },
+  {
+   "file": "File:Limi valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Limi_valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Limi_valley.jpg/1920px-Limi_valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2448,
+   "height": 1596,
+   "landscape": true,
+   "description": "plant to ID",
+   "author": "Tsewang Lama",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Limi_valley.jpg"
+  },
+  {
+   "file": "File:Kid in Limi Valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kid_in_Limi_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kid_in_Limi_Valley.jpg/1920px-Kid_in_Limi_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3736,
+   "height": 5838,
+   "landscape": false,
+   "description": "",
+   "author": "Sabin Adhikari",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kid_in_Limi_Valley.jpg"
+  }
+ ],
  "exp:limi-halji-rinchenling-gonpa": [],
  "exp:limi-lapcha-la-kailash-view": [
   {
@@ -14251,7 +15640,73 @@
  "exp:ramaroshan-kinimini-patan": [],
  "exp:ramaroshan-rhododendron-forest-trail": [],
  "exp:ramaroshan-api-saipal-sunrise": [],
- "place:rara-lake": [],
+ "place:rara-lake": [
+  {
+   "file": "File:Rara lake, Mugu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rara_lake%2C_Mugu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rara_lake%2C_Mugu.jpg/1920px-Rara_lake%2C_Mugu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 3233,
+   "landscape": true,
+   "description": "An astonishing vista",
+   "author": "Aadesh Baniya",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rara_lake,_Mugu.jpg"
+  },
+  {
+   "file": "File:Rara Lake in winter.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Rara_Lake_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Rara_Lake_in_winter.jpg/1920px-Rara_Lake_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3456,
+   "height": 2304,
+   "landscape": true,
+   "description": "Rara lake is known for its unique diversity and aquatic life, which evolved in isolation and its the biggest lake in Nepal. Some Consider it to be the most beautiful lake in Nepal .",
+   "author": "Anuppanthi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rara_Lake_in_winter.jpg"
+  },
+  {
+   "file": "File:Rara National Park - Murma Top.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Rara_National_Park_-_Murma_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Rara_National_Park_-_Murma_Top.jpg/1920px-Rara_National_Park_-_Murma_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5184,
+   "height": 3456,
+   "landscape": true,
+   "description": "Rara Lake seen from Murma Top, Rara National Park, Nepal",
+   "author": "Dipalmalla",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rara_National_Park_-_Murma_Top.jpg"
+  },
+  {
+   "file": "File:Rara reflection.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Rara_reflection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Rara_reflection.jpg/1920px-Rara_reflection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5312,
+   "height": 2988,
+   "landscape": true,
+   "description": "",
+   "author": "Lucky192009",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rara_reflection.jpg"
+  },
+  {
+   "file": "File:Fishes in Rara.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Fishes_in_Rara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Fishes_in_Rara.jpg/1920px-Fishes_in_Rara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2760,
+   "height": 4912,
+   "landscape": false,
+   "description": "Fishes visible in the clear water of Rara Lake, Nepal",
+   "author": "Redpandamoon",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fishes_in_Rara.jpg"
+  }
+ ],
  "exp:rara-lake-shore-circuit": [],
  "exp:rara-murma-top-sunrise": [
   {
@@ -14573,7 +16028,73 @@
   }
  ],
  "exp:simikot-town-ridge-walk": [],
- "place:sinja-valley": [],
+ "place:sinja-valley": [
+  {
+   "file": "File:Narakot Sinja Valley.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Narakot_Sinja_Valley.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Narakot_Sinja_Valley.JPG/1920px-Narakot_Sinja_Valley.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4435,
+   "height": 2956,
+   "landscape": true,
+   "description": "This is a photo of a natural site in Nepal identified by the ID",
+   "author": "Soraj Shahi",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Narakot_Sinja_Valley.JPG"
+  },
+  {
+   "file": "File:Sinja Valley,Jumla.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sinja_Valley%2CJumla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sinja_Valley%2CJumla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1538,
+   "height": 708,
+   "landscape": true,
+   "description": "Sinja Valley,Jumla",
+   "author": "Bharat Bandhu Thapa 1",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sinja_Valley,Jumla.jpg"
+  },
+  {
+   "file": "File:Sinja Valley in Winter.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sinja_Valley_in_Winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sinja_Valley_in_Winter.jpg/1920px-Sinja_Valley_in_Winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 6000,
+   "height": 4000,
+   "landscape": true,
+   "description": "The snowcapped forest lying above the beautiful village of Jumla, Nepal. This valley is the origin place of the current Nepali language 'Khas Bhasa'.",
+   "author": "asoqpathak",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sinja_Valley_in_Winter.jpg"
+  },
+  {
+   "file": "File:Sinja Valley, Karnali.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sinja_Valley%2C_Karnali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Sinja_Valley%2C_Karnali.jpg/1920px-Sinja_Valley%2C_Karnali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3264,
+   "height": 2448,
+   "landscape": true,
+   "description": "The Sinja Valley is located in the Jumla District in Karnali Province, of Nepal. The valley houses the ancient capital city of the Khasas that ruled this area from the 12th to the 14th Century. Palaces, temples, and the ",
+   "author": "Punyapaudel",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sinja_Valley,_Karnali.jpg"
+  },
+  {
+   "file": "File:A View of Sinja Valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/A_View_of_Sinja_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_View_of_Sinja_Valley.jpg/1920px-A_View_of_Sinja_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2760,
+   "height": 4912,
+   "landscape": false,
+   "description": "A view of Sinja Valley in Jumla on the way to Mugu.",
+   "author": "Redpandamoon",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_View_of_Sinja_Valley.jpg"
+  }
+ ],
  "exp:sinja-kanakasundari-temple-visit": [],
  "exp:sinja-khasa-stone-pillars-walk": [
   {
@@ -14867,7 +16388,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:Mustang-Jhong-Hoehle-20-Waerterin-gje.jpg"
   }
  ],
- "place:dho-tarap": [],
+ "place:dho-tarap": [
+  {
+   "file": "File:Dho village Dolpa.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dho_village_Dolpa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Dho_village_Dolpa.JPG/1920px-Dho_village_Dolpa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2560,
+   "height": 1920,
+   "landscape": true,
+   "description": "Dho Village, Dolpa, Nepal",
+   "author": "Anguillazz",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dho_village_Dolpa.JPG"
+  },
+  {
+   "file": "File:Chorten Dolpo Dho-Tarap-valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Chorten_Dolpo_Dho-Tarap-valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chorten_Dolpo_Dho-Tarap-valley.jpg/1920px-Chorten_Dolpo_Dho-Tarap-valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4752,
+   "height": 3168,
+   "landscape": true,
+   "description": "Chorten in the Dho-Tarap valley, in the Dolpo district",
+   "author": "Timothée Flutre",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chorten_Dolpo_Dho-Tarap-valley.jpg"
+  },
+  {
+   "file": "File:Dho 2017-04-30 view-from-outside.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dho_2017-04-30_view-from-outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Dho_2017-04-30_view-from-outside.jpg/1920px-Dho_2017-04-30_view-from-outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3648,
+   "height": 2432,
+   "landscape": true,
+   "description": "View of Dho, in the Dolpo district",
+   "author": "Timothée Flutre",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dho_2017-04-30_view-from-outside.jpg"
+  },
+  {
+   "file": "File:Crystal Mountain School, Dho Tarap region, Nepal. - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Crystal_Mountain_School%2C_Dho_Tarap_region%2C_Nepal._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Crystal_Mountain_School%2C_Dho_Tarap_region%2C_Nepal._-_panoramio.jpg/1920px-Crystal_Mountain_School%2C_Dho_Tarap_region%2C_Nepal._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1936,
+   "height": 1296,
+   "landscape": true,
+   "description": "Crystal Mountain School, Dho Tarap region, Nepal.",
+   "author": "Sergey Pashko",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crystal_Mountain_School,_Dho_Tarap_region,_Nepal._-_panoramio.jpg"
+  },
+  {
+   "file": "File:Dho Tarap Valley.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Dho_Tarap_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Dho_Tarap_Valley.jpg/1920px-Dho_Tarap_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4368,
+   "height": 2912,
+   "landscape": true,
+   "description": "Dho Tarap Valley",
+   "author": "::ErWin",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dho_Tarap_Valley.jpg"
+  }
+ ],
  "exp:dho-tarap-gompas-of-two-faiths": [],
  "exp:dho-tarap-tarap-khola-gorge-trek": [],
  "exp:dho-tarap-numa-la-baga-la-crossing": [],
@@ -15769,7 +17356,73 @@
    "source": "https://commons.wikimedia.org/wiki/File:ACAP_Tiji_Monks.jpg"
   }
  ],
- "place:lubra": [],
+ "place:lubra": [
+  {
+   "file": "File:Lubra's Lookout.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lubra%27s_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Lubra%27s_Lookout.jpg/1920px-Lubra%27s_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 5616,
+   "height": 3744,
+   "landscape": true,
+   "description": "This is a photo of a cultural heritage monument of Australia with id: Lookout is a flat topped rocky outcrop mountain located 5 kms south of Renner Springs. A climb to the top takes approximately 15 minutes and gives you",
+   "author": "Sue McArthur",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lubra%27s_Lookout.jpg"
+  },
+  {
+   "file": "File:Non-Lubra VSRG 22-12-2013.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Non-Lubra_VSRG_22-12-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/19/Non-Lubra_VSRG_22-12-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1419,
+   "height": 1892,
+   "landscape": false,
+   "description": "Rose 'non-Lubra' Hybrid Tea climber previously thought to be by Olive Fitzhardinge 1938; photographed in the Victoria State Rose Garden, Werribee Park, Victoria",
+   "author": "Eric Timewell",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Non-Lubra_VSRG_22-12-2013.jpg"
+  },
+  {
+   "file": "File:Non-Lubra Werribee 12-1-2014 1705.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Non-Lubra_Werribee_12-1-2014_1705.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Non-Lubra_Werribee_12-1-2014_1705.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1536,
+   "height": 2048,
+   "landscape": false,
+   "description": "Rose 'non-Lubra', Hybrid Tea climber previously thought to be by Olive Fitzhardinge 1938; photographed in the Victoria State Rose Garden, Werribee, Victoria",
+   "author": "Eric Timewell",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Non-Lubra_Werribee_12-1-2014_1705.jpg"
+  },
+  {
+   "file": "File:Lubra Morwell 2-3-2014 2034.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lubra_Morwell_2-3-2014_2034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lubra_Morwell_2-3-2014_2034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1284,
+   "height": 1712,
+   "landscape": false,
+   "description": "Rose 'Lubra', Hybrid Tea by Fitzhardinge 1938; photographed in the Morwell Centenary Rose Garden, Morwell, Victoria",
+   "author": "Eric Timewell",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lubra_Morwell_2-3-2014_2034.jpg"
+  },
+  {
+   "file": "File:Lubra Morwell 31-1-2015 4057.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Lubra_Morwell_31-1-2015_4057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Lubra_Morwell_31-1-2015_4057.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1427,
+   "height": 1903,
+   "landscape": false,
+   "description": "Rose 'Lubra', Hybrid Tea by Fitzhardinge 1938; photographed in the Morwell Centenary Rose Garden, Morwell, Victoria",
+   "author": "Eric Timewell",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lubra_Morwell_31-1-2015_4057.jpg"
+  }
+ ],
  "exp:lubra-bon-monastery-visit": [
   {
    "file": "File:Narshi Gonpa Ngawa Sichuan China.jpg",
@@ -16734,7 +18387,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:Shinta_Mani_Mustang.jpg"
   }
  ],
- "stay:oms-home-jomsom": [],
+ "stay:oms-home-jomsom": [
+  {
+   "file": "File:BOUDHANATH.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/BOUDHANATH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/BOUDHANATH.jpg/1920px-BOUDHANATH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 4032,
+   "height": 3024,
+   "landscape": true,
+   "description": "In Nepali language, the stupa is most often called Boudhanath, “the Lord of Awakening,” for the monument is said to radiate the very energy of the Buddha's fully awakened mind. Boudhanath also called Boudha is a stupa in",
+   "author": "Shubhamta",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:BOUDHANATH.jpg"
+  }
+ ],
  "stay:red-house-lodge-kagbeni": [
   {
    "file": "File:Red House Lodge, Kagbeni (4560847408).jpg",
@@ -16817,7 +18484,47 @@
    "source": "https://commons.wikimedia.org/wiki/File:ACAP_Tiji_Monks.jpg"
   }
  ],
- "fest:yartung-festival": [],
+ "fest:yartung-festival": [
+  {
+   "file": "File:Horsemen ride during Yartung Festival.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Horsemen_ride_during_Yartung_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Horsemen_ride_during_Yartung_Festival.jpg/1920px-Horsemen_ride_during_Yartung_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3322,
+   "height": 2215,
+   "landscape": true,
+   "description": "The local people of Upper Mustang, known as Lhobas, celebrate the end of the a good crop season with 3-day horse racing festival. This photograph is leaving the village of Ghami for higher pasture land where festivities ",
+   "author": "RiverMountainPhoto",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Horsemen_ride_during_Yartung_Festival.jpg"
+  },
+  {
+   "file": "File:Lopa.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lopa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Lopa.jpg/1920px-Lopa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 3888,
+   "height": 2592,
+   "landscape": true,
+   "description": "Lopa's at Yartung Festival",
+   "author": "Boerniefischer",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lopa.jpg"
+  },
+  {
+   "file": "File:Honored guest with, khata (ceremonial white scarf) and tea with lid at Yartung Festival of Mustang, Nepal on 18 August 2008 (cropped).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Honored_guest_with%2C_khata_%28ceremonial_white_scarf%29_and_tea_with_lid_at_Yartung_Festival_of_Mustang%2C_Nepal_on_18_August_2008_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Honored_guest_with%2C_khata_%28ceremonial_white_scarf%29_and_tea_with_lid_at_Yartung_Festival_of_Mustang%2C_Nepal_on_18_August_2008_%28cropped%29.jpg/1920px-Honored_guest_with%2C_khata_%28ceremonial_white_scarf%29_and_tea_with_lid_at_Yartung_Festival_of_Mustang%2C_Nepal_on_18_August_2008_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 2008,
+   "height": 2512,
+   "landscape": false,
+   "description": "Lopa's at Yartung Festival",
+   "author": "Boerniefischer",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Honored_guest_with,_khata_(ceremonial_white_scarf)_and_tea_with_lid_at_Yartung_Festival_of_Mustang,_Nepal_on_18_August_2008_(cropped).jpg"
+  }
+ ],
  "fest:shey-festival": [],
  "blog:dal-bhat-and-the-teahouse-menu-at-altitude": [
   {
