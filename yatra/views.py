@@ -460,7 +460,16 @@ def old_policy(request, page):
 def static_page(request, page):
     titles = {"about": "About us", "privacy": "Privacy", "terms": "Terms"}
     items, bc = crumbs((titles[page], request.path))
-    return render(request, f"yatra/{page}.html", {"crumbs": items, "counts": catalogue().counts(), "ld": ld(bc)})
+    cat = catalogue()
+    ctx = {"crumbs": items, "counts": cat.counts(), "ld": ld(bc)}
+    if page == "about":
+        want = ["namaste", "bistarai", "khata", "dhanyabad"]
+        by_word = {w["word"].lower(): w for w in cat.words}
+        ctx.update({"about_words": [by_word[k] for k in want if k in by_word],
+                    "regions": list(cat.regions.values()),
+                    "hero": cat.regions["everest-khumbu"], "tea": cat.regions["pokhara-annapurna"],
+                    "newar": cat.regions["kathmandu-valley"]})
+    return render(request, f"yatra/{page}.html", ctx)
 
 
 def faq(request):
