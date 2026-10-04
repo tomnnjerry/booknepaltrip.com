@@ -30,7 +30,6 @@
           <li><a href="{% url 'journeys' %}">{% icon "arrow" %}Every trip</a></li></ul></div>
         <div class="promise" data-land="kathmandu-valley">{% contours "promise" 6 %}<p class="eyebrow foil-text">Our promise</p><h3 class="h-s">No payment to start</h3><p>Tell us roughly what you want. A planner sends a first plan, the sleeping height of every night and an itemised price within one working day.</p><a class="btn btn--foil btn--sm" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="mega-plan">Start planning</a></div>
       </div>
-      <div><p class="mega__h">Planners' picks</p><div class="mega__picks">{% for j in nav_popular|slice:":3" %}<a class="mpick" href="{{ j.url }}">{% with i=j|first_img %}{% if i %}<img src="{{ i|src:500 }}" alt="" loading="lazy">{% endif %}{% endwith %}<b>{{ j.title }}</b><small>{{ j.nights }} nights · from {{ j.price_from_usd|usd }}</small></a>{% endfor %}</div></div>
     </div></div>
   </div>
   <div class="nav__drop"><button type="button" aria-expanded="false" aria-haspopup="true">Experiences</button>

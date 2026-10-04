@@ -87,8 +87,6 @@
 {% block cta %}{% include "yatra/partials/cta.html" %}{% endblock %}
 
 <footer class="foot">
-  {% contours "footer" 12 %}
-  <span class="foot__glow foot__glow--a" aria-hidden="true"></span><span class="foot__glow foot__glow--b" aria-hidden="true"></span>
   <div class="lungta lungta--paper" aria-hidden="true" style="background:transparent"><div class="lungta__row">{% for i in "x"|rjust:"120" %}<i></i>{% endfor %}</div></div>
   <div class="wrap">
     <div class="foot__top">
@@ -154,7 +152,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
-<script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js" defer></script>
 {% block scripts %}{% endblock %}
 <script src="{% static 'js/lokta.js' %}?v={{ V }}" defer></script>
 </body>
