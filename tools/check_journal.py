@@ -45,6 +45,9 @@ for f in files:
     if d["slug"] in seen:
         errors.append(f"{w}: duplicate slug")
     seen.add(d["slug"])
+    for k, pool in known.items():
+        if d["slug"] in pool:
+            errors.append(f"{w}: slug clashes with a {k} slug")
     for k in ("title", "category", "date", "regions", "meta_description", "summary", "sections", "faqs", "cta"):
         if not d.get(k):
             errors.append(f"{w}: missing {k}")
