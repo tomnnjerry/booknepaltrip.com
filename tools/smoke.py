@@ -15,7 +15,7 @@ urls = []
 for cls in SITEMAPS.values():
     sm = cls()
     urls += [sm.location(i) for i in sm.items()]
-urls += ["/sitemap.xml", "/robots.txt", "/llms.txt", "/does-not-exist/"]
+urls += ["/sitemap.xml", "/robots.txt", "/ads.txt", "/llms.txt", "/does-not-exist/"]
 bad = 0
 for u in urls:
     try:

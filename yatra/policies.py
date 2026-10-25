@@ -111,7 +111,7 @@ POLICIES["privacy"] = {
             "When you enquire: your name, email, phone number and the details of the journey you describe. When you book: passport details and dates of birth where hotels, permits or airlines require them, dietary and health notes you choose to share, and payment records. When you subscribe to our letter: your email address.",
         ]),
         ("How we use it", [
-            "To reply to your enquiry, plan and book your journey, look after you while you travel, keep accounting records and, if you subscribed, send our monthly letter. We do not use your data for advertising profiles.",
+            "To reply to your enquiry, plan and book your journey, look after you while you travel, keep accounting records and, if you subscribed, send our monthly letter. We do not build advertising profiles ourselves; the ads on this website are served by Google (see below).",
         ]),
         ("Who we share it with", [
             "Only the suppliers who provide a service you booked (hotels, lodges, airlines, national parks and permit offices, the Department of Immigration for restricted-area permits, drivers and guides) and our accountants and payment providers. Some are outside Nepal; we share only what each one needs.",
@@ -123,7 +123,7 @@ POLICIES["privacy"] = {
             "You can ask to see, correct or delete your personal data, or withdraw consent for our letter, by writing to [PRIVACY EMAIL]. We reply within [30] days. Nepal's Individual Privacy Act, 2075 (2018) also protects your personal data; you may contact the person responsible for data at [NAME, EMAIL]. If you live in the EU or UK, you may also complain to your local data protection authority.",
         ]),
         ("This website", [
-            "The site sets a security cookie for its forms and no advertising cookies. It loads fonts from Google Fonts, scripts from cdnjs and unpkg, and photographs from Wikimedia, and those services see your IP address when your browser requests their files. Our maps are drawn on our own server, with no map service. See the cookie policy for details.",
+            "The site sets a security cookie for its forms. It shows ads served by Google AdSense: third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites, and Google's use of advertising cookies lets it and its partners show you ads based on those visits. You can turn off personalised advertising in Google's Ads Settings (https://www.google.com/settings/ads) or opt out of other vendors' cookies at https://www.aboutads.info. It loads fonts from Google Fonts, scripts from cdnjs and unpkg, and photographs from Wikimedia, and those services see your IP address when your browser requests their files. Our maps are drawn on our own server, with no map service. See the cookie policy for details.",
         ]),
     ],
 }
@@ -131,13 +131,16 @@ POLICIES["privacy"] = {
 POLICIES["cookies"] = {
     "title": "Cookie policy",
     "nav": "Cookies",
-    "summary": "This website uses one essential cookie to protect its forms. It uses no advertising or tracking cookies unless we add analytics, in which case this page will list them.",
+    "summary": "This website uses one essential cookie to protect its forms, and Google sets advertising cookies to show the ads you see here. You can turn off personalised ads in Google's Ads Settings.",
     "sections": [
         ("Essential", [
             "csrftoken: set by our website software to protect forms from cross-site attacks. Expires after one year. Contains no personal data.",
         ]),
         ("Stored in your browser", [
             "If you close the small planning prompt on guide pages, your browser remembers that for the rest of the visit (session storage) so we do not show it again. Nothing is sent to us.",
+        ]),
+        ("Advertising", [
+            "This website shows ads served by Google AdSense. Google and its partners set cookies (such as __gads, __gpi and IDE) to show ads, limit how often you see them and measure them, and may use your visits to this and other websites to choose ads for you. You can turn off personalised ads in Google's Ads Settings (https://www.google.com/settings/ads), and read how Google uses data at https://policies.google.com/technologies/partner-sites. [If you serve visitors in the EU, UK or Switzerland, enable a Google-certified consent message in AdSense before these cookies are set.]",
         ]),
         ("Analytics", [
             "[If you enable Google Analytics 4, list its cookies here (_ga, _ga_*) and add a consent banner before setting them.]",

@@ -500,6 +500,14 @@ def robots(request):
     return HttpResponse(body, content_type="text/plain")
 
 
+def ads_txt(request):
+    client = getattr(settings, "ADSENSE_CLIENT", "")
+    if not client:
+        raise Http404
+    body = f"google.com, {client.removeprefix('ca-')}, DIRECT, f08c47fec0942fa0\n"
+    return HttpResponse(body, content_type="text/plain")
+
+
 def llms(request):
     cat = catalogue()
     lines = [f"# {settings.SITE['name']}", "",

@@ -53,6 +53,7 @@ persistent volume for the database.
 | `BNT_HOURS` | Office hours line in the contact panel |
 | `BNT_LICENCE`, `BNT_MEMBERSHIPS`, `BNT_PAYMENTS` | Trust line in the footer (hidden while empty) |
 | `BNT_GA4` | Google Analytics 4 ID; nothing loads while empty (add a consent banner if you set it) |
+| `BNT_ADSENSE` | Google AdSense publisher ID (`ca-pub-…`); loads the AdSense script and serves `/ads.txt`. Set it empty to turn ads off |
 | `BNT_NOTIFY_EMAIL` | Where new enquiries are emailed (comma-separated) |
 | `EMAIL_HOST`, `EMAIL_PORT`, `EMAIL_HOST_USER`, `EMAIL_HOST_PASSWORD`, `EMAIL_USE_TLS`, `DEFAULT_FROM_EMAIL` | SMTP for those emails |
 | `BNT_DB_PATH` | SQLite file location |
